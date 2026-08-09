@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 67,
+  "translation": "Untuk sang dirigen, dengan permainan gesek. Mizmor, sebuah nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk sang dirigen"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "dengan permainan gesek"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sebuah nyanyian"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:22.102335961Z",
+  "model": "glm-5.2"
+}

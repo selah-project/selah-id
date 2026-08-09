@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Janganlah engkau memakan sesuatu yang merupakan kekejian.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "engkau memakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sesuatu"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kekejian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:50.399890861Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan dalam bulan yang kedua, pada hari kedua puluh tujuh ⟨bulan⟩ itu, bumi itu telah menjadi kering.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "dan dalam bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "pada tujuh"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dan dua puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "telah menjadi kering"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:42.641639082Z",
+  "model": "glm-5.2"
+}

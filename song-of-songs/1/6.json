@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 1:6",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Jangan pandang aku, bahwa aku hitam kelam, ⟨karena⟩ matahari telah membakar aku; anak-anak ibuku menjadi marah terhadapku, mereka menempatkan aku sebagai penjaga ⟨את⟩ kebun-kebun anggur — kebun anggurku sendiri tidak aku jaga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תראוני",
+      "gloss": "kalian pandang aku"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "bahwa aku"
+    },
+    {
+      "surface": "שחרחרת",
+      "gloss": "hitam kelam"
+    },
+    {
+      "surface": "ששזפתני",
+      "gloss": "telah membakar aku"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "menjadi marah"
+    },
+    {
+      "surface": "בי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "mereka menempatkan aku"
+    },
+    {
+      "surface": "נטרה",
+      "gloss": "sebagai penjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebun-kebun anggur"
+    },
+    {
+      "surface": "הכרמים",
+      "gloss": "kebun-kebun anggur"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "kebun anggurku"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "sendiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נטרתי",
+      "gloss": "aku jaga"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:16.016249004Z",
+  "model": "glm-5.2"
+}

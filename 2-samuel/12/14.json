@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "„Hanya, karena engkau telah menista musuh-musuh Yahweh dengan perkataan ini, juga anak yang lahir bagimu pasti akan mati.\"",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "menista"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "engkau telah menista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuh-musuh Yahweh"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dengan perkataan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "yang lahir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti mati"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akan mati"
+    }
+  ],
+  "timestamp": "2026-08-08T07:56:07.296184964Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Tinggikanlah ⟨Diri-Mu⟩ di atas langit, Elohim; di atas seluruh bumi kemuliaan-Mu.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "tinggikanlah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kemuliaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:10.399201547Z",
+  "model": "glm-5.2"
+}

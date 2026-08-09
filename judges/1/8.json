@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu bani Yehudah berperang melawan Yerushalayim dan merebut ⟨את⟩nya, dan mereka memukulnya dengan ujung pedang, dan ⟨את⟩ kota itu mereka bakar dengan api.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Lalu berperang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "melawan Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dan merebut"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩nya",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "dan mereka memukulnya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dengan ujung"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "mereka menyala(kan)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-08-09T01:40:15.382662289Z",
+  "model": "glm-5.2"
+}

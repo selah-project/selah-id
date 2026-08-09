@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 86,
+  "translation": "Hadapilah aku, dan kasihanilah aku; berikanlah kekuatan-Mu kepada hamba-Mu, dan selamatkanlah anak dari hamba-sahaya-Mu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Hadapilah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "dan kasihanilah"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kekuatan-Mu"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kepada hamba-Mu"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "dan selamatkanlah"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "anak dari"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "hamba-sahaya-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:11.021893670Z",
+  "model": "glm-5.2"
+}

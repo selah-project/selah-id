@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Bagian seperti bagian mereka harus ia makan, terlepas dari ⟨yang berasal⟩ dari penjualannya ⟨di⟩ ⟨lingkungan⟩ bapa-bapa.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "seperti bagian"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mereka makan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "terlepas dari"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "penjualannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "bapa-bapa"
+    }
+  ],
+  "timestamp": "2026-08-08T07:29:00.957783665Z",
+  "model": "glm-5.2"
+}

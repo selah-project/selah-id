@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Pada hari keenam ⟨⟨ datanglah ⟩⟩ nasi suku bani Gad, Elyasaf bin Deuel.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "keenam"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pemimpin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuk bani"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-08-08T07:15:28.756472728Z",
+  "model": "glm-5.2"
+}

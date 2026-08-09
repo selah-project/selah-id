@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu 'Atalya mendengar ⟨את⟩ suara para pemburu dan rakyat, dan ⟨ia⟩ datang kepada rakyat di bait Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "lalu mendengar"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "'Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "para pemburu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dan rakyat"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:11:33.486362695Z",
+  "model": "glm-5.2"
+}

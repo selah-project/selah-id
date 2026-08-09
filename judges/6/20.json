@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu berkatalah kepadanya malakh ha-Elohim, “Ambillah ⟨את⟩ daging itu dan ⟨את⟩ roti tak beragi itu, dan letakkanlah di atas batu karang ini, dan ⟨את⟩ kuah itu, tuangkanlah.” Maka ia berbuat demikian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malakh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ambillah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging itu"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "roti tak beragi itu"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti tak beragi itu"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "dan letakkanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kuah itu"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "kuah itu"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "tuangkanlah"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Maka ia berbuat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    }
+  ],
+  "timestamp": "2026-08-08T10:51:49.350526720Z",
+  "model": "glm-5.2"
+}

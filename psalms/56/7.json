@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Mereka menginap-ilahi, mereka menyembunyikan diri, mereka mengawasi jejakku — seperti yang mereka nantikan ⟨untuk⟩ napasku.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "mereka menginap-ilahi"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "mereka menyembunyikan diri"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "jejakku"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "mereka mengawasi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "mereka nantikan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:18.265078950Z",
+  "model": "glm-5.2"
+}

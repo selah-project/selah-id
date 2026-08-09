@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan mereka menaruh ⟨את⟩ aron Yahweh ke atas kereta itu, dan ⟨את⟩ peti itu, dan ⟨את⟩ tikus-tikus emas, dan ⟨את⟩ gambaran tumor-tumor mereka.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "dan mereka menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kereta itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "peti itu"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "peti itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tikus-tikus emas"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "tikus-tikus"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "gambaran tumor-tumor mereka"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "gambaran"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "tumor-tumor mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T12:14:29.592387065Z",
+  "model": "glm-5.2"
+}

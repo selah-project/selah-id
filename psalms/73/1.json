@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Mizmor bagi Asaf: sungguh, baik bagi Yisrael ⟨⟨adalah⟩⟩ Elohim, bagi yang bersih hati.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bagi Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "bagi yang bersih"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:49.648853757Z",
+  "model": "glm-5.2"
+}

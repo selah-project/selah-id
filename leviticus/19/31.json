@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Janganlah kamu berpaling kepada para arwah, dan kepada para tukang tenung janganlah kamu mencari, untuk menjadi najis karena mereka; Akulah Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "kamu berpaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "para arwah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "para tukang tenung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "kamu mencari"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "untuk menjadi najis"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "karena mereka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:03.375387031Z",
+  "model": "glm-5.2"
+}

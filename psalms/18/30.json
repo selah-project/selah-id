@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Sebab dengan-Mu aku menyerbu pasukan, dan dengan Elohaimku aku melompati tembok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dengan-Mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "menyerbu"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "dan dengan Elohaimku"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "melompati"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tembok"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:47.649883815Z",
+  "model": "glm-5.2"
+}

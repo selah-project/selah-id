@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨ia⟩ melapisi ⟨את⟩ kerubim itu dengan emas.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "dan ia melapisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubim itu"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-08T08:02:55.957895349Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Zabad memperanakkan ⟨את⟩ Eflal, dan Eflal memperanakkan ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Dan Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "dan Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:51.157594998Z",
+  "model": "glm-5.2"
+}

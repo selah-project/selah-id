@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Elohim membuat ⟨את⟩ cakrawala, dan memisahkan antara air yang di bawah cakrawala dan antara air yang di atas cakrawala; dan jadilah demikian.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu membuat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cakrawala"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "cakrawala"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "dan memisahkan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "cakrawala"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "cakrawala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:56.109791483Z",
+  "model": "glm-5.2"
+}

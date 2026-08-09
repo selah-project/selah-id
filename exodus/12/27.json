@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Maka kamu akan menjawab: 'Korban Paskah ⟨itu⟩ bagi Yahweh, yang melompati rumah-rumah bani Yisrael di Mitsrayim ketika ia memukul ⟨את⟩ Mitsrayim, dan ⟨את⟩ rumah-rumah kami diselamatkan-Nya.' Lalu bangsa itu membungkuk dan sujud.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Maka kamu akan menjawab"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Korban"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "melompati"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "ketika memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah-rumah kami"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "rumah-rumah kami"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "diselamatkan-Nya"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "Lalu membungkuk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dan sujud"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:58.906100615Z",
+  "model": "glm-5.2"
+}

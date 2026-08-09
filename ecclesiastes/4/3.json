@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan lebih baik dari kedua-duanya ⟨ialah⟩ ⟨את⟩ dia yang belum pernah ada, yang tidak melihat ⟨את⟩ perbuatan jahat yang dilakukan di bawah matahari.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Dan lebih baik"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "dari kedua-duanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia yang belum pernah ada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sampai saat ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "pernah ada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perbuatan jahat"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:37.374465094Z",
+  "model": "glm-5.2"
+}

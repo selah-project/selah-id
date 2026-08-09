@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan Yoav berperang melawan Rabbat bani Amon, dan merebut ⟨את⟩ kota kerajaan itu.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "Dan berperang"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "melawan Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dan merebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota kerajaan itu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kerajaan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:48.209562064Z",
+  "model": "glm-5.2"
+}

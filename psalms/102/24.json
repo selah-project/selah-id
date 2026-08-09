@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Ia telah merendahkan kekuatanku di tengah jalan, Ia telah memperpendek hari-hariku;",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Ia telah merendahkan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di tengah jalan"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "Ia telah memperpendek"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hariku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:46.223538541Z",
+  "model": "glm-5.2"
+}

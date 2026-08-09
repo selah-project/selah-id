@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Maka bergoyanglah dan berguncanglah bumi, dan pondasi gunung-gunung bergetar; dan mereka terguncang, karena ⟨api⟩ murka menyala bagi ⟨diri⟩-Nya.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "maka bergoyanglah"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "dan berguncanglah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "dan pondasi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bergetar"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "dan mereka terguncang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "murka menyala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:58.974737693Z",
+  "model": "glm-5.2"
+}

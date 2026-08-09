@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan seorang laki-laki, apabila keluar dari padanya pemendaran benih, maka ia harus mencuci dalam air ⟨את⟩ seluruh tubuhnya, dan ia tuma sampai matahari terbenam.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dan seorang laki-laki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "pemendaran"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan ia harus mencuci"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh tubuhnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tubuhnya"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan ia tuma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "matahari terbenam"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:28.190014866Z",
+  "model": "glm-5.2"
+}

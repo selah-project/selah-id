@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Engkau, engkaulah rajaku, Elohim; perintahkanlah keselamatan-keselamatan ⟨bagi⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajaku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "perintahkanlah"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "keselamatan-keselamatan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:36.826399535Z",
+  "model": "glm-5.2"
+}

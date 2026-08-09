@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Noach mulai, seorang petani tanah, dan ia menanami kebun anggur.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Dan mulai"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "petani tanah"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "dan ia menanami"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebun anggur"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:27.627486824Z",
+  "model": "glm-5.2"
+}

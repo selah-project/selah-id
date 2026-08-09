@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Terpuji ⟨adalah⟩ Yahweh, Elohim-nya Yisra'el, dari selamanya dan sampai selamanya. Amin, dan amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-nya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "dari selamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "selamanya"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "dan amin"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:00.092873186Z",
+  "model": "glm-5.2"
+}

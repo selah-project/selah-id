@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Maka ⟨ia memutarkan⟩ tabut Yahweh mengelilingi ⟨את⟩ kota itu satu kali keliling, lalu perkemahan itu masuk dan bermalam di perkemahan itu.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "dan memutarkan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "keliling"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kali"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "perkemahan itu"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "dan bermalam"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di perkemahan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:49:07.833459248Z",
+  "model": "glm-5.2"
+}

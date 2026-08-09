@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Bermegahlah dalam nama kekudusan-Nya; bersukarialah hati ⟨mereka yang⟩ mencari Yahweh.",
+  "tokens": [
+    {
+      "surface": "הִֽ֭תְהַלְלוּ",
+      "gloss": "bermegahlah"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "קָדְשׁ֑וֹ",
+      "gloss": "kekudusan-Nya"
+    },
+    {
+      "surface": "יִ֝שְׂמַ֗ח",
+      "gloss": "bersukarialah"
+    },
+    {
+      "surface": "לֵ֤ב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֬י",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:43.699162300Z",
+  "model": "glm-5.2"
+}

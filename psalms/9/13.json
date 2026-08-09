@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Sebab Dia yang menuntut ⟨את⟩ darah, mengingat ⟨mereka⟩; tidak dilupakan ⟨-Nya⟩ jeritan orang-orang yang tertindas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "menuntut"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mengingat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "dilupakan"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "jeritan"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "orang-orang yang tertindas"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:07.724708377Z",
+  "model": "glm-5.2"
+}

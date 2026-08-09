@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "yang bersih tangannya dan yang murni hatinya, yang tidak mengangkat ⟨ke⟩ kesia-siaan napasku, dan yang tidak bersumpah ⟨kepada⟩ tipu daya.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "yang bersih"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "dan yang murni"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "⟨ke⟩ kesia-siaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan yang tidak"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "bersumpah"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "⟨kepada⟩ tipu daya"
+    }
+  ],
+  "timestamp": "2026-08-08T18:39:11.578745702Z",
+  "model": "glm-5.2"
+}

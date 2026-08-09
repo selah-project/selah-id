@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lalu Kalev berkata: 'Siapa yang memukul ⟨את⟩ Qiryat-Sefer dan merebutnya, kepadanya aku akan memberi ⟨את⟩ Akhsah putriku menjadi istri.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Siapa yang"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "dan merebutnya"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "aku akan memberi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsah"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "putriku"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi istri"
+    }
+  ],
+  "timestamp": "2026-08-08T07:36:32.333320659Z",
+  "model": "glm-5.2"
+}

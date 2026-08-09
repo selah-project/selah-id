@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Banyak orang berkata, “Siapakah yang akan memperlihatkan kebaikan kepada kami?” Angkatlah atas kami terang wajah-Mu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "banyak orang"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "akan memperlihatkan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atas kami"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:29.846628094Z",
+  "model": "glm-5.2"
+}

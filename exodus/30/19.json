@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "dan harus membasuh Aharon dan putra-putranya dari padanya ⟨את⟩ tangan mereka dan ⟨את⟩ kaki mereka.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "dan harus membasuh"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dan putra-putranya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kaki mereka"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kaki mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:27.376754511Z",
+  "model": "glm-5.2"
+}

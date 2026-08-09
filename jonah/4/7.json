@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Elohim menetapkan ⟨sebuah⟩ ulat pada naiknya fajar keesokan harinya, dan ⟨ulat itu⟩ memukul ⟨את⟩ ⟨tanaman⟩ qiqayon, lalu ⟨tanaman itu⟩ layu.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Dan menetapkan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "pada naiknya"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "keesokan harinya"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiqayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qiqayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "dan layu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:33:06.462774835Z",
+  "model": "glm-5.2"
+}

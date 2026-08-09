@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "dan ia datang dan memukul ⟨את⟩ negeri Mitsrayim: yang untuk kematian, kepada kematian; dan yang untuk pembuangan, kepada pembuangan; dan yang untuk pedang, kepada pedang.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "dan ia datang"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuk kematian"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kepada kematian"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "untuk pembuangan"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "kepada pembuangan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "untuk pedang"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kepada pedang"
+    }
+  ],
+  "timestamp": "2026-08-08T08:40:56.891257928Z",
+  "model": "glm-5.2"
+}

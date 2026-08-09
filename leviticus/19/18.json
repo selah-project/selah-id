@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Janganlah engkau menuntut balas, dan janganlah engkau menyimpan dendam terhadap ⟨את⟩ anak-anak bangsamu, tetapi kasihilah engkau mengasihi sesamamu seperti dirimu sendiri; aku ⟨adalah⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "engkau menuntut balas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "engkau menyimpan dendam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak bangsamu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsamu"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "tetapi kasihilah engkau mengasihi"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti dirimu sendiri"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:05.605890554Z",
+  "model": "glm-5.2"
+}

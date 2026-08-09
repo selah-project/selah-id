@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Pada satu hari di seluruh wilayah raja Achashverosh, pada tanggal tiga belas bulan kedua belas — ⟨itulah⟩ bulan Adar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "wilayah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "pada tanggal tiga"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itulah"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:52:27.665562510Z",
+  "model": "glm-5.2"
+}

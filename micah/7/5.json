@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Jangan percaya kepada ⟨seorang⟩ sahabat, janganlah bersandar kepada ⟨seorang⟩ akrab; dari ⟨yang⟩ mendekam di pangkuanmu jagalah pintu-pintu mulutmu.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תַּאֲמִ֣ינוּ",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בְרֵ֔עַ",
+      "gloss": "kepada sahabat"
+    },
+    {
+      "surface": "אַֽל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תִּבְטְח֖וּ",
+      "gloss": "bersandar"
+    },
+    {
+      "surface": "בְּאַלּ֑וּף",
+      "gloss": "kepada akrab"
+    },
+    {
+      "surface": "מִשֹּׁכֶ֣בֶת",
+      "gloss": "dari mendekam"
+    },
+    {
+      "surface": "חֵיקֶ֔ךָ",
+      "gloss": "di pangkuanmu"
+    },
+    {
+      "surface": "שְׁמֹ֖ר",
+      "gloss": "jagalah"
+    },
+    {
+      "surface": "פִּתְחֵי",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "פִֽיךָ",
+      "gloss": "mulutmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:55.179512328Z",
+  "model": "glm-5.2"
+}

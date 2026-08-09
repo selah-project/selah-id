@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Orang-orang sombong telah menggali perangkap ⟨bagi⟩ku, yang tidak sesuai dengan torat-Mu.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "telah menggali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨bagi⟩ku"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "orang-orang sombong"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "perangkap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "sesuai dengan torat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:57.735732345Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan terjadilah ⟨bahwa⟩ hujan itu turun ke atas bumi empat puluh hari dan empat puluh malam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "dan empat puluh"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:10.470488592Z",
+  "model": "glm-5.2"
+}

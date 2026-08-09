@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Engkau menjadikan kami ⟨sebagai⟩ perselisihan bagi tetangga-tetangga kami, dan musuh-musuh kami mengolok-olok kami.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Engkau menjadikan kami"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "perselisihan"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "bagi tetangga-tetangga kami"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "dan musuh-musuh kami"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "mengolok-olok"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:13.561602616Z",
+  "model": "glm-5.2"
+}

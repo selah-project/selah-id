@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Singa tua binasa karena tak ada mangsa, dan anak-anak singa betina berpencar.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "singa tua"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "karena tak ada"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "singa betina"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "berpencar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:06.858150291Z",
+  "model": "glm-5.2"
+}

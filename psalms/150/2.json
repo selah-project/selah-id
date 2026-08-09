@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 150,
+  "translation": "Pujilah Dia ⟨karena⟩ keperkasaan-keperkasaan-Nya, pujilah Dia sesuai kelimpahan kebesaran-Nya.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah Dia"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "⟨karena⟩ keperkasaan-keperkasaan-Nya"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah Dia"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sesuai kelimpahan"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kebesaran-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:38.775686125Z",
+  "model": "glm-5.2"
+}

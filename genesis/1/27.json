@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka Elohim menciptakan ⟨את⟩ manusia dalam gambar-Nya; dalam gambar Elohim ⟨Ia⟩ menciptakan ⟨את⟩-nya; laki-laki dan perempuan ⟨Ia⟩ menciptakan ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Maka menciptakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "dalam gambar-Nya"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dalam gambar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "menciptakan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "laki-laki dan perempuan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "dan perempuan"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "menciptakan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "laki-laki dan perempuan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:58.751075406Z",
+  "model": "glm-5.2"
+}

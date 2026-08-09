@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jika dalam terowongan ⟨pembobolan⟩ itu ditemukan ⟨הגנב⟩ sang pencuri dan dipukul serta mati, tidak ada baginya ⟨דמים⟩ darah.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "dalam terowongan ⟨pembobolan⟩"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ditemukan"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "sang pencuri"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "dan dipukul"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "serta mati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:57.799843017Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 96,
+  "translation": "Bersukarialah langit, dan bersorak-sorailah bumi; bergemuruhlah laut dan segala kepenuhannya.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "bersukarialah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "dan bersorak-sorailah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "bergemuruhlah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan segala kepenuhannya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:50.138352636Z",
+  "model": "glm-5.2"
+}

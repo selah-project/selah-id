@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Sebelum aku ditindas, aku tersesat, tetapi sekarang aku telah menjaga firman-Mu.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "Sebelum"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "aku ditindas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "tersesat"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tetapi sekarang"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "aku telah menjaga"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:25.216812786Z",
+  "model": "glm-5.2"
+}

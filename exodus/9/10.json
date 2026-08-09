@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan mereka mengambil ⟨את⟩ jelaga perapian dan berdiri di hadapan Paroh, dan Moshe melemparkannya ke arah langit, dan terjadilah bisul ⟨gelembung⟩ yang meletup pada manusia dan pada hewan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Dan mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jelaga perapian"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "jelaga"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "perapian"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dan berdiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "dan ia melemparkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "jelaga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ke arah langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "bisul"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "gelembung"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "yang meletup"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pada manusia"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "dan pada hewan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:51.051723698Z",
+  "model": "glm-5.2"
+}

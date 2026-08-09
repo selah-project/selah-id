@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 4:37",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨dia⟩ masuk dan jatuh pada kaki-⟨nya⟩ dan bersujud ke tanah, dan ⟨dia⟩ mengangkat ⟨את⟩ anaknya dan keluar.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-⟨nya⟩"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "dan bersujud"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "dan keluar"
+    }
+  ],
+  "timestamp": "2026-08-08T12:16:29.423675377Z",
+  "model": "glm-5.2"
+}

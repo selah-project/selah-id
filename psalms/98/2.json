@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 98,
+  "translation": "Yahweh telah memberitahukan keselamatan-Nya; di depan mata bangsa-bangsa ⟨Ia⟩ telah menyatakan kebenaran-Nya.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "telah memberitahukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "keselamatan-Nya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di depan mata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "⟨Ia⟩ telah menyatakan"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kebenaran-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:23.241721635Z",
+  "model": "glm-5.2"
+}

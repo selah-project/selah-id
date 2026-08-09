@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Mengapakah Engkau telah menerobos pagar-pagar-nya, sehingga semua orang yang lewat di jalan memetik dia?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mengapakah"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "Engkau telah menerobos"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "pagar-pagar-nya"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "dan memetik dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "yang lewat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:30.716084423Z",
+  "model": "glm-5.2"
+}

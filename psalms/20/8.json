@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Ini ⟨di⟩ kereta, dan ini ⟨di⟩ kuda, tetapi kami akan mengingat nama Yahweh, Elohim kami.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "⟨di⟩ kereta"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "dan ini"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "⟨di⟩ kuda"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tetapi kami"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "akan mengingat nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "⟨kami akan mengingat⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:19.046020236Z",
+  "model": "glm-5.2"
+}

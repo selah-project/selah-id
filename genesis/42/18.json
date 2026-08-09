@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Lalu Yosef berkata kepada mereka pada hari ketiga: “Lakukanlah hal ini dan kamu akan hidup — ⟨את⟩ Elohim aku takuti.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Lakukanlah"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "dan kamu akan hidup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuti"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:48.300680991Z",
+  "model": "glm-5.2"
+}

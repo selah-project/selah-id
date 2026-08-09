@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Terdiamkanlah oleh sebab rasa malu mereka, yang berkata kepadaku, “Hah! Hah!”",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "terdiamkanlah"
+    },
+    {
+      "surface": "על",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "(imbalan)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "rasa malu mereka"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "האח",
+      "gloss": "“Hah!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hah!”"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:34.801797290Z",
+  "model": "glm-5.2"
+}

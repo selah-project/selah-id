@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Penjaga perintah tidak akan mengetahui hal jahat, dan waktu serta keadilan akan diketahui oleh hati orang bijak.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "penjaga"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "akan mengetahui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hal"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "serta keadilan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:18.726418320Z",
+  "model": "glm-5.2"
+}

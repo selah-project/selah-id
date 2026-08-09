@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Maka aku berkata: “Lihat, aku datang; dalam gulungan kitab tertulis tentang aku.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "aku datang"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "dalam gulungan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "tertulis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tentang aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:34.490829406Z",
+  "model": "glm-5.2"
+}

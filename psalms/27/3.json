@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Jika pasukan berkemah melawanku, tidak akan takut hatiku; jika perang bangkit melawanku, dalam hal ini aku percaya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "berkememah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "melawanku"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "akan takut"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "melawanku"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "dalam hal ini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "percaya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:39.645269683Z",
+  "model": "glm-5.2"
+}

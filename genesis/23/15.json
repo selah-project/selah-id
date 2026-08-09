@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "“Tuan ⟨ku⟩, dengarkanlah aku: tanah ⟨ itu⟩ empat ratus syekel silver; di antaraku dan di antara-engkau, apa ⟨ itu⟩? Dan mayatmu, kuburkanlah.”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Tuan ⟨ku⟩"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "dengarkanlah aku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di antaraku"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "dan di antara-engkau"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mayatmu"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "mayatmu"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kuburkanlah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:47:29.135302405Z",
+  "model": "glm-5.2"
+}

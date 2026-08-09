@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Nachshon memperanakkan ⟨את⟩ Salma, dan Salma memperanakkan ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Dan Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "dan Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:51.086738128Z",
+  "model": "glm-5.2"
+}

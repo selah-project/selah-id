@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Lalu mereka berkurang dan tertunduk, ⟨karena⟩ tekanan, kejahatan, dan kesedihan.",
+  "tokens": [
+    {
+      "surface": "וַיִּמְעֲט֥וּ",
+      "gloss": "dan mereka berkurang"
+    },
+    {
+      "surface": "וַיָּשֹׁ֑חוּ",
+      "gloss": "dan tertunduk"
+    },
+    {
+      "surface": "מֵעֹ֖צֶר",
+      "gloss": "tekana"
+    },
+    {
+      "surface": "רָעָ֣ה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "וְיָגֽוֹן",
+      "gloss": "dan kesedihan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:57.966882070Z",
+  "model": "glm-5.2"
+}

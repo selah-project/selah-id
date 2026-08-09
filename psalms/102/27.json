@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Mereka akan binasa, tetapi Engkau akan berdiri, dan semuanya seperti pakaian akan usang; seperti busana Engkau akan menggantikan mereka, dan mereka akan berlalu.",
+  "tokens": [
+    {
+      "surface": "הֵ֤מָּה",
+      "gloss": "Mereka"
+    },
+    {
+      "surface": "יֹאבֵדוּ֮",
+      "gloss": "akan binasa"
+    },
+    {
+      "surface": "וְאַתָּ֪ה",
+      "gloss": "tetapi Engkau"
+    },
+    {
+      "surface": "תַ֫עֲמֹ֥ד",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "וְכֻלָּ֣ם",
+      "gloss": "dan semuanya"
+    },
+    {
+      "surface": "כַּבֶּ֣גֶד",
+      "gloss": "seperti pakaian"
+    },
+    {
+      "surface": "יִבְל֑וּ",
+      "gloss": "akan usang"
+    },
+    {
+      "surface": "כַּלְּב֖וּשׁ",
+      "gloss": "seperti busana"
+    },
+    {
+      "surface": "תַּחֲלִיפֵ֣ם",
+      "gloss": "Engkau akan menggantikan mereka"
+    },
+    {
+      "surface": "וְיַחֲלֹֽפוּ",
+      "gloss": "dan mereka akan berlalu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:52.369215275Z",
+  "model": "glm-5.2"
+}

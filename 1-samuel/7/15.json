@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan Shemu'el menghakimi ⟨את⟩ Yisra'el seluruh hari-hari kehidupannya.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dan menghakimi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "kehidupannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:46:08.737770563Z",
+  "model": "glm-5.2"
+}

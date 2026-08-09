@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "⟨kamu⟩ yang berdiri di rumah Yahweh, di pelataran rumah Elohim kami!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "yang berdiri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di pelataran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:37.281375800Z",
+  "model": "glm-5.2"
+}

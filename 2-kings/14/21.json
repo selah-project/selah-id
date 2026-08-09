@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu seluruh rakyat Yehudah mengambil ⟨את⟩ Azaryah — dan dia berusia enam belas tahun — dan mereka menobatkan dia sebagai raja menggantikan ayahnya Amatsyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Lalu ... mengambil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berusia"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "dan mereka menobatkan ... sebagai raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:18.579870749Z",
+  "model": "glm-5.2"
+}

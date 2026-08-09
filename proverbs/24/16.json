@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Sebab tujuh kali orang benar jatuh dan bangun kembali, tetapi orang-orang fasik terjatuh dalam keburukan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh kali"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "orang benar jatuh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "dan bangun kembali"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "tetapi orang-orang fasik"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "terjatuh"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "dalam keburukan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:39.970686830Z",
+  "model": "glm-5.2"
+}

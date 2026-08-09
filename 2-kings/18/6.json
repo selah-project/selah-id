@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan ia berpaut pada Yahweh, tidak menyimpang dari mengikuti Dia, dan ia menjaga perintah-perintah-Nya, yang diperintahkan Yahweh ⟨kepada⟩ ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "Dan ia berpaut"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pada Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "סר",
+      "gloss": "menyimpang"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "dari mengikuti Dia"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "dan ia menjaga"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "perintah-perintah-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:12:44.627893558Z",
+  "model": "glm-5.2"
+}

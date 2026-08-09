@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Akhv memanggil Obadyahu yang ⟨berkuasa⟩ atas istana; dan Obadyahu itu seorang yang sangat takut akan ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu memanggil"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "istana"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "dan Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨adalah⟩"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:29.220455227Z",
+  "model": "glm-5.2"
+}

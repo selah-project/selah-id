@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Adonai memberikan firman; pembawa-berita ⟨perempuan⟩ ⟨adalah⟩ pasukan yang besar.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "pembawa-berita ⟨perempuan⟩"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "besar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:10.718359521Z",
+  "model": "glm-5.2"
+}

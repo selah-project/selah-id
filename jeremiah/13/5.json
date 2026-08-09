@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Maka aku pergi dan menyembunyikannya di Perat, seperti yang Yahweh perintahkan kepadaku.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "maka aku pergi"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "dan menyembunyikannya"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "di Perat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "perintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku (objek langsung)"
+    }
+  ],
+  "timestamp": "2026-08-08T18:33:44.939514209Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Tidak ada yang kudus seperti Yahweh, sebab tidak ada selain engkau, dan tidak ada batu seperti Elohim kita.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tidak ada"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yang kudus"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "seperti Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "selain engkau"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "seperti Elohim kita"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:42.422907478Z",
+  "model": "glm-5.2"
+}

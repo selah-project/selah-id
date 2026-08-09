@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Elohim menamai ⟨את⟩ terang \"siang\", dan ⟨את⟩ kegelapan ia sebut \"malam\". Dan jadilah petang, dan jadilah pagi: hari satu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dan menamai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "dan kegelapan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ia sebut"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:34.931618003Z",
+  "model": "glm-5.2"
+}

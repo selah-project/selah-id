@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan sekarang napas kami kering, tidak ⟨ada⟩ apa pun, hanya man itu ⟨sajalah⟩ mata kami.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "napas kami"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "kering"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa pun"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sajalah⟩"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mata kami"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:46.373040587Z",
+  "model": "glm-5.2"
+}

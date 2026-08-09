@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan ⟨את⟩ Aharon dan ⟨את⟩ anak-anaknya engkau akan mengurapi, dan engkau akan menguduskan ⟨את⟩ mereka untuk menjadi imam bagi-Ku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "engkau akan mengurapi"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dan engkau akan menguduskan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuk menjadi imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:24.668524405Z",
+  "model": "glm-5.2"
+}

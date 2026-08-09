@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Terkutuklah engkau di kota dan terkutuklah engkau di ladang.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "terkutuklah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "dan terkutuklah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:47.700286305Z",
+  "model": "glm-5.2"
+}

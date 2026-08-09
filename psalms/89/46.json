@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Engkau telah memperpendek hari-hari masa mudanya; Engkau telah menutupinya dengan rasa malu. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "Engkau telah memperpendek"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "masa mudanya"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "Engkau telah menutupi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "rasa malu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:16.520152845Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Di dalam Elohim kita akan melakukan keperkasaan, dan Dia-lah yang akan menginjak-injak para penyesak kami.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Di dalam Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kita akan melakukan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "keperkasaan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan Dia-lah"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "yang akan menginjak-injak"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "para penyesak kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:51.441912836Z",
+  "model": "glm-5.2"
+}

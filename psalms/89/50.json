@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Di manakah hesed-hesed-Mu yang pertama, Adonai, yang Kausumpahkan kepada Daud dalam kesetiaan-Mu?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Di manakah"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-hesed-Mu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "yang Kausumpahkan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Daud"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "dalam kesetiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:57.542152927Z",
+  "model": "glm-5.2"
+}

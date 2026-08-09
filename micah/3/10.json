@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "yang membangun Tzion dengan darah, dan Yerushalayim dengan kejahatan.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "membangun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dengan darah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerushalayim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "dengan kejahatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:00:35.917356142Z",
+  "model": "glm-5.2"
+}

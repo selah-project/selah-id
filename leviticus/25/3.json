@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Enam tahun engkau akan menabur ladangmu, dan enam tahun engkau akan memangkas kebun anggurmu, dan engkau akan mengumpulkan ⟨את⟩ hasilnya;",
+  "tokens": [
+    {
+      "surface": "שֵׁ֤שׁ",
+      "gloss": "Enam"
+    },
+    {
+      "surface": "שָׁנִים֙",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "תִּזְרַ֣ע",
+      "gloss": "engkau akan menabur"
+    },
+    {
+      "surface": "שָׂדֶ֔ךָ",
+      "gloss": "ladangmu"
+    },
+    {
+      "surface": "וְשֵׁ֥שׁ",
+      "gloss": "dan enam"
+    },
+    {
+      "surface": "שָׁנִ֖ים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "תִּזְמֹ֣ר",
+      "gloss": "engkau akan memangkas"
+    },
+    {
+      "surface": "כַּרְמֶ֑ךָ",
+      "gloss": "kebun anggurmu"
+    },
+    {
+      "surface": "וְאָסַפְתָּ֖",
+      "gloss": "dan engkau akan mengumpulkan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hasilnya"
+    },
+    {
+      "surface": "תְּבוּאָתָֽהּ",
+      "gloss": "hasilnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:38:16.376302035Z",
+  "model": "glm-5.2"
+}

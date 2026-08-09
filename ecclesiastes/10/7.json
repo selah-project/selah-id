@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Aku telah melihat budak-budak di atas kuda, dan pembesar-pembesar berjalan seperti budak-budak di atas bumi.",
+  "tokens": [
+    {
+      "surface": "רָאִ֥יתִי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "עֲבָדִ֖ים",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "סוּסִ֑ים",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "וְשָׂרִ֛ים",
+      "gloss": "dan pembesar-pembesar"
+    },
+    {
+      "surface": "הֹלְכִ֥ים",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "כַּעֲבָדִ֖ים",
+      "gloss": "seperti budak-budak"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:50.007505632Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 53,
+  "translation": "Untuk sang pemimpin ⟨musik⟩, sesuai Machalat, mashkil bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk sang pemimpin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sesuai"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mashkil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:39.252294664Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan kepada rakyat ini engkau akan mengatakan: Demikianlah kata Yahweh: Lihatlah, aku menaruh ⟨את⟩ di hadapan kamu ⟨את⟩ jalan kehidupan dan ⟨את⟩ jalan kematian.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "engkau akan mengatakan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aku menaruh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di hadapan kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan kehidupan dan jalan kematian"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jalan kematian"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kematian"
+    }
+  ],
+  "timestamp": "2026-08-08T08:34:56.543303067Z",
+  "model": "glm-5.2"
+}

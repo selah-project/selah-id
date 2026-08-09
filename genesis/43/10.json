@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Karena seandainya tidaklah kami berlambat, maka sungguh sekarang kami telah kembali dua kali ini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "seandainya tidak"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "kami berlambat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka sungguh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "kami telah kembali"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dua kali"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:43.534987902Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan Avram ⟨adalah⟩ sangat berat ⟨karena⟩ kepemilikan ternak, perak, dan emas.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "dan Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "berat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "dalam kepemilikan ternak"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dalam perak"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "dan dalam emas"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:15.447438561Z",
+  "model": "glm-5.2"
+}

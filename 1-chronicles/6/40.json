@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan mereka memberikan kepada mereka ⟨את⟩ Hevron di tanah Yehuda, dan ⟨את⟩ tanah-tanah penggembalaannya di sekelilingnya.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Dan mereka memberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah-tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah-tanah penggembalaannya"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "di sekelilingnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:05:09.877590263Z",
+  "model": "glm-5.2"
+}

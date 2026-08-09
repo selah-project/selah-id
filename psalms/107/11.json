@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "sebab mereka membangkang terhadap ucapan-ucapan El, dan nasihat Elyon mereka hinakan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "mereka membangkang"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "terhadap ucapan-ucapan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "dan nasihat"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "mereka hinakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:59.674297143Z",
+  "model": "glm-5.2"
+}

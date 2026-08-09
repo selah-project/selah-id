@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Memukul seorang ⟨את⟩ laki-laki sehingga mati — pastilah dihukum mati.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Memukul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sehingga mati"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pastilah dihukum mati"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:47.551227390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Maka jadilah segala hari Adam yang ia hidup sembilan ratus tahun dan tiga puluh tahun, dan ia mati.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ia hidup"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sembilan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan ia mati"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:52.291695808Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu Yoav bin Tseruyah mengetahui bahwa hati raja ⟨tertuju⟩ pada Avshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Lalu mengetahui"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tseruyah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "tertuju pada"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:29.511141491Z",
+  "model": "glm-5.2"
+}

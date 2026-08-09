@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan apa yang ⟨Ia⟩ lakukan kepadamu di padang gurun, sampai kalian datang ke tempat ini",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "dan apa yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Ia⟩ lakukan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "kalian datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:50.900361958Z",
+  "model": "glm-5.2"
+}

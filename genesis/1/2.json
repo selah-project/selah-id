@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan bumi ⟨adalah⟩ kekosongan dan kehampaan, dan kegelapan ⟨di⟩ atas muka samudera, dan roh Elohim melayang-layang di atas muka air.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Dan bumi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨adalah⟩"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kekosongan"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "dan kehampaan"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "dan kegelapan"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨di⟩ atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "samudera"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan roh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "melayang-layang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:58.802333243Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan juga para imam yang mendekati Yahweh, kuduslah mereka, supaya jangan Yahweh menerjang di antara mereka.”",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "yang mendekati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "kuduslah mereka"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "Ia menerjang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antara mereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:59:48.407821023Z",
+  "model": "glm-5.2"
+}

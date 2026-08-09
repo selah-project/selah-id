@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Mitsrayim memperanakkan ⟨את⟩ Ludim dan ⟨את⟩ Anamim dan ⟨את⟩ Lehavim dan ⟨את⟩ Naftukhim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Dan Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Lehavim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehavim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Naftukhim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftukhim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:38.356352383Z",
+  "model": "glm-5.2"
+}

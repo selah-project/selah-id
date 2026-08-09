@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 65,
+  "translation": "Untuk pemimpin ⟨musik⟩. Mizmor bagi Dawid. Nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:13.293344584Z",
+  "model": "glm-5.2"
+}

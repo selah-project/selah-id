@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan imam itu akan mengolah ⟨את⟩ korban penghapus dosa, dan mengadakan pendamaian atas orang yang menyucikan diri dari ketidakbersihannya; dan sesudah itu ia akan menyembelih ⟨את⟩ korban bakaran.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Dan akan mengolah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban penghapus dosa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban penghapus dosa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan mengadakan pendamaian"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "orang yang menyucikan diri"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "dari ketidakbersihannya"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan sesudah itu"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ia akan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    }
+  ],
+  "timestamp": "2026-08-08T10:36:59.386082440Z",
+  "model": "glm-5.2"
+}

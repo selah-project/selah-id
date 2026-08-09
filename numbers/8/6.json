@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Ambillah ⟨את⟩ orang-orang Lewi dari tengah-tengah bani Yisra'el, dan engkau harus menyucikan ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ambillah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "orang-orang Lewi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "dan engkau harus menyucikan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (orang-orang Lewi)"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:46.026954838Z",
+  "model": "glm-5.2"
+}

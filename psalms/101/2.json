@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 101,
+  "translation": "Aku mau berbijaksana dalam jalan yang sempurna — kapan Engkau akan datang kepadaku? — di dalam ketulusan hatiku aku akan berjalan, di tengah rumahku.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "aku mau berbijaksana"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dalam jalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yang sempurna"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "Engkau akan datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "aku akan berjalan"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "di dalam ketulusan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumahku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:22.737345077Z",
+  "model": "glm-5.2"
+}

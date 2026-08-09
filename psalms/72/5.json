@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 72,
+  "translation": "Biarkanlah mereka takut kepada-Mu bersama matahari, dan di hadapan bulan, angkatan demi angkatan.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "biarkanlah mereka takut kepada-Mu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "angkatan-angkatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:31.691777327Z",
+  "model": "glm-5.2"
+}

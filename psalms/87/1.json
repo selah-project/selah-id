@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 87,
+  "translation": "Untuk bani Korach. Mizmor, shir. Pendiriannya ⟨ada⟩ di gunung-gunung ⟨yang⟩ kudus.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "untuk bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "shir"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "pendiriannya"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "di gunung-gunung"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:33.528122391Z",
+  "model": "glm-5.2"
+}

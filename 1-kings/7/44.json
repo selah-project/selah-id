@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "dan ⟨את⟩ laut yang satu, dan ⟨את⟩ dua belas lembu di bawah laut itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lembu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-08T11:02:44.615325082Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Maka datanglah Yusuf kepada mereka pada pagi hari, dan melihat ⟨את⟩ mereka — dan lihat, mereka muram.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Maka datanglah"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi hari"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "muram"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:39.160231276Z",
+  "model": "glm-5.2"
+}

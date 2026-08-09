@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 1:42",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Selagi ia masih berbicara, sungguh, Yonatan ben Avyatar sang kohen datang, dan Adonijah berkata, “Masuklah, sebab engkau ⟨seorang⟩ pemberani, dan membawa kabar baik.”",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "Selagi ia masih"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Masuklah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨seorang⟩"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pemberani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "dan (kabar) baik"
+    },
+    {
+      "surface": "תבשר",
+      "gloss": "membawa kabar"
+    }
+  ],
+  "timestamp": "2026-08-08T08:00:32.303845331Z",
+  "model": "glm-5.2"
+}

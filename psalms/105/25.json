@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Ia membalikkan hati mereka untuk membenci umat-Nya, untuk berbuat tipu daya terhadap hamba-hamba-Nya.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Ia membalikkan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "untuk membenci"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "untuk berbuat tipu daya"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "terhadap hamba-hamba-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:02.165979288Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Aku berseru kepada Elohim Elyon, kepada El yang menyudahi ⟨perkara⟩ bagiku.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Aku berseru"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kepada El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "yang menyudahi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:35.829627733Z",
+  "model": "glm-5.2"
+}

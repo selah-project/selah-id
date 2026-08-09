@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Lalu berdirilah Pinekhas dan ia berdoa, maka tulah itu pun berhenti.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dan berdirilah"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinekhas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "dan ia berdoa"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "maka berhenti"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "tulah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:41.309625226Z",
+  "model": "glm-5.2"
+}

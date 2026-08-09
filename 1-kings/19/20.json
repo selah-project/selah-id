@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Lalu ditinggalkannyalah ⟨את⟩ lembu itu dan berlarilah ⟨dia⟩ setelah Eliyahu, lalu katanya: “Biarlah aku mencium ayahku dan ibuku, maka aku akan pergi mengikuti engkau.” Tetapi katanya kepadanya: “Pergilah, kembalilah, sebab apa yang kulakukan kepadamu?”",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Lalu ditinggalkannyalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu itu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "dan berlarilah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "Biarlah aku mencium"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "dan ibuku"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "maka aku akan pergi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "mengikuti engkau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Tetapi katanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yang kulakukan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:05:12.560353500Z",
+  "model": "glm-5.2"
+}

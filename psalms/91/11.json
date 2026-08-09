@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 91,
+  "translation": "Karena para malakh-Nya akan Dia perintahkan untuk engkau, untuk menjaga engkau di segala jalanmu.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "מַ֭לְאָכָיו",
+      "gloss": "para malakh-Nya"
+    },
+    {
+      "surface": "יְצַוֶּה",
+      "gloss": "Dia perintahkan"
+    },
+    {
+      "surface": "לָּ֑ךְ",
+      "gloss": "untuk engkau"
+    },
+    {
+      "surface": "לִ֝שְׁמָרְךָ֗",
+      "gloss": "untuk menjaga engkau"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "דְּרָכֶֽיךָ",
+      "gloss": "jalanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:10.105339480Z",
+  "model": "glm-5.2"
+}

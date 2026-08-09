@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu ia mengumpulkan ⟨את⟩ segala pemimpin Yisrael, dan ⟨את⟩ para imam, dan ⟨את⟩ orang-orang Lewi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Lalu ia mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala pemimpin Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pemimpin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "dan para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "dan orang-orang Lewi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:09:15.541408216Z",
+  "model": "glm-5.2"
+}

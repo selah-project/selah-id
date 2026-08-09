@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Karena sekarang mereka akan berkata, 'Tidak ada raja bagi kami,' karena tidak kita takuti ⟨את⟩ Yahweh; lalu sang raja, apakah yang akan diperbuatnya kepada kami?",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "יֹאמְרוּ",
+      "gloss": "mereka akan berkata"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יָרֵאנוּ",
+      "gloss": "kita takuti"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהֹוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְהַמֶּלֶךְ",
+      "gloss": "dan sang raja"
+    },
+    {
+      "surface": "מָה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "יַּעֲשֶׂה",
+      "gloss": "yang akan diperbuatnya"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "kepada kami"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:37.904254555Z",
+  "model": "glm-5.2"
+}

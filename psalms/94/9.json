@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Dia yang menanamkan telinga, tidakkah ⟨Ia⟩ mendengar? Atau yang membentuk mata, tidakkah ⟨Ia⟩ memandang?",
+  "tokens": [
+    {
+      "surface": "הֲנֹ֣טַֽע",
+      "gloss": "Dia yang menanamkan"
+    },
+    {
+      "surface": "אֹ֭זֶן",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "tidakkah"
+    },
+    {
+      "surface": "יִשְׁמָ֑ע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "אִֽם",
+      "gloss": "Atau"
+    },
+    {
+      "surface": "יֹ֥צֵֽר",
+      "gloss": "yang membentuk"
+    },
+    {
+      "surface": "עַ֝֗יִן",
+      "gloss": "mata"
+    },
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "tidakkah"
+    },
+    {
+      "surface": "יַבִּֽיט",
+      "gloss": "memandang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:08.319649045Z",
+  "model": "glm-5.2"
+}

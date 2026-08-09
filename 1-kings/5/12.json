@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan ia melisankan tiga ribu masyal, dan nyanyiannya lima ribu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan ia melisankan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "masyal"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ada"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyanyiannya"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:02:43.056600981Z",
+  "model": "glm-5.2"
+}

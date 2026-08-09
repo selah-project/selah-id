@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan mereka menyebabkan murka di air-air Merivah, dan menjadi buruk bagi Mosheh oleh karena mereka.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "dan mereka menyebabkan murka"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air-air"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merivah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "dan menjadi buruk"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "bagi Mosheh"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "oleh karena mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:41.309832402Z",
+  "model": "glm-5.2"
+}

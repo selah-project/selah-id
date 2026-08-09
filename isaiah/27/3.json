@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Aku, Yahweh, yang menjaganya; selalu kuberi minum, jangan sampai ada yang datang menyerangnya; siang dan malam aku menjaganya.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "menjaganya"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "selalu"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "kuberi minum"
+    },
+    {
+      "surface": "פן",
+      "gloss": "jangan sampai"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ada yang datang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "menyerangnya"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "dan siang"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "aku menjaganya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:45.455498378Z",
+  "model": "glm-5.2"
+}

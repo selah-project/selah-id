@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Perempan yang berkesan menopang kehormatan, tetapi orang-orang kejam menopang kekayaan.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "yang berkesan"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "menopang"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kehormatan"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "tetapi orang-orang kejam"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "menopang"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kekayaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:49.384481638Z",
+  "model": "glm-5.2"
+}

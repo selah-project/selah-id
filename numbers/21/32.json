@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Maka Moshe mengirim untuk mengintai ⟨את⟩ Yazer, dan mereka merebut anak-anak kota ⟨את⟩-nya, dan merampas ⟨את⟩ orang Amori yang di sana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "maka-⟨ia⟩-mengirim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "untuk-mengintai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dan-mereka-merebut"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "anak-anak-kota-nya"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "dan-merampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang-Amori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di-sana"
+    }
+  ],
+  "timestamp": "2026-08-08T07:20:36.968392901Z",
+  "model": "glm-5.2"
+}

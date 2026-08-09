@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 137,
+  "translation": "Jika aku melupakan engkau, hai Yerushalayim, biarlah melupakan tangan kananku,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "aku melupakan engkau"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "biarlah melupakan"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "tangan kananku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:27.841208912Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Di manakah, maka, orang-orang bijakmu? Dan biarlah mereka memberitahu kiranya kepadamu, dan biarlah mereka mengetahui apa yang telah dirancangkan Yahweh Tsevaot atas Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "di manakah"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "maka"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "orang-orang bijakmu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "dan biarlah mereka memberitahu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "dan biarlah mereka mengetahui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "yang telah dirancangkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T08:19:01.094528799Z",
+  "model": "glm-5.2"
+}

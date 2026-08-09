@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu berkatalah Mosheh kepada mertuanya, “Karena bangsa itu datang kepadaku untuk menanyakan ⟨kepada⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "kepada mertuanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "untuk menanyakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:59:42.988899516Z",
+  "model": "glm-5.2"
+}

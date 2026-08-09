@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Percayalah kepada Yahweh untuk selama-lamanya, karena dalam Yah, Yahweh ⟨adalah⟩ gunung batu zaman kekal.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "percayalah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "selama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "lamanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "dalam Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "gunung batu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "zaman kekal"
+    }
+  ],
+  "timestamp": "2026-08-08T08:20:51.257951040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Yahweh, batuku dan bentengku dan penyelamatku, Eiku, gunungku, ⟨padanya⟩ aku berlindung; perisaiku dan tanduk keselamatanku, perlindunganku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batuku"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "dan bentengku"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "dan penyelamatku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eiku"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "gunungku"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨padanya⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "perisaiku"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "dan tanduk"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "keselamatanku"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "perlindunganku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:21.398030846Z",
+  "model": "glm-5.2"
+}

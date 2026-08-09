@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lalu mereka berkata: \"Kamu tidak telah menindas kami dan tidak telah meremas kami, dan tidak telah kamu mengambil dari tangan seorang pun apa pun.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Lalu mereka berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "kamu telah menindas kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "kamu telah meremas kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kamu telah mengambil"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang pun"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apa pun"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:10.215973269Z",
+  "model": "glm-5.2"
+}

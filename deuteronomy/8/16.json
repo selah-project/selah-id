@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "yang memberi engkau makan man di padang gurun, yang tidak dikenal oleh nenek moyangmu—supaya merendahkan engkau dan supaya mencobai engkau, untuk berbuat baik kepadamu di akhir hidupmu.",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "yang memberi engkau makan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "dikenal"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "oleh nenek moyangmu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "merendahkan engkau"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dan supaya"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "mencobai engkau"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "untuk berbuat baik kepadamu"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "di akhir hidupmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:45:43.002720054Z",
+  "model": "glm-5.2"
+}

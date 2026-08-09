@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan ⟨ia⟩ berkata: “Terkutuklah Kenaan; budak para budak ⟨ialah⟩ ⟨ia⟩ bagi saudara-saudaranya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Terkutuklah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "budak"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para budak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ialah⟩"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "bagi saudara-saudaranya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:20.752739241Z",
+  "model": "glm-5.2"
+}

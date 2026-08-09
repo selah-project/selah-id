@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Waktu untuk mencari, dan waktu untuk membiarkan hilang; waktu untuk menjaga, dan waktu untuk melemparkan.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "untuk mencari"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "untuk membiarkan hilang"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "untuk menjaga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "untuk melemparkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:01.730366705Z",
+  "model": "glm-5.2"
+}

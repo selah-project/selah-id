@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "melainkan ke tanahku dan ke keluargaku engkau akan pergi, dan engkau akan mengambil seorang istri untuk anakku, untuk Yitskhak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tanahku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "keluargaku"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "engkau akan pergi"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau akan mengambil"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang istri"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuk anakku"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "untuk Yitskhak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:21:10.664163812Z",
+  "model": "glm-5.2"
+}

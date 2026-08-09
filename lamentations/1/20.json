@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lihatlah, Yahweh, sebab sesak padaku; isi perutku bergolak, terbalik hatiku di dalam diriku, sebab aku sangat memberontak; di luar pedang membuat kehilangan, di rumah seperti maut.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sesak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "padaku"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "isi perutku"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "bergolak"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "terbalik"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diriku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "aku memberontak"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "membuat kehilangan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "seperti maut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:47:59.648309275Z",
+  "model": "glm-5.2"
+}

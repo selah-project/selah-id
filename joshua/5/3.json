@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Maka Yehoshua membuatlah untuknya pisau-pisau batu api, lalu disunatnya ⟨את⟩ bani Yisrael di Bukit Aralot.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "maka membuatlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuknya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pisau-pisau"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "batu api"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "lalu disunatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Bukit"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Aralot"
+    }
+  ],
+  "timestamp": "2026-08-08T07:33:45.386454194Z",
+  "model": "glm-5.2"
+}

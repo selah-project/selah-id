@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan engkau akan membuat mezbah untuk membakar dupa; dari kayu shittim engkau akan membuat ⟨את⟩nya.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau akan membuat"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "untuk membakar"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau akan membuat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "dia (mezbah)"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:24.625859388Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Roti tidak kamu makan, dan anggur serta minuman keras tidak kamu minum, supaya kamu tahu bahwa Akulah Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "serta minuman keras"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "kamu minum"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "kamu tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:29.927827028Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Lalu Dawid memberkati ⟨את⟩ Yahweh di depan mata seluruh jemaah, dan berkatalah Dawid: “Diberkati ⟨engkau⟩, Yahweh, Elohim ⟨dari⟩ Yisra’el ayah kita, dari selama-lamanya dan sampai selama-lamanya.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "lalu memberkati"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di depan mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "diberkati"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨engkau⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨dari⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra’el"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ayah kita"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dari selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:10:32.373487361Z",
+  "model": "glm-5.2"
+}

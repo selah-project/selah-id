@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Yang mengirim firman-Nya ⟨ke⟩ bumi; segera firman-Nya berlari.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Yang mengirim"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "segera"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "segera"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "berlari"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firman-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:38.498446025Z",
+  "model": "glm-5.2"
+}

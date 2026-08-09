@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Penuah kasih dan penuh belas kasihan ⟨adalah⟩ Yahweh, lambat marah, dan besar hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "penuh kasih"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "dan penuh belas kasihan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lambat"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "marah"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "dan besar"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:17.473592819Z",
+  "model": "glm-5.2"
+}

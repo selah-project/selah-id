@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Tiang-tiang mereka dua puluh dan alas-alas mereka dua puluh tembaga; kait-kait tiang-tiang dan pengikat-pengikat mereka perak.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "tiang-tiang mereka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "dan alas-alas mereka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "kait-kait"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "dan pengikat-pengikat mereka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-08-08T07:05:11.929529601Z",
+  "model": "glm-5.2"
+}

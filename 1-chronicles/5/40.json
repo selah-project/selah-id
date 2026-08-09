@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Azaryah memperanakkan ⟨את⟩ Serayah, dan Serayah memperanakkan ⟨את⟩ Yehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "dan Azaryah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "dan Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:03:51.905797276Z",
+  "model": "glm-5.2"
+}

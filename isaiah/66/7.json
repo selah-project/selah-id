@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Sebelum ⟨dia⟩ bersakit, ⟨dia⟩ melahirkan; sebelum datang sakit baginya, dan ⟨dia⟩ melahirkan seorang anak laki-laki.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Sebelum"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "bersakit"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "seorang anak laki-laki"
+    }
+  ],
+  "timestamp": "2026-08-08T11:14:20.499788773Z",
+  "model": "glm-5.2"
+}

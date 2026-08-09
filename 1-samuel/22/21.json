@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Lalu Ebyatar memberitahukan kepada David bahwa Sha'ul telah membunuh ⟨את⟩ imam-imam Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitahukan"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "telah membunuh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imam-imam"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:57:14.015303953Z",
+  "model": "glm-5.2"
+}

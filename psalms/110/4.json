@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 110,
+  "translation": "Yahweh telah bersumpah dan tidak akan berubah pikiran: “Engkau ⟨adalah⟩ imam untuk selamanya, atas urutan Malki-Tsedek.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "telah bersumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "akan berubah pikiran"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "urutan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:19.649206895Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Hesed Yahweh aku nyanyikan selamanya, kepada generasi dan generasi aku bumikan ⟨ke dalam⟩ pengetahuan ⟨mengenai⟩ kesetiaan-Mu dengan mulutku.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selamanya"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku nyanyikan"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kepada generasi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dan generasi"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "aku bumikan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kesetiaan-Mu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dengan mulutku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:38.027055844Z",
+  "model": "glm-5.2"
+}

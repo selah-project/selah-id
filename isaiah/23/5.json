@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Saat kabar ⟨itu⟩ sampai kepada Mitsrayim, mereka merasa sakit; seperti kabar tentang Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "saat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kabar"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kepada Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "mereka merasa sakit"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "seperti kabar tentang"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-08-08T08:20:30.299492877Z",
+  "model": "glm-5.2"
+}

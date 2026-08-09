@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Apa yang kauketahui dan tidak kami ketahui? Apa yang kaupahami yang tidak ada pada kami?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kauketahui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kami ketahui"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "kaupahami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yang tidak"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "pada kami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ada"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:53.800077853Z",
+  "model": "glm-5.2"
+}

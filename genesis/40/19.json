@@ -1,0 +1,83 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "genesis 40:19",
+ "book": "genesis",
+ "lang": "id",
+ "chapter": 40,
+ "translation": "Dalam tiga hari lagi Paroh akan mengangkat ⟨את⟩ kepalamu daripadamu, dan menggantung ⟨את⟩ engkau di atas kayu, dan burung akan memakan ⟨את⟩ dagingmu daripadamu.",
+ "tokens": [
+  {
+   "surface": "בעוד",
+   "gloss": "dalam"
+  },
+  {
+   "surface": "שלשת",
+   "gloss": "tiga"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "hari"
+  },
+  {
+   "surface": "ישא",
+   "gloss": "akan mengangkat"
+  },
+  {
+   "surface": "פרעה",
+   "gloss": "Paroh"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kepalamu"
+  },
+  {
+   "surface": "ראשך",
+   "gloss": "kepalamu"
+  },
+  {
+   "surface": "מעליך",
+   "gloss": "daripadamu"
+  },
+  {
+   "surface": "ותלה",
+   "gloss": "dan menggantung"
+  },
+  {
+   "surface": "אותך",
+   "gloss": "⟨את⟩ engkau"
+  },
+  {
+   "surface": "על",
+   "gloss": "di atas"
+  },
+  {
+   "surface": "עץ",
+   "gloss": "kayu"
+  },
+  {
+   "surface": "ואכל",
+   "gloss": "dan akan memakan"
+  },
+  {
+   "surface": "העוף",
+   "gloss": "burung"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "dagingmu"
+  },
+  {
+   "surface": "בשרך",
+   "gloss": "dagingmu"
+  },
+  {
+   "surface": "מעליך",
+   "gloss": "daripadamu"
+  }
+ ],
+ "timestamp": "2026-08-09T01:44:17.461546310Z",
+ "model": "glm-5.2"
+}

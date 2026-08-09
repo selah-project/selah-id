@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Maka aku membenci, aku, ⟨את⟩ segala jerih lelahku yang aku perihat di bawah matahari, yang akan aku tinggalkan kepada manusia yang akan ada setelahku.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "maka aku membenci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala jerih lelahku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "jerih lelahku"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "yang aku"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "perihat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "yang akan aku tinggalkannya"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kepada manusia"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "yang akan ada"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelahku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:27.771807985Z",
+  "model": "glm-5.2"
+}

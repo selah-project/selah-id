@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan seluruh Yisrael dan Yehudah mengasihi ⟨את⟩ Dawid, sebab ⟨dia⟩ keluar dan masuk di depan mereka.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehudah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di depan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T12:14:24.462412955Z",
+  "model": "glm-5.2"
+}

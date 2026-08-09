@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Bibirku akan bersorak-sorai, sebab aku akan bermazmur bagi-Mu, dan jiwaku, yang telah Kautebus.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "akan bersorak-sorai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Bibirku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku akan bermazmur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi-Mu"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "dan jiwaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "telah Kautebus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:59.919010988Z",
+  "model": "glm-5.2"
+}

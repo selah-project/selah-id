@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Jika aku berbicara, penderitaanku tidak tertahan, dan jika aku berhenti, apa ⟨yang⟩ berlalu daripadaku?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "aku berbicara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "tertahan"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "penderitaanku"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "dan aku berhenti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "berlalu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:52:50.493373921Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Paroh memanggil Moshe dan berkata: \"Pergilah, beribadahlah kepada ⟨את⟩ Yahweh; hanya kambing dombamu dan sapimu harus tinggal; juga anak-anakmu boleh pergi bersama kamu.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu memanggil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "beribadahlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "kambing dombamu"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "dan sapimu"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "harus tinggal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "boleh pergi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bersama kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:20.441108584Z",
+  "model": "glm-5.2"
+}

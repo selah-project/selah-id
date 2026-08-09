@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Pada hari bulan pertama, pada hari pertama ⟨dari⟩ bulan itu, engkau akan mendirikan ⟨את⟩ Mishkan ⟨ה⟩ Ohel Moed.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pada satu"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bagi bulan"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "engkau akan mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:16.791629170Z",
+  "model": "glm-5.2"
+}

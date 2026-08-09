@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan ia menghakimi ⟨את⟩ Yisrael pada zaman orang-orang Pelishti dua puluh tahun.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Dan ia menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pada zaman"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelishti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-08-08T07:42:44.037333853Z",
+  "model": "glm-5.2"
+}

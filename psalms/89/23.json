@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Tidak akan menindas musuh terhadapnya, dan anak kelaliman tidak akan menekannya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akan menindas"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "dan anak"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kelaliman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "akan menekannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:27.543539992Z",
+  "model": "glm-5.2"
+}

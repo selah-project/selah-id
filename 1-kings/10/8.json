@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Berbahagialah orang-orangmu, berbahagialah hamba-hambamu ini, yang berdiri terus-menerus di hadapanmu, yang mendengar ⟨את⟩ hikmatmu!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "orang-orangmu"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hambamu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "yang berdiri"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-menerus"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "yang mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikmatmu"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikmatmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:57.149491158Z",
+  "model": "glm-5.2"
+}

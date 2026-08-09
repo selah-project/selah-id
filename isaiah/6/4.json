@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ambang pintu bergetar karena suara ⟨yang berseru⟩, dan rumah itu penuh asap.",
+  "tokens": [
+    {
+      "surface": "וַיָּנֻעוּ",
+      "gloss": "Dan bergetar"
+    },
+    {
+      "surface": "אַמּוֹת",
+      "gloss": "ambang pintu"
+    },
+    {
+      "surface": "הַסִּפִּים",
+      "gloss": "ambang"
+    },
+    {
+      "surface": "מִקּוֹל",
+      "gloss": "karena suara"
+    },
+    {
+      "surface": "הַקּוֹרֵא",
+      "gloss": "yang berseru"
+    },
+    {
+      "surface": "וְהַבַּיִת",
+      "gloss": "dan rumah itu"
+    },
+    {
+      "surface": "יִמָּלֵא",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "עָשָׁן",
+      "gloss": "asap"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:09.791303340Z",
+  "model": "glm-5.2"
+}

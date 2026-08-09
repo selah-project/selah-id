@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan berkatalah ia kepada mereka, “Aku melihat ⟨את⟩ wajah ayahmu, bahwa ia tidak ⟨bersikap⟩ kepadaku seperti kemarin ataupun sebelum kemarin; tetapi Elohim ayahku ada bersamaku.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "seperti kemarin"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ataupun sebelum kemarin"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "tetapi Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bersamaku"
+    }
+  ],
+  "timestamp": "2026-08-08T10:23:35.337749783Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Maka terjadilah kepadanya demikian, dan rakyat menginjak-injaknya di pintu gerbang, dan ia mati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "dan menginjak-injak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "sang syalish"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan ia mati"
+    }
+  ],
+  "timestamp": "2026-08-08T08:10:30.398757511Z",
+  "model": "glm-5.2"
+}

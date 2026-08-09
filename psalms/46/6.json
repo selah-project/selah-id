@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Elohim ⟨ada⟩ di tengah-tengahnya, ia tidak akan tergoyahkan; Elohim akan menolongnya menjelang pagi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "akan tergoyahkan"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "Ia akan menolongnya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "menjelang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-08-08T13:09:58.029382163Z",
+  "model": "glm-5.2"
+}

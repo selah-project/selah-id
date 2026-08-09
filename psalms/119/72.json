@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Baik bagiku torat mulut-Mu melebihi ribuan emas dan perak.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torat"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulut-Mu"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "melebihi ribuan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "dan perak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:40.315846292Z",
+  "model": "glm-5.2"
+}

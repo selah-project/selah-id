@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan kamu tidak boleh menajiskan ⟨את⟩ nama kekudusanku; dan aku akan dikuduskan di tengah-tengah bani Israel; aku ⟨adalah⟩ Yahweh yang menguduskan kamu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "kamu boleh menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama kekudusanku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kekudusanku"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "dan aku akan dikuduskan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "yang menguduskan kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:19.728504261Z",
+  "model": "glm-5.2"
+}

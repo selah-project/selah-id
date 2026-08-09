@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Apakah aku ⟨ini⟩ laut, atau tanin, bahwa Engkau menempatkan penjaga atasku?",
+  "tokens": [
+    {
+      "surface": "הֲֽיָם",
+      "gloss": "Apakah laut"
+    },
+    {
+      "surface": "אָ֭נִי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "atau"
+    },
+    {
+      "surface": "תַּנִּ֑ין",
+      "gloss": "tanin"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "תָשִׂ֖ים",
+      "gloss": "Engkau menempatkan"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "מִשְׁמָֽר",
+      "gloss": "penjaga"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:20.204187430Z",
+  "model": "glm-5.2"
+}

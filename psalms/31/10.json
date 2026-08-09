@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Tanjukkanlah kasih karunia kepadaku, Yahweh, sebab aku ⟨sedang⟩ dalam kesesakan; mataku menyusut karena kejengkelan, ⟨demikian juga⟩ nafsuku dan perutku.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "tunjukkanlah kasih karunia kepadaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "menyusut"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "karena kejengkelan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsuku"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "dan perutku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:19.856615708Z",
+  "model": "glm-5.2"
+}

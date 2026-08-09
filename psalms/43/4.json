@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Maka aku akan masuk ke mezbah Elohim, ke El ⟨yang adalah⟩ sukacitaku dan kegembiraanku; dan aku akan bersyukur kepada-Mu dengan kecapi, ya Elohim, Elohimku.",
+  "tokens": [
+    {
+      "surface": "וְאָב֤וֹאָה",
+      "gloss": "maka aku akan masuk"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מִזְבַּ֬ח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אֵל֮",
+      "gloss": "El"
+    },
+    {
+      "surface": "שִׂמְחַ֪ת",
+      "gloss": "sukacitaku"
+    },
+    {
+      "surface": "גִּ֫ילִ֥י",
+      "gloss": "kegembiraanku"
+    },
+    {
+      "surface": "וְאוֹדְךָ֥",
+      "gloss": "dan aku akan bersyukur kepada-Mu"
+    },
+    {
+      "surface": "בְכִנּ֗וֹר",
+      "gloss": "dengan kecapi"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהָֽי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:50.320671951Z",
+  "model": "glm-5.2"
+}

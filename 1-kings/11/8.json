@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan demikianlah ia berbuat untuk semua istrinya, ⟨yaitu⟩ ⟨perempuan-perempuan⟩ asing ⟨itu⟩, ⟨yang⟩ membakar ukupan dan mempersembahkan korban kepada elohim mereka.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Dan demikianlah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ia berbuat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuk semua"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "istrinya"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "asing"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "⟨yang⟩ membakar ukupan"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "dan mempersembahkan korban"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "kepada elohim mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T12:16:32.423174046Z",
+  "model": "glm-5.2"
+}

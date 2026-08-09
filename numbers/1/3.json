@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dari berumur dua puluh tahun dan ke atas, setiap orang yang keluar ⟨untuk⟩ tentara di Yisra'el — kamu harus mendaftarkan ⟨את⟩ mereka menurut pasukan-pasukan mereka, engkau dan Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Dari berumur"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "dan ke atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yang keluar"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨untuk⟩ tentara"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisra'el"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "kamu harus mendaftarkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "menurut pasukan-pasukan mereka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    }
+  ],
+  "timestamp": "2026-08-08T18:25:24.508570655Z",
+  "model": "glm-5.2"
+}

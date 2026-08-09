@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Puji-pujian kepada Yahweh akan diucapkan mulutku, dan biarlah segala makhluk bernafas memberkati nama kekudusan-Nya untuk selama-lamanya dan selamanya.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "akan diucapkan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan biarlah memberkati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "makhluk bernafas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kekudusan-Nya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:14.015164537Z",
+  "model": "glm-5.2"
+}

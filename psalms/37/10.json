@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan lagi sedikit waktu, dan ⟨tidak ada⟩ orang fasik, dan ⟨kau⟩menatap ⟨ke⟩ tempatnya, dan dia tidak ada.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "dan lagi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit waktu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan ⟨tidak ada⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "dan ⟨kau⟩menatap"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tempatnya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan dia tidak ada"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:59.100064913Z",
+  "model": "glm-5.2"
+}

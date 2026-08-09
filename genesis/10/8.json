@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan Kush memperanakkan ⟨את⟩ Nimrod; dia mulai menjadi seorang pahlawan di bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "dan Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mulai"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "seorang pahlawan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:33.801685656Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Ia duduk dalam persembunyian pekarahan; di tempat-tempat tersembunyi ia membunuh yang tidak bersalah; matanya mengintai secara sembunyi-sembunyi ⟨terhadap⟩ yang tidak berdaya.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Ia duduk"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "dalam persembunyian"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "pekarahan"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di tempat-tempat tersembunyi"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ia membunuh"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "yang tidak bersalah"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matanya"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "mengintai secara sembunyi-sembunyi"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "⟨terhadap⟩ yang tidak berdaya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:28.275442157Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Ashur tidak akan menyelamatkan kami, atas kuda tidaklah kita tunggangi, dan tidaklah kita katakan lagi, “Elohim kami,” kepada buatan tangan kami; sebab di dalam-Mu anak yatim menemukan kasih sayang.",
+  "tokens": [
+    {
+      "surface": "אַשּׁ֣וּר",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוֹשִׁיעֵ֗נוּ",
+      "gloss": "akan menyelamatkan kami"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "סוּס֙",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidaklah"
+    },
+    {
+      "surface": "נִרְכָּ֔ב",
+      "gloss": "kita tunggangi"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "dan tidaklah"
+    },
+    {
+      "surface": "נֹ֥אמַר",
+      "gloss": "kita katakan"
+    },
+    {
+      "surface": "ע֛וֹד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אֱלֹהֵ֖ינוּ",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "לְמַעֲשֵׂ֣ה",
+      "gloss": "kepada buatan"
+    },
+    {
+      "surface": "יָדֵ֑ינוּ",
+      "gloss": "tangan kami"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בְּךָ֖",
+      "gloss": "di dalam-Mu"
+    },
+    {
+      "surface": "יְרֻחַ֥ם",
+      "gloss": "menemukan kasih sayang"
+    },
+    {
+      "surface": "יָתֽוֹם",
+      "gloss": "anak yatim"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:48.115579598Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan jika ia benar-benar meluas di kulit, maka imam menyatakannya ⟨את⟩ tidak tahir; itu ⟨adalah⟩ penyakit.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "meluas"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "ia meluas"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "di kulit"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "maka menyatakannya tidak tahir"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "penyakit"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "penyakit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:46.962264028Z",
+  "model": "glm-5.2"
+}

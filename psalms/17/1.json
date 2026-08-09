@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Doa bagi Dawid. Dengarkanlah keadilan, Yahweh, perhatikanlah jeritku; pasanglah telinga kepada doaku — ⟨⟨ia datang⟩⟩ bukan dari bibir-tipu.",
+  "tokens": [
+    {
+      "surface": "תְּפִלָּ֗ה",
+      "gloss": "Doa"
+    },
+    {
+      "surface": "לְדָ֫וִ֥ד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "שִׁמְעָ֤ה",
+      "gloss": "Dengarkanlah"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צֶ֗דֶק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "הַקְשִׁ֥יבָה",
+      "gloss": "perhatikanlah"
+    },
+    {
+      "surface": "רִנָּתִ֗י",
+      "gloss": "jeritku"
+    },
+    {
+      "surface": "הַאֲזִ֥ינָה",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "תְפִלָּתִ֑י",
+      "gloss": "kepada doaku"
+    },
+    {
+      "surface": "בְּ֝לֹ֗א",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "שִׂפְתֵ֥י",
+      "gloss": "bibir-"
+    },
+    {
+      "surface": "מִרְמָֽה",
+      "gloss": "tipu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:38.476036282Z",
+  "model": "glm-5.2"
+}

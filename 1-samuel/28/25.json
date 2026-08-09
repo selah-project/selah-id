@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Lalu ia menghidangkan ⟨itu⟩ di hadapan Shaul dan di hadapan para abdinya, dan mereka makan; lalu mereka bangun dan pergi pada malam itu.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "Lalu ia menghidangkan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para abdinya"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "dan mereka makan"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "lalu mereka bangun"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada malam"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:47.971653614Z",
+  "model": "glm-5.2"
+}

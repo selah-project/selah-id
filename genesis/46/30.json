@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Lalu Yisra'el berkata kepada Yosef, “Biarlah aku mati kali ini, setelah melihat ⟨את⟩ wajahmu, bahwa engkau masih hidup.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "Biarlah aku mati"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "kali ini"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahmu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "engkau masih"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:17.638076416Z",
+  "model": "glm-5.2"
+}

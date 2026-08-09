@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 72,
+  "translation": "Ia ⟨akan⟩ mengadili orang-orang miskin umat, ia ⟨akan⟩ menyelamatkan anak-anak orang yang membutuhkan, dan ia ⟨akan⟩ menghancurkan penindas.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Ia ⟨akan⟩ mengadili"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "orang-orang miskin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ia ⟨akan⟩ menyelamatkan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "orang yang membutuhkan"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "dan ia ⟨akan⟩ menghancurkan"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "penindas"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:35.214857867Z",
+  "model": "glm-5.2"
+}

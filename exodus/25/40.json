@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan lihatlah dan buatlah menurut pola mereka yang engkau ⟨sedang⟩ lihat di ⟨gunung⟩ itu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Dan lihatlah"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan buatlah"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "menurut pola mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "sedang lihat"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:53.758892873Z",
+  "model": "glm-5.2"
+}

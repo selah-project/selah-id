@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Celakah ⟨bagi⟩ yang berkata kepada ayah, “Apakah yang kau-peranakkan?” dan kepada perempuan, “Apakah yang kau-lahirkan?”",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Celakah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "kepada ayah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "kau-peranakkan"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "dan kepada perempuan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "kau-lahirkan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:26:01.309235399Z",
+  "model": "glm-5.2"
+}

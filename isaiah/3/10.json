@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Katakanlah ⟨tentang⟩ orang benar bahwa ⟨ada⟩ kebaikan, sebab buah dari perbuatan-perbuatan mereka akan mereka makan.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "perbuatan-perbuatan mereka"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan mereka makan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:36.999766589Z",
+  "model": "glm-5.2"
+}

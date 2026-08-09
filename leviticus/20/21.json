@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan seorang laki-laki yang mengambil ⟨את⟩ istri saudaranya — ⟨itu⟩ niddah; telanjang saudaranya telah dinyatakannya; tanpa anak mereka akan menjadi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan seorang laki-laki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istri saudaranya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "niddah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "telah dinyatakannya"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "tanpa anak"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mereka akan menjadi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:38:02.645068226Z",
+  "model": "glm-5.2"
+}

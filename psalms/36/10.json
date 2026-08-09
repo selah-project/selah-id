@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Sebab bersama-Mu ⟨ada⟩ mata air kehidupan; dalam cahaya-Mu kami melihat cahaya.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עִמְּךָ֣",
+      "gloss": "bersama-Mu"
+    },
+    {
+      "surface": "מְק֣וֹר",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "בְּאוֹרְךָ֗",
+      "gloss": "dalam cahaya-Mu"
+    },
+    {
+      "surface": "נִרְאֶ֥ה",
+      "gloss": "kami melihat"
+    },
+    {
+      "surface": "אֽוֹר",
+      "gloss": "cahaya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:11.201721427Z",
+  "model": "glm-5.2"
+}

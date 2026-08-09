@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Aku telah bersumpah kepadamu, ⟨את⟩ putri-putri Yerushalayim, oleh kijang-kijang atau oleh rusa-rusa padang: jangan kamu bangunkan dan jangan kamu majukkan ⟨את⟩ cinta sampai ia berkenan.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "aku telah bersumpah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "putri-putri"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "oleh kijang-kijang"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "oleh rusa-rusa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "kamu bangunkan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "kamu majukkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cinta"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "cinta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ia berkenan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:55:57.383327368Z",
+  "model": "glm-5.2"
+}

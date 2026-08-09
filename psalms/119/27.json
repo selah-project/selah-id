@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Buatlah aku mengerti jalan perintah-perintah-Mu, maka aku akan merenungkan ⟨ tentang ⟩ keajaiban-keajaiban-Mu.",
+  "tokens": [
+    {
+      "surface": "דֶּֽרֶךְ",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "פִּקּוּדֶ֥יךָ",
+      "gloss": "perintah-perintah-Mu"
+    },
+    {
+      "surface": "הֲבִינֵ֑נִי",
+      "gloss": "Buatlah aku mengerti"
+    },
+    {
+      "surface": "וְ֝אָשִׂ֗יחָה",
+      "gloss": "maka aku akan merenungkan"
+    },
+    {
+      "surface": "בְּנִפְלְאוֹתֶֽיךָ",
+      "gloss": "⟨ tentang ⟩ keajaiban-keajaiban-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:08.302388043Z",
+  "model": "glm-5.2"
+}

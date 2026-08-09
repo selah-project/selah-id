@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan untuk sisi kedua mishkan, untuk sisi utara: dua puluh papan.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "dan untuk sisi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "untuk sisi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "papan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:26.587299434Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "untuk menceritakan di Tzion nama Yahweh, dan pujian-Nya di Yerushalayim;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "untuk menceritakan"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "dan pujian-Nya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:46.223369139Z",
+  "model": "glm-5.2"
+}

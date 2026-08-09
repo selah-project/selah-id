@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Maka Dawid datang ke Makhonayim, dan Avshalom menyeberangi ⟨את⟩ haYarden, dialah dan setiap orang Yisra'el bersamanya.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Maka Dawid"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "ke Makhonayim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "dan Avshalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haYarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "haYarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:25.030259953Z",
+  "model": "glm-5.2"
+}

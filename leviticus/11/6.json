@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan ⟨את⟩ ha-arnevét, karena ⟨ia⟩ memuntahkan geri, tetapi telapak ⟨tidak⟩ dibelahnya — tameh ⟨ia⟩ bagi kalian.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-arnevét"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "ha-arnevét"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "memuntahkan"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "dan telapak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "dibelahnya"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "tameh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:37.338516786Z",
+  "model": "glm-5.2"
+}

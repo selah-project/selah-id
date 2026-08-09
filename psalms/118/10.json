@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 118,
+  "translation": "Segala bangsa mengepung aku — dalam nama Yahweh, sungguh aku akan memotong mereka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mengepung aku"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "aku akan memotong mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:04.211033372Z",
+  "model": "glm-5.2"
+}

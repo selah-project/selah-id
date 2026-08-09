@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 149,
+  "translation": "Pujian-pujian tinggi kepada El ⟨di⟩ tenggorokan mereka, dan pedang bermata dua di tangan mereka.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "pujian-pujian tinggi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "tenggorokan mereka"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "dan pedang"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "bermata dua"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "di tangan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:26.728638761Z",
+  "model": "glm-5.2"
+}

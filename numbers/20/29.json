@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 20:29",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan melihatlah seluruh jemaah bahwa Aharon telah mati, dan mereka menangisi ⟨את⟩ Aharon tiga puluh hari, seluruh keturunan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וַיִּרְאוּ֙",
+      "gloss": "dan melihatlah"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הָ֣עֵדָ֔ה",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "גָוַ֖ע",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "אַהֲרֹ֑ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וַיִּבְכּ֤וּ",
+      "gloss": "dan mereka menangisi"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אַהֲרֹן֙",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֣ים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "י֔וֹם",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T07:19:33.011554004Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Sungguh, Yahweh, raja-raja Ashshur telah memusnahkan ⟨את⟩ bangsa-bangsa itu dan ⟨את⟩ negeri mereka,",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "telah memusnahkan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa itu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "negeri mereka"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "negeri mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:07:18.451503880Z",
+  "model": "glm-5.2"
+}

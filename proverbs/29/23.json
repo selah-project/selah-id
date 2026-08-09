@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Keangkuhan manusia akan merendahkannya, tetapi ⟨ia yang⟩ rendah roh ⟨akan⟩ disokong kehormatan.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "keangkuhan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "akan merendahkannya"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "tetapi rendah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "disokong"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kehormatan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:16.938593481Z",
+  "model": "glm-5.2"
+}

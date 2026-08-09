@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 122,
+  "translation": "Yang berdiri ⟨adalah⟩ kaki kami, di gerbangmu, Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "yang berdiri"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨adalah⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "kaki kami"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "di gerbangmu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:32.549575458Z",
+  "model": "glm-5.2"
+}

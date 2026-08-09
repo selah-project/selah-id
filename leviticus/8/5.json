@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan Mosheh berkata kepada jemaah, “Inilah perkara yang diperintahkan Yahweh untuk dilakukan.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk dilakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:19.294428003Z",
+  "model": "glm-5.2"
+}

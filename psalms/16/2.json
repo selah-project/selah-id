@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Aku berkata kepada Yahweh, “Adonai, Engkau ⟨adalah⟩ Tuhanku; kebaikanku ⟨tidak ada⟩ tanpa Engkau.”",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "kebaikanku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tanpa Engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:14.057080694Z",
+  "model": "glm-5.2"
+}

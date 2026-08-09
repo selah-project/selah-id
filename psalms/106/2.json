@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Siapakah ⟨yang⟩ akan berbicara ⟨tentang⟩ gevurot Yahweh, ⟨yang⟩ akan memperdengarkan segala tehilat-nya?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "akan berbicara"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "gevurot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "akan memperdengarkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tehilat-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:54.303144578Z",
+  "model": "glm-5.2"
+}

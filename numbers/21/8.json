@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan Yahweh berfirman kepada Mosheh: “Buatlah bagimu seekor ular withdrew dan taruhlah ⟨את⟩nya pada tiang bendera, maka setiap orang yang digigit, ketika ia melihat ⟨את⟩nya, akan hidup.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Buatlah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ular withdrew"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "dan taruhlah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "ular withdrew pada tiang bendera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "נס",
+      "gloss": "tiang bendera"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "orang yang digigit"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ketika ia melihat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "ular withdrew dan hidup"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "akan hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T23:15:15.859114058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lihat, hari-hari datang, dan Aku akan memotong ⟨את⟩ lenganmu dan ⟨את⟩ lengan keluarga bapamu, dari pada ada orang tua di keluargamu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "באים",
+      "gloss": "datang"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "dan Aku akan memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lenganmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "lenganmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lengan keluarga bapamu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapamu"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "dari pada ada"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "orang tua"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di keluargamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:36.762077211Z",
+  "model": "glm-5.2"
+}

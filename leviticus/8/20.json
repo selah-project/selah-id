@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ⟨את⟩ domba jantan itu dipotong-potong menurut bagian-bagiannya, dan Moshe membakar sebagai ukupan ⟨את⟩ kepalanya, dan ⟨את⟩ potongan-potongannya, dan ⟨את⟩ lemaknya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "domba jantan itu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan itu"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "dipotong-potong"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "menurut bagian-bagiannya"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dan membakar sebagai ukupan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepalanya"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "potongan-potongannya"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "potongan-potongannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lemaknya"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "lemaknya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:06.174997261Z",
+  "model": "glm-5.2"
+}

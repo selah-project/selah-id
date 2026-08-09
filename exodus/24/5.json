@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Lalu ia mengutus ⟨את⟩ para pemuda bani Yisra'el, dan mereka mempersembahkan korban olah, dan mereka menyembelih korban-korban syelamim bagi Yahweh, ⟨yaitu⟩ lembu-lembu jantan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu ia mengutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pemuda"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "para pemuda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dan mereka mempersembahkan"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "korban olah"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "dan mereka menyembelih"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "korban-korban"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "syelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "lembu-lembu jantan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:21.714490964Z",
+  "model": "glm-5.2"
+}

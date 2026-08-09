@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Hati orang-orang bijaksana ⟨berada⟩ di rumah duka, dan hati orang-orang bodoh di rumah kegembiraan.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "orang-orang bijaksana"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dan hati"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kegembiraan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:09.408409957Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Ia membuat padang gurun menjadi genangan air, dan tanah kering kerontang menjadi mata air.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Ia membuat"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "menjadi genangan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan tanah"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kering kerontang"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "menjadi mata air"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:39.815321309Z",
+  "model": "glm-5.2"
+}

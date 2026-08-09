@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan engkau harus mendirikan ⟨את⟩ pelataran sekelilingnya, dan engkau harus menaruh ⟨את⟩ tirai pintu ⟨dari⟩ pelataran.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "dan engkau harus mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelataran"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pelataran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekelilingnya"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau harus menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirai"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pelataran"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:11.554553201Z",
+  "model": "glm-5.2"
+}

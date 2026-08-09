@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Matahari telah keluar di atas bumi, dan Lot telah masuk ke Tsoar.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "telah keluar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "dan Lot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah masuk"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ke Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:34.571439246Z",
+  "model": "glm-5.2"
+}

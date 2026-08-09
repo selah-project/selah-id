@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Usirlah si pencemooh, dan keluarlah pertengkaran; maka berhentilah adu mulut dan aib.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "usirlah"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "si pencemooh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluarlah"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "pertengkaran"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "maka berhentilah"
+    },
+    {
+      "surface": "דין",
+      "gloss": "adu mulut"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "dan aib"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:06.884009482Z",
+  "model": "glm-5.2"
+}

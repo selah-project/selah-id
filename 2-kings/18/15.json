@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Chizqiyah memberikan ⟨את⟩ seluruh perak yang ditemukan di bait Yahweh dan di perbendaharaan bait raja.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Lalu memberikan"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizqiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh perak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yang ditemukan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "dan di perbendaharaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-08T11:07:39.340583085Z",
+  "model": "glm-5.2"
+}

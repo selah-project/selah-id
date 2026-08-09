@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan mereka meruntuhkan ⟨את⟩ tugu Ha-Baal, dan mereka meruntuhkan ⟨את⟩ bait Ha-Baal, dan mereka menjadikannya ⟨tempat pembuangan⟩ sampai hari ini.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Dan mereka meruntuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ha-Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "dan mereka meruntuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ha-Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "dan mereka menjadikannya"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "⟨tempat pembuangan⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    }
+  ],
+  "timestamp": "2026-08-08T08:10:42.528230118Z",
+  "model": "glm-5.2"
+}

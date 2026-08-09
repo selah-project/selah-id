@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Dan aku akan menghancurkan dari hadapannya para lawannya, dan para pembencinya akan kuhantam.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Dan aku akan menghancurkan"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari hadapannya"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "para lawannya"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "dan para pembencinya"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "akan kuhantam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:27.543649416Z",
+  "model": "glm-5.2"
+}

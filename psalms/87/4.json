@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 87,
+  "translation": "Aku akan mengingat Rahav dan Bavel di antara mereka yang mengenal aku; lihat, Peleshet, dan Tzor, bersama Kush — ini ⟨mereka⟩ dilahirkan di sana.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Aku akan mengingat"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "dan Bavel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "di antara mereka yang mengenal aku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "dan Tzor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:33.528609896Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "dan pasukannya, dan yang terhitung daripadanya: empat dan lima puluh ribu dan empat ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dan pasukannya"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "dan yang terhitung daripadanya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "empat"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dan lima puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dan empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:14:06.680215245Z",
+  "model": "glm-5.2"
+}

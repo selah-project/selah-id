@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu Yahweh berbicara kepada Mosheh, dengan berfirman:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berbicara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berfirman"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:53.400596608Z",
+  "model": "glm-5.2"
+}

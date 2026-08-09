@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Milik-Kulah perak, dan Milik-Kulah emas, —ucapan Yahweh Tzevaot.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Milik-Kulah"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "dan Milik-Kulah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-08T11:34:08.299262047Z",
+  "model": "glm-5.2"
+}

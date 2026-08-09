@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Yahweh, betapa banyaknya musuhku, banyak yang berdiri melawan aku;",
+  "tokens": [
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מָה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "רַבּוּ",
+      "gloss": "banyaknya"
+    },
+    {
+      "surface": "צָרַי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "רַבִּים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "קָמִים",
+      "gloss": "yang berdiri"
+    },
+    {
+      "surface": "עָלָי",
+      "gloss": "melawan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:41.914673699Z",
+  "model": "glm-5.2"
+}

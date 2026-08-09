@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Dan ⟨Dia⟩ akan mengembalikan atas mereka ⟨את⟩ kejahatan mereka, dan dalam keburukan mereka akan membinasakan mereka; akan membinasakan mereka Yahweh, Elohim kami.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "Dan mengembalikan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kejahatan mereka"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "kejahatan mereka"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "dan dalam keburukan mereka"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "akan membinasakan mereka"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "akan membinasakan mereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:29.169356172Z",
+  "model": "glm-5.2"
+}

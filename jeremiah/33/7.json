@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Aku akan memulihkan ⟨את⟩ pemulangan Yehudah dan ⟨את⟩ pemulangan Yisrael, dan aku akan membangun mereka seperti pada mulanya.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "dan aku akan memulihkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pemulangan Yehudah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pemulangan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pemulangan Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pemulangan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "dan aku akan membangun mereka"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "seperti pada mulanya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:38:16.109405820Z",
+  "model": "glm-5.2"
+}

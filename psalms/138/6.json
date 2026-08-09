@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 138,
+  "translation": "Sebab tinggi ⟨adalah⟩ Yahweh, dan yang rendah ⟨Ia⟩ lihat, dan yang tinggi dari jauh ⟨Ia⟩ kenal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רם",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "dan yang rendah"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Ia lihat"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "dan yang tinggi"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "dari jauh"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "Ia kenal"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:15.480350162Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 108,
+  "translation": "Berikanlah kepada kami pertolongan dari kesesakan, dan sia-sialah penyelamatan manusia.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "pertolongan"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dari kesesakan"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "dan sia-sia"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "penyelamatan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:36.160690281Z",
+  "model": "glm-5.2"
+}

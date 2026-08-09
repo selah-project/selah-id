@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Lalu David merebut ⟨את⟩ benteng Tzion; itulah kota David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Lalu merebut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benteng"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:44.810080616Z",
+  "model": "glm-5.2"
+}

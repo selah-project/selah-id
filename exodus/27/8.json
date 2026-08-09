@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Berlubang dengan papan engkau membuatnya; seperti yang diperlihatkan kepadamu di gunung itu, demikian mereka membuatnya.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "Berlubang"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "dengan papan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau membuat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "diperlihatkan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung itu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "mereka membuat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:07.245062012Z",
+  "model": "glm-5.2"
+}

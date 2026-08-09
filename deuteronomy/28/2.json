@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "dan datanglah atasmu segala berkat-berkat ini, dan mencapaimu, ketika engkau mendengarkan suara Yahweh Elohim-mu —",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "dan datanglah"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "berkat-berkat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "dan mencapaimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "engkau mendengarkan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:14.765015826Z",
+  "model": "glm-5.2"
+}

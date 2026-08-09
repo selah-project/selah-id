@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Engkau menguji hatiku, Engkau memeriksanya pada malam hari, Engkau memurnikan aku — tidak Engkau temukan; rencanaku tidak melampaui mulutku.",
+  "tokens": [
+    {
+      "surface": "בָּ֘חַ֤נְתָּ",
+      "gloss": "Engkau menguji"
+    },
+    {
+      "surface": "לִבִּ֨י",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "פָּ֘קַ֤דְתָּ",
+      "gloss": "Engkau memeriksa"
+    },
+    {
+      "surface": "לַּ֗יְלָה",
+      "gloss": "pada malam hari"
+    },
+    {
+      "surface": "צְרַפְתַּ֥נִי",
+      "gloss": "Engkau memurnikan aku"
+    },
+    {
+      "surface": "בַל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תִּמְצָ֑א",
+      "gloss": "Engkau temukan"
+    },
+    {
+      "surface": "זַ֝מֹּתִ֗י",
+      "gloss": "rencanaku"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יַעֲבָר",
+      "gloss": "melampaui"
+    },
+    {
+      "surface": "פִּֽי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:38.479256040Z",
+  "model": "glm-5.2"
+}

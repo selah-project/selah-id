@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan Yehosyua mendengar ⟨את⟩ suara ⟨hal⟩ rakyat dalam teriakannya, dan ⟨ia⟩ berkata kepada Mosheh: “Suara peperangan ⟨ada⟩ di ⟨dalam⟩ perkemahan!”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "dalam teriakannya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di perkemahan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:25.468349941Z",
+  "model": "glm-5.2"
+}

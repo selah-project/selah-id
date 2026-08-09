@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 1:1",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Firman Yahweh yang terjadi kepada Hoshea bin Beeri, pada hari-hari Uziya, Yotam, Ahaz, Yizkiya, raja-raja Yehuda, dan pada hari-hari Yarovam bin Yoash, raja Yisra'el.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "Beeri"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pada hari-hari"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Uziya"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Yizkiya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "dan pada hari-hari"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T08:56:55.888563178Z",
+  "model": "glm-5.2"
+}

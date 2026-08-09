@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Sebab karena Engkau kami dibunuh sepanjang hari; kami dihitung seperti domba sembelihan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "karena Engkau"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "kami dibunuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "kami dihitung"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "seperti domba"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "sembelihan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:01.711346498Z",
+  "model": "glm-5.2"
+}

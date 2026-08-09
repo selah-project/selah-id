@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu Berkata Balak kepada Bilam: “Juga mengutuk — jangan kaukutuk mereka; juga memberkati — jangan kauberkati mereka.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "קב",
+      "gloss": "mengutuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "kaukutuk mereka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "kauberkati mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:42:31.524960957Z",
+  "model": "glm-5.2"
+}

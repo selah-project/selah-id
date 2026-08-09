@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Dan ⟨את⟩ pahatan-pahatannya bersama-sama, dengan ganda dan palu, mereka memukul.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pahatan-pahatannya"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "pahatan-pahatannya"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "dengan ganda"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "dan palu"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "mereka memukul"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:29.988364468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan oleh hal-hal ini kalian akan menjadi najis — setiap ⟨yang⟩ menyentuh bangkai mereka akan menjadi najis sampai waktu senja.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "dan oleh hal-hal ini"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "kalian akan menjadi najis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "bangkai mereka"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ia akan menjadi najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "waktu senja"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:40.245524558Z",
+  "model": "glm-5.2"
+}

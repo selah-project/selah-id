@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "dan engkau berkata, “Betapa aku membenci didikan, dan teguran hatiku ⟨telah⟩ menista!”",
+  "tokens": [
+    {
+      "surface": "וְֽאָמַרְתָּ֗",
+      "gloss": "dan engkau berkata"
+    },
+    {
+      "surface": "אֵ֭יךְ",
+      "gloss": "Betapa"
+    },
+    {
+      "surface": "שָׂנֵ֣אתִי",
+      "gloss": "aku membenci"
+    },
+    {
+      "surface": "מוּסָ֑ר",
+      "gloss": "didikan"
+    },
+    {
+      "surface": "וְ֝תוֹכַ֗חַת",
+      "gloss": "dan teguran"
+    },
+    {
+      "surface": "נָאַ֥ץ",
+      "gloss": "menista"
+    },
+    {
+      "surface": "לִבִּֽי",
+      "gloss": "hatiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:34.724034678Z",
+  "model": "glm-5.2"
+}

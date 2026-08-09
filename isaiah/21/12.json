@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Berkata si penjaga: “Telah datang pagi, dan juga malam. Jika kamu benar-benar ingin mencari, carilah! Kembalilah, datanglah lagi!”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Berkata"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "si penjaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Telah datang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "kamu ingin mencari"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "datanglah lagi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:46.259221277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Maka datanglah ia kepada ayahnya, dan berkata, “Ayahku.” Lalu berkatalah ⟨ia⟩, “Ini aku. Siapakah engkau, anakku?”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "maka datanglah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ini aku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:30:39.552344992Z",
+  "model": "glm-5.2"
+}

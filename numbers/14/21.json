@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "tetapi, sesungguhnya Aku ini hidup, dan ⟨את⟩ kemuliaan Yahweh akan memenuhi seluruh bumi.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "dan akan memenuhi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:40:38.558888852Z",
+  "model": "glm-5.2"
+}

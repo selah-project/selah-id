@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Suara ⟨seseorang⟩ berkata, “Serulah!” Dan ⟨ia⟩ berkata, “Apa yang harus aku serukan?” “Semua manusia ⟨adalah⟩ seperti rumput, dan segala hesed-nya ⟨adalah⟩ seperti bunga padang.”",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Serulah"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "harus aku serukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "seperti rumput"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-nya"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "seperti bunga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-08-08T08:24:37.151481206Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 86,
+  "translation": "Aku akan bersyukur kepada-Mu, ya Adonai, Elohim-ku, dengan segenap hatiku, dan aku akan memuliakan nama-Mu untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Aku akan bersyukur kepada-Mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "dan aku akan memuliakan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:01.041443341Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Jagalah napasku dan lepaskanlah aku; janganlah aku malu, sebab aku berlindung pada-Mu.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Jagalah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "dan lepaskanlah aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "aku malu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pada-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:58.606561173Z",
+  "model": "glm-5.2"
+}

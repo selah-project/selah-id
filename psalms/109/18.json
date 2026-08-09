@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Dan ia mengenakan kutuk seperti pakaianya, maka itu masuk seperti air ke dalam batinnya, dan seperti minyak ke dalam tulang-tulangnya.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "dan ia mengenakan"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "seperti pakaianya"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "maka itu masuk"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "seperti air"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ke dalam batinnya"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "dan seperti minyak"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "ke dalam tulang-tulangnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:53.729398632Z",
+  "model": "glm-5.2"
+}

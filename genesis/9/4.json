@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Hanya daging, dengan nyawanya — darahnya — jangan kamu makan.”",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "dengan nyawanya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:22.399807969Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Sebab Dia mengenal bentuk kami, diingat-Nya bahwa debu kami.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "יָדַ֣ע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "יִצְרֵ֑נוּ",
+      "gloss": "bentuk kami"
+    },
+    {
+      "surface": "זָ֝כ֗וּר",
+      "gloss": "diingat-Nya"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "עָפָ֥ר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "אֲנָֽחְנוּ",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:33.541358369Z",
+  "model": "glm-5.2"
+}

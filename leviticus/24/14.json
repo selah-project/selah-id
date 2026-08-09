@@ -1,0 +1,83 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "leviticus 24:14",
+ "book": "leviticus",
+ "lang": "id",
+ "chapter": 24,
+ "translation": "Keluarkanlah ⟨את⟩ si penghujat itu ke luar perkemahan, dan semua yang mendengar ⟨itu⟩ harus meletakkan ⟨את⟩ tangan mereka di atas kepalanya, dan seluruh jemaat harus merajam ⟨את⟩ dia.",
+ "tokens": [
+  {
+   "surface": "הוצא",
+   "gloss": "Keluarkanlah"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "si penghujat itu"
+  },
+  {
+   "surface": "המקלל",
+   "gloss": "si penghujat"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ke"
+  },
+  {
+   "surface": "מחוץ",
+   "gloss": "luar"
+  },
+  {
+   "surface": "למחנה",
+   "gloss": "perkemahan"
+  },
+  {
+   "surface": "וסמכו",
+   "gloss": "dan harus meletakkan"
+  },
+  {
+   "surface": "כל",
+   "gloss": "semua"
+  },
+  {
+   "surface": "השמעים",
+   "gloss": "yang mendengar"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tangan mereka"
+  },
+  {
+   "surface": "ידיהם",
+   "gloss": "tangan mereka"
+  },
+  {
+   "surface": "על",
+   "gloss": "di atas"
+  },
+  {
+   "surface": "ראשו",
+   "gloss": "kepalanya"
+  },
+  {
+   "surface": "ורגמו",
+   "gloss": "dan harus merajam"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ dia"
+  },
+  {
+   "surface": "כל",
+   "gloss": "seluruh"
+  },
+  {
+   "surface": "העדה",
+   "gloss": "jemaat"
+  }
+ ],
+ "timestamp": "2026-08-09T01:38:56.884259753Z",
+ "model": "glm-5.2"
+}

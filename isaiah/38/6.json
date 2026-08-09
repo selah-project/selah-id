@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Dan dari tangan raja Ashur aku akan meluputkan engkau, dan ⟨את⟩ kota ini; dan aku akan melindungi atas kota ini.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "dan dari tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "aku akan meluputkan engkau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kota ini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota ini"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "dan aku akan melindungi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T12:53:51.710023817Z",
+  "model": "glm-5.2"
+}

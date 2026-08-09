@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ⟨את⟩ lembu jantan itu, dan ⟨את⟩ kulitnya, dan ⟨את⟩ dagingnya, dan ⟨את⟩ kotorannya, ⟨ia⟩ bakar dengan api di luar perkemahan, seperti yang diperintahkan Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lembu jantan itu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu jantan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kulitnya"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "kulitnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dagingnya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kotorannya"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "kotorannya"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "⟨ia⟩ bakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "perkemahan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:06.174520638Z",
+  "model": "glm-5.2"
+}

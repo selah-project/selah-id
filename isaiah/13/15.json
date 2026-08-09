@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Setiap orang yang ditemukan akan ditikam, dan setiap orang yang ditangkap akan jatuh oleh pedang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yang ditemukan"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "akan ditikam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "yang ditangkap"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "akan jatuh"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "oleh pedang"
+    }
+  ],
+  "timestamp": "2026-08-08T08:18:39.068103467Z",
+  "model": "glm-5.2"
+}

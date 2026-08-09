@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Karena inilah Elohim, Elohim kita untuk selamanya dan seterusnya, Dialah yang akan menuntun kita sampai maut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan seterusnya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "yang akan menuntun kita"
+    },
+    {
+      "surface": "על",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:57.335204340Z",
+  "model": "glm-5.2"
+}

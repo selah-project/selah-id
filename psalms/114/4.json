@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 114,
+  "translation": "Gunung-gunung melompat seperti domba jantan, bukit-bukit seperti anak-anak kawanan domba.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Gunung-gunung"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "melompat"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "seperti domba jantan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "seperti anak-anak"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan domba"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:15.565535423Z",
+  "model": "glm-5.2"
+}

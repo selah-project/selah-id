@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Ia telah menyembelih sembelihannya, ia telah mencampur anggurnya, bahkan ia telah menyusun mejanya.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ia telah menyembelih"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "sembelihannya"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ia telah mencampur"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "anggurnya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "ia telah menyusun"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "mejanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:32.750459522Z",
+  "model": "glm-5.2"
+}

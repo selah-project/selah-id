@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan kebun anggurmu tidaklah kaupungut bersih, dan sisa-sisa buah kebun anggurmu tidaklah kaugenggam, bagi orang miskin dan bagi orang asing kaubiarkan ⟨את⟩ mereka; Akulah Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "dan kebun anggurmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "kaupungut bersih"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "dan sisa-sisa buah"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "kebun anggurmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kaugenggam"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bagi orang miskin"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "dan bagi orang asing"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "kaubiarkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:39.774664106Z",
+  "model": "glm-5.2"
+}

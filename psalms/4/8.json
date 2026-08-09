@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Engkau telah memberi sukacita dalam hatiku, lebih dari pada waktu gandum dan anggur baru mereka berlimpah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Engkau telah memberi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sukacita"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "dalam hatiku"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "lebih dari pada waktu"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "gandum mereka"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "dan anggur baru mereka"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "berlimpah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:29.846815101Z",
+  "model": "glm-5.2"
+}

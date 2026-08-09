@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Lalu Dawid mengambil ⟨את⟩ kepah orang Peleshet itu dan membawanya ke Yerushalayim, dan ⟨את⟩ perlengkapannya ditaruhnya di kemahnya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Peleshet itu"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dan membawanya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ke Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perlengkapan-Nya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perlengkapan-Nya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ditaruh"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "di kemahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:50:10.435697804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 121,
+  "translation": "Pertolonganku dari sisi Yahweh, pembuat langit dan bumi.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Pertolonganku"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari sisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pembuat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:26.635013590Z",
+  "model": "glm-5.2"
+}

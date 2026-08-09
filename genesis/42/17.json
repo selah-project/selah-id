@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Lalu ia mengumpulkan ⟨את⟩ mereka ke dalam tahanan, tiga hari lamanya.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Lalu ia mengumpulkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari lamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:48.300298070Z",
+  "model": "glm-5.2"
+}

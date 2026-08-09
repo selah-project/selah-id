@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Maka Avimelekh memerintah ⟨את⟩ seluruh rakyat itu, dengan mengatakan: “Barangsiapa yang menyentuh laki-laki ini atau istrinya, pastilah dihukum mati.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Maka … memerintah"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh rakyat itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Barangsiapa yang menyentuh"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "atau istrinya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pastilah dihukum mati"
+    }
+  ],
+  "timestamp": "2026-08-08T10:21:55.580336121Z",
+  "model": "glm-5.2"
+}

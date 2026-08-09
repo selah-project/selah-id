@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dari ujung langit keluarnya, dan peredarannya pada ujung-ujung mereka, dan tidak ada yang tersembunyi dari panasnya.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "dari ujung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "keluarnya"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "dan peredarannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "ujung-ujung mereka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada yang"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "tersembunyi"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "dari panasnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:36.274118196Z",
+  "model": "glm-5.2"
+}

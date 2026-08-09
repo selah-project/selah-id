@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Sepanjang hari mereka melukai ⟨dengan⟩ perkataanku; seluruh rancangan mereka ⟨adalah⟩ untuk kejahatan terhadapku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataanku"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "mereka melukai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "rancangan mereka"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "untuk kejahatan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:08.568442440Z",
+  "model": "glm-5.2"
+}

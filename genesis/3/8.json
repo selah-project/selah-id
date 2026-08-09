@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka mendengarlah mereka ⟨את⟩ suara Yahweh Elohim berjalan di taman pada angin hari itu, lalu bersembunyilah ha-adam dan istrinya dari hadapan Yahweh Elohim di tengah pohon-pohon taman.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "maka mendengarlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di taman"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "pada angin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari itu"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "lalu bersembunyilah"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dan istrinya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon-pohon"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "taman"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:34.573331771Z",
+  "model": "glm-5.2"
+}

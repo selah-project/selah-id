@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Untuk pemimpin biduan. Mashkil bagi Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin biduan"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Mashkil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:15.134544954Z",
+  "model": "glm-5.2"
+}

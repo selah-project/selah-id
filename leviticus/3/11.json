@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan imam harus membakarnya di atas mezbah — sebagai makanan, persembahan api-apian bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "Dan imam harus membakarnya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api-apian"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:36.265762993Z",
+  "model": "glm-5.2"
+}

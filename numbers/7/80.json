@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "satu tepak emas sepuluh ⟨shekel⟩, penuh ketoret.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "tepak"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ketoret"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:09.876575306Z",
+  "model": "glm-5.2"
+}

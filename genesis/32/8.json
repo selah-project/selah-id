@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Maka takutlah Yakov sangat, dan ⟨itu⟩ menyusahkan dia; dan ia membagi ⟨את⟩ orang yang bersamanya, dan ⟨את⟩ kambing-domba, dan ⟨את⟩ lembu, dan unta, menjadi dua kemah.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "maka takutlah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "dan ⟨itu⟩ menyusahkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "dan ia membagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kambing-domba"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kambing-domba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lembu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "dan unta"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "menjadi dua"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "kemah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:36.509374242Z",
+  "model": "glm-5.2"
+}

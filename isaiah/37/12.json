@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Apakah elohim ⟨את⟩ bangsa-bangsa itu menyelamatkan mereka — yang telah membinasakan bapak-bapakku: ⟨את⟩ Gozan dan ⟨את⟩ Kharan, dan Retsef, dan bani Eden yang di Telassar?",
+  "tokens": [
+    {
+      "surface": "הַהִצִּ֨ילוּ",
+      "gloss": "Apakah … menyelamatkan"
+    },
+    {
+      "surface": "אוֹתָ֜ם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "אֱלֹהֵ֤י",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הַגּוֹיִם֙",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הִשְׁחִ֣יתוּ",
+      "gloss": "telah membinasakan"
+    },
+    {
+      "surface": "אֲבוֹתַ֔י",
+      "gloss": "bapak-bapakku"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גּוֹזָ֖ן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kharan"
+    },
+    {
+      "surface": "חָרָ֑ן",
+      "gloss": "Kharan"
+    },
+    {
+      "surface": "וְרֶ֥צֶף",
+      "gloss": "dan Retsef"
+    },
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "עֶ֖דֶן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בִּתְלַשָּֽׂר",
+      "gloss": "di Telassar"
+    }
+  ],
+  "timestamp": "2026-08-08T18:33:27.785141034Z",
+  "model": "glm-5.2"
+}

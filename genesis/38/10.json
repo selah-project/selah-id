@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Dan jahat ⟨hal itu⟩ di mata Yahweh apa yang ia perbuat, maka ⟨Ia⟩ membunuh juga ⟨את⟩ dia.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Dan jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ia perbuat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maka ⟨Ia⟩ membunuh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:22.187285348Z",
+  "model": "glm-5.2"
+}

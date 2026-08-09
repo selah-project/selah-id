@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ⟨את⟩ Patrusim, dan ⟨את⟩ Kaslukhim — dari sana keluar Pelishtim — dan ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kaslukhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaslukhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:38.356480143Z",
+  "model": "glm-5.2"
+}

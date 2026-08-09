@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Mereka berbalik dan berjalan, dan mereka menaruh ⟨את⟩ anak-anak kecil dan ⟨את⟩ ternak dan ⟨את⟩ harta benda di depan mereka.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Mereka berbalik"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan berjalan"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "dan mereka menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak kecil"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "anak-anak kecil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ternak"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "harta benda"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "harta benda"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di depan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:53:31.206434794Z",
+  "model": "glm-5.2"
+}

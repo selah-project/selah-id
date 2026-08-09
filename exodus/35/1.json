@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Lalu Mushe mengumpulkan ⟨את⟩ seluruh jemaat bani Yisra'el, dan berkata kepada mereka, “Inilah perkataan yang diperintahkan Yahweh untuk dilakukan ⟨אתם⟩.”",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "Lalu mengumpulkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh jemaat bani Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "untuk dilakukan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:30.733328215Z",
+  "model": "glm-5.2"
+}

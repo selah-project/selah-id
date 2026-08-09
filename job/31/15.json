@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 31:15",
+  "book": "job",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Bukankah Dia yang membentuk aku di rahim membuat ⟨dia⟩ juga, dan bukankah Satu membentuk kami di rahim?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "di rahim"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "yang membentuk aku"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "membuat dia"
+    },
+    {
+      "surface": "ויכננו",
+      "gloss": "dan membentuk kami"
+    },
+    {
+      "surface": "ברחם",
+      "gloss": "di rahim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Satu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:43:11.284519829Z",
+  "model": "glm-5.2"
+}

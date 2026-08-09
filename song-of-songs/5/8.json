@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Aku bersumpah kepadamu ⟨אתכם⟩, putri-putri Yerushalayim: jika kamu menemukan ⟨את⟩ dodyku, apa yang akan kamu katakan kepadanya? Bahwa aku sakit karena cinta.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Aku bersumpah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "kepadamu ⟨אתכם⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "kamu menemukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dodyku"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "dodyku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kamu katakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "karena cinta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:41.182844182Z",
+  "model": "glm-5.2"
+}

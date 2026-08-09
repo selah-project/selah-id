@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 97,
+  "translation": "Bersukacitalah, hai orang-orang benar, di dalam Yahweh, dan bersyukurlah ⟨kepada⟩ peringatan ⟨⟨akan⟩⟩ kekudusan-Nya.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "bersukacitalah"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang benar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di dalam Yahweh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "dan bersyukurlah"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "kepada peringatan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kekudusan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:01.225319249Z",
+  "model": "glm-5.2"
+}

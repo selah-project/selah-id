@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 93,
+  "translation": "Sungai-sungai telah mengangkat, Yahweh, sungai-sungai telah mengangkat suaranya; sungai-sungai mengangkat ⟨auluran⟩ ombaknya yang mengganas.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "telah mengangkat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "telah mengangkat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suaranya"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "auluran ombak yang mengganas"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:28.559310924Z",
+  "model": "glm-5.2"
+}

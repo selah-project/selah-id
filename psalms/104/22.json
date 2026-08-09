@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Matahari terbit, mereka berkumpul kembali, dan ke sarang-sarang mereka mereka berbaring.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "terbit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "mereka berkumpul kembali"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "sarang-sarang mereka"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "mereka berbaring"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:09.881114058Z",
+  "model": "glm-5.2"
+}

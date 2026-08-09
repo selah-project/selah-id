@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan matilah Ivtsan, dan ⟨ia⟩ dikuburkan di Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dan matilah"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dan dikuburkan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-08T07:42:05.281704289Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan ⟨dia⟩ melihat, dan lihat, di ⟨sisi⟩ kepalanya satu kue panggang di atas batu panas, dan satu buyung air, dan ⟨dia⟩ makan dan minum, lalu kembali dan berbaring.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "di kepalanya"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "kue"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "batu panas"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "dan buyung"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dan makan"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "dan minum"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu kembali"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "dan berbaring"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:51.222280967Z",
+  "model": "glm-5.2"
+}

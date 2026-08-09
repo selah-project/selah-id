@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "ketika aku melihat langit-Mu, buah jari-jari-Mu, bulan dan bintang-bintang yang telah Engkau tetapkan —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langit-Mu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "buah karya"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "jari-jari-Mu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "dan bintang-bintang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "Engkau tetapkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:06.018781970Z",
+  "model": "glm-5.2"
+}

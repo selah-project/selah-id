@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Lalu mereka mengambilnya dan melemparkan ⟨את⟩-nya ke dalam sumur itu. Adapun sumur itu kosong, tidak ada di dalamnya air.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Lalu mereka mengambilnya"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "dan melemparkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ke dalam sumur itu"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "Adapun sumur itu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:21.001641859Z",
+  "model": "glm-5.2"
+}

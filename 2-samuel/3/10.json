@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "untuk memindahkan kerajaan dari bait Shaul, dan untuk menegakkan ⟨את⟩ takhta David atas Yisra'el dan atas Yehudah, dari Dan dan sampai Be'er-Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "untuk memindahkan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari bait"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "dan untuk menegakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takhta"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "dari Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:47.245405276Z",
+  "model": "glm-5.2"
+}

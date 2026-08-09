@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka Sarai ⟨adalah⟩ mandul; tidak ⟨ada⟩ baginya anak.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Maka ia menjadi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "mandul"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "anak"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:07.670297553Z",
+  "model": "glm-5.2"
+}

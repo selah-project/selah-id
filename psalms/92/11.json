@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "Dan ⟨Engkau⟩ telah meninggikan tandukku seperti ⟨tanduk⟩ reem; aku dilimpahi dengan minyak yang segar.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "dan telah meninggikan"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "seperti reem"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tandukku"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "dilimpahi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yang segar"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:02.458845838Z",
+  "model": "glm-5.2"
+}

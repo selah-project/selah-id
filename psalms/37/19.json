@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Tidak akan mereka mendapat malu pada waktu kejahatan, dan pada hari-hari kelaparan mereka akan dikenyangkan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "akan mereka mendapat malu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "dan pada hari-hari"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mereka akan dikenyangkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:05.914819185Z",
+  "model": "glm-5.2"
+}

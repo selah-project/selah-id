@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu mereka mengeluarkan ⟨את⟩ tugu-tugu bait Ha-Baal dan membakarnya.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Lalu mereka mengeluarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu-tugu"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "tugu-tugu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ha-Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "dan membakarnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:10:42.528111887Z",
+  "model": "glm-5.2"
+}

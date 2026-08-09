@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "maka Aku, bahkan Aku, akan berjalan bersama kamu dalam permusuhan, dan Aku akan memukul ⟨את⟩ kamu, juga Aku, tujuh kali atas dosa-dosa kamu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "maka Aku akan berjalan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bersama kamu"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "dalam permusuhan"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "dan Aku akan memukul"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh kali"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dosa-dosa kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:42.919318661Z",
+  "model": "glm-5.2"
+}

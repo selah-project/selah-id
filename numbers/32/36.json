@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "dan ⟨את⟩ Beit-Nimrah dan ⟨את⟩ Beit-Haran, kota-kota berkubu dan kandang-kandang kawanan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Beit-Nimrah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Beit-Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "dan kandang-kandang"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:22:54.038932967Z",
+  "model": "glm-5.2"
+}

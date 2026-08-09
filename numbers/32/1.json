@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 32:1",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan ternak ⟨yang⟩ banyak ada bagi bani Reuven dan bagi bani Gad, sangat banyak; dan mereka melihat ⟨את⟩ tanah Yazer dan ⟨את⟩ tanah Gilad, dan lihat, tempat itu ⟨adalah⟩ tempat ternak.",
+  "tokens": [
+    {
+      "surface": "ומקנה",
+      "gloss": "dan ternak"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "dan bagi bani"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dan mereka melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat itu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ternak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:44:03.337868833Z",
+  "model": "glm-5.2"
+}

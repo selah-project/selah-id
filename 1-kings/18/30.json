@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan berkatalah Eliyahu kepada seluruh ⟨itu⟩ bangsa: “Mendekatlah kepadaku.” Maka mendekatlah seluruh ⟨itu⟩ bangsa kepadanya, dan ia memperbaiki ⟨את⟩ mezbah Yahweh yang telah terurai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "mendekatlah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "maka mendekatlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "dan ia memperbaiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "yang telah terurai"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:57.407583437Z",
+  "model": "glm-5.2"
+}

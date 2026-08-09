@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Banyaklah, basuhlah aku dari kesalahanku, dan dari dosaku bersihkanlah aku.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Banyaklah"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "basuhlah aku"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "dari kesalahanku"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "dan dari dosaku"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "bersihkanlah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:51.840264163Z",
+  "model": "glm-5.2"
+}

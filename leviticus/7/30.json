@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 7:30",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "tangan-nya sendirilah membawa ⟨את⟩ persembahan api-apian Yahweh: ⟨את⟩ lemaknya di atas dada, ia membawa ⟨את⟩ itu; ⟨את⟩ dada untuk mengayun-ayunkannya sebagai persembahan ayun di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "יָדָ֣יו",
+      "gloss": "tangan-nya"
+    },
+    {
+      "surface": "תְּבִיאֶ֔ינָה",
+      "gloss": "membawalah"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan api-apian"
+    },
+    {
+      "surface": "אִשֵּׁ֣י",
+      "gloss": "persembahan api-apian"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "lemaknya"
+    },
+    {
+      "surface": "הַחֵ֤לֶב",
+      "gloss": "lemaknya"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הֶֽחָזֶה֙",
+      "gloss": "dada"
+    },
+    {
+      "surface": "יְבִיאֶ֔נּוּ",
+      "gloss": "ia membawa"
+    },
+    {
+      "surface": "אֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "dada"
+    },
+    {
+      "surface": "הֶחָזֶ֗ה",
+      "gloss": "dada"
+    },
+    {
+      "surface": "לְהָנִ֥יף",
+      "gloss": "untuk mengayun-ayunkannya"
+    },
+    {
+      "surface": "אֹת֛וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan ayun"
+    },
+    {
+      "surface": "תְּנוּפָ֖ה",
+      "gloss": "persembahan ayun"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:29.211417134Z",
+  "model": "glm-5.2"
+}

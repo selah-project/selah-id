@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Semakin ⟨mereka⟩ memanggil mereka, semakin mereka pergi dari hadapan mereka; kepada para Baal mereka menyembelih korban, dan kepada pat-pat pahatan mereka membakar ukupan.",
+  "tokens": [
+    {
+      "surface": "קָרְא֖וּ",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כֵּ֚ן",
+      "gloss": "semakin"
+    },
+    {
+      "surface": "הָלְכ֣וּ",
+      "gloss": "mereka pergi"
+    },
+    {
+      "surface": "מִפְּנֵיהֶ֔ם",
+      "gloss": "dari hadapan mereka"
+    },
+    {
+      "surface": "לַבְּעָלִ֣ים",
+      "gloss": "kepada para Baal"
+    },
+    {
+      "surface": "יְזַבֵּ֔חוּ",
+      "gloss": "mereka menyembelih korban"
+    },
+    {
+      "surface": "וְלַפְּסִילִ֖ים",
+      "gloss": "dan kepada patung-pahatan"
+    },
+    {
+      "surface": "יְקַטֵּרֽוּן",
+      "gloss": "mereka membakar ukupan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:42.127869654Z",
+  "model": "glm-5.2"
+}

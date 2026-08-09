@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Untuk dirigen. Untuk Dawid. Mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk dirigen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:25.938348576Z",
+  "model": "glm-5.2"
+}

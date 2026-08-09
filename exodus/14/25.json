@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan ⟨ia⟩ menanggalkan ⟨את⟩ roda kereta-kereta mereka, dan mengemudikan mereka dalam kesukaran; dan Mitsrayim berkata, “Marilah kita melarikan diri dari hadapan Yisrael, karena Yahweh berperang bagi mereka melawan Mitsrayim.”",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "dan menanggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roda"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "roda"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "kereta-kereta mereka"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "dan mengemudikan mereka"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "dalam kesukaran"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "marilah kita melarikan diri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "melawan Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:04.979493852Z",
+  "model": "glm-5.2"
+}

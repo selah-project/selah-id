@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Perjanjian aku potong bagi pilihan-Ku, aku bersumpah kepada Daud hamba-Ku:",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "aku potong"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "bagi pilihan-Ku"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "aku bersumpah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Daud"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:38.027291155Z",
+  "model": "glm-5.2"
+}

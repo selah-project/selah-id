@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan Yaakov melihat ⟨את⟩ wajah Lavan, dan lihat, ⟨wajah itu⟩ tidak ⟨lagi⟩ bersamanya seperti kemarin dan hari sebelumnya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "seperti kemarin"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "dan hari sebelumnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:11.836891031Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Aku akan menceritakan ⟨ketetapan⟩; Yahweh telah berkata kepadaku: “Anak-Ku ⟨kaulah⟩; aku, pada hari ini, telah melahirkan engkau.”",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Aku akan menceritakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ketetapan⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Anak-Ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨kaulah⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "telah melahirkan engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:35.701288503Z",
+  "model": "glm-5.2"
+}

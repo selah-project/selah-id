@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan Avraham berkata kepada Sarah, isterinya: “⟨Ia⟩ saudaraku.” Maka Avimelekh, raja Gerar, mengutus orang dan mengambil ⟨את⟩ Sarah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "saudaraku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ia⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "maka mengutus orang"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:47:50.959255259Z",
+  "model": "glm-5.2"
+}

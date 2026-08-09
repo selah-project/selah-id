@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Di samping ⟨dari⟩ para pedagang dan perdagangan para perantau, dan segala raja ⟨Arab⟩ dan para pejabat negeri.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Di samping"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "⟨dari⟩ para"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "pedagang"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "dan perdagangan"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "para perantau"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨Arab⟩"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "dan para pejabat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:12.008836217Z",
+  "model": "glm-5.2"
+}

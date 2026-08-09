@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan engkau akan menjaga ⟨את⟩ perintah-perintah Yahweh Elohim-mu, untuk berjalan di jalan-jalan-Nya dan untuk takut akan ⟨את⟩-Dia.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Dan engkau akan menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah-perintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuk berjalan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di jalan-jalan-Nya"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "dan untuk takut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-Dia",
+      "marks": "Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T18:27:24.818211416Z",
+  "model": "glm-5.2"
+}

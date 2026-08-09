@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Sebab ⟨את⟩ seluruh negeri yang kau lihat itu, kepadamu akan Kuberikannya, dan kepada benihmu sampai ⟨selama⟩-lamanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh negeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "akan Kuberikannya"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "dan kepada benihmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:16.023272448Z",
+  "model": "glm-5.2"
+}

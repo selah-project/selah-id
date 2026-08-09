@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dengarlah ⟨את⟩ firman yang difirmankan Yahweh kepadamu, hai keturunan Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hai keturunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T08:32:40.222040101Z",
+  "model": "glm-5.2"
+}

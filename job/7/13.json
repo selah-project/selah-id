@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Karena aku berkata, ⟩Tempat tidurku⟨ akan menghiburku, ⟩tempat peristirahatanku⟫ akan mengangkat ⟩keluh-kesahku⟫",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "אָ֭מַרְתִּי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "תְּנַחֲמֵ֣נִי",
+      "gloss": "akan menghiburku"
+    },
+    {
+      "surface": "עַרְשִׂ֑י",
+      "gloss": "tempat tidurku"
+    },
+    {
+      "surface": "יִשָׂ֥א",
+      "gloss": "akan mengangkat"
+    },
+    {
+      "surface": "בְ֝שִׂיחִ֗י",
+      "gloss": "keluh-kesahku"
+    },
+    {
+      "surface": "מִשְׁכָּבִֽי",
+      "gloss": "tempat peristirahatanku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:52:03.833282208Z",
+  "model": "glm-5.2"
+}

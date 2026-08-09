@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ⟨ia⟩ akan menyembelih ⟨את⟩ anak lembu itu di hadapan Yahweh; dan bani Aharon, ⟨para⟩ imam, akan mempersembahkan ⟨את⟩ darah itu, dan mereka akan memercikkan ⟨את⟩ darah itu ke atas mezbah, di sekeliling ⟨mezbah⟩ yang ⟨berada⟩ di pintu Kemah Pertemuan.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "dan ia akan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lembu itu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "dan mereka akan mempersembahkan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah itu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "dan mereka akan memercikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah itu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di sekeliling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:33.809052271Z",
+  "model": "glm-5.2"
+}

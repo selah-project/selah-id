@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Angkatlah ⟨את⟩ kepala seluruh jemaat b'nei-Yisra'el menurut keluarga-keluarga mereka, menurut bait leluhur mereka, dalam bilangan nama, setiap laki-laki menurut tengkorak-tengkorak mereka.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Angkatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "b'nei-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut keluarga-keluarga mereka"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "menurut bait"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "leluhur mereka"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dalam bilangan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "menurut tengkorak-tengkorak mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:06.098873736Z",
+  "model": "glm-5.2"
+}

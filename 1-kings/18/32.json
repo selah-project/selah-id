@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan ia membangun ⟨את⟩ batu-batu ⟨itu⟩ menjadi mezbah dalam nama Yahweh, dan ia membuat parit seperti ukuran dua seah benih, sekeliling mezbah ⟨itu⟩.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "Dan ia membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "menjadi mezbah"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia membuat"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "parit"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "seperti ukuran"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "dua seah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mezbah"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:57.407766355Z",
+  "model": "glm-5.2"
+}

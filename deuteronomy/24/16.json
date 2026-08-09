@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Bapa-bapa tidak boleh dibunuh karena anak-anak, dan anak-anak tidak boleh dibunuh karena bapa-bapa; setiap orang karena dosanya sendiri harus dibunuh.”",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mereka boleh dibunuh"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bapa-bapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mereka boleh dibunuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bapa-bapa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "karena dosanya sendiri"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "harus dibunuh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:46.981965960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan berkatalah Kalev: 'Siapa yang memukul ⟨את⟩ Qiryat-Sefer dan merebutnya, kepadanya akan kuberikan ⟨את⟩ Akhsah putriku menjadi istri.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "-Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "dan merebutnya"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "akan kuberikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsah"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "putriku"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi istri"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:41.332596740Z",
+  "model": "glm-5.2"
+}

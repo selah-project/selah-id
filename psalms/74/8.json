@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Mereka berkata dalam hati mereka, “Mari kita menindas mereka bersama-sama.” Mereka membakar segala tempat pertemuan El di bumi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dalam hati mereka"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "kita menindas mereka"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "mereka membakar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "tempat pertemuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:29.988558018Z",
+  "model": "glm-5.2"
+}

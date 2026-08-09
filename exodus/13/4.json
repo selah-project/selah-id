@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Hari ini ⟨kamu⟩ keluar, dalam bulan ha-Aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Hari ini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨kamu⟩"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dalam bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ha-Aviv"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:16.074990593Z",
+  "model": "glm-5.2"
+}

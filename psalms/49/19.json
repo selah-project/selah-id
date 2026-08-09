@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "sebab pada masa hidupnya ia memberkati nafsho, dan ⟨orang-orang⟩ memuji engkau sebab engkau berbuat baik kepada dirimu sendiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafsho"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "pada masa hidupnya"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ia memberkati"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "dan memuji engkau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "engkau berbuat baik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada dirimu sendiri"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:33.665578305Z",
+  "model": "glm-5.2"
+}

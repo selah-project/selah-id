@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 1:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu berfirmanlah Elohim, “Biarlah bumi mengeluarkan ⟨את⟩ makhluk hidup menurut jenisnya: ternak dan ⟨את⟩ yang merayap dan ⟨את⟩ binatang buas bumi menurut jenisnya.” Dan terjadilah demikian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berfirmanlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תוצא",
+      "gloss": "biarlah mengeluarkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "makhluk",
+      "marks": "makhluk hidup"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "ורמש",
+      "gloss": "dan yang merayap"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "dan binatang buas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:56.547712253Z",
+  "model": "glm-5.2"
+}

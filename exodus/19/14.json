@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Maka turunlah Mosheh dari ⟨gunung⟩ kepada ⟨rayat⟩, lalu ia menguduskan ⟨את⟩ ⟨rayat⟩, dan mereka mencuci pakaian mereka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Maka turunlah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rayat"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "lalu ia menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rayat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rayat"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "dan mereka mencuci"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "pakaian mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:10.638274721Z",
+  "model": "glm-5.2"
+}

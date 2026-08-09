@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Setiap orang, ibunya dan ayahnya, hendaklah kamu takuti, dan ⟨את⟩ hari-hari sabatku hendaklah kamu pelihara; aku ⟨adalah⟩ Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Setiap orang"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "dan ayahnya"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "hendaklah kamu takuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hari-hari sabatku"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "hari-hari sabatku"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "hendaklah kamu pelihara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:24.781540339Z",
+  "model": "glm-5.2"
+}

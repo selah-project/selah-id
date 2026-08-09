@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Sebab Engkau telah meremukkan kami di tempat tanin, dan menutupi kami dengan kegelapan maut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "Engkau telah meremukkan kami"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "tanin"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "dengan kegelapan maut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:42.347058547Z",
+  "model": "glm-5.2"
+}

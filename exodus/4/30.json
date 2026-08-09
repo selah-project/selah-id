@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu berbicaralah Aharon ⟨את⟩ segala perkataan yang telah difirmankan Yahweh kepada Mosheh, dan ia melakukan tanda-tanda itu di depan mata bangsa itu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berbicaralah"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia melakukan"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tanda-tanda itu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di depan mata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:40.140322546Z",
+  "model": "glm-5.2"
+}

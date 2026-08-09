@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lalu keluarlah raja dan seluruh rumah tangganya berjalan kaki, dan raja meninggalkan ⟨את⟩ sepuluh perempuan, gundik-gundik, untuk menjaga ⟨את⟩ rumah.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluarlah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumah tangganya"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "berjalan kaki"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "dan meninggalkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sepuluh perempuan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "gundik-gundik"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk menjaga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:24.286750474Z",
+  "model": "glm-5.2"
+}

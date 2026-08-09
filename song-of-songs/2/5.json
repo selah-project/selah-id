@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Tegakkanlah aku dengan kue-kue anggur, hamparkanlah ⟨tempat tidur⟩ku dengan apel-apel, sebab ⟨aku⟩ sakit karena cinta aku.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "tegakkanlah aku"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "dengan kue-kue anggur"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "hamparkanlah aku"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "dengan apel-apel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "cinta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:23.985781420Z",
+  "model": "glm-5.2"
+}

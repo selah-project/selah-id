@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Yahweh berfirman kepada Qayin: “Di manakah Hevel saudaramu?” Dan ⟨ia⟩ berkata: “Tidak kuketahui. Penjagakah aku ⟨atas⟩ saudaraku?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Di manakah"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kuketahui"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Penjagakah"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaraku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:37.178709668Z",
+  "model": "glm-5.2"
+}

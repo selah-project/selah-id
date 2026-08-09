@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 128,
+  "translation": "Yahweh memberkahi engkau dari Tsiyon, dan ⟨engkau⟩ melihat kebaikan Yerushalayim segala hari kehidupanmu.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Ia-memberkahi-engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari-Tsiyon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan-lihatlah"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "kehidupanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:08.828936888Z",
+  "model": "glm-5.2"
+}

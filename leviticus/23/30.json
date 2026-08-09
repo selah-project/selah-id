@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan segala jiwa yang melakukan pekerjaan apapun pada hari ini sendiri, maka Aku akan membinasakan ⟨את⟩ jiwa itu dari tengah bangsanya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "pada ... sendiri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "dan Aku akan membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwa itu"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dari tengah"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bangsanya"
+    }
+  ],
+  "timestamp": "2026-08-08T18:26:14.874513738Z",
+  "model": "glm-5.2"
+}

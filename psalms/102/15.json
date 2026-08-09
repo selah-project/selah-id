@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Sebab hamba-hamba-Mu berkenan kepada ⟨את⟩ batu-batunya, dan ⟨את⟩ debunya mereka kasihani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba-Mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batunya"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "batu-batunya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "debunya"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "debunya"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "mereka kasihani"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:39.414405896Z",
+  "model": "glm-5.2"
+}

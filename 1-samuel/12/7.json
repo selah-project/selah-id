@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan sekar, berdirilah, dan aku akan berperkara ⟨dengan⟩ kalian di hadapan Yahweh, ⟨mengenai⟩ ⟨את⟩ segala kebenaran Yahweh yang dilakukan-Nya ⟨bersama⟩ kalian dan ⟨את⟩ bapa-bapa leluhur kalian.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "berdirilah"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "dan aku akan berperkara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "dengan kalian"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kebenaran Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan-Nya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bersama kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bapa-bapa leluhur kalian"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapa-bapa leluhur kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:05.675689946Z",
+  "model": "glm-5.2"
+}

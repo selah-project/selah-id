@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan melihat ratu Syeba ⟨את⟩ hikmat Syelomo, dan ⟨את⟩ rumah yang dibangunnya.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikmat"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "dan rumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibangunnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:12:37.187039601Z",
+  "model": "glm-5.2"
+}

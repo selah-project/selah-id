@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan ⟨את⟩ bangau, ⟨את⟩ burung kuntul menurut jenisnya, dan ⟨את⟩ burung hud-hud, dan ⟨את⟩ kelelawar,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bangau"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "bangau"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "burung kuntul"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung hud-hud"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "burung hud-hud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kelelawar"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "kelelawar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:07.209317182Z",
+  "model": "glm-5.2"
+}

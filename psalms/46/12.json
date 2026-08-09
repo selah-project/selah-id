@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Yahweh Tsevaot ⟨⟨ada⟩⟩ bersama kita, perlindungan bagi kita ⟨⟨adalah⟩⟩ Elohim Yaakob. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bersama kita"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:57.670904226Z",
+  "model": "glm-5.2"
+}

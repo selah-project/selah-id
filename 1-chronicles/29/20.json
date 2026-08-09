@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Lalu berkatalah Dawid kepada seluruh jemaah, “Berkatilah ⟨את⟩ Yahweh, Elohim kamu.” Maka seluruh jemaah memberkati Yahweh, Elohim nenek moyang mereka, dan mereka bertelut dan sujud kepada Yahweh dan kepada raja.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada seluruh"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berkatilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mohon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "maka memberkati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "nenek moyang mereka"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "dan mereka bertelut"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dan sujud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "dan kepada raja"
+    }
+  ],
+  "timestamp": "2026-08-08T12:03:59.927535195Z",
+  "model": "glm-5.2"
+}

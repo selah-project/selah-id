@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Rumah orang benar ⟨memiliki⟩ harta berlimpah, tetapi dalam hasil orang fasik ⟨ada⟩ kesusahan.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "harta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "berlimpah"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "tetapi dalam hasil"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "kusahan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:04.025583910Z",
+  "model": "glm-5.2"
+}

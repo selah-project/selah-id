@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 75,
+  "translation": "Sebab Elohim ⟨adalah⟩ hakim: yang ini dia merendahkan dan yang ini dia meninggikan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang ini"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "dia merendahkan"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dan yang ini"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "dia meninggikan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:26.513887125Z",
+  "model": "glm-5.2"
+}

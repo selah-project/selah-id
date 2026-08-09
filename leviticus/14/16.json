@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan kohen itu akan mencelupkan ⟨את⟩ jarinya, sebelah kanan, dari minyak yang di telapak tangannya, sebelah kiri, dan ⟨ia⟩ akan memercikkan dari minyak itu dengan jarinya, tujuh kali, ke hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "dan akan mencelupkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarinya"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "jarinya"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sebelah kanan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "telapak tangannya"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "sebelah kiri"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "dan ia akan memercikkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "dengan jarinya"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:30.219319997Z",
+  "model": "glm-5.2"
+}

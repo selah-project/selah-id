@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Biarlah napasku hidup, dan biarlah ia memuji-Mu, dan biarlah hukum-hukum-Mu menolong aku.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "Biarlah hidup"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "dan memuji-Mu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "dan hukum-hukum-Mu"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "menolong aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:01.470259587Z",
+  "model": "glm-5.2"
+}

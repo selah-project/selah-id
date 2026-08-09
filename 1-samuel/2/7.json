@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Yahweh membuat miskin dan membuat kaya; Ia merendahkan, juga Ia meninggikan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "membuat miskin"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "dan membuat kaya"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "merendahkan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "meninggikan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:54.403372049Z",
+  "model": "glm-5.2"
+}

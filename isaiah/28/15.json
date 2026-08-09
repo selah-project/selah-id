@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Karena kamu berkata: “Kami telah mengikat perjanjian dengan ⟨את⟩ maut, dan dengan Sheol kami telah membuat persetujuan; cambuk yang meluap, ketika melintasi, tidak akan menimpa kami; karena kami telah menjadikan kebohongan tempat perlindungan kami, dan dalam dusta kami bersembunyi.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kamu berkata"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "kami telah mengikat"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maut"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan dengan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "kami telah membuat"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "persetujuan"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "cambuk"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "yang meluap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "melintasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "akan menimpa kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "kami telah menjadikan"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "tempat perlindungan kami"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "dan dalam dusta"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "kami bersembunyi"
+    }
+  ],
+  "timestamp": "2026-08-08T08:21:26.255141461Z",
+  "model": "glm-5.2"
+}

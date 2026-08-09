@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Lalu datanglah para utusan itu, dan lihat, ⟨ada⟩ terafim ⟨di⟩ tempat tidur itu, dan tilam bulu kambing di bagian kepalanya.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Lalu datanglah"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "para utusan itu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tempat tidur itu"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "dan tilam"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bulu kambing"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "di bagian kepalanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:27.111985418Z",
+  "model": "glm-5.2"
+}

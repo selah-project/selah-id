@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Jika ⟨dia⟩ lewat dan mengurung, dan menghimpun, maka siapa yang dapat mengembalikannya?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "lewat"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "dan mengurung"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "dan menghimpun"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "maka siapa"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "yang dapat mengembalikannya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:09.606546610Z",
+  "model": "glm-5.2"
+}

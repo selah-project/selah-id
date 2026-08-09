@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Suaraku kepada Elohim, dan aku akan berteriak; suaraku kepada Elohim, dan ⟨Dia⟩ akan memperdengarkan telinga kepadaku.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Suaraku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "dan aku akan berteriak"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "dan ⟨Dia⟩ akan memperdengarkan telinga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:38.414064233Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Seorang ⟨yang kerap⟩ ditegur, ⟨yang⟩ mengeras-kan tengkuk, ⟨akan⟩ tiba-tiba hancur dan tidak ada kesembuhan.",
+  "tokens": [
+    {
+      "surface": "אישׁ",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mengeras-kan"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "tengkuk"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "tiba-tiba"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "hancur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "kesembuhan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:55.799618689Z",
+  "model": "glm-5.2"
+}

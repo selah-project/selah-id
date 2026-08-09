@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Segala kota yang kamu berikan kepada orang Lewi: empat puluh delapan kota, ⟨יהן⟩ dan ⟨את⟩ padang-padang mereka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kamu berikan"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kepada orang Lewi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "dan delapan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩-mereka",
+      "marks": "mereka (kota-kota)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang-padang mereka"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "padang-padang mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:23:54.475039785Z",
+  "model": "glm-5.2"
+}

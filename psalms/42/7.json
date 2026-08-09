@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Elohimku, di atasku napasku tertunduk; oleh sebab itu aku mengingat Engkau dari tanah Yarden, dan dari Hermon-Hermon, dari gunung Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atasku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "tertunduk"
+    },
+    {
+      "surface": "על",
+      "gloss": "oleh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "aku mengingat Engkau"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "dan Hermon-Hermon"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dari gunung"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:39.410435795Z",
+  "model": "glm-5.2"
+}

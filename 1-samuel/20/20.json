@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan aku, tiga anak panah ke samping aku akan tembakkan, untuk mengirim untukku kepada sasaran.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "anak panah"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "ke samping"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "aku akan tembakkan"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuk mengirim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "kepada sasaran"
+    }
+  ],
+  "timestamp": "2026-08-08T10:56:48.024187638Z",
+  "model": "glm-5.2"
+}

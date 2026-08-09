@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan apabila kamu menuai ⟨את⟩ hasil panen tanahmu, janganlah kauhabiskan pinggir ladangmu untuk dituai, dan ⟩sisa⟨ tuaianmu jangan kaukumpulkan:",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "dan apabila kamu menuai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasil panen"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "hasil panen"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "kauhabiskan"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pinggir"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ladangmu"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "untuk dituai"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "dan ⟩sisa⟨"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "tuaianmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kaukumpulkan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:16.509392109Z",
+  "model": "glm-5.2"
+}

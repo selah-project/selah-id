@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Engkau, Engkau akan bangkit, Engkau akan menyayangi Tziyon, sebab sudah tiba waktunya untuk menyayangi dia, sebab waktu yang ditetapkan telah datang.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "Engkau akan bangkit"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "Engkau akan menyayangi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktunya"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "untuk menyayangi dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waktu yang ditetapkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:39.414321931Z",
+  "model": "glm-5.2"
+}

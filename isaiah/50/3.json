@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Aku mengenakan langit dengan kegelapan, dan kain karung aku jadikan tutupnya.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "aku mengenakan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "dan kain karung"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "aku jadikan"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "tutupnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:52.836143710Z",
+  "model": "glm-5.2"
+}

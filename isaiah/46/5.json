@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Kepada siapa kamu akan menyamakan aku, dan menyamakan aku, dan membandingkan aku, dan ⟨kita⟩ menjadi serupa?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "kepada siapa"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "kamu akan menyamakan aku"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "dan menyamakan aku"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "dan membandingkan aku"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "dan ⟨kita⟩ menjadi serupa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:13:21.938659095Z",
+  "model": "glm-5.2"
+}

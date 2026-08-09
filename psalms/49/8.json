@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "saudara tidak sama sekali menebus; seseorang tidak memberikan kepada Elohim tebusan baginya.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "sama sekali"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "menebus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "tebusan baginya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:50.480718520Z",
+  "model": "glm-5.2"
+}

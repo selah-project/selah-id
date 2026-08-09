@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 111,
+  "translation": "Peringatan Dia-buat untuk perkara-perkara-Nya yang menakjubkan; penuh-kasih dan penuh-belaskasihan Yahweh.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "peringatan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Dia-buat"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "untuk perkara-perkara-Nya yang menakjubkan"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "penuh-kasih"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "dan penuh-belaskasihan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:12.503669519Z",
+  "model": "glm-5.2"
+}

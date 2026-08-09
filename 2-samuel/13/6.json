@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 13:6",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Maka Amnon berbaring dan berpura-pura sakit. Ketika raja masuk untuk melihatnya, Amnon berkata kepada raja, “Tolong suruh Tamar, saudariku, datang dan buatlah di depan mataku dua kue dadar, dan aku akan makan dari tangannya.”",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Maka berbaringlah"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ויתחל",
+      "gloss": "dan berpura-pura sakit"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan ⟨dia⟩ masuk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לראתו",
+      "gloss": "untuk melihatnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "suruh datang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tolong"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "saudariku"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "dan buatlah kue dadar"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di depan mataku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לבבות",
+      "gloss": "kue dadar"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "dan aku akan makan"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "dari tangannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:56:15.293284466Z",
+  "model": "glm-5.2"
+}

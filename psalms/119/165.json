@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Kelimpahan shalom bagi para pencinta torat-Mu, dan bagi mereka tidak ada batu sandungan.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kelimpahan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "bagi para pencinta"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "torat-Mu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "batu sandungan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:47.432563843Z",
+  "model": "glm-5.2"
+}

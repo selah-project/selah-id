@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan ⟨את⟩ anak-anak mereka ⟨dia⟩ menegakkan menggantikan mereka — ⟨את⟩ merekalah Yehosua menyunatkan, sebab ‹mereka› orang-orang yang berkulit kapan, sebab tidak disunatkan ⟨את⟩ mereka di jalan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "anak-anak mereka"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anak mereka"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "⟨dia⟩ menegakkan"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "menggantikan mereka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "merekalah"
+    },
+    {
+      "surface": "מל",
+      "gloss": "menyunatkan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "orang-orang yang berkulit kapan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "‹mereka›"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "disunatkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-08-09T01:40:09.109243151Z",
+  "model": "glm-5.2"
+}

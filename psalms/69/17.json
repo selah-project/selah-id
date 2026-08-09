@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Jawablah aku, hai Yahweh, sebab baik hesed-Mu; menurut kelimpahan rahmat-Mu, berpalinglah kepadaku.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "menurut kelimpahan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmat-Mu"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "berpalinglah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:34.107970363Z",
+  "model": "glm-5.2"
+}

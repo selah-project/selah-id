@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Lalu Yosef membawa ⟨את⟩ Yaakob ayahnya dan mendirikannya di hadapan Paro, dan Yaakob memberkati ⟨את⟩ Paro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu dibawa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "dan didirikannyalah dia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan memberkati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-08-08T12:10:07.093590875Z",
+  "model": "glm-5.2"
+}

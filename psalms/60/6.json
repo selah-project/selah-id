@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Engkau telah memberikan panji-panji kepada orang-orang yang takut akan-Mu, untuk dikibarkan demi kebenaran. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Engkau telah memberikan"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "kepada orang-orang yang takut akan-Mu"
+    },
+    {
+      "surface": "נס",
+      "gloss": "panji-panji"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "untuk dikibarkan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "demi"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:52.660986949Z",
+  "model": "glm-5.2"
+}

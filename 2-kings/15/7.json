@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lalu Azaryah menidurkan ⟨dirinya⟩ bersama bapa-bapanya, dan mereka menguburkan ⟨את⟩ dia bersama bapa-bapanya di kota Dawid; dan Yotam anaknya menjadi raja menggantikannya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Lalu menidurkan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan mereka menguburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan menjadi raja"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikannya"
+    }
+  ],
+  "timestamp": "2026-08-08T23:16:47.668888966Z",
+  "model": "glm-5.2"
+}

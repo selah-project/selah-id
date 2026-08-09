@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "dengan berkata: “Elohim telah meninggalkan dia; kejar dan tangkaplah dia, sebab tidak ada yang menyelamatkan.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "telah meninggalkan dia"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "kejar"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "dan tangkaplah dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "yang menyelamatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:19.483894186Z",
+  "model": "glm-5.2"
+}

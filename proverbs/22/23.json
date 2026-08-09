@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "karena Yahweh akan membela perkara mereka, dan akan merampas nyawa ⟨את⟩ mereka yang merampas ⟨dari⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "akan membela"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "perkara mereka"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "dan akan merampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mereka yang merampas"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "mereka yang merampas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:52.654457239Z",
+  "model": "glm-5.2"
+}

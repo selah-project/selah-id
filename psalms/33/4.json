@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Karena lurus perkataan Yahweh, dan segala pekerjaan-Nya ⟨dilakukan⟩ dengan kesetiaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "pekerjaan-Nya"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "dengan kesetiaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:01.755629503Z",
+  "model": "glm-5.2"
+}

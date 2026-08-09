@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Jauh—apa yang telah ada; dan dalam, dalam, siapa dapat menemukannya?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yang telah ada"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "dan dalam"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dalam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "dapat menemukannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:49.947378020Z",
+  "model": "glm-5.2"
+}

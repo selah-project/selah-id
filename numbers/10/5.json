@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan kalian meniup ⟨suara pecahan⟩, maka berangkatlah perkemahan-perkemahan yang berkemah ke sisi timur.",
+  "tokens": [
+    {
+      "surface": "וּתְקַעְתֶּ֖ם",
+      "gloss": "dan kalian meniup"
+    },
+    {
+      "surface": "תְּרוּעָ֑ה",
+      "gloss": "⟨suara pecahan⟩"
+    },
+    {
+      "surface": "וְנָֽסְעוּ֙",
+      "gloss": "maka berangkatlah"
+    },
+    {
+      "surface": "הַֽמַּחֲנ֔וֹת",
+      "gloss": "perkemahan-perkemahan"
+    },
+    {
+      "surface": "הַחֹנִ֖ים",
+      "gloss": "yang berkemah"
+    },
+    {
+      "surface": "קֵֽדְמָה",
+      "gloss": "ke sisi timur"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:27.196843467Z",
+  "model": "glm-5.2"
+}

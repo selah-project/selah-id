@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Aku telah menjaga pikudim-Mu dan kesaksian-kesaksian-Mu, sebab segala jalanku di hadapan-Mu.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "aku telah menjaga"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pikudim-Mu"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "dan kesaksian-kesaksian-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-ku"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di hadapan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:47.432983695Z",
+  "model": "glm-5.2"
+}

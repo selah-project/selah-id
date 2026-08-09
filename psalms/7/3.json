@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "jangan-jangan ⟨dia⟩ menerkam seperti singa napasku, mengoyak ⟨dan⟩ tidak ada yang menyelamatkan.",
+  "tokens": [
+    {
+      "surface": "פֶּן",
+      "gloss": "jangan-jangan"
+    },
+    {
+      "surface": "יִטְרֹ֣ף",
+      "gloss": "menerkam"
+    },
+    {
+      "surface": "כְּאַרְיֵ֣ה",
+      "gloss": "seperti singa"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "פֹּ֝רֵ֗ק",
+      "gloss": "mengoyak"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "מַצִּֽיל",
+      "gloss": "yang menyelamatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:07.546806231Z",
+  "model": "glm-5.2"
+}

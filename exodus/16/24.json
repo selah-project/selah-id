@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan mereka menyimpannya sampai pagi, seperti yang diperintahkan Mosheh, dan tidak ⟨menyebabkan⟩ bau busuk, dan belatung tidak ada di dalamnya.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "Dan mereka menyimpan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (man) — objek langsang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "menyebabkan bau busuk"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "dan belatung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:41.842123252Z",
+  "model": "glm-5.2"
+}

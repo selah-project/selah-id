@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Shemuël mendekatkan ⟨את⟩ semua suku Yisra'el, dan terambillah suku Binyamin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Lalu mendekatkan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua suku Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dan terambillah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:02.710752083Z",
+  "model": "glm-5.2"
+}

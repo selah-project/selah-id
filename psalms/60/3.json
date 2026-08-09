@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Elohim, Engkau telah menolak kami, Engkau telah meremukkan kami; Engkau telah murka; kembalikanlah kami!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "Engkau telah menolak kami"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "Engkau telah meremukkan kami"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "Engkau telah murka"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "kembalikanlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:59.594303463Z",
+  "model": "glm-5.2"
+}

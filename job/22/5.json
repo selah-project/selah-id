@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Bukankah kejahatanmu besar, dan tidak ada akhir bagi pelanggaran-pelanggaranmu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "kejahatanmu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "besar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "akhir"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "bagi pelanggaran-pelanggaranmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:40:38.881941967Z",
+  "model": "glm-5.2"
+}

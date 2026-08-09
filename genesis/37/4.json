@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Maka saudara-saudaranya melihat bahwa ⟨את⟩-nya ayah mereka kasih lebih dari semua saudaranya, lalu mereka membenci ⟨את⟩-nya; dan mereka tidak sanggup berbicara kepadanya secara damai.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "maka mereka melihat"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "dia (objek kasih)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kasih"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lebih dari semua"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "lalu mereka membenci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "dia (objek benci)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mereka sanggup"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "berbicara kepadanya"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "secara damai"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:38.934013680Z",
+  "model": "glm-5.2"
+}

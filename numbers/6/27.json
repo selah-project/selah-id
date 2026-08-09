@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan mereka akan menaruh ⟨את⟩ nama-Ku atas bani Yisra'el, dan Aku, Aku akan memberkati mereka.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "Dan mereka akan menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama-Ku"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nama-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan Aku"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "Aku akan memberkati mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:15:38.571163740Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Muka berhadapan dengan muka berbicara Yahweh dengan kalian di gunung, dari tengah-tengah api.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Muka"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "berhadapan dengan muka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "dengan kalian"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tengah-tengah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:01.033433669Z",
+  "model": "glm-5.2"
+}

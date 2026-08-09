@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "janganlah engkau takut kepada mereka, ingatlah engkau ingat ⟨את⟩ yang dilakukan Yahweh, Elohimmu, kepada Paro dan kepada seluruh Mitsrayim,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "engkau takut"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingatlah"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "engkau ingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang dilakukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kepada Paro"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dan kepada seluruh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:29.250130349Z",
+  "model": "glm-5.2"
+}

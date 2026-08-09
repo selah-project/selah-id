@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Tetapi aku ⟨adalah⟩ seperti pohon zaitun yang hijau di rumah Elohim; aku percaya kepada hesed Elohim selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "seperti pohon zaitun"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yang hijau"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "kepada hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:57.876460284Z",
+  "model": "glm-5.2"
+}

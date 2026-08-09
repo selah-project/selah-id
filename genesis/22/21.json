@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utz anak sulungnya, dan ⟨את⟩ Buz saudaranya, dan ⟨את⟩ Kemuel ayah Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utz"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utz"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak sulungnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:58.940370894Z",
+  "model": "glm-5.2"
+}

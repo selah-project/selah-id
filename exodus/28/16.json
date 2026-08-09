@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Bujursangkar ia akan menjadi, dilipat-gandakan; sejengkal panjangnya dan sejengkal lebarnya.",
+  "tokens": [
+    {
+      "surface": "רָב֥וּעַ",
+      "gloss": "bujursangkar"
+    },
+    {
+      "surface": "יִֽהְיֶ֖ה",
+      "gloss": "ia akan menjadi"
+    },
+    {
+      "surface": "כָּפ֑וּל",
+      "gloss": "dilipat-gandakan"
+    },
+    {
+      "surface": "זֶ֥רֶת",
+      "gloss": "sejengkal"
+    },
+    {
+      "surface": "אָרְכּ֖וֹ",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "וְזֶ֥רֶת",
+      "gloss": "dan sejengkal"
+    },
+    {
+      "surface": "רָחְבּֽוֹ",
+      "gloss": "lebarnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:21.390763633Z",
+  "model": "glm-5.2"
+}

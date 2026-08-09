@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Lebih baik bahwa ⟨kau⟩ tidak bernazar, daripada bahwa ⟨kau⟩ bernazar dan tidak menepati.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "⟨kau⟩ bernazar"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "daripada ⟨kau⟩ bernazar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "menepati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:30.592593511Z",
+  "model": "glm-5.2"
+}

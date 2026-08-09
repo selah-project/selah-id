@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan ⟨את⟩ rumahnya dibangun Shelomoh tiga belas tahun, dan diselesaikannya ⟨את⟩ seluruh rumahnya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumahnya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibangun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "dan diselesaikannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:10.191865569Z",
+  "model": "glm-5.2"
+}

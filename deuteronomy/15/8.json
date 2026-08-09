@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "melainkan sungguh-sungguh bukalah ⟨את⟩ tanganmu kepadanya, dan sungguh-sungguh pinjamilah dia, cukup untuk kekurangannya, yang ia perlukan.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "פָתֹ֧חַ",
+      "gloss": "sungguh-sungguh membuka"
+    },
+    {
+      "surface": "תִּפְתַּ֛ח",
+      "gloss": "engkau membuka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "יָדְךָ֖",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "וְהַעֲבֵט֙",
+      "gloss": "dan sungguh-sungguh meminjamkan"
+    },
+    {
+      "surface": "תַּעֲבִיטֶ֔נּוּ",
+      "gloss": "engkau meminjamkan dia"
+    },
+    {
+      "surface": "דֵּ֚י",
+      "gloss": "cukup"
+    },
+    {
+      "surface": "מַחְסֹר֔וֹ",
+      "gloss": "untuk kekurangannya"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יֶחְסַ֖ר",
+      "gloss": "ia perlukan"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:28:20.677725928Z",
+  "model": "glm-5.2"
+}

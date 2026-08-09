@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Kota kecil, dan orang-orang di dalamnya sedikit, dan datang kepadanya raja besar, dan mengepung ⟨אתה⟩, dan mendirikan terhadapnya benteng-benteng pengepungan besar.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kecil"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "dan orang-orang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "dan mengepung"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kota kecil"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "dan mendirikan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "benteng-benteng pengepungan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "besar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:47.435791760Z",
+  "model": "glm-5.2"
+}

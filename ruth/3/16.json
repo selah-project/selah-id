@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨ia⟩ datang kepada mertua perempuannya, dan ⟨ia⟩ berkata, “Siapakah engkau, anakku?” dan ⟨ia⟩ menceritakan kepadanya ⟨את⟩ segala yang telah diperbuat laki-laki itu kepadanya.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Dan ⟨ia⟩ datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mertua perempuannya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "dan ⟨ia⟩ menceritakan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah diperbuat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "laki-laki itu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:56:29.511614489Z",
+  "model": "glm-5.2"
+}

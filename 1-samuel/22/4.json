@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Lalu ia memimpin ⟨את⟩ mereka menghadap raja Moab, dan mereka diam bersamanya sepanjang hari-hari ⟨bahwa⟩ Dawid berada di benteng.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Lalu ia memimpin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mereka menghadap"
+    },
+    {
+      "surface": "פני",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dan mereka diam"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "היות",
+      "gloss": "⟨bahwa⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "berada di benteng"
+    }
+  ],
+  "timestamp": "2026-08-08T07:50:48.206178557Z",
+  "model": "glm-5.2"
+}

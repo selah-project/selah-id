@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 48:5",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Sebab pada pendakian ke Luhit ⟨ia⟩ naik dengan tangisan, terus-menerus menangis; sebab pada penurunan Khoronaim ⟨mereka⟩ mendengar jeritan patah ⟨yang⟩ menyayat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "pendakian"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "Luhit"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "dengan tangisan"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ia naik"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "menangis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "pada penurunan"
+    },
+    {
+      "surface": "חורנים",
+      "gloss": "Khoronaim"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "menyayat"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "jeritan"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mereka mendengar"
+    }
+  ],
+  "timestamp": "2026-08-08T08:41:35.470218125Z",
+  "model": "glm-5.2"
+}

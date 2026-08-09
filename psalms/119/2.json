@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Betullah beruntung orang-orang yang menjaga kesaksian-kesaksian-Nya, dengan seluruh hati mereka mencari Dia.",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "betullah beruntung"
+    },
+    {
+      "surface": "נֹצְרֵ֥י",
+      "gloss": "orang-orang yang menjaga"
+    },
+    {
+      "surface": "עֵדֹתָ֗יו",
+      "gloss": "kesaksian-kesaksian-Nya"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "dengan seluruh"
+    },
+    {
+      "surface": "לֵ֥ב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "יִדְרְשֽׁוּהוּ",
+      "gloss": "mencari Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:20.201693945Z",
+  "model": "glm-5.2"
+}

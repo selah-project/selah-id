@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 16:27",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan ⟨את⟩ lembu hukuman dosa itu dan ⟨את⟩ shaggy jantan hukuman dosa itu, yang darahnya dibawa masuk untuk menghapuskan dosa di tempat kudus, harus dikeluarkan ke luar kemah, dan harus dibakar dengan api ⟨את⟩ kulit mereka dan ⟨את⟩ daging mereka dan ⟨את⟩ kotoran mereka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "lembu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hukuman dosa itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "shaggy jantan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "shaggy jantan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hukuman dosa itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "dibawa masuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah mereka"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "darah mereka"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "untuk menghapuskan dosa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tempat kudus"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "harus dikeluarkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "dan harus dibakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulit mereka"
+    },
+    {
+      "surface": "ערתם",
+      "gloss": "kulit mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "daging mereka"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "daging mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kotoran mereka"
+    },
+    {
+      "surface": "פרשם",
+      "gloss": "kotoran mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:25.847353918Z",
+  "model": "glm-5.2"
+}

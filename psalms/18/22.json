@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Karena aku telah menjaga jalan-jalan Yahweh, dan tidak aku berbuat fasik terhadap Elohim-ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "aku telah menjaga"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "aku berbuat fasik"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "terhadap Elohim-ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:44.636842421Z",
+  "model": "glm-5.2"
+}

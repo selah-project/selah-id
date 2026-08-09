@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ⟨dia⟩ pahit ⟨dalam⟩ nefesh, dan berdoalah kepada Yahweh, sambil menangis ia menangis.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "dan ⟨dia⟩"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "pahit"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨dalam⟩ nefesh"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "dan berdoalah"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "sambil menangis"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "ia menangis"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:17.190345260Z",
+  "model": "glm-5.2"
+}

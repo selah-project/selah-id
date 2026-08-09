@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Untuk pemimpin biduan, mengenai ⟨alat-alat tiup⟩. Mizmor bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin biduan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "⟨alat-alat tiup⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:47.028312724Z",
+  "model": "glm-5.2"
+}

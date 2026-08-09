@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan sesudah itu Moshe dan Aharon masuk, dan mereka berkata kepada Paroh: “Beginlah kata Yahweh, Elohim ⟨milik⟩ Yisra'el: Suruhlah pergi ⟨את⟩ umat-Ku, dan mereka akan mengadakan perayaan bagi-Ku di padang gurun.”",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Dan sesudah itu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨milik⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Suruhlah pergi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "dan mereka akan mengadakan perayaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:22.813052598Z",
+  "model": "glm-5.2"
+}

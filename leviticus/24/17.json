@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan seorang manusia, apabila ia memukul ♦nafesh♦ manusia mana pun, pasti §ia dihukum mati§.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan seorang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ia memukul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafesh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "§ia dihukum mati§"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:39.042639624Z",
+  "model": "glm-5.2"
+}

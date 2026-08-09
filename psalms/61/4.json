@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 61,
+  "translation": "Sebab Engkau telah menjadi tempat perlindungan bagiku, menara kekuatan dari hadapan musuh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Engkau telah menjadi"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "tempat perlindungan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "menara"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:32.543659529Z",
+  "model": "glm-5.2"
+}

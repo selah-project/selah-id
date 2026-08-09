@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan engkau akan menguduskan ⟨את⟩ mereka, dan mereka akan menjadi kesucian mahasuci; setiap yang menyentuh mereka akan dikuduskan.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "dan engkau akan menguduskan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan mereka akan menjadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kesucian"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mahasuci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "akan dikuduskan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:24.668354171Z",
+  "model": "glm-5.2"
+}

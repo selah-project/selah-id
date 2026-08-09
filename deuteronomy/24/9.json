@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Ingatlah ⟨את⟩ apa yang diperbuat Yahweh, Elohim-mu, kepada Miryam, di jalan, ketika kamu keluar dari Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "diperbuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "kepada Miryam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ketika kamu keluar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:01.683114573Z",
+  "model": "glm-5.2"
+}

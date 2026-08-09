@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Apa yang telah ada, itu ⟨pulalah⟩ yang akan ada; dan apa yang telah diperbuat, itu ⟨pulalah⟩ yang akan diperbuat; dan tidak ada sesuatu ⟨yang⟩ baru di bawah matahari.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yang telah ada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "yang akan ada"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apa"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "yang telah diperbuat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "yang akan diperbuat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sesuatu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:48:56.275192709Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lidah yang menyembuhkan ⟨adalah⟩ pohon kehidupan, tetapi kelengkungan di dalamnya ⟨adalah⟩ patah dalam roh.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "yang menyembuhkan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "tetapi kelengkungan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "dalam roh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:54.854022104Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Lalu Avraham menegur ⟨את⟩ Avimelekh atas perkara sumur air yang telah dirampas oleh hamba-hamba Avimelekh.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "Lalu menegur"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "telah dirampas"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "oleh hamba-hamba"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:34.137130100Z",
+  "model": "glm-5.2"
+}

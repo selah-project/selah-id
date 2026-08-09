@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan ⟨ia⟩ mempersembahkan ⟨את⟩ korban qorban bangsa itu, dan ⟨ia⟩ mengambil ⟨את⟩ pejantan kambing, persembahan dosa yang untuk bangsa itu, dan ⟨ia⟩ menyembelihnya, dan ⟨ia⟩ mengolahnya sebagai persembahan dosa seperti yang pertama.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Dan ia mempersembahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bangsa itu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qorban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan ia mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pejantan kambing"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "pejantan kambing"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "persembahan dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "untuk bangsa itu"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "dan ia menyembelihnya"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "dan ia mengolahnya sebagai persembahan dosa"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "seperti yang pertama"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:02.612591481Z",
+  "model": "glm-5.2"
+}

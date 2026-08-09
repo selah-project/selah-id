@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 43:23",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Lalu berkatalah ⟨ia⟩: “Shalom kepada kamu, jangan takut! Elohim kamu dan Elohim ayahmu telah memberikan ⟨kepadamu⟩ harta tersembunyi di karung-karung kamu; perak kamu telah sampai kepadaku.” Dan ia mengeluarkan kepada mereka ⟨את⟩ Shimeon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "takut"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan Elohim"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "telah memberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "מטמון",
+      "gloss": "harta tersembunyi"
+    },
+    {
+      "surface": "באמתחתיכם",
+      "gloss": "di karung-karung kamu"
+    },
+    {
+      "surface": "כספכם",
+      "gloss": "perak kamu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah sampai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "Dan ia mengeluarkan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimeon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:39.818769420Z",
+  "model": "glm-5.2"
+}

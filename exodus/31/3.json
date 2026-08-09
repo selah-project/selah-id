@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan Aku telah memenuhi ⟨את⟩-nya dengan roh Elohim, dalam hikmat dan dalam pengertian dan dalam pengetahuan dan dalam segala pekerjaan —",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Dan Aku telah memenuhi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "dalam hikmat"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "dan dalam pengertian"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "dan dalam pengetahuan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan dalam segala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:09.446716968Z",
+  "model": "glm-5.2"
+}

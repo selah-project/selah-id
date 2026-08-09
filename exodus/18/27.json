@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Mosheh melepas ⟨את⟩ mertuanya, dan ia berjalan pulang ke negerinya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu melepas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mertuanya"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mertuanya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ia berjalan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pulang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "negerinya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:59:40.378221136Z",
+  "model": "glm-5.2"
+}

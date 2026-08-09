@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 116,
+  "translation": "Aku mencintai, karena Yahweh mendengar ⟨את⟩ suaraku, permohonanku.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "aku mencintai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaraku"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "permohonanku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:50.163211142Z",
+  "model": "glm-5.2"
+}

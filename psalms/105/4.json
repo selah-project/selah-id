@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Carilah Yahweh dan kekuatan-Nya; carilah wajah-Nya senantiasa.",
+  "tokens": [
+    {
+      "surface": "דִּרְשׁ֣וּ",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְעֻזּ֑וֹ",
+      "gloss": "dan kekuatan-Nya"
+    },
+    {
+      "surface": "בַּקְּשׁ֖וּ",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "פָנָ֣יו",
+      "gloss": "wajah-Nya"
+    },
+    {
+      "surface": "תָּמִֽיד",
+      "gloss": "senantiasa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:43.699372302Z",
+  "model": "glm-5.2"
+}

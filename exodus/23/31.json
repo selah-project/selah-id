@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan aku akan menetapkan ⟨את⟩ batasmu dari laut teberau sampai laut Pelishti, dan dari padang gurun sampai sungai itu, sebab aku akan menyerahkan ke dalam tanganmu ⟨את⟩ penduduk negeri itu, dan engkau akan menghalau mereka dari hadapanmu.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "dan aku akan menetapkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batasmu"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "batasmu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dari laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "teberau"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "dan dari padang gurun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aku akan menyerahkan"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ke dalam tanganmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "dan engkau akan menghalau mereka"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:27.721066291Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Mosheh mendengar, dan itu baik di matanya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lalu mendengar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "dan itu baik"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:35:00.776245671Z",
+  "model": "glm-5.2"
+}

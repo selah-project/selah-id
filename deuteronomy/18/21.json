@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan apabila engkau berkata dalam hatimu: Bagaimana kami mengetahui ⟨את⟩ firman yang tidak difirmankan Yahweh?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "engkau berkata"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dalam hatimu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Bagaimana"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kami mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:28:38.280859591Z",
+  "model": "glm-5.2"
+}

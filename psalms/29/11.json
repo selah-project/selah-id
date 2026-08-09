@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Yahweh memberi kekuatan kepada umat-Nya; Yahweh memberkati ⟨את⟩ umat-Nya dengan shalom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kepada umat-Nya"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Nya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "dengan shalom"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:56.135009993Z",
+  "model": "glm-5.2"
+}

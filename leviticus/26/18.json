@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan jika sampai hal-hal ini kamu tidak mendengarkan Aku, maka Aku akan menambah untuk menghukum ⟨את⟩kamu tujuh kali lipat atas dosa-dosamu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hal-hal ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamu mendengarkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "maka Aku akan menambah"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "untuk menghukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh kali lipat"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dosa-dosamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:17.271987287Z",
+  "model": "glm-5.2"
+}

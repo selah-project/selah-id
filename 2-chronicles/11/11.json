@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan ⟨ia⟩ menguatkan ⟨את⟩ benteng-benteng itu, dan menempatkan di dalamnya para panglima, serta persediaan makanan dan minyak dan anggur.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Dan ⟨ia⟩ menguatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benteng-benteng itu"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "benteng-benteng itu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "para panglima"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "serta persediaan"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "dan minyak"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    }
+  ],
+  "timestamp": "2026-08-08T12:05:34.646939487Z",
+  "model": "glm-5.2"
+}

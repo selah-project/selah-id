@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Bukan ⟨lah⟩ orang-orang mati yang memuji Yah, dan bukan ⟨lah⟩ semua yang turun ke keheningan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "orang-orang mati"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "yang memuji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "yang turun"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "keheningan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:26.684551839Z",
+  "model": "glm-5.2"
+}

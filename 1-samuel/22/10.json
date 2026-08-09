@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "dan bertanyalah ⟨dia⟩ kepadanya melalui Yahweh, dan makanan diberikan kepadanya, dan ⟨את⟩ pedang Goliat orang Pelesyet itu diberikan kepadanya.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "dan bertanyalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "melalui Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "dan makanan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pedang Goliat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Pelesyet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:50:46.328210595Z",
+  "model": "glm-5.2"
+}

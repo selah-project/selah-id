@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan jika perempuan yang dilahirkan, maka ia tetap najis dua minggu, seperti masa haidnya, dan enam puluh hari enam hari ia tinggal atas darah penyucian.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ia melahirkan"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "maka ia najis"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "dua minggu"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "seperti haidnya"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dan enam puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "dan enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ia tinggal"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "penyucian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:13.007700942Z",
+  "model": "glm-5.2"
+}

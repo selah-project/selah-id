@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "“Pergilah, berbicaralah kepada Paroh, raja Mitsrayim, dan ⟨biarlah dia⟩ menyurang ⟨את⟩ bani Yisra'el keluar dari negerinya.”",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicaralah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan menyurang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "keluar dari negerinya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:53.400709248Z",
+  "model": "glm-5.2"
+}

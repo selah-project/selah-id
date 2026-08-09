@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Sebab kesalahanku aku nyatakan; aku cemas karena dosaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "kesalahanku"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "aku nyatakan"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "aku cemas"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "karena dosaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:09.460351966Z",
+  "model": "glm-5.2"
+}

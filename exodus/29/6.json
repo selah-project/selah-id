@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan engkau taruhlah ha-mitsnepheth itu di atas kepalanya, dan engkau berikanlah ⟨את⟩ nezer ha-kodesh itu di atas ha-mitsnepheth itu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Dan engkau taruhlah"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ha-mitsnepheth itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau berikanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezer"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ha-kodesh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ha-mitsnepheth itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:52.382229658Z",
+  "model": "glm-5.2"
+}

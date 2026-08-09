@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "⟨את⟩ siapa yang akan diajari pengetahuan, dan ⟨את⟩ siapa yang akan dibuat memahami kabar yang didengar? Mereka yang disapih dari susu, yang dipindahkan dari payudara.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "diajari"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "siapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "dibuat memahami"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "kabar yang didengar"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "mereka yang disapih"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dari susu"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "yang dipindahkan"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "dari payudara"
+    }
+  ],
+  "timestamp": "2026-08-08T08:20:59.950235171Z",
+  "model": "glm-5.2"
+}

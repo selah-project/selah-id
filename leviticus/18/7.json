@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Telanjang ayahmu dan telanjang ibumu janganlah kau-singkapkan; ibumulah dia, janganlah kau-singkapkan telanjangnya.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "dan telanjang"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kau-singkapkan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kau-singkapkan"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "telanjangnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:46.281691909Z",
+  "model": "glm-5.2"
+}

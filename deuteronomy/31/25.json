@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Mosheh membri perintah kepada ⟨את⟩ orang-orang Lewi, para pengangkut aron berit Yahweh, katanya:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dan-memberi-perintah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "orang-orang Lewi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "para-pengangkut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:47:54.506022081Z",
+  "model": "glm-5.2"
+}

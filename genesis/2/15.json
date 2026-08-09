@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim mengambil ⟨את⟩ ha-adam dan membaringkannya di taman Eden untuk mengolahnya dan menjaganya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu mengambil"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "dan membaringkannya"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "untuk mengolahnya"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "dan menjaganya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:14.213389621Z",
+  "model": "glm-5.2"
+}

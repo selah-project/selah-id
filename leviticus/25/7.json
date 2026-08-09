@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "dan bagi ternakmu dan bagi binatang liar yang di tanahmu — seluruh hasilnya akan menjadi untuk dimakan.",
+  "tokens": [
+    {
+      "surface": "וְלִ֨בְהֶמְתְּךָ֔",
+      "gloss": "dan bagi ternakmu"
+    },
+    {
+      "surface": "וְלַֽחַיָּ֖ה",
+      "gloss": "dan bagi binatang liar"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בְּאַרְצֶ֑ךָ",
+      "gloss": "di tanahmu"
+    },
+    {
+      "surface": "תִּהְיֶ֥ה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "תְּבוּאָתָ֖הּ",
+      "gloss": "hasilnya"
+    },
+    {
+      "surface": "לֶאֱכֹֽל",
+      "gloss": "untuk dimakan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:05.940608105Z",
+  "model": "glm-5.2"
+}

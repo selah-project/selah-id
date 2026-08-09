@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Elohim telah merajah atas bangsa-bangsa, Elohim telah duduk di atas takhta kekudusan-Nya.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "telah merajah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "telah duduk"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kekudusan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:01.360572738Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Semua mitsvot-Mu ⟨adalah⟩ kesetiaan; dengan kebohongan mereka menganiaya aku — tolonglah aku!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mitsvot-Mu"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kesetiaan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dengan kebohongan"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "mereka menganiaya aku"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "tolonglah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:57.735947506Z",
+  "model": "glm-5.2"
+}

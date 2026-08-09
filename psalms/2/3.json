@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "“Mari kita cabut ⟨את⟩ belenggu-belenggu mereka, dan kita lemparkan dari kita tali-tali mereka.”",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Mari kita cabut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belenggu-belenggu mereka"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "belenggu-belenggu mereka"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "dan kita lemparkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari kita"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "tali-tali mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:41.750612479Z",
+  "model": "glm-5.2"
+}

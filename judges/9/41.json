@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lalu Avimelekh diam di Arumah, dan Zevul mengusir ⟨את⟩ Ga'al dan ⟨את⟩ saudara-saudaranya dari diam di Shekhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lalu diam"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "di Arumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "dan mengusir"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Ga'al"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "dari diam"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "di Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-08T07:41:19.513127220Z",
+  "model": "glm-5.2"
+}

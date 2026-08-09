@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "⟨Pengetahuan⟩ yang mengagumkan ⟨terlalu⟩ daripadaku; ⟨ia⟩ ditinggikan, aku tidak mampu baginya.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "yang mengagumkan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨pengetahuan⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ditinggikan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aku mampu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:29.659660766Z",
+  "model": "glm-5.2"
+}

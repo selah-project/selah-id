@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Berkabung, layu ⟨lah⟩ bumi; merana, layu ⟨lah⟩ dunia; merana ⟨lah⟩ tempat tinggi umat bumi.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Berkabung"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "layu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "merana"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "layu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "merana"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "tempat tinggi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T08:21:03.523393577Z",
+  "model": "glm-5.2"
+}

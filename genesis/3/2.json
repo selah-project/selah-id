@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu berkatalah ⟨si⟩ perempuan itu kepada ⟨si⟩ ular itu, “Dari buah pohon-pohon ⟨di⟩ taman itu kami makan.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ular itu"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "dari buah"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon-pohon"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "taman itu"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kami makan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:18.593226163Z",
+  "model": "glm-5.2"
+}

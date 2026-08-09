@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Yahweh telah menyingsingkan ⟨את⟩ telinga Shemuël satu hari sebelum datangnya Sha'ul, yang berbunyi:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dan Yahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "telah menyingsingkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "telinga"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "datangnya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang berbunyi"
+    }
+  ],
+  "timestamp": "2026-08-08T12:42:45.305123207Z",
+  "model": "glm-5.2"
+}

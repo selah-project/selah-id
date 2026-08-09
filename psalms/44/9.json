@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Di dalam Elohim kami bermegalah sepanjang hari, dan nama-Mu kami syukur sampai selamanya. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Di dalam Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "kami bermegalah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "dan nama-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selamanya"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "kami syukur"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:02.207700671Z",
+  "model": "glm-5.2"
+}

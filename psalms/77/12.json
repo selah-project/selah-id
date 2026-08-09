@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Aku akan mengingat perbuatan-perbuatan Yah; ya, aku akan mengingat keajaiban-keajaiban-Mu dari purba.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "aku akan mengingat"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "perbuatan-perbuatan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "aku akan mengingat"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dari purba"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "keajaiban-keajaiban-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:20.105914024Z",
+  "model": "glm-5.2"
+}

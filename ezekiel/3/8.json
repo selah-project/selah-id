@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lihat, Aku telah membuat ⟨את⟩ wajahmu keras berhadapan dengan wajah mereka, dan ⟨את⟩ dahimu keras berhadapan dengan dahi mereka.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku telah membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahmu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "keras"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "berhadapan dengan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wajah mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dahimu"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "dahimu"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "keras"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "berhadapan dengan"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "dahi mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:22:00.167255371Z",
+  "model": "glm-5.2"
+}

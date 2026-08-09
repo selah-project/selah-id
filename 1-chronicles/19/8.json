@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Ketika Dawid mendengarnya, maka ⟨ia⟩ menyuruh ⟨את⟩ Yoav dan ⟨את⟩ seluruh pasukan pahlawan-pahlawan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ketika mendengarnya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "maka ⟨ia⟩ menyuruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh pasukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "pahlawan-pahlawan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:08:51.053976289Z",
+  "model": "glm-5.2"
+}

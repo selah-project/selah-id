@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Dan Yisra'el melihat ⟨את⟩ anak-anak Yosef, dan berkata, “Siapakah ini?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T10:28:11.520821389Z",
+  "model": "glm-5.2"
+}

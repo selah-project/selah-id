@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Bukan satu hari kamu akan makan, dan bukan dua hari, dan bukan lima hari, dan bukan sepuluh hari, dan bukan dua puluh hari.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "kamu akan makan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T07:17:48.290239004Z",
+  "model": "glm-5.2"
+}

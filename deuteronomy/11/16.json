@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 11:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Hati-hatilah kamu, supaya hatimu jangan ditipu, dan kamu menyimpang dan kamu beribadah kepada elohim lain dan kamu sujud menyembah kepada mereka.",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "Hati-hatilah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ditipu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "dan kamu menyimpang"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "dan kamu beribadah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kepada elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "dan kamu sujud menyembah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:29.251154411Z",
+  "model": "glm-5.2"
+}

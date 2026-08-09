@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Sebab engkau melakukannya secara tersembunyi, tetapi Aku akan melakukan ⟨את⟩ perkara ini di hadapan seluruh Yisrael dan di hadapan matahari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "melakukannya"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "secara tersembunyi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tetapi Aku"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:11.414345180Z",
+  "model": "glm-5.2"
+}

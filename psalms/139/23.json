@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Selidikilah aku, El, dan kenallah hatiku; ujilah aku dan kenallah pikiranku yang gelisah,",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "selidikilah aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "dan kenallah"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ujilah aku"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "dan kenallah"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "pikiranku yang gelisah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:27.807879253Z",
+  "model": "glm-5.2"
+}

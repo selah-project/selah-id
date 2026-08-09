@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan ⟨orang yang⟩ tidur di rumah itu harus mencuci ⟨את⟩ pakaiannya, dan ⟨orang yang⟩ makan di rumah itu harus mencuci ⟨את⟩ pakaiannya.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "dan yang tidur"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "harus mencuci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "dan yang makan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "harus mencuci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:13.705041368Z",
+  "model": "glm-5.2"
+}

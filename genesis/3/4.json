@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka berkatalah ⟨si⟩ ular itu kepada ⟨si⟩ perempuan itu, “Tidak! Kalian tidak akan mati.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maka berkatalah"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ular itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kalian akan mati"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:18.593519931Z",
+  "model": "glm-5.2"
+}

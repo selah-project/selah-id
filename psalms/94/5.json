@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Umat-Mu, ya Yahweh, mereka menghancurkan, dan warisan-Mu mereka menindas.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Umat-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "mereka menghancurkan"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "dan warisan-Mu"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "mereka menindas"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:06.061140387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "suatu angkatan — ayahnya ia kutuk, dan ⟨את⟩ ibunya tidak ia berkati.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "suatu angkatan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ia kutuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibunya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ia berkati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:58.897487061Z",
+  "model": "glm-5.2"
+}

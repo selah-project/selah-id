@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan tentaranya dan yang dicatat dari mereka: dua dan enam puluh ribu dan tujuh ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Dan tentaranya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dan yang dicatat dari mereka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dan enam puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "dan tujuh"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:14:07.184066702Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "“Dan hendaklah bani Yisra'el membuat ⟨את⟩ pesakh pada waktu yang ditentukannya.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "dan hendaklah membuat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesakh"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "pada waktu yang ditentukannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:35.305643197Z",
+  "model": "glm-5.2"
+}

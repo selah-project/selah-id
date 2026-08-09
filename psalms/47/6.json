@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Naiklah Elohim di tengah sorak-sorai, Yahweh di tengpa suara syofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "di tengah sorak-sorai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "di tengpa suara"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "syofar"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:30.524814267Z",
+  "model": "glm-5.2"
+}

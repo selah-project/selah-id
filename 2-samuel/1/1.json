@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka terjadilah setelah kematian Sha'ul, ketika Dawid kembali dari pemukulan terhadap ⟨את⟩ orang Amalek, dan Dawid tinggal di Tziklag dua hari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dan Dawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "dari pemukulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "orang Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan tinggallah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "di Tziklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:25.666102861Z",
+  "model": "glm-5.2"
+}

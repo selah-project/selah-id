@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Janganlah kamu buat untuk dirimu berhala, dan patung pahatan dan tugu berdiri janganlah kamu dirikan untuk dirimu, dan batu berukir janganlah kamu letakkan di tanahmu untuk sujud menyembah kepadanya, karena akulah Yahweh Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuk dirimu"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "berhala"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "dan patung pahatan"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "dan tugu berdiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "kamu dirikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuk dirimu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "berukir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kamu letakkan"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di tanahmu"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "untuk sujud menyembah"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:02.604716112Z",
+  "model": "glm-5.2"
+}

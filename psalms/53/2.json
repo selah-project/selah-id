@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 53,
+  "translation": "⟨Seorang⟩ bodoh telah berkata dalam hatinya, 'Tidak ada Elohim.' Mereka telah busuk dan telah menjadi menjijikkan ⟨dalam⟩ kecurangan; tidak ada ⟨yang⟩ melakukan kebaikan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "telah berkata"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bodoh"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dalam hatinya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "mereka telah busuk"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "dan telah menjadi menjijikkan"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kecurangan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:39.252484536Z",
+  "model": "glm-5.2"
+}

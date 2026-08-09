@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Janganlah engkau memperkirakan ⟨hukum⟩ ger yatim, dan janganlah engkau mengambil sandaran beged almanah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "engkau memperkirakan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨hukum⟩"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "engkau mengambil sandaran"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "beged"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "almanah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:21.717048342Z",
+  "model": "glm-5.2"
+}

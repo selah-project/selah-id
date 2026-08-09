@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Mereka minum anggur, dan memuji elah-elah emas dan perak, tembaga, besi, kayu, dan batu.",
+  "tokens": [
+    {
+      "surface": "אִשְׁתִּ֖יו",
+      "gloss": "mereka minum"
+    },
+    {
+      "surface": "חַמְרָ֑א",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "וְ֠שַׁבַּחוּ",
+      "gloss": "dan memuji"
+    },
+    {
+      "surface": "לֵֽאלָהֵ֞י",
+      "gloss": "elah-elah"
+    },
+    {
+      "surface": "דַּהֲבָ֧א",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וְכַסְפָּ֛א",
+      "gloss": "dan perak"
+    },
+    {
+      "surface": "נְחָשָׁ֥א",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "פַרְזְלָ֖א",
+      "gloss": "besi"
+    },
+    {
+      "surface": "אָעָ֥א",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "וְאַבְנָֽא",
+      "gloss": "dan batu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:59:32.541999783Z",
+  "model": "glm-5.2"
+}

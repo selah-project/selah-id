@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 121,
+  "translation": "Yahweh akan menjagamu dari segala kejahatan; ⟨dia⟩ akan menjaga ⟨את⟩ napasmu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "akan menjagamu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "⟨dia⟩ akan menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "napasmu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "napasmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:15.633292532Z",
+  "model": "glm-5.2"
+}

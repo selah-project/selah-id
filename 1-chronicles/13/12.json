@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Lalu takutlah Dawid kepada ⟨את⟩ Elohim pada hari itu, katanya: “Bagaimana aku dapat membawa ⟨את⟩ aron Elohim ini kepadaku?”",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "dan takutlah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "היך",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "aku dapat membawa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:07:02.779277857Z",
+  "model": "glm-5.2"
+}

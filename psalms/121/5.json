@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 121,
+  "translation": "Yahweh ⟨penjaga⟩mu, Yahweh naunganmu pada tangan kananmu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "⟨penjaga⟩mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "naunganmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "kananmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:15.632739338Z",
+  "model": "glm-5.2"
+}

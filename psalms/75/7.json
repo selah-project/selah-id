@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 75,
+  "translation": "Sebab bukan dari timur dan bukan dari barat, dan bukan dari padang gurun ⟨adalah⟩ pengangkatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "dari timur"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "dan dari barat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dari padang gurun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pengangkatan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:26.513698165Z",
+  "model": "glm-5.2"
+}

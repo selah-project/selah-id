@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan imam itu akan menilai ⟨את⟩ dia, antara yang baik dan antara yang jahat; seperti penilaianmu, hai imam, demikianlah ia akan menjadi.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Dan imam itu akan menilai"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "seperti penilaianmu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "hai imam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan menjadi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:07.838516136Z",
+  "model": "glm-5.2"
+}

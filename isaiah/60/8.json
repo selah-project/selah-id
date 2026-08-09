@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Siapakah ⟨mereka⟩ ini yang terbang seperti awan, dan seperti merpati ke jendela-jendela mereka?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "seperti awan"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "yang terbang"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "dan seperti merpati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "jendela-jendela mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:28:35.885779786Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Avigail melahirkan ⟨את⟩ Amasa, dan ayah Amasa ⟨adalah⟩ Yeter orang Yishmaeli.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Dan Avigail"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "dan ayah"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "orang Yishmaeli"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:53.610396166Z",
+  "model": "glm-5.2"
+}

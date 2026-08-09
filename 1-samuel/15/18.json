@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan Yahweh mengutus engkau dalam perjalanan dan berkata, Pergilah dan tumpaslah orang-orang berdosa ⟨את⟩ Amalek, dan berperanglah melawan mereka sampai membinasakan ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "Dan mengutus engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dalam perjalanan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "dan tumpaslah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang berdosa"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "orang-orang berdosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "dan berperanglah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "melawan mereka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "membinasakan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T23:21:01.715855794Z",
+  "model": "glm-5.2"
+}

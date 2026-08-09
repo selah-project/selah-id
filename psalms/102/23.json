@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "pada waktu berkumpul bangsa-bangsa bersama-sama, dan kerajaan-kerajaan, untuk beribadah kepada ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "pada waktu berkumpul"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "dan kerajaan-kerajaan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuk beribadah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:46.223447262Z",
+  "model": "glm-5.2"
+}

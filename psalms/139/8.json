@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Jika aku naik ke langit — di sana Engkau ⟨ada⟩; dan jika aku membentangkan ⟨tempat tidur⟩ di Sheol, lihat, Engkau ⟨ada⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "aku naik"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ke langit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "dan aku membentangkan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "lihat, Engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:29.659820789Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 85,
+  "translation": "Hesed dan kebenaran berjumpa; keadilan dan kedamaian berciuman.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "berjumpa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "dan kedamaian"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "berciuman"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:03.541537274Z",
+  "model": "glm-5.2"
+}

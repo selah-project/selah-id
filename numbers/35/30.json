@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Setiap pemukul ⟨את⟩ nefesh, berdasarkan mulut saksi-saksi, harus dibunuh ⟨את⟩ pembunuh itu; tetapi saksi satu ⟨tidak⟩ boleh bersaksi terhadap ⟨seorang⟩ nefesh untuk mati.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Setiap"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pemukul"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "berdasarkan mulut"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "harus dibunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pembunuh itu"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pembunuh itu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tetapi saksi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "boleh bersaksi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "terhadap nefesh"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuk mati"
+    }
+  ],
+  "timestamp": "2026-08-08T07:23:45.680636482Z",
+  "model": "glm-5.2"
+}

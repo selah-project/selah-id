@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "yang mengucapkan Engkau untuk maksud jahat — terangkat sia-sia, musuh-musuh-Mu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "mengucapkan Engkau"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "untuk maksud jahat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "terangkat"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "musuh-musuh-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:18.267263389Z",
+  "model": "glm-5.2"
+}

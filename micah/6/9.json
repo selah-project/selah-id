@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Suara Yahweh memanggil kepada kota, dan kebijaksanaan akan takut akan namamu; dengarlah, hai tongkat, dan siapa yang menetapkannya!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kepada kota"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "dan kebijaksanaan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akan takut"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "hai tongkat"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapa"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "menetapkannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:02:00.095276827Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Perkataan pengumpat ⟨adalah⟩ seperti gigitan yang nikmat, dan ⟨mereka⟩ turun ke kamar-kamar perut.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Perkataan"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "pengumpat"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "seperti gigitan yang nikmat"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dan ⟨mereka⟩"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ke kamar-kamar"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "perut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:02.213719916Z",
+  "model": "glm-5.2"
+}

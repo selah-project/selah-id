@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "Sebab lihat, musuh-musuh-Mu, Yahweh, sebab lihat, musuh-musuh-Mu akan binasa; akan berserak-serak semua pelaku kesia-siaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuh-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuh-Mu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "akan binasa"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "akan berserak-serak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pelaku"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesia-siaan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:43.821430039Z",
+  "model": "glm-5.2"
+}

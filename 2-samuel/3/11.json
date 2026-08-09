@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨ia⟩ tidak sanggup lagi menjawab ⟨את⟩ Avner satu perkataan pun, karena ketakutan-⟨ia⟩ terhadap ⟨את⟩-nya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "karena ketakutan-nya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "ia (Avner)"
+    }
+  ],
+  "timestamp": "2026-08-09T01:40:59.508357525Z",
+  "model": "glm-5.2"
+}

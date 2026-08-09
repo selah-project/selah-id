@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan terjadilah, ketika kerajaan itu kuat di tangannya, bahwa ia memukul ⟨את⟩ hamba-hambanya, yang memukul ⟨את⟩ sang raja ayahnya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan itu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ia memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "yang memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:13:56.315121339Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 84,
+  "translation": "Betapa berbahagianya penduduk rumah-Mu; lagi mereka memuji-Mu. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "betapa berbahagianya"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "mereka memuji-Mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:02.374904039Z",
+  "model": "glm-5.2"
+}

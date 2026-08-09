@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan Dawid pergi dan kembali dari pada Shaul, untuk menggembalakan ⟨את⟩ kambing domba ayahnya di Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "dan Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan kembali"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari pada"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "untuk menggembalakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing domba"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing domba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-08-08T07:48:46.454698899Z",
+  "model": "glm-5.2"
+}

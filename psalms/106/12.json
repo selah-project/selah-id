@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Lalu percayalah mereka kepada firman-Nya, mereka menyanyikan pujian-Nya.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Lalu percayalah"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "kepada firman-Nya"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "mereka menyanyikan"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:29.665036304Z",
+  "model": "glm-5.2"
+}

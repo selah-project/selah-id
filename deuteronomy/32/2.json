@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Kiranya menetes seperti hujan pengajaranku, mengalir seperti embun ucapanku, seperti hujan rintik-rintik ⟨di⟩ atas tunas muda, dan seperti pancuran ⟨di⟩ atas rumput.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "Kiranya menetes"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "seperti hujan"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "pengajaranku"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "mengalir"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "seperti embun"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ucapanku"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "seperti hujan rintik-rintik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨di⟩ atas"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "tunas muda"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "dan seperti pancuran"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨di⟩ atas"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rumput"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:23.846347142Z",
+  "model": "glm-5.2"
+}

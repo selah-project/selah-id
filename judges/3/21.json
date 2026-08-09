@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu Ehud mengulurkan tangan kirinya dan mengambil ⟨את⟩ pedang itu dari paha kanannya, dan menikamkannya ke perutnya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu mengulurkan"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "kirinya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedang itu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang itu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "paha"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kanannya"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "dan menikamkannya"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "ke perutnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:40:09.452336713Z",
+  "model": "glm-5.2"
+}

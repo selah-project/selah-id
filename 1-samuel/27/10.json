@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Lalu berkatalah Akhis, “Jangankah kamu menyerbu hari ini?” Dan berkatalah Dawid, “Terhadap Tanah Selatan Yehudah dan terhadap Tanah Selatan orang Yerahmeeli dan ke Tanah Selatan orang Qeni.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akhis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jangankah"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "kamu menyerbu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "Terhadap"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Tanah Selatan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Tanah Selatan"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "orang Yerahmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Tanah Selatan"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "orang Qeni"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:07.286182324Z",
+  "model": "glm-5.2"
+}

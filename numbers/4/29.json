@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Bani Merari, menurut keluarga-keluarga mereka, menurut bait ayah mereka, engkau menghitung ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut keluarga-keluarga mereka"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "menurut bait"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "engkau menghitung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:14:47.228281389Z",
+  "model": "glm-5.2"
+}

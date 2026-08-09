@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Berkasihanlah kepadaku, ya Elohim, karena manusia fana menghimpitku; sepanjang hari ⟨ia⟩ berperang menindihaku.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "berkasihanlah kepadaku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "menghimpitku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "menindihaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:07.156442444Z",
+  "model": "glm-5.2"
+}

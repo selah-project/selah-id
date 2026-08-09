@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Maka Ezra ha-kohen membawa ⟨את⟩ ha-torah di depan ha-qahal, dari laki-laki sampai perempuan, dan setiap orang yang mengerti untuk mendengar, pada hari pertama bulan ketujuh.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "maka ia membawa"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari laki-laki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "yang mengerti"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "untuk mendengar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:01:07.999206311Z",
+  "model": "glm-5.2"
+}

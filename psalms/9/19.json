@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Sebab tidak selamanya ⟨akan⟩ terlupakan orang miskin; harapan orang-orang yang rendah hati tidak binasa untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selamanya"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "terlupakan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "harapan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang yang rendah hati"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:02.625500040Z",
+  "model": "glm-5.2"
+}

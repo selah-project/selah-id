@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Janganlah kamu melakukan kecurangan dalam hukum, dalam ukuran, dalam timbangan, dan dalam takaran.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu melakukan"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kecurangan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dalam hukum"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "dalam ukuran"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "dalam timbangan"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "dan dalam takaran"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:31.374711051Z",
+  "model": "glm-5.2"
+}

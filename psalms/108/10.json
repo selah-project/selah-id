@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 108,
+  "translation": "Moab ⟨adalah⟩ periuk pencucian-Ku, atas Edom Kulemparkan sandal-Ku, atas Peleshet Aku bersorak-sorai.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "periuk"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "pencucian-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "Kulemparkan"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandal-Ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "Aku bersorak-sorai"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:38.051387342Z",
+  "model": "glm-5.2"
+}

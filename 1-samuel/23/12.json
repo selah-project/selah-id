@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu berkatalah Dawid, “Apakah tuan-tuan Qeʿilah akan menyerahkan ⟨את⟩ aku dan ⟨את⟩ anak buahku ke dalam tangan Shaúl?” Lalu berkatalah Yahweh, “Mereka akan menyerahkan.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Apakah ... akan menyerahkan"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "tuan-tuan"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeʿilah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak buahku"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anak buahku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Mereka akan menyerahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:08.571825063Z",
+  "model": "glm-5.2"
+}

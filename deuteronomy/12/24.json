@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Janganlah kau-makan ⟨dia⟩; ke atas bumi itu kaucurahkan ⟨dia⟩ seperti air.",
+  "tokens": [
+    {
+      "surface": "לֹ֖א",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תֹּאכְלֶ֑נּוּ",
+      "gloss": "kau-makan ⟨dia⟩"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הָאָ֥רֶץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "תִּשְׁפְּכֶ֖נּוּ",
+      "gloss": "kaucurahkan ⟨dia⟩"
+    },
+    {
+      "surface": "כַּמָּֽיִם",
+      "gloss": "seperti air"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:08.241494145Z",
+  "model": "glm-5.2"
+}

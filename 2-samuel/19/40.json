@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Lalu seluruh rakyat menyeberangi ⟨את⟩ sungai Yarden, dan raja itu menyeberang; dan raja itu menciumi Barzilai, dan memberkatinya, dan ⟨ia⟩ kembalilah ke tempatnya.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Lalu menyeberangi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "dan raja itu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "menyeberang"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dan menciumi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzilai"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "dan memberkatinya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan kembalilah"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ke tempatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:00:22.463696152Z",
+  "model": "glm-5.2"
+}

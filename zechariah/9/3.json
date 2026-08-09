@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Tzor membangun benteng bagi dirinya, dan menumpukkan perak seperti debu, dan emas seperti lumpur jalanan.",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "Dan membangun"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "dan menumpukkan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "seperti debu"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "seperti lumpur"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "jalanan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:05:00.951574619Z",
+  "model": "glm-5.2"
+}

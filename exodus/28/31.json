@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Dan engkau harus membuat ⟨את⟩ me'il ha-efod, semuanya biru-gelap.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau harus membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me'il"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "me'il"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ha-efod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru-gelap"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:12.259249442Z",
+  "model": "glm-5.2"
+}

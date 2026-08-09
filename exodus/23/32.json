@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Janganlah engkau mengikat bagi mereka dan bagi elohim mereka perjanjian.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "engkau mengikat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "dan bagi elohim mereka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:27.721201786Z",
+  "model": "glm-5.2"
+}

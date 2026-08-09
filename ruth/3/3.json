@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Mandilah-engkau dan beruraplah-engkau, dan kenakanlah pakaianmu atasmu, dan turunlah-engkau ke lantai pengirikan itu. Jangan diketahui-engkau kepada siapa pun sampai ia selesai makan dan minum.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "Mandilah-engkau"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "dan beruraplah-engkau"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "dan kenakanlah"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "pakaianmu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "dan turunlah-engkau"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ke lantai pengirikan itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "diketahui-engkau"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada siapa pun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ia selesai"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "dan minum"
+    }
+  ],
+  "timestamp": "2026-08-08T09:47:53.614301490Z",
+  "model": "glm-5.2"
+}

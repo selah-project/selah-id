@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "Nyanyian, mizmor bagi Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:27.656328846Z",
+  "model": "glm-5.2"
+}

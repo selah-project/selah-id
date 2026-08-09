@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Orang yang berjalan dalam kelurusannya takut akan Yahweh, tetapi orang yang bengkok jalannya menghina Dia.",
+  "tokens": [
+    {
+      "surface": "הוֹלֵ֣ךְ",
+      "gloss": "orang yang berjalan"
+    },
+    {
+      "surface": "בְּ֭יָשְׁרוֹ",
+      "gloss": "dalam kelurusannya"
+    },
+    {
+      "surface": "יְרֵ֣א",
+      "gloss": "takut akan"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּנְל֖וֹז",
+      "gloss": "tetapi orang yang bengkok"
+    },
+    {
+      "surface": "דְּרָכָ֣יו",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "בּוֹזֵֽהוּ",
+      "gloss": "menghina Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:27.796802783Z",
+  "model": "glm-5.2"
+}

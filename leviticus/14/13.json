@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan ⟨ia⟩ akan menyembelih ⟨את⟩ domba jantan itu di tempat di mana ⟨ia⟩ menyembelih ⟨את⟩ korban penghapusan dosa dan ⟨את⟩ korban bakaran, di tempat kudus; karena seperti korban penghapusan dosa, demikianlah korban penehan salah ⟨itu⟩ — bagi kohen ⟨itu⟩ — qodesh qodashim ⟨itulah⟩.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "dan ia akan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba jantan itu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba jantan itu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ia menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban penghapusan dosa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban pengapusan dosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "seperti korban pengapusan dosa"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "korban penehan salah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bagi kohen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qodashim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itulah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:30.218916887Z",
+  "model": "glm-5.2"
+}

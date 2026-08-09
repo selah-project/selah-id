@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu Yahweh mengalahkan ⟨את⟩ orang-orang Kush di hadapan Asa dan di hadapan Yehuda, dan orang-orang Kush melarikan diri.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "dan mengalahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang Kush"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "orang-orang Kush"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dan melarikan diri"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "orang-orang Kush"
+    }
+  ],
+  "timestamp": "2026-08-08T10:14:30.160536928Z",
+  "model": "glm-5.2"
+}

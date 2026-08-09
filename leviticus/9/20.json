@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan mereka menaruh ⟨את⟩ lemak-lemak itu di atas dada-dada itu, dan ia membakar sebagai wangi ⟨את⟩ lemak-lemak itu di atas mezbah itu.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dan mereka menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak-lemak itu"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "lemak-lemak itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "dada-dada itu"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dan ia membakar sebagai wangi"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "lemak-lemak itu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:36:58.225197852Z",
+  "model": "glm-5.2"
+}

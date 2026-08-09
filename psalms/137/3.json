@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 137,
+  "translation": "Sebab di sana para penawan kami meminta dari kami perkataan nyanyian, dan para penyiksa kami ⟨meminta⟩ kegembiraan: “Nyanyikanlah untuk kami dari nyanyian Tzion.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "para penawan kami meminta dari kami"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "para penawan kami"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "dan para penyiksa kami"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kegembiraan"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyanyikanlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuk kami"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "dari nyanyian"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:18.357610345Z",
+  "model": "glm-5.2"
+}

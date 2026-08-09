@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Sesungguhnya kebenaran Engkau rindukan di tempat terdalam, dan di tempat tersembunyi hikmat Engkau perkenankan aku tahu.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Engkau rindukan"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "di tempat terdalam"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "dan di tempat tersembunyi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "Engkau perkenankan aku tahu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:57.910702452Z",
+  "model": "glm-5.2"
+}

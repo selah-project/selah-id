@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Yahweh, bimbinglah aku dalam kebenaran-Mu demi para lawanku, lancarkanlah jalan-Mu di hadapan wajahku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "bimbinglah aku"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dalam kebenaran-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "para lawanku"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "lancarkanlah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:37.493543936Z",
+  "model": "glm-5.2"
+}

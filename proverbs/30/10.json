@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "jangan memfitnah seorang hamba kepada tuannya, supaya ia tidak mengutuk kamu dan kamu ⟨dianggap⟩ bersalah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "memfitnah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "seorang hamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "tuannya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "ia mengutuk kamu"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "dan kamu ⟨dianggap⟩ bersalah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:58.897367738Z",
+  "model": "glm-5.2"
+}

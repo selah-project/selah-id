@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan sapi dan beruang akan merumput bersama-sama, anak-anaknya akan berbaring, dan singa seperti lembu akan makan jerami.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "dan sapi"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "dan beruang"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "akan merumput"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "akan berbaring"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "dan singa"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "seperti lembu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akan makan"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "jerami"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:54.387458256Z",
+  "model": "glm-5.2"
+}

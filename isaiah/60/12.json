@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Karena bangsa dan kerajaan yang tidak akan melayanimu akan binasa, dan bangsa-bangsa itu akan disepenuhnya diruntuhkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "dan kerajaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "akan melayanimu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "akan binasa"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "dan bangsa-bangsa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "diruntuhkan"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "akan disepenuhnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:14:49.709573454Z",
+  "model": "glm-5.2"
+}

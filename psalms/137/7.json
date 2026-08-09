@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 137,
+  "translation": "Ingatlah, hai Yahweh, kepada bani Edom ⟨את⟩ hari Yerushalayim, yang berkata: “Bongkarlah, bongkarlah sampai fondasinya!”",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "hai Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada bani"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari Yerushalayim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Bongkarlah"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bongkarlah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "fondasinya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:27.841505252Z",
+  "model": "glm-5.2"
+}

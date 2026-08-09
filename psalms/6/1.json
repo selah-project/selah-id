@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Untuk pemimpin musik, dengan permainan gesek, ⟨pada⟩ yang kedelapan. Mizmur bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin musik"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "dengan permainan gesek"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨pada⟩"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "yang kedelapan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:06.085087779Z",
+  "model": "glm-5.2"
+}

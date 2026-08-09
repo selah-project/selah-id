@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Mereka telah melihat perbuatan-perbuatan Yahweh, dan perbuatan-perbuatan-Nya yang ajaib di samudera.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "perbuatan-perbuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dan perbuatan-perbuatan-Nya yang ajaib"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "di samudera"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:10.473547888Z",
+  "model": "glm-5.2"
+}

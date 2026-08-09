@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Maka aku berbalik, aku, untuk berputus-asa mengenai ⟨את⟩ hatiku atas segala jerih lelah yang aku perihat di bawah matahari.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "maka aku berbalik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "untuk berputus-asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatiku"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "jerih lelah"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "yang aku perihat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:27.772044267Z",
+  "model": "glm-5.2"
+}

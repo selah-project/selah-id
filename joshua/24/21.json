@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan bangsa itu berkata kepada Yehosyua: “Tidak, melainkan ⟨את⟩ Yahweh yang akan kami layani.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "yang akan kami layani"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:21.312731479Z",
+  "model": "glm-5.2"
+}

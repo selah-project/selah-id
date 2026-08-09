@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan manusia berlubang ⟨di⟩-berhati, dan anak keledai liar dilahirkan ⟨manusia⟩.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan manusia"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "berlubang"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "berhati"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "dan anak keledai"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "liar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "dilahirkan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:32.669778145Z",
+  "model": "glm-5.2"
+}

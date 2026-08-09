@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "maka keluarlah imam itu dari rumah ke pintu rumah itu, dan ⟨ia⟩ mengkarantina ⟨את⟩ rumah itu tujuh hari lamanya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "dan mengkarantina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:25.972063673Z",
+  "model": "glm-5.2"
+}

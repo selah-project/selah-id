@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan tangan Midyan berkuasa atas Yisra'el; dari hadapan Midyan bani Yisra'el membuat bagi diri mereka ⟨את⟩ ceruk-ceruk yang di pegunungan, dan ⟨את⟩ gua-gua, dan ⟨את⟩ benteng-benteng.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "Dan berkuasa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi diri mereka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceruk-ceruk"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "ceruk-ceruk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "gua-gua"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "gua-gua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "benteng-benteng"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "benteng-benteng"
+    }
+  ],
+  "timestamp": "2026-08-08T10:52:09.892041719Z",
+  "model": "glm-5.2"
+}

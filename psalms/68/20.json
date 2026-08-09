@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Terpujalah Adonai, hari demi hari; ⟨Dialah⟩ yang menanggunggulkan bagi kita, ha-El keselamatan kita. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יום",
+      "gloss": "demi hari"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "yang menanggungkan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ha-El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "keselamatan kita"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:08.785558377Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 70,
+  "translation": "Elohim, untuk melepaskan aku; Yahweh, untuk menolong aku, segeralah!",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְהַצִּילֵ֑נִי",
+      "gloss": "untuk melepaskan aku"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְעֶזְרָתִ֥י",
+      "gloss": "untuk menolong aku"
+    },
+    {
+      "surface": "חֽוּשָֽׁה",
+      "gloss": "segeralah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:57.301477616Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan ⟨ia⟩ mengandung lagi dan melahirkan seorang putra, dan berkata, “Kali ini aku akan memuji ⟨את⟩ Yahweh,” oleh sebab itu ⟨ia⟩ menamai namanya Yehuda; dan ⟨ia⟩ berhenti melahirkan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "dan mengandung"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang putra"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "kali ini"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "aku akan memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "oleh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "menamai"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dan berhenti"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "melahirkan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:18.117723483Z",
+  "model": "glm-5.2"
+}

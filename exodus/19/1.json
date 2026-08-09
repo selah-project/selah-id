@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Pada bulan ketiga, pada keluarnya bani Yisrael dari tanah Mitsrayim, pada hari itu mereka datang ke padang gurun Sinai.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Pada bulan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "pada keluarnya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "mereka datang"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:04.922326522Z",
+  "model": "glm-5.2"
+}

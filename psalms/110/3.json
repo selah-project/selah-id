@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 110,
+  "translation": "Umatmu — sukarela, pada hari kekuatanmu; ⟨dalam⟩ perhiasan kekudusan; dari rahim fajar, bagimulah embun masa mudamu.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "sukarela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "kekuatanmu"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "⟨dalam⟩ perhiasan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kekudusan"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dari rahim"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "טל",
+      "gloss": "embun"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "masa mudamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:19.649083733Z",
+  "model": "glm-5.2"
+}

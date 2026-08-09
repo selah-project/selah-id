@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Manusia ⟨dalam⟩ kemuliaan tetapi tidak memahami, telah diserupakan kepada binatang-binatang, telah dibuat senyap.",
+  "tokens": [
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "Manusia"
+    },
+    {
+      "surface": "בִּ֭יקָר",
+      "gloss": "⟨dalam⟩ kemuliaan"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יָבִ֑ין",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "נִמְשַׁ֖ל",
+      "gloss": "telah diserupakan"
+    },
+    {
+      "surface": "כַּבְּהֵמ֣וֹת",
+      "gloss": "kepada binatang-binatang"
+    },
+    {
+      "surface": "נִדְמֽוּ",
+      "gloss": "telah dibuat senyap"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:54.093260855Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 150,
+  "translation": "Setiap ⟨yang bernapas⟩ pujilah Yah, hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Setiap"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "⟨yang bernapas⟩"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:15.228236517Z",
+  "model": "glm-5.2"
+}

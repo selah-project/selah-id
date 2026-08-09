@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan inilah ⟨yang menjadi⟩ anak-anak Oholibama, binti Ana, binti Tsibeon, isteri Esav; dan ia melahirkan bagi Esav ⟨את⟩ Ye'is dan ⟨את⟩ Ya'lam dan ⟨את⟩ Korach.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨yang menjadi⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibeon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan ia melahirkan"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "bagi Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ye'is"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Ye'is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Ya'lam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Ya'lam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:45.846005575Z",
+  "model": "glm-5.2"
+}

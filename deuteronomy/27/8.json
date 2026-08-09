@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan engkau akan menulis pada batu-batu itu ⟨את⟩ segala perkataan hukum Taurat ini, ukirlah dengan jelas.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Dan engkau akan menulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan hukum Taurat ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "hukum Taurat"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ukirlah"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "dengan jelas"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:49.737878648Z",
+  "model": "glm-5.2"
+}

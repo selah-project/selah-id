@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Lalu menjawablah ⟨HaAm⟩ dan berkatalah: “Jauhlah itu dari kita untuk meninggalkan ⟨את⟩ Yahweh, untuk melayani elohim-elohim lain!”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lalu menjawablah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨HaAm⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "jauhlah itu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dari kita"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "untuk meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuk melayani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim-elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    }
+  ],
+  "timestamp": "2026-08-08T07:39:15.786915026Z",
+  "model": "glm-5.2"
+}

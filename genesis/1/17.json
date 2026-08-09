@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Elohim menaruh ⟨את⟩-nya di cakrawala langit untuk menerangi atas bumi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan menaruh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-nya",
+      "marks": "cahaya-cahaya (matahari, bulan, bintang)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "di cakrawala"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "untuk menerangi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T18:21:58.832682788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "dan ⟨את⟩ orang Chivi, dan ⟨את⟩ orang Arqi, dan ⟨את⟩ orang Sini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Chivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "orang Chivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Arqi"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "orang Arqi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "orang Sini"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:28.654842458Z",
+  "model": "glm-5.2"
+}

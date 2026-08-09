@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Jangan takut dari keterkejutan mendadak, dan dari kehancuran orang-orang fasik, ketika ia datang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "dari keterkejutan"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "mendadak"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "dan dari kehancuran"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ia datang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:17.806294808Z",
+  "model": "glm-5.2"
+}

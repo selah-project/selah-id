@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Bersyukurlah kepada Yahweh, sebab ⟨Ia⟩ baik, sejak sampai selamanya hesed-⟨Nya⟩.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Bersyukurlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sejak"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:21.215211955Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan bersungut-sungutlah rakyat kepada Mosheh, berkata: “Apa yang akan kami minum?”",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "Dan bersungut-sungutlah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "yang akan kami minum"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:14.938055306Z",
+  "model": "glm-5.2"
+}

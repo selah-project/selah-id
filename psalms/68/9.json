@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Bumi berguncang, bahkan langit meneteskan ⟨air⟩ dari hadapan Elohim — ini Sinai — dari hadapan Elohim, Elohim ⟨milik⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "berguncang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "meneteskan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨milik⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:10.717956661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Ia mengirim firman-Nya dan mencairkan mereka; Ia membuat angin-Nya berhembus, mengalirlah air.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ia mengirim"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "dan mencairkan mereka"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Ia membuat berhembus"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "angin-Nya"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "mengalirlah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:36.356845585Z",
+  "model": "glm-5.2"
+}

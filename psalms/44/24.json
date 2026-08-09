@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Bangukla! Mengapa Engkau tidur, hai Adonai? Berdirilah, jangan buang kami untuk selamanya!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Bangukla"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "Engkau tidur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "hai Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Berdirilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "buang"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:01.711443438Z",
+  "model": "glm-5.2"
+}

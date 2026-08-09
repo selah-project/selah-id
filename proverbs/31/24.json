@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Baju lenan dibuatnya dan dijualnya, dan ikat pinggang diberikannya kepada ⟨את⟩ pedagang.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "baju lenan"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "dan dijualnya"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "dan ikat pinggang"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "diberikannya"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "kepada ⟨את⟩ pedagang",
+      "marks": "pedagang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:36:30.285846938Z",
+  "model": "glm-5.2"
+}

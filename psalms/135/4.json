@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Sebab Yaakov telah memilih bagi diri-Nya Yah, Yisrael bagi milik kesayangan-Nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "telah memilih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi diri-Nya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "bagi milik kesayangan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:35.813070471Z",
+  "model": "glm-5.2"
+}

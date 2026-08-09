@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan setiap hewan yang membelah kuku, ⟨yaitu⟩ yang terbelah ⟨menjadi⟩ dua kuku, dan memuntahkan kembali makanan — hewan itulah ⟨את⟩ yang boleh kamu makan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hewan"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "yang membelah"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "dan yang terbelah"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "belah"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "yang memuntahkan kembali"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "di antara hewan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hewan itu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:31.793942798Z",
+  "model": "glm-5.2"
+}

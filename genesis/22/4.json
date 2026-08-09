@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Pada hari ketiga, maka Avraham mengangkat ⟨את⟩ matanya dan melihat ⟨את⟩ tempat itu dari jauh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "maka mengangkat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matanya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matanya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat itu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dari jauh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:56.878103160Z",
+  "model": "glm-5.2"
+}

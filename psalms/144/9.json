@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "Elohim, ⟨se⟩ nyanyian baru aku akan nyanyikan kepada-Mu; dengan nevel asor aku akan bermazmur kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku akan nyanyikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "dengan nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku akan bermazmur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:53.945388840Z",
+  "model": "glm-5.2"
+}

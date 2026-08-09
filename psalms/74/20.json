@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Pandanglah ⟨kepada⟩ perjanjian, sebab tempat-tempat gelap bumi penuh dengan padang-padang kekerasan.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Pandanglah"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "⟨kepada⟩ perjanjian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "penuh dengan"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "tempat-tempat gelap"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "padang-padang"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:12.221255624Z",
+  "model": "glm-5.2"
+}

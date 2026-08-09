@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Kehormatan bagi seorang laki-laki ⟨adalah⟩ berhenti dari perkelahian, tetapi setiap orang bodoh mempertahankan sengketa.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "kehormatan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bagi seorang laki-laki"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "berhenti"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "dari perkelahian"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tetapi setiap"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "mempertahankan sengketa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:05.333179912Z",
+  "model": "glm-5.2"
+}

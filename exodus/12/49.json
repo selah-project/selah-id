@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Satu torah ⟨akan⟩ berlaku bagi ⟨yang⟩ asli, dan bagi ⟨orang⟩ asing yang tinggal di tengah-tengah kamu.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan berlaku"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "bagi ⟨yang⟩ asli"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "dan bagi ⟨orang⟩ asing"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yang tinggal"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tengah-tengah kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:14.456126085Z",
+  "model": "glm-5.2"
+}

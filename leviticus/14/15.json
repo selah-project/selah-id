@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan kohen itu akan mengambil dari log minyak itu, dan menuangkan ke telapak tangan kohen itu, sebelah kiri.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan akan mengambil"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen itu"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "dari log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "dan menuangkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כף",
+      "gloss": "telapak tangan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen itu"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "sebelah kiri"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:30.219240391Z",
+  "model": "glm-5.2"
+}

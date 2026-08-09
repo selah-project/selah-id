@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "maka Aku akan memberikan hujan tanah kamu pada waktunya, hujan awal dan hujan akhir, dan ⟨kau⟩ akan mengumpulkan gandummu dan most-mu dan minyak zaitunmu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "maka Aku akan memberikan"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tanah kamu"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "pada waktunya"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "hujan awal"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "dan hujan akhir"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "dan ⟨kau⟩ akan mengumpulkan"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "gandummu"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "dan most-mu"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "dan minyak zaitunmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:29.250266956Z",
+  "model": "glm-5.2"
+}

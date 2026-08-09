@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan terjadilah, ketika Yahweh hendak menaikkan ⟨את⟩ Eliyahu dalam badai ke langit, maka pergilah Eliyahu dan Elisha dari HaGilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "ketika hendak menaikkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "dalam badai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ke langit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "maka pergilah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "dan Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "HaGilgal"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:42.490664948Z",
+  "model": "glm-5.2"
+}

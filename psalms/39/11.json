@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Palingkanlah hantamanmu dari atasku; dari perbantahan tanganmu aku telah habis lenyap.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Palingkanlah"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "dari atasku"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "hantamanmu"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "dari perbantahan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "telah habis lenyap"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:13.520281685Z",
+  "model": "glm-5.2"
+}

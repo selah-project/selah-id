@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan Shemu'el melakukan ⟨את⟩ apa yang difirmankan Yahweh, lalu ia datang ke Bet-Lehem. Dan tua-tua kota itu gemetar mendapatinya, dan ia berkata: “Damai ⟨adalah⟩ kedatanganmu.”",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan melakukan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang difirmankan Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lalu ia datang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "Dan gemetar"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "mendapatinya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Damai"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "kedatanganmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:48:27.371742769Z",
+  "model": "glm-5.2"
+}

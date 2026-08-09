@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan isinya dan betisnya dibasuh dalam air, dan sang imam membakar asap ⟨את⟩ semuanya di atas mezbah — korban ⟨עולה⟩, persembahan api — bau yang menenangkan bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "dan isinya"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "dan betisnya"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "dibasuh"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dan membakar asap"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semuanya"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "korban ⟨עולה⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "yang menenangkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T18:24:09.942355774Z",
+  "model": "glm-5.2"
+}

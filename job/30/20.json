@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Aku berteriak kepada-Mu, dan Engkau tidak menjawab aku; aku berdiri, dan Engkau hanya memandang aku.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Aku berteriak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Engkau menjawab aku"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "aku berdiri"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "dan Engkau memandang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:54:04.172231345Z",
+  "model": "glm-5.2"
+}

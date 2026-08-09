@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Jika bersama pejalan kaki ⟨את⟩ engkau telah berlari dan mereka membuatmu lelah, maka bagaimana engkau akan bersaing ⟨את⟩ kuda? Dan di tanah keselamatan engkau merasa aman, maka bagaimana engkau akan melakukan di ketinggian haYarden?",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pejalan kaki"
+    },
+    {
+      "surface": "רַגְלִ֥ים",
+      "gloss": "pejalan kaki"
+    },
+    {
+      "surface": "רַ֨צְתָּה֙",
+      "gloss": "engkau telah berlari"
+    },
+    {
+      "surface": "וַיַּלְא֔וּךָ",
+      "gloss": "dan mereka membuatmu lelah"
+    },
+    {
+      "surface": "וְאֵ֥יךְ",
+      "gloss": "maka bagaimana"
+    },
+    {
+      "surface": "תְּתַֽחֲרֶ֖ה",
+      "gloss": "engkau akan bersaing"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kuda"
+    },
+    {
+      "surface": "הַסּוּסִ֑ים",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "וּבְאֶ֤רֶץ",
+      "gloss": "Dan di tanah"
+    },
+    {
+      "surface": "שָׁלוֹם֙",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בוֹטֵ֔חַ",
+      "gloss": "merasa aman"
+    },
+    {
+      "surface": "וְאֵ֥יךְ",
+      "gloss": "maka bagaimana"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֖ה",
+      "gloss": "engkau akan melakukan"
+    },
+    {
+      "surface": "בִּגְא֥וֹן",
+      "gloss": "di ketinggian"
+    },
+    {
+      "surface": "הַיַּרְדֵּֽן",
+      "gloss": "haYarden"
+    }
+  ],
+  "timestamp": "2026-08-08T08:33:20.254160141Z",
+  "model": "glm-5.2"
+}

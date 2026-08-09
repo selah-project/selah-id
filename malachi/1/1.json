@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Beban firman Yahweh kepada Yisrael melalui tangan Malakhi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Beban"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "melalui tangan"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malakhi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:08.118126241Z",
+  "model": "glm-5.2"
+}

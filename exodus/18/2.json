@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan Yitro mertua Moshe mengambil ⟨את⟩ Tzipora istri Moshe sesudah penyuruhan kembalinya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dan mengambil"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mertua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sesudah"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "penyuruhan kembalinya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:17.581633151Z",
+  "model": "glm-5.2"
+}

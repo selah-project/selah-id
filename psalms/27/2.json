@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Ketika mendekat atasku pelaku kejahatan untuk memakan ⟨את⟩ dagingku — lawan-lawanku dan musuh-musuhku bagiku — mereka tersandung dan jatuh.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Ketika mendekat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pelaku kejahatan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingku"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagingku"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "lawan-lawanku"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "dan musuh-musuhku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "tersandung"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dan jatuh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:39.644627403Z",
+  "model": "glm-5.2"
+}

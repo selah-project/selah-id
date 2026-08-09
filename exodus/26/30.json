@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan kaubangun ⟨את⟩ kemah suci itu menurut aturannya yang ⟨kau⟩telihat di gunung.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "dan kaubangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah suci itu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah suci itu"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "menurut aturannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "kautelihat"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:23.838035053Z",
+  "model": "glm-5.2"
+}

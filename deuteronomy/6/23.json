@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨את⟩ kami ⟨Ia⟩ keluarkan dari sana, demi membawa kami masuk, untuk memberikan kepada kami ⟨את⟩ negeri yang ⟨Ia⟩ bersumpah kepada nenek moyang kami.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ kami"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "⟨Ia⟩ keluarkan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "membawa masuk"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberikan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "⟨Ia⟩ bersumpah"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "kepada nenek moyang kami"
+    }
+  ],
+  "timestamp": "2026-08-08T12:12:55.970389420Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Pada hari penanamanmu engkau membuat ⟨את⟩ tanamanmu bertumbuh, dan pada pagi hari benihmu ⟨engkau⟩ kembangkan — ⟨tetapi⟩ timbunan ⟨adalah⟩ panen pada hari kesakitan dan kesedihan yang tidak dapat disembuhkan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "penanamanmu"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "engkau membuat bertumbuh"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "dan pada pagi hari"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "kembangkan"
+    },
+    {
+      "surface": "נד",
+      "gloss": "timbunan"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "kesakitan"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "dan kesedihan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yang tidak dapat disembuhkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:07.893204605Z",
+  "model": "glm-5.2"
+}

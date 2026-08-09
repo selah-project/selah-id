@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan engkau ambil ⟨את⟩ minyak urapan, dan urapilah ⟨את⟩ Mishkan dan ⟨את⟩ segala yang di dalamnya, maka kuduskanlah ⟨את⟩ itu dan ⟨את⟩ segala perkakasnya, maka ⟨ia⟩ ⟨adalah⟩ kedekutan.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau ambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dan urapilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "maka kuduskanlah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka ⟨ia⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kedekutan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:16.394626165Z",
+  "model": "glm-5.2"
+}

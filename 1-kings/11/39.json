@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Aku akan merendahkan ⟨את⟩ keturunan Dawid oleh karena hal ini — namun tidak untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Dan Aku akan merendahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keturunan Dawid"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "oleh karena"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "אך",
+      "gloss": "namun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "selamanya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "untuk semua hari"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:36.225356579Z",
+  "model": "glm-5.2"
+}

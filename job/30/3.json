@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dalam kekurangan dan dalam kelaparan terpencil — mereka yang melarikan ke tanah gersang; semalam badai dan kepuvakan.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "dalam kekurangan"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "dan dalam kelaparan"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "terpencil"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "mereka yang melarikan"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "tanah gersang"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "semalam"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "dan kepuvakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:43:12.849484796Z",
+  "model": "glm-5.2"
+}

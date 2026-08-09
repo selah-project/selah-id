@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Sebab Yahweh mendengarkan orang-orang miskin, dan ⟨את⟩ tawanan-tawanan-Nya tidak Ia hinakan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "orang-orang miskin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tawanan-tawanan-Nya"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "tawanan-tawanan-Nya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "Ia hinakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:11.329358247Z",
+  "model": "glm-5.2"
+}

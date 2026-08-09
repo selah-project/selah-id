@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan ⟨seorang⟩ perempuan yang mendekati segala hewan untuk menggaulinya, maka engkau harus membunuh ⟨את⟩ perempuan itu dan ⟨את⟩ hewan itu; mati mereka akan dihukum mati, darah mereka ⟨ada⟩ pada mereka.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Dan perempuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "mendekati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hewan"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "untuk menggaulinya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "maka engkau harus membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan itu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hewan itu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hewan itu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mereka akan dihukum mati"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "darah mereka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:08.576255668Z",
+  "model": "glm-5.2"
+}

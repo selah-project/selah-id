@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Ketika ⟨ia⟩ berperang melawan ⟨את⟩ Aram-Naharayim dan melawan ⟨את⟩ Aram-Tsoba, lalu Yoav kembali dan memukul ⟨את⟩ Edom di Lembah Garam, dua belas ribu.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Ketika ⟨ia⟩ berperang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram-"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aram-Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram-"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu ⟨ia⟩ kembali"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di Lembah"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Garam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:59.594140143Z",
+  "model": "glm-5.2"
+}

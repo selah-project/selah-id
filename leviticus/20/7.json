@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan kuduslah kamu, dan kuduslah kamu, karena Akulah Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Dan kuduslah kamu"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "dan kuduslah kamu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:13.168348643Z",
+  "model": "glm-5.2"
+}

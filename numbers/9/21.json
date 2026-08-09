@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 9:21",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan kadang-kadang awan itu berada dari petang sampai pagi, dan ketika awan itu naik pada pagi hari, mereka berangkat; atau siang dan malam, dan ketika awan itu naik, mereka berangkat.",
+  "tokens": [
+    {
+      "surface": "וש",
+      "gloss": "Dan kadang-kadang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "berada"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "dari petang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "dan ketika naik"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi hari"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "mereka berangkat"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "dan ketika naik"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "mereka berangkat"
+    }
+  ],
+  "timestamp": "2026-08-08T12:12:01.648495683Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Ia akan mengulurkan tangan-Nya ke arah utara dan membinasakan ⟨את⟩ Ashur, dan Ia akan menjadikan ⟨את⟩ Niveve menjadi tempat sunyi, kering seperti padang gurun.",
+  "tokens": [
+    {
+      "surface": "וְיֵ֤ט",
+      "gloss": "Dan ia akan mengulurkan"
+    },
+    {
+      "surface": "יָדוֹ֙",
+      "gloss": "tangan-Nya"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "צָפ֔וֹן",
+      "gloss": "utara"
+    },
+    {
+      "surface": "וִֽיאַבֵּ֖ד",
+      "gloss": "dan membinasakan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אַשּׁ֑וּר",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וְיָשֵׂ֤ם",
+      "gloss": "dan ia akan menjadikan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Niveve"
+    },
+    {
+      "surface": "נִֽינְוֵה֙",
+      "gloss": "Niveve"
+    },
+    {
+      "surface": "לִשְׁמָמָ֔ה",
+      "gloss": "menjadi tempat sunyi"
+    },
+    {
+      "surface": "צִיָּ֖ה",
+      "gloss": "kering"
+    },
+    {
+      "surface": "כַּמִּדְבָּֽר",
+      "gloss": "seperti padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T11:34:32.346966394Z",
+  "model": "glm-5.2"
+}

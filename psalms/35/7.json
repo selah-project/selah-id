@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Sebab tanpa alasan mereka menyembunyikan ⟨bagiku⟩ perangkap, jaring mereka; tanpa alasan mereka menggali ⟨untuk⟩ napasku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa alasan"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "mereka menyembunyikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨bagiku⟩"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "perangkap"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "jaring mereka"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa alasan"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "mereka menggali"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "⟨untuk⟩ napasku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:22.594514510Z",
+  "model": "glm-5.2"
+}

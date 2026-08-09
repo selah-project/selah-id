@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Terpujilah Yahweh dari Tzion, yang berdiam di Yerushalayim. Hallelu-Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tzion"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yang berdiam"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:02.871351970Z",
+  "model": "glm-5.2"
+}

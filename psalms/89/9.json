@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim ⟨dari⟩ tentara-bintang, siapa seperti Engkau? ⟨Engkau⟨ ⟩ yang⟩ kuat, Yah, dan kesetiaan-Mu ⟨di⟩ sekeliling-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨dari⟩"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tentara-bintang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti Engkau"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "dan kesetiaan-Mu"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "sekeliling-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:17.164130932Z",
+  "model": "glm-5.2"
+}

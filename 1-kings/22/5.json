@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan berkatalah Yehoshafat kepada raja Yisrael: “Carilah ⟨nu⟩ hari ini ⟨את⟩ firman Yahweh.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nu⟩"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:53.785832936Z",
+  "model": "glm-5.2"
+}

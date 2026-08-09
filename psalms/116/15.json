@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 116,
+  "translation": "Berharga di mata Yahweh ⟨⟩ kematian bagi orang-orang hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "berharga"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "bagi orang-orang hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:05.352558392Z",
+  "model": "glm-5.2"
+}

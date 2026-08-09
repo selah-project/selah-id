@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Orang yang cerdas melihat ⟨the⟩ kejahatan, ia bersembunyi; tetapi orang-orang sederhana berjalan terus, dan mereka dihukum.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "orang yang cerdas"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ia bersembunyi"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "orang-orang sederhana"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "berjalan terus"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "dan mereka dihukum"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:39.496272860Z",
+  "model": "glm-5.2"
+}

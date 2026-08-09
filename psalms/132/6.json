@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 132,
+  "translation": "Lihat, kami mendengarnya di Efratah, kami menemukannya di padang-padang Yaar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "kami mendengarnya"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "di Efratah"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "kami menemukannya"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "di padang-padang"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Yaar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:33.208040161Z",
+  "model": "glm-5.2"
+}

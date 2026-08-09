@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan Elohim berfirman kepada Moshe, dan ⟨ia⟩ berkata kepadanya: “Akulah Yahweh.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:25.598379872Z",
+  "model": "glm-5.2"
+}

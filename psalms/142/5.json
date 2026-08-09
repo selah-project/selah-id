@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 142,
+  "translation": "Aku memandang ke kanan dan melihat, tetapi tidak ada bagiku ⟨yang⟩ mengenal — hilang perlindungan dari padaku, tidak ada ⟨yang⟩ menanyakan nasibku.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Aku memandang"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ke kanan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tidak ada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "⟨yang⟩ mengenal"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hilang"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari padaku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "⟨yang⟩ menanyakan"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nasibku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:46.620786285Z",
+  "model": "glm-5.2"
+}

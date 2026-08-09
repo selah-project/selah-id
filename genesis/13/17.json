@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Bangunlah, berjalanlah menyusuri ⟨את⟩ negeri itu sepanjangnya dan selebarnya, sebab kepadamulah aku akan memberikannya.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "berjalanlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "menyusuri negeri itu"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "sepanjangnya"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "dan selebarnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamulah"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "⟨את⟩ aku akan memberikannya",
+      "marks": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:55.330086190Z",
+  "model": "glm-5.2"
+}

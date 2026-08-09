@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Perkataan mulutnya ⟨adalah⟩ kesia-siaan dan kecurangan; ia berhenti bertindak bijaksana, berherti berbuat baik.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Perkataan"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "mulutnya"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "dan kecurangan"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ia berhenti"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "bertindak bijaksana"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "berbuat baik"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:19.289620150Z",
+  "model": "glm-5.2"
+}

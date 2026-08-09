@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 146,
+  "translation": "yang melakukan keadilan bagi ⟨yang⟩ tertindas, yang memberi roti kepada ⟨yang⟩ lapar, Yahweh melepaskan ⟨yang⟩ terikat;",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "bagi ⟨yang⟩ tertindas"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yang memberi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "kepada ⟨yang⟩ lapar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "⟨yang⟩ terikat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:13.383451376Z",
+  "model": "glm-5.2"
+}

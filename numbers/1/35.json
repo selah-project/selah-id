@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Yang terdaftar dari mereka, bagi suku Menashsheh: dua dan tiga puluh ribu dan dua ratus.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "yang terdaftar dari mereka"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bagi suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dan dua ratus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:31.549560015Z",
+  "model": "glm-5.2"
+}

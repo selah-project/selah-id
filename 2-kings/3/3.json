@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Hanya, dalam dosa-dosa Yarav'am ben Nevat yang membuat ⟨את⟩ Yisrael berdosa, ⟨ia⟩ melekat; ia tidak berbalik dari padanya.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "dalam dosa-dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "membuat berdosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "melekat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "סר",
+      "gloss": "berbalik"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "dari padanya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:42.551530585Z",
+  "model": "glm-5.2"
+}

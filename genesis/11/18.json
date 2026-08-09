@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Peleg hidup tiga puluh tahun, dan memperanakkan ⟨את⟩ Re'u.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dan hidup"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Re'u"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:30.974846138Z",
+  "model": "glm-5.2"
+}

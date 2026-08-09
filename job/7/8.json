@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Mata yang melihatku tidak akan memandangku ⟨lagi⟩; matamu ⟨tertuju⟩ kepadaku, dan aku tidak ⟨ada⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "akan memandangku"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "yang melihat"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matamu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "dan aku tidak ⟨ada⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:32.378785547Z",
+  "model": "glm-5.2"
+}

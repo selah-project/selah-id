@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan berkatalah kepadanya Malaikat Yahweh, “Aku akan sangat memperbanyak ⟨את⟩ benihmu, sehingga tidak terhitung karena banyaknya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malaikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "memperbanyak"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "Aku akan memperbanyak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benihmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "terhitung"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "karena banyaknya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:01.796219168Z",
+  "model": "glm-5.2"
+}

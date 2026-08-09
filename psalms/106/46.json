@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan ⟨dia⟩ memberi ⟨את⟩ mereka untuk berbelas kasihan di hadapan semua penawan mereka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan ⟨dia⟩ memberi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "untuk berbelas kasihan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "penawan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:12.522210935Z",
+  "model": "glm-5.2"
+}

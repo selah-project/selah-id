@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Janganlah kiranya engkau menempatkan ⟨את⟩ hambamu ini di hadapan putri Beliyaal, karena dari kelimpahan renunganku dan kegeramanku aku telah berbicara sampai sekarang.”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hambamu ini"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "hambamu ini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyaal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dari kelimpahan"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "renunganku"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "dan kegeramanku"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aku telah berbicara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sekarang"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:41.832249362Z",
+  "model": "glm-5.2"
+}

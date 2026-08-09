@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 84,
+  "translation": "Mereka berjalan dari kekuatan ke kekuatan, ⟨untuk⟩ diperhadapkan kepada Elohim di Tzion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "mereka berjalan"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "dari kekuatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "diperhadapkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:02.375421162Z",
+  "model": "glm-5.2"
+}

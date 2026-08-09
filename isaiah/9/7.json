@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Sebuah firman Adonai telah mengirim ke dalam Yaakov, dan telah jatuh ke dalam Yisrael.",
+  "tokens": [
+    {
+      "surface": "דָּבָ֛ר",
+      "gloss": "sebuah firman"
+    },
+    {
+      "surface": "שָׁלַ֥ח",
+      "gloss": "telah mengirim"
+    },
+    {
+      "surface": "אֲדֹנָ֖י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בְּיַעֲקֹ֑ב",
+      "gloss": "ke dalam Yaakov"
+    },
+    {
+      "surface": "וְנָפַ֖ל",
+      "gloss": "dan telah jatuh"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵֽל",
+      "gloss": "ke dalam Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T08:18:27.371304264Z",
+  "model": "glm-5.2"
+}

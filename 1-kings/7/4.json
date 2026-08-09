@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan jendela-jendela tiga baris, dan tingkap berhadapan dengan tingkap, tiga kali.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "dan jendela-jendela"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "baris"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "dan tingkap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berhadapan dengan"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "tingkap"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:10.192276304Z",
+  "model": "glm-5.2"
+}

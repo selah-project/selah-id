@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Bernyanyilah bagi Yahweh, ⟨dia yang⟩ diam di Tzion; beritahulah di antara bangsa-bangsa perbuatan-perbuatan-Nya.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "bernyanyilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨dia yang⟩ diam"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "beritahulah"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "perbuatan-perbuatan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:54.530141520Z",
+  "model": "glm-5.2"
+}

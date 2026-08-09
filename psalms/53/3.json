@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 53,
+  "translation": "Elohim dari langit telah menengok ke bawah atas bani manusia untuk melihat apakah ada ⟨yang⟩ berpengertian, ⟨yang⟩ mencahari ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "telah menengok ke bawah"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "היש",
+      "gloss": "apakah ada"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "berpengertian"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:39.252574131Z",
+  "model": "glm-5.2"
+}

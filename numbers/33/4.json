@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dan orang Mitsrayim sedang menguburkan ⟨את⟩ orang-orang yang dipukul Yahweh di antara mereka, segala anak sulung; dan atas elohim-elohim mereka melakukan Yahweh ⟨hukuman-hukuman⟩.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "dan orang Mitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "sedang menguburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang dipukul Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "dipukul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antara mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "dan atas elohim-elohim mereka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hukuman-hukuman"
+    }
+  ],
+  "timestamp": "2026-08-08T07:23:34.233202977Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Budak-budak memerintah atas kami; ⟨tidak ada⟩ yang melepaskan dari tangan mereka.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "atas kami"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "dari tangan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:56:59.579710283Z",
+  "model": "glm-5.2"
+}

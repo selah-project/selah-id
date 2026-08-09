@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Maka Shelomo membangun ⟨את⟩ rumah itu dan menyelesaikannya.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "maka membangun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "dan menyelesaikannya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:06.584967985Z",
+  "model": "glm-5.2"
+}

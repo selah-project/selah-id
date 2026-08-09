@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Yehu berkata: „Kuduskanlah perhimpunan bagi Baal.” Dan mereka menyerukannya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Kuduskanlah"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "perhimpunan"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "bagi Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "Dan mereka menyerukannya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:10:57.595790405Z",
+  "model": "glm-5.2"
+}

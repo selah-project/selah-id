@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan Yahweh berfirman kepada Mosheh: “Aku telah melihat ⟨את⟩ bangsa ini, dan lihatlah, ⟨ia⟩ bangsa yang tegar tengkuk ⟨ia⟩.”\n    ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tegar"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "tengkuk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:53.365466498Z",
+  "model": "glm-5.2"
+}

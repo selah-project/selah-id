@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan Yahweh menolong mereka dan melepaskan mereka; ⟨Dia⟩ melepaskan mereka dari orang-orang fasik dan menyelamatkan mereka, karena mereka berlindung pada-⟨Nya⟩.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Dan menolong mereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "dan melepaskan mereka"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "⟨Dia⟩ melepaskan mereka"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "dari orang-orang fasik"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "dan menyelamatkan mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "mereka berlindung"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pada-⟨Nya⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:09.153899864Z",
+  "model": "glm-5.2"
+}

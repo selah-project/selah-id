@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan Avram berkata, “Lihat, kepada saya Engkau tidak memberi benih, dan lihat, seorang anak rumah saya ⟨dia⟩ mewarisi ⟨את⟩ saya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada saya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Engkau memberi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumah saya"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "mewarisi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "saya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:27.950580464Z",
+  "model": "glm-5.2"
+}

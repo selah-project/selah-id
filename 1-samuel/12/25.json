@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Tetapi jika kamu berbuat jahat, baik kamu maupun rajamu akan tersapu bersih.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "berbuat jahat"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "kamu berbuat jahat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maupun"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "rajamu"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "akan tersapu bersih"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:58.605531925Z",
+  "model": "glm-5.2"
+}

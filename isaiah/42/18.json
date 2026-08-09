@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Kalian yang tuli, dengarlah! Dan kalian yang buta, lihatlah untuk melihat!",
+  "tokens": [
+    {
+      "surface": "הַחֵרְשִׁ֖ים",
+      "gloss": "kalian yang tuli"
+    },
+    {
+      "surface": "שְׁמָ֑עוּ",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "וְהַעִוְרִ֖ים",
+      "gloss": "dan kalian yang buta"
+    },
+    {
+      "surface": "הַבִּ֥יטוּ",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "לִרְאֽוֹת",
+      "gloss": "untuk melihat"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:00.859951568Z",
+  "model": "glm-5.2"
+}

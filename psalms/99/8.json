@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 99,
+  "translation": "Yahweh Elohim kami, Engkaulah yang menjawab mereka; El yang mengangkat ⟨dosa⟩ Engkau menjadi bagi mereka, namun pembalas atas perbuatan-perbuatan mereka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "Engkau menjawab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yang mengangkat"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Engkau menjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "dan pembalas"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "perbuatan-perbuatan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:19.227162638Z",
+  "model": "glm-5.2"
+}

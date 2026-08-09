@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jika ternyata ditemukan ⟨⟨hal itu⟩⟩ di tangannya, barang curian ⟨itu⟩, dari sapi sampai keledai sampai domba — ⟨yang⟩ hidup — dua kali lipat ia ⟨harus⟩ membayar ganti rugi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "ternyata"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ditemukan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "barang curian"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dari sapi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keledai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua kali lipat"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ia membayar ganti rugi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:46.060839772Z",
+  "model": "glm-5.2"
+}

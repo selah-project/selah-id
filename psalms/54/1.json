@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Untuk sang dirigen, dengan permainan gesek. Mashil bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk sang dirigen"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "dengan permainan gesek"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Mashil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:29.590639047Z",
+  "model": "glm-5.2"
+}

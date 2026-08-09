@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka Samuel memberitahukan kepadanya ⟨את⟩ segala perkataan itu, dan tidak menyembunyikannya daripadanya. Dan ⟨dia⟩ berkata, “Yahweh ⟨dialah⟩; apa yang baik di mata-Nya, biarlah dilakukan-Nya.”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Maka memberitahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "menyembunyikannya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dialah⟩"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "di mata-Nya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "biarlah dilakukan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:41.816760089Z",
+  "model": "glm-5.2"
+}

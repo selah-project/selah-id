@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Dengarlah, umat-Ku, dan aku akan bersaksi kepadamu; Yisra'el, jika engkau mau mendengarkan aku,",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "dan aku akan bersaksi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "engkau mendengarkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:52.739946656Z",
+  "model": "glm-5.2"
+}

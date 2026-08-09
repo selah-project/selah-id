@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Angkatan kepada angkatan akan memuji perbuatan-Mu, dan keperkasaan-Mu mereka akan katakan.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kepada angkatan"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "akan memuji"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "dan keperkasaan-Mu"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "mereka akan katakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:29.365103112Z",
+  "model": "glm-5.2"
+}

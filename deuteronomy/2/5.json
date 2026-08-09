@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Janganlah kamu memprovokasi mereka, sebab aku tidak akan memberikan kepadamu dari tanah mereka sampai sebatas jejak telapak kaki, sebab ⟨sebagai⟩ milik warisan kepada Esav aku telah memberikan ⟨את⟩ gunung Seir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "kamu memprovokasi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aku akan memberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "dari tanah mereka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai sebatas"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "jejak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "telapak"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "milik warisan"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kepada Esav"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aku telah memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:56.318642800Z",
+  "model": "glm-5.2"
+}

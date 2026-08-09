@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Engkau telah menebus dengan lengan umat-Mu, bani Yaakob dan Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Engkau telah menebus"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "dengan lengan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "dan Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:26.705315399Z",
+  "model": "glm-5.2"
+}

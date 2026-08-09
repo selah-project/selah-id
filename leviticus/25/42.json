@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Sebab hamba-hamba-Ku mereka, yang Aku keluarkan ⟨את⟩ mereka dari tanah Mitsrayim; tidak boleh dijual sebagai penjualan hamba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba-Ku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Aku keluarkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "dijual"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "sebagai penjualan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:41.294327273Z",
+  "model": "glm-5.2"
+}

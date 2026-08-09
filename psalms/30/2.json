@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Aku akan meninggikan Engkau, Yahweh, sebab Engkau telah menarik aku ke atas, dan tidak Engkau menyukakan musuh-musuhku atas aku.",
+  "tokens": [
+    {
+      "surface": "אֲרוֹמִמְךָ",
+      "gloss": "Aku akan meninggikan Engkau"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "דִלִּיתָנִי",
+      "gloss": "Engkau telah menarik aku ke atas"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שִׂמַּחְתָּ",
+      "gloss": "Engkau menyukakan"
+    },
+    {
+      "surface": "אֹיְבַי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "atas aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:29.934268836Z",
+  "model": "glm-5.2"
+}

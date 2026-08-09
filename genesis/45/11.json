@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Dan aku akan mencukupi ⟨את⟩ engkau di sana, sebab masih lima tahun kelaparan, supaya engkau jangan miskin, engkau dan rumahmu dan segala yang ada padamu.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "dan aku akan mencukupi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "dan rumahmu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:16.924344257Z",
+  "model": "glm-5.2"
+}

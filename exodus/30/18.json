@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan engkau harus membuat kiyor tembaga dan kakinya tembaga, untuk membasuh, dan engkau harus meletakkannya di antara Ohel Moed dan ⟨di antara⟩ mizbeakh, dan engkau harus meletakkan di sana air.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau harus membuat"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "kiyor"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "dan kakinya"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "untuk membasuh"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau harus meletakkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (kiyor)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan di antara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeakh"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau harus meletakkan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:27.376644656Z",
+  "model": "glm-5.2"
+}

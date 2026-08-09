@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Engkau telah memperlihatkan kepada umat-Mu hal yang keras; Engkau telah membuat kami minum anggur yang membuat terhuyung.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Engkau telah memperlihatkan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umet-Mu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hal yang keras"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "Engkau telah membuat kami minum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "yang membuat terhuyung"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:52.660801315Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "dan bersitarkanlah kepada kami Yahweh Elohim-mu ⟨את⟩ jalan yang akan kami tempuh, dan ⟨את⟩ perkataan yang akan kami lakukan.”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dan bersitarkanlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "akan kami tempuh"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "akan kami lakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:42:25.933700700Z",
+  "model": "glm-5.2"
+}

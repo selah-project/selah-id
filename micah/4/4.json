@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan mereka akan duduk, masing-masing di bawah pohon anggurnya dan di bawah pohon ara-nya, dan tidak ada yang mengejutkan; sebab mulut Yahweh Tzevaot telah berfirman.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Dan mereka akan duduk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "pohon anggurnya"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dan di bawah"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "pohon ara-nya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "yang mengejutkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:31.323635640Z",
+  "model": "glm-5.2"
+}

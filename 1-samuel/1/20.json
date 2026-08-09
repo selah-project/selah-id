@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan terjadilah pada kelilingan hari-hari, dan Hannah mengandung dan melahirkan seorang anak laki-laki. Dan ia memanggil ⟨את⟩ namanya Shemuel, “karena dari Yahweh aku memintanya.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "pada kelilingan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dan ia mengandung"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hannah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan ia melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak laki-laki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dan ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "dari Yahweh"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "aku memintanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:23.826160005Z",
+  "model": "glm-5.2"
+}

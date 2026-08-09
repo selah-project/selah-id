@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Sedalam-dua samudera berseru-seru, ⟨meresapi⟩ suara air terjun-Mu; segala ombak-Mu dan gelombang-Mu melintasi diriku.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "samudera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "samudera"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "berseru-seru"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨meresapi⟩ suara"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "air terjun-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ombak-Mu"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "dan gelombang-Mu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "telah melintasi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:39.410537093Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Telur ular beludru mereka menetas, dan jaring laba-laba ditenun; siapa yang memakan dari telur mereka akan mati, dan yang dipecahkan membelah ⟨menjadi⟩ ular asp.",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "telur"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "ular beludru"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "menetas"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "dan jaring"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "laba-laba"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "ditenun"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "siapa yang memakan"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "dari telur mereka"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akan mati"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "dan yang dipecahkan"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "membelah"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "ular asp"
+    }
+  ],
+  "timestamp": "2026-08-08T11:14:18.005050143Z",
+  "model": "glm-5.2"
+}

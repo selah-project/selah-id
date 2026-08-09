@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "dan Aku akan menjadikan anak-anak pemimpin-pemimpin mereka, dan kanak-kanak akan memerintah atas mereka.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan menjadikan"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "pemimpin-pemimpin mereka"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "dan kanak-kanak"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "בם",
+      "gloss": "atas mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:45.317908672Z",
+  "model": "glm-5.2"
+}

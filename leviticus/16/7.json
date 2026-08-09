@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan ia mengambil ⟨את⟩ dua kambing jantan itu, dan ia mendirikan ⟨את־mereka⟩ di hadapan Yahweh, di pintu kemah pertemuan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Dan ia mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua kambing jantan itu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "kambing jantan itu"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "dan ia mendirikan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את־mereka⟩",
+      "marks": "di hadapan Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:00.106726116Z",
+  "model": "glm-5.2"
+}

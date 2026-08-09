@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Jadilah jaminan bagi hamba-Mu untuk kebaikan; jangan biarkan orang-orang sombong menindas aku.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "jadilah jaminan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "untuk kebaikan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "menindas aku"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "orang-orang sombong"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:23.875090225Z",
+  "model": "glm-5.2"
+}

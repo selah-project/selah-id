@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Karena tidak ada firman di lidahku — sungguh, Yahweh, Engkau mengetahui semuanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "firman"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "di lidahku"
+    },
+    {
+      "surface": "הן",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Engkau mengetahui"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "semuanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:42.142292661Z",
+  "model": "glm-5.2"
+}

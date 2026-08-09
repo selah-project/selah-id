@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Karena ⟨yang⟩ hidup tahu bahwa mereka akan mati, tetapi ⟨yang⟩ mati tidak tahu apa-apa, dan tidak ada lagi bagi mereka upah, sebab ⟨kendati⟩ ingatan ⟨terhadap⟩ mereka sudah terlupakan.",
+  "tokens": [
+    {
+      "surface": "כִּ֧י",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הַֽחַיִּ֛ים",
+      "gloss": "⟨yang⟩ hidup"
+    },
+    {
+      "surface": "יוֹדְעִ֖ים",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "שֶׁיָּמֻ֑תוּ",
+      "gloss": "bahwa mereka akan mati"
+    },
+    {
+      "surface": "וְהַמֵּתִ֞ים",
+      "gloss": "tetapi ⟨yang⟩ mati"
+    },
+    {
+      "surface": "אֵינָ֧ם",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוֹדְעִ֣ים",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "מְא֗וּמָה",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "וְאֵֽין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "ע֤וֹד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "לָהֶם֙",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "שָׂכָ֔ר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נִשְׁכַּ֖ח",
+      "gloss": "terlupakan"
+    },
+    {
+      "surface": "זִכְרָֽם",
+      "gloss": "ingatan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:16.765681102Z",
+  "model": "glm-5.2"
+}

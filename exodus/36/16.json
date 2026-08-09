@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan ia menggabungkan ⟨את⟩ lima tirai tersendiri dan ⟨את⟩ enam tirai tersendiri.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "dan ia menggabungkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima tirai"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tersendiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "enam tirai"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tersendiri"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:08.821447825Z",
+  "model": "glm-5.2"
+}

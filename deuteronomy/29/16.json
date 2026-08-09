@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan kamu telah melihat ⟨את⟩ detestable-things mereka dan ⟨את⟩ gillulim mereka — kayu dan batu, perak dan emas, yang bersama mereka.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "Dan kamu telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detestable-things mereka"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "detestable-things mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "gillulim mereka"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "gillulim mereka"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "bersama mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T12:12:50.446381501Z",
+  "model": "glm-5.2"
+}

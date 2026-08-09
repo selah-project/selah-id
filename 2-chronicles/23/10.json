@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu ⟨ia⟩ menempatkan ⟨את⟩ seluruh rakyat, setiap orang dengan senjatanya di tangannya, dari bahu ⟨sisi⟩ kanan rumah sampai bahu ⟨sisi⟩ kiri rumah, dekat mezbah dan dekat rumah, mengelilingi raja.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh rakyat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan setiap orang"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "senjatanya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "dari bahu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "bahu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "dekat mezbah"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "dan dekat rumah"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-08-08T10:15:23.078951831Z",
+  "model": "glm-5.2"
+}

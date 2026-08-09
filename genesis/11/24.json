@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Nahor hidup sembilan dan dua puluh tahun, dan memperanakkan ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dan hidup"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sembilan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dan dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:57.392181524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Matahari, bulan berdiri di kediaman; karena cahaya anak-anak panah-Mu mereka berjalan, karena kilatan kilat tombak-Mu.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "יָרֵ֖חַ",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "עָ֣מַד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "זְבֻ֑לָה",
+      "gloss": "di kediaman"
+    },
+    {
+      "surface": "לְא֤וֹר",
+      "gloss": "karena cahaya"
+    },
+    {
+      "surface": "חִצֶּ֨יךָ֙",
+      "gloss": "anak-anak panah-Mu"
+    },
+    {
+      "surface": "יְהַלֵּ֔כוּ",
+      "gloss": "mereka berjalan"
+    },
+    {
+      "surface": "לְנֹ֖גַהּ",
+      "gloss": "karena kilatan"
+    },
+    {
+      "surface": "בְּרַ֥ק",
+      "gloss": "kilat"
+    },
+    {
+      "surface": "חֲנִיתֶֽךָ",
+      "gloss": "tombak-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:33:31.964076119Z",
+  "model": "glm-5.2"
+}

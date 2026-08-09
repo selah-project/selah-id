@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Hanya ⟨את⟩ emas dan ⟨את⟩ perak, ⟨את⟩ tembaga, ⟨את⟩ besi, ⟨את⟩ timah, dan ⟨את⟩ timah hitam —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembaga"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besi"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "besi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timah"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "timah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "timah hitam"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "timah hitam"
+    }
+  ],
+  "timestamp": "2026-08-08T12:13:11.741827965Z",
+  "model": "glm-5.2"
+}

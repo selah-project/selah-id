@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan engkau mengambil ⟨את⟩ anak-anak laki-lakimu dan ⟨את⟩ anak-anak perempuanmu yang kau lahirkan untukku, dan engkau menyembelih mereka untuk mereka, untuk dimakan. Apakah sedikit pelacuranmu?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "Dan engkau mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak laki-lakimu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anak laki-lakimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak perempuanmu"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "anak-anak perempuanmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "kau lahirkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "dan engkau menyembelih mereka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuk mereka"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "untuk dimakan"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "Apakah sedikit"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "pelacuranmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:23:47.574936554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Di mulut orang bodoh ⟨ada⟩ tongkat keangkuhan, tetapi bibir orang-orang bijak menjaga mereka.",
+  "tokens": [
+    {
+      "surface": "בְּֽפִי",
+      "gloss": "Di mulut"
+    },
+    {
+      "surface": "אֱ֭וִיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "חֹ֣טֶר",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "גַּאֲוָ֑ה",
+      "gloss": "keangkuhan"
+    },
+    {
+      "surface": "וְשִׂפְתֵ֥י",
+      "gloss": "tetapi bibir"
+    },
+    {
+      "surface": "חֲ֝כָמִ֗ים",
+      "gloss": "orang-orang bijak"
+    },
+    {
+      "surface": "תִּשְׁמוּרֵֽם",
+      "gloss": "menjaga mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:27.796902126Z",
+  "model": "glm-5.2"
+}

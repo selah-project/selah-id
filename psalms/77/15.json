@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Engkau ⟨adalah⟩ ha-El yang melakukan keajaiban; Engkau telah membuat diketahui kekuatan-Mu di antara bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ha-El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "keajaiban"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "Engkau telah membuat diketahui"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kekuatan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:26.705217026Z",
+  "model": "glm-5.2"
+}

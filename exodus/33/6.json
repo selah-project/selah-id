@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Maka bani Yisra'el menanggalkan ⟨את⟩ perhiasan mereka dari gunung Choreb.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Maka menanggalkan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perhiasan mereka"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "perhiasan mereka"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dari gunung"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Choreb"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:33.695796142Z",
+  "model": "glm-5.2"
+}

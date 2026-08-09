@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Maka seluruh Yisra'el turun kepada ⟨para⟩ Pelishtim untuk menajamkan, masing-masing ⟨את⟩ bajaknya dan ⟨את⟩ cangkulnya dan ⟨את⟩ kapaknya dan ⟨את⟩ beliungnya.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Maka turunlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "kepada Pelishtim"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "untuk menajamkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajaknya"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "bajaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "cangkulnya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cangkulnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kapaknya"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "kapaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "beliungnya"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "beliungnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:10.526159100Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "tanggalah: “Kepadamu aku memberi ⟨את⟩ tanah Kenaan sebagai tali milik pusakamu.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "tanggalah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aku memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sebagai tali"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "milik pusakamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:26.129203383Z",
+  "model": "glm-5.2"
+}

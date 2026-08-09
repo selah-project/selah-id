@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Elohim Tzevaot, kembalikanlah kami, dan buatlah wajah-Mu bersinar, maka kami akan diselamatkan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "kembalikanlah kami"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "dan buatlah bersinar"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "maka kami akan diselamatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:13.561713683Z",
+  "model": "glm-5.2"
+}

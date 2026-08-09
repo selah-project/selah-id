@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan mereka mengangkut dia di atas kuda-kuda dan mereka mengubur ⟨את⟩ dia bersama bapa-bapanya di kota Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Dan mereka mengangkut dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kuda-kuda"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan mereka mengubur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:16:04.405765239Z",
+  "model": "glm-5.2"
+}

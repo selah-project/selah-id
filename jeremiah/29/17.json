@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 29:17",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Demikian berfirman Yahweh Tzevaot: Sesungguhnya Aku mengirim ke tengah mereka ⟨את⟩ pedang, ⟨את⟩ kelaparan, dan ⟨את⟩ penyakit, dan Aku akan menjadikan mereka seperti buah ara yang busuk yang tidak dapat dimakan karena keburukannya.",
+  "tokens": [
+    {
+      "surface": "כֹּ֤ה",
+      "gloss": "Demikian"
+    },
+    {
+      "surface": "אָמַר֙",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֔וֹת",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "הִנְנִי֙",
+      "gloss": "Sesungguhnya Aku"
+    },
+    {
+      "surface": "מְשַׁלֵּ֣חַ",
+      "gloss": "mengirim"
+    },
+    {
+      "surface": "בָּ֔ם",
+      "gloss": "ke tengah mereka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pedang"
+    },
+    {
+      "surface": "הַחֶ֖רֶב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kelaparan"
+    },
+    {
+      "surface": "הָרָעָ֣ב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penyakit"
+    },
+    {
+      "surface": "הַדָּ֑בֶר",
+      "gloss": "penyakit"
+    },
+    {
+      "surface": "וְנָתַתִּ֣י",
+      "gloss": "dan Aku akan menjadikan"
+    },
+    {
+      "surface": "אוֹתָ֗ם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "seperti buah ara yang busuk"
+    },
+    {
+      "surface": "כַּתְּאֵנִים֙",
+      "gloss": "seperti buah ara"
+    },
+    {
+      "surface": "הַשֹּׁ֣עָרִ֔ים",
+      "gloss": "yang busuk"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תֵאָכַ֖לְנָה",
+      "gloss": "dapat dimakan"
+    },
+    {
+      "surface": "מֵרֹֽעַ",
+      "gloss": "karena keburukannya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:37:10.955711057Z",
+  "model": "glm-5.2"
+}

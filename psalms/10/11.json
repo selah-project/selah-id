@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "⟨Ia⟩ berkata dalam hatinya, 'El telah melupakan, ⟨Ia⟩ menyembunyikan wajah-Nya, ⟨Ia⟩ tidak melihat sampai selamanya.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "⟨Ia⟩ berkata"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dalam hatinya"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "telah melupakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "⟨Ia⟩ menyembunyikan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajah-Nya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨Ia⟩ tidak"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sampai selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:31.108411760Z",
+  "model": "glm-5.2"
+}

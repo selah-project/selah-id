@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Sebab ⟨את⟩ segala kekejian ini telah dilakukan oleh orang-orang negeri yang ⟨di⟩ depan kamu, dan negeri itu menjadi najis.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kekejian ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "telah dilakukan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di depan kamu"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "dan menjadi najis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:10.952135873Z",
+  "model": "glm-5.2"
+}

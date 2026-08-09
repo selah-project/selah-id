@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Umur tiga puluh tahun ⟨adalah⟩ Dawid ketika ia menjadi raja; empat puluh tahun ia memerintah.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "umur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ketika menjadi rajanya"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ia memerintah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:45.141200716Z",
+  "model": "glm-5.2"
+}

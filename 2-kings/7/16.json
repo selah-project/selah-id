@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Maka keluarlah rakyat itu dan mereka menjarah ⟨את⟩ perkemahan Aram, maka terjadilah satu seah tepung terigu pada harga satu syekel dan dua seah jelai pada harga satu syekel, sesuai dengan firman Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "dan mereka menjarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkemahan Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "perkemahan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "satu seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung terigu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "pada harga satu syekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "dan dua seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "jelai"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "pada harga satu syekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sesuai dengan firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:05:53.375772245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Batu ⟨yang ber⟩-חן ⟨adalah⟩ suap di mata pemiliknya; ke segala yang ia hadapi ia bertindak bijak.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "⟨yang ber⟩-חן"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "suap"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "pemiliknya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ia hadapi"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ia bertindak bijak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:31.036600642Z",
+  "model": "glm-5.2"
+}

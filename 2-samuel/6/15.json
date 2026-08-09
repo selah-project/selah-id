@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan Dawud dan seluruh bait Yisra'el sedang menaikkan ⟨את⟩ aron Yahweh di tengah sorak-sorai dan di tengah bunyi syofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "dan Dawud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "sedang menaikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "di tengah sorak-sorai"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "dan di tengah bunyi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "syofar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:27.754982993Z",
+  "model": "glm-5.2"
+}

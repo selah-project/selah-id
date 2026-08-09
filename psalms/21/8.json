@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Sebab raja bersandar kepada Yahweh, dan dalam hesed Elyon tidak akan goyah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bersandar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "dan dalam hesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "akan goyah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:15.943029794Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan ⟨ia⟩ berkata, “⟨Ada⟩ perkataan ⟨dariku⟩ untuk ⟨katakan⟩ kepadamu.” Dan ⟨ia⟩ berkata, “Berkatalah.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuk(-ku)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Berkatalah"
+    }
+  ],
+  "timestamp": "2026-08-08T12:16:10.414746992Z",
+  "model": "glm-5.2"
+}

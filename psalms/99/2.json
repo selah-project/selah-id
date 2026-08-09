@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 99,
+  "translation": "Yahweh ⟨adalah⟩ besar di Tzion, dan tinggi ⟨Ia⟩ di atas segala bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "dan tinggi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:45.306443772Z",
+  "model": "glm-5.2"
+}

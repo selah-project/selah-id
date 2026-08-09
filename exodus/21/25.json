@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "hangus ⟨sebagai ganti⟩ hangus, luka ⟨sebagai ganti⟩ luka, memar ⟨sebagai ganti⟩ memar.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "hangus"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "hangus"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "luka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "luka"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "memar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "memar"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:49.597735179Z",
+  "model": "glm-5.2"
+}

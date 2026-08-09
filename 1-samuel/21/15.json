@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Maka berkatalah Akhish kepada hamba-hambanya: “Lihat, kalian melihat seorang laki-laki yang bertindak gila; mengapa kalian membawa ⟨את⟩ dia kepadaku?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berkatalah"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akhish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kalian melihat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "bertindak gila"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "kalian membawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:27.910621230Z",
+  "model": "glm-5.2"
+}

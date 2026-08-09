@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 63,
+  "translation": "Demikianlah aku memberkati engkau dalam hidupku, dalam namamu aku mengangkat telapak tanganku.",
+  "tokens": [
+    {
+      "surface": "כֵּן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "אֲבָרֶכְךָ",
+      "gloss": "aku memberkati engkau"
+    },
+    {
+      "surface": "בְחַיָּי",
+      "gloss": "dalam hidupku"
+    },
+    {
+      "surface": "בְּשִׁמְךָ",
+      "gloss": "dalam namamu"
+    },
+    {
+      "surface": "אֶשָּׂא",
+      "gloss": "aku mengangkat"
+    },
+    {
+      "surface": "כַפָּי",
+      "gloss": "telapak tanganku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.503937504Z",
+  "model": "glm-5.2"
+}

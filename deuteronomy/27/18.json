@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Terkutuklah ⟨yang⟩ menyesatkan ⟨seorang⟩ tuna netra di ⟨pada⟩ jalan, dan seluruh bangsa itu harus berkata, Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Terkutuklah"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "menyesatkan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "tuna netra"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:11.087523336Z",
+  "model": "glm-5.2"
+}

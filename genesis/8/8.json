@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu disuruhnya ⟨את⟩ merpati dari padanya untuk melihat apakah air telah berkurang dari atas permukaan tanah.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu disuruhnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merpati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "merpati"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "apakah telah berkurang"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T18:22:04.531937928Z",
+  "model": "glm-5.2"
+}

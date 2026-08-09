@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dengarlah kepada ayahmu — ini yang memperanakkan engkau — dan jangan menghina, karena sudah menua ibumu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "kepada ayahmu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "yang memperanakkan engkau"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "menghina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "sudah menua"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:22.665104068Z",
+  "model": "glm-5.2"
+}

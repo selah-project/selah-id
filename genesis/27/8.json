@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "“Maka sekarang, anakku, dengarlah suaraku, kepada ⟨את⟩ yang aku perintahkan kepadamu.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "maka sekarang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אני",
+      "gloss": "yang aku"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "perintahkan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:48:44.227970876Z",
+  "model": "glm-5.2"
+}

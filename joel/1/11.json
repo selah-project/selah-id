@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Malahulah, hai petani; merataplah, hai pengusah anggur, karena gandum dan karena jelai, sebab musnah panen ⟨dari⟩ padang.",
+  "tokens": [
+    {
+      "surface": "הֹבִ֣ישׁוּ",
+      "gloss": "malahulah"
+    },
+    {
+      "surface": "אִכָּרִ֗ים",
+      "gloss": "petani"
+    },
+    {
+      "surface": "הֵילִ֨ילוּ֙",
+      "gloss": "merataplah"
+    },
+    {
+      "surface": "כֹּֽרְמִ֔ים",
+      "gloss": "pengusah anggur"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חִטָּ֖ה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "dan karena"
+    },
+    {
+      "surface": "שְׂעֹרָ֑ה",
+      "gloss": "jelai"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אָבַ֖ד",
+      "gloss": "musnah"
+    },
+    {
+      "surface": "קְצִ֥יר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "שָׂדֶֽה",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-08-08T11:31:08.254807015Z",
+  "model": "glm-5.2"
+}

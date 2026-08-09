@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Sesuai segala yang Yahweh perintahkan ⟨את⟩ Moshe, demikianlah bani Yisrael membuat ⟨את⟩ segala pekerjaan itu.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sesuai segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "pekerjaan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:07.416490608Z",
+  "model": "glm-5.2"
+}

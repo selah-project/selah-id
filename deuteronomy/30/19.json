@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 30:19",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Aku memanggil langit dan bumi menjadi saksi atas kamu hari ini: ⟨את⟩ kehidupan dan ⟨את⟩ kematian telah kutaruh di depanmu, berkat dan kutuk; maka pilihlah kehidupan, supaya engkau hidup, engkau dan keturunanmu,",
+  "tokens": [
+    {
+      "surface": "העידתי",
+      "gloss": "aku memanggil menjadi saksi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "atas kamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "והמות",
+      "gloss": "dan kematian"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "telah kutaruh"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di depanmu"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "dan kutuk"
+    },
+    {
+      "surface": "ובחרת",
+      "gloss": "maka pilihlah"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "engkau hidup"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "dan keturunanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:47:35.103491421Z",
+  "model": "glm-5.2"
+}

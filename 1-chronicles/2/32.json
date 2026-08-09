@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan anak-anak Yada, saudara Shammay, ⟨adalah⟩ Yeter dan Yonatan; dan Yeter mati tanpa anak.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dan anak-anak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Yada"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shammay"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "dan Yonatan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:03:14.264339298Z",
+  "model": "glm-5.2"
+}

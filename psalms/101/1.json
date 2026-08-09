@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 101,
+  "translation": "Mazmur bagi Dawid. hesed dan keadilan aku nyanyikan, kepada-Mu, Yahweh, aku bermazmur.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan keadilan"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku nyanyikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku bermazmur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:22.737148442Z",
+  "model": "glm-5.2"
+}

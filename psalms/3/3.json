@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Banyak yang mengatakan kepada ⟨נַפְשִׁי⟩ diriku, “Tidak ada keselamatan baginya dalam Elohim.” Sela.",
+  "tokens": [
+    {
+      "surface": "רַבִּים",
+      "gloss": "Banyak"
+    },
+    {
+      "surface": "אֹמְרִים",
+      "gloss": "yang mengatakan"
+    },
+    {
+      "surface": "לְנַפְשִׁי",
+      "gloss": "kepada ⟨נַפְשִׁי⟩ diriku"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "יְשׁוּעָתָה",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "לּוֹ",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "בֵּאלֹהִים",
+      "gloss": "dalam Elohim"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:41.914839755Z",
+  "model": "glm-5.2"
+}

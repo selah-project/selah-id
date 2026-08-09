@@ -1,0 +1,111 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "exodus 3:16",
+ "book": "exodus",
+ "lang": "id",
+ "chapter": 3,
+ "translation": "Pergilah, dan kumpulkanlah para tua-tua ⟨את⟩ Yisra'el, dan katakanlah kepada mereka: Yahweh, Elohim nenek moyangmu, Elohim Avraham, Yitskhak, dan Ya'akov, telah menampakkan diri kepadaku, dengan mengatakan: Memang aku telah mengunjungi ⟨את⟩ kamu, dan ⟨את⟩ apa yang diperbuat kepadamu di Mitsrayim.",
+ "tokens": [
+  {
+   "surface": "לך",
+   "gloss": "pergilah"
+  },
+  {
+   "surface": "ואספת",
+   "gloss": "dan kumpulkanlah"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "para tua-tua"
+  },
+  {
+   "surface": "זקני",
+   "gloss": "para tua-tua"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisra'el"
+  },
+  {
+   "surface": "ואמרת",
+   "gloss": "dan katakanlah"
+  },
+  {
+   "surface": "אלהם",
+   "gloss": "kepada mereka"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweh"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "אבתיכם",
+   "gloss": "nenek moyangmu"
+  },
+  {
+   "surface": "נראה",
+   "gloss": "telah menampakkan diri"
+  },
+  {
+   "surface": "אלי",
+   "gloss": "kepadaku"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "אברהם",
+   "gloss": "Avraham"
+  },
+  {
+   "surface": "יצחק",
+   "gloss": "Yitskhak"
+  },
+  {
+   "surface": "ויעקב",
+   "gloss": "dan Ya'akov"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "dengan mengatakan"
+  },
+  {
+   "surface": "פקד",
+   "gloss": "memang"
+  },
+  {
+   "surface": "פקדתי",
+   "gloss": "aku telah mengunjungi"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ kamu"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "dan ⟨את⟩",
+   "marks": "apa yang diperbuat"
+  },
+  {
+   "surface": "העשוי",
+   "gloss": "apa yang diperbuat"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "kepadamu"
+  },
+  {
+   "surface": "במצרים",
+   "gloss": "di Mitsrayim"
+  }
+ ],
+ "timestamp": "2026-08-09T01:38:05.333524200Z",
+ "model": "glm-5.2"
+}

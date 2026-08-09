@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan Avraham menempatkan ⟨את⟩ tujuh anak domba betina dari kawanan itu tersendiri.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Dan menempatkan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh anak domba betina"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "anak domba betina"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dari kawanan itu"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "tersendiri"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:34.137808914Z",
+  "model": "glm-5.2"
+}

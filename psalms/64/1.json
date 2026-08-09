@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 64,
+  "translation": "Untuk sang pemimpin ⟨⟨musik⟩⟩. Mizmor bagi Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk sang pemimpin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:39.986665390Z",
+  "model": "glm-5.2"
+}

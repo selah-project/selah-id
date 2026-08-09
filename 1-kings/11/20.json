@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan melahirkanlah baginya saudari Takhpenis ⟨את⟩ Genubat putranya, dan Takhpenislah yang menyapihnya di tengah-tengah rumah Paro; dan ⟨adalah⟩ Genubat ⟨di⟩ rumah Paro di tengah-tengah putra-putra Paro.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkanlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "saudari"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Takhpenis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubat"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putranya"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "dan menyapihnya"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Takhpenislah yang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ⟨adalah⟩"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:53.368378835Z",
+  "model": "glm-5.2"
+}

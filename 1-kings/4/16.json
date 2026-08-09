@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Ba'ana bin Khushai, di Asyer dan di Be'alot.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Ba'ana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Khushai"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "di Asyer"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "dan di Be'alot"
+    }
+  ],
+  "timestamp": "2026-08-08T08:00:19.425102852Z",
+  "model": "glm-5.2"
+}

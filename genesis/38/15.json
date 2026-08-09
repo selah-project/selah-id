@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Dan dilihatnya dia oleh Yehudah, dan dianggapnya dia ⟨sebagai⟩ pezona, sebab ia menutupi wajahnya.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "dan dilihatnya dia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "dan dianggapnya dia"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "sebagai pezona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ia menutupi"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "wajahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:14.848793533Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Avshalom yang kami urapi atas kita telah mati dalam peperangan; dan sekarang mengapa kamu berdiam diri untuk mengembalikan ⟨את⟩ sang raja?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "kami urapi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atas kita"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dalam peperangan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "berdiam diri"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "untuk mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T11:00:27.092704454Z",
+  "model": "glm-5.2"
+}

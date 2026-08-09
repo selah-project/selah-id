@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Bagi pemimpin biduan, bagi Yedutun; mizmor bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bagi pemimpin biduan"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "bagi Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:44.349422623Z",
+  "model": "glm-5.2"
+}

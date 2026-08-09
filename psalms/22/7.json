@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Tetapi aku ⟨ini⟩ ulat dan bukan ⟨se⟩manusia, celaan manusia dan dihina ⟨oleh⟩ umat.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "tetapi aku"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "cela'an"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "dan dihina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:58.683861645Z",
+  "model": "glm-5.2"
+}

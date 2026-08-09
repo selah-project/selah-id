@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan sepertiga di pintu gerbang Sur, dan sepertiga di pintu gerbang di belakang para pelari, dan kamu harus menjaga ⟨את⟩ penjagaan bait itu sebagai penghalang.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "dan sepertiga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "dan sepertiga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "para pelari"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "dan kamu harus menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penjagaan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "penjagaan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bait itu"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "sebagai penghalang"
+    }
+  ],
+  "timestamp": "2026-08-08T08:10:58.040200635Z",
+  "model": "glm-5.2"
+}

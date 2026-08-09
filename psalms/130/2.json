@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 130,
+  "translation": "Adonai, dengarkan suaraku; biarlah telinga-Mu ⟨memperhatikan⟩ suara permohonanku.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָי֮",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שִׁמְעָ֪ה",
+      "gloss": "dengarkan"
+    },
+    {
+      "surface": "בְק֫וֹלִ֥י",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "תִּהְיֶ֣ינָה",
+      "gloss": "biarlah"
+    },
+    {
+      "surface": "אָ֭זְנֶיךָ",
+      "gloss": "telinga-Mu"
+    },
+    {
+      "surface": "קַשֻׁב֑וֹת",
+      "gloss": "memperhatikan"
+    },
+    {
+      "surface": "לְ֝ק֗וֹל",
+      "gloss": "suara"
+    },
+    {
+      "surface": "תַּחֲנוּנָֽי",
+      "gloss": "permohonanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:27.427868016Z",
+  "model": "glm-5.2"
+}

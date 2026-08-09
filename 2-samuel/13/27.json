@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Tetapi Avshalom mendesak dia, maka ⟨ia⟩ menyuruh pergi bersamanya ⟨את⟩ Amnon dan ⟨את⟩ semua anak raja.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "Tetapi mendesak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "maka menyuruh pergi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:56.284578452Z",
+  "model": "glm-5.2"
+}

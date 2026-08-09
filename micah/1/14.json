@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 1:14",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Sebab itu engkau akan memberi ⟨surat⟩ perceraian atas Moreshet-Gat; bait-bait Akhzib menjadi kebohongan bagi raja-raja Yisra'el.",
+  "tokens": [
+    {
+      "surface": "לָכֵן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "תִּתְּנִי",
+      "gloss": "engkau akan memberi"
+    },
+    {
+      "surface": "שִׁלּוּחִים",
+      "gloss": "⟨surat⟩ perceraian"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מוֹרֶשֶׁת",
+      "gloss": "Moresyet"
+    },
+    {
+      "surface": "גַּת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "בָּתֵּי",
+      "gloss": "bait-bait"
+    },
+    {
+      "surface": "אַכְזִיב",
+      "gloss": "Akhzib"
+    },
+    {
+      "surface": "לְאַכְזָב",
+      "gloss": "menjadi kebohongan"
+    },
+    {
+      "surface": "לְמַלְכֵי",
+      "gloss": "bagi raja-raja"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T09:00:43.887044362Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "Ulurkan tangan-Mu dari tempat tinggi, lepaskan aku dan selamatkan aku dari air yang banyak, dari tangan anak-anak orang asing.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ulurkan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "dari tempat tinggi"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "lepaskan aku"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "dan selamatkan aku"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "dari air"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "orang asing"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:14.347760303Z",
+  "model": "glm-5.2"
+}

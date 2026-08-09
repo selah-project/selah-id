@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 95,
+  "translation": "Jangan kamu menyekarkan hatimu seperti di Merivah, seperti pada hari Massah di padang gurun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "kamu menyekarkan"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "seperti di Merivah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti pada hari"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:26.025849231Z",
+  "model": "glm-5.2"
+}

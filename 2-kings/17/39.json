@@ -1,0 +1,63 @@
+{
+ "tier": "glm-5.2",
+ "verse": 39,
+ "ref": "2-kings 17:39",
+ "book": "2-kings",
+ "lang": "id",
+ "chapter": 17,
+ "translation": "melainkan ⟨את⟩ Yahweh, Elohim kamu, kamu takuti; dan Dia akan menyelamatkan ⟨את⟩ ⟨kamu⟩ dari tangan semua musuhmu.",
+ "tokens": [
+  {
+   "surface": "כִּ֛י",
+   "gloss": "melainkan"
+  },
+  {
+   "surface": "אִֽם",
+   "gloss": ""
+  },
+  {
+   "surface": "אֶת",
+   "gloss": "⟨את⟩",
+   "marks": "Yahweh"
+  },
+  {
+   "surface": "יְהוָ֥ה",
+   "gloss": "Yahweh"
+  },
+  {
+   "surface": "אֱלֹהֵיכֶ֖ם",
+   "gloss": "Elohim kamu"
+  },
+  {
+   "surface": "תִּירָ֑אוּ",
+   "gloss": "kamu takuti"
+  },
+  {
+   "surface": "וְהוּא֙",
+   "gloss": "dan Dia"
+  },
+  {
+   "surface": "יַצִּ֣יל",
+   "gloss": "akan menyelamatkan"
+  },
+  {
+   "surface": "אֶתְכֶ֔ם",
+   "gloss": "⟨את⟩ ⟨kamu⟩",
+   "marks": "kamu"
+  },
+  {
+   "surface": "מִיַּ֖ד",
+   "gloss": "dari tangan"
+  },
+  {
+   "surface": "כָּל",
+   "gloss": "semua"
+  },
+  {
+   "surface": "אֹיְבֵיכֶֽם",
+   "gloss": "musuhmu"
+  }
+ ],
+ "timestamp": "2026-08-09T01:41:19.542049449Z",
+ "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Lalu berkatalah Shekhem kepada Khamor ayahnya, dengan berkata: “Ambillah bagiku ⟨את⟩ anak gadis ini menjadi istri.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ambillah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak gadis ini"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "anak gadis"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi istri"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:15.511901840Z",
+  "model": "glm-5.2"
+}

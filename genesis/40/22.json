@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ⟨את⟩ sar ha-ofim ⟨הוא⟩ menggantung, seperti yang ditafsirkan bagi mereka Yosef.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "sar ha-ofim"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "ha-ofim"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "menggantung"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ditafsirkan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:01.035761252Z",
+  "model": "glm-5.2"
+}

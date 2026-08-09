@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Maka Yaravam membangun ⟨את⟩ Shekhem di pegunungan Efrayim dan diam di sana; lalu ia pergi dari sana dan membangun ⟨את⟩ Pnuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "maka ia membangun"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan ia diam"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lalu ia pergi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan ia membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pnuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Pnuel"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:54.517738274Z",
+  "model": "glm-5.2"
+}

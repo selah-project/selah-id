@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan Lavan menyusul ⟨את⟩ Yaakob, dan Yaakob memasang kemahnya di gunung, dan Lavan memasang ⟨את⟩ saudara-saudaranya di gunung Gilad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "dan menyusul"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "dan Yaakob"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "memasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemahnya"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "kemahnya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "dan Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "memasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:55.667444802Z",
+  "model": "glm-5.2"
+}

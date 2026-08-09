@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Akulah Yahweh, Elohim-mu, yang membawa engkau keluar dari negeri Mitsrayim, dari rumah perbudakan.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "membawa engkau keluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari negeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "perbudakan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:21.478603339Z",
+  "model": "glm-5.2"
+}

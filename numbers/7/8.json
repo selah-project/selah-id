@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan ⟨את⟩ empat gerobak dan ⟨את⟩ delapan lembu diberikannya kepada bani Merari, according-to pelayanan mereka, di bawah tangan Itamar bin Aharon sang imam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "empat gerobak"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "gerobak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "delapan lembu"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "delapan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikannya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada bani"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "according-to"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "pelayanan mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di bawah tangan"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    }
+  ],
+  "timestamp": "2026-08-08T07:15:23.729085219Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 97,
+  "translation": "Tsiyon mendengar dan bersukacita, dan putri-putri Yehuda bergembia, oleh sebab hukum-hukum-Mu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "dan bersukacita"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "dan bergembià"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:30.334095577Z",
+  "model": "glm-5.2"
+}

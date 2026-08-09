@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 47:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Dan mereka berkata, “Engkau telah membangkitkan kami ⟨kehidupan⟩; kami mendapat hesed di mata tuanku, dan kami menjadi hamba bagi Paroh.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan mereka berkata"
+    },
+    {
+      "surface": "החיתנו",
+      "gloss": "Engkau telah membangkitkan kami"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kami mendapat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "dan kami menjadi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "bagi Paroh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:22.472039819Z",
+  "model": "glm-5.2"
+}

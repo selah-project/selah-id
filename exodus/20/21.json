@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan berdirilah ⟨the⟩ bangsa itu dari jauh, dan Mosheh mendekat kepada ⟨the⟩ kegelapan tebal, di mana di sana ⟨the⟩ Elohim berada.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dan berdirilah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dari jauh"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "dan Mosheh"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "mendekat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "kegelapan tebal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:09.124280524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Dan engkau akan membuat pakaian-pakaian kekudusan bagi Aharon saudaramu, untuk kemuliaan dan untuk keindahan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau akan membuat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kekudusan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "bagi Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "untuk kemuliaan"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "dan untuk keindahan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:22.005166808Z",
+  "model": "glm-5.2"
+}

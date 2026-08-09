@@ -1,0 +1,95 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "2-kings 17:6",
+ "book": "2-kings",
+ "lang": "id",
+ "chapter": 17,
+ "translation": "Pada tahun kesembilan Hoshea, raja Ashshur merebut ⟨את⟩ Shomeron, dan mengasingkan ⟨את⟩ Yisra'el ke Ashshur, dan menempatkan ⟨את⟩ mereka di Khalakh, dan di Khabor, sungai Gozan, dan di kota-kota Madai.",
+ "tokens": [
+  {
+   "surface": "בשנת",
+   "gloss": "Pada tahun"
+  },
+  {
+   "surface": "התשיעית",
+   "gloss": "kesembilan"
+  },
+  {
+   "surface": "להושע",
+   "gloss": "Hoshea"
+  },
+  {
+   "surface": "לכד",
+   "gloss": "merebut"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "raja"
+  },
+  {
+   "surface": "אשור",
+   "gloss": "Ashshur"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Shomeron"
+  },
+  {
+   "surface": "שמרון",
+   "gloss": "Shomeron"
+  },
+  {
+   "surface": "ויגל",
+   "gloss": "dan mengasingkan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yisra'el"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisra'el"
+  },
+  {
+   "surface": "אשורה",
+   "gloss": "ke Ashshur"
+  },
+  {
+   "surface": "וישב",
+   "gloss": "dan menempatkan"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "בחלח",
+   "gloss": "di Khalakh"
+  },
+  {
+   "surface": "ובחבור",
+   "gloss": "dan di Khabor"
+  },
+  {
+   "surface": "נהר",
+   "gloss": "sungai"
+  },
+  {
+   "surface": "גוזן",
+   "gloss": "Gozan"
+  },
+  {
+   "surface": "וערי",
+   "gloss": "dan di kota-kota"
+  },
+  {
+   "surface": "מדי",
+   "gloss": "Madai"
+  }
+ ],
+ "timestamp": "2026-08-09T01:44:07.249618674Z",
+ "model": "glm-5.2"
+}

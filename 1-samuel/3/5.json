@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu ⟨ia⟩ berlari kepada Eli, dan ⟨ia⟩ berkata, “Ini aku, sebab engkau memanggil aku.” Tetapi ⟨ia⟩ berkata, “Aku tidak memanggil — kembalilah, tidurlah.” Maka ⟨ia⟩ pergi dan tidur.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "dan berlari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ini aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "engkau memanggil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku memanggil"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "tidurlah"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "dan tidur"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:47.364223365Z",
+  "model": "glm-5.2"
+}

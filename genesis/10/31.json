@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Ini bani Sem, menurut marga-marga mereka, menurut bahasa mereka, di negeri-negeri mereka, menurut bangsa-bangsa mereka.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut marga-marga mereka"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "menurut bahasa mereka"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di negeri-negeri mereka"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "menurut bangsa-bangsa mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:00.459809585Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan ⟨hal itu⟩ terjadi, apabila ⟨ia⟩ bersalah dalam satu dari hal-hal ini, maka ⟨ia⟩ mengaku apa yang ⟨ia⟩ telah lakukan dosa atasnya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan terjadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "bersalah"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "dalam satu"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "dari hal-hal ini"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "maka mengaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "telah lakukan dosa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atasnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:27.516461490Z",
+  "model": "glm-5.2"
+}

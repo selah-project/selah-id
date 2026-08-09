@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Kiranya Ia mengingat segala persembahanmu, dan kurban bakaranmu ⟨Ia⟩ membuat gemuk — selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Kiranya Ia mengingat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "persembahanmu"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "dan kurban bakaranmu"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "⟨Ia⟩ membuat gemuk"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:45.050325473Z",
+  "model": "glm-5.2"
+}

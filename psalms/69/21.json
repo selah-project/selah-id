@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Celaan telah mematahkan hatiku, dan ⟨aku⟩ menjadi jatuh sakit; dan aku menanti-nantikan ⟩yang bersimpati⟨, tetapi tidak ada; dan bagi penghibur-penghibur, tetapi aku tidak menemukan.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "celaan"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "telah mematahkan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "dan aku menjadi jatuh sakit"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "dan aku menanti-nantikan"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "yang bersimpati"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tidak ada"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "dan bagi penghibur-penghibur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "aku menemukan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:01.414127078Z",
+  "model": "glm-5.2"
+}

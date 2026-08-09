@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan mereka berkata, “Apakah hanya kepada Moshe saja Yahweh berbicara? Bukankah juga kepada kami ⟨Ia⟩ berbicara?” Dan Yahweh mendengar.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "apakah hanya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "saja"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "kepada Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨Ia⟩ berbicara"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:17:20.533466809Z",
+  "model": "glm-5.2"
+}

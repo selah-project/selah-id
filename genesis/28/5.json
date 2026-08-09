@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Maka Yitschak menyuruh ⟨את⟩ Yaakob pergi, dan ⟨ia⟩ pergi ke Padan-Aram, kepada Lavan anak Betuel orang Aram, saudara Ribkah, ibu Yaakob dan Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "maka menyuruh pergi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ⟨ia⟩ pergi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "orang Aram"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribkah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "dan Esav"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:40.056669555Z",
+  "model": "glm-5.2"
+}

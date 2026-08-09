@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Yahweh dari langit menengok ke bawah atas anak-anak manusia, untuk melihat apakah ada ⟨yang⟩ berakal budi, ⟨yang⟩ mencari ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "menengok ke bawah"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "היש",
+      "gloss": "apakah ada"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "berakal budi"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:11.005816246Z",
+  "model": "glm-5.2"
+}

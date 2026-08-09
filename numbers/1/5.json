@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan inilah nama-nama ⟨para⟩ laki-laki yang akan berdiri bersama kamu: bagi Reuven, Elitsur ben Shedeiur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "para laki-laki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bersama kamu"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "bagi Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeiur"
+    }
+  ],
+  "timestamp": "2026-08-08T10:38:38.465478883Z",
+  "model": "glm-5.2"
+}

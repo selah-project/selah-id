@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Berbahagialah bangsa yang Yahweh Elohim-nya, ⟨yaitu⟩ kaum yang dipilih-Nya menjadi milik waris bagi-Nya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dipilih(-Nya)"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "menjadi milik waris"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:56.840271086Z",
+  "model": "glm-5.2"
+}

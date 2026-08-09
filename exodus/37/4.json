@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Lalu ia membuat tiang-tiang dari kayu shittim dan melapisinya ⟨dengan⟩ emas.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu ia membuat"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan melapisinya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-08T07:05:51.670056245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Ia akan hujani atas orang-orang fasik — jala, api dan belerang, dan angin badai — bagian dari pialan mereka.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Ia akan hujani"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "jala"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "dan belerang"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan angin"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "badai"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "pialan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:56.399317833Z",
+  "model": "glm-5.2"
+}

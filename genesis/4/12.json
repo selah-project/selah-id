@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Apabila engkau mengolah ⟨את⟩ tanah itu, ia tidak akan menambah lagi memberikan kekuatannya kepadamu; seorang pengembara dan pelarianlah engkau di bumi.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "engkau mengolah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "akan menambah lagi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "kekuatannya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "נע",
+      "gloss": "pengembara"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "dan pelarian"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "engkau akan menjadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:37.179329668Z",
+  "model": "glm-5.2"
+}

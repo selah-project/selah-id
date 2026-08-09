@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Sisa ⟨dari⟩ belalang telah dimakan oleh arbeh, dan sisa ⟨dari⟩ arbeh telah dimakan oleh yeleq, dan sisa ⟨dari⟩ yeleq telah dimakan oleh ḥasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Sisa"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "dari gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "telah dimakan"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "oleh arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "dan sisa"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "dari arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "telah dimakan"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "oleh yeleq"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "dan sisa"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "dari yeleq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "telah dimakan"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "oleh ḥasil"
+    }
+  ],
+  "timestamp": "2026-08-08T08:58:01.179888410Z",
+  "model": "glm-5.2"
+}

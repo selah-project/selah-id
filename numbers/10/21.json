@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan berangkatlah bani Kehat, pembawa ⟨את⟩ tempat kudus, dan ⟨mereka⟩ mendirikan ⟨את⟩ Kemah Suci sampai kedatangan mereka.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "dan berangkatlah"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "bani Kehat"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "dan mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kemah Suci"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Kemah Suci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באם",
+      "gloss": "kedatangan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:05.565468945Z",
+  "model": "glm-5.2"
+}

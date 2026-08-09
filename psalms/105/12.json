@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Ketika mereka berjumlah orang-orang hitungan, sedikit sekali, dan orang asing di dalamnya,",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Ketika mereka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hitungan"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "sedikit sekali"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "dan orang asing"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:26.129314701Z",
+  "model": "glm-5.2"
+}

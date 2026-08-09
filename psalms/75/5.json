@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 75,
+  "translation": "Aku berkata kepada para pembual: Jangan membual; dan kepada para fasik: Jangan mengangkat tanduk,",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "kepada para pembual"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "membual"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "dan kepada para fasik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tanduk"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:54.586272357Z",
+  "model": "glm-5.2"
+}

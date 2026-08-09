@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 96,
+  "translation": "Berikanlah kepada Yahweh kavod nama-Nya, angkatlah minchah dan masuklah ke pelataran-pelataran-Nya!",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "מנחha",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "dan masuklah"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "ke pelataran-pelataran-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:17.504465660Z",
+  "model": "glm-5.2"
+}

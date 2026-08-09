@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan berbicaralah Moshe di telinga seluruh jemaat Yisra'el ⟨את⟩ perkataan syair ini sampai selesai.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan berbicaralah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di telinga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan syair ini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "syair"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "selesai"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:01.542279071Z",
+  "model": "glm-5.2"
+}

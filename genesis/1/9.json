@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Elohim berkata, “Berkumpullah air dari bawah langit ke satu tempat, dan nampaklah ⟨את⟩ yang kering.” Dan jadilah demikian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "berkumpullah"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "dan nampaklah"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "⟨את⟩ yang kering",
+      "marks": "yang kering"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Dan jadilah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:03.582733712Z",
+  "model": "glm-5.2"
+}

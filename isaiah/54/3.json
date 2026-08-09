@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Sebab kanan dan kiri engkau akan menerobos, dan benihmu bangsa-bangsa akan memiliki, dan kota-kota yang sunyi akan dihuni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "dan kiri"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "engkau akan menerobos"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "dan benihmu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "akan memiliki"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "dan kota-kota"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "yang sunyi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "akan dihuni"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:19.277916476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Membinasakan aku semangat-berapi-ku, karena melupakan firman-Firman-Mu lawan-lawanku.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "membinasakan aku"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "semangat-berapi-ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "melupakan"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "firman-Firman-Mu"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "lawan-lawanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:25.930840587Z",
+  "model": "glm-5.2"
+}

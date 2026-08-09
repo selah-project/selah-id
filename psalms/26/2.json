@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Ujilah aku, Yahweh, dan periksalah aku, murnikanlah ginjalku dan hatiku.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Ujilah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "dan periksalah aku"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "murnikanlah"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ginjalku"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "dan hatiku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:54.987612792Z",
+  "model": "glm-5.2"
+}

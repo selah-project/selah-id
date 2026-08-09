@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Sebab tidak ada kenangan bagi orang bijak bersama orang bodoh untuk selamanya; sebab pada hari-hari yang akan datang semuanya telah lama dilupakan, dan bagaimana orang bijak mati bersama orang bodoh!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kenangan"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "bagi orang bijak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "sebab telah lama"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "yang akan datang"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "dilupakan"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "dan bagaimana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "orang bijak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "orang bodoh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:27.210886458Z",
+  "model": "glm-5.2"
+}

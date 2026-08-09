@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan Yirmeyahu masuk dan keluar di tengah-tengah ⟨העם⟩ rakyat, dan mereka tidak menyerahkan ⟨אתו⟩ dia ke ⟨בית⟩ rumah penjara.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Dan Yirmeyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluar"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "mereka menyerahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "penjara"
+    }
+  ],
+  "timestamp": "2026-08-08T18:34:54.710551707Z",
+  "model": "glm-5.2"
+}

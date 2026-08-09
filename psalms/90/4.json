@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 90,
+  "translation": "Karena seribu tahun di mata-Mu seperti hari kemarin, seperti ⟨dia⟩ berlalu, dan seperti jaga di malam hari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mata-Mu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti hari"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "kemarin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "berlalu"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "dan jaga"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "di malam hari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:15.326680678Z",
+  "model": "glm-5.2"
+}

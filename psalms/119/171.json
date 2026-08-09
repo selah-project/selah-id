@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Biarlah bibirku mencurahkan puji-pujian, sebab Engkau mengajari aku ketetapan-ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "biarlah mencurahkan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibirku"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "Engkau mengajari aku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:58.846337201Z",
+  "model": "glm-5.2"
+}

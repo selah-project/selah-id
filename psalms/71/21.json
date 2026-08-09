@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Engkau akan menambah besarku, dan berbalik untuk menghibur aku.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "Engkau akan menambah"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "besarku"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "dan berbalik"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "untuk menghibur aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:59.918590454Z",
+  "model": "glm-5.2"
+}

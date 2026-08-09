@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan tidaklah mengingat kepala penuang ⟨את⟩ Yosef, dan ⟨ia⟩ melupakannya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan tidaklah"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mengingat"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "penuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "dan melupakannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:56.460240786Z",
+  "model": "glm-5.2"
+}

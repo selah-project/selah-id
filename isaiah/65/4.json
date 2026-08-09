@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 65,
+  "translation": "yang duduk di kuburan-kuburan dan bermalam di tempat-tempat tersembunyi, yang memakan daging babi dan kuah ⟨dari⟩ benda-benda najis — ⟨semuanya⟩ dalam bejana mereka;",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "yang duduk"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "di kuburan-kuburan"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "dan di tempat-tempat tersembunyi"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "bermalam"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "yang memakan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "babi"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "dan kuah"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "benda-benda najis"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "bejana mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:14:50.282722876Z",
+  "model": "glm-5.2"
+}

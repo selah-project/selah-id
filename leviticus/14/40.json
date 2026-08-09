@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "maka imam itu memerintah, dan mereka mencabut ⟨את⟩ batu-batu yang padanya penyakit itu, dan mereka melemparkan batu-batu itu ke luar kota, ke tempat yang tuma.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "dan memerintah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "dan mereka mencabut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "penyakit itu"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "dan mereka melemparkan"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "mereka melemparkan mereka (batu-batu itu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tuma"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:25.972297381Z",
+  "model": "glm-5.2"
+}

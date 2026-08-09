@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Tertindas aku, dan ⟨sedang⟩ moreng dari masa muda; aku telah menanggung kengerian-Mu — aku tergilamus.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Tertindas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "dan moreng"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "dari masa muda"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "aku telah menanggung"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "kengerian-Mu"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "aku tergilamus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:40.768655672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Bangunlah, bersinarlah, sebab telah datang terangmu, dan kemuliaan Yahweh telah terbit atasmu.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "bersinarlah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "terangmu"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dan kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "telah terbit"
+    }
+  ],
+  "timestamp": "2026-08-08T08:28:32.962262600Z",
+  "model": "glm-5.2"
+}

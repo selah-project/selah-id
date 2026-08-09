@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu datanglah Hathak dan memberitahukan kepada Ester ⟨את⟩ perkataan Mordekhai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "lalu datanglah"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hathak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitahukan"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kepada Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:48.904620698Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Akhimaats, di Naftali — juga dia mengambil ⟨את⟩ Bosmat bat Shelomo menjadi istri.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Akhimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "di Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi istri"
+    }
+  ],
+  "timestamp": "2026-08-08T08:00:19.424976034Z",
+  "model": "glm-5.2"
+}

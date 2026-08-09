@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan Aku akan memberikan tempat kediaman-Ku di tengah-tengahmu, dan jiwa-Ku tidak akan menolak ⟨את⟩ kalian.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Dan Aku akan memberikan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "tempat kediaman-Ku"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tengah-tengahmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "akan menolak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-Ku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T10:39:02.360059558Z",
+  "model": "glm-5.2"
+}

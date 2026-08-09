@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "maka engkau akan memotong ⟨את⟩ tangannya — matamu tidak akan merasa belas kasihan kepadanya.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "maka engkau akan memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "akan merasa belas kasihan"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "matamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:47:18.330851016Z",
+  "model": "glm-5.2"
+}

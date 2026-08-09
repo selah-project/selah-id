@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 112,
+  "translation": "Terbitlah terang dalam kegelapan bagi ⟨orang-orang⟩ jujur — pengasih dan penyayang dan adil.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "terbitlah"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "bagi orang-orang jujur"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "pengasih"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "dan penyayang"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "dan adil"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:59.972037091Z",
+  "model": "glm-5.2"
+}

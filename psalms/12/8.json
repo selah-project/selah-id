@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Engkau, Yahweh, Engkau akan menjaga mereka; Engkau akan melindungi mereka dari angkatan ini untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "אַתָּֽה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תִּשְׁמְרֵ֑ם",
+      "gloss": "Engkau akan menjaga mereka"
+    },
+    {
+      "surface": "תִּצְּרֶ֓נּוּ",
+      "gloss": "Engkau akan melindungi mereka"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הַדּ֖וֹר",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "ז֣וּ",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:55.776471182Z",
+  "model": "glm-5.2"
+}

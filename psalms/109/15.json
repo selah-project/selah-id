@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Biarlah tetap di hadapan Yahweh selalu, dan dibunuh dari bumi peringatan akan mereka.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "biarlah"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "selalu"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "dan dibunuh"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "peringatan akan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:54.005755679Z",
+  "model": "glm-5.2"
+}

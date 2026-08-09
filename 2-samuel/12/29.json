@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lalu Dawid mengumpulkan ⟨את⟩ seluruh rakyat itu dan pergi ke Rabbah, dan ia berperang melawannya dan merebutnya.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Lalu mengumpulkan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh rakyat itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "ke Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "dan berperang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "melawannya"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "dan merebutnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:27.992085753Z",
+  "model": "glm-5.2"
+}

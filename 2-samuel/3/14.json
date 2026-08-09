@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Dawid mengirim utusan kepada Ish-Boset bin Sha-ul, bunyinya: “Berikan ⟨את⟩ isteriku, ⟨את⟩ Mikhal, yang aku tunangkan kepadaku dengan seratus kulup orang Pelesytim.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dan ⟨ia⟩ mengirim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boset"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bunyinya"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Berikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteriku"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "isteriku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "aku tunangkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "dengan seratus"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "kulup"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelesytim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:22.570909507Z",
+  "model": "glm-5.2"
+}

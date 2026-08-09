@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "⟨Dalam⟩ hari-hari ⟨yang⟩ lebih dari setahun ⟨kau⟩ akan gemetar, hai yang percaya, sehabis panen anggur habis, pengumpulan tidak akan datang.",
+  "tokens": [
+    {
+      "surface": "יָמִים֙",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "lebih dari"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "setahun"
+    },
+    {
+      "surface": "תִּרְגַּ֖זְנָה",
+      "gloss": "akan gemetar"
+    },
+    {
+      "surface": "בֹּֽטְח֑וֹת",
+      "gloss": "hai yang percaya"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "karena"
+    },
+    {
+      "surface": "כָּלָ֣ה",
+      "gloss": "habis"
+    },
+    {
+      "surface": "בָצִ֔יר",
+      "gloss": "panen anggur"
+    },
+    {
+      "surface": "אֹ֖סֶף",
+      "gloss": "pengumpulan"
+    },
+    {
+      "surface": "בְּלִ֥י",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יָבֽוֹא",
+      "gloss": "akan datang"
+    }
+  ],
+  "timestamp": "2026-08-08T11:11:35.140517646Z",
+  "model": "glm-5.2"
+}

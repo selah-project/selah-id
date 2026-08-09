@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Dengan pendengaran telinga aku mendengar tentang-Mu, tetapi sekarang mataku melihat Engkau.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "dengan pendengaran"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "aku mendengar tentang-Mu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tetapi sekarang"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "melihat Engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:23.810935085Z",
+  "model": "glm-5.2"
+}

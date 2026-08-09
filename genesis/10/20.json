@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Inilah bani Kham menurut marga-marga mereka, menurut bahasa mereka, di negeri-negeri mereka, di bangsa-bangsa mereka.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut marga-marga mereka"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "menurut bahasa mereka"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di negeri-negeri mereka"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "di bangsa-bangsa mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:25.833154539Z",
+  "model": "glm-5.2"
+}

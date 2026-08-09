@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Patung-patung berhala bangsa-bangsa ⟨adalah⟩ perak dan emas, buatan tangan manusia.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "patung-patung berhala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:55.176791441Z",
+  "model": "glm-5.2"
+}

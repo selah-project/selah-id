@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 129,
+  "translation": "Yahweh ⟨yang⟩ adil, ⟨dia⟩ memotong tali-tali orang-orang fasik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "memotong"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:51.841875714Z",
+  "model": "glm-5.2"
+}

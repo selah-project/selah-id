@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "supaya jangan engkau makan dan kenyang, dan rumah-rumah yang baik engkau bangun, dan engkau diam ⟨di dalamnya⟩ —",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "engkau makan"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "dan kenyang"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "dan rumah-rumah"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "engkau bangun"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "dan engkau diam"
+    }
+  ],
+  "timestamp": "2026-08-08T10:45:28.097769203Z",
+  "model": "glm-5.2"
+}

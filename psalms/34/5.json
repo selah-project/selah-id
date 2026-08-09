@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Aku mencari ⟨את⟩ Yahweh dan ⟨ia⟩ menjawab aku, dan dari segala keterbelalanganku ⟨ia⟩ menyelamatkan aku.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Aku mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "dan menjawab aku"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "dan dari segala"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "keterbelalanganku"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "⟨ia⟩ menyelamatkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:50.220414472Z",
+  "model": "glm-5.2"
+}

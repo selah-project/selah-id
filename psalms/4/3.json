@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Anak-anak ⟨dari⟩ manusia, sampai kapan kemuliaanku ⟨diubah⟩ menjadi celaan? Kalian mencintai kesia-siaan, kalian mencari kebohongan. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak-anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨dari⟩ manusia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kemuliaanku"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "⟨diubah⟩ menjadi celaan"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Kalian mencintai"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "kalian mencari"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:25.062840460Z",
+  "model": "glm-5.2"
+}

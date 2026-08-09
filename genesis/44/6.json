@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Maka ia mengejar mereka dan berbicara kepada mereka ⟨את⟩ perkataan-perkataan ini.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "maka ia mengejar mereka"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dan berbicara"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan-perkataan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:31.650375325Z",
+  "model": "glm-5.2"
+}

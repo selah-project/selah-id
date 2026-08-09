@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Betul-betullah kamu menjaga ⟨את⟩ perintah-perintah Yahweh Elohim kamu, dan ⟨את⟩ kesaksiannya, dan ⟨את⟩ ketetapan-ketetapannya, yang Ia perintahkan kepadamu.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "menjagalah"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "kamu menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintah Yahweh Elohim kamu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah-perintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "dan kesaksiannya"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "dan ketetapan-ketetapannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "Ia perintahkan kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:25:10.027270002Z",
+  "model": "glm-5.2"
+}

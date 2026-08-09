@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Engkau mencintai segala perkataan menelan, ⟨hai⟩ lidah penipu!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Engkau mencintai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "menelan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penipu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:56.905477492Z",
+  "model": "glm-5.2"
+}

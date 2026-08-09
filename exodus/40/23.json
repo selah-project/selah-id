@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ia menyusun di atasnya susunan roti di hadapan Yahweh, seperti yang diperintahkan Yahweh ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "Dan ia menyusun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "susunan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:20.544633293Z",
+  "model": "glm-5.2"
+}

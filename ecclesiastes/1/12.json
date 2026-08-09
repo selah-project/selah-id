@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Aku, Qohelet, telah menjadi raja atas Yisrael di Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:48:56.275609223Z",
+  "model": "glm-5.2"
+}

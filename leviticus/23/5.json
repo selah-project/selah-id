@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Pada bulan yang pertama, pada hari keempat-belas ⟨⟩ bagi bulan, di antara senja-senja, ⟨itu⟩ Paskah bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Pada bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pada keempat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bagi bulan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "senja-senja"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:48.157768820Z",
+  "model": "glm-5.2"
+}

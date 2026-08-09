@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 36:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Lalu Esav mengambil ⟨את⟩ istri-istrinya dan ⟨את⟩ anak-anaknya dan ⟨את⟩ anak-anak perempuannya dan ⟨את⟩ semua orang rumahnya dan ⟨את⟩ ternaknya dan ⟨את⟩ semua binatangnya dan ⟨את⟩ semua miliknya yang telah diperolehnya di tanah Kenaan, dan ia pergi ke ⟨sebuah⟩ tanah, dari hadapan Ya'akob saudaranya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu ... mengambil"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istri-istrinya"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "istri-istrinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak perempuannya"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "anak-anak perempuannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua orang rumahnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ternaknya"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ternaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua binatangnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "binatangnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua miliknya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "miliknya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "diperolehnya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ia pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akob"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:50.783671802Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Orang yang takut ⟨את⟩ firman Yahweh di antara hamba-hamba Firaun — ⟨ia⟩ melarikan ⟨את⟩ hamba-hambanya dan ⟨את⟩ ternaknya ke dalam rumah-rumah.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "orang yang takut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "di antara hamba-hamba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "melarikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ternaknya"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ternaknya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "dalam rumah-rumah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:05.957316926Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨ia⟩ berkata, “Panggilah dia.” Maka ⟨ia⟩ memanggilnya, dan ⟨dia⟩ berdiri di ambang pintu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Panggilah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Maka ⟨ia⟩ memanggil"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dan ⟨dia⟩ berdiri"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "di ambang pintu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:05:26.088024047Z",
+  "model": "glm-5.2"
+}

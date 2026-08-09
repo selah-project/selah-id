@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 63,
+  "translation": "Sungguh, apabila aku mengingat engkau di atas ranjangku, pada waktu-waktu jaga malam aku merenungkan engkau.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "זְכַרְתִּיךָ",
+      "gloss": "apabila aku mengingat engkau"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "יְצוּעָי",
+      "gloss": "ranjangku"
+    },
+    {
+      "surface": "בְּאַשְׁמֻרוֹת",
+      "gloss": "pada waktu-waktu jaga malam"
+    },
+    {
+      "surface": "אֶהְגֶּה",
+      "gloss": "aku merenungkan"
+    },
+    {
+      "surface": "בָּךְ",
+      "gloss": "engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.504334913Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan kamu akan membawa ke sana korban bakaran kamu dan korban sembelihan kamu, dan ⟨את⟩ persembahan persepuluhan kamu, dan ⟨את⟩ persembahan tangan kamu, dan nazar kamu dan persembahan sukarela kamu, dan anak sulung lembu kamu dan kambing domba kamu.",
+  "tokens": [
+    {
+      "surface": "וַהֲבֵאתֶ֣ם",
+      "gloss": "Dan kamu akan membawa"
+    },
+    {
+      "surface": "שָׁ֗מָּה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "עֹלֹֽתֵיכֶם֙",
+      "gloss": "korban bakaran kamu"
+    },
+    {
+      "surface": "וְזִבְחֵיכֶ֔ם",
+      "gloss": "dan korban sembelihan kamu"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan persepuluhan kamu"
+    },
+    {
+      "surface": "מַעְשְׂרֹ֣תֵיכֶ֔ם",
+      "gloss": "persembahan persepuluhan kamu"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan tangan kamu"
+    },
+    {
+      "surface": "תְּרוּמַ֣ת",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "יֶדְכֶ֑ם",
+      "gloss": "tangan kamu"
+    },
+    {
+      "surface": "וְנִדְרֵיכֶ֝ם֙",
+      "gloss": "dan nazar kamu"
+    },
+    {
+      "surface": "וְנִדְבֹ֣תֵיכֶ֔ם",
+      "gloss": "dan persembahan sukarela kamu"
+    },
+    {
+      "surface": "וּבְכֹרֹ֥ת",
+      "gloss": "dan anak sulong"
+    },
+    {
+      "surface": "בְּקַרְכֶ֖ם",
+      "gloss": "lembu kamu"
+    },
+    {
+      "surface": "וְצֹאנְכֶֽם",
+      "gloss": "dan kambing domba kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:31.924160687Z",
+  "model": "glm-5.2"
+}

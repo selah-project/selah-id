@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan mereka berperang melawan ⟨הגריאים⟩, ⟨yaitu⟩ Yetur dan Nafish dan Nodav,",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Dan mereka berperang"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "⟨הגריאים⟩",
+      "marks": "orang-orang Hagar"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "Yetur"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "Nafish"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "Nodav"
+    }
+  ],
+  "timestamp": "2026-08-09T01:43:24.435390752Z",
+  "model": "glm-5.2"
+}

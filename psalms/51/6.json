@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Terhadap-Mu, hanya-Mu, aku berbuat dosa, dan yang jahat di mata-Mu kulakukan, supaya Engkau dibenarkan dalam firman-Mu, Engkau murni dalam penghukuman-Mu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "terhadap-Mu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "hanya-Mu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku berbuat dosa"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "dan yang jahat"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mata-Mu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kulakukan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "Engkau dibenarkan"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "dalam firman-Mu"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "Engkau murni"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "dalam penghukuman-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:57.910484965Z",
+  "model": "glm-5.2"
+}

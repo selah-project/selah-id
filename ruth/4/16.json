@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu Na'omi mengambil ⟨את⟩ anak itu dan meletakkannya di pangkuannya, dan ⟨dia⟩ menjadi baginya perawat.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Na'omi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak itu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "dan meletakkannya"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "di pangkuannya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "perawat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:56:16.252812757Z",
+  "model": "glm-5.2"
+}

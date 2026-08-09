@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Tidak ia akan berteriak dan tidak ia akan meninggikan, dan tidak ia akan memperdengarkan di luar suaranya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ia akan berteriak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ia akan meninggikan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ia akan memperdengarkan"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "suaranya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:24:59.129762908Z",
+  "model": "glm-5.2"
+}

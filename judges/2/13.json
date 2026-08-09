@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan mereka meninggalkan ⟨את⟩ Yahweh, dan mereka beribadah kepada Baal dan kepada Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Dan mereka meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan mereka beribadah"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kepada Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "dan kepada Ashtarot"
+    }
+  ],
+  "timestamp": "2026-08-08T10:51:37.500949119Z",
+  "model": "glm-5.2"
+}

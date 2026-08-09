@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Dan ⟨את⟩ saudaramu ambillah, dan bersiaplah, kembalilah kepada laki-laki itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saudaramu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "dan bersiaplah"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "laki-laki itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:20.861488889Z",
+  "model": "glm-5.2"
+}

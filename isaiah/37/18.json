@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Sungguh, Yahweh, raja-raja Ashur telah memusnahkan ⟨את⟩ segala negeri, dan ⟨את⟩ negeri mereka.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "telah memusnahkan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala negeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "negeri mereka"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "negeri mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:23:54.380915814Z",
+  "model": "glm-5.2"
+}

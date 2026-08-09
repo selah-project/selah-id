@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Lalu Shemuël berkata, “Berkumpullah ⟨את⟩ seluruh Yisra'el di ha-Mitspah, dan aku akan berdoa untuk kamu kepada Yahweh.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Berkumpullah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "di ha-Mitspah"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "dan aku akan berdoa"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "untuk kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:46:17.411981963Z",
+  "model": "glm-5.2"
+}

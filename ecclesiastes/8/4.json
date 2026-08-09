@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Karena di mana firman raja ⟨berkuasa⟩, di situ ⟨ada⟩ kekuasaan; dan siapa akan berkata kepadanya, “Apa yang kau lakukan?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "kekuasaan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akan berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau lakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:06.396162983Z",
+  "model": "glm-5.2"
+}

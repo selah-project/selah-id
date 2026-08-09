@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Semua ini telah menimpa kami, tetapi kami tidak melupakan ⟨Engkau⟩, dan kami tidak berkhianat terhadap berkat-⟨Engkau⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "telah menimpa kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "kami melupakan ⟨Engkau⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "kami berkhianat"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "terhadap berkat-⟨Engkau⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:42.346865649Z",
+  "model": "glm-5.2"
+}

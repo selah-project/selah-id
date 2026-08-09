@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Akulah Yahweh, Elohim-mu, yang menaikkan engkau dari erets Mitsrayim; bukalah mulutmu lebar-lebar dan aku akan memenuhinya.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "yang menaikkan engkau"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "erets Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "bukalah lebar-lebar"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "dan aku akan memenuhinya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:52.740307774Z",
+  "model": "glm-5.2"
+}

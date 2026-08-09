@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "atas aku bersandar amarah-Mu, dan segala ombak-Mu Engkau telah menindih ⟨aku⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "atas aku"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "bersandar"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "amarah-Mu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ombak-Mu"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "Engkau telah menindih"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:32.967407797Z",
+  "model": "glm-5.2"
+}

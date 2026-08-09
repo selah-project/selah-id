@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Dan Elohim berkata kepadanya, “Namamu ⟨adalah⟩ Ya'akov; namamu tidak akan disebut lagi Ya'akov, melainkan Yisra'el yang akan menjadi namamu.” Dan ⟨dia⟩ memanggil ⟨את⟩ namanya Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akan disebut"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yang akan menjadi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Dan memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:32.134742113Z",
+  "model": "glm-5.2"
+}

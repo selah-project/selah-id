@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan terjadilah pada hari kedelapan, Musa memanggil Aharon dan anak-anaknya, dan tua-tua Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kedelapan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "dan anak-anaknya"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "dan tua-tua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:13.231538143Z",
+  "model": "glm-5.2"
+}

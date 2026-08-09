@@ -1,0 +1,71 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "leviticus 26:22",
+ "book": "leviticus",
+ "lang": "id",
+ "chapter": 26,
+ "translation": "Dan Aku akan melepaskan ke tengah kalian ⟨את⟩ binatang lapangan, dan ia akan merampas dari kalian, dan ia akan memunahkan ⟨את⟩ ternak kalian, dan ia akan mengurangi kalian, dan jalan-jalan kalian akan menjadi sunyi.",
+ "tokens": [
+  {
+   "surface": "והשלחתי",
+   "gloss": "Dan Aku akan melepaskan"
+  },
+  {
+   "surface": "בכם",
+   "gloss": "ke tengah kalian"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "binatang lapangan"
+  },
+  {
+   "surface": "חית",
+   "gloss": "binatang"
+  },
+  {
+   "surface": "השדה",
+   "gloss": "lapangan"
+  },
+  {
+   "surface": "ושכלה",
+   "gloss": "dan ia akan merampas"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ kalian"
+  },
+  {
+   "surface": "והכריתה",
+   "gloss": "dan ia akan memunahkan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ternak kalian"
+  },
+  {
+   "surface": "בהמתכם",
+   "gloss": "ternak kalian"
+  },
+  {
+   "surface": "והמעיטה",
+   "gloss": "dan ia akan mengurangi"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ kalian"
+  },
+  {
+   "surface": "ונשמו",
+   "gloss": "dan akan menjadi sunyi"
+  },
+  {
+   "surface": "דרכיכם",
+   "gloss": "jalan-jalan kalian"
+  }
+ ],
+ "timestamp": "2026-08-09T01:39:17.684093141Z",
+ "model": "glm-5.2"
+}

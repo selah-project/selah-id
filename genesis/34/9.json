@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Dan berlakulah perkawinan dengan kami: ⟨את⟩ kami — putri-putrimu berikanlah kepada kami, dan ⟨את⟩ putri-putri kami ambillah untukmu.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "Dan kawin-mengawinkanlah"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kami"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "putri-putrimu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "putri-putri kami"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "putri-putri kami"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untukmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:23:52.030144755Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Telinga mendengar dan mata melihat, Yahweh membuat juga keduanya.",
+  "tokens": [
+    {
+      "surface": "אֹ֣זֶן",
+      "gloss": "Telinga"
+    },
+    {
+      "surface": "שֹׁ֭מַעַת",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "וְעַ֣יִן",
+      "gloss": "dan mata"
+    },
+    {
+      "surface": "רֹאָ֑ה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עָשָׂ֥ה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "גַם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "שְׁנֵיהֶֽם",
+      "gloss": "keduanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:01.835462911Z",
+  "model": "glm-5.2"
+}

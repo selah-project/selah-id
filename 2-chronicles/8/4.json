@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ia membangun ⟨את⟩ Tadmor di padang gurun, dan ⟨את⟩ segala kota-kota persediaan yang ia bangun di Khamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Dan ia membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala kota-kota persediaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "persediaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ia bangun"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "di Khamat"
+    }
+  ],
+  "timestamp": "2026-08-08T12:04:43.529106881Z",
+  "model": "glm-5.2"
+}

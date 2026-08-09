@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Dan biarlah orang-orang benar bersukacita, bersorak-sorailah di hadapan Elohim, dan bersukarialah dengan kegirangan.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Dan orang-orang benar"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "bersukarialah"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "dengan kegirangan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.419041855Z",
+  "model": "glm-5.2"
+}

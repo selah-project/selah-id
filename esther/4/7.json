@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Mordekhai menceritakan kepadanya ⟨את⟩ segala yang telah menimpa dia, dan ⟨את⟩ jumlah perak yang dikatakan Haman untuk ditimbangkan atas perbendaharaan sang raja mengenai orang Yahudi, untuk membinasakan mereka.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dan menceritakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "telah menimpa dia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jumlah perak"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "jumlah"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dikatakan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "untuk ditimbangkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "perbendaharaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "mengenai orang Yahudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "untuk membinasakan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:09.657826885Z",
+  "model": "glm-5.2"
+}

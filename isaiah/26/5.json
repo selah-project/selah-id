@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Sebab ⟨Dia⟩ merendahkan ⟨yang⟩ diam di ketinggian, kota ⟨yang⟩ terbentengi; Dia merendahkannya, Dia merendahkannya sampai ke bumi, Dia menembuskannya sampai ke debu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "השח",
+      "gloss": "merendahkan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨yang⟩ diam"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di ketinggian"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "⟨yang⟩ terbentengi"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "Dia merendahkannya"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "Dia merendahkannya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "Dia menembuskannya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:11:02.975433030Z",
+  "model": "glm-5.2"
+}

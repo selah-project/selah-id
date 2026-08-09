@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ditaruh-Nya atas-nya ⟨את⟩ hosen, dan diletakkan-Nya ke dalam hosen ⟨את⟩ Urim dan ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Dan ditaruh-Nya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atas-nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hosen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan diletakkan-Nya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:19.294771265Z",
+  "model": "glm-5.2"
+}

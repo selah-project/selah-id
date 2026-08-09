@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 76,
+  "translation": "Engkau, ⟨Engkau⟩ menakutkan, Engkau! Dan siapa dapat berdiri di hadapan-Mu dari sejak murka-Mu?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "menakutkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dapat berdiri"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapan-Mu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "dari sejak"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murka-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:10.791864075Z",
+  "model": "glm-5.2"
+}

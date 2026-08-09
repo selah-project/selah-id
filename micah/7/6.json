@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Karena anak laki-laki mempermalukan ⟨seorang⟩ bapa, anak perempuan berdiri menentang ibunya, menantu perempuan menentang ibu mertuanya; musuh-musuh ⟨seorang⟩ laki-laki ⟨adalah⟩ laki-laki rumahnya sendiri.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "בֵן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "מְנַבֵּ֣ל",
+      "gloss": "mempermalukan"
+    },
+    {
+      "surface": "אָב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "קָמָ֣ה",
+      "gloss": "berdiri menentang"
+    },
+    {
+      "surface": "בְאִמָּ֔הּ",
+      "gloss": "terhadap ibunya"
+    },
+    {
+      "surface": "כַּלָּ֖ה",
+      "gloss": "menantu perempuan"
+    },
+    {
+      "surface": "בַּחֲמֹתָ֑הּ",
+      "gloss": "terhadap ibu mertuanya"
+    },
+    {
+      "surface": "אֹיְבֵ֥י",
+      "gloss": "musuh-musuh"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "בֵיתֽוֹ",
+      "gloss": "rumahnya sendiri"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:55.179871405Z",
+  "model": "glm-5.2"
+}

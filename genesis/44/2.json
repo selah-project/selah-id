@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Dan ⟨את⟩ pialaku — piala perak itu — taruhlah di mulut karung yang termuda, beserta ⟨את⟩ perak beliannya. Dan ia melakukan sesuai ⟨את⟩ perkataan Yosef yang telah ia katakan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pialaku"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "pialaku"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "piala"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "taruhlah"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di mulut"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "karung"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yang termuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "beserta ⟨את⟩",
+      "marks": "perak beliannya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "beliannya"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia melakukan"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sesuai perkataan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah ia katakan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:45.522189068Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "dan diketahuilah dosa yang mereka perbuat ⟨⟩terhadapnya, maka jemaah membawa dekat seekor lembu jantan, anak lembu, ⟨⟩untuk dosa, dan mereka membawanya ke hadapan kemah pertemuan.",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "dan diketahuilah"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mereka perbuat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "dan membawa dekat"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu jantan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "untuk dosa",
+      "marks": "korban dosa"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "dan mereka membawanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:09.882119901Z",
+  "model": "glm-5.2"
+}

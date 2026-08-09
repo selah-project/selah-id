@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Lalu orang Pelishti itu memandang dan melihat ⟨את⟩ Dawid, dan ia menghina dia, sebab ia ⟨adalah⟩ seorang muda, dan kemerah-merahan, disertai elok rupa.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "dan memandang"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Pelishti itu"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "dan menghina dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ia"
+    },
+    {
+      "surface": "נער",
+      "gloss": "seorang muda"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "dan kemerah-merahan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "disertai"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "elok"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rupa"
+    }
+  ],
+  "timestamp": "2026-08-08T10:56:02.254039830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan Yehoahaz memohon ⟨את⟩ hadirat Yahweh, dan Yahweh mendengarkan dia, sebab ⟨Dia⟩ melihat ⟨את⟩ kesusahan Yisrael, sebab melek Aram menindas ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Dan memohon"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadirat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadirat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengarkan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesusahan"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "menindas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-08T08:11:37.602011096Z",
+  "model": "glm-5.2"
+}

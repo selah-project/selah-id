@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Orang kaya itu memiliki kambing-domba dan lembu-sapi sangat banyak sekali.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "Orang kaya itu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "memiliki"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing-domba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "dan lembu-sapi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat sekali"
+    }
+  ],
+  "timestamp": "2026-08-08T07:56:16.507270249Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Yahweh menopang semua yang jatuh, dan menegakkan semua yang tertunduk.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "menopang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "yang jatuh"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "dan menegakkan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "yang tertunduk"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:22.258320938Z",
+  "model": "glm-5.2"
+}

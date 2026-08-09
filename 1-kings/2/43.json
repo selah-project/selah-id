@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan mengapa engkau tidak memelihara ⟨את⟩ sumpah Yahweh dan ⟨את⟩ perintah yang kuperintahkan atasmu?”",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "dan mengapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "engkau memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumpah Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "perintah"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kuperintahkan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:00:54.279097833Z",
+  "model": "glm-5.2"
+}

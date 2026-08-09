@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Karena membunuh engkau harus membunuh dia; tanganmulah yang akan pertama padanya untuk membunuhnya, dan tangan seluruh bangsa itu di kemudian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "engkau harus membunuh dia"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "untuk membunuhnya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "dan tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "di kemudian"
+    }
+  ],
+  "timestamp": "2026-08-08T10:45:39.392301499Z",
+  "model": "glm-5.2"
+}

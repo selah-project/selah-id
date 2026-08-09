@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 131,
+  "translation": "Jika tidak — aku telah menyamakan, dan aku mendiamkan nafsyiku seperti anak yang disapih terhadap ibunya; seperti anak yang disapih, demikian nafsyiku terhadapku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "aku telah menyamakan"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "dan aku mendiamkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsyiku"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "seperti anak yang disapih"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "seperti anak yang disapih"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsyiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:56.731222790Z",
+  "model": "glm-5.2"
+}

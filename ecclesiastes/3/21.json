@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Siapa yang tahu: ruah anak-anak manusia, ⟨apakah⟩ yang naik itu ⟨ia⟩ ke atas, dan ruah binatang, ⟨apakah⟩ yang turun itu ⟨ia⟩ ke bawah ke tanah?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yang naik"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan ruah"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "yang turun"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ke bawah"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:48:51.194954158Z",
+  "model": "glm-5.2"
+}

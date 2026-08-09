@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan berkatalah orang Peleshet itu, “Aku telah menista ⟨את⟩ barisan Yisra'el hari ini; berikanlah kepadaku seorang ⟨אישׁ⟩ dan biarlah kita berperang bersama-sama.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Peleshet itu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "telah menista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barisan"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "barisan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang ⟨אישׁ⟩"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "dan biarlah kita berperang"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:23.573894993Z",
+  "model": "glm-5.2"
+}

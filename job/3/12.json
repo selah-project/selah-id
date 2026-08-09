@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Mengapa lutut mendahului aku, dan apa ⟨adalah⟩ payudara, bahwa aku menyusu?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "mendahului aku"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "lutut"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apa"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "payudara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "aku menyusu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:16.668536940Z",
+  "model": "glm-5.2"
+}

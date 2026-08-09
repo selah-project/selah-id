@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 61,
+  "translation": "Dari ujung bumi kepada-Mu aku berseru, ketika hatiku terbeban; ke gunung batu yang tinggi dari padaku, tuntunlah aku.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "dari ujung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "ketika terbeban"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ke gunung batu"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "yang tinggi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari padaku"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tuntunlah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:32.543518232Z",
+  "model": "glm-5.2"
+}

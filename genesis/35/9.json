@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Lalu Elohim menampakkan diri kepada Yaakov lagi pada waktu datangnya dari Padan-Aram, dan Ia memberkati dia.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lalu menampakkan diri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "pada waktu datangnya"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "dari Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan Ia memberkati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:51.388133299Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Untuk memberitahukan kepada anak-anak manusia ⟨את⟩ keperkasaan-Nya, dan kemuliaan ⟨dari⟩ keindahan kerajaan-Nu.",
+  "tokens": [
+    {
+      "surface": "לְהוֹדִ֤יעַ",
+      "gloss": "untuk memberitahukan"
+    },
+    {
+      "surface": "לִבְנֵ֣י",
+      "gloss": "kepada anak-anak"
+    },
+    {
+      "surface": "הָ֭אָדָם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "גְּבוּרֹתָ֑יו",
+      "gloss": "⟨את⟩ keperkasaan-Nya",
+      "marks": "keperkasaan-Nu"
+    },
+    {
+      "surface": "וּ֝כְב֗וֹד",
+      "gloss": "dan kemuliaan"
+    },
+    {
+      "surface": "הֲדַ֣ר",
+      "gloss": "keindahan"
+    },
+    {
+      "surface": "מַלְכוּתֽוֹ",
+      "gloss": "kerajaan-Nu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:48.651054414Z",
+  "model": "glm-5.2"
+}

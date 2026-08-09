@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan El'asa memperanakkan ⟨את⟩ Sismay, dan Sismay memperanakkan ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Dan El'asa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismay"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "dan Sismay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:51.158071320Z",
+  "model": "glm-5.2"
+}

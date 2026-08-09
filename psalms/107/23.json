@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Mereka yang turun ke laut dengan kapal-kapal, yang melakukan pekerjaan di air yang banyak.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "mereka yang turun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ke laut"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "dengan kapal-kapal"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di air"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:10.473470406Z",
+  "model": "glm-5.2"
+}

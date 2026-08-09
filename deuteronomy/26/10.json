@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan sekarang, lihat, aku telah membawa ⟨את⟩ buah sulung dari hasil tanah yang telah Kauberikan kepadaku, Yahweh; dan engkau akan meletakkannya di hadapan Yahweh, Elohim-mu, dan engkau akan sujud di hadapan Yahweh, Elohim-mu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "aku telah membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buah sulung"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "buah sulung"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Kauberikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "dan engkau akan meletakkannya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "dan engkau akan sujud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:21.033195262Z",
+  "model": "glm-5.2"
+}

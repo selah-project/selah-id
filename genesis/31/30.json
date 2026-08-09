@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan sekarang, pergi engkau telah pergi, sungguh mendambakan engkau telah mendambakan rumah ayahmu — tetapi mengapakah engkau mencuri ⟨את⟩ elohai?",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה֙",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "הָלֹ֣ךְ",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "הָלַ֔כְתָּ",
+      "gloss": "engkau telah pergi"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "נִכְסֹ֥ף",
+      "gloss": "mendambakan"
+    },
+    {
+      "surface": "נִכְסַ֖פְתָּה",
+      "gloss": "engkau telah mendambakan"
+    },
+    {
+      "surface": "לְבֵ֣ית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אָבִ֑יךָ",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "לָ֥מָּה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "גָנַ֖בְתָּ",
+      "gloss": "engkau mencuri"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "elohai"
+    },
+    {
+      "surface": "אֱלֹהָֽי",
+      "gloss": "elohai"
+    }
+  ],
+  "timestamp": "2026-08-08T10:23:57.621230475Z",
+  "model": "glm-5.2"
+}

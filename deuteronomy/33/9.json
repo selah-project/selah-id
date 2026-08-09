@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Yang berkata kepada ayahnya dan kepada ibunya, 'Tidak aku melihat dia'; dan ⟨את⟩ saudara-saudaranya tidak ia kenal; dan ⟨את⟩ anak-anaknya tidak ia ketahui — sebab mereka menjaga firman-Mu dan perjanjian-Mu mereka pelihara.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kepada ayahnya"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "dan kepada ibunya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "aku melihat dia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ia kenal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ia ketahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mereka menjaga"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "dan perjanjian-Mu"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "mereka pelihara"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:45.861567270Z",
+  "model": "glm-5.2"
+}

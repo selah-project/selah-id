@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lalu Mushey mengulurkan ⟨את⟩ tongkatnya ke arah langit, dan Yahweh memberikan suara gemuruh dan hujan batu, dan api berjalan menuju bumi, dan Yahweh menurunkan hujan batu ke atas bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Lalu mengulurkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatnya"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tongkatnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "suara gemuruh"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "dan hujan batu"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "dan berjalan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "menuju bumi"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "dan menurunkan hujan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hujan batu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:52.874935614Z",
+  "model": "glm-5.2"
+}

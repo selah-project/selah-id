@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "dan ⟨את⟩ mezbah korban bakaran dan ⟨את⟩ segala perkakasnya, dan ⟨את⟩ bejana dan ⟨את⟩ tapaknya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah korban bakaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bejana"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bejana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tapaknya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tapaknya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:30.313560792Z",
+  "model": "glm-5.2"
+}

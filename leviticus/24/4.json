@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Di atas menora yang murni, ia harus mengatur ⟨את⟩ pelita-pelita itu, di hadapan Yahweh selalu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Di atas"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "yang murni"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ia harus mengatur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelita-pelita itu"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "pelita-pelita itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "selalu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:38.934795241Z",
+  "model": "glm-5.2"
+}

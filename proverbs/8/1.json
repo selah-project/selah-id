@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Tidakkah hokmah berseru, dan tevunah memperdengarkan suaranya?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "tidakkah"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hokmah"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "berseru"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "dan tevunah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "memperdengarkan"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "suaranya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:05.908114073Z",
+  "model": "glm-5.2"
+}

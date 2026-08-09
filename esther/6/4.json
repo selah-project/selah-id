@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan berkatalah sang raja, “Siapa di pelataran?” Dan Haman telah datang ke pelataran rumah sang raja, ⟨yaitu⟩ pelataran luar, untuk mengatakan kepada sang raja untuk menggantung ⟨את⟩ Mordecai pada tiang yang telah disediakannya baginya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di pelataran"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Dan Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ke pelataran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "⟨yaitu⟩ pelataran luar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "untuk mengatakan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada sang raja"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "untuk menggantung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordecai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "telah disediakannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:37.625824309Z",
+  "model": "glm-5.2"
+}

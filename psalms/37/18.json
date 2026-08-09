@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Yahweh mengenal hari-hari orang-orang yang sempurna, dan warisan mereka ⟨akan⟩ untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "orang-orang yang sempurna"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "dan warisan mereka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨akan⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:05.914732916Z",
+  "model": "glm-5.2"
+}

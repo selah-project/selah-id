@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan Yahweh berbicara kepada Mosheh, demikian:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berbicara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "demikian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:18.030976386Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Tetapi orang-orang belia ⟨seperti⟩ duri yang terlempar, segalanya, sebab tidak dengan tangan mereka diambil.",
+  "tokens": [
+    {
+      "surface": "וּבְלִיַּ֕עַל",
+      "gloss": "orang-orang belia"
+    },
+    {
+      "surface": "כְּק֥וֹץ",
+      "gloss": "⟨seperti⟩ duri"
+    },
+    {
+      "surface": "מֻנָ֖ד",
+      "gloss": "yang terlempar"
+    },
+    {
+      "surface": "כֻּלָּ֑הַם",
+      "gloss": "segalanya"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בְיָ֖ד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "יִקָּֽחוּ",
+      "gloss": "mereka diambil"
+    }
+  ],
+  "timestamp": "2026-08-08T07:59:33.064670632Z",
+  "model": "glm-5.2"
+}

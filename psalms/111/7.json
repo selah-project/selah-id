@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 111,
+  "translation": "Perbuatan tangan-⟨dia⟩ ⟨adalah⟩ kebenaran dan hukum, tepercaya semua ketetapan-⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Perbuatan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan-dia"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan hukum"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "tepercaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "ketetapan-dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:05.687213970Z",
+  "model": "glm-5.2"
+}

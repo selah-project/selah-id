@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan Ia merendahkanmu dan membuatmu lapar dan memberi engkau makan ⟨את⟩ man yang tidak kaukenal dan yang tidak dikenal oleh bapak-bapakmu, supaya membuatmu tahu bahwa bukan dengan roti saja orang hidup, melainkan dengan setiap yang keluar dari mulut Yahweh orang hidup.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "dan Ia merendahkanmu"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "dan membuatmu lapar"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "dan memberi engkau makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kaukenal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan yang tidak"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "dikenal"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "oleh bapak-bapakmu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "membuatmu tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "saja"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "orang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "yang keluar"
+    },
+    {
+      "surface": "פי",
+      "gloss": "dari mulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "orang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:55.446171725Z",
+  "model": "glm-5.2"
+}

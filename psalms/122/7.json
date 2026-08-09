@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 122,
+  "translation": "Jadilah kesejahteraan dalam benteng-bentengmu, ketenteraman dalam istana-istanamu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Jadilah"
+    },
+    {
+      "surface": "shalom",
+      "gloss": "kesejahteraan"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "dalam benteng-bentengmu"
+    },
+    {
+      "surface": "shalvah",
+      "gloss": "ketenteraman"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "dalam istana-istanamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:25.584302559Z",
+  "model": "glm-5.2"
+}

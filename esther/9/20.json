@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Mordekhai menuliskan ⟨את⟩ hal-hal ini, dan mengirim surat-surat kepada seluruh orang Yehudi yang di seluruh provinsi raja Achashverosh, yang dekat dan yang jauh.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Dan menuliskan"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hal-hal"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hal-hal"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan mengirim"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "surat-surat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "orang Yehudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "provinsi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "yang dekat"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "dan yang jauh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:52:22.818895962Z",
+  "model": "glm-5.2"
+}

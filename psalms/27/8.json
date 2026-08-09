@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "“Tentang-Mu,” kata hatiku, “carilah wajah-Ku.” ⟨את⟩ Wajah-Mu, Yahweh, aku cari.",
+  "tokens": [
+    {
+      "surface": "לְךָ֤",
+      "gloss": "Tentang-Mu"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "לִ֭בִּי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בַּקְּשׁ֣וּ",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "פָנָ֑י",
+      "gloss": "wajah-Ku"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Wajah-Mu"
+    },
+    {
+      "surface": "פָּנֶ֖יךָ",
+      "gloss": "Wajah-Mu"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲבַקֵּֽשׁ",
+      "gloss": "aku cari"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:37.492875923Z",
+  "model": "glm-5.2"
+}

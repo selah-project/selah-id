@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Dengan nasihat-Mu ⟨Engkau⟩ menuntunku, dan sesudah itu menerima aku ⟨ke⟩ dalam kemuliaan.",
+  "tokens": [
+    {
+      "surface": "בַּעֲצָתְךָ֥",
+      "gloss": "Dengan nasihat-Mu"
+    },
+    {
+      "surface": "תַנְחֵ֑נִי",
+      "gloss": "menuntunku"
+    },
+    {
+      "surface": "וְ֝אַחַ֗ר",
+      "gloss": "dan sesudah itu"
+    },
+    {
+      "surface": "כָּב֥וֹד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "תִּקָּחֵֽנִי",
+      "gloss": "menerima aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:01.486887678Z",
+  "model": "glm-5.2"
+}

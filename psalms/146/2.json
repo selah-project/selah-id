@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 146,
+  "translation": "Aku akan memuji Yahweh sepanjang hidupku, aku akan bermazmur bagi Elohim-ku selama aku ⟨ada⟩.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Aku akan memuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "sepanjang hidupku"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku akan bermazmur"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "bagi Elohim-ku"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "selama aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:35.707508969Z",
+  "model": "glm-5.2"
+}

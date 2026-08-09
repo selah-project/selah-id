@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan terjadi, pada akhir tiga hari, bahwa para petugas berjalan melalui tengah-tengah perkemahan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pada akhir"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "bahwa mereka berjalan melalui"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "para petugas"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "perkemahan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:33:36.991454407Z",
+  "model": "glm-5.2"
+}

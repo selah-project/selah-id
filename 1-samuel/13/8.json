@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan ia menunggu tujuh hari, sesuai waktu perjumpaan yang ⟨ditetapkan⟩ Shemuel; tetapi Shemuel tidak datang ke Gilgal, dan rakyat berserak dari dia.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Dan ia menunggu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "sesuai waktu perjumpaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ke Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "dan berserak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dari dia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:25.911618792Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan ayahmu telah menipu aku dan menukar ⟨את⟩ upahku sepuluh kali, tetapi Elohim tidak membiarkan dia berbuat jahat terhadapku.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "dan ayahmu"
+    },
+    {
+      "surface": "התל",
+      "gloss": "menipu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "dan menukar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upahku"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "upahku"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "membiarkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "berbuat jahat"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "terhadapku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:10:01.486326683Z",
+  "model": "glm-5.2"
+}

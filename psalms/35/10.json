@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Segenap tulang-tulangku akan berkata, “Yahweh, siapa seperti-Mu, yang menyelamatkan ⟨את⟩ yang miskin dari yang lebih kuat daripadanya, ⟨bahkan⟩ yang miskin dan yang lumpang dari perampokannya?”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segenap"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "tulang-tulangku"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "akan berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti-Mu"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "yang menyelamatkan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨את⟩ yang miskin",
+      "marks": "yang miskin"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "dari yang lebih kuat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "dan yang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan yang lumpang"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "dari perampokannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:26.484716497Z",
+  "model": "glm-5.2"
+}

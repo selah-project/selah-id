@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 146,
+  "translation": "Keluarlah nafasnya, ia kembali kepada tanahnya; pada hari itu binasalah rancangan-rancangannya.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "Keluarlah"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "nafasnya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ia kembali"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "kepada tanahnya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "binasalah"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "rancangan-rancangannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:35.707678561Z",
+  "model": "glm-5.2"
+}

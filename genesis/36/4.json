@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan Adah melahirkan bagi Esav ⟨את⟩ Elifaz, dan Bosmath melahirkan ⟨את⟩ Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Dan melahirkan"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "bagi Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "dan Bosmath"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:10.350551264Z",
+  "model": "glm-5.2"
+}

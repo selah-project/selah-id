@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Membangun telah kubangun ⟨sebagai⟩ rumah kediaman bagimu, tempat bagi ⟨kediaman⟩mu untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "membangun"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "telah kubangun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "kediaman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "untuk kediamanmu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:50.252689665Z",
+  "model": "glm-5.2"
+}

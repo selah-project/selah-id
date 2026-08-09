@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Kami telah menjadi yatim, ⟨tidak ada⟩ ayah; ibu-ibu kami seperti janda-janda.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "Kami telah menjadi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨tidak ada⟩"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ibu-ibu kami"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "seperti janda-janda"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:06.775650188Z",
+  "model": "glm-5.2"
+}

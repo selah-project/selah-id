@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu Toi raja Hamat mendengar bahwa Daud telah memukul kalah ⟨את⟩ seluruh tentara Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lalu mendengar"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "memukul kalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh tentara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tentara"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:19.322518945Z",
+  "model": "glm-5.2"
+}

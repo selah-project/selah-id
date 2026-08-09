@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan oleh seorang nabi Yahweh menaikkan ⟨את⟩ Yisra'el dari Mitsrayim, dan oleh seorang nabi ia dijaga.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "dan oleh seorang nabi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "menaikkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "dan oleh seorang nabi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "ia dijaga"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:14.351092164Z",
+  "model": "glm-5.2"
+}

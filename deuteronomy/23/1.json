@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Tidak boleh mengambil seorang laki-laki ⟨את⟩ istri ayahnya, dan tidak boleh membuka sayap ayahnya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "boleh mengambil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istri ayahnya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "boleh membuka"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:05.566136612Z",
+  "model": "glm-5.2"
+}

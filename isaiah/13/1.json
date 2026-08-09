@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Beban Bavel yang dilihat Yeshaayahu bin Amots.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Beban"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dilihat"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:05.539485604Z",
+  "model": "glm-5.2"
+}

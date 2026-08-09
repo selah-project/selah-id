@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "yang memberitahukan ⟨את⟩ akhir dari ⟨את⟩ permulaan, dan dari masa silam hal-hal yang belum dilakukan; yang berfirma, 'Rancangan-Ku akan berdiri, dan segala kegemaran-Ku akan Kulakukan,'",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "yang memberitahukan"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "⟨את⟩",
+      "marks": "permulaan"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "⟨את⟩",
+      "marks": "akhir"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "dan dari masa silam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "belum"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yang berfirman"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "Rancangan-Ku"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "kegemaran-Ku"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan Kulakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:57.489087660Z",
+  "model": "glm-5.2"
+}

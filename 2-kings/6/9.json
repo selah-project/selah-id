@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨ioi⟩ orang Elohim itu mengirim ⟨⟨pesan⟩⟩ kepada raja Yisra'el, yang berbunyi: “Berhati-hatilah jangan lewat tempat ini, sebab di sana Aram sedang turun.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dan mengirim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang berbunyi"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "berhati-hatilah"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "jangan lewat"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "sedang turun"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:40.800369749Z",
+  "model": "glm-5.2"
+}

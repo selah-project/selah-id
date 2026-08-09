@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu disuruhnya ⟨את⟩ burung gagak, dan ia keluar pergi dan pulang sampai mengeringnya air dari atas bumi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu disuruhnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burung gagak"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "burung gagak"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan ia keluar"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "dan pulang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "mengeringnya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T18:22:04.531818685Z",
+  "model": "glm-5.2"
+}

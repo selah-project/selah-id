@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan melakukanlah Balak seperti yang dikatakan Bilam, dan dipersembahnyalah seekor lembu dan seekor domba jantan di atas ⟨setiap⟩ mezbah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan melakukanlah"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dikatakan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan dipersembahnyalah"
+    },
+    {
+      "surface": "פר",
+      "gloss": "seekor lembu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "dan seekor domba jantan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "di atas mezbah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:20:38.901505676Z",
+  "model": "glm-5.2"
+}

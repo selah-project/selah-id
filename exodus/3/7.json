@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu bersabda Yahweh, “Melihat, telah kulihat ⟨את⟩ penderitaan umat-Ku yang di Mitsrayim, dan ⟨את⟩ jeritan mereka telah kudengar dari hadapan penggerojoknya, sebab aku mengetahui ⟨את⟩ kesakitan mereka.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bersabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Melihat"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "telah kulihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penderitaan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "penderitaan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "jeritan mereka"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "jeritan mereka"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "telah kudengar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "penggerojoknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesakitan mereka"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "kesakitan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:22.801210147Z",
+  "model": "glm-5.2"
+}

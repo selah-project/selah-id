@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lalu Sha'ul datang sampai ke kota ⟨את⟩ Amalek, dan ia menghadang di wadi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu datang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "dan menghadang"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di wadi"
+    }
+  ],
+  "timestamp": "2026-08-08T13:19:54.660327804Z",
+  "model": "glm-5.2"
+}

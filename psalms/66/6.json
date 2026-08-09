@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "⟨Dia⟩ membalikkan laut menjadi ⟨tanah⟩ kering; di sungai mereka melintas dengan kaki; di sana kita bersukaria di dalam-⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "membalikkan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "menjadi ⟨tanah⟩ kering"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "mereka melintas"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "dengan kaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "kita bersukaria"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalam-⟨dia⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:17.394140487Z",
+  "model": "glm-5.2"
+}

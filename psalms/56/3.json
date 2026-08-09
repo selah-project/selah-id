@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Pengintai-pengintaiku menghimpit sepanjang hari, karena banyak yang berperang melawanku dari tempat tinggi.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "menghimpit"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "pengintai-pengintaiku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "yang berperang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "melawanku"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "dari tempat tinggi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:07.156526248Z",
+  "model": "glm-5.2"
+}

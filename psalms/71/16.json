@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Aku datang dalam keperkasaan Adonai Yahweh; aku mengingat kebenaranmu, hanya engkau sendirian.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "aku datang"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "dalam keperkasaan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "aku mengingat"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kebenaranmu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "hanya engkau sendirian"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:01.033752035Z",
+  "model": "glm-5.2"
+}

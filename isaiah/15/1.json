@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Ucapan beban atas Moab: sebab pada malam hari Ar Moab telah diruntuhkan, dibungungkan; sebab pada malam hari Kir Moab telah diruntuhkan, dibungungkan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ucapan beban"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "pada malam hari"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "telah diruntuhkan"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "dibungungkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "pada malam hari"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "telah diruntuhkan"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "dibungungkan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:19:03.702433932Z",
+  "model": "glm-5.2"
+}

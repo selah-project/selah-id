@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 114,
+  "translation": "Menghadap Adonai, bergoncanglah, hai bumi; menghadap Elohim, ⟨milik⟩ Yaakob —",
+  "tokens": [
+    {
+      "surface": "מִלִּפְנֵי",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "אָדוֹן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חוּלִי",
+      "gloss": "bergoncanglah"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מִלִּפְנֵי",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "אֱלוֹהַּ",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:47.690883919Z",
+  "model": "glm-5.2"
+}

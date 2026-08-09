@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Bukankah ⟨engkau⟩ Dialah yang mengeringkan ⟨את⟩ laut, air samudra raya; yang menjadikan kedalaman laut ⟨sebagai⟩ jalan bagi yang ditebus untuk melintasi?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "היא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "yang mengeringkan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "samudra"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "raya"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "yang menjadikan"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "kedalaman"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "untuk melintasi"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "yang ditebus"
+    }
+  ],
+  "timestamp": "2026-08-08T12:18:45.876347756Z",
+  "model": "glm-5.2"
+}

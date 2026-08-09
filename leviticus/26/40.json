@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan mereka akan mengaku ⟨את⟩ pelanggaran mereka dan ⟨את⟩ pelanggaran nenek moyang mereka, dalam pengkhianatan mereka yang dengan itu mereka berkhianat terhadap-Ku, dan juga bahwa mereka berjalan bersama-Ku dalam permusuhan.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "dan mereka akan mengaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelanggaran mereka"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "pelanggaran mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pelanggaran nenek moyang mereka"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pelanggaran"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nenek moyang mereka"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "dalam pengkhianatan mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "mereka berkhianat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "terhadap-Ku"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mereka berjalan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bersama-Ku"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "dalam permusuhan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:37.461096212Z",
+  "model": "glm-5.2"
+}

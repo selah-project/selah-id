@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Engkau melihat ⟨את⟩ kesengsaraan nenek moyang kami di Mitsrayim, dan ⟨את⟩ teriakan mereka Engkau dengar di tepi laut Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Engkau melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesengsaraan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kesengsaraan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nenek moyang kami"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "teriakan mereka"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "teriakan mereka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Engkau dengar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di tepi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-08T10:00:59.112664708Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 87,
+  "translation": "Yahweh akan mencatat, pada waktu menuliskan ⟨את⟩ bangsa-bangsa: “Ini dilahirkan di sana.” Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "akan mencatat"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "pada waktu menuliskan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:35.634458365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka Yahweh Elohim kami menyerahkan ke dalam tangan kami juga ⟨את⟩ Og raja Bashan dan ⟨את⟩ seluruh rakyatnya, dan kami memukul dia sampai tidak ditinggalkan baginya ⟨⟩ orang yang tersisa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Maka menyerahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ke dalam tangan kami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og raja Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh rakyatnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "rakyatnya"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "dan kami memukul dia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ditinggalkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "orang yang tersisa"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:53.498520356Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Nafshiku ⟨dia⟩ memulihkan; ⟨dia⟩ menuntun aku di jalan-jalan keadilan demi nama-Nya.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nafshiku"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "memulihkan"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "menuntun aku"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "di jalan-jalan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:30.358644303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan aku telah menempatkan di sana ⟨את⟩ tabut itu, di mana ⟨ada⟩ berkat Yahweh, yang Ia割製 dengan bani Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "dan aku telah menempatkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut itu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "tabut itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ada⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Ia mengikat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T10:11:36.080220434Z",
+  "model": "glm-5.2"
+}

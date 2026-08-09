@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Sebab jika engkau menolak untuk melepas ⟨את⟩ umat-Ku, sungguh, Aku mendatangkan besok belalang ke dalam wilayahmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "engkau menolak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuk melepas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "sungguh, Aku"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "mendatangkan"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "besok"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "ke dalam wilayahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:00.090569772Z",
+  "model": "glm-5.2"
+}

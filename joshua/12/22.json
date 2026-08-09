@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "raja Kedesh, satu; raja Yokneam di ⟨di⟩ Karmel, satu;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "di Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:35:20.958473366Z",
+  "model": "glm-5.2"
+}

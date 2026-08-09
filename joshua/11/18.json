@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Hari yang banyak berperang Yehoshua melawan ⟨את⟩ semua raja ini.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua raja ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:35:41.726879901Z",
+  "model": "glm-5.2"
+}

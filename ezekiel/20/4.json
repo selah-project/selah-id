@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Apakah engkau akan menghakimi ⟨את⟩ mereka? Apakah engkau akan menghakimi, anak manusia? ⟨את⟩ kekejian leluhur mereka buatlah mereka mengetahui.",
+  "tokens": [
+    {
+      "surface": "הֲתִשְׁפֹּ֣ט",
+      "gloss": "Apakah engkau akan menghakimi"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "הֲתִשְׁפ֖וֹט",
+      "gloss": "Apakah engkau akan menghakimi"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kekejian leluhur mereka"
+    },
+    {
+      "surface": "תּוֹעֲבֹ֥ת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "אֲבוֹתָ֖ם",
+      "gloss": "leluhur mereka"
+    },
+    {
+      "surface": "הוֹדִיעֵֽם",
+      "gloss": "buatlah mengetahui"
+    }
+  ],
+  "timestamp": "2026-08-08T11:24:28.544662964Z",
+  "model": "glm-5.2"
+}

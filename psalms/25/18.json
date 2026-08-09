@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Lihatlah penderitaanku dan kesusahanku, dan angkatlah segala dosaku.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "penderitaanku"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "dan kesusahanku"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "dan angkatlah"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "dosa-dosaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:58.604823885Z",
+  "model": "glm-5.2"
+}

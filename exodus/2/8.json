@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu berkatalah putri Paroh kepadanya, “Pergilah.” Maka pergilah gadis itu dan dipanggilnya ⟨את⟩ ibu anak itu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "maka pergilah"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "gadis itu"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dan dipanggilnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibu anak itu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:34.043027959Z",
+  "model": "glm-5.2"
+}

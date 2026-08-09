@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Maka ⟨ia⟩ takut, dan bangun, dan pergi demi nafshonya, dan datang ke Be'er-Syeva yang termasuk Yehuda, dan meninggalkan ⟨את⟩ na'arnya di sana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "maka takut"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dan bangun"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "demi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafshonya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "termasuk Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "dan meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "na'arnya"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "na'arnya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-08-08T11:04:05.649095665Z",
+  "model": "glm-5.2"
+}

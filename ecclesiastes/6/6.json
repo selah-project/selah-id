@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan sekalipun ⟨ia⟩ hidup seribu tahun dua kali, dan kebaikan tidak ia lihat — bukankah semua ⟨orang⟩ pergi ke satu tempat?",
+  "tokens": [
+    {
+      "surface": "וְאִלּ֣וּ",
+      "gloss": "dan sekalipun"
+    },
+    {
+      "surface": "חָיָ֗ה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "אֶ֤לֶף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "שָׁנִים֙",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "פַּעֲמַ֔יִם",
+      "gloss": "dua kali"
+    },
+    {
+      "surface": "וְטוֹבָ֖ה",
+      "gloss": "dan kebaikan"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "רָאָ֑ה",
+      "gloss": "ia lihat"
+    },
+    {
+      "surface": "הֲלֹ֛א",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מָק֥וֹם",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הוֹלֵֽךְ",
+      "gloss": "pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:19.965507850Z",
+  "model": "glm-5.2"
+}

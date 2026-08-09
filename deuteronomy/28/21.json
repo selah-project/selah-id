@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 21,
+ "ref": "deuteronomy 28:21",
+ "book": "deuteronomy",
+ "lang": "id",
+ "chapter": 28,
+ "translation": "Yahweh akan membuat menempel padamu ⟨את⟩ penyakit sampai Ia menghabiskan engkau dari atas tanah yang engkau datang ke sana untuk meresapinya.",
+ "tokens": [
+  {
+   "surface": "יַדְבֵּ֧ק",
+   "gloss": "akan membuat menempel"
+  },
+  {
+   "surface": "יְהוָ֛ה",
+   "gloss": "Yahweh"
+  },
+  {
+   "surface": "בְּךָ֖",
+   "gloss": "padamu"
+  },
+  {
+   "surface": "אֶת",
+   "gloss": "⟨את⟩",
+   "marks": "penyakit"
+  },
+  {
+   "surface": "הַדָּ֑בֶר",
+   "gloss": "penyakit"
+  },
+  {
+   "surface": "עַ֚ד",
+   "gloss": "sampai"
+  },
+  {
+   "surface": "כַּלֹּת֣וֹ",
+   "gloss": "Ia menghabiskan"
+  },
+  {
+   "surface": "אֹֽתְךָ֔",
+   "gloss": "⟨את⟩ engkau"
+  },
+  {
+   "surface": "מֵעַל֙",
+   "gloss": "dari atas"
+  },
+  {
+   "surface": "הָֽאֲדָמָ֔ה",
+   "gloss": "tanah"
+  },
+  {
+   "surface": "אֲשֶׁר",
+   "gloss": "yang"
+  },
+  {
+   "surface": "אַתָּ֥ה",
+   "gloss": "engkau"
+  },
+  {
+   "surface": "בָא",
+   "gloss": "datang"
+  },
+  {
+   "surface": "שָׁ֖מָּה",
+   "gloss": "ke sana"
+  },
+  {
+   "surface": "לְרִשְׁתָּֽהּ",
+   "gloss": "untuk meresapinya"
+  }
+ ],
+ "timestamp": "2026-08-09T01:39:27.864590755Z",
+ "model": "glm-5.2"
+}

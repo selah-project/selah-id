@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lalu Chiram mengirim ⟨di⟩ kapal ⟨את⟩ hamba-hambanya, orang-orang ahli kapal yang mengenal laut, bersama hamba-hamba Shelomoh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu mengirim"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "באני",
+      "gloss": "⟨di⟩ kapal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ahli kapal"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "yang mengenal"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:48:16.971194278Z",
+  "model": "glm-5.2"
+}

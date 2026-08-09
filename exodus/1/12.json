@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan sebagaimana mereka menyiksanya, demikian ia berbih banyak, dan demikian ia memecah diri, dan mereka merasa muak karena wajah bani Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "dan sebagaimana"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "mereka menyiksanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael (kaum)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ia berbih banyak"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "dan demikian"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ia memecah diri"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "dan mereka merasa muak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karena wajah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:13.213233317Z",
+  "model": "glm-5.2"
+}

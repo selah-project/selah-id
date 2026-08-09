@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 65,
+  "translation": "Padang-padang rumput berpakaian kawanan domba, dan lembah-lembah berselimut gandum; ⟨mereka⟩ bersorak-sorai, bahkan ⟨merega⟩ bernyanyi.",
+  "tokens": [
+    {
+      "surface": "לָבְשׁ֬וּ",
+      "gloss": "berpakaian"
+    },
+    {
+      "surface": "כָרִ֨ים",
+      "gloss": "kawanan domba"
+    },
+    {
+      "surface": "הַצֹּ֗אן",
+      "gloss": "domba-domba"
+    },
+    {
+      "surface": "וַעֲמָקִ֥ים",
+      "gloss": "dan lembah-lembah"
+    },
+    {
+      "surface": "יַֽעַטְפוּ",
+      "gloss": "berselimut"
+    },
+    {
+      "surface": "בָ֑ר",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "יִ֝תְרוֹעֲע֗וּ",
+      "gloss": "bersorak-sorai"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "יָשִֽׁירוּ",
+      "gloss": "bernyanyi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:53.714246050Z",
+  "model": "glm-5.2"
+}

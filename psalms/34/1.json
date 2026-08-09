@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Untuk Dawid, ketika ia mengubah ⟨את⟩ perilakunya di hadapan Avimelekh, dan ⟨ia⟩ mengusirnya dan ⟨ia⟩ pergi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk Dawid"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "ketika ia mengubah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perilakunya"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "perilakunya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "dan ia mengusirnya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ia pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:04.211255418Z",
+  "model": "glm-5.2"
+}

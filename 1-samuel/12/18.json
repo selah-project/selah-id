@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lalu Samuel berseru kepada Yahweh, dan Yahweh memberikan suara guruh dan hujan pada hari itu, dan seluruh bangsa itu sangat takut kepada ⟨את⟩ Yahweh dan ⟨את⟩ Samuel.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu berseru"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "suara guruh"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "dan hujan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "dan takut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:26.780790148Z",
+  "model": "glm-5.2"
+}

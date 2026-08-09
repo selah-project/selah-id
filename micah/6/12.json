@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "yang orang-orang kayanya penuh kekerasan, dan penduduknya berbicara dusta, dan lidah mereka penipuan di mulut mereka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיריה",
+      "gloss": "orang-orang kayanya"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "dan penduduknya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "dan lidah mereka"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "penipuan"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "di mulut mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:02:00.095712013Z",
+  "model": "glm-5.2"
+}

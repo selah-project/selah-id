@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "⟨את⟩ apa yang tercapai tangannya: ⟨את⟩ yang satu sebagai persembahan dosa dan ⟨את⟩ yang satu sebagai persembahan bakaran, di atas persembahan biji-bijian itu; dan ha-kohen akan mengkafarat atas orang yang harus ditahirkan itu di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang tercapai tangannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "tercapai"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang satu itu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "persembahan dosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "yang satu itu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "persembahan bakaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahan biji-bijian itu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan ia akan mengkafarat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "orang yang harus ditahirkan itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:46.222243550Z",
+  "model": "glm-5.2"
+}

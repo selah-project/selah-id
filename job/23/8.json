@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lihat, ke depan aku berjalan dan ⟨ia⟩ tidak ada, dan ke belakang, tetapi aku tidak memahami Dia.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ke depan"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan ia tidak ada"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "dan ke belakang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "aku memahami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:41:15.639127637Z",
+  "model": "glm-5.2"
+}

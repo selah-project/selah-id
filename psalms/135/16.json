@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Mulut ada pada mereka, tetapi tidak bicara; mata ada pada mereka, tetapi tidak melihat.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ada pada mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bicara"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ada pada mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "melihat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:55.176870636Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨ia⟩ menambah melahirkan ⟨את⟩ saudaranya ⟨את⟩ Hevel. Dan Hevel menjadi penggembala kambing-domba, dan Qayin menjadi pengolah tanah.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "dan menambah"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "penggembala"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing-domba"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "dan Qayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "pengolah"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:00.204010923Z",
+  "model": "glm-5.2"
+}

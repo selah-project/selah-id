@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Ketika aku membungkam, tulang-tulangku habis terkikis, oleh raunganku sepanjang hari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "aku membungkam"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "habis terkikis"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang-tulangku"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "oleh raunganku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:09.934443500Z",
+  "model": "glm-5.2"
+}

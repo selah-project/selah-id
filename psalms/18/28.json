@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Sebab Engkau menyelamatkan ⟨umat⟩ yang tertindas, dan mata-mata yang tinggi Engkau merendahkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨umat⟩"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yang tertindas"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "dan mata-mata"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "yang tinggi"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "Engkau merendahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:04.418346657Z",
+  "model": "glm-5.2"
+}

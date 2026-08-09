@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Dekat ⟨adalah⟩ Yahweh kepada yang patah hati, dan ⟨את⟩ yang hancur semangatnya ⟨Ia⟩ selamatkan.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Dekat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "kepada yang patah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yang hancur semangatnya"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "yang hancur"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "semangat"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "selamatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:31.329094953Z",
+  "model": "glm-5.2"
+}

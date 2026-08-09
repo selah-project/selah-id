@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Lalu ⟨ia⟩ melihat ⟨את⟩ Amalek, lalu mengangkat perumpamaannya, dan berkata: “Permulaan bangsa-bangsa ⟨adalah⟩ Amalek, dan akhirnya ⟨menuju⟩ kebinasaan.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lalu ⟨ia⟩ melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "lalu mengangkat"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "perumpamaannya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "permulaan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "dan akhirnya"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "⟨menuju⟩"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kebinasaan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:21:05.252424025Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan inilah para pembesar yang baginya: Azaryahu ben Tsadok, sang kohen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dan inilah"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    }
+  ],
+  "timestamp": "2026-08-08T12:15:50.112964409Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan ia membuat ⟨את⟩ minyak urapan yang kudus, dan ⟨את⟩ ukupan dari bumbu yang murni — buatan tangan pembuat campuran.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yang kudus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ukupan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ukupan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dari bumbu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yang murni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan tangan"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "pembuat campuran"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:42.779948533Z",
+  "model": "glm-5.2"
+}

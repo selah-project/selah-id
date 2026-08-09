@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "Yang memberi makanan kepada segala makhluk, sebab untuk selamanya hesed-nya.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Yang memberi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada segala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "makhluk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:05.273081358Z",
+  "model": "glm-5.2"
+}

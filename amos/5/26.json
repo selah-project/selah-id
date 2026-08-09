@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan kamu telah mengangkat ⟨את⟩ Sukut raja kamu dan ⟨את⟩ Kiyun patung-patung kamu, bintang elohim kamu, yang kamu buat untuk diri kamu.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Dan kamu telah mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "raja kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kiyun"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "patung-patung kamu"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "bintang"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "elohim kamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuk diri kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:59:16.385750923Z",
+  "model": "glm-5.2"
+}

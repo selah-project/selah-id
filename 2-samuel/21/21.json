@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan ⟨dia⟩ menista ⟨את⟩ Yisrael, dan Yehonatan bin Shim'i saudara Dawid memukulinya.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "dan menista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "dan memukulinya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'i"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T07:58:00.812285336Z",
+  "model": "glm-5.2"
+}

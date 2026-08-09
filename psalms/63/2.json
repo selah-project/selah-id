@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 63,
+  "translation": "Elohim, El-ku, ⟨engkau⟩ Engkau aku cari pagi-pagi, haus kepada-Mu nefesh-ku, rindu kepada-Mu daging-ku, di tanah gersang dan lelah tanpa air.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִ֤ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֵלִ֥י",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "אַתָּ֗ה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אֲֽשַׁחֲרֶ֥ךָּ",
+      "gloss": "aku cari pagi-pagi"
+    },
+    {
+      "surface": "צָמְאָ֬ה",
+      "gloss": "haus"
+    },
+    {
+      "surface": "לְךָ֨",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "נַפְשִׁ֗י",
+      "gloss": "nefesh-ku"
+    },
+    {
+      "surface": "כָּמַ֣הּ",
+      "gloss": "rindu"
+    },
+    {
+      "surface": "לְךָ֣",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "בְשָׂרִ֑י",
+      "gloss": "daging-ku"
+    },
+    {
+      "surface": "בְּאֶֽרֶץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "צִיָּ֖ה",
+      "gloss": "gersang"
+    },
+    {
+      "surface": "וְעָיֵ֣ף",
+      "gloss": "dan lelah"
+    },
+    {
+      "surface": "בְּלִי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:42.552498884Z",
+  "model": "glm-5.2"
+}

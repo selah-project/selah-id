@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Juga jika tidur dua, panas bagi mereka; tetapi bagi satu, bagaimana ia akan menjadi panas?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "tidur"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "panas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "tetapi bagi satu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ia akan menjadi panas"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:10.628358609Z",
+  "model": "glm-5.2"
+}

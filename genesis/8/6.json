@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan terjadilah pada akhir empat puluh hari, maka Noach membuka ⟨את⟩ jendela tevah yang telah dibuatnya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pada akhir"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "maka membuka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jendela"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "jendela"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tevah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T18:22:04.531614775Z",
+  "model": "glm-5.2"
+}

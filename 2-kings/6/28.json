@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu berkatalah raja kepadanya, “Apa ⟨yang menimpamu⟩?” Dan ia menjawab, “Perempuan ini berkata kepadaku, ‘Berikanlah ⟨את⟩ anakmu dan kita akan memakannya hari ini, dan ⟨את⟩ anakku akan kita makan besok.’”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨yang menimpamu⟩"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan ia menjawab"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Perempuan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Berikanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakmu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "dan kita akan memakannya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anakku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "akan kita makan"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "besok"
+    }
+  ],
+  "timestamp": "2026-08-08T18:31:53.098248876Z",
+  "model": "glm-5.2"
+}

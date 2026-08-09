@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu bangunlah ia di tengah malam dan mengambil ⟨את⟩ anakku dari sisiku, sementara hambamu tidur, dan membaringkannya di pangkuannya; dan ⟨את⟩ anaknya yang mati itu dibaringkannya di pangkuanku.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Lalu bangunlah ia"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "dari sisiku"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "tidur"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "dan membaringkannya"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "di pangkuannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anaknya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yang mati"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "dibaringkannya"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "di pangkuanku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:00:53.594619405Z",
+  "model": "glm-5.2"
+}

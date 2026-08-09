@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Di sisi pintu-pintu gerbang, di mulut kota, di pintu masuk ⟨dia⟩ berseru nyaring:",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "di mulut"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "pintu masuk"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "⟨dia⟩ berseru nyaring"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:05.908599237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan berkatalah Mosheh kepada ⟨האלהים⟩: “Siapakah aku, bahwa aku akan pergi kepada Paroh dan bahwa aku akan membawa keluar ⟨את⟩ beni-Yisra'el dari Mitsrayim?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨ha-Elohim⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku akan pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan bahwa"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "aku akan membawa keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beni-Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "beni-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:12.197610250Z",
+  "model": "glm-5.2"
+}

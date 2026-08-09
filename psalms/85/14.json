@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 85,
+  "translation": "Keadilan berjalan di hadapan-Nya, dan membuat ⟨את⟩ jejak langkah-Nya menjadi jalan.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "menjadi jalan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "jejak langkah-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:31.104316124Z",
+  "model": "glm-5.2"
+}

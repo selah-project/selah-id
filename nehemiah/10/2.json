@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan atas ⟨yang⟩ tertulis ⟨itu⟩: Nechemyah, sang Tirshata, ben Khakalyah, dan Tsidqiyah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "⟨yang⟩ tertulis"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "sang Tirshata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Khakalyah"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "dan Tsidqiyah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:01:23.483594524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Sebab siapakah El selain Yahweh, dan siapakah gunung batu selain Elohim kami?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "selain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "צור",
+      "gloss": "gunung batu"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "selain"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    }
+  ],
+  "timestamp": "2026-08-08T11:01:04.451091751Z",
+  "model": "glm-5.2"
+}

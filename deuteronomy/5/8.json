@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Jangan membuat bagimu patung ukir, segala rupa, yang di langit dari atas, dan yang di bumi dari bawah, dan yang di air dari bawah ke bumi.",
+  "tokens": [
+    {
+      "surface": "לֹֽ֣א",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תַעֲשֶׂ֥ה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "לְךָ֥",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "פֶ֨סֶל֙",
+      "gloss": "patung-ukir"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תְּמוּנָ֔ה",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בַּשָּׁמַ֨יִם֙",
+      "gloss": "di-langit"
+    },
+    {
+      "surface": "מִמַּ֔עַל",
+      "gloss": "dari-atas"
+    },
+    {
+      "surface": "וַאֲשֶׁ֥ר",
+      "gloss": "dan-yang"
+    },
+    {
+      "surface": "בָּאָ֖רֶץ",
+      "gloss": "di-bumi"
+    },
+    {
+      "surface": "מִתָּ֑חַת",
+      "gloss": "dari-bawah"
+    },
+    {
+      "surface": "וַאֲשֶׁ֥ר",
+      "gloss": "dan-yang"
+    },
+    {
+      "surface": "בַּמַּ֖יִם",
+      "gloss": "di-air"
+    },
+    {
+      "surface": "מִתַּ֥חַת",
+      "gloss": "dari-bawah"
+    },
+    {
+      "surface": "לָאָֽרֶץ",
+      "gloss": "ke-bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:44:53.620281124Z",
+  "model": "glm-5.2"
+}

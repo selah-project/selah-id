@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Mereka akan datang ke sana dan akan menghapus ⟨את⟩ segala memuakkan-nya dan ⟨את⟩ segala kekejian-nya daripadanya.”",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "dan mereka akan datang"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "dan akan menghapus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala memuakkan-nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "memuakkan-nya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala kekejian-nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "kekejian-nya"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:46:28.988706018Z",
+  "model": "glm-5.2"
+}

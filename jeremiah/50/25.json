@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Yahweh telah membuka ⟨את⟩ gudang-Nya dan telah mengeluarkan ⟨את⟩ senjata kegeraman-Nya, karena ⟨ini⟩ suatu pekerjaan bagi Adonai Yahweh Tsevaot di tanah Kasdim.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": " telah membuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gudang-Nya"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "gudang-Nya"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "dan telah mengeluarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senjata"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "senjata"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "kegeraman-Nya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "suatu pekerjaan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ini⟩"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "bagi Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-08T08:43:08.926403993Z",
+  "model": "glm-5.2"
+}

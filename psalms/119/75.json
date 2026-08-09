@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Aku tahu, wahai Yahweh, bahwa adil ⟨adalah⟩ keputusan-keputusan-Mu, dan dalam kesetiaan Engkau telah menghumilkan aku.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku tahu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "keputusan-keputusan-Mu"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "dan dalam kesetiaan"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Engkau telah menghumilkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:42.099771882Z",
+  "model": "glm-5.2"
+}

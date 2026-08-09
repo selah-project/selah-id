@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 72,
+  "translation": "Raja-raja Tarsish dan ⟨pulau-pulau⟩ jauh akan membawa persembahan; raja-raja Syeba dan Seba akan mempersembahkan persembahan.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Raja-raja"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "dan ⟨pulau-pulau⟩"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "akan membawa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "dan Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "akan mempersembahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:24.597105235Z",
+  "model": "glm-5.2"
+}

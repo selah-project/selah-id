@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 67,
+  "translation": "Agar dikenal di bumi jalan-Mu, di antara segala bangsa keselamatan-Mu.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Agar dikenal"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di antara segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "keselamatan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:22.102626020Z",
+  "model": "glm-5.2"
+}

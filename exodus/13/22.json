@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Tidak beranjak tiang awan itu siang hari, dan tiang api itu malam hari, ⟨dari⟩ depan umat itu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "beranjak"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang hari"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "dan tiang"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api itu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam hari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "depan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:10.354353025Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Dan Yosef mengenal ⟨את⟩ saudara-saudaranya, tetapi mereka tidak mengenal dia.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "dan mengenal"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tetapi mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "mengenal dia"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:43.746728969Z",
+  "model": "glm-5.2"
+}

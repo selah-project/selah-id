@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan terjadilah, karena para bidan takut akan ⟨את⟩ Elohim, maka ⟨Ia⟩ membuat bagi mereka keturunan-keluarga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "takut"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "para bidan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "maka membuat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "keturunan-keluarga"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:24.480908181Z",
+  "model": "glm-5.2"
+}

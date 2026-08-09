@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan datanglah Mosheh dan Aharon ke hadapan Ohel Moed.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dan datanglah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    }
+  ],
+  "timestamp": "2026-08-08T07:18:31.581301777Z",
+  "model": "glm-5.2"
+}

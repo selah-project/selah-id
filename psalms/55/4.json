@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Dari suara musuh, dari hadapan tekanan orang fasik, sebab mereka menggoyahkan atas-Ku kesia-siaan, dan dalam amarah mereka membenci aku.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "dari suara"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "tekanan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "mereka menggoyahkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas-Ku"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "dan dalam amarah"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "mereka membenci aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:11.851866105Z",
+  "model": "glm-5.2"
+}

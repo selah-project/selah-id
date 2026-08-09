@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka matilah Yosef dan seluruh saudara-saudaranya, dan seluruh angkatan itu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maka matilah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:00.773177080Z",
+  "model": "glm-5.2"
+}

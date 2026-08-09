@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Maka turunlah sepuluh saudara Yusuf untuk membeli gandum dari Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Maka turunlah"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuk membeli"
+    },
+    {
+      "surface": "בר",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:02.285886291Z",
+  "model": "glm-5.2"
+}

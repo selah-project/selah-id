@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 122,
+  "translation": "Nyanyian naungan. Untuk Dawid. aku bersukacita ketika mereka berkata kepadaku, \"Ke rumah Yahweh kita berjalan.\"",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naungan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuk Dawid"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "aku bersukacita"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "ketika mereka berkata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kita berjalan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:32.549345127Z",
+  "model": "glm-5.2"
+}

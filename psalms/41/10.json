@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Bahkan, laki-laki kedamaian-ku, yang aku percayai padanya, pemakan roti-ku, telah membuat besar terhadapku tumit.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אִ֤ישׁ",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "שְׁלוֹמִ֨י",
+      "gloss": "kedamaian-ku"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בָּטַ֣חְתִּי",
+      "gloss": "aku percayai"
+    },
+    {
+      "surface": "ב֭וֹ",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "אוֹכֵ֣ל",
+      "gloss": "pemakan"
+    },
+    {
+      "surface": "לַחְמִ֑י",
+      "gloss": "roti-ku"
+    },
+    {
+      "surface": "הִגְדִּ֖יל",
+      "gloss": "telah membuat besar"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "עָקֵֽב",
+      "gloss": "tumit"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:10.039266805Z",
+  "model": "glm-5.2"
+}

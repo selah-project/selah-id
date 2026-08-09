@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 116,
+  "translation": "Kembalilah, hai nafsyiku, kepada tempat perhentianmu, sebab Yahweh telah berbuat baik kepadamu.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai nafsyiku"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "kepada tempat perhentianmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "telah berbuat baik"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:36.218330228Z",
+  "model": "glm-5.2"
+}

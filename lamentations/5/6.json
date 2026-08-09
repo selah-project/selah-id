@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Kepada Mitsrayim kami mengulurkan tangan, kepada Ashshur, untuk dikenyang perut dengan roti.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kami mengulurkan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "untuk dikenyang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-08T11:56:38.140424585Z",
+  "model": "glm-5.2"
+}

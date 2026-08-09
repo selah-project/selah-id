@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Celakalah bangsa yang berdosa, umat yang sarat dengan kesalahan, benih pelaku kejahatan, anak-anak yang merusak! Mereka meninggalkan ⟨את⟩ Yahweh, mereka menista ⟨את⟩ Yang Kudus Yisra'el, mereka berpaling mundur.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Celakalah"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "yang berdosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yang sarat dengan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pelaku kejahatan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "yang merusak"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Mereka meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "mereka menista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yang Kudus Yisra'el"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Yang Kudus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "mereka berpaling"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mundur"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:03.410677980Z",
+  "model": "glm-5.2"
+}

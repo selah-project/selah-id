@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan dilaporkan kepada Yehosyua, dengan mengatakan: “Lima raja itu telah ditemukan, bersembunyi di dalam gua di Makkedah.”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dan dilaporkan"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "kepada Yehosyua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "telah ditemukan"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "lima"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-itu"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "bersembunyi"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di gua"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "di Makkedah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:34:39.674478141Z",
+  "model": "glm-5.2"
+}

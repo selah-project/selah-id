@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Hesed dan kebenaran, janganlah meninggalkan engkau; ikatlah mereka pada tengkukmu, tuliskanlah mereka pada loh hatimu.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "meninggalkan engkau"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ikatlah mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "tengkukmu"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "tuliskanlah mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "loh"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hatimu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:11.717157329Z",
+  "model": "glm-5.2"
+}

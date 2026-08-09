@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Engkau tahu ⟨את⟩ Avner bin Ner, bahwa untuk memperdayakan engkau ia datang, dan untuk mengetahui ⟨את⟩ keluarmu dan ⟨את⟩ masukmu, dan untuk mengetahui ⟨את⟩ segala yang engkau lakukan.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "memperdayakan engkau"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ia datang"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "dan untuk mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluarmu"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "keluarmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "masukmu"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "masukmu"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "dan untuk mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:57.003246344Z",
+  "model": "glm-5.2"
+}

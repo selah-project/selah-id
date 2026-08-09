@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 13:32",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Maka menjawablah Yonadav, putra Shimah, saudara David, dan berkata: Jangan katakan, tuanku, ⟨את⟩ semua orang muda itu, putra-putra raja, telah dibunuh; karena hanya Amnon sajalah yang mati; karena menurut perintah Avshalom hal itu telah ditetapkan sejak hari ia memperkosa ⟨את⟩ Tamar saudarinya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "maka menjawablah"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Shimah"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua orang muda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "orang muda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "telah dibunuh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "hanya … sajalah"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yang mati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "על",
+      "gloss": "menurut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "telah"
+    },
+    {
+      "surface": "שומה",
+      "gloss": "ditetapkan"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "sejak hari"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "ia memperkosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "saudarinya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:56:16.503754283Z",
+  "model": "glm-5.2"
+}

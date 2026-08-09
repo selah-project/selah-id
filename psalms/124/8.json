@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 124,
+  "translation": "Pertolongan kami ⟨adalah⟩ dalam nama Yahweh, Pembuat langit dan bumi.",
+  "tokens": [
+    {
+      "surface": "עֶזְרֵנוּ",
+      "gloss": "pertolongan kami"
+    },
+    {
+      "surface": "בְּשֵׁם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עֹשֵׂה",
+      "gloss": "Pembuat"
+    },
+    {
+      "surface": "שָׁמַיִם",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וָאָרֶץ",
+      "gloss": "dan bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:48.068573360Z",
+  "model": "glm-5.2"
+}

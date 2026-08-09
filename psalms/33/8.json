@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Biarkanlah takut kepada Yahweh, semua ⟨penduduk⟩ bumi; karena Dia, biarkanlah gemetar semua penghuni tebel.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "biarkanlah takut"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "karena Dia"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "biarkanlah gemetar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penghuni"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:57.049310175Z",
+  "model": "glm-5.2"
+}

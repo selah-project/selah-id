@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "dan ⟨את⟩ Atrot-Shofan dan ⟨את⟩ Yazer, dan Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Atrot-Shofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atrot-"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "dan Yogbeha"
+    }
+  ],
+  "timestamp": "2026-08-08T07:22:54.038779387Z",
+  "model": "glm-5.2"
+}

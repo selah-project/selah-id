@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan mereka melupakan ⟨את⟩ Yahweh Elohim mereka, dan ⟨הוא⟩ menjual ⟨אתם⟩ ke dalam tangan Sisra, panglima pasukan Chatsor, dan ke dalam tangan orang Pelishti, dan ke dalam tangan raja Moav, dan mereka berperang melawan mereka.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּשְׁכְּח֖וּ",
+      "gloss": "dan mereka melupakan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶ֑ם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "וַיִּמְכֹּ֣ר",
+      "gloss": "dan ⟨ia⟩ menjual"
+    },
+    {
+      "surface": "אֹתָ֡ם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ke dalam tangan"
+    },
+    {
+      "surface": "בְּיַ֣ד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "סִֽיסְרָא֩",
+      "gloss": "Sisra"
+    },
+    {
+      "surface": "שַׂר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צְבָ֨א",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "חָצ֜וֹר",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "וּבְיַד",
+      "gloss": "dan ke dalam tangan"
+    },
+    {
+      "surface": "פְּלִשְׁתִּ֗ים",
+      "gloss": "orang Pelishti"
+    },
+    {
+      "surface": "וּבְיַד֙",
+      "gloss": "dan ke dalam tangan"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מוֹאָ֔ב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וַיִּֽלָּחֲמ֖וּ",
+      "gloss": "dan mereka berperang"
+    },
+    {
+      "surface": "בָּֽם",
+      "gloss": "melawan mereka"
+    }
+  ],
+  "timestamp": "2026-08-09T01:45:10.757658820Z",
+  "model": "glm-5.2"
+}

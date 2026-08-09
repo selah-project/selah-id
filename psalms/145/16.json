@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Engkau membuka ⟨את⟩ tangan-Mu, dan memuaskan setiap yang hidup ⟨dengan⟩ kerelaan.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Engkau membuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-Mu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "dan memuaskan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kerelaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:22.258544967Z",
+  "model": "glm-5.2"
+}

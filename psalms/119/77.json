@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Kiranya rahmat-Mu datang kepadaku, agar aku hidup, seuarah Torah-Mu ⟨adalah⟩ kesukaanku.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "datang kepadaku"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmat-Mu"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "agar aku hidup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah-Mu"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kesukaanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:28.748462224Z",
+  "model": "glm-5.2"
+}

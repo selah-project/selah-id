@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 121,
+  "translation": "Yahweh akan menjaga keluarmu dan masukmu, dari sekarang dan sampai selamanya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "akan menjaga"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "keluarmu"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "dan masukmu"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari sekarang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:15.633403519Z",
+  "model": "glm-5.2"
+}

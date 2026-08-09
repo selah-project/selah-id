@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨את⟩ ⟨rumah⟩ yang besar dilapis kayu beton, dan dilapisinya emas yang baik, dan diperhaluskannya di atasnya pilar-pilar palem dan rantai-rantai.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "dilapis"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beton"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "dan dilapisinya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan diperhaluskannya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "pilar-pilar palem"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "dan rantai-rantai"
+    }
+  ],
+  "timestamp": "2026-08-08T12:27:52.270391528Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 75,
+  "translation": "Kami bersyukur kepada-Mu, ya Elohim, kami bersyukur, dan dekat ⟨adalah⟩ nama-Mu; ⟨mereka⟩ menceritakan keajaiban-keajaiban-Mu.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "kami bersyukur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "kami bersyukur"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "dan dekat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "menceritakan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "keajaiban-keajaiban-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:57.225796492Z",
+  "model": "glm-5.2"
+}

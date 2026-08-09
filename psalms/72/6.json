@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 72,
+  "translation": "Biarkanlah ia turun seperti hujan atas rumput yang tercukur, seperti guyuran, merembesi bumi.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "biarkanlah ia turun"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "seperti hujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "גז",
+      "gloss": "rumput yang tercukur"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "seperti guyuran"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "merembesi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:31.692027347Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Terberkatilah ⟨kau⟩ dari segala bangsa; tidak akan ada di antaramu yang mandul, laki-laki maupun perempuan, dan juga di antara ternakmu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "terberkatilah"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨kau⟩ menjadi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di antaramu"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "yang mandul (laki-laki)"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "maupun perempuan yang mandul"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "dan di antara ternakmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:39.286087219Z",
+  "model": "glm-5.2"
+}

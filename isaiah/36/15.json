@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan janganlah mempercayakan kalian kepada Yahweh, menyonggok Chizkiyahu berkata: Menyelamatkan akan menyelamatkan kami Yahweh — tidak akan diserahkan kota ini ke dalam tangan raja Ashshur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "mempercayakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "menyonggok"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "akan menyelamatkan kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "akan diserahkan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-08T18:33:32.414440885Z",
+  "model": "glm-5.2"
+}

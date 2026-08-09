@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jika menindas, kamu menindas ⟨את⟩ dia — sungguh, jika berseru, ia berseru kepada-Ku, mendengar, Aku mendengar seruannya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "menindas"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "kamu menindas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "berseru"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ia berseru"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "Aku mendengar"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "seruannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:28.740174017Z",
+  "model": "glm-5.2"
+}

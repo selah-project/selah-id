@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu berpalinglah sang raja ⟨menghadapkan⟩ wajahnya dan diberkatinyalah ⟨את⟩ seluruh jemaat Yisrael, sementara seluruh jemaat Yisrael berdiri.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "lalu berpalinglah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahnya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajahnya"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan diberkatinyalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh jemaat Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "berdiri"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:50.252881371Z",
+  "model": "glm-5.2"
+}

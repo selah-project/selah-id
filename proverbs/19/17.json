@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Siapa berbelas kasih kepada orang miskin, meminjamkan kepada Yahweh, dan perbuatan baiknya akan dibalas-Nya kepadanya.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "meminjamkan kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "berbelas kasih"
+    },
+    {
+      "surface": "דל",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "dan perbuatan baiknya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akan dibalas-Nya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:09.829401784Z",
+  "model": "glm-5.2"
+}

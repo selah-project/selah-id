@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Sungguh, di tempat-tempat licin Engkau menempatkan mereka; Engkau menjatuhkan mereka ke dalam kebinasaan.",
+  "tokens": [
+    {
+      "surface": "אַ֣ךְ",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "בַּ֭חֲלָקוֹת",
+      "gloss": "di tempat-tempat licin"
+    },
+    {
+      "surface": "תָּשִׁ֣ית",
+      "gloss": "Engkau menempatkan"
+    },
+    {
+      "surface": "לָ֑מוֹ",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "הִ֝פַּלְתָּ֗ם",
+      "gloss": "Engkau menjatuhkan mereka"
+    },
+    {
+      "surface": "לְמַשּׁוּאֽוֹת",
+      "gloss": "ke dalam kebinasaan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:21.688231025Z",
+  "model": "glm-5.2"
+}

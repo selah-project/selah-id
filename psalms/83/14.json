@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "Elohai, jadikanlah mereka seperti gulungan, seperti jerami di hadapan angin!",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "jadikanlah mereka"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "seperti gulungan"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "seperti jerami"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:48.079845757Z",
+  "model": "glm-5.2"
+}

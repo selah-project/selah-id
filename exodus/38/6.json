@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Dan ia membuat ⟨את⟩ tiang-tiang itu dari kayu shittim, dan ia melapisinya dengan tembaga.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "Dan ia membuat"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang itu"
+    },
+    {
+      "surface": "הַבַּדִּ֖ים",
+      "gloss": "tiang-tiang itu"
+    },
+    {
+      "surface": "עֲצֵ֣י",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שִׁטִּ֑ים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וַיְצַ֥ף",
+      "gloss": "dan ia melapisi"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩-nya",
+      "marks": "tembaga"
+    },
+    {
+      "surface": "נְחֹֽשֶׁת",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-08-08T18:23:58.846712777Z",
+  "model": "glm-5.2"
+}

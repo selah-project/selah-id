@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan ⟨את⟩ Yatir dan ⟨את⟩ migrasynya, dan ⟨את⟩ Esytemoa dan ⟨את⟩ migrasynya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "migrasnya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migrasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Esytemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esytemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "migrasnya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migrasnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:51:15.210394846Z",
+  "model": "glm-5.2"
+}

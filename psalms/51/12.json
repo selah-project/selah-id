@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Hati yang murni ciptakanlah bagiku, ⟨אלהים⟩, dan roh yang teguh perbaruilah di dalam diriku.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yang murni"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ciptakanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan roh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "yang teguh"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "perbaruilah"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diriku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:08.620026903Z",
+  "model": "glm-5.2"
+}

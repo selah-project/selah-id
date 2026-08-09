@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Pagi hari ↔ bersinar, dan orang-orang itu disuruh pergilah mereka, beserta keledai-keledai mereka.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "pagi hari"
+    },
+    {
+      "surface": "אור",
+      "gloss": "bersinar"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "dan orang-orang itu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "disuruh pergi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "beserta keledai-keledai mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:45.522342730Z",
+  "model": "glm-5.2"
+}

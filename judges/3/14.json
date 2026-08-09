@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan bani Yisra'el bekerja sebagai budak bagi ⟨את⟩ Eglon raja Moab delapan belas tahun.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Dan mereka bekerja sebagai budak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "delapan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-08-08T10:51:46.358534552Z",
+  "model": "glm-5.2"
+}

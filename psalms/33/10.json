@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Yahweh menggagalkan musyawarah bangsa-bangsa; ⟨Dia⟩ mempersiasatikan rancangan kaum-kaum.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "menggagalkan"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "musyawarah"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "mempersiasatikan"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kaum-kaum"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:56.840072676Z",
+  "model": "glm-5.2"
+}

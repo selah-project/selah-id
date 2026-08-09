@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Untuk pemimpin ⟨musik⟩, sobre Almut Laben. Mizmor bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "sobre Almut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:01.029249641Z",
+  "model": "glm-5.2"
+}

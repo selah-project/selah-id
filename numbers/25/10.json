@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Lalu Yahweh berfirman kepada Mosheh, katanya:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lalu berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:21:34.544199809Z",
+  "model": "glm-5.2"
+}

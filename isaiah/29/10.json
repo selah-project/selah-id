@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "karena Yahweh telah mencurahkan ke atas kamu roh tidur lelap, dan ⟨הוּא⟩ telah menutup mata-mata kamu — ⟨את⟩ nabi-nabi, dan ⟨את⟩ kepala-kepala kamu, para pelihat, telah ⟨הוּא⟩ tutup.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "נָסַ֨ךְ",
+      "gloss": "telah mencurahkan"
+    },
+    {
+      "surface": "עֲלֵיכֶ֤ם",
+      "gloss": "ke atas kamu"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ר֣וּחַ",
+      "gloss": "roh"
+    },
+    {
+      "surface": "תַּרְדֵּמָ֔ה",
+      "gloss": "tidur lelap"
+    },
+    {
+      "surface": "וַיְעַצֵּ֖ם",
+      "gloss": "dan ⟨הוּא⟩ telah menutup"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mata-mata kamu"
+    },
+    {
+      "surface": "עֵֽינֵיכֶ֑ם",
+      "gloss": "mata-mata kamu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi"
+    },
+    {
+      "surface": "הַנְּבִיאִ֛ים",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kepala-kepala kamu"
+    },
+    {
+      "surface": "רָאשֵׁיכֶ֥ם",
+      "gloss": "kepala-kepala kamu"
+    },
+    {
+      "surface": "הַחֹזִ֖ים",
+      "gloss": "para pelihat"
+    },
+    {
+      "surface": "כִּסָּֽה",
+      "gloss": "⟨הוּא⟩ tutup"
+    }
+  ],
+  "timestamp": "2026-08-08T08:22:03.915618048Z",
+  "model": "glm-5.2"
+}

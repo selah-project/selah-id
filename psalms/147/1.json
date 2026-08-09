@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Pujilah Yah! Sebab baik menyanyikan mazmur bagi Elohim kita, sebab menyenangkan dan pantas ⟨adalah⟩ pujian.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "menyanyikan mazmur"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "menyenangkan"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "pantas"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pujian"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:17.030726166Z",
+  "model": "glm-5.2"
+}

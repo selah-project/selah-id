@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨את⟩ ladang kota itu dan ⟨את⟩ pekarangannya diberikan kepada Kalev bin Yefune.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "ladang"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pekarangannya"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "pekarangannya"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kepada Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    }
+  ],
+  "timestamp": "2026-08-08T12:02:24.701516731Z",
+  "model": "glm-5.2"
+}

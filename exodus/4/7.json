@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨ia⟩ berkata, “Kembalikan tanganmu ke pelukmu.” Lalu ia mengembalikan tangannya ke peluknya, kemudian ia mengeluarkannya dari peluknya, dan lihat, telah kembali seperti dagingnya sendiri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Kembalikan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "pelukmu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Lalu ia mengembalikan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "peluknya"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "kemudian ia mengeluarkannya"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "dari peluknya"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "telah kembali"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "seperti dagingnya sendiri"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:07.054233125Z",
+  "model": "glm-5.2"
+}

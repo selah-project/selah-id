@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Dan Paroh berkata kepada Yosef: “Aku ⟨adalah⟩ Paroh, dan tanpa engkau tidak akan mengangkat seorang pun ⟨את⟩ tangannya dan ⟨את⟩ kakinya di seluruh tanah Mitsrayim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "dan tanpa engkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "akan mengangkat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang pun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kakinya"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "kakinya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:39.365506311Z",
+  "model": "glm-5.2"
+}

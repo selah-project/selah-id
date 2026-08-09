@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Ketika Sha'ul dan seluruh Yisra'el mendengar ⟨את⟩ perkataan orang Peleshet itu, mereka pun kehilangan keberanian dan sangat takut.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ketika ... mendengar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Peleshet itu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "mereka hilang keberanian"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dan takut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:23.574497416Z",
+  "model": "glm-5.2"
+}

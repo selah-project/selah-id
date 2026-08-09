@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "dan ia harus meletakkan tangannya di atas kepala kambing itu, dan menyembelihnya di tempat di mana ⟨הוא⟩ menyembelih ⟨את⟩ korban bakaran di hadapan Yahweh — ⟨ini⟩ korban dosa ⟨itu⟩.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "dan ia harus meletakkan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambing itu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "kambing itu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "⟨dia⟩ menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:52.344903623Z",
+  "model": "glm-5.2"
+}

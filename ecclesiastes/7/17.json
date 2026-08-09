@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Jangan berbuat jahat terlalu banyak, dan jangan ⟨menjadi⟩ bodoh; mengapa engkau mati bukan pada waktu-mu?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "berbuat jahat"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "terlalu banyak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "bodoh"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "engkau mati"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bukan pada"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "waktu-mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:41.306215515Z",
+  "model": "glm-5.2"
+}

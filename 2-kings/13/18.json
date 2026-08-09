@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan ⟨ia⟩ berkata, “Ambillah anak-anak panah itu,” dan ⟨ia⟩ mengambilnya. Dan ⟨ia⟩ berkata kepada raja Israel, “Pukullah ke tanah!” dan ⟨ia⟩ memukul tiga kali, lalu ⟨ia⟩ berhenti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "anak-anak panah itu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan ⟨ia⟩ mengambilnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הך",
+      "gloss": "pukullah"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan ⟨ia⟩ memukul"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lalu ⟨ia⟩ berhenti"
+    }
+  ],
+  "timestamp": "2026-08-08T12:16:50.482677381Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 53,
+  "translation": "Semuanya telah mundur, bersama-sama mereka telah menjadi najis; tidak ada ⟨yang⟩ melakukan kebaikan, tidak ada, bahkan tidak satu pun.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "סג",
+      "gloss": "telah mundur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "mereka telah menjadi najis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tidak satu pun"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:39.252658336Z",
+  "model": "glm-5.2"
+}

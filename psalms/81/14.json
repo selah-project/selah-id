@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Seandainya umat-Ku mendengarkan kepada-Ku, Yisrael berjalan di jalan-jalan-Ku!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "seandainya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di jalan-jalan-Ku"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "berjalan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:04.560534914Z",
+  "model": "glm-5.2"
+}

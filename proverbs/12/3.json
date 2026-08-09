@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Tidak akan tegak manusia dalam kejahatan, tetapi akar orang-orang benar tidak akan goyah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "akan tegak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "dalam kejahatan"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "tetapi akar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang benar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "akan goyah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:37.343710556Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨dia⟩ akan menanggalkan ⟨את⟩ pakaiannya dan mengenakan pakaian lain, dan ⟨dia⟩ akan membawa keluar ⟨את⟩ abu itu ke luar kamp menuju tempat tahir.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Dan ⟨dia⟩ akan menanggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "dan mengenakan"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "dan ⟨dia⟩ akan membawa keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abu itu"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "abu itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menuju"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tahir"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:07.712601572Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Aku telah meninggalkan ⟨את⟩ rumah-Ku, Aku telah membuang ⟨את⟩ warisan-Ku, Aku telah menyerahkan ⟨את⟩ kekasih nafsi ke dalam telapak tangan musuh-musuhnya.",
+  "tokens": [
+    {
+      "surface": "עָזַ֨בְתִּי֙",
+      "gloss": "Aku telah meninggalkan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah-Ku"
+    },
+    {
+      "surface": "בֵּיתִ֔י",
+      "gloss": "rumah-Ku"
+    },
+    {
+      "surface": "נָטַ֖שְׁתִּי",
+      "gloss": "Aku telah membuang"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "warisan-Ku"
+    },
+    {
+      "surface": "נַחֲלָתִ֑י",
+      "gloss": "warisan-Ku"
+    },
+    {
+      "surface": "נָתַ֛תִּי",
+      "gloss": "Aku telah menyerahkan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kekasih nafsi"
+    },
+    {
+      "surface": "יְדִד֥וּת",
+      "gloss": "kekasih"
+    },
+    {
+      "surface": "נַפְשִׁ֖י",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "בְּכַ֥ף",
+      "gloss": "ke dalam telapak tangan"
+    },
+    {
+      "surface": "אֹיְבֶֽיהָ",
+      "gloss": "musuh-musuhnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:33:20.254447592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "Sebab mereka bermusyawarah dengan batin bersama-sama, terhadap-Mu ⟨sebuah⟩ berit mereka potong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "mereka bermusyawarah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dengan batin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "terhadap-Mu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "mereka potong"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:10.241184522Z",
+  "model": "glm-5.2"
+}

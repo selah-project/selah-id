@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan engkau akan menempatkan ⟨את⟩-nya dua susunan, enam per susunan, di atas meja yang murni di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Dan engkau akan menempatkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-nya",
+      "marks": "dua susunan"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "susunan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "per susunan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "yang murni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:21.672160702Z",
+  "model": "glm-5.2"
+}

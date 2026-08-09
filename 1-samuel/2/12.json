@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan anak-anak Eli ⟨adalah⟩ anak-anak beliyaal; mereka tidak mengenal ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dan anak-anak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliyaal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:21.079817574Z",
+  "model": "glm-5.2"
+}

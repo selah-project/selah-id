@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan Yahweh berkata kepada Shemuël, “Dengarkanlah suara ⟨העם⟩ bangsa itu, sesuai dengan segala yang mereka katakan kepadamu, karena bukan engkau mereka tolak, melainkan Aku mereka tolak dari memerintah atas mereka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarkanlah"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sesuai dengan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mereka katakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau (sebagai objek langsung dari מאסו)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "mereka tolak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "Aku (sebagai objek langsung dari מאסו)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "mereka tolak"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "dari memerintah"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:46:14.774742595Z",
+  "model": "glm-5.2"
+}

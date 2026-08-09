@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Maka terjadilah, ketika kerajaan Rehabeam telah ditegakkan dan ketika ia telah kuat, ia meninggalkan ⟨את⟩ torat Yahweh, dan seluruh Yisra'el bersamanya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "ketika telah ditegakkan"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "dan ketika ia telah kuat"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ia meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torat"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:05:37.413476628Z",
+  "model": "glm-5.2"
+}

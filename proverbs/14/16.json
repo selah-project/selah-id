@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "⟨Seorang⟩ yang bijak takut dan menjauhi kejahatan, tetapi ⟨seorang⟩ bebal melampaui batas dan merasa yakin.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "yang bijak"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "dan menjauhi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dari kejahatan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "bebal"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "melampaui batas"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "dan merasa yakin"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:15.110663639Z",
+  "model": "glm-5.2"
+}

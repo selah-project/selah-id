@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "dan ⟨את⟩ meja dan ⟨את⟩ segala perkakasnya, dan ⟨את⟩ kandil dan ⟨את⟩ perkakasnya, dan ⟨את⟩ mezbah ukupan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "meja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kandil"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perkakasnya"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah ukupan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ukupan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:30.313464453Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Hati orang bijak ⟨condong⟩ ke kanannya, dan hati orang bodoh ke kirinya.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijak"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ke kanannya"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dan hati"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ke kirinya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:45.489405457Z",
+  "model": "glm-5.2"
+}

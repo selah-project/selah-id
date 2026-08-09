@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 6:3",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨serambi⟩ itu, di depan ⟨halléikal⟩ bait itu, dua puluh hasta panjangnya, di depan lebar bait itu; sepuluh hasta lebarnya di depan bait itu.",
+  "tokens": [
+    {
+      "surface": "והאולם",
+      "gloss": "Dan ⟨serambi⟩ itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "פני",
+      "gloss": "depan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "halléikal"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "פני",
+      "gloss": "depan"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "פני",
+      "gloss": "depan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bait"
+    }
+  ],
+  "timestamp": "2026-08-08T11:01:58.694523078Z",
+  "model": "glm-5.2"
+}

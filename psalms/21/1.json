@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Untuk dirigen. Mizmor bagi Davíd.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk dirigen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Davíd"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:29.256475563Z",
+  "model": "glm-5.2"
+}

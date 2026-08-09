@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Aku akan bersyukur kepada-Mu dengan kelurusan hati pada saat aku mempelajari hukum-hukum keadilan-Mu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "aku akan bersyukur kepada-Mu"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "dengan kelurusan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "pada saat aku mempelajari"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "keadilan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:42.236319329Z",
+  "model": "glm-5.2"
+}

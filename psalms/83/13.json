@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "yang berkata, “Mari kita miliki untuk diri kita ⟨את⟩ padang-padang rumput Elohim.”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "mari kita miliki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuk diri kita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padang-padang rumput"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "padang-padang rumput"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:48.079552873Z",
+  "model": "glm-5.2"
+}

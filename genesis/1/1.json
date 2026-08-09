@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Pada mulanya Elohim menciptakan ⟨את⟩ langit dan ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Pada mulanya"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "menciptakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:58.802147618Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Seperti rusa meratap mencari saluran air, demikian napasku meratap ⟨kepada⟩-Mu, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "seperti rusa"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "meratap"
+    },
+    {
+      "surface": "על",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "saluran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "meratap"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:34.520826242Z",
+  "model": "glm-5.2"
+}

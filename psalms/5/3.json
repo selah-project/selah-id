@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Pasanglah telinga kepada suara seruanku, rajaiku dan Elohaiku, sebab kepada-Mulah aku berdoa.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Pasanglah telinga"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kepada suara"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "seruanku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajaiku"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan Elohaiku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mulah"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "aku berdoa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:47.028648563Z",
+  "model": "glm-5.2"
+}

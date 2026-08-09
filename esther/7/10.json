@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Lalu mereka menggantungkan ⟨את⟩ Haman di tiang itu yang disiapkannya untuk Mordekhay, dan kepanasan raja mereda.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Lalu mereka menggantungkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "tiang itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "disiapkannya"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "untuk Mordekhay"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "dan kepanasan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "mereda"
+    }
+  ],
+  "timestamp": "2026-08-08T11:58:07.014876247Z",
+  "model": "glm-5.2"
+}

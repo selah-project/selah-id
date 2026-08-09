@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Shemuël berbicara kepada bangsa itu ⟨tentang⟩ ⟨את⟩ hukum kerajaan, dan menuliskannya dalam kitab, dan meletakkannya di hadapan Yahweh. Dan Shemuël menyuruh ⟨את⟩ seluruh bangsa itu pergi, masing-masing ke rumahnya.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berbicara"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukum kerajaan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "dan menuliskannya"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dalam kitab"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "dan meletakkannya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Dan menyuruh pergi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh bangsa itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ke rumahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:28.913089418Z",
+  "model": "glm-5.2"
+}

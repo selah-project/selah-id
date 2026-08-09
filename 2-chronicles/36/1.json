@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Lalu rakyat negeri mengambil ⟨את⟩ Yehoakhaz bin Yoshiyahu, dan mereka mengangkat dia menjadi raja menggantikan ayahnya, di Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Lalu ... mengambil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoakhaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "dan mereka mengangkat dia menjadi raja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:12.866880300Z",
+  "model": "glm-5.2"
+}

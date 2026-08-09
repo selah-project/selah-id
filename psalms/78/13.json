@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Ia membelah laut dan membuat mereka melintasinya, dan ⟨ia⟩ membuat air berdiri seperti timbunan.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "ia membelah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "dan membuat mereka melintasi"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "dan membuat berdiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "נד",
+      "gloss": "timbunan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:28.059609588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan sekarang, bersumpahlah kepadaku demi Yahweh, jika engkau akan memunahkan ⟨את⟩ benihku setelahku, dan jika engkau akan membinasakan ⟨את⟩ namaku dari keluarga ayahku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "bersumpahlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "demi Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "engkau akan memunahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benihku"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "benihku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelahku"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "engkau akan membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namaku"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "namaku"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari keluarga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    }
+  ],
+  "timestamp": "2026-08-08T10:56:45.667649130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Tanda-tanda kami tidak kami lihat, tidak ada lagi nabi, dan tidak ada di antara kami yang tahu sampai kapan.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "tanda-tanda kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "kami lihat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "di antara kami"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yang tahu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kapan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:28.926693592Z",
+  "model": "glm-5.2"
+}

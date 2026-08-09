@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Yahoshua menyuruh ⟨את⟩ bangsa itu pergi, dan bani Yisrael pergi masing-masing ke warisan-nya untuk menduduki ⟨את⟩ negeri itu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dan ia menyuruh pergi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan mereka pergi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ke warisan-nya"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "untuk menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    }
+  ],
+  "timestamp": "2026-08-08T12:13:34.172337114Z",
+  "model": "glm-5.2"
+}

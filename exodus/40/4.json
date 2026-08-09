@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan engkau bawa masuk ⟨את⟩ meja, dan engkau atur ⟨את⟩ susunannya; dan engkau bawa masuk ⟨את⟩ kandil, dan engkau nyalakan ⟨את⟩ lampu-lampunya.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Dan engkau bawa masuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "dan engkau atur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "susunannya"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "susunannya"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "dan engkau bawa masuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandil"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "dan engkau nyalakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampunya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampunya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:23.814030917Z",
+  "model": "glm-5.2"
+}

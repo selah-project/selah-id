@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan Yahweh berfirman kepada Mosheh dan kepada Aharon di tanah Mitsrayim, dengan mengatakan:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:36.600199869Z",
+  "model": "glm-5.2"
+}

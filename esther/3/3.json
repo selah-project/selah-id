@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka berkatalah hamba-hamba raja yang di pintu gerbang raja kepada Mordehai: “Mengapa engkau melanggar ⟨את⟩ perintah raja?”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "maka berkatalah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kepada Mordehai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "melanggar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:03.584114993Z",
+  "model": "glm-5.2"
+}

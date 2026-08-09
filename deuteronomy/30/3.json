@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "maka Yahweh Elohimmu memulihkan ⟨את⟩ keadaan tawananmu dan menyayangimu, dan Ia berbalik dan mengumpulkan engkau dari segala bangsa yang telah mencerai-beraikan engkau, Yahweh Elohimmu, ke sana.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "maka ... memulihkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan tawananmu"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "keadaan tawananmu"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "dan menyayangimu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan Ia berbalik"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "dan mengumpulkan engkau"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "telah mencerai-beraikan engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:02.426746431Z",
+  "model": "glm-5.2"
+}

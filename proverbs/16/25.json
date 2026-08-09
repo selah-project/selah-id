@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Ada jalan yang lurus di depan ⟨seorang⟩ ⟨איש⟩, tetapi akhirnya ⟨adalah⟩ jalan-jalan maut.",
+  "tokens": [
+    {
+      "surface": "יֵשׁ",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "יָשָׁר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "וְאַחֲרִיתָהּ",
+      "gloss": "tetapi akhirnya"
+    },
+    {
+      "surface": "דַּרְכֵי",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "מָוֶת",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:06.380302897Z",
+  "model": "glm-5.2"
+}

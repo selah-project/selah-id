@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 143,
+  "translation": "Aku mengingat hari-hari masa lampau, aku merenungkan segala perbuatan-Mu, di atas pekerjaan tangan-Mu aku bergumam.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "aku mengingat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "masa lampau"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "aku merenungkan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "di atas pekerjaan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "aku bergumam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:56.311353331Z",
+  "model": "glm-5.2"
+}

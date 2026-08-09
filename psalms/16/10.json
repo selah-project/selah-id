@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Sebab Engkau tidak meninggalkan napasku kepada Sheol, tidak Engkau membiarkan hasid-Mu melihat liang kebinasaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "Engkau meninggalkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Engkau membiarkan"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "hasid-Mu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "liang kebinasaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:46.597913561Z",
+  "model": "glm-5.2"
+}

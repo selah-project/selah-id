@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Aku menjadi bisu, ⟨dalam⟩ keheningan; aku berdiam diri dari ⟨perkataan⟩ baik, dan kesakitanku bertambah buruk.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Aku menjadi bisu"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "keheningan"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "aku berdiam diri"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "dari baik"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "dan kesakitanku"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "bertambah buruk"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:44.349890220Z",
+  "model": "glm-5.2"
+}

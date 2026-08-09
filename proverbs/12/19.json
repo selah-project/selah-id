@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Bibir kebenaran ⟨akan⟩ teguh untuk selama-lamanya, tetapi lidah dusta ⟨hanya⟩ untuk sekejap.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "teguh"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "untuk sekejap"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:04.497751255Z",
+  "model": "glm-5.2"
+}

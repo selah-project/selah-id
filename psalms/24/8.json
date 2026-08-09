@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Siapakah Dia ini, Raja kemuliaan? Yahweh, yang kuat dan perkasa, Yahweh, pahlawan perang!",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "זֶה֮",
+      "gloss": "Dia ini"
+    },
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הַכָּ֫ב֥וֹד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עִזּ֣וּז",
+      "gloss": "yang kuat"
+    },
+    {
+      "surface": "וְגִבּ֑וֹר",
+      "gloss": "dan perkasa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גִּבּ֥וֹר",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "מִלְחָמָֽה",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:53.090830413Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan ⟨ia⟩ mengambil ⟨את⟩ segala emas dan perak, dan ⟨את⟩ segala perkakas yang ditemukan di bait Yahweh dan di perbendaharaan bait ha-melekh, dan ⟨את⟩ bnei ha-ta'arubot, lalu kembali ke Shomron.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala emas dan perak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "dan perak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkakas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "yang ditemukan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "dan di perbendaharaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ha-melekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bnei ha-ta'arubot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bnei"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "ha-ta'arubot"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan kembali"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-08-08T08:12:00.881976054Z",
+  "model": "glm-5.2"
+}

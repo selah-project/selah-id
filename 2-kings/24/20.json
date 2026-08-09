@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Karena oleh karena murka Yahweh hal itu terjadi di Yerushalayim dan di Yehudah, sampai ⟨Ia⟩ melemparkan ⟨את⟩ mereka dari hadapan-Nya; dan memberontaklah Tsidkiyahu terhadap raja Bavel.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "oleh karena"
+    },
+    {
+      "surface": "אַ֣ף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הָיְתָ֤ה",
+      "gloss": "hal itu terjadi"
+    },
+    {
+      "surface": "בִירוּשָׁלִַ֨ם֙",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "וּבִ֣יהוּדָ֔ה",
+      "gloss": "dan di Yehudah"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הִשְׁלִכ֥וֹ",
+      "gloss": "⟨Ia⟩ melemparkan"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מֵעַ֣ל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "פָּנָ֑יו",
+      "gloss": "hadapan-Nya"
+    },
+    {
+      "surface": "וַיִּמְרֹ֥ד",
+      "gloss": "dan memberontaklah"
+    },
+    {
+      "surface": "צִדְקִיָּ֖הוּ",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "בְּמֶ֥לֶךְ",
+      "gloss": "terhadap raja"
+    },
+    {
+      "surface": "בָּבֶֽל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-08T11:08:26.997050522Z",
+  "model": "glm-5.2"
+}

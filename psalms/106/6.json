@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Kami telah berbuat dosa bersama nenek moyang kami, kami telah berbuat bengkok, kami telah berbuat fasik.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "kami telah berbuat dosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nenek moyang kami"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "kami telah berbuat bengkok"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "kami telah berbuat fasik"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:08.195705838Z",
+  "model": "glm-5.2"
+}

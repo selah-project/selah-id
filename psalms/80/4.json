@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Elohim, restorelah kami, dan buatlah berseri wajah-Mu, maka kami akan diselamatkan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "restorelah kami"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "dan buatlah berseri"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "maka kami akan diselamatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:36.858515671Z",
+  "model": "glm-5.2"
+}

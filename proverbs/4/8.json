@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lingkupilah dia, dan ⟨ia⟩ akan meninggikanmu; ⟨ia⟩ akan memuliakanmu, ketika kau peluk dia.",
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "lingkupilah dia"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "dan ia akan meninggikanmu"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "ia akan memuliakanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "kau peluk dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:24.224054916Z",
+  "model": "glm-5.2"
+}

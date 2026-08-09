@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Maka bersukacitalah mereka sebab gelombang-reda itu, dan ⟨Ia⟩ memimpin mereka ke pelabuhan keinginan mereka.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "dan bersukacitalah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "gelombang-reda"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dan memimpin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "pelabuhan"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "keinginan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:42.926734880Z",
+  "model": "glm-5.2"
+}

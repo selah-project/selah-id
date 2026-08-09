@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Aku tumpas dan hancur ⟨sampai⟩ sangat; aku menggeram karena ngikutan hatiku.",
+  "tokens": [
+    {
+      "surface": "נְפוּג֣וֹתִי",
+      "gloss": "aku tumpas"
+    },
+    {
+      "surface": "וְנִדְכֵּ֣יתִי",
+      "gloss": "dan hancur"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "⟨sampai⟩"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "שָׁ֝אַ֗גְתִּי",
+      "gloss": "aku menggeram"
+    },
+    {
+      "surface": "מִֽנַּהֲמַ֥ת",
+      "gloss": "karena ngikutan"
+    },
+    {
+      "surface": "לִבִּֽי",
+      "gloss": "hatiku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:20.881051197Z",
+  "model": "glm-5.2"
+}

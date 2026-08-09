@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan Bilam mengangkat ⟨את⟩ matanya, dan melihat ⟨את⟩ Yisrael diam menurut suku-sukunya, maka ruach Elohim ⟨datang⟩ atasnya.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Dan mengangkat"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matanya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matanya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "diam"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "menurut suku-sukunya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "maka ⟨datang⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:42:45.128349342Z",
+  "model": "glm-5.2"
+}

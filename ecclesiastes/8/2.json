@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Aku ⟨menasihati engkau⟩: mulut raja, jagalah, dan ⟨terhadap⟩ perlakuan sumpah ⟨di hadapan⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "jagalah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "perlakuan"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:06.395963724Z",
+  "model": "glm-5.2"
+}

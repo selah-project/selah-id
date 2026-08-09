@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Bagi ⟨sang⟩ pemimpin ⟨idan⟩. ⟨Bagi⟩ Daud. Mizmor, syair.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bagi pemimpin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "syair"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.418530984Z",
+  "model": "glm-5.2"
+}

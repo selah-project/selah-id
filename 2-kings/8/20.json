@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Pada hari-haranya Edom memberontak dari bawah tangan Yehudah, dan mereka mengangkat atas mereka seorang raja.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "Pada hari-haranya"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "dan mereka mengangkat"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "seorang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T11:05:49.232558540Z",
+  "model": "glm-5.2"
+}

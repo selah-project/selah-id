@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 97,
+  "translation": "Yahweh memerintah, bersukarialah bumi, bersorak-sorailah pulau-pulau yang banyak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "bersukarialah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulau-pulau"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:31.069365488Z",
+  "model": "glm-5.2"
+}

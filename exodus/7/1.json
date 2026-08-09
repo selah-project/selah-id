@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan Yahweh berfirman kepada Mosheh: “Lihatlah, Aku telah menetapkan engkau sebagai elohim bagi Paroh, dan Aharon saudaramu akan menjadi nabimu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Aku telah menetapkan engkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "bagi Paroh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "nabimu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:13.515722349Z",
+  "model": "glm-5.2"
+}

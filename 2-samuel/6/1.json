@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu Dawid mengumpulkan lagi ⟨את⟩ semua pilihan muda di Yisrael, tiga puluh ribu.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Dan ia menambah(kan lagi)"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua pilihan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "pilihan (muda)"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:37.912368998Z",
+  "model": "glm-5.2"
+}

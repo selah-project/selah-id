@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 79,
+  "translation": "Tuangkanlah amarahmu atas bangsa-bangsa yang tidak mengenal Engkau, dan atas kerajaan-kerajaan yang dalam namamu tidak memanggil.",
+  "tokens": [
+    {
+      "surface": "שְׁפֹךְ",
+      "gloss": "tuangkanlah"
+    },
+    {
+      "surface": "חֲמָתְךָ",
+      "gloss": "amarahmu"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הַגּוֹיִם",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יְדָעוּךָ",
+      "gloss": "mengenal Engkau"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "מַמְלָכוֹת",
+      "gloss": "kerajaan-kerajaan"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בְּשִׁמְךָ",
+      "gloss": "dalam namamu"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קָרָאוּ",
+      "gloss": "memanggil"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:44.671168880Z",
+  "model": "glm-5.2"
+}

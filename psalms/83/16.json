@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "demikianlah kejarlah mereka dengan badai-Mu, dan dengan puting beliung-Mu buatlah mereka terkejut!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "kejarlah mereka"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "dengan badai-Mu"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "dan dengan puting beliung-Mu"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "buatlah mereka terkejut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:48.080117509Z",
+  "model": "glm-5.2"
+}

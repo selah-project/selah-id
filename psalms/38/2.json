@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Yahweh, janganlah Engkau menegur aku dalam gusar-Mu, dan dalam murka-Mu janganlah Engkau menghajar aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "dalam gusar-Mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "Engkau menegur aku"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "dan dalam murka-Mu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "Engkau menghajar aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:06.094120116Z",
+  "model": "glm-5.2"
+}

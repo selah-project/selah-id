@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Ia mengutus Moshe hamba-Nya, ⟨juga⟩ Aharon yang dipilih-Nya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ia mengutus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hamba-Nya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dipilih-Nya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:02.166155403Z",
+  "model": "glm-5.2"
+}

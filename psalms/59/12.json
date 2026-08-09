@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Jangan bunuh mereka, supaya bangsaku tidak melupakan ⟨ini⟩; goncangkanlah mereka dengan kekuatan-Mu, dan turunkanlah mereka, perisai kami, Adonai.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תַּהַרְגֵ֤ם",
+      "gloss": "bunuh mereka"
+    },
+    {
+      "surface": "פֶּֽן",
+      "gloss": "supaya ... tidak"
+    },
+    {
+      "surface": "יִשְׁכְּח֬וּ",
+      "gloss": "melupakan"
+    },
+    {
+      "surface": "עַמִּ֗י",
+      "gloss": "bangsaku"
+    },
+    {
+      "surface": "הֲנִיעֵ֣מוֹ",
+      "gloss": "goncangkanlah mereka"
+    },
+    {
+      "surface": "בְחֵילְךָ",
+      "gloss": "dengan kekuatan-Mu"
+    },
+    {
+      "surface": "וְהוֹרִידֵ֑מוֹ",
+      "gloss": "dan turunkanlah mereka"
+    },
+    {
+      "surface": "מָֽגִנֵּ֣נוּ",
+      "gloss": "perisai kami"
+    },
+    {
+      "surface": "אֲדֹנָֽי",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:20.739716218Z",
+  "model": "glm-5.2"
+}

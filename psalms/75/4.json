@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 75,
+  "translation": "Larutlah bumi dan semua penduduknya; aku, aku menegakkan tiang-tiangnya. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "larutlah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "penduduknya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "aku menegakkan"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "tiang-tiangnya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:57.226106410Z",
+  "model": "glm-5.2"
+}

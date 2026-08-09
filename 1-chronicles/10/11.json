@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu mendengar seluruh Yavesh-Gilad ⟨את⟩ segala yang telah dilakukan orang Pelishti kepada Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "lalu mendengar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "telah dilakukan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelishti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Shaul"
+    }
+  ],
+  "timestamp": "2026-08-08T10:05:58.264751322Z",
+  "model": "glm-5.2"
+}

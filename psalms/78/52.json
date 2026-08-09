@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ia menjourneykan umat-Nya seperti kawanan domba, dan membimbing mereka seperti kawanan ternak di padang gurun.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Dan ia menjourneykan"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "seperti kawanan domba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "dan membimbing mereka"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "seperti kawanan ternak"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:52.682910819Z",
+  "model": "glm-5.2"
+}

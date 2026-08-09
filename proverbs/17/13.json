@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Yang membalas kejahatan ⟨untuk⟩ kebaikan — kejahatan tidak ⟨akan⟩ beranjak dari rumahnya.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "Yang membalas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨untuk⟩"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "⟨akan⟩ beranjak"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "dari rumahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T18:39:15.092276475Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Tidak boleh kamu makan di atas ⟨dengan⟩ darah; tidak boleh kamu melakukan tenung dan tidak boleh kamu melakukan ramalan awan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "kamu boleh melakukan tenung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "kamu boleh melakukan ramalan awan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:06.286440490Z",
+  "model": "glm-5.2"
+}

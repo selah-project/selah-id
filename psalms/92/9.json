@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "Dan Engkau ⟨adalah⟩ tempat tinggi untuk selama-lamanya, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan Engkau"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "tempat tinggi"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:43.821197553Z",
+  "model": "glm-5.2"
+}

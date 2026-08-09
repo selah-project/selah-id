@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Maka Dawid membelah ⟨את⟩ orang-orangnya dengan perkataan dan tidak membiarkan mereka bangkit terhadap Syaul; dan Syaul bangkit dari ⟨ה⟩ gua itu, lalu pergi di ⟨ה⟩ jalan itu.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "Maka membelah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orangnya"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "orang-orangnya"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "dengan perkataan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "membiarkan mereka"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "dan Syaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "dari gua itu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:57:25.648706097Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Ingatlah hal ini: musuh menista Yahweh, dan bangsa yang bebal menghina nama-Mu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "menista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan bangsa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "yang bebal"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "menghina"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:12.221035482Z",
+  "model": "glm-5.2"
+}

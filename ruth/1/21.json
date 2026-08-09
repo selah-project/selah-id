@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 1:21",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Aku, ⟨yang⟩ penuh, telah pergi, dan Yahweh telah memulangkan aku kembali dengan kosong; mengapakah kamu memanggil aku Naomi, padahal Yahweh telah bersaksi terhadap aku, dan Shaddai telah mendatangkan keburukan kepadaku?",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "telah pergi"
+    },
+    {
+      "surface": "וריקם",
+      "gloss": "dan dengan kosong"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "telah memulangkan aku kembali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "kamu memanggil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "telah bersaksi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "dan Shaddai"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "telah mendatangkan keburukan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:38.676452333Z",
+  "model": "glm-5.2"
+}

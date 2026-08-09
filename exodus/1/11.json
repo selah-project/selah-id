@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu mereka menempatkan atasnya para-sarang upeti demi menyiksanya dengan beban-beban mereka, dan ⟨ia⟩ mendirikan kota-kota perbekalan bagi Paro: ⟨את⟩ Pitom dan ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dan mereka menempatkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para-sar"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "upeti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "meniksanya"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "dengan beban-beban mereka"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan ⟨ia⟩ mendirikan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "perbekalan"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "bagi Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:13.213105306Z",
+  "model": "glm-5.2"
+}

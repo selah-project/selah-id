@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Lalu Yisrael berjalan, dan ⟨ia⟩ memasang kemahnya melebihi ⟨tempat⟩ Migdal-Eder.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Lalu berjalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "dan memasang"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "kemahnya"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "melebihi"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "⟨tempat⟩ Migdal"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "-Eder"
+    }
+  ],
+  "timestamp": "2026-08-08T12:31:45.149003788Z",
+  "model": "glm-5.2"
+}

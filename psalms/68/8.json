@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Elohim, ketika ⟨Engkau⟩ keluh berjalan di depan umat-Mu, ketika ⟨Engkau⟩ melangkah melalui padang belantara, selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ketika Engkau keluar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "ketika Engkau melangkah"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "melalui padang belantara"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:53.772422027Z",
+  "model": "glm-5.2"
+}

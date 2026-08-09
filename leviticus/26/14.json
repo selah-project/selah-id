@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Tetapi jika kamu tidak mendengarkan kepada-Ku dan tidak melakukan ⟨את⟩ segala perintah ini —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamu mendengarkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perintah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:11.494033028Z",
+  "model": "glm-5.2"
+}

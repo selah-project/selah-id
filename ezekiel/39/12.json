@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Dan mereka menguburkan mereka, keluarga Yisra'el, supaya menyucikan ⟨את⟩ negeri itu — tujuh bulan.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "Dan mereka menguburkan mereka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "menyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:27:06.322991847Z",
+  "model": "glm-5.2"
+}

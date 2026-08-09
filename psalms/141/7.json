@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 141,
+  "translation": "Seperti membajak dan membelah di tanah, ⟨demikian⟩ terseraklah tulang-tulang kami di pintu Sheol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "membajak"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "dan membelah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "terseraklah"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "tulang-tulang kami"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:49.286487824Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "yang Engkau pelihara bagi hamba-Mu, Dawid, ayahku, ⟨את⟩ apa yang Engkau firmankan kepadanya; dan Engkau telah mengatakannya dengan mulut-Mu, dan dengan tangan-Mu Engkau telah menggenapkannya seperti hari ini.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "Engkau pelihara"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "bagi hamba-Mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang Engkau firmankan kepadanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Engkau firmankan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "dan Engkau telah mengatakannya"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "dengan mulut-Mu"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "dan dengan tangan-Mu"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "Engkau telah menggenapkannya"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hari ini"
+    }
+  ],
+  "timestamp": "2026-08-08T12:17:06.563677448Z",
+  "model": "glm-5.2"
+}

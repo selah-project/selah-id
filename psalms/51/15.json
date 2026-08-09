@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "⟨Maka⟩ aku akan mengajarkan jalan-jalan-Mu kepada pelanggar, dan orang-orang berdosa akan kembali kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "aku akan mengajarkan"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "pelanggar"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan-jalan-Mu"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "dan orang-orang berdosa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "akan kembali"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:51.503837256Z",
+  "model": "glm-5.2"
+}

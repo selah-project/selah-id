@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Sekarang pergilah dan pukullah ⟨את⟩ Amalek, dan kamu harus menumpas ⟨את⟩ segala yang ia miliki, dan janganlah kamu merasa sayang kepadanya, melainkan bunuhlah, dari laki-laki sampai perempuan, dari anak kecil sampai bayi yang menyusu, dari lembu sampai domba, dari unta sampai keledai.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sekarang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "dan pukullah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "dan kamu harus menumpas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ia miliki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "kamu merasa sayang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "melainkan bunuhlah"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari laki-laki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "dari anak kecil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "bayi yang menyusu"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dari lembu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "dari unta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keledai"
+    }
+  ],
+  "timestamp": "2026-08-08T10:56:26.289263229Z",
+  "model": "glm-5.2"
+}

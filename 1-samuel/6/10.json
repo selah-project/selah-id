@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Maka orang-orang itu berbuat demikian, dan mereka mengambil dua lembu yang menyusui, lalu mereka mengikatnya pada kereta, dan ⟨את⟩ anak-anaknya mereka kurung di dalam rumah.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Maka berbuat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dan mereka mengambil"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "yang menyusui"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "lalu mereka mengikatnya"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "pada kereta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mereka kurung"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di dalam rumah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:05.219409296Z",
+  "model": "glm-5.2"
+}

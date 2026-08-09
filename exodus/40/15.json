@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan engkau akan mengurap ⟨את⟩ mereka seperti yang engkau urap ⟨את⟩ ayah mereka, dan mereka akan menjadi imam bagi-Ku, dan akan terjadilah bagi mereka pengurapan mereka untuk imamat ⟨yang⟩ kekal bagi generasi mereka.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Dan engkau akan mengurap"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "engkau urap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayah mereka"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "dan mereka akan menjadi imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dan akan terjadilah"
+    },
+    {
+      "surface": "להית",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "pengurapan mereka"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "untuk imamat"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨yang⟩ kekal"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "bagi generasi mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:17.997714618Z",
+  "model": "glm-5.2"
+}

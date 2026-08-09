@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan mendengarlah David, lalu ia menyuruh ⟨את⟩ Yoav dan ⟨את⟩ seluruh pasukan ⟨yang⟩ pahlawan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dan mendengarlah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lalu ia menyuruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh pasukan pahlawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "pahlawan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:21.550086937Z",
+  "model": "glm-5.2"
+}

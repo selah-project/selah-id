@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Janganlah kamu berbuat demikian bagi Yahweh, Elohimmu:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kamu berbuat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:56.132040767Z",
+  "model": "glm-5.2"
+}

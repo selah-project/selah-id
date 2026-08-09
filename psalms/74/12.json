@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Namun Elohim ⟨adalah⟩ rajaku dari purba, ⟨yang⟩ melakukan keselamatan di tengah bumi.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Namun Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajaku"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dari purba"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:21.817620549Z",
+  "model": "glm-5.2"
+}

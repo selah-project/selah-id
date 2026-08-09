@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Dan ⟨mereka⟩ berkata, “Tidak akan melihat, Yah, dan tidak akan mengerti, Elohim ⟨dari⟩ Yaakob.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akan melihat"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "akan mengerti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:06.061451397Z",
+  "model": "glm-5.2"
+}

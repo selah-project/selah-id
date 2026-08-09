@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 38:32",
+  "book": "job",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Dapatkah engkau mengeluarkan ⟨את⟩ Mazarot pada waktunya, dan ⟨את⟩ Ayish atas anak-anaknya engkau membimbing?",
+  "tokens": [
+    {
+      "surface": "התציא",
+      "gloss": "Dapatkah engkau mengeluarkan"
+    },
+    {
+      "surface": "מזרות",
+      "gloss": "Mazarot",
+      "marks": "Mazarot"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "pada waktunya"
+    },
+    {
+      "surface": "ועיש",
+      "gloss": "dan Ayish"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak-anaknya",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "engkau membimbing"
+    }
+  ],
+  "timestamp": "2026-08-08T09:45:09.295963277Z",
+  "model": "glm-5.2"
+}

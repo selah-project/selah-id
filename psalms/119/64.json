@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Bumi, ya Yahweh, penuh hesed-Mu; hukum-hukum-Mu ajarku!",
+  "tokens": [
+    {
+      "surface": "חַסְדְּךָ֣",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "מָלְאָ֥ה",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "הָאָ֗רֶץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "חֻקֶּ֥יךָ",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "לַמְּדֵֽנִי",
+      "gloss": "ajarku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:55.967011622Z",
+  "model": "glm-5.2"
+}

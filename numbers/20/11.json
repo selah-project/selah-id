@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu Musa mengangkat ⟨את⟩ tangannya dan memukul ⟨את⟩ batu karang itu dengan tongkatnya dua kali; maka keluarlah air yang banyak, dan jemaah itu beserta ternaknya minum.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Lalu mengangkat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu karang itu"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "batu karang itu"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "dengan tongkatnya"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dua kali"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "dan minum"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah itu"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "beserta ternaknya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:19:59.472704855Z",
+  "model": "glm-5.2"
+}

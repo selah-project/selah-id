@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ⟨ia⟩ akan menguliti ⟨את⟩ korban bakaran itu, dan memotong-potong ⟨את⟩-nya menurut potongannya.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "dan ia akan menguliti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran itu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "dan memotong-potong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "menurut potongannya"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "menurut potongannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:33.809488726Z",
+  "model": "glm-5.2"
+}

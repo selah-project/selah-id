@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Hanya, jika ⟨ia⟩ berdiri satu hari atau dua hari, tidak ⟨ia⟩ akan dituntut balas, sebab uangnya ⟨ialah⟩ dia.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יום",
+      "gloss": "satu hari"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "dua hari"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨ia⟩ berdiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "⟨ia⟩ akan dituntut balas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "uangnya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ialah⟩ dia"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:52.918798355Z",
+  "model": "glm-5.2"
+}

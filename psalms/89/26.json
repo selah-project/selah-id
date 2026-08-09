@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Dan ⟨aku⟩ akan menempatkan tangannya di laut, dan tangan kanannya di sungai-sungai.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Dan aku akan menempatkan"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "dan di sungai-sungai"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tangan kanannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:59.521574003Z",
+  "model": "glm-5.2"
+}

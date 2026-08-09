@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 129,
+  "translation": "Nyanyian naikan. Sangat banyak mereka telah menyesakkanku sejak masa mudaku — biarlah berkata, baiklah, Yisra'el:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naikan"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "sangat banyak"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "mereka telah menyesakkanku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sejak masa mudaku"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "biarlah berkata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "baiklah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:51.841548373Z",
+  "model": "glm-5.2"
+}

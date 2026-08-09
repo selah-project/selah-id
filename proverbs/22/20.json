@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Bukankah aku telah menuliskan kepadamu ⟨sudah⟩ tiga kali, dengan nasihat dan pengetahuan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "aku telah menuliskan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "tiga kali"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "dengan nasihat"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "dan pengetahuan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:46.965250783Z",
+  "model": "glm-5.2"
+}

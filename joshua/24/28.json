@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Lalu Yehosua menyurutkan ⟨את⟩ umat, masing-masing ke warisannya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu menyurutkan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ke warisannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:41.274439788Z",
+  "model": "glm-5.2"
+}

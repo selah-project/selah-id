@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan bani Yisrael akan berkemah, masing-masing di kemahnya, dan masing-masing di bawah panjinya, menurut pasukan mereka.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "Dan akan berkemah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kemahnya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan masing-masing"
+    },
+    {
+      "surface": "על",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "panjinya"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "menurut pasukan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:44.436703393Z",
+  "model": "glm-5.2"
+}

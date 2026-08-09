@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan mereka harus menyatakan dan berkata, 'Tangan kami tidak menumpahkan ⟨את⟩ darah ini, dan mata kami tidak melihatnya.'",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "Dan mereka harus menyatakan"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Tangan kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "menumpahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah ini"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "dan mata kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "melihatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:28:53.350755561Z",
+  "model": "glm-5.2"
+}

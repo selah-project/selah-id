@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Siapa menutup telinganya terhadap jeritan ⟨orang⟩ lemah, juga ⟨dia⟩ sendiri akan berseru dan tidak akan dijawab.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "menutup"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "telinganya"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "terhadap jeritan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "orang lemah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia sendiri"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akan berseru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "akan dijawab"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:00.753622415Z",
+  "model": "glm-5.2"
+}

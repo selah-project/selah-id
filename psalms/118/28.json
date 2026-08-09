@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 118,
+  "translation": "Elohimku, Engkaulah ⟨dia⟩, dan aku bersyukur kepada-Mu; Elohimku, aku akan mengagungkan-Mu.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "dan aku bersyukur kepada-Mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "aku akan mengagungkan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:23.639436275Z",
+  "model": "glm-5.2"
+}

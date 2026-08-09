@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Lalu ⟨ia⟩ memberi teguran kepada laut Suf dan ⟨ia⟩ mengering, dan ⟨ia⟩ membuat mereka berjalan melalui samudera-samudera seperti melalui padang gurun.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "dan ia memberi teguran"
+    },
+    {
+      "surface": "בים",
+      "gloss": "kepada laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "dan ia mengering"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "dan ia membuat mereka berjalan"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "melalui samudera-samudera"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "seperti padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:52.589315856Z",
+  "model": "glm-5.2"
+}

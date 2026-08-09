@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Bukalah mataku, dan aku akan memandang ⟨hal-hal⟩ yang menakjubkan dari Torah-Mu.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Bukalah"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "dan aku akan memandang"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "⟨hal-hal⟩ yang menakjubkan"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "dari Torah-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:44.339285703Z",
+  "model": "glm-5.2"
+}

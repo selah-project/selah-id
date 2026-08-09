@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "dan kulit-domba yang dimerahkan-merah, dan kulit takhash, dan kayu shitim",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "dan kulit"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "domba-jantan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "yang dimerahkan-merah"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "dan kulit"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "dan kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:09.645068985Z",
+  "model": "glm-5.2"
+}

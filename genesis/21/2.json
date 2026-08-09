@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Maka Sarah mengandung dan melahirkan bagi Avraham seorang anak laki-laki pada hari tuanya, pada waktu yang telah ditentukan yang telah difirmankan ⟨את⟩-nya Elohim.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Maka mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "bagi Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak laki-laki"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "pada hari tuanya"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "pada waktu yang telah ditentukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:47:30.903389888Z",
+  "model": "glm-5.2"
+}

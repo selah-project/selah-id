@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Malam ⟨mereka jadikan⟩ ⟨sebagai⟩ siang; terang dekat, karena kegelapan.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨sebagai⟩ siang"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "⟨mereka jadikan⟩"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:58.282051870Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan Lavan mengumpulkan ⟨את⟩ semua orang tempat itu, dan dia membuat perjamuan.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Dan mengumpulkan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua orang tempat itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat itu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan dia membuat"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "perjamuan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:30:50.999054156Z",
+  "model": "glm-5.2"
+}

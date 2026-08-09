@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Shemuël mengambil ⟨את⟩ labu minyak itu dan menuangkannya ke atas kepalanya, dan menciumnya, dan berkata, “Bukankah karena Yahweh telah mengurap engkau atas warisan-Nya menjadi pemimpin?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu mengambil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labu minyak"
+    },
+    {
+      "surface": "פך",
+      "gloss": "labu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "dan menuangkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "dan menciumnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "telah mengurap engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "warisan-Nya"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "menjadi pemimpin"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:22.289607491Z",
+  "model": "glm-5.2"
+}

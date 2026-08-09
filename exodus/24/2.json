@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "DanMosheh sendirilah yang akan mendekat kepada Yahweh, tetapi mereka tidak boleh mendekat, dan bangsa itu tidak boleh naik bersama dia.”",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "Dan akan mendekat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tetapi mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "boleh mendekat"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "dan bangsa itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "boleh naik"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama dia"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:26.930538763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Maka Ya'akov mencium Rachel, lalu mengangkat ⟨את⟩ suaranya dan menangis.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "maka mencium"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "lalu mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaranya"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "suaranya"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "dan menangis"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:40.243283602Z",
+  "model": "glm-5.2"
+}

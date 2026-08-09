@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Setiap serangga yang beterbangan yang berjalan dengan empat kaki — ⟨itu⟩ adalah sesuatu yang menjijikkan bagi kamu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "serangga"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "yang beterbangan"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sesuatu yang menjijikkan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:07.209432508Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Orang yang berakal budi menyembunyikan pengetahuan, tetapi hati orang-orang bodoh meneriakkan kebodohan.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "yang berakal budi"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "menyembunyikan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "tetapi hati"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "meneriakkan"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kebodohan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:57.428461755Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan Elohim berfirman kepada Avraham: “Sarai istrimu — janganlah kaupanggil ⟨את⟩ namanya Sarai, sebab Sarah ⟨adalah⟩ namanya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "istrimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kaupanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "namanya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:30:19.335424767Z",
+  "model": "glm-5.2"
+}

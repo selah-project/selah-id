@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Aku akan berkata kepada Eloah: Jangan engkau menyatakan aku bersalah! Beritahukanlah kepadaku atas apa engkau berperkara dengan aku.",
+  "tokens": [
+    {
+      "surface": "אֹמַ֣ר",
+      "gloss": "aku akan berkata"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אֱ֭לוֹהַּ",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תַּרְשִׁיעֵ֑נִי",
+      "gloss": "engkau menyatakan aku bersalah"
+    },
+    {
+      "surface": "הֽ֝וֹדִיעֵ֗נִי",
+      "gloss": "beritahukanlah kepadaku"
+    },
+    {
+      "surface": "עַ֣ל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מַ֣ה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תְּרִיבֵֽנִי",
+      "gloss": "engkau berperkara dengan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:52:16.931083587Z",
+  "model": "glm-5.2"
+}

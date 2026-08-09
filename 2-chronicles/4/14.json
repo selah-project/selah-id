@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "dan ⟨את⟩ panggulan itu dibuatnya, dan ⟨את⟩ bejana itu dibuatnya di atas panggulan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "panggulan"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "panggulan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bejana"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "bejana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "panggulan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:04:29.872470708Z",
+  "model": "glm-5.2"
+}

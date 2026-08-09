@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "dan ⟨harus⟩ melihatnya ha-kohen, dan lihat, telah berubah ha-nega menjadi putih, maka ⟨harus⟩ menyatakan tahir ha-kohen ⟨את⟩ ha-nega; tahir dia.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "dan ⟨harus⟩ melihatnya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "telah berubah"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ha-nega"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "menjadi putih"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "maka ⟨harus⟩ menyatakan tahir"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-nega"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ha-nega"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tahir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T10:35:10.206993317Z",
+  "model": "glm-5.2"
+}

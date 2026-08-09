@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Bangunlah rumah-rumah dan diamlah, dan tanamlah kebun-kebun dan makanlah ⟨את⟩ buahnya.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dan diamlah"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "dan tanamlah"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "kebun-kebun"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "dan makanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buahnya"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "buahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:18:08.012070429Z",
+  "model": "glm-5.2"
+}

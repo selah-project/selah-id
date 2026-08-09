@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Apakah ⟨seluruh⟩ hari ⟨si⟩ pembajak membajak untuk menabur? ⟨Apakah ia⟩ membuka dan menyirat tanahnya?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "⟨seluruh⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "membajak"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "⟨si⟩ pembajak"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "untuk menabur"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "⟨Apakah ia⟩ membuka"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "dan menyirat"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tanahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:42.139379145Z",
+  "model": "glm-5.2"
+}

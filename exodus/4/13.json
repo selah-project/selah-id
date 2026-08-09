@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu ⟨ia⟩ berkata, “Ah, Adonai, utalah kiranya dengan perantaraan tangan ⟨orang⟩ yang ⟨Engkau⟩ kirimkan.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "utalah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan perantaraan tangan"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "⟨orang⟩ yang ⟨Engkau⟩ kirimkan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:02.573798746Z",
+  "model": "glm-5.2"
+}

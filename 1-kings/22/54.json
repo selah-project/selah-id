@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan ⟨ia⟩ beribadah kepada ⟨את⟩ Ha-Ba'al, dan ⟨ia⟩ sujud menyembah kepadanya, dan ⟨ia⟩ membuat murkah ⟨את⟩ Yahweh, Elohim Yisra'el, sesuai segala yang diperbuat ayahnya.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "dan ia beribadah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ha-Ba'al"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ha-Ba'al"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "dan ia sujud menyembah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "dan ia membuat murkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sesuai segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "diperbuat"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:07:55.929830736Z",
+  "model": "glm-5.2"
+}

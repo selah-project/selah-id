@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "book": "nehemiah",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan juga aku, saudara-saudaraku, dan pelayan-pelayanku, meminjamkan kepada mereka uang dan gandum. Mari kita tinggalkan, saya minta, ⟨את⟩ beban ini.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudaraku"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "dan pelayan-pelayanku"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "meminjamkan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "uang"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "dan gandum"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "mari kita tinggalkan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "saya minta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beban"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "beban"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T09:59:41.947812935Z",
+  "model": "glm-5.2"
+}

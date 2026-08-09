@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Elohim memberikan ⟨את⟩ Daniyyel untuk hesed dan untuk rahmat di hadapan ⟨sa-r⟩ sangarisim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan memberikan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniyyel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyyel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "untuk hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "dan untuk rahmat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "⟨sa-r⟩"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sangarisim"
+    }
+  ],
+  "timestamp": "2026-08-08T11:58:15.714314625Z",
+  "model": "glm-5.2"
+}

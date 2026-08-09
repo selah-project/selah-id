@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Semut-semut ⟨adalah⟩ umat yang tidak kuat, namun mereka menyediakan pada musim panas makanan mereka,",
+  "tokens": [
+    {
+      "surface": "הַ֭נְּמָלִים",
+      "gloss": "semut-semut"
+    },
+    {
+      "surface": "עַ֣ם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עָ֑ז",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "וַיָּכִ֖ינוּ",
+      "gloss": "namun mereka menyediakan"
+    },
+    {
+      "surface": "בַּקַּ֣יִץ",
+      "gloss": "pada musim panas"
+    },
+    {
+      "surface": "לַחְמָֽם",
+      "gloss": "makanan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:56.712521610Z",
+  "model": "glm-5.2"
+}

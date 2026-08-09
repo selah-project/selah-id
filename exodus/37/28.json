@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan ⟨ia⟩ membuat ⟨את⟩ batang-batang itu dari kayu shittim, dan ⟨ia⟩ melapisinya ⟨את⟩ emas.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang-batang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "batang-batang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan melapisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-08T07:05:11.680389748Z",
+  "model": "glm-5.2"
+}

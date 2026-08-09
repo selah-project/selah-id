@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu Musheh mencatat ⟨את⟩ mereka atas perintah Yahweh, sesuai seperti yang diperintahkan.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Lalu mencatat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musheh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sesuai seperti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yang diperintahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T23:15:13.928286815Z",
+  "model": "glm-5.2"
+}

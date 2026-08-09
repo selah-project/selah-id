@@ -1,0 +1,95 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "joshua 11:12",
+ "book": "joshua",
+ "lang": "id",
+ "chapter": 11,
+ "translation": "Dan ⟨את⟩ segala kota-kota raja-raja ini serta ⟨את⟩ segala raja-raja mereka, Yehoshua menangkap, dan ia memukul mereka dengan mata pedang; ia menumpas mereka, sebagaimana Musa hamba Yahweh telah memerintahkan.",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "⟨את⟩",
+   "marks": "segala kota-kota raja-raja ini"
+  },
+  {
+   "surface": "כל",
+   "gloss": "segala"
+  },
+  {
+   "surface": "ערי",
+   "gloss": "kota-kota"
+  },
+  {
+   "surface": "המלכים",
+   "gloss": "raja-raja"
+  },
+  {
+   "surface": "האלה",
+   "gloss": "ini"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "serta ⟨את⟩",
+   "marks": "segala raja-raja mereka"
+  },
+  {
+   "surface": "כל",
+   "gloss": "segala"
+  },
+  {
+   "surface": "מלכיהם",
+   "gloss": "raja-raja mereka"
+  },
+  {
+   "surface": "לכד",
+   "gloss": "menangkap"
+  },
+  {
+   "surface": "יהושע",
+   "gloss": "Yehoshua"
+  },
+  {
+   "surface": "ויכם",
+   "gloss": "dan ia memukul mereka"
+  },
+  {
+   "surface": "לפי",
+   "gloss": "dengan mata"
+  },
+  {
+   "surface": "חרב",
+   "gloss": "pedang"
+  },
+  {
+   "surface": "החרים",
+   "gloss": "ia menumpas"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "sebagaimana"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "telah memerintahkan"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Musa"
+  },
+  {
+   "surface": "עבד",
+   "gloss": "hamba"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweh"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:15.737635255Z",
+ "model": "glm-5.2"
+}

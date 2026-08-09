@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 18:29",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Sebab Engkau menerangi pelitaku; Yahweh, Elohaimku, menerangi kegelapanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "menerangi"
+    },
+    {
+      "surface": "נרי",
+      "gloss": "pelitaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohaimku"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "menerangi"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "kegelapanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:47.648603562Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan dari suku Binjamin ⟨את⟩ Gibon dan ⟨את⟩ padang penggembalaannya, ⟨את⟩ Geba dan ⟨את⟩ padang penggembalaannya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Dan dari suku"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang penggembalaannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang penggembalaannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:37:25.382682257Z",
+  "model": "glm-5.2"
+}

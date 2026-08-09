@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Kegeruhan ⟨berada⟩ di tengah-tengahnya, dan penindasan serta tipu daya tidak beranjak dari lapangannya.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "kegeruhan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "beranjak"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "dari lapangannya"
+    },
+    {
+      "surface": "תך",
+      "gloss": "penindasan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "serta tipu daya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:12.417002991Z",
+  "model": "glm-5.2"
+}

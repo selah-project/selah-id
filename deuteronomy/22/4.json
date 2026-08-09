@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Janganlah engkau melihat ⟨את⟩ keledai saudaramu atau lembunya yang terjatuh di jalan, dan berpura-pura tidak tahu terhadapnya; engkau harus sungguh-sungguh menegakkannya bersamanya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keledai"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keledai"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "lembunya"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "yang terjatuh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "dan berpura-pura tidak tahu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "sungguh-sungguh"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "engkau menegakkannya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:29:27.587055512Z",
+  "model": "glm-5.2"
+}

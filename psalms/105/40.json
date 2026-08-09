@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "⟨Mereka⟩ meminta, dan ⟨Ia⟩ membawa burung puyuh, dan roti langit menyatisfaksi mereka.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "meminta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "burung puyuh"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dan roti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "menyatisfaksi mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:39.529183306Z",
+  "model": "glm-5.2"
+}

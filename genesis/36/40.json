@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan inilah nama-nama kepala-kepala Esav menurut kaum-kaum mereka, menurut tempat-tempat mereka, dengan nama-nama mereka: kepala Timna, kepala Alva, kepala Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut kaum-kaum mereka"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "menurut tempat-tempat mereka"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "dengan nama-nama mereka"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:28.516556131Z",
+  "model": "glm-5.2"
+}

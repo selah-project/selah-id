@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan Aḥaz mengambil ⟨את⟩ perak dan ⟨את⟩ emas yang terdapat di bait Yahweh dan di perbendaharaan bait raja, dan mengirimnya kepada raja Asyur ⟨sebagai⟩ suap.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dan mengambil"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Aḥaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yang terdapat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "dan di perbendaharaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan mengirim"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suap"
+    }
+  ],
+  "timestamp": "2026-08-08T08:13:13.194785198Z",
+  "model": "glm-5.2"
+}

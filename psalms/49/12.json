@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Batin mereka: rumah-rumah mereka untuk selamanya, kediaman mereka dari generasi ke generasi; mereka menyebut tanah-tanah dengan nama-nama mereka sendiri.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "batin mereka"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "rumah-rumah mereka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "kediaman mereka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ke generasi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dan generasi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "mereka menyebut"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "dengan nama-nama mereka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "tanah-tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:21.925464975Z",
+  "model": "glm-5.2"
+}

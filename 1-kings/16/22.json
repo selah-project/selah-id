@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Lalu ⟨menjadi kuat⟩lah ⟨am⟩ yang di belakang Omri atas ⟨את⟩ ⟨am⟩ yang di belakang Tibni bin Ginat, maka matilah Tibni, dan Omri menjadi raja.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "lalu ⟨menjadi kuat⟩lah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨am⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "העם",
+      "gloss": "am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maka matilah"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan menjadi rajalah"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:17.593786758Z",
+  "model": "glm-5.2"
+}

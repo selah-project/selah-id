@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Engkau mengetahui dudukku dan bangkitku; Engkau memahami pikiranku dari jauh.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "dudukku"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "dan bangkitku"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "Engkau memahami"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "pikiranku"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "dari jauh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:42.142097869Z",
+  "model": "glm-5.2"
+}

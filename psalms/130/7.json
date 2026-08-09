@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 130,
+  "translation": "Berharaplah, hai Yisrael, kepada Yahweh; sebab bersama Yahweh ⟨ada⟩ hesed, dan berlimpah bersama-Dialah penebusan.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "berharaplah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "dan berlimpah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama-Dialah"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "penebusan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:03.661503311Z",
+  "model": "glm-5.2"
+}

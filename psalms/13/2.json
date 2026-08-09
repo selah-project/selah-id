@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Sampai kapan, Yahweh, Engkau melupakankan — selamanya? Sampai kapan Engkau menyembunyikan ⟨את⟩ wajah-Mu daripada-ku?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "Engkau melupakankan"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "selamanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Engkau menyembunyikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada-ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:44.063465479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Yahweh, selamatkanlah! Sang Raja pun menjawab kami pada hari kami berseru.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "selamatkanlah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sang Raja"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "Ia menjawab kami"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "kami berseru"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:37.074622708Z",
+  "model": "glm-5.2"
+}

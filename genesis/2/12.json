@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan emas negeri itu baik; di sana ⟨ada⟩ haBedolakh dan batu haShoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "haBedolakh"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "haShoham"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:18.594591420Z",
+  "model": "glm-5.2"
+}

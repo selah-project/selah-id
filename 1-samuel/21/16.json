@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Apakah aku kekurangan orang-orang gila, sehingga kalian telah membawa ⟨את⟩ yang ini untuk berbuat gila terhadapku? Apakah yang ini akan masuk ke rumahku?”",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Apakah kekurangan"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "orang-orang gila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "kalian telah membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang ini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang ini"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "berbuat gila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yang ini"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "akan masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumahku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:27.911427082Z",
+  "model": "glm-5.2"
+}

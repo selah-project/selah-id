@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "supaya mereka percaya bahwa telah menampakkan diri kepadamu Yahweh, Elohim ⟨את⟩ bapa leluhur mereka, Elohim Avraham, Elohim Yitskhak, dan Elohim Yaakob.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "mereka percaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "telah menampakkan diri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "⟨את⟩ bapa leluhur mereka",
+      "marks": "bapa leluhur mereka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:07.053907066Z",
+  "model": "glm-5.2"
+}

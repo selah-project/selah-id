@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "Kepada-Yang-memukul Mitsrayim dalam anak-anak sulung mereka, karena untuk selama-lamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Kepada-Yang-memukul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "dalam anak-anak sulung mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:15.875084655Z",
+  "model": "glm-5.2"
+}

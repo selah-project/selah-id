@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan musuhku Engkau berikan kepadaku ⟨oleh⟩ tengkuk, dan pembenci-pembenciku aku musnahkan.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Dan musuhku"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Engkau berikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "tengkuk"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "dan pembenci-pembenciku"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "aku musnahkan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:53.703343764Z",
+  "model": "glm-5.2"
+}

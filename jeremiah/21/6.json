@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan aku akan memukul ⟨את⟩ penduduk kota ini, dan ⟨את⟩ manusia dan ⟨את⟩ hewan, dengan penyakit yang besar; mereka akan mati.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "dan aku akan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduk kota ini"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hewan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hewan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dengan penyakit"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "mereka akan mati"
+    }
+  ],
+  "timestamp": "2026-08-08T08:34:56.543006347Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ketika Ely mendengar ⟨את⟩ suara teriakan itu, ia berkata, “Apakah ⟨arti⟩ suara keributan ini?” Dan orang itu cepat-cepat datang, lalu memberitakan kepada Ely.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dan ketika mendengar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "teriakan itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "keributan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "dan orang itu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "cepat-cepat"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitakan"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "kepada Ely"
+    }
+  ],
+  "timestamp": "2026-08-08T07:46:12.264661299Z",
+  "model": "glm-5.2"
+}

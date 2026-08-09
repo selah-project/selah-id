@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ⟨akan⟩ terjadi pada hari itu, bahwa aku akan mematahkan ⟨את⟩ busur Yisrael di lembah Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan terjadi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "dan aku akan mematahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "busur"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "di lembah"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-08T11:28:31.342334255Z",
+  "model": "glm-5.2"
+}

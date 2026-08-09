@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan Elohim berfirman ⟨את⟩ segala perkataan ini, dengan mengatakan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:21.478380873Z",
+  "model": "glm-5.2"
+}

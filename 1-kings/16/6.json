@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Maka Ba'asya beristirahat bersama bapa-bapanya dan ia dikuburkan di Tirtsa, maka Ela anaknya menjadi raja menggantikan dia.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "maka beristirahat"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Ba'asya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dan ia dikuburkan"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "di Tirtsa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "maka menjadi raja"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikan dia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:54.684369389Z",
+  "model": "glm-5.2"
+}

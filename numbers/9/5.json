@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan mereka membuat ⟨את⟩ Paskah di bulan pertama, pada hari keempat belas bulan itu, di antara dua senja, di padang gurun Sinai; sesuai dengan segala yang Yahweh perintahkan ⟨את⟩ Moshe, demikianlah anak-anak Yisrael lakukan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Dan mereka membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "di bulan pertama"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pada hari keempat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan itu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dua senja"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sesuai dengan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "perintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lakukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T10:40:43.973526643Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan manis ⟨adalah⟩ terang, dan baik bagi mata untuk melihat ⟨את⟩ matahari.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "dan manis"
+    },
+    {
+      "surface": "האור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "dan baik"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "bagi mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matahari"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:46.216896299Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Jika Aku lapar, tidak Aku katakan kepadamu; sebab Milik-Ku dunia dan kepenuhannya.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אֶרְעַב",
+      "gloss": "Aku lapar"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אֹמַר",
+      "gloss": "Aku katakan"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "Milik-Ku"
+    },
+    {
+      "surface": "תֵּבֵל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "וּמְלֹאָהּ",
+      "gloss": "dan kepenuhannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:14.771208303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Aku telah tersesat seperti domba yang hilang; carilah hamba-Mu, sebab perintah-perintah-Mu tidak kulupakan.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "Aku telah tersesat"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "seperti domba"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yang hilang"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-perintah-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kulupakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:01.470342128Z",
+  "model": "glm-5.2"
+}

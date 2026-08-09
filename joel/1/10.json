@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Telah dirusakkan ladang, berduka tanah, sebab telah dirusakkan gandum, telah mengering moster_new_wine, telah layu minyak.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "telah dirusakkan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "berduka"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "telah dirusakkan"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "telah mengering"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "moster (anggur baru)"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "telah layu"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "minyak (zaitun)"
+    }
+  ],
+  "timestamp": "2026-08-08T11:30:46.609873772Z",
+  "model": "glm-5.2"
+}

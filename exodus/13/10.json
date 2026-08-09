@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan engkau akan memelihara ⟨את⟩ ketetapan ini pada waktunya, dari hari ke hari.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Dan engkau akan memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "pada waktunya"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "dari hari"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ke hari"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:52.838902535Z",
+  "model": "glm-5.2"
+}

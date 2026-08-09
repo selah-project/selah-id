@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Kiranya perkataan mulutku dan renungan hatiku menjadi berkenan di hadapan-Mu, Yahweh, gunung batuku dan penebusku.",
+  "tokens": [
+    {
+      "surface": "יִֽהְי֥וּ",
+      "gloss": "kiranya ... menjadi"
+    },
+    {
+      "surface": "לְרָצ֨וֹן",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "אִמְרֵי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "פִ֡י",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "וְהֶגְי֣וֹן",
+      "gloss": "dan renungan"
+    },
+    {
+      "surface": "לִבִּ֣י",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "לְפָנֶ֑יךָ",
+      "gloss": "di hadapan-Mu"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צוּרִ֥י",
+      "gloss": "gunung batuku"
+    },
+    {
+      "surface": "וְגֹאֲלִֽי",
+      "gloss": "dan penebusku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:00.866331411Z",
+  "model": "glm-5.2"
+}

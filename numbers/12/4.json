@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan Yahweh berkata mendadak kepada Moshe, dan kepada Aharon, dan kepada Miryam, “Keluarlah kamu bertiga ke kemah pertemuan.” Maka keluarlah mereka bertiga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "mendadak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "kamu bertiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "mereka bertiga"
+    }
+  ],
+  "timestamp": "2026-08-08T07:17:20.533685967Z",
+  "model": "glm-5.2"
+}

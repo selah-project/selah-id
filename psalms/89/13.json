@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Utara dan selatan, Engkau menciptakan mereka; Tavor dan Khermon bersukacita karena namamu.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Utara"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "dan selatan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "menciptakan mereka"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "dan Khermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "karena namamu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bersukacita"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:46.160561507Z",
+  "model": "glm-5.2"
+}

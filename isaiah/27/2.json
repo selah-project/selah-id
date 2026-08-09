@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Pada hari itu: “Kebun anggur yang indah, bersyanyalah kepadanya!”",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebun anggur"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "yang indah"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "bersyanyalah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:44.666694228Z",
+  "model": "glm-5.2"
+}

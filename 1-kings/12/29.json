@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan ia menaruh ⟨את⟩ yang satu di Beit-El, dan ⟨את⟩ yang satu ia taruh di Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Dan ia menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang satu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beit-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "yang satu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ia taruh"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "di Dan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:07.909229051Z",
+  "model": "glm-5.2"
+}

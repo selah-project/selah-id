@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Puji-pujian bagi Daud: aku akan mengagungkan Engkau, Elohimku, sang raja, dan aku akan memberkati nama-Mu untuk selama-lamanya dan selamanya.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Daud"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "aku akan mengagungkan Engkau"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "dan aku akan memberkati"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:29.364578585Z",
+  "model": "glm-5.2"
+}

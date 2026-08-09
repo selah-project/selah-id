@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 32:16",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "⟨Ini⟩ ratapan ⟨itulah⟩, dan mereka meratapinya; anak-anak perempuan bangsa-bangsa, merekalah yang meratapinya; atas Mitsrayim dan atas seluruh kerumunannya mereka meratapinya — demikianlah ucapan Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "קינה",
+      "gloss": "ratapan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨itulah⟩"
+    },
+    {
+      "surface": "וקוננוה",
+      "gloss": "dan mereka meratapinya"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "תקוננה",
+      "gloss": "merekalah yang meratapi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ratapan (objek pertama)"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "kerumunannya"
+    },
+    {
+      "surface": "תקוננה",
+      "gloss": "mereka meratapi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim (objek kedua)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T18:37:30.026224435Z",
+  "model": "glm-5.2"
+}

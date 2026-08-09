@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan setiap nefesh yang memakan bangkai atau yang terkoyak, baik orang asli maupun ha-ger, harus mencuci pakaiannya dan membasuh diri dengan air, dan ia tetap najis sampai petang, lalu menjadi tahir.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan setiap"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bangkai"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "atau yang terkoyak"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "baik orang asli"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "maupun ha-ger"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "harus mencuci"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan membasuh diri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan ia tetap najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "lalu menjadi tahir"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:17.939322721Z",
+  "model": "glm-5.2"
+}

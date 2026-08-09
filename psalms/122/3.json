@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 122,
+  "translation": "Yerushalayim ⟨yang⟩ dibangun, seperti kota yang dihubungkan-padukan bersama-sama:",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "⟨yang⟩ dibangun"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "seperti kota"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "yang dihubungkan-padukan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:28.862351338Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ⟨ia⟩ membimbing mereka dengan aman, dan tidak takut, dan ⟨את⟩ musuh mereka laut menutupi.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "dan membimbing"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dengan aman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "takut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "musuh mereka"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "musuh mereka"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "menutupi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:23.389700594Z",
+  "model": "glm-5.2"
+}

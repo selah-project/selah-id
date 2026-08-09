@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 95,
+  "translation": "Datanglah, marilah kita sujud dan marilah kita berlutut, marilah kita berkat di hadapan Yahweh yang membuat kita.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Datanglah"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "marilah kita sujud"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "dan marilah kita berlutut"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "marilah kita berkat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "yang membuat kita"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:26.025669308Z",
+  "model": "glm-5.2"
+}

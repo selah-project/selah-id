@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan anak-anak Ezrah: Yeter dan Mered dan Efer dan Yalon; dan ⟨ia⟩ melahirkan ⟨את⟩ Miryam dan ⟨את⟩ Syamay dan ⟨את⟩ Yisbach, ayah Esytmoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "dan Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "dan Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "dan Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Syamay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Syamay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yisbach"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yisbach"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esytmoa"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:16.310996662Z",
+  "model": "glm-5.2"
+}

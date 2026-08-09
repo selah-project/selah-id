@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Lalu Yisra'el masuk ke Mitsrayim, dan Ya'akov tinggal sebagai orang asing di negeri Kham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu ... masuk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "dan Ya'akov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "tinggal sebagai orang asing"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:46.055677409Z",
+  "model": "glm-5.2"
+}

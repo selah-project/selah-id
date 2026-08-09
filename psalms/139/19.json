@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Andaikata Engkau membunuh, ya Eloah, si fasik — maka orang-orang berdarah, berpisahlah dari padaku!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Andaikata"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "Engkau membunuh"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ya Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "si fasik"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "maka orang-orang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "berdarah"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "berpisahlah"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari padaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:18.267141781Z",
+  "model": "glm-5.2"
+}

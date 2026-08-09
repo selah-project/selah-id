@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan Yahweh pergi ketika ⟨Ia⟩ selesai berbicara kepada Avraham, dan Avraham kembali ke tempatnya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Dan pergi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "selesai"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "dan Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ke tempatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:54.477539274Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Tetapi sesudah itu Aku akan mengembalikan ⟨את⟩ keadaan tawanan bani Ammon, demikianlah ucapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Tetapi sesudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Aku akan mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan tawanan"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "keadaan tawanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "demikianlah ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:42:51.325779391Z",
+  "model": "glm-5.2"
+}

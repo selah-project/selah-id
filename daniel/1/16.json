@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka pengawas itu mengangkat ⟨את⟩ hidangan lezat mereka dan anggur minuman mereka, dan memberikan kepada mereka biji-bijian.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "pengawas itu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hidangan lezat mereka"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "hidangan lezat mereka"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "minuman mereka"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "biji-bijian"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:53.171010884Z",
+  "model": "glm-5.2"
+}

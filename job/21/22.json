@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 21:22",
+  "book": "job",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Apakah ⟨seseorang⟩ akan mengajari ⟨את⟩ pengetahuan kepada El, padahal ⟨dialah⟩ yang menghakimi ⟨yang⟩-tinggi?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Apakah kepada El"
+    },
+    {
+      "surface": "ילמד",
+      "gloss": "akan mengajari"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan",
+      "marks": "pengetahuan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "padahal dia"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "yang tinggi"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "menghakimi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:53:12.013655106Z",
+  "model": "glm-5.2"
+}

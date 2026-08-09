@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "“Dan Aku telah berfirman kepadamu: Suruhlah pergi ⟨את⟩ anak-Ku supaya ia menyembah Aku, dan engkau menolak untuk melepaskannya — lihatlah, Aku membunuh ⟨את⟩ anakmu, anak sulungmu.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dan Aku telah berfirman"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Suruhlah pergi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-Ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-Ku"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "supaya ia menyembah Aku"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "dan engkau menolak"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "untuk melepaskannya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakmu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "anak sulungmu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:37.165439984Z",
+  "model": "glm-5.2"
+}

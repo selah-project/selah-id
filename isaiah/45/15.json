@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Sungguh, Engkau ⟨⟨adalah⟩⟩ El yang bersembunyi, Elohim Yisra'el, yang menyelamatkan.",
+  "tokens": [
+    {
+      "surface": "אָכֵן",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מִסְתַּתֵּר",
+      "gloss": "yang bersembunyi"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מוֹשִׁיעַ",
+      "gloss": "yang menyelamatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:13:54.489051672Z",
+  "model": "glm-5.2"
+}

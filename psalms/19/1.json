@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Untuk dirigen, mizmor bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk dirigen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:18.216534764Z",
+  "model": "glm-5.2"
+}

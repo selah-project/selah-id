@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan berserulah bangsa itu kepada Mosheh, dan berdoalah Mosheh kepada Yahweh, dan redalah api itu.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Dan berserulah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "dan berdoalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "dan redalah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:50.582642228Z",
+  "model": "glm-5.2"
+}

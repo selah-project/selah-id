@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "⟨Ia⟩ berpaling kepada doa ⟨orang yang⟩ telanjang-tanpa-pohon, dan tidak menghina ⟨את⟩ doa mereka.",
+  "tokens": [
+    {
+      "surface": "פָּ֭נָה",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "תְפִלַּ֣ת",
+      "gloss": "doa"
+    },
+    {
+      "surface": "הָעַרְעָ֑ר",
+      "gloss": "⟨orang yang⟩ telanjang-tanpa-pohon"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "בָ֖זָה",
+      "gloss": "menghina"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "doa mereka"
+    },
+    {
+      "surface": "תְּפִלָּתָֽם",
+      "gloss": "doa mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:46.701914944Z",
+  "model": "glm-5.2"
+}

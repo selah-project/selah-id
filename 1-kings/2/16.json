@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan sekarang, satu permohonan aku minta daripadamu — jangan palingkan ⟨את⟩ wajahku.” Dan ⟨ia⟩ berkata kepadanya, “Berkatalah.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "permohonan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "minta"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "daripadamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "palingkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajahku"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Berkatalah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:01:15.317059896Z",
+  "model": "glm-5.2"
+}

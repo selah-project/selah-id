@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Untuk pemimpin musik, bagi bani Korach, mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk pemimpin musik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:57.145754818Z",
+  "model": "glm-5.2"
+}

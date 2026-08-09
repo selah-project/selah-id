@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Karena Engkau telah menyelamatkan kami dari para penyesak kami, dan para pembenci kami Engkau telah beri malu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "Engkau telah menyelamatkan kami"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "dari para penyesak kami"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "dan para pembenci kami"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "Engkau telah beri malu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:36.827111732Z",
+  "model": "glm-5.2"
+}

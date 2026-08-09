@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 118,
+  "translation": "Bukakanlah bagiaku pintu-pintu kebenaran, aku akan masuk melalui mereka, aku akan bersyukur kepada Yah.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "bukakanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiaku"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "aku akan masuk"
+    },
+    {
+      "surface": "בם",
+      "gloss": "melalui mereka"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "aku akan bersyukur"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:50.096649462Z",
+  "model": "glm-5.2"
+}

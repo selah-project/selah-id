@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Sebab ⟨את⟩ kuk beban-penderitaan-Nya dan ⟨את⟩ tongkat bahu-Nya, tongkat sang penindas atasnya — Engkau telah menghancurkan ⟨את⟩-nya seperti pada hari Midyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuk beban-penderitaan-Nya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuk"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "beban-penderitaan-Nya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tongkat bahu-Nya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "bahu-Nya"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "sang penindas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "Engkau telah menghancurkan"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti pada hari"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:13.186331043Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Lalu Shemuël bangkit dan naik dari ha-Gilgal ⟨ke⟩ Giv'at Binyamin, dan Shaul mendaftarkan ⟨את⟩ rakyat yang terbit bersama dia, kira-kira enam ratus orang.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Lalu bangkit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan naik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ha-Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "⟨ke⟩ Giv'at"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dan mendaftarkan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakyat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "yang terbit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama dia"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "kira-kira enam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    }
+  ],
+  "timestamp": "2026-08-08T12:43:44.290221359Z",
+  "model": "glm-5.2"
+}

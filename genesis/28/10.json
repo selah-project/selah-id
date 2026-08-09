@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Lalu keluarlah Yaakov dari Beer-Sheva, dan pergilah ke Kharan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lalu keluarlah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "dari"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer-Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergilah"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ke Kharan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:21:50.556306651Z",
+  "model": "glm-5.2"
+}

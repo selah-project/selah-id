@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan ia berkata kepada Yehuda untuk menanyakan ⟨את⟩ Yahweh, Elohim nenek moyang mereka, dan untuk melakukan Torah dan mitsvah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kepada Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "untuk menanyakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "nenek moyang mereka"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "dan untuk melakukan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "dan mitsvah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:13:28.978742188Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Bergegaslah untuk menolong aku, Adonai, keselamatanku.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "bergegaslah"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "untuk menolong aku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "keselamatanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:19.919104140Z",
+  "model": "glm-5.2"
+}

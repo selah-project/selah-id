@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 18:13",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan pada tahun keempat-belas ⟨bagi⟩ raja Chizqiyah, naiklah Sancheriv raja Ashshur melawan semua kota-kota Yehudah yang berkubu dan merebut ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "וּבְאַרְבַּע֩",
+      "gloss": "Dan pada empat"
+    },
+    {
+      "surface": "עֶשְׂרֵ֨ה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "שָׁנָ֜ה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "לַמֶּ֣לֶךְ",
+      "gloss": "bagi raja"
+    },
+    {
+      "surface": "חִזְקִיָּ֗ה",
+      "gloss": "Chizqiyah"
+    },
+    {
+      "surface": "עָלָ֞ה",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "סַנְחֵרִ֤יב",
+      "gloss": "Sancheriv"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אַשּׁוּר֙",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "עַ֣ל",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עָרֵ֧י",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "יְהוּדָ֛ה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הַבְּצֻר֖וֹת",
+      "gloss": "yang berkubu"
+    },
+    {
+      "surface": "וַֽיִּתְפְּשֵֽׂם",
+      "gloss": "dan merebet ⟨את⟩ mereka",
+      "marks": "mereka (semua kota-kota Yehudah yang berkubu)"
+    }
+  ],
+  "timestamp": "2026-08-08T12:50:37.877821127Z",
+  "model": "glm-5.2"
+}

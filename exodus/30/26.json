@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan engkau akan mengurapi dengannya ⟨את⟩ Kemah Pertemuan dan ⟨את⟩ Ar Perjanjian.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Dan engkau akan mengurapi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kemah Pertemuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Ar Perjanjian"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Perjanjian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:30.313376291Z",
+  "model": "glm-5.2"
+}

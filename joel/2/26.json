@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joel 2:26",
+  "book": "joel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan kamu akan makan, makan sampai kenyang, dan kamu akan memuji ⟨את⟩ nama Yahweh, Elohim kamu, yang berbuat perbuatan ajaib bersama kamu; dan umat-Ku tidak akan malu selamanya.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "dan kamu akan makan"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ושבוע",
+      "gloss": "sampai kenyang"
+    },
+    {
+      "surface": "והללתם",
+      "gloss": "dan kamu akan memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bersama kamu"
+    },
+    {
+      "surface": "להפליא",
+      "gloss": "perbuatan ajaib"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "akan malu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:58:25.541591227Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Dan memberkatilah Yaakob ⟨את⟩ Paroh, lalu keluarlah dari hadapan Paroh.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Dan memberkatilah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lalu keluarlah"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:28.018047359Z",
+  "model": "glm-5.2"
+}

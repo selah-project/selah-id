@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Hatiku beroleng di dalam diriku, dan kengerian maut telah jatuh ke atasku.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "beroleng"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diriku"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "dan kengerian"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:28.901382737Z",
+  "model": "glm-5.2"
+}

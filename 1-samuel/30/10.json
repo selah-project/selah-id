@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Lalu Dawid mengejar, dia dan empat ratus orang, dan dua ratus orang berdiri ⟨tinggal⟩, yang telah kelelahan dari menyeberangi ⟨את⟩ sungai HaBesor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "Lalu mengejar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dan empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "telah kelelahan"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "dari menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "HaBesor"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:16.553340393Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Maka terjadilah, ketika Zimri melihat bahwa kota itu telah direbut, ia masuk ke dalam benteng ⟨di⟩ rumah raja, dan ia membakar di atasnya ⟨את⟩ rumah raja dengan api, lalu mati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ketika melihat"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "telah direbut"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ia masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "dan ia membakar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah raja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:54.516996860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan ketika melihat pembawa senjatanya bahwa Shaúl mati, jatuhlah juga dia atas pedang itu dan mati.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan ketika melihat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "senjata-senjatanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan jatuhlah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang itu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan mati"
+    }
+  ],
+  "timestamp": "2026-08-08T10:05:53.325619799Z",
+  "model": "glm-5.2"
+}

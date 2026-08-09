@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Sebab perintah atas perintah, perintah atas perintah, garis atas garis, garis atas garis, sedikit di sini, sedikit di sana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "צו",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "atas perintah"
+    },
+    {
+      "surface": "צו",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "atas perintah"
+    },
+    {
+      "surface": "קו",
+      "gloss": "garis"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "atas garis"
+    },
+    {
+      "surface": "קו",
+      "gloss": "garis"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "atas garis"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-08-08T08:20:59.950481263Z",
+  "model": "glm-5.2"
+}

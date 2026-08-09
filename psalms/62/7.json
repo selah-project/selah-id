@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 62,
+  "translation": "Hanya, Dialah batuku dan keselamatanku, perlindunganku; tidak aku akan tergoyahkan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batuku"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "dan keselamatanku"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "perlindunganku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "aku akan tergoyahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:04.860734314Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan ⟨ada⟩ perisai kaki tembaga di atas kakinya, dan tombak tembaga di antara bahunya.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "dan perisai kaki"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kakinya"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "dan tombak"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "bahunya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:48:27.610522898Z",
+  "model": "glm-5.2"
+}

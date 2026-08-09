@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 63,
+  "translation": "Seperti lemak dan segemuk ⟨itulah⟩ ⟨yang⟩ memuaskan napasku, dan bibir sorak-sorai memuji mulutku.",
+  "tokens": [
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "חֵלֶב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "וָדֶשֶׁן",
+      "gloss": "dan gemuk"
+    },
+    {
+      "surface": "תִּשְׂבַּע",
+      "gloss": "memuaskan"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "וְשִׂפְתֵי",
+      "gloss": "dan bibir"
+    },
+    {
+      "surface": "רְנָנוֹת",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "יְהַלֶּל",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.504213274Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan Yahweh akan memukul ⟨את⟩ Mitsrayim, memukul dan menyembuhkan, dan mereka akan kembali sampai kepada Yahweh, dan ⟨ia⟩ akan berkenan terhadap mereka, dan menyembuhkan mereka.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "dan akan memukul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "dan menyembuhkan"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dan mereka akan kembali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "dan akan berkenan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "dan menyembuhkan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:20.577661367Z",
+  "model": "glm-5.2"
+}

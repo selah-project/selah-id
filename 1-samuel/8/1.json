@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan terjadilah, ketika Shemuël telah menua, ia menetapkan ⟨את⟩ anak-anaknya sebagai hakim-hakim bagi Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "telah menua"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ia menetapkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sebagai hakim-hakim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bagi Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:59.599109617Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "⟨Ia⟩ bersandar pada rumahnya, tetapi tidak ⟨dapat⟩ berdiri tegak; ia memegangnya erat, tetapi tidak bangun.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "bersandar"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "berdiri tegak"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "memegang erat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bangun"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:52.771956843Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan janganlah mereka masuk untuk melihat saat ⟨את⟩ tempat kudus itu ditelan, dan mereka mati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "mereka masuk"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "saat ditelan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat kudus itu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat kudus itu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "dan mereka mati"
+    }
+  ],
+  "timestamp": "2026-08-08T07:14:24.644123544Z",
+  "model": "glm-5.2"
+}

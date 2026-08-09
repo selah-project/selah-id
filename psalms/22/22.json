@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Selamatkanlah aku dari mulut singa, dan dari tanduk-tanduk banteng liar ⟨engkau⟩ telah menjawab aku.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "selamatkanlah aku"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "dari mulut"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "dan dari tanduk-tanduk"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "banteng liar"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "⟨engkau⟩ telah menjawab aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:33.052369487Z",
+  "model": "glm-5.2"
+}

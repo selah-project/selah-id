@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Kebinasaan merancang lidahmu, seperti pisur bercukur yang diasah, pembuat penipuan.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Kebinasaan"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "merancang"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lidahmu"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "seperti pisur bercukur"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "yang diasah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pembuat"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "penipuan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:31.096496440Z",
+  "model": "glm-5.2"
+}

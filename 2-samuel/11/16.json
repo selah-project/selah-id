@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka terjadilah, sementara Yoav mengawasi kota itu, bahwa ia menempatkan ⟨את⟩ Uria di tempat yang diketahuinya, bahwa di sana ⟨ada⟩ orang-orang yang pemberani.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "sementara mengawasi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan ia menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "diketahuinya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "yang pemberani"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:30.403422502Z",
+  "model": "glm-5.2"
+}

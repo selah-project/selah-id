@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Kebenaran ⟨dari⟩ orang yang baku membuat lurus jalannya, dan dalam kefasikannya orang fasik akan jatuh.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "Kebenaran"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "orang yang baku"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "membuat lurus"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "dan dalam kefasikannya"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "akan jatuh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:51.286461221Z",
+  "model": "glm-5.2"
+}

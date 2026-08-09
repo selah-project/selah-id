@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dari orang-orang inilah terpencar pulau-pulau bangsa-bangsa di tanah mereka, masing-masing menurut bahasanya, menurut marga-marga mereka, di bangsa-bangsa mereka.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "dari orang-orang ini"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "terpencar"
+    },
+    {
+      "surface": "איי",
+      "gloss": "pulau-pulau"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di tanah mereka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "menurut bahasanya"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut marga-marga mereka"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "di bangsa-bangsa mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:33.801134502Z",
+  "model": "glm-5.2"
+}

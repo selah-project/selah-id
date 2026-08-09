@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Achav menyuruh ⟨ke⟩ seluruh bani Yisra'el, dan mengumpulkan ⟨את⟩ para nabi ke gunung Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "maka disuruhlah"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ke seluruh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "dan dikumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-08T12:49:12.324910539Z",
+  "model": "glm-5.2"
+}

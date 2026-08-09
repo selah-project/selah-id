@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Angin utara mendatangkan hujan, dan wajah-wajah yang muram ⟨menyembunyikan⟩ lidah fitnah.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Angin"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "mendatangkan"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "dan wajah-wajah"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "yang muram"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "fitnah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:20.581020658Z",
+  "model": "glm-5.2"
+}

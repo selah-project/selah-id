@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Yahweh, pagi hari Engkau mendengar suaraku; pagi hari aku menyiapkan ⟨doa⟩ bagi-Mu, dan aku menantikan-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi hari"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Engkau mendengar"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi hari"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "aku menyiapkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨doa⟩ bagi-Mu"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "dan aku menantikan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:47.028753189Z",
+  "model": "glm-5.2"
+}

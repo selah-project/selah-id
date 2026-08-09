@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Tidak untuk selamanya ⟨dia⟩ berribut, dan tidak untuk seterusnya ⟨dia⟩ menyimpan murka.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "לָנֶ֥צַח",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "יָרִ֑יב",
+      "gloss": "berribut"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "untuk seterusnya"
+    },
+    {
+      "surface": "יִטּֽוֹר",
+      "gloss": "menyimpan murka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:05.984074191Z",
+  "model": "glm-5.2"
+}

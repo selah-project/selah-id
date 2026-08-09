@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 70,
+  "translation": "Biarlah mereka mendapat malu dan tersipu-sipu, ⟨mereka⟩ yang mencari nafshiku; biarlah mereka berbalik ke belakang dan mendapat kehinaan, ⟨mereka⟩ yang menginginkan kejahatanku.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "biarlah mereka mendapat malu"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "dan tersipu-sipu"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "yang mencari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafshiku"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "biarlah mereka berbalik"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "dan mendapat kehinaan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "yang menginginkan"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kejahatanku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:54.307841769Z",
+  "model": "glm-5.2"
+}

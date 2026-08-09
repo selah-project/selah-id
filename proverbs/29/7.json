@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Orang benar mengetahui hak orang lemah, tetapi orang fasik tidak memahami pengetahuan.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "דין",
+      "gloss": "hak"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "orang lemah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tetapi orang fasik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:53.450558984Z",
+  "model": "glm-5.2"
+}

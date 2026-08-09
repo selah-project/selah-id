@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Utuslah dari antara kamu satu orang, dan biarlah ia mengambil ⟨את⟩ saudaramu; tetapi kamu, terikatlah, dan biarlah diuji perkataanmu — ⟨apakah⟩ kebenaran ⟨bersama⟩ kamu; dan jika tidak, ⟨sebesar⟩ hidup Paroh, sungguh mata-mata kamu.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "utuslah"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "dari antara kamu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu orang"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan biarlah ia mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudaramu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dan kamu"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "terikatlah"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "dan biarlah diuji"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "perkataanmu"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨bersama⟩ kamu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:29.236479619Z",
+  "model": "glm-5.2"
+}

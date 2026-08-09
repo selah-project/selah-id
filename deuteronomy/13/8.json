@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "dari elohim bangsa-bangsa yang di sekitar kamu, yang dekat kepadamu atau yang jauh dari padamu, dari ujung bumi sampai ke ujung bumi —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "dari elohim"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "di sekitar kamu"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "yang dekat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "yang jauh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari padamu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dari ujung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:36.440159766Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Jiwa-nya bermalam dalam kebaikan, dan benih-nya akan mewarisi tanah.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "jiwa-nya"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dalam kebaikan"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "bermalam"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "dan benih-nya"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "akan mewarisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:53.216427385Z",
+  "model": "glm-5.2"
+}

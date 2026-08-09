@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Ya Elohim, dengan nama-Mu selamatkanlah aku, dan dengan keperkasaan-Mu hakilah aku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "dengan nama-Mu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "selamatkanlah aku"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "dan dengan keperkasaan-Mu"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "hakilah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:54.791640508Z",
+  "model": "glm-5.2"
+}

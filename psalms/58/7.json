@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 58,
+  "translation": "Ya Elohim, hancurkanlah gigi mereka di mulut mereka; gigi taring anak-anak singa, runtuhkanlah, ya Yahweh",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ya Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "hancurkanlah"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "gigi mereka"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "di mulut mereka"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "gigi taring"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "anak-anak singa"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "runtuhkanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:27.677840030Z",
+  "model": "glm-5.2"
+}

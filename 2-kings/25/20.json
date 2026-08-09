@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan Nevuzaradan, kepala para tabach, mengambil ⟨את⟩ mereka dan membawa ⟨את⟩ mereka kepada raja Bavel di Rivlah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para tabach"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "di Rivlah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:08:15.240317630Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 99,
+  "translation": "Biarlah mereka memuji nama-Mu yang besar dan dahsyat — kudus ⟨Ia⟩!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "biarlah mereka memuji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "dan dahsyat"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:45.306568636Z",
+  "model": "glm-5.2"
+}

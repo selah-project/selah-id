@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Jika engkau menindas ⟨את⟩ anak-anak perempuanku, dan jika engkau mengambil perempuan-perempuan lain atas anak-anak perempuanku — tidak ada orang bersama kita, lihat, Elohim ⟨adalah⟩ saksi antara aku dan engkau.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "engkau menindas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak perempuanku"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "anak-anak perempuanku"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau mengambil"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "perempuan-perempuan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "anak-anak perempuanku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bersama kita"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara aku"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "dan antara engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:33.917623592Z",
+  "model": "glm-5.2"
+}

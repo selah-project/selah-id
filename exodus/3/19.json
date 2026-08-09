@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "dan aku tahu bahwa raja Mitsrayim tidak akan membiarkan ⟨את⟩ kamu pergi, dan tidak dengan tangan yang kuat.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akan membiarkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "yang kuat"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:43.330652529Z",
+  "model": "glm-5.2"
+}

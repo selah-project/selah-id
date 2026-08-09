@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Tetapi Yahweh meneguhkan ⟨את⟩ hati Paroh, dan ⟨dia⟩ tidak melepas ⟨את⟩ bani Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dan meneguhkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "melepas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:40.031872029Z",
+  "model": "glm-5.2"
+}

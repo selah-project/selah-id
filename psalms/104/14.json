@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "⟨Yang⟩ menumbuhkan rumput untuk ternak, dan tumbuh-tumbuhan untuk pelayanan manusia, untuk mengeluarkan roti dari ⟨ dalam⟩ bumi —",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "menumbuhkan"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "untuk ternak"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "dan tumbuh-tumbuhan"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "untuk pelayanan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "untuk mengeluarkan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:46.153566739Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan sekarang, penduduk Yerushalayim dan orang Yehudah, hakmilah, nah, antara aku dan kebun anggurku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan orang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "hakmilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nah"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara aku"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "kebun anggurku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:07.357093483Z",
+  "model": "glm-5.2"
+}

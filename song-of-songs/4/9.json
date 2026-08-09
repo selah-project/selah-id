@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Engkau telah meluluhkan hatiku, saudariku, pengantinku; engkau telah meluluhkan hatiku dengan satu dari matamu, dengan satu kalung dari lehermu.",
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "engkau telah meluluhkan hatiku"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "saudariku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pengantinku"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "engkau telah meluluhkan hatiku"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "dengan satu"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "dari matamu"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "dengan satu"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "kalung"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "dari lehermu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:55:30.116218687Z",
+  "model": "glm-5.2"
+}

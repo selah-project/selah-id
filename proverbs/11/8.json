@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Orang benar ⟨telah⟩ dilepaskan dari kesesakan, dan orang fasik datang menggantikan dia.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "dari kesesakan"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "⟨telah⟩ dilepaskan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikan dia"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:20.161832264Z",
+  "model": "glm-5.2"
+}

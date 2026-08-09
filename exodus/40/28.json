@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ⟨ia⟩ memasang ⟨את⟩ tirai pintu ⟨untuk⟩ Mishkan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dan memasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirai pintu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "untuk Mishkan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:06.604051372Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "El akan mendengar dan menjawab mereka, dan ⟨ia⟩ yang bersemayam sejak qedem. Sela. Yang tidak ada perubahan bagi mereka, dan tidak takut akan Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "akan mendengar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "dan menjawab mereka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan yang bersemayam"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sejak qedem"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "perubahan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "takut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "akan Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:07.517001062Z",
+  "model": "glm-5.2"
+}

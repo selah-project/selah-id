@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "untuk memberi dia ketenangan dari hari-hari ⟨yang⟩ jahat, sampai digali lobang ⟨bagi⟩ orang fasik.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "untuk memberi ketenangan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "dari hari-hari"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "digali"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "bagi orang fasik"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lobang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:18.740535635Z",
+  "model": "glm-5.2"
+}

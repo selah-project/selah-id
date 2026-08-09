@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Dan mereka membuat atas ha-choshen rantai berjalin, kerajinan berpilin, emas murni.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲשׂ֧וּ",
+      "gloss": "Dan mereka membuat"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הַחֹ֛שֶׁן",
+      "gloss": "ha-choshen"
+    },
+    {
+      "surface": "שַׁרְשְׁרֹ֥ת",
+      "gloss": "rantai"
+    },
+    {
+      "surface": "גַּבְלֻ֖ת",
+      "gloss": "berjalin"
+    },
+    {
+      "surface": "מַעֲשֵׂ֣ה",
+      "gloss": "kerajinan"
+    },
+    {
+      "surface": "עֲבֹ֑ת",
+      "gloss": "berpilin"
+    },
+    {
+      "surface": "זָהָ֖ב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טָהֽוֹר",
+      "gloss": "murni"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:35.685985125Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 58,
+  "translation": "Seperti siput yang ⟨sedang⟩ mencair, demikianlah ⟨mereka⟩ berjalan ⟨menuju⟩ lenyap; kelahiran gugur dari seorang perempuan — tidak ⟨pernah⟩ memandang matahari.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "siput"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "mencair"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kelahiran gugur"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "dari seorang perempuan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "memandang"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:23.413241170Z",
+  "model": "glm-5.2"
+}

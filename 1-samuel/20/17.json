@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "1-samuel 20:17",
+ "book": "1-samuel",
+ "lang": "id",
+ "chapter": 20,
+ "translation": "Dan Yehonatan menambah untuk bersumpah ⟨את⟩ Dawid, karena kasih ⟨את⟩ ⟨kepada⟩nya — karena dengan kasih napasnya ia mengasihi dia.",
+ "tokens": [
+  {
+   "surface": "ויוסף",
+   "gloss": "dan menambah"
+  },
+  {
+   "surface": "יהונתן",
+   "gloss": "Yehonatan"
+  },
+  {
+   "surface": "להשביע",
+   "gloss": "untuk bersumpah"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Dawid"
+  },
+  {
+   "surface": "דוד",
+   "gloss": "Dawid"
+  },
+  {
+   "surface": "באהבתו",
+   "gloss": "karena kasihnya"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ ⟨kepada⟩nya"
+  },
+  {
+   "surface": "כי",
+   "gloss": "karena"
+  },
+  {
+   "surface": "אהבת",
+   "gloss": "dengan kasih"
+  },
+  {
+   "surface": "נפשו",
+   "gloss": "napasnya"
+  },
+  {
+   "surface": "אהבו",
+   "gloss": "ia mengasihi dia"
+  }
+ ],
+ "timestamp": "2026-08-09T01:41:00.795677933Z",
+ "model": "glm-5.2"
+}

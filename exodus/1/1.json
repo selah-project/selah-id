@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan inilah nama-nama bani Yisra'el, ⟨yang⟩ masuk ke Mitsrayim; ⟨את⟩ Ya'akov, seorang laki-laki dan rumah tangganya, masuk.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "yang masuk"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'akov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "dan rumah tangganya"
+    },
+    {
+      "surface": "באו",
+      "gloss": "masuk"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:49.381439995Z",
+  "model": "glm-5.2"
+}

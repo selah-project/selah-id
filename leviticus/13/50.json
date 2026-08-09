@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan sang kohen akan melihat ⟨את⟩ bintik itu, dan mengisolasi ⟨את⟩ bintik itu tujuh hari.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dan akan melihat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bintik itu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "bintik itu"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "dan mengisolasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bintik itu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "bintik itu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:03.098260120Z",
+  "model": "glm-5.2"
+}

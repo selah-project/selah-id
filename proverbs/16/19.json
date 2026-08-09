@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Lebih baik merendahkan roh bersama ⟨את⟩ orang-orang yang tertindas dari pada membagi ⟨את⟩ rampasan bersama orang-orang yang congkak.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "merendahkan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang tertindas"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "orang-orang yang tertindas"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "membagi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang congkak"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "orang-orang yang congkak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:14.824394379Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Penjaga perintah menjaga napasnya; penghina jalannya akan mati.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "penjaga"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "menjaga"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "napasnya"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "penghina"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akan mati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:01.227837288Z",
+  "model": "glm-5.2"
+}

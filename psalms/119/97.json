@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Betapa kukasihi torat-Mu! Sepanjang hari ia ⟨adalah⟩ renunganku.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kukasihi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "torat-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "renunganku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:36.341458526Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan mereka berkata, “Jika kami telah menemukan kasih karunia di mata-mu, biarlah diberikan ⟨את⟩ negeri ini kepada hamba-hambamu sebagai milik; janganlah engkau membuat kami melintasi ⟨את⟩ Yarden.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "kami telah menemukan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mata-mu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "biarlah diberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri ini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "kepada hamba-hambamu"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "sebagai milik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "engkau membuat kami melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-08T07:22:50.565222475Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Sebab mereka condong ke arah ⟩Engkau⟫ kejahatan, mereka merancang rencana ⟩yang⟫ tidak akan sanggup.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "mereka condong"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ke arah-Mu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "mereka merancang"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "rencana"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "akan sanggup"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:04.049332792Z",
+  "model": "glm-5.2"
+}

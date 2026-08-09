@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Sembunyikanlah wajah-Mu dari dosaku, dan segala pelanggaranku hapuskanlah.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "sembunyikanlah"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "dari dosaku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "pelanggaranku"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "hapuskanlah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:08.619807473Z",
+  "model": "glm-5.2"
+}

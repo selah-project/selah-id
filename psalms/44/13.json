@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Engkau menjual umat-Mu tanpa keuntungan, dan tidak bertambah kekayaan ⟨dari⟩ harga mereka.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Engkau menjual"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "bertambah"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "harga mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:26.812123008Z",
+  "model": "glm-5.2"
+}

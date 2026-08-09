@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka terjadilah seluruh bumi ⟨memiliki⟩ satu bibir dan perkataan-perkataan ⟨yang⟩ satu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "dan perkataan-perkataan"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:20.266796372Z",
+  "model": "glm-5.2"
+}

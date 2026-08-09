@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "dan ⟨את⟩ kedua ginjal, dan ⟨את⟩ lemak yang ada padanya, yang ada di atas pinggang, dan ⟨את⟩ cuping atas hati — bersama ginjal ia harus menyingkirkan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kedua ginjal"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "cuping"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "cuping"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hati"
+    },
+    {
+      "surface": "על",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ia harus menyingkirkan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:48.008144373Z",
+  "model": "glm-5.2"
+}

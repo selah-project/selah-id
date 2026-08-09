@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu pergilah Yehudah melawan Kenaani, yang diam di Khevron — dan nama Khevron dahulu ⟨adalah⟩ Qiryat-Arba — dan mereka memukul ⟨את⟩ Sheshai dan ⟨את⟩ Akhiman dan ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergilah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Khevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dahulu"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Akhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:41.330543783Z",
+  "model": "glm-5.2"
+}

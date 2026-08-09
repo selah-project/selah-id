@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu aku membuka ⟨את⟩ mulutku, dan ⟨ia⟩ memberi memakaniku ⟨את⟩ gulungan ini.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Lalu aku membuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulutku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "dan ia memberi memakaniku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulungan ini"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gulungan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T08:45:15.001989237Z",
+  "model": "glm-5.2"
+}

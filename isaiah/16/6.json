@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 16:6",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Kami telah mendengar ⟨tentang⟩ keangkuhan Moab — ⟨ia⟩ sangat sombong; kesombongannya dan keangkuhannya dan amarahnya — tidaklah demikian tipu-dayanya.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Kami telah mendengar"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "keangkuhan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "גא",
+      "gloss": "sombong"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "kesombongannya"
+    },
+    {
+      "surface": "וגאונו",
+      "gloss": "dan keangkuhannya"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "dan amarahnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tipu-dayanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:27.453582524Z",
+  "model": "glm-5.2"
+}

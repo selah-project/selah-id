@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Kurban dan korban sereal Engkau tidak berkenan; telinga Engkau pengukir bagi-ku; korban bakaran dan korban dosa Engkau tidak minta.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Kurban"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "dan korban sereal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Engkau berkenan"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Engkau pengukir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-ku"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "dan korban dosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "Engkau minta"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:34.490747395Z",
+  "model": "glm-5.2"
+}

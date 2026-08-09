@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dengarlah, ⟨hai⟩ yang jauh, apa yang telah kulakukan, dan ketahuilah, ⟨hai⟩ yang dekat, keperkasaanku.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "yang jauh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "telah kulakukan"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "dan ketahuilah"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "yang dekat"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "keperkasaanku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:22:26.168799350Z",
+  "model": "glm-5.2"
+}

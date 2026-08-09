@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Janganlah engkau membenci ⟨את⟩ saudarama dalam hatimu; tegorlah engkau menegor ⟨את⟩ sesamamu, dan janganlah engkau menanggung atasnya dosa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "engkau membenci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudarama"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudarama"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dalam hatimu"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "tegorlah"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "engkau menegor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesamamu"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "engkau menanggung"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:05.605445643Z",
+  "model": "glm-5.2"
+}

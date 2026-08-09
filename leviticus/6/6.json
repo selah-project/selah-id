@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Api ⟨harus⟩ menyala tetap di atas mezbah, tidak boleh padam.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tetap"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "⟨harus⟩ menyala"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "boleh padam"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:27.591625704Z",
+  "model": "glm-5.2"
+}

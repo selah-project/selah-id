@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 137,
+  "translation": "Pada sungai-sungai Bavel, di sana kami duduk, juga kami menangis, ketika kami mengingat ⟨את⟩ Tzion.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "kami duduk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "kami menangis"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "ketika kami mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:18.357292973Z",
+  "model": "glm-5.2"
+}

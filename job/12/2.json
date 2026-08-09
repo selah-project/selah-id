@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Sungguh, kamulah ⟨rakyat⟩ itu, dan bersama kamu ⟨akan⟩ mati hikmat!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "memang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "dan bersama kamu"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:22.347332444Z",
+  "model": "glm-5.2"
+}

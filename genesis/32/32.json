@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Lalu matahari terbit baginya saat ⟨ia⟩ melintasi Penu'el, dan ⟨ia⟩ pincang ⟨karena⟩ pinggangnya.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "Lalu terbit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saat"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨ia⟩ melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penu'el"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penu'el"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ⟨ia⟩"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "pincang"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨karena⟩"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "pinggangnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:34.463049886Z",
+  "model": "glm-5.2"
+}

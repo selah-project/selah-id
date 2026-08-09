@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Tetapi aku, aku telah penuh kuat — ⟨את⟩ ruakh Yahweh, dan keadilan, dan keperkasaan — untuk menyatakan kepada Ya'akov pelanggarannya, dan kepada Yisra'el dosanya.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "aku telah penuh"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan keadilan"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "dan keperkasaan"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "untuk menyatakan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kepada Ya'akov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "pelanggarannya"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "dan kepada Yisra'el"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dosanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:01.515446885Z",
+  "model": "glm-5.2"
+}

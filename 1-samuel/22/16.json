@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Lalu berkatalah raja: “Engkau pasti mati, Akhimelekh, engkau dan segenap rumah ayahmu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "engkau pasti mati"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segenap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:57:12.183711123Z",
+  "model": "glm-5.2"
+}

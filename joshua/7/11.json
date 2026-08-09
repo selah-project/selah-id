@@ -1,0 +1,94 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "joshua 7:11",
+ "book": "joshua",
+ "lang": "id",
+ "chapter": 7,
+ "translation": "Yisra'el telah berbuat dosa, dan juga mereka telah melanggar ⟨את⟩ perjanjian-Ku yang kuperintahkan ⟨את⟩ kepada mereka, dan juga mereka telah mengambil dari ⟨hal yang dikhususkan⟩, dan juga mencuri, dan juga berdusta, dan juga menaruhnya di antara barang-barang mereka.",
+ "tokens": [
+  {
+   "surface": "חָטָא",
+   "gloss": "telah berbuat dosa"
+  },
+  {
+   "surface": "יִשְׂרָאֵל",
+   "gloss": "Yisra'el"
+  },
+  {
+   "surface": "וְגַם",
+   "gloss": "dan juga"
+  },
+  {
+   "surface": "עָבְרוּ",
+   "gloss": "mereka telah melanggar"
+  },
+  {
+   "surface": "אֶת",
+   "gloss": "⟨את⟩",
+   "marks": "perjanjian-Ku"
+  },
+  {
+   "surface": "בְּרִיתִי",
+   "gloss": "perjanjian-Ku"
+  },
+  {
+   "surface": "אֲשֶׁר",
+   "gloss": "yang"
+  },
+  {
+   "surface": "צִוִּיתִי",
+   "gloss": "kuperintahkan"
+  },
+  {
+   "surface": "אוֹתָם",
+   "gloss": "⟨את⟩ kepada mereka"
+  },
+  {
+   "surface": "וְגַם",
+   "gloss": "dan juga"
+  },
+  {
+   "surface": "לָקְחוּ",
+   "gloss": "mereka telah mengambil"
+  },
+  {
+   "surface": "מִן",
+   "gloss": "dari"
+  },
+  {
+   "surface": "הַחֵרֶם",
+   "gloss": "hal yang dikhususkan"
+  },
+  {
+   "surface": "וְגַם",
+   "gloss": "dan juga"
+  },
+  {
+   "surface": "גָּנְבוּ",
+   "gloss": "mencuri"
+  },
+  {
+   "surface": "וְגַם",
+   "gloss": "dan juga"
+  },
+  {
+   "surface": "כִּחֲשׁוּ",
+   "gloss": "berdusta"
+  },
+  {
+   "surface": "וְגַם",
+   "gloss": "dan juga"
+  },
+  {
+   "surface": "שָׂמוּ",
+   "gloss": "menaruhnya"
+  },
+  {
+   "surface": "בִכְלֵיהֶם",
+   "gloss": "di antara barang-barang mereka"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:12.349729660Z",
+ "model": "glm-5.2"
+}

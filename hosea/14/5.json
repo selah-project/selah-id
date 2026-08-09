@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Aku akan menyembuhkan berpalingnya mereka, aku akan mengasihi mereka dengan sukarela, sebab murka-Ku telah berpaling darinya.",
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "aku akan menyembuhkan"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "berpalingnya mereka"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "aku akan mengasihi mereka"
+    },
+    {
+      "surface": "נדבah",
+      "gloss": "dengan sukarela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שב",
+      "gloss": "telah berpaling"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "murka-Ku"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "darinya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:14.836153153Z",
+  "model": "glm-5.2"
+}

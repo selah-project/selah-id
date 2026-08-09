@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 41:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Lalu lembu-lembu yang buruk rupa dan kurus dagingnya itu memakan ⟨את⟩ tujuh lembu yang cantik rupa dan gemuk itu. Lalu Paroh terbangun.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Lalu memakan"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lembu-lembu itu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "buruk"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "ודקת",
+      "gloss": "dan kurus"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "dagingnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh lembu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "cantik"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "והבריאת",
+      "gloss": "dan gemuk"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "Lalu terbangun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:40.608554715Z",
+  "model": "glm-5.2"
+}

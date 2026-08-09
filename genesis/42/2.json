@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Dan ia berkata, “Lihat, aku telah mendengar bahwa ada gandum di Mitsrayim. Turunlah ke sana dan belikanlah bagi kami dari sana, supaya kami hidup dan tidak mati.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan … berkata"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "aku telah mendengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "Turunlah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "dan belikanlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "supaya kami hidup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "kami mati"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:02.285754272Z",
+  "model": "glm-5.2"
+}

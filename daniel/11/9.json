@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan ⟨ia⟩ datang ke dalam kerajaan raja selatan, lalu kembali ke tanahnya.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ke dalam kerajaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "selatan"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "lalu kembali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tanahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:56:10.121967989Z",
+  "model": "glm-5.2"
+}

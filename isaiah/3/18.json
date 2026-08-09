@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Pada hari itu Adonai akan menghapus ⟨את⟩ perhiasan ⟨dari⟩ gelang-gelang kaki, dan jaring-jaring rambut, dan bulan-bulan sabit,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "akan menghapus"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perhiasan"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "perhiasan"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "gelang-gelang kaki"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "dan jaring-jaring rambut"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "dan bulan-bulan sabit"
+    }
+  ],
+  "timestamp": "2026-08-08T08:16:31.065898838Z",
+  "model": "glm-5.2"
+}

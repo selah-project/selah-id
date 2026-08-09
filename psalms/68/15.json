@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Ketika Shaddai menyebarkan raja-raja di situ, ⟩bersalju-putihlah⟨ di Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Ketika menyebarkan"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di situ"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "bersalju-putihlah"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "di Tsalmon"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:04.838396378Z",
+  "model": "glm-5.2"
+}

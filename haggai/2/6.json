@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Sebab beginilah bersabda Yahweh Tzevaot: Sekali lagi, sedikit ⟨waktunya⟩, dan aku mengguncangkan ⟨את⟩ langit dan ⟨את⟩ bumi dan ⟨את⟩ laut dan ⟨את⟩ tanah kering.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bersabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "Sekali"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨waktunya⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "mengguncangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah kering"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "tanah kering"
+    }
+  ],
+  "timestamp": "2026-08-08T11:34:25.966872042Z",
+  "model": "glm-5.2"
+}

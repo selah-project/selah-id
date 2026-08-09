@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Maka ha-kohen keluar ke luar ⟨dari⟩ tempat berkemah, dan ha-kohen melihat, dan lihat, telah sembuh luka tsaraat itu dari orang yang ber-tsaraat itu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Maka keluar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tempat berkemah"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "telah sembuh"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "luka"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "orang yang ber-tsaraat itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:26.493269802Z",
+  "model": "glm-5.2"
+}

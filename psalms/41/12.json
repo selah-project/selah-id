@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Dengan ini aku tahu bahwa Engkau berkenan kepadaku, karena musuhku tidak bersorak-sorai atasku.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Dengan ini"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Engkau berkenan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "bersorak-sorai"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:29.279700165Z",
+  "model": "glm-5.2"
+}

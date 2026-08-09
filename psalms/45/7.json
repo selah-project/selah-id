@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Takhtamu, ya Elohim, ⟨untuk⟩ selama-lamanya dan seterusnya; tongkat ke lurusan, tongkat kerajaanmu.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "takhtamu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan seterusnya"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ke lurusan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "kerajaanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:33.910709538Z",
+  "model": "glm-5.2"
+}

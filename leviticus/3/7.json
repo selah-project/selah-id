@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Jika domba ⟨dia⟩ membawa dekat sebagai persembahannya, maka ⟨dia⟩ harus membawa dekat ⟨את⟩-nya ke hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "domba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "membawa dekat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahannya"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "persembahannya"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "maka dia harus membawa dekat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "ke hadapan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:04.736196931Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu Dawid mengambil ⟨את⟩ perisai-perisai emas yang ada pada hamba-hamba Hadadezer, dan membawanya ke Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perisai-perisai emas"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "perisai-perisai"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pada"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "dan membawanya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:06.693351890Z",
+  "model": "glm-5.2"
+}

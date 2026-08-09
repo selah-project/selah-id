@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 15:12",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Maka Shemu'el bangun pagi-pagi untuk menemui Shaul di pagi hari, dan diberitahukanlah kepada Shemu'el, yang berbunyi: “Shaul telah datang di Karmel, dan lihat, ia mendirikan bagi dirinya sebuah tanda; lalu ia berputar, dan meneruskan perjalanan, dan turun ke Gilgal.”",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "maka bangun pagi-pagi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "untuk menemui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di pagi hari"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan diberitahukanlah"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "kepada Shemu'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang berbunyi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הכרמלה",
+      "gloss": "di Karmel"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "מציב",
+      "gloss": "ia mendirikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sebuah tanda"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "lalu ia berputar"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dan meneruskan perjalanan"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dan turun"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ke Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-08T07:48:56.073687196Z",
+  "model": "glm-5.2"
+}

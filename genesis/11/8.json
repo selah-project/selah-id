@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka Yahweh mencerai-beraikan ⟨את⟩ mereka dari sana ke seluruh muka bumi, dan mereka berhenti membangun kota itu.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Maka mencerai-beraikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "dan mereka berhenti"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "membangun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:12.531032880Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Maka sekarang, bangunlah pagi-pagi, engkau bersama para hamba tuanmu yang datang bersamamu, dan ketika kalian berangkat pagi-pagi dan ⟨muncul⟩ cahaya bagi kalian, berangkatlah.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Maka sekarang"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "bangunlah pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "bersama para hamba"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersamamu"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "dan ketika kalian berangkat pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dan ⟨muncul⟩ cahaya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kalian"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "berangkatlah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:01.477553598Z",
+  "model": "glm-5.2"
+}

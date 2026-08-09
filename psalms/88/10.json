@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Mataku lengas karena penderitaan; aku berseru kepada-Mu, Yahweh, setiap hari; aku menghamparkan telapak tanganku kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mataku"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "lengas"
+    },
+    {
+      "surface": "מני",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עני",
+      "gloss": "penderitaan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "aku berseru kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "aku menghamparkan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "telapak tanganku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:50.163219561Z",
+  "model": "glm-5.2"
+}

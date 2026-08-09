@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Mereka dibawa dengan sukacita dan kegirangan; mereka masuk ke ⟨dalam⟩ istana raja.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "mereka dibawa"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "dengan sukacita"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "dan kegirangan"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "mereka masuk"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ke istana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:18.069016190Z",
+  "model": "glm-5.2"
+}

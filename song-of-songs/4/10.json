@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Betapa indah cinta-cintamu, saudariku, pengantinku; betapa lebih baik cinta-cintamu dari anggur, dan aroma minyak-minyakmu dari segala bumbu-bumbu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "indah"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "cinta-cintamu"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "saudariku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pengantinku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "cinta-cintamu"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "dari anggur"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "dan aroma"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "minyak-minyakmu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bumbu-bumbu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:55:30.116421894Z",
+  "model": "glm-5.2"
+}

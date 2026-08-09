@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan diselimuti dengan arazim dari atas, di atas sisi-sisi yang di atas tiang-tiang itu, empat puluh lima; lima belas tiap baris.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "dan diselimuti"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "dengan arazim"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "sisi-sisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang itu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "dan lima"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "baris"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:10.192180165Z",
+  "model": "glm-5.2"
+}

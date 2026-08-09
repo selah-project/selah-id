@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "⟨Ia⟩ menggembalakan abu, hati yang ditipu telah menyesatkannya; dan ia tidak dapat menyelamatkan ⟨את⟩ nyawa-nya, dan ia tidak berkata: \"Bukankah kebohongan di tangan kananku?\"",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "menggembalakan"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "yang ditipu"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "telah menyesatkannya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ia dapat menyelamatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa-nya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawa-nya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ia berkata"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "di tangan kananku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:14:01.265113998Z",
+  "model": "glm-5.2"
+}

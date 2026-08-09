@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Bersukacitalah gunung Tzion, bersorak-sorailah putri-putri Yehudah, oleh karena hukum-hukummu.",
+  "tokens": [
+    {
+      "surface": "יִשְׂמַ֤ח",
+      "gloss": "bersukacitalah"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "צִיּ֗וֹן",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "תָּ֭גֵלְנָה",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לְ֝מַ֗עַן",
+      "gloss": "oleh karena"
+    },
+    {
+      "surface": "מִשְׁפָּטֶֽיךָ",
+      "gloss": "hukum-hukummu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:11.712216679Z",
+  "model": "glm-5.2"
+}

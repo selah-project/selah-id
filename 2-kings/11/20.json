@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka bersukarialah seluruh rakyat negeri itu, dan kota itu menjadi sunyi, dan ⟨את⟩ Atalyahu mereka bunuh dengan pedang di rumah raja.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "maka bersukarialah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "dan kota itu"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "menjadi sunyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "mereka bunuh"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dengan pedang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:33.784935962Z",
+  "model": "glm-5.2"
+}

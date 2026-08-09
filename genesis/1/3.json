@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Elohim berkata, “Jadilah terang,” maka jadilah terang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יְהִי",
+      "gloss": "Jadilah"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "terang"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "terang"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:54.598509121Z",
+  "model": "glm-5.2"
+}

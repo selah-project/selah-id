@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Maka Elohim memberkati ⟨את⟩ hari ketujuh dan menguduskannya, sebab pada hari itu ⟨Ia⟩ berhenti dari segala pekerjaan-Nya yang telah diciptakan Elohim untuk diperbuat.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "maka memberkati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari ketujuh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "dan menguduskan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "hari ketujuh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pada itu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "berhenti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "pekerjaan-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "diciptakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk diperbuat"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:16.632135252Z",
+  "model": "glm-5.2"
+}

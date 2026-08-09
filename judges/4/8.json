@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka berkatalah Barak kepadanya, “Jika engkau pergi bersamaku maka aku pergi, dan jika tidak engkau pergi bersamaku aku tidak pergi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berkatalah"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "engkau pergi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bersamaku"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "maka aku pergi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "engkau pergi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bersamaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:40:38.268284008Z",
+  "model": "glm-5.2"
+}

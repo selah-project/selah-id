@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "dan ⟨dia⟩ menyembelih ⟨את⟩ burung itu yang satu ke dalam bejana tanah liat di atas air yang hidup;",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "dan dia menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burung itu"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "burung itu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bejana"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tanah liat"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:36.180555864Z",
+  "model": "glm-5.2"
+}

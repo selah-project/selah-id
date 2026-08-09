@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Maka David bersembunyi di padang, dan datanglah bulan baru, maka duduklah sang raja pada perjamuan untuk makan.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "maka bersembunyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan datanglah"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan baru"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maka duduklah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "perjamuan"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "untuk makan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:28.136010496Z",
+  "model": "glm-5.2"
+}

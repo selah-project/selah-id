@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan seluruh ⟨negeri⟩ datang ke dalam hutan, dan ada madu di atas permukaan padang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ke dalam hutan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ada"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:48:26.624149569Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Di sana ⟨mereka⟩ telah jatuh, para pekerja kejahatan; ⟨mereka⟩ tertumbuk dan tidak dapat bangkit.",
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "Di sana"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "para pekerja"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "tertumbuk"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "bangkit"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:57.856023970Z",
+  "model": "glm-5.2"
+}

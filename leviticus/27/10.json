@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Tidak boleh menukarnya dan tidak boleh menggantikannya, ⟨את⟩ yang baik dengan yang jahat atau yang jahat dengan yang baik; tetapi jika ia sungguh-sungguh menggantikan binatang dengan binatang, maka ⟨ ⟨את⟩ ia dan ⟨את⟩ gantinya akan menjadi kudus.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak boleh"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "menukarnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak boleh"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "menggantikannya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yang baik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dengan yang jahat"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dengan yang baik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tetapi jika"
+    },
+    {
+      "surface": "המר",
+      "gloss": "sungguh-sungguh menggantikan"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ia menggantikan"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "dengan binatang"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨את⟩ ia"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "⟨את⟩ gantinya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:07.837870542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Mizmor bagi David, ketika ia melarikan diri dari hadapan Avshalom anaknya.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "בְּבָרְחוֹ",
+      "gloss": "ketika ia melarikan diri"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "אַבְשָׁלוֹם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בְּנוֹ",
+      "gloss": "anaknya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:41.914404981Z",
+  "model": "glm-5.2"
+}

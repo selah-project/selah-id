@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "dan lihatlah apakah jalan kesakitan ada padaku, dan tuntunlah aku di jalan ⟨yang⟩ kekal.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "kesakitan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ada padaku"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "dan tuntunlah aku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yang kekal"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:27.807985972Z",
+  "model": "glm-5.2"
+}

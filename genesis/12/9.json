@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan Avram berjalan, berjalan dan bergerak menuju ⟨Tanah⟩ Negev.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Dan bergeraklah"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "dan bergerak"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "menuju Negev"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:48.172454126Z",
+  "model": "glm-5.2"
+}

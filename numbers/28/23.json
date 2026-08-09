@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "selain korban bakaran pagi yang ⟨adalah⟩ untuk korban bakaran tetap, kalian akan membuat ⟨את⟩ hal-hal ini.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "selain"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "untuk korban bakaran"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "tetap"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kalian akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hal-hal ini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hal-hal ini"
+    }
+  ],
+  "timestamp": "2026-08-08T07:21:49.268341414Z",
+  "model": "glm-5.2"
+}

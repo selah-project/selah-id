@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Makanan, kamu harus membeli dari mereka dengan perak dan kamu akan memakannya; dan juga air, kamu harus membeli dari mereka dengan perak dan kamu akan meminumnya.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "kamu harus membeli"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "dari mereka"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan perak"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "dan kamu akan memakannya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "kamu harus membeli"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "dari mereka"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan perak"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "dan kamu akan meminumnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:56.318850677Z",
+  "model": "glm-5.2"
+}

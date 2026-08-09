@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Apakah El memutarbalikkan keadilan, ataukah Shaddai memutarbalikkan kebenaran?",
+  "tokens": [
+    {
+      "surface": "הַ֭אֵל",
+      "gloss": "Apakah El"
+    },
+    {
+      "surface": "יְעַוֵּ֣ת",
+      "gloss": "memutarbalikkan"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "ataukah"
+    },
+    {
+      "surface": "שַׁ֝דַּ֗י",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יְעַוֵּֽת",
+      "gloss": "memutarbalikkan"
+    },
+    {
+      "surface": "צֶֽדֶק",
+      "gloss": "kebenaran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:52:38.946372563Z",
+  "model": "glm-5.2"
+}

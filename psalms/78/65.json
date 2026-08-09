@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Lalu Adonai terbangun seperti orang yang tidur, seperti pahlawan yang berseru karena anggur.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "Lalu terbangun"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "seperti orang yang tidur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "seperti pahlawan"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "yang berseru"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "karena anggur"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:20.559495135Z",
+  "model": "glm-5.2"
+}

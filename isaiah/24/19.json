@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Hancur, hancurlah ⟨the⟩ bumi! Retak, retaklah bumi! Goyang, goyanglah bumi!",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "hancur"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "hancurlah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פור",
+      "gloss": "retak"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "retaklah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "goyang"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "goyanglah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:11:10.259958643Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "di sana mereka menguburkan ⟨את⟩ Avraham dan ⟨את⟩ Sarah istrinya; di sana mereka menguburkan ⟨את⟩ Yitskhak dan ⟨את⟩ Rivkah istrinya; dan di sana aku menguburkan ⟨את⟩ Lea.”",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "mereka menguburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "istrinya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "mereka menguburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "istrinya"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "dan di sana"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "aku menguburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:55.862034647Z",
+  "model": "glm-5.2"
+}

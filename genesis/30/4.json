@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Maka ⟨ia⟩ memberikan kepadanya ⟨את⟩ Bilhah budaknya menjadi isteri, dan Ya'akov masuk kepadanya.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Maka ⟨ia⟩ memberikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhah"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "budaknya"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi isteri"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-08T10:23:23.569465512Z",
+  "model": "glm-5.2"
+}

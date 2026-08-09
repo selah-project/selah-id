@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Janganlah engkau memungut bunga dari saudaramu: bunga uang perak, bunga makanan, bunga apa pun yang dipungut bunganya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "engkau memungut bunga"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "dari saudaramu"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "uang perak"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa pun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "benda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "dipungut bunganya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:43.544991877Z",
+  "model": "glm-5.2"
+}

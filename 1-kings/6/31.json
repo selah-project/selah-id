@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨את⟩ pintu masuk ⟨ה⟩ Debir dibuatnya dari pintu-pintu kayu zaitun; ⟨pada⟩ ambang pintu dan tiang pintu ⟨ada⟩ seperlima ⟨dinding⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "pintu masuk"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu masuk"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ambang pintu"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tiang pintu"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "seperlima"
+    }
+  ],
+  "timestamp": "2026-08-08T11:02:28.147568860Z",
+  "model": "glm-5.2"
+}

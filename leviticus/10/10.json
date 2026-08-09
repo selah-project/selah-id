@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "dan untuk membedakan antara yang kudus dan antara yang biasa, dan antara yang tamma dan antara yang tahir.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "dan untuk membedakan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "yang kudus"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "החל",
+      "gloss": "yang biasa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "yang tamma"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "yang tahir"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:28.228796846Z",
+  "model": "glm-5.2"
+}

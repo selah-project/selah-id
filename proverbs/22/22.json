@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jangan merampas ⟨dari⟩ orang miskin, karena dia miskin, dan jangan menghancurkan orang tertindas di pintu gerbang,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "merampas"
+    },
+    {
+      "surface": "דל",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "דל",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "menghancurkan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "orang tertindas"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:52.654345060Z",
+  "model": "glm-5.2"
+}

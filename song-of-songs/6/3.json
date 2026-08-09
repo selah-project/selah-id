@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Aku milik kekasihku dan kekasihku milikku, ⟨dialah⟩ yang menggembalakan di antara bunga bakung.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "milik kekasihku"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "dan kekasihku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "milikku"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yang menggembalakan"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "di antara bunga bakung"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:30.321101015Z",
+  "model": "glm-5.2"
+}

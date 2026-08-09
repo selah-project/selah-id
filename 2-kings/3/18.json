@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ini ⟨adalah⟩ hal kecil di mata Yahweh, dan ⟨Ia⟩ akan menyerahkan ⟨את⟩ Moab ke dalam tanganmu.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "Dan ini ⟨adalah⟩ hal kecil"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan ⟨Ia⟩ akan menyerahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ke dalam tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:14.808742641Z",
+  "model": "glm-5.2"
+}

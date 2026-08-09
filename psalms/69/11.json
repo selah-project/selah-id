@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Dan aku menangis dalam puasa nafasku, dan itu menjadi cemoohan bagiku.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "dan aku menangis"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "dalam puasa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafasku"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dan itu menjadi"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "cemoohan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:52.734004991Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan raja Ashur mendengarkan ⟨dia⟩, maka raja Ashur naik ke Dammesek, dan ia menangkapnya, dan ia mengasingkannya ke Kir, dan ⟨את⟩ Retsin ia bunuh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dan mendengarkan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "maka naik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammesek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "dan ia menangkapnya"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "dan ia mengasingkannya"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "ke Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ia bunuh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:49:42.202407919Z",
+  "model": "glm-5.2"
+}

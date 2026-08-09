@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 150,
+  "translation": "Pujilah Dia dengan simbal berbunyi nyaring, pujilah Dia dengan simbal bersorak-sorai!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah Dia"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "dengan simbal"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "berbunyi nyaring"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah Dia"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "dengan simbal"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "bersorak-sorai"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:15.228090082Z",
+  "model": "glm-5.2"
+}

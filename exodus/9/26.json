@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Hanya di tanah Goshen, tempat orang-orang beni-Yisrael berada, di sana tidak ada hujan es.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "beni-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hujan es"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:13.544063978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Sebab aku berkata: “Selamanya hesed dibangun; langit Engkau tegakkan kesetiaan-Mu di dalamnya.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Selamanya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "dibangun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "Engkau tegakkan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kesetiaan-Mu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:38.027180398Z",
+  "model": "glm-5.2"
+}

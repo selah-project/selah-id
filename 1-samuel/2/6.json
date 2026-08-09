@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Yahweh mematikan dan menghidupkan, menurunkan ke Sheol dan menaikkan.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מֵמִ֣ית",
+      "gloss": "mematikan"
+    },
+    {
+      "surface": "וּמְחַיֶּ֑ה",
+      "gloss": "dan menghidupkan"
+    },
+    {
+      "surface": "מוֹרִ֥יד",
+      "gloss": "menurunkan"
+    },
+    {
+      "surface": "שְׁא֖וֹל",
+      "gloss": "ke Sheol"
+    },
+    {
+      "surface": "וַיָּֽעַל",
+      "gloss": "dan menaikkan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:10.885207967Z",
+  "model": "glm-5.2"
+}

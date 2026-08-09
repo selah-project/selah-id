@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan inilah keturunan Esav, ayah Edom, di gunung Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dan inilah"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:31.239564414Z",
+  "model": "glm-5.2"
+}

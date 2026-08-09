@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Sepuluh hasta ⟨adalah⟩ panjang papan ⟨itu⟩, dan satu hasta dan setengah hasta ⟨adalah⟩ lebar papan ⟨yang⟩ satu ⟨itu⟩.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan satu hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "dan setengah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:20.936015672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨merekah⟩ berkata kepada orang banyak, “Lintasilah, dan kelilingilah ⟨את⟩ kota itu, dan ⟨orang-orang yang⟩ bersenjata akan berjalan di depan aron Yahweh.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang banyak"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lintasilah"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "dan kelilingilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "dan yang bersenjata"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "akan berjalan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:33:31.020364307Z",
+  "model": "glm-5.2"
+}

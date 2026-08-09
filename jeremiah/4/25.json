@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Aku melihat, dan lihat, tidak ada ⟨the⟩ manusia, dan segala burung langit telah melarikan diri.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku melihat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "telah melarikan diri"
+    }
+  ],
+  "timestamp": "2026-08-08T08:30:55.372129288Z",
+  "model": "glm-5.2"
+}

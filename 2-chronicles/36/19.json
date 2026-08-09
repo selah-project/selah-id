@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 36:19",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan mereka membakar ⟨את⟩ rumah HaElohim, dan merobohkan ⟨את⟩ tembok Yerushalayim; dan segala bentengnya dibakar dengan api, dan segala perkakas yang berharganya — untuk memusnahkan.",
+  "tokens": [
+    {
+      "surface": "וישרפו",
+      "gloss": "dan mereka membakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "וינתצו",
+      "gloss": "dan merobohkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembok"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "bentengnya"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "dibakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "yang berharganya"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "untuk memusnahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:07.113414695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Pujilah Yah, bersyukurlah kepada Yahweh, sebab ⟨dia⟩ baik, seakah segenerasinya ⟨adalah⟩ hesed-nya.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "bersyukurlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "seakah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "segenerasinya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:54.302965107Z",
+  "model": "glm-5.2"
+}

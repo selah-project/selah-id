@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lalu Shemuel melihat ⟨את⟩ Shaul, dan Yahweh menjawabnya, “Lihat, orang yang kukatakan kepadamu, dia ini akan memerintah umat-Ku.”",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Lalu Shemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "menjawabnya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kukatakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dia ini"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "umat-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:01.664383689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Sampai kapan, Yahweh, aku berseru dan Engkau tidak mendengar? Aku meraung kepada-Mu karena kekerasan dan Engkau tidak menyelamatkan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Engkau mendengar"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "aku meraung"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "Engkau menyelamatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:02:15.124454580Z",
+  "model": "glm-5.2"
+}

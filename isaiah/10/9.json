@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Bukankah Karkemis seperti Kalno? Bukankah Hamat seperti Arpad? Bukankah Shomeron seperti Damesyeq?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "Karkemis"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "seperti Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "seperti Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "seperti Damesyeq"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-08T11:09:39.879724411Z",
+  "model": "glm-5.2"
+}

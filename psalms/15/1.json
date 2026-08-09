@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Mazmur bagi David. Yahweh, siapakah yang akan menumpang di kemah-Mu? Siapakah yang akan diam di gunung ke-Mu yang kudus?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "yang akan menumpang"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "di kemah-Mu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "yang akan diam"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ke-Mu yang kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:21.480990863Z",
+  "model": "glm-5.2"
+}

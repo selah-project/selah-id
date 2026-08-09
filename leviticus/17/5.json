@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 17:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "supaya bani Yisrael membawa ⟨את⟩ korban sembelihan mereka, yang mereka sembelih di permukaan padang, dan membawanya kepada Yahweh ke pintu kemah pertemuan, kepada ⟨sang imam, dan mereka menyembelih korban keselamatan bagi Yahweh, ⟨את⟩-nya⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "mereka-membawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban sembelihan mereka"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "korban-sembelihan-mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "menyembelih"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "והביאם",
+      "gloss": "dan-membawanya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada-Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang-imam"
+    },
+    {
+      "surface": "וזבחו",
+      "gloss": "dan-mereka-menyembelih"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "korban"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi-Yahweh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-nya",
+      "marks": "objek: korban-korban tersebut"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:28.235162879Z",
+  "model": "glm-5.2"
+}

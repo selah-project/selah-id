@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Jangan ada bagimu elohim lain di hadapan wajah-Ku.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אֲחֵרִ֖ים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di"
+    },
+    {
+      "surface": "פָּנָֽיַ",
+      "gloss": "hadapan-wajah-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T10:44:53.620113417Z",
+  "model": "glm-5.2"
+}

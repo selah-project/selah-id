@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "maka engkau membawanya ke tengah rumahmu, dan ⟨dia⟩ mencukur ⟨את⟩ kepalanya, dan ⟨dia⟩ melakukan ⟨את⟩ kuku-kukunya —",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "maka engkau membawanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tengah"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumahmu"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "dan dia mencukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepalanya"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "dan dia melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuku-kukunya"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "kuku-kukunya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:50.404626965Z",
+  "model": "glm-5.2"
+}

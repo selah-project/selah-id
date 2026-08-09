@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Merayot memperanakkan ⟨את⟩ Amaryah, dan Amaryah memperanakkan ⟨את⟩ Akituv.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaryah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaryah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "dan Amaryah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akituv"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:03.615086198Z",
+  "model": "glm-5.2"
+}

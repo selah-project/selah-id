@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Celakalah gembala-gembala yang membinasakan dan menyebarkan ⟨את⟩ kawanan padang penggembalaanku, demikianlah firman Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "celakalah"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "gembala-gembala"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "yang membinasakan"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "dan menyebarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "padang penggembalaanku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "demikianlah firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:34:55.936908247Z",
+  "model": "glm-5.2"
+}

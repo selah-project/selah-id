@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Yahweh membangkitkan ⟨את⟩ seorang lawan bagi Shelomo: ⟨את⟩ Hadad sang Edomi, dari keturunan sang raja — ia di Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dan membangkitkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "seorang lawan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "bagi Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad sang Edomi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "sang Edomi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "dari keturunan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:12.646223231Z",
+  "model": "glm-5.2"
+}

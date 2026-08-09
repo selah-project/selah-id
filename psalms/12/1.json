@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Untuk pemimpin musik, ⟨untuk⟩ yang kedelapan. Mizmor bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk pemimpin musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨untuk⟩"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "yang kedelapan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:46.260104201Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "dan ⟨את⟩ pakaian tenun dan ⟨את⟩ pakaian kudus untuk Aharon sang imam, dan ⟨את⟩ pakaian anak-anaknya untuk bertugas sebagai imam,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian tenun"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tenun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian kudus"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "untuk Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian anak-anaknya"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuk bertugas sebagai imam"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:07.734729683Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Karena Engkaulah yang menarik aku keluar dari kandungan, yang membuat aku percaya pada buah dada ibuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "menarik keluar"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dari kandungan"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "yang membuat aku percaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "buah dada"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:02.088449849Z",
+  "model": "glm-5.2"
+}

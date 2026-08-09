@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Babi hutan dari hutan menggemas-nya, dan binatang liar padang menggembalakan-nya.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "menggemas-nya"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "babi hutan"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "dari hutan"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "dan binatang liar"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "menggembalakan-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:30.716290446Z",
+  "model": "glm-5.2"
+}

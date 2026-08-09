@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dengan bertambahnya kebaikan, bertambah pula orang yang memakannya; dan apa keuntungan bagi pemiliknya, kecuali memandang dengan matanya?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "dengan bertambahnya"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bertambah pula"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "orang yang memakannya"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apa"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "keuntungan"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "bagi pemiliknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kecuali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "memandang"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "dengan matanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:02.405424776Z",
+  "model": "glm-5.2"
+}

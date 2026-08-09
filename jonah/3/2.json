@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Bangunlah, pergilah ke Ninewe, kota besar itu, dan serukanlah kepadanya ⟨את⟩ seruan yang Aku firmankan kepadanya:",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "besar itu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "dan serukanlah"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seruan"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "seruan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firmankan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:32:46.288603536Z",
+  "model": "glm-5.2"
+}

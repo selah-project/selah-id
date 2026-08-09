@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Jika aku benar, mulutku akan menyatakan aku bersalah; jika aku tanpa cacat, maka ⟨dia⟩ akan membuktikan aku bengkok.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "aku benar"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "akan menyatakan aku bersalah"
+    },
+    {
+      "surface": "תם",
+      "gloss": "tanpa cacat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "dan akan membuktikan aku bengkok"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:52.244621509Z",
+  "model": "glm-5.2"
+}

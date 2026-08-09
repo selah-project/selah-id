@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Bukankah ketakutanmu, ⟨yaitu⟩ kepercayaanmu; harapanmu, dan integritas jalan-jalanmu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "ketakutanmu"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "kepercayaanmu"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "harapanmu"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "dan integritas"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan-jalanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:27.279536442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Jalan menuju kehidupan ⟨adalah⟩ bagi penjaga teguran, tetapi meninggalkan koreksi ⟨membuat⟩ tersesat.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "menuju kehidupan"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "penjaga"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "tetapi meninggalkan"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "koreksi"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "tersesat"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:10.457199979Z",
+  "model": "glm-5.2"
+}

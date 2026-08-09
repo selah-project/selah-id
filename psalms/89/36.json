@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Satu kali ⟨aku⟩ telah bersumpah dengan kekudusan-Ku: jika kepada Dawid ⟨aku⟩ berdusta —",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "satu kali"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "⟨aku⟩ telah bersumpah"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "dengan kekudusan-Ku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Dawid"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "⟨aku⟩ berdusta"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:16.002368001Z",
+  "model": "glm-5.2"
+}

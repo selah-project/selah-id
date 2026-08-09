@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan jika lembu itu menanduk ⟨את⟩ seorang laki-laki atau ⟨את⟩ seorang perempuan dan mati, pasti dilempari batu ⟨lembu⟩ itu; dan tidak boleh dimakan ⟨את⟩ dagingnya; dan pemilik lembu itu bersih.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "menanduk"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seorang laki-laki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seorang perempuan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang perempuan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "pasti dilempari batu"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "dilempari batu"
+    },
+    {
+      "surface": "השור",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak boleh"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingnya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingnya"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "dan pemilik"
+    },
+    {
+      "surface": "השור",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "bersih"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:48.623946117Z",
+  "model": "glm-5.2"
+}

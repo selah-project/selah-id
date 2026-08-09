@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Semuanya telah menyimpang, bersama-sama mereka telah menjadi busuk; tidak ada ⟨yang⟩ berbuat baik, tidak ada, bahkan tidak satu pun.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Semuanya"
+    },
+    {
+      "surface": "סר",
+      "gloss": "telah menyimpang"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "mereka telah menjadi busuk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tidak satu pun"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:11.006827220Z",
+  "model": "glm-5.2"
+}

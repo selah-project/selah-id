@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Orang fasik merancangkan ⟨ sesuatu ⟩ terhadap orang benar, dan ⟨menggeretakkan⟩ giginya terhadapnya.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "merancangkan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "terhadap orang benar"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "dan ⟨menggeretakkan⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "giginya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:59.100309242Z",
+  "model": "glm-5.2"
+}

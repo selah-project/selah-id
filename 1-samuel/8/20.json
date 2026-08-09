@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan kami pun akan menjadi seperti segala bangsa-bangsa, dan raja kami akan menghakimi kami, dan ia akan keluar mendahului kami, dan kami akan berperang ⟨את⟩ peperangan kami.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "dan kami akan menjadi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "seperti segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "raja kami akan menghakimi kami"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "raja kami"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan ia akan keluar"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "mendahului kami"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "dan kami akan berperang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peperangan kami"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "peperangan kami"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:43.190335170Z",
+  "model": "glm-5.2"
+}

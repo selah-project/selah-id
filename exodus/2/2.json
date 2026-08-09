@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan mengandunglah perempuan itu dan melahirkan seorang anak laki-laki; dan dilihatnya ⟨את⟩⟨dia⟩ bahwa baiklah dia, dan disembunyikannya dia tiga bulan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Dan mengandunglah"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak laki-laki"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "dan dilihatnya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baiklah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "dan disembunyikannya dia"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:13.816673607Z",
+  "model": "glm-5.2"
+}

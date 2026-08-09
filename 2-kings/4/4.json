@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan masuklah, dan tutuplah pintu di belakangmu dan di belakang anak-anakmu, dan tuangkanlah ke atas segala bejana-bejana ini; dan yang penuaht angkatlah.”",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "dan masuklah"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "tutuplah"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "di belakangmu"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dan di belakang"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "tuangkanlah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "bejana-bejana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "dan yang penuaht"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "angkatlah"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:30.414713881Z",
+  "model": "glm-5.2"
+}

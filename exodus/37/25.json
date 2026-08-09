@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan ⟨ia⟩ membuat ⟨את⟩ mezbah pembakaran ukupan dari kayu shittim; sehasta panjangnya dan sehasta lebarnya, empat persegi; dan dua hasta tingginya — dari padanya ⟨adalah⟩ tanduk-tanduknya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah pembakaran ukupan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "pembakaran ukupan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sehasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan sehasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "empat persegi"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "dan dua hasta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tingginya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tanduk-tanduknya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:05:11.679910068Z",
+  "model": "glm-5.2"
+}

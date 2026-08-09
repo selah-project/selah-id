@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Dan jika kamu tidak mendengarkan kami untuk bersunat, maka kami akan mengambil ⟨את⟩ putri kami dan kami akan pergi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamu mendengarkan"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "untuk bersunat"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "maka kami akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putri kami"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "putri kami"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "dan kami akan pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:23:45.446506250Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Maka Shaul mengirim utusan kepada Yishai dan berkata: \"Kirimlah kepadaku ⟨את⟩ Dawid putramu yang ada di kawanan kambing domba.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Maka mengirim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Kirimlah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putramu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "di kawanan kambing domba"
+    }
+  ],
+  "timestamp": "2026-08-08T07:48:23.142107724Z",
+  "model": "glm-5.2"
+}

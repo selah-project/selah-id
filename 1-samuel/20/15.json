@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "dan jangan memutus ⟨את⟩ hesed-mu dari keluargaku sampai selama-lamanya, dan bukan pun ketika Yahweh memusnahkan ⟨את⟩ musuh-musuh Daud, setiap orang, dari permukaan bumi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "memutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hesed-mu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-mu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "keluargaku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "ketika memusnahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuh-musuh Daud"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari permukaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:57:25.571144272Z",
+  "model": "glm-5.2"
+}

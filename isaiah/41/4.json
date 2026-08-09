@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Siapakah yang telah berbuat dan membuat, memanggil generasi-generasi dari ⟨yang pertama⟩? Akulah Yahweh ⟨yang⟩ pertama, dan ⟨bersama⟩ ⟨את⟩ yang terakhir Akulah ⟨Dia⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "generasi-generasi"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "dari\/yang pertama"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan\/bersama\/⟨את⟩",
+      "marks": "yang terakhir"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "yang terakhir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:36.520320265Z",
+  "model": "glm-5.2"
+}

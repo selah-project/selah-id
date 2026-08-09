@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 134,
+  "translation": "Nyanyian pendakian. Lihat, berkatilelah ⟨את⟩ Yahweh, segala hamba Yahweh, ⟨yang⟩ berdiri di bait Yahweh pada waktu malam!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pendakian"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berkatilelah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "yang berdiri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "pada waktu malam"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:20.564406579Z",
+  "model": "glm-5.2"
+}

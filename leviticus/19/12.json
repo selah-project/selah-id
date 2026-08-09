@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan jangan bersumpah demi nama-Ku untuk berdusta, dan jangan menajiskan ⟨את⟩ nama Elohim-mu; Akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan jangan"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "bersumpah"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "demi nama-Ku"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "untuk berdusta"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "dan menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:21.089787881Z",
+  "model": "glm-5.2"
+}

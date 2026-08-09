@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Lihatlah kiranya, aku telah membuka mulutku, lidahku telah berbicara di langit-langit mulutku.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "aku telah membuka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "telah berbicara"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lidahku"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "di langit-langit mulutku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:54:35.134574908Z",
+  "model": "glm-5.2"
+}

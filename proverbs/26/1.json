@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Seperti salju di musim panas, dan seperti hujan pada panen, demikianlah tidak layak ⟨bagi⟩ orang bodoh ⟨memiliki⟩ kemuliaan.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "seperti salju"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "di musim panas"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "dan seperti hujan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pada panen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "layak"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "bagi orang bodoh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:20.094344528Z",
+  "model": "glm-5.2"
+}

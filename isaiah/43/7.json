@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Setiap orang yang dipanggil dengan nama-Ku, dan untuk kemuliaan-Ku aku menciptakannya, aku membentuknya, ya, aku membuatnya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "yang dipanggil"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "dengan nama-Ku"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "dan untuk kemuliaan-Ku"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "aku menciptakannya"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "aku membentuknya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "aku membuatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:28.833961870Z",
+  "model": "glm-5.2"
+}

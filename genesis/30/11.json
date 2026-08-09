@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan Leah berkata, “⟨Keberuntungan datang⟩!” lalu ia memanggil ⟨את⟩ namanya Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Keberuntungan datang"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "lalu ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:01.633330962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Aduh bagimu, hai negeri, yang rajunya ⟨adalah⟩ seorang anak muda, dan pembesar-pembesarmu di pagi hari berpesta makan!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "aduh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hai negeri"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "yang rajunya"
+    },
+    {
+      "surface": "נער",
+      "gloss": "seorang anak muda"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "dan pembesar-pembesarmu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di pagi hari"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "berpesta makan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:21.994718670Z",
+  "model": "glm-5.2"
+}

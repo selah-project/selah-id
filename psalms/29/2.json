@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Berikanlah kepada Yahweh kabod ⟨yang patut bagi⟩ nama-Nya; sujudlah kepada Yahweh dalam keindahan kodesh.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujudlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "dalam keindahan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kodesh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:53.798858111Z",
+  "model": "glm-5.2"
+}

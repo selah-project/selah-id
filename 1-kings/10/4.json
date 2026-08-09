@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan melihatlah ratu Syeba ⟨את⟩ segala hikmat Shelomoh, dan ⟨את⟩ rumah yang dibangunnya.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Dan melihatlah"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala hikmat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "dan ⟨את⟩ rumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibangunnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:26.603104795Z",
+  "model": "glm-5.2"
+}

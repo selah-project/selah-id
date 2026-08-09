@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan ia memberi perintah kepada ⟨את⟩ suruhan itu, katanya: “Seketika engkau selesai menyampaikan ⟨את⟩ segala perkara peperangan itu kepada raja —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dan ia memberi perintah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suruhan itu"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "suruhan itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "seketika engkau selesai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "peperangan itu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "menyampaikan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:49.098547662Z",
+  "model": "glm-5.2"
+}

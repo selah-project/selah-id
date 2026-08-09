@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Sebab demikianlah berfirman Yahweh: dengan cuma-cuma kamu telah dijual, dan bukan dengan perak kamu akan ditebus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "dengan cuma-cuma"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "kamu telah dijual"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan perak"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "kamu akan ditebus"
+    }
+  ],
+  "timestamp": "2026-08-08T08:28:07.233763293Z",
+  "model": "glm-5.2"
+}

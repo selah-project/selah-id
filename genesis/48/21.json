@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Lalu Yisra'el berkata kepada Yosef: “Lihat, aku mati, dan Elohim akan menyertai kamu, dan ⟨dia⟩ akan mengembalikan kamu ke tanah bapa-bapamu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan akan menjadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "menyertai kamu"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "dan akan mengembalikan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bapa-bapamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:28:15.613069917Z",
+  "model": "glm-5.2"
+}

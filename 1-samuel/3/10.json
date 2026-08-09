@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka datanglah Yahweh dan berdirilah ⟨di sana⟩, lalu memanggillah seperti waktu demi waktu: \"Samuel! Samuel!\" Dan berkatalah Samuel: \"Bicaralah, karena hambamu mendengar.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Maka datanglah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "dan berdirilah"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu memanggillah"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "seperti waktu"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "demi waktu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Bicaralah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:49.172719869Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan ⟨ia⟩ melakukan keperkasaan, dan memukul ⟨את⟩ Amalek, dan menyelamatkan ⟨את⟩ Yisra'el dari tangan penjarahnya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan melakukan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "keperkasaan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "dan menyelamatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "penjarahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:56:32.311252750Z",
+  "model": "glm-5.2"
+}

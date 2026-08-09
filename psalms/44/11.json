@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Engkau membuat kami berbalik mundur dari musuh, dan para pembenci kami menjarah untuk diri mereka sendiri.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Engkau membuat kami berbalik"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mundur"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "dan para pembenci kami"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "menjarah"
+    },
+    {
+      "surface": "למו",
+      "gloss": "untuk diri mereka sendiri"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:02.208007703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan setelah itu terjadilah Dawid memukul ⟨את⟩ Pelesytim dan menaklukkan mereka; dan Dawid mengambil ⟨את⟩ meteg-hamah dari tangan Pelesytim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesytim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesytim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "dan menaklukkan mereka"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meteg-hamah"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "meteg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hamah"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesytim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:42.739350330Z",
+  "model": "glm-5.2"
+}

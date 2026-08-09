@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 118,
+  "translation": "Yahweh ⟨adalah⟩ untukku di antara penolong-penolongku, dan aku akan melihat ⟨kejatuhan⟩ mereka yang membenci aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "di antara penolong-penolongku"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "akan melihat"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "⟨kejatuhan⟩ mereka yang membenci aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:33.995059179Z",
+  "model": "glm-5.2"
+}

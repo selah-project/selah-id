@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu kuberkata kepada sang malakh yang berbicara di dalam diriku: “Apakah ini?” Dan ⟨ia⟩ berkata kepadaku: “Ini ⟨adalah⟩ tanduk-tanduk yang telah mencerai-beraikan ⟨את⟩ Yehudah, ⟨את⟩ Yisra'el, dan Yerushalayim.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Lalu kuberkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sang malakh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yang berbicara"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di dalam diriku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "tanduk-tanduk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "telah mencerai-beraikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T12:22:45.523524839Z",
+  "model": "glm-5.2"
+}

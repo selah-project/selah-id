@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan ⟨ia⟩ membuat lima puluh kait tembaga untuk menghubungkan ⟨את⟩ kemah itu, supaya menjadi satu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan ⟨ia⟩ membuat"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kait"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "untuk menghubungkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah itu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah itu"
+    },
+    {
+      "surface": "להית",
+      "gloss": "supaya menjadi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:51.597525122Z",
+  "model": "glm-5.2"
+}

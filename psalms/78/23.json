@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ⟨ia⟩ memberi perintah kepada awan dari atas, dan pintu-pintu langit dibukanya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dan memberi perintah"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "dan pintu-pintu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dibukanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:26.821056232Z",
+  "model": "glm-5.2"
+}

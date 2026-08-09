@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Suara ratapan gembala-gembala, sebab telah dijarah keagungan mereka; suara auman kpirim, sebab telah dijarah kegaan haYarden.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "ratapan"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "gembala-gembala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "telah dijarah"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "keagungan mereka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "auman"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "kpirim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "telah dijarah"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kegaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "haYarden"
+    }
+  ],
+  "timestamp": "2026-08-08T09:05:32.296247891Z",
+  "model": "glm-5.2"
+}

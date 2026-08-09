@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan baginya dua orang istri; nama ⟨yang⟩ satu Chanah dan nama ⟨yang⟩ kedua Peninah; dan bagi Peninah ada anak-anak, tetapi bagi Chanah tidak ada anak-anak.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "dan baginya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "orang istri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Chanah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Peninah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ada"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "bagi Peninah"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "tetapi bagi Chanah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "anak-anak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:12.770664789Z",
+  "model": "glm-5.2"
+}

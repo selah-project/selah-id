@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Bapak ⟨bagi⟩ anak-anak yatim, dan hakim ⟨bagi⟩ para janda, ⟨adalah⟩ Elohim di kediaman kudus-Nya.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "bapak"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "anak-anak yatim"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "dan hakim"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "para janda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "di kediaman"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kudus-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:13.407983894Z",
+  "model": "glm-5.2"
+}

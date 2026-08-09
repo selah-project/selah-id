@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "dan memberikan tanah mereka ⟨sebagai⟩ milik pusaka, milik pusaka bagi Yisrael umat-Nya.",
+  "tokens": [
+    {
+      "surface": "וְנָתַ֣ן",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "אַרְצָ֣ם",
+      "gloss": "tanah mereka"
+    },
+    {
+      "surface": "נַחֲלָ֑ה",
+      "gloss": "milik pusaka"
+    },
+    {
+      "surface": "נַ֝חֲלָ֗ה",
+      "gloss": "milik pusaka"
+    },
+    {
+      "surface": "לְיִשְׂרָאֵ֥ל",
+      "gloss": "bagi Yisrael"
+    },
+    {
+      "surface": "עַמּֽוֹ",
+      "gloss": "umat-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:38.787613127Z",
+  "model": "glm-5.2"
+}

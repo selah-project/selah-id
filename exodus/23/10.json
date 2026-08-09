@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan enam tahun kau-hendak menabur ⟨את⟩ tanahmu, dan kau-hendak mengumpulkan ⟨את⟩ hasilnya.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Dan enam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "kau-hendak menabur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanahmu"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "dan kau-hendak mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilnya"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:18.446228731Z",
+  "model": "glm-5.2"
+}

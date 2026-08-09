@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 85,
+  "translation": "Perlihatkanlah kepada kami, Yahweh, hesed-Mu, dan keselamatan-Mu berikanlah kepada kami.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Perlihatkanlah kepada kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "dan keselamatan-Mu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:35.565110690Z",
+  "model": "glm-5.2"
+}

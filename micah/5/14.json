@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Aku akan melakukan ⟨pembalasan⟩ dalam kegeraman dan dalam amarah terhadap bangsa-bangsa yang tidak mendengarkan.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "dan Aku akan melakukan"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dalam kegeraman"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "dan dalam amarah"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "⟨pembalasan⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mendengarkan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:22:42.690006149Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "tetapi ⟨את⟩ Esav Aku benci, dan Aku menjadikan ⟨את⟩ gunung-gunungnya menjadi tempat sunyi, dan ⟨את⟩ warisannya ⟨untuk⟩ serigala padang gurun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "tetapi ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "Aku benci"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "dan Aku menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung-gunungnya"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "gunung-gunungnya"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "menjadi tempat sunyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "warisannya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "warisannya"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "untuk serigala"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:08.118497299Z",
+  "model": "glm-5.2"
+}

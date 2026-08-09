@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "⟨את⟩ kambing-domba mereka dan ⟨את⟩ sapi-sapi mereka dan ⟨את⟩ keledai-keledai mereka, dan ⟨את⟩ segala yang di kota itu, dan ⟨את⟩ segala yang di ladang, mereka ambil.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing-domba mereka"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "kambing-domba mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "sapi-sapi mereka"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "sapi-sapi mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "keledai-keledai mereka"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "keledai-keledai mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang di kota itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "segala yang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang di ladang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "segala yang"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "mereka ambil"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:16.140042489Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 87,
+  "translation": "Mengasihi Yahweh gerbang-gerbang Tzion, lebih dari semua kediaman Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "gerbang-gerbang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lebih dari semua"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "kediaman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:33.528403251Z",
+  "model": "glm-5.2"
+}

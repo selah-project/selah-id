@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "aku diperhitungkan bersama orang-orang yang turun ke dalam sumur; aku telah menjadi seperti pahlawan yang tidak ada kekuatannya.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "aku diperhitungkan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "orang-orang yang turun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ke dalam sumur"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku telah menjadi"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "seperti pahlawan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kekuatannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:32.967066699Z",
+  "model": "glm-5.2"
+}

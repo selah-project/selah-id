@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu ⟨ia⟩ mempersembahkan ⟨את⟩ domba jantan untuk korban bakaran, dan Aharon serta anak-anaknya meletakkan ⟨את⟩ tangan mereka atas kepala domba jantan itu.",
+  "tokens": [
+    {
+      "surface": "ובניו",
+      "gloss": "dan anak-anaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:06.174750678Z",
+  "model": "glm-5.2"
+}

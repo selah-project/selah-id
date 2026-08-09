@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 65,
+  "translation": "Perkara-perkara kesalahan telah mengungguli aku; ⟨mengenai⟩ pelanggaran-pelanggaran kami, Engkaulah yang menghapuskan ⟨את⟩nya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Perkara-perkara"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "telah mengungguli"
+    },
+    {
+      "surface": "מני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "pelanggaran-pelanggaran kami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "yang menghapuskan",
+      "marks": "pelanggaran-pelanggaran kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:13.293863822Z",
+  "model": "glm-5.2"
+}

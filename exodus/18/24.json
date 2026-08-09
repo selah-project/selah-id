@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Moshe mendengarkan suara mertuanya dan melakukan segala sesuatu yang telah dikatakannya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lalu mendengarkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mertuanya"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan melakukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala sesuatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah dikatakannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:23.540345126Z",
+  "model": "glm-5.2"
+}

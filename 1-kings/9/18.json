@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "dan ⟨את⟩ Baalat dan ⟨את⟩ Tamar di padang gurun, di tanah",
+  "tokens": [
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בַּעֲלָ֛ת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֖ר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "di tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T12:48:10.030378601Z",
+  "model": "glm-5.2"
+}

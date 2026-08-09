@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "jika ⟨ia⟩ bangkit dan berjalan-jalan di luar dengan bersandar pada tongkatnya, maka yang memukul itu dibebaskan; hanya ⟨ia⟩ harus membayar ⟨untuk⟩ waktu istirahatnya, dan disembuhkanlah ia disembuhkan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "dan berjalan-jalan"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "tongkatnya"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "maka dibebaskan"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "yang memukul itu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "waktu istirahatnya"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "harus membayar"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "dan disembuhkanlah"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "disembuhkan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:09.325635336Z",
+  "model": "glm-5.2"
+}

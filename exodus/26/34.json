@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan engkau akan menaruh ⟨את⟩ tutup pendamaian di atas aron kesaksian, di kudus segala kudus.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Dan engkau akan menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutup pendamaian"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup pendamaian"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di kudus"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "segala kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:22.541901507Z",
+  "model": "glm-5.2"
+}

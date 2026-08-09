@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Lalu matilah raja itu dan dibawa ke Shomeron, dan mereka menguburkan ⟨את⟩ raja itu di Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Lalu matilah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "dan dibawa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ke Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan mereka menguburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja itu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:22.054355447Z",
+  "model": "glm-5.2"
+}

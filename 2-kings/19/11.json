@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Lihat, engkau telah mendengar ⟨את⟩ apa yang telah dilakukan raja-raja Ashur kepada segala tanah untuk menumpas mereka, dan engkau ⟨akan⟩ dilepaskan!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "telah mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "telah dilakukan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada segala"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "untuk menumpas mereka"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "⟨akan⟩ dilepaskan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:12:52.038501175Z",
+  "model": "glm-5.2"
+}

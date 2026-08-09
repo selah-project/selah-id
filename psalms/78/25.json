@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Roti ⟨dari⟩ yang perkasa dimakan setiap orang; makanan dikirimkan-Nya kepada mereka sampai kenyang.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "yang perkasa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dikirimkan-Nya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sampai kenyang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:35.671494359Z",
+  "model": "glm-5.2"
+}

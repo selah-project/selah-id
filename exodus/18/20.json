@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan engkau harus memperingatkan mereka ⟨את⟩ ketetapan-ketetapan dan ⟨את⟩ hukum-hukum, dan engkau harus memberitahukan kepada mereka ⟨את⟩ jalan yang harus mereka jalani, dan ⟨את⟩ pekerjaan yang harus mereka lakukan.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Dan engkau harus memperingatkan"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hukum-hukum"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "dan engkau harus memberitahukan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yang harus mereka jalani"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pekerjaan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "harus mereka lakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:45.651437803Z",
+  "model": "glm-5.2"
+}

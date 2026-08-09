@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Sebab Yahweh melihat ⟨את⟩ penderitaan Yisrael, bahwa ⟨הֵֽנָּה⟩ sangat pahit; dan tidak ada yang terkurung dan tidak ada yang ditinggalkan, dan tidak ada penolong bagi Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penderitaan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "penderitaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "pahit"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "terkurung"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "ditinggalkan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "penolong"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bagi Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T08:11:39.991471769Z",
+  "model": "glm-5.2"
+}

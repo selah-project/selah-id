@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 111,
+  "translation": "Awal hikmat ⟨adalah⟩ takut akan Yahweh; pengertian yang baik bagi semua pelaku-⟨nya⟩; puji-⟨nya⟩ berdiri untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Awal"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "takut akan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "pengertian"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "pelaku-⟨nya⟩"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "puji-⟨nya⟩"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:37.053748298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Tanpa kayu, api padam; dan tanpa pengumpat, pertikaian berhenti.",
+  "tokens": [
+    {
+      "surface": "בְּאֶ֣פֶס",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "עֵ֭צִים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "תִּכְבֶּה",
+      "gloss": "padam"
+    },
+    {
+      "surface": "אֵ֑שׁ",
+      "gloss": "api"
+    },
+    {
+      "surface": "וּבְאֵ֥ין",
+      "gloss": "dan tanpa"
+    },
+    {
+      "surface": "נִ֝רְגָּ֗ן",
+      "gloss": "pengumpat"
+    },
+    {
+      "surface": "יִשְׁתֹּ֥ק",
+      "gloss": "berhenti"
+    },
+    {
+      "surface": "מָדֽוֹן",
+      "gloss": "pertikaian"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:37.886790217Z",
+  "model": "glm-5.2"
+}

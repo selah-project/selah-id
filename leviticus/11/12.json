@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Segala yang tidak memiliki sirip dan sisik di air, menjijikkan ia itu bagi kamu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sirip"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "dan sisik"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di air"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "menjijikkan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia itu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:24.735006615Z",
+  "model": "glm-5.2"
+}

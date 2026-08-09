@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lihat, ⟨jika⟩ Ia menahan air, maka mereka menjadi kering; dan ⟨jika⟩ Ia mengirimnya, maka mereka membalikkan bumi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "Ia menahan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dan mereka menjadi kering"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "dan Ia mengirimnya"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "dan mereka membalikkan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:19.382091180Z",
+  "model": "glm-5.2"
+}

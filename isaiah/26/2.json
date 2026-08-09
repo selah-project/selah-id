@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Bukalah gerbang-gerbang, dan biarlah masuk bangsa yang benar yang menjaga kesetiaan.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "bukalah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gerbang-gerbang"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan biarlah masuk"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yang benar"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yang menjaga"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "kesetiaan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:20:51.257755528Z",
+  "model": "glm-5.2"
+}

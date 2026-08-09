@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan sapi atau domba — ⟨את⟩-nya dan ⟨את⟩ anaknya jangan kamu sembelih pada hari yang sama.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Dan sapi"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "sapi atau domba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anaknya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "kamu sembelih"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yang sama"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:26.294551315Z",
+  "model": "glm-5.2"
+}

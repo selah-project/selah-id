@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan berteguh hati Paroh, dan tidak disuruhnya pergi ⟨את⟩ bani Yisra'el, seperti yang telah difirmankan Yahweh melalui tangan Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dan berteguh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "disuruhnya pergi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "melalui tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:32.990459043Z",
+  "model": "glm-5.2"
+}

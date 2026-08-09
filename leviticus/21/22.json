@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Roti Elohim-nya, dari hal-hal maha-kudus dan dari hal-hal kudus, boleh ia makan.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nya"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "dari hal-hal maha-kudus"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "maha-kudus"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "hal-hal kudus"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh ia makan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:44.255249718Z",
+  "model": "glm-5.2"
+}

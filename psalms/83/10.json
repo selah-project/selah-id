@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "Berbuatlah kepada mereka seperti kepada Midyan, seperti Sisera, seperti Yabin, di sungai Kishon —",
+  "tokens": [
+    {
+      "surface": "עֲשֵׂה",
+      "gloss": "Berbuatlah"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "כְּמִדְיָן",
+      "gloss": "seperti kepada Midyan"
+    },
+    {
+      "surface": "כְּסִיסְרָא",
+      "gloss": "seperti Sisera"
+    },
+    {
+      "surface": "כְיָבִין",
+      "gloss": "seperti Yabin"
+    },
+    {
+      "surface": "בְּנַחַל",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "קִישׁוֹן",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:52.402385009Z",
+  "model": "glm-5.2"
+}

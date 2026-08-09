@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "dan sang kohen memeriksa ⟨את⟩ neg'a itu, dan lihat, tampaknya lebih dalam dari kulit, dan di situ ⟨ada⟩ rambut kuning yang halus, maka sang kohen menyatakan ⟨את⟩nya tumbal; itu ⟨adalah⟩ tsara'at kepala atau jenggot itu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dan memeriksa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neg'a itu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "neg'a itu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "tampaknya"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "lebih dalam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "dan di situ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rambut"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "kuning"
+    },
+    {
+      "surface": "דק",
+      "gloss": "yang halus"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "maka menyatakan tumbal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "sang kohen (objek: orang itu)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "tumbal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "jenggot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:27.734252580Z",
+  "model": "glm-5.2"
+}

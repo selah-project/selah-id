@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan pada hari didirakkannya ⟨את⟩ mishkan itu, awan itu menutupi ⟨את⟩ mishkan itu, ⟨yaitu⟩ kemohal kesaksian; dan pada petang ada di atas mishkan itu seperti rupa api sampai pagi.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Dan pada hari"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "didirakkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan itu"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "menutupi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan itu"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "kemohal"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "dan pada petang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan itu"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "seperti rupa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:29.579286473Z",
+  "model": "glm-5.2"
+}

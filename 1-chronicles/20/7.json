@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan dia mencela ⟨את⟩ Yisra'el, dan Yehonatan ben Sim'α saudara Dawid memukul dia.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "dan dia mencela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "dan memukul dia"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Sim'α"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T10:08:20.541582061Z",
+  "model": "glm-5.2"
+}

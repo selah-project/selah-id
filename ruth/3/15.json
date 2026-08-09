@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 3:15",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨ia⟩ berkata, “Bawalah selendang yang ada padamu dan peganglah dia,” dan ⟨ia⟩ memegangnya, dan ⟨ia⟩ mengukur enam takar jelai dan meletakkannya atasnya, lalu ⟨ia⟩ masuk ke kota.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "הבי",
+      "gloss": "bawalah"
+    },
+    {
+      "surface": "המטפחת",
+      "gloss": "selendang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ada padamu"
+    },
+    {
+      "surface": "ואחזי",
+      "gloss": "dan peganglah"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "dan ⟨ia⟩ memegang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "dan ⟨ia⟩ mengukur"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "takar jelai"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "dan meletakkan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan ⟨ia⟩ masuk"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-08T11:56:29.511406623Z",
+  "model": "glm-5.2"
+}

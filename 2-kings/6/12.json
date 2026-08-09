@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan berkatalah salah seorang dari hamba-hambanya: “Tidak, tuanku raja, melainkan Elisha sang nabi yang di Yisra'el memberitahukan kepada raja Yisra'el ⟨את⟩ perkataan-perkataan yang kau ucapkan di kamar tidurmu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "dari hamba-hambanya"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisra'el"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "memberitahukan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan-perkataan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kau ucapkan"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "di kamar"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "tidurmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:40.800809811Z",
+  "model": "glm-5.2"
+}

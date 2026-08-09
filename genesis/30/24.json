@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan ia memanggil ⟨את⟩ namanya Yosef, dengan berkata, “Yahweh menambahkan kepadaku anak lain.”",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "dan ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "menambahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:06.759652430Z",
+  "model": "glm-5.2"
+}

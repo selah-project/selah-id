@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Seperti burung yang mengembara, seperti burung layang-layang yang terbang, demikianlah kutuk tanpa alasan tidak datang.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "seperti burung"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "yang mengembara"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "seperti burung layang-layang"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "yang terbang"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa alasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "datang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:20.094545440Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Tetapi apabila kawanan domba itu lemah, tidak ⟨dia⟩ menaruhnya; maka yang lemah menjadi milik Lavan dan yang kuat menjadi milik Yaakob.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Tetapi apabila lemah"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawanan domba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "menaruhnya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka menjadi"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "yang lemah"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "milik Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "dan yang kuat"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "milik Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:11.663375024Z",
+  "model": "glm-5.2"
+}

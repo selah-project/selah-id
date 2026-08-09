@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan mengapakah kamu memberatkan ⟨את⟩ hatimu, seperti yang dilakukan Mitsrayim dan Par'o kepada ⟨את⟩ hati mereka? Bukankah seperti ketika Ia memperolok-olokkan mereka, maka mereka menyuruh mereka pergi, dan mereka pergi?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Dan mengapakah"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "kamu memberatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatimu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "dilakukan (memberatkan)"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "dan Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati mereka"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti ketika"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "Ia memperolok-olokkan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "maka mereka menyuruh mereka pergi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan mereka pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:15.762661845Z",
+  "model": "glm-5.2"
+}

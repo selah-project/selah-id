@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 101,
+  "translation": "⟨Terhadap⟩ pemfitnah terhadap sesamanya secara diam-diam, dia akan aku musnahkan; ⟨orang⟩ yang bermata angkuh dan berhati sombong, dia tidak dapat kutahan.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "pemfitnah"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "secara diam-diam"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "terhadap sesamanya"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "akan aku musnahkan"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "angkuh"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "bermata"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dan sombong"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "berhati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dapat kutahan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:00.214894458Z",
+  "model": "glm-5.2"
+}

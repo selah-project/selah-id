@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Celakalah ⟨mereka⟩ yang berkata kepada kejahatan, ‘Baik', dan kepada kebaikan, ‘Jahat'; yang menaruh kegelapan untuk terang, dan terang untuk kegelapan; yang menaruh pahit untuk manis, dan manis untuk pahit!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Celakalah"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kepada kejahatan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "dan kepada kebaikan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Jahat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yang menaruh"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "untuk terang"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dan terang"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "untuk kegelapan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yang menaruh"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pahit"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "untuk manis"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "dan manis"
+    },
+    {
+      "surface": "למר",
+      "gloss": "untuk pahit"
+    }
+  ],
+  "timestamp": "2026-08-08T08:16:54.790896917Z",
+  "model": "glm-5.2"
+}

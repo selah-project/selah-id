@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka terjadilah petang, dan terjadilah pagi: hari kelima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "kelima"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:56.547533873Z",
+  "model": "glm-5.2"
+}

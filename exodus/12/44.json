@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Tetapi setiap hamba, laki-laki pembelian dengan perak, dan engkau telah bersunat ⟨את⟩ dia, maka ia boleh makan daripadanya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "tetapi setiap"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "pembelian"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dengan perak"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "dan engkau telah bersunat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ia boleh makan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:19.610629147Z",
+  "model": "glm-5.2"
+}

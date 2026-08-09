@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan engkau, anak manusia, ambillah bagimu sebuah batu bata, dan letakkanlah ⟨את⟩nya di hadapanmu, dan pahatkanlah di atasnya sebuah kota: ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan engkau"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "sebuah batu bata"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dan letakkanlah"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩nya",
+      "marks": "batu bata"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "dan pahatkanlah"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sebuah kota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T08:45:14.969377159Z",
+  "model": "glm-5.2"
+}

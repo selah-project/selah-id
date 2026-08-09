@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ia persembahkan dari padanya korbannya, persembahan api bagi Yahweh: ⟨את⟩ lemak yang menutupi ⟨את⟩ perut, dan ⟨את⟩ segala lemak yang ada di atas perut.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dan ia persembahkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbannya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "yang menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perut"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "perut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "perut"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:48.601613913Z",
+  "model": "glm-5.2"
+}

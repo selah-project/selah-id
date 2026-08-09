@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "⟨Dialah⟩ yang memberikan keselamatan kepada raja-raja, yang melepaskan ⟨את⟩ David hamba-Nya dari pedang yang jahat.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "yang memberikan"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kepada raja-raja"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "yang melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hamba-Nya"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari pedang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:53.945589961Z",
+  "model": "glm-5.2"
+}

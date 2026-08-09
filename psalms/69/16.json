@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Jangan biarkan arus air menghanyutkan aku, dan jangan biarkan laut dalam menelanku; dan jangan biarkan sumur menutup mulutnya atasku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "menghanyutkan aku"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "arus"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "menelanku"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "laut dalam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "menutup"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mulutnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:12.574246475Z",
+  "model": "glm-5.2"
+}

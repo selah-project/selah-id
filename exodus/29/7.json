@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan engkau ambillah ⟨את⟩ shemen ha-mishchah itu, dan engkau tuangkanlah ke atas kepalanya, dan engkau urapilah dia.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Dan engkau ambillah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shemen"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "shemen"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ha-mishchah"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "dan engkau tuangkanlah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dan engkau urapilah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:52.382342619Z",
+  "model": "glm-5.2"
+}

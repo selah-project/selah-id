@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Yahweh berfirman kepada Mosheh dan kepada Aharon, serta berkata:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "serta berkata"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:56.596440326Z",
+  "model": "glm-5.2"
+}

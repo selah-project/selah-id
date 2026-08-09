@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahweh Tsevaot, Dialah yang harus kamu kuduskan, dan Dia ketakutanmu, dan Dia kengerianmu.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אֹת֣וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "Dia"
+    },
+    {
+      "surface": "תַקְדִּ֑ישׁוּ",
+      "gloss": "kamu kuduskan"
+    },
+    {
+      "surface": "וְה֥וּא",
+      "gloss": "dan Dia"
+    },
+    {
+      "surface": "מוֹרַאֲכֶ֖ם",
+      "gloss": "ketakutanmu"
+    },
+    {
+      "surface": "וְה֥וּא",
+      "gloss": "dan Dia"
+    },
+    {
+      "surface": "מַֽעֲרִֽצְכֶֽם",
+      "gloss": "kengerianmu"
+    }
+  ],
+  "timestamp": "2026-08-08T18:33:04.551121951Z",
+  "model": "glm-5.2"
+}

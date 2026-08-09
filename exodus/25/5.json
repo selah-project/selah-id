@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "dan kulit-kulit domba jantan yang diwarnai merah, dan kulit-kulit takhash, dan kayu shittim",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "dan kulit-kulit"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "yang diwarnai merah"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "dan kulit-kulit"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "dan kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:52.916635461Z",
+  "model": "glm-5.2"
+}

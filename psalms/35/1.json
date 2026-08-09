@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Untuk Daud. Berperanglah, Yahweh, ⟨ dengan ⟩ ⟨את⟩ lawan-lawanku; bertempurlah ⟨ dengan ⟩ ⟨את⟩ orang-orang yang memerangi aku.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk Daud"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Berperanglah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lawan-lawanku"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "lawan-lawanku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bertempurlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang memerangi aku"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "orang-orang yang memerangi aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:41.190101503Z",
+  "model": "glm-5.2"
+}

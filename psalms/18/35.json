@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Yang mengajari tanganku untuk peperangan, dan busur tembaga dilipatkan oleh lengan-lenganku,",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Yang mengajari"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk peperangan"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "dan dilipatkan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "lengan-lenganku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:21.509289100Z",
+  "model": "glm-5.2"
+}

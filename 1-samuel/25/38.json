@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan terjadilah kira-kira sepuluh hari kemudian, bahwa Yahweh menyerang ⟨את⟩ Nabal, dan ia mati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "kira-kira sepuluh"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "bahwa Ia menyerang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan ia mati"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:04.818802527Z",
+  "model": "glm-5.2"
+}

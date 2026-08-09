@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 76,
+  "translation": "Dari langit Engkau membuat ⟨dengar⟩ keadilan; bumi takut dan menjadi tenang.",
+  "tokens": [
+    {
+      "surface": "מִ֭שָּׁמַיִם",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "הִשְׁמַ֣עְתָּ",
+      "gloss": "Engkau membuat ⟨dengar⟩"
+    },
+    {
+      "surface": "דִּ֑ין",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "אֶ֖רֶץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יָֽרְאָ֣ה",
+      "gloss": "takut"
+    },
+    {
+      "surface": "וְשָׁקָֽטָה",
+      "gloss": "dan menjadi tenang"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:22.715370403Z",
+  "model": "glm-5.2"
+}

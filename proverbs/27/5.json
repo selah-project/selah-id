@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Lebih baik teguran yang terbuka dari pada cinta yang tersembunyi.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Lebih baik"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "yang terbuka"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "dari pada cinta"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "yang tersembunyi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:52.839011701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu Dawid berbuat persis seperti yang diperintahkan Elohim kepadanya, dan mereka memukul ⟨את⟩ pasukan orang Pelesyet dari Giv'on sampai ke Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu berbuat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "persis seperti yang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diperintahkan kepadanya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasukan"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelesyet"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "dari Giv'on"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-08T18:41:32.287343639Z",
+  "model": "glm-5.2"
+}

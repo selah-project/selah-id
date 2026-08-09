@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Seorang budak yang pandai akan memerintah atas anak yang memalukan, dan di tengah saudara-saudara ia akan membagi warisan.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "budak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yang pandai"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "atas anak"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "yang memalukan"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "dan di tengah"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "saudara-saudara"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ia akan membagi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "warisan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:19.968655988Z",
+  "model": "glm-5.2"
+}

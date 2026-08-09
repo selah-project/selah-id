@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 20:36",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Seperti Aku mengadili ⟨את⟩ leluhur kalian di padang gurun tanah Mitsrayim, demikian Aku akan mengadili ⟨את⟩ kalian, oracle Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Seperti"
+    },
+    {
+      "surface": "נשפטתי",
+      "gloss": "Aku mengadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leluhur kalian"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "leluhur kalian"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "Aku akan mengadili"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian",
+      "marks": "kalian"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:48:48.480554542Z",
+  "model": "glm-5.2"
+}

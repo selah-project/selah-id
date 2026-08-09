@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Siapkan ⟨the⟩ meja, pasang ⟨the⟩ pengintai, makan, minum — bersiaplah, ⟨hai⟩ para pembesar, olesi ⟨the⟩ perisai!",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "siapkan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "pasang"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "pengintai"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "makan"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "minum"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "bersiaplah"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "olesi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "perisai"
+    }
+  ],
+  "timestamp": "2026-08-08T08:19:32.397569809Z",
+  "model": "glm-5.2"
+}

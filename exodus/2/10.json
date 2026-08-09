@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan bertumbuh besarlah anak itu, dan dibawanya kepada putri Paroh, dan ⟨ia⟩ menjadi baginya sebagai anak. Lalu dipanggilnyalah namanya Mosheh, dan katanya, \"Karena dari air aku telah menarik dia keluar.\"",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Dan bertumbuh besarlah"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "dan dibawanya"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "kepada putri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ⟨ia⟩ menjadi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sebagai anak"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "Lalu dipanggilnyalah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "aku telah menarik dia keluar"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:35.501270240Z",
+  "model": "glm-5.2"
+}

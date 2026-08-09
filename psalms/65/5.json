@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 65,
+  "translation": "Berbahagialah orang yang Kau pilih dan Kau dekatkan, ia akan diam di pelataran-Mu; kami akan dikenyangkan dengan kebaikan rumah-Mu, ⟨yaitu⟩ bait suci-Mu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "berbahagialah"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "Kau pilih"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "dan Kau dekatkan"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ia akan diam"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "di pelataran-Mu"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "kami akan dikenyangkan"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dengan kebaikan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "bait-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:17.627701156Z",
+  "model": "glm-5.2"
+}

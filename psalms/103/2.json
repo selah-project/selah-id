@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Berkati, hai napasku, ⟨את⟩ Yahweh, dan janganlah lupakan segala balasan-Nya,",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Berkati"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai napasku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "lupakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "balasan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:06.347625099Z",
+  "model": "glm-5.2"
+}

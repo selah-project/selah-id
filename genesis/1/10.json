@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Elohim menamai ⟨את⟩ yang kering 'erets', dan ⟨את⟩ perhimpunan air Ia namai 'yamim'; dan Elohim melihat bahwa baik.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Dan menamai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "⟨את⟩ yang kering",
+      "marks": "yang kering"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erets"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "dan ⟨את⟩ perhimpunan",
+      "marks": "perhimpunan air"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ia namai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yamim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:03.583182079Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "dan kumpulkanlah seluruh jemaat pada pintu Kemoh Pertemuan.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh jemaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kumpulkanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pada"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemoh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:28.579636701Z",
+  "model": "glm-5.2"
+}

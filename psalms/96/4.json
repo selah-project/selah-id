@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 96,
+  "translation": "Karena besar Yahweh dan terpuji sangat, dia ⟨adalah⟩ yang ditakuti di atas semua elohim.",
+  "tokens": [
+    {
+      "surface": "כִּ֥י",
+      "gloss": "karena"
+    },
+    {
+      "surface": "גָ֘ד֤וֹל",
+      "gloss": "besar"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּמְהֻלָּ֣ל",
+      "gloss": "dan terpuji"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "נוֹרָ֥א",
+      "gloss": "yang ditakuti"
+    },
+    {
+      "surface": "ה֝֗וּא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:28.065659623Z",
+  "model": "glm-5.2"
+}

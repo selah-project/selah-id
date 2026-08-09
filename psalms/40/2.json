@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Menanti-nantikan, aku telah menanti-nantikan Yahweh, dan ⟨ia⟩ membungkuk kepadaku, dan mendengar teriakku.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Menanti-nantikan"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "aku telah menanti-nantikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "dan membungkuk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "teriakku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:25.938546624Z",
+  "model": "glm-5.2"
+}

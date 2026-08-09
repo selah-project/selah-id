@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jangan menangis ⟨untuk⟩ yang mati, dan jangan meratap dia; menangislah, menangislah ⟨untuk⟩ yang pergi, karena tidak akan kembali lagi, dan tidak akan melihat ⟨את⟩ tanah kelahirannya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "menangis"
+    },
+    {
+      "surface": "למת",
+      "gloss": "untuk yang mati"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "meratap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "menangislah"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "menangislah"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "untuk yang pergi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akan kembali"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan akan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "kelahirannya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:34:33.951836801Z",
+  "model": "glm-5.2"
+}

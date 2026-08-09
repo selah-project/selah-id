@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Mosheh mendaftar, seperti yang diperintahkan Yahweh kepadanya, ⟨את⟩ setiap anak sulung di antara bani Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Dan mendaftar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setiap anak sulung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "di antara bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T23:15:13.291821477Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 108,
+  "translation": "Supaya yang kekasih-Mu ⟩dilepaskan⟨, selamatkanlah dengan tangan kanan-Mu, dan jawablah aku.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "⟩dilepaskan⟨"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "yang kekasih-Mu"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "selamatkanlah"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "dan jawablah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:53.474945556Z",
+  "model": "glm-5.2"
+}

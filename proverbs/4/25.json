@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Matamu melihat ke depan, dan kelopakmu meluruskan ⟨ajaran⟩ di hadapanmu.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "matamu"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "ke depan"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "dan kelopakmu"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "meluruskan"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di hadapanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:36.366157876Z",
+  "model": "glm-5.2"
+}

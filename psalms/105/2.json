@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Menyanyilah bagi-Nya, bermainlah mazmur bagi-Nya, renungkanlah segala keajaiban-keajaiban-Nya.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "menyanyilah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bermainlah mazmur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "renungkanlah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "keajaiban-keajaiban-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:40.349499250Z",
+  "model": "glm-5.2"
+}

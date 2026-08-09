@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Jangan kumpulkan ⟨bersama⟩ orang-orang bersalah napasku, dan ⟨bersama⟩ orang-orang berdarah hidupku,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "kumpulkan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "orang-orang bersalah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan bersama"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "berdarah"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hidupku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:12.431785316Z",
+  "model": "glm-5.2"
+}

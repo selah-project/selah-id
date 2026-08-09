@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Anak manusia, katakanlah kepadanya: Engkau ⟨⟩⟩ tanah yang tidak tahir, ⟨dia⟩, tidak dituruni hujan pada hari kecaman.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "Engkau",
+      "marks": "kata ganti penegas untuk 'kau ini'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "tahir"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "dituruni hujan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "kecaman"
+    }
+  ],
+  "timestamp": "2026-08-08T11:24:00.769274150Z",
+  "model": "glm-5.2"
+}

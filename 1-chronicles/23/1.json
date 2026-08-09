@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Maka Dawid telah menua dan lanjut umur, dan ia mengangkat ⟨את⟩ Shelomoh anaknya menjadi raja atas Yisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Maka Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "telah menua"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "dan lanjut"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umur"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan ia mengangkat menjadi raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T10:09:15.541218022Z",
+  "model": "glm-5.2"
+}

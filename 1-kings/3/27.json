@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu menjawablah raja itu dan berkata, “Berikanlah kepadanya anak yang lahir yang hidup itu, tetapi yang mati itu jangan bunuhlah dia; dialah ibunya.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lalu menjawablah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Berikanlah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak yang lahir yang hidup"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "anak yang lahir"
+    },
+    {
+      "surface": "החי",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "tetapi yang mati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "bunuhlah dia"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:01:26.042541357Z",
+  "model": "glm-5.2"
+}

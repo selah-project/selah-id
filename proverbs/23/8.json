@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Suapan yang kau makan, kau akan memuntahkannya, dan pemborosan perkataanmu yang manis.",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "suapanmu"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "yang kau makan"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "kau akan memuntahkannya"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "dan pemborosan"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "perkataanmu"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "yang manis"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:40.653792976Z",
+  "model": "glm-5.2"
+}

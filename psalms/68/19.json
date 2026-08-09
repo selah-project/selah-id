@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Engkau telah naik ke tempat tinggi, telah menawan tawanan, telah menerima ⟨את⟩ pemberian-pemberian di antara manusia — bahkan ⟨di antara⟩ pemberontak — untuk diam ⟨di sana⟩, Yah, Elohim.",
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "Engkau telah naik"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ke tempat tinggi"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "telah menawan"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "telah menerima"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "⟨את⟩ pemberian-pemberian",
+      "marks": "pemberian-pemberian"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "di antara manusia"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "pemberontak"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "untuk diam"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:08.785443262Z",
+  "model": "glm-5.2"
+}

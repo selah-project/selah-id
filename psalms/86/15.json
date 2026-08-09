@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 86,
+  "translation": "Tetapi Engkau, Adonai, ⟨⟨adalah⟩⟩ El yang penuh rahim dan penuh kasih, lambat marah, dan berlimpah hesed dan kebenaran.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tetapi Engkau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "yang penuh rahim"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "dan penuh kasih"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lambat"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "marah"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dan berlimpah"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan kebenaran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:11.021695542Z",
+  "model": "glm-5.2"
+}

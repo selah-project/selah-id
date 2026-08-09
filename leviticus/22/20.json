@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Segala sesuatu yang padanya ada mum, jangan kalian persembahkan, sebab itu tidak akan menjadi l-ratzon bagi kalian.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala sesuatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "kalian persembahkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "menjadi l-ratzon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:24.252782669Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan orang-orang muda akan lelah dan keletihan, dan pemuda-pemuda akan tersandung jatuh.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "dan akan lelah"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "orang-orang muda"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "dan keletihan"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "dan pemuda-pemuda"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "tersandung"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "akan jatuh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:24:28.960735728Z",
+  "model": "glm-5.2"
+}

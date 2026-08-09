@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Siapa yang mempersembahkan kurban todah memuliakan aku, dan siapa yang menetapkan jalan, akan aku tunjukkan kepadanya keselamatan ⟨dari⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Siapa yang mempersembahkan kurban"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "todah"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "memuliakan aku"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan siapa yang menetapkan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "akan aku tunjukkan kepadanya"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "keselamatan ⟨dari⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:17.142413055Z",
+  "model": "glm-5.2"
+}

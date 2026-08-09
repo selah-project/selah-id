@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "engkau Hari ini melewati ⟨את⟩ batas Moab, ⟨את⟩ Ar,",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "melewati"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batas"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "batas"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:15.286572186Z",
+  "model": "glm-5.2"
+}

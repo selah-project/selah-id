@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Dan Yosef berkata kepada mereka, “Dialah yang telah kun firmankan kepadamu, dengan mengatakan: Mata-mata kamulah.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "telah kun firmankan"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamulah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:06.871795986Z",
+  "model": "glm-5.2"
+}

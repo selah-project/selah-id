@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan mereka menukar ⟨את⟩ kemuliaan mereka dengan rupa lembu yang memakan rumput.",
+  "tokens": [
+    {
+      "surface": "וַיָּמִ֥ירוּ",
+      "gloss": "dan mereka menukar"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "kemuliaan mereka"
+    },
+    {
+      "surface": "כְּבוֹדָ֑ם",
+      "gloss": "kemuliaan mereka"
+    },
+    {
+      "surface": "בְּתַבְנִ֥ית",
+      "gloss": "dengan rupa"
+    },
+    {
+      "surface": "שׁ֝֗וֹר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "אֹכֵ֥ל",
+      "gloss": "yang memakan"
+    },
+    {
+      "surface": "עֵֽשֶׂב",
+      "gloss": "rumput"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:04.311864430Z",
+  "model": "glm-5.2"
+}

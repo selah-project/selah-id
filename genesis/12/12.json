@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan akan terjadilah, ketika orang-orang Mitsrayim melihat ⟨את⟩ engkau, maka mereka akan berkata: “Istrinya ini.” Lalu mereka akan membunuh ⟨את⟩ aku, tetapi ⟨את⟩ engkau akan mereka biarkan hidup.”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan akan terjadilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau (dalam konteks: orang-orang Mitsrayim melihat engkau)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "orang-orang Mitsrayim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "maka mereka akan berkata"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "Istrinya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "Lalu mereka akan membunuh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "tetapi ⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "akan mereka biarkan hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:41.113001375Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 111,
+  "translation": "Keagungan dan semarak perbuatan-Nya, dan kebenaran-Nya berdiri untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dan semarak"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "perbuatan-Nya"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "dan kebenaran-Nya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:12.503569223Z",
+  "model": "glm-5.2"
+}

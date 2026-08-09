@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan genaplah tujuh hari setelah Yahweh memukul ⟨את⟩ sungai itu.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Dan genaplah"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai itu"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "sungai itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:03.658457292Z",
+  "model": "glm-5.2"
+}

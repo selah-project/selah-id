@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Elohim melihat ⟨את⟩ bani Yisra'el, dan Elohim mengetahui.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "dan mengetahui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:03.587866435Z",
+  "model": "glm-5.2"
+}

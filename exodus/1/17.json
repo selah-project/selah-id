@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Tetapi para bidan takut kepada ⟨האלהים⟩ Elohim, dan tidak melakukan seperti yang telah dikatakan raja Mitsrayim kepada mereka, tetapi mereka membiarkan hidup ⟨את⟩ anak-anak lelaki itu.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "tetapi mereka takut"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "para bidan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka melakukan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah dikatakan"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "tetapi mereka membiarkan hidup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak lelaki itu"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "anak-anak lelaki itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:28:49.719620321Z",
+  "model": "glm-5.2"
+}

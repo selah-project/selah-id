@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu keluarlah raja Yisra'el dan memukul ⟨את⟩ kuda dan ⟨את⟩ kereta, serta menghantam Aram dengan pukulan besar.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lalu keluarlah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuda"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kereta"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kereta"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "serta menghantam"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pukulan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "besar"
+    }
+  ],
+  "timestamp": "2026-08-08T12:16:42.717448795Z",
+  "model": "glm-5.2"
+}

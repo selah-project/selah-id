@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dengar, wahai Yahweh, dan kasihanilah aku; Yahweh, jadilah penolong bagiku.",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "Dengar"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "וְחָנֵּ֑נִי",
+      "gloss": "dan kasihanilah aku"
+    },
+    {
+      "surface": "יְ֝הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הֱֽיֵה",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "עֹזֵ֥ר",
+      "gloss": "penolong"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:20.264099039Z",
+  "model": "glm-5.2"
+}

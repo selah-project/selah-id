@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Hanya dari kesombongan timbul pertengkaran, tetapi ⟨bersama⟩ ⟨את⟩ mereka yang saling menasihati ⟨ada⟩ hikmat.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "dari kesombosan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "timbul"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "pertengkaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "tetapi ⟨את⟩",
+      "marks": "mereka yang saling menasihati"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "mereka yang saling menasihati"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:10.001374615Z",
+  "model": "glm-5.2"
+}

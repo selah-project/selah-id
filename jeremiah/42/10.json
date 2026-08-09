@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "“Jika bersisa tinggal kamu di bumi ini, maka aku akan membangun kamu dan tidak merobohkan, dan aku akan menanam kamu dan tidak mencabut, sebab aku menyesali ⟨tentang⟩ kejahatan yang aku lakukan kepada kamu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "bersisa"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "kamu tinggal"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "dan aku akan membangun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "merobohkan"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "dan aku akan menanam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "mencabut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "aku menyesali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku lakukan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:20:18.006388589Z",
+  "model": "glm-5.2"
+}

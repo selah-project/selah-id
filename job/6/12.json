@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Apakah kekuatanku ⟨apakah⟩ kekuatan batu? Apakah dagingku tembaga?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagingku"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:18.719444834Z",
+  "model": "glm-5.2"
+}

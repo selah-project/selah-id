@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 1:17",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Di mana engkau mati, aku akan mati, dan di sana aku akan dikuburkan; demikianlah Yahweh perbuat kepadaku, dan demikianlah ditambah, ⟨jika⟩ ⟨bukan⟩ kematian ⟨yang⟩ memisahkan antara aku dan engkau.",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "תמותי",
+      "gloss": "engkau mati"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aku akan mati"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan di sana"
+    },
+    {
+      "surface": "אקבר",
+      "gloss": "aku akan dikuburkan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "Ia perbuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "dan demikianlah"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "Ia tambah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨jika⟩"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "memisahkan"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara aku"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "dan engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:47:06.271222384Z",
+  "model": "glm-5.2"
+}

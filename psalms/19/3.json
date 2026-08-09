@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Hari demi hari melimpahkan ucapan, dan malam demi malam menyatakan pengetahuan.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Hari"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "demi hari"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "melimpahkan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "demi malam"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "menyatakan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:18.218200933Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan Aku akan menguduskan ⟨את⟩ Kemah Pertemuan dan ⟨את⟩ mezbah, dan ⟨את⟩ Aharon serta ⟨את⟩ anak-anaknya akan kukuduskan untuk berimam bagi-Ku.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "dan Aku akan menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kemah Pertemuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "akan kukuduskan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuk berimam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:44.645545276Z",
+  "model": "glm-5.2"
+}

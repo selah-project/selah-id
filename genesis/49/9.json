@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 49:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Anak singa ⟨adalah⟩ Yehudah; dari mangsa, anakku, engkau telah naik. ⟨Ia⟩ menunduk, ⟨ia⟩ berbaring seperti singa jantan, dan seperti singa betina; siapakah ⟨yang⟩ akan membangunkannya?",
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa jantan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מטרף",
+      "gloss": "dari mangsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "engkau telah naik"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "menunduk"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "berbaring"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "seperti singa jantan"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "dan seperti singa betina"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "akan membangunkannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:28:39.393252371Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan ia menulis dalam surat itu, dengan mengatakan: “Tempatkanlah ⟨את⟩ Uria di hadapan pertempuran yang paling hebat, dan kamu berpalinglah dari belakangnya, supaya ia dipukul dan mati.”",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "dan ia menulis"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dalam surat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "tempatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מול",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "pertempuran"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "yang hebat"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "dan kamu berpalinglah"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "dari belakangnya"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "supaya ia dipukul"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan mati"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:30.402832936Z",
+  "model": "glm-5.2"
+}

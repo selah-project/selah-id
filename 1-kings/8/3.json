@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan datanglah segala tetua Yisra'el, dan para imam mengangkat ⟨את⟩ arca itu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dan datanglah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tetua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arca itu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arca itu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:02:47.466828750Z",
+  "model": "glm-5.2"
+}

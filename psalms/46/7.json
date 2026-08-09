@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Bangsa-bangsa bergemuruh, kerajaan-kerajaan goyah; ⟨Ia⟩ memberikan suara-Nya, bumi meleleh.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "bergemuruh"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "goyah"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kerajaan-kerajaan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "suara-Nya"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "meleleh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:35.427824795Z",
+  "model": "glm-5.2"
+}

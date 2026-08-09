@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Lihat, orang-orang fasik ini, dan yang sentiasa bertenang, telah menambah kekayaan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "dan yang bertenang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "telah menambah"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekayaan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:41.269866523Z",
+  "model": "glm-5.2"
+}

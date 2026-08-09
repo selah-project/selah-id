@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan terjadi, pada pergantian tahun, Ben-Hadad mengerahkan ⟨את⟩ Aram, dan ia naik ke Afek untuk berperang dengan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadi"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "pada pergantian"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mengerahkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan ia naik"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "ke Afek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T08:07:39.139298389Z",
+  "model": "glm-5.2"
+}

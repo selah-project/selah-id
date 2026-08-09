@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "dan jemaah bangsa-bangsa mengelilingi Engkau, dan untuk sebab mereka kembalilah ke tempat tinggi.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "dan jemaah"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "mengelilingi Engkau"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "dan untuk sebab"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ke tempat tinggi"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "kembalilah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:02.169006984Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Lalu berbicaralah sang pemimpin peminum ⟨את⟩ Paroh, kata-kata-nya: ⟨את⟩ kesalahan-kesalahanku aku buat-kenang hari ini.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berbicaralah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sang pemimpin"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "peminum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata-kata-nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesalahan-kesalahanku"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "kesalahan-kesalahanku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "buat-kenang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:42.926729446Z",
+  "model": "glm-5.2"
+}

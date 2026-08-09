@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 13:2",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Anak manusia, bernubuatlah terhadap nabi-nabi Yisrael yang bernubuat, dan kaukatakan kepada nabi-nabi dari hati mereka sendiri: Dengarkanlah firman Yahweh.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "bernubuatlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "yang bernubuat"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dan kaukatakan"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "kepada nabi-nabi"
+    },
+    {
+      "surface": "מלבם",
+      "gloss": "dari hati mereka sendiri"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarkanlah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:22:40.302835907Z",
+  "model": "glm-5.2"
+}

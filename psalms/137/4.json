@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 137,
+  "translation": "Bagaimana kami menyanyikan ⟨את⟩ nyanyian Yahweh di atas tanah asing?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "kami menyanyikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyanyian Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:18.357730671Z",
+  "model": "glm-5.2"
+}

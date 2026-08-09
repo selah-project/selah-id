@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Inilah penghiburanku dalam kesesakanku, sebab firman-Mu menghidupkan aku.",
+  "tokens": [
+    {
+      "surface": "זֹ֣את",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "נֶחָמָתִ֣י",
+      "gloss": "penghiburanku"
+    },
+    {
+      "surface": "בְעָנְיִ֑י",
+      "gloss": "dalam kesesakanku"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אִמְרָתְךָ֣",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "חִיָּֽתְנִי",
+      "gloss": "menghidupkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:04.630531809Z",
+  "model": "glm-5.2"
+}

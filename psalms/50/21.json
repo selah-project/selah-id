@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Hal-hal ini kau lakukan dan aku diam; kau menyangka aku menjadi seperti engkau; aku akan menghajar engkau dan menyusun ⟨hal-hal itu⟩ di depan mata-mu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hal-hal ini"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kau lakukan"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "dan aku diam"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "kau menyangka"
+    },
+    {
+      "surface": "היות",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti engkau"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "aku akan menghajar engkau"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "dan menyusun"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "di depan mata-mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:17.142061856Z",
+  "model": "glm-5.2"
+}

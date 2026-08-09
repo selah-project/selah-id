@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu Yehoshafat berkata, “⟨Ada⟩ padanya ⟨את⟩ firman Yahweh.” Maka turunlah kepadanya raja Yisra'el dan Yehoshafat dan raja Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨Ada⟩"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "Maka turunlah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "dan Yehoshafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:03.028241303Z",
+  "model": "glm-5.2"
+}

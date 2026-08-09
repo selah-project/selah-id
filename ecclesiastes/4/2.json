@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan aku memuji ⟨את⟩ orang-orang mati yang sudah mati lebih dari ⟨dari⟩ orang-orang hidup yang mereka masih hidup sampai saat ini,",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Dan aku memuji"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang mati"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "orang-orang mati"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "yang sudah"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lebih dari"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "orang-orang hidup"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "sampai saat ini"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:37.374374466Z",
+  "model": "glm-5.2"
+}

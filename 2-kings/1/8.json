@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka berkatalah mereka kepadanya: “Seorang laki-laki berambut, dengan ikat pinggang kulit terikat pada pinggangnya.” Lalu berkatalah ia: “Eliyah si Tishbi, dialah itu.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "maka berkatalah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "berambut"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rambut"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "dengan ikat pinggang"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "terikat"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "pada pinggangnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyah"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "si Tishbi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:21.423535640Z",
+  "model": "glm-5.2"
+}

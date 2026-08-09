@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Tetapi ⟨את⟩ ini jangan kamu makan dari yang memuntahkan makanan dari perut dan dari yang membelah kuku: ⟨את⟩ unta, karena ia memuntahkan makanan dari perut tetapi kukunya tidak dibelah — najis ia bagimu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "dari yang memuntahkan"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "makanan dari perut"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "dan dari yang membelah"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unta"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "unta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "memuntahkan"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "makanan dari perut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "dan kuku"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "dibelah"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "najis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:42.031028403Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Pembenci-pembenci Yahweh berpura tunduk kepada-Nya, dan waktu mereka menjadi untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "pembenci-pembenci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "berpura tunduk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepada-Nya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "mereka menjadi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:04.560746559Z",
+  "model": "glm-5.2"
+}

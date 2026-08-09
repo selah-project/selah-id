@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Yahweh akan menjaganya dan menghidupkannya; ⟨dia⟩ akan diberkati di atas bumi, dan jangan serahkan dia kepada nafsu musuh-musuhnya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "akan menjaganya"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "dan menghidupkannya"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "⟨dia⟩ akan diberkati"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di atas bumi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "serahkan dia"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kepada nafsu"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuh-musuhnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:20.179614618Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Orang fasik membuat perbuatan kebohongan, tetapi orang yang menabur kebenaran ⟨memperoleh⟩ upah yang pasti.",
+  "tokens": [
+    {
+      "surface": "רָשָׁ֗ע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "עֹשֶׂ֥ה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "פְעֻלַּת",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "שָׁ֑קֶר",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "וְזֹרֵ֥עַ",
+      "gloss": "tetapi orang yang menabur"
+    },
+    {
+      "surface": "צְ֝דָקָ֗ה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "שֶׂ֣כֶר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "אֱמֶֽת",
+      "gloss": "yang pasti"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:53.015470739Z",
+  "model": "glm-5.2"
+}

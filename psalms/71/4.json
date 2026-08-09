@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Elohim-ku, luputkan aku dari tangan orang fasik, dari telapak tangan pelaku kecurangan dan penindas.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "luputkan aku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dari telapak tangan"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "pelaku kecurangan"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "dan penindas"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:07.995347805Z",
+  "model": "glm-5.2"
+}

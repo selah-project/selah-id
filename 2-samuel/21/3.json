@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan berkatalah Dawid kepada orang-orang Giv'on, “Apa yang harus kuperbuat bagi kalian, dan dengan apakah aku harus menebus ⟨bersalah⟨, supaya kalian memberkati ⟨את⟩ milik warisan Yahweh?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "orang-orang Giv'on"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "harus kuperbuat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kalian"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "dan dengan apa"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "aku harus menebus"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "supaya kalian memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milik warisan"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "milik warisan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:59:03.100369491Z",
+  "model": "glm-5.2"
+}

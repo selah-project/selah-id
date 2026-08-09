@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Kulit kami seperti tungku membara, karena amukan kelaparan.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "kulit kami"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "seperti tungku"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "membara"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karena"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "amukan"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kelaparan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:48:52.667302240Z",
+  "model": "glm-5.2"
+}

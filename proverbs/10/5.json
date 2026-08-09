@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Yang mengumpulkan pada musim panas ⟨adalah⟩ anak yang berakal budi; yang tertidur pada musim panen ⟨adalah⟩ anak yang menimbulkan rasa malu.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "mengumpulkan"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "pada musim panas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yang berakal budi"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "yang tertidur"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pada musim panen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "yang menimbulkan rasa malu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:33.018318462Z",
+  "model": "glm-5.2"
+}

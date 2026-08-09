@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Aku yang memerintahkan ⟨orang-orang⟩ yang dikuduskan-Ku, juga Aku yang memanggil pahlawan-pahlawan-Ku untuk murka-Ku, ⟨yaitu⟩ orang-orang yang bersukaria dalam keagungan-Ku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "memerintahkan"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "yang dikuduskan-Ku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "pahlawan-pahlawan-Ku"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "untuk murka-Ku"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "orang-orang yang bersukaria"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "dalam keagungan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:17:47.686694542Z",
+  "model": "glm-5.2"
+}

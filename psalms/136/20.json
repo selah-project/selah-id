@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "dan Og, raja ⟨di⟩ Basyan, bahwa untuk selama-lamanya hesed-⟨nya⟩.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "dan Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "⟨di⟩ Basyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-⟨nya⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:13.676832771Z",
+  "model": "glm-5.2"
+}

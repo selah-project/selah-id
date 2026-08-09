@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Tidak boleh kamu membulatkan ⟨tepi⟩ kepala kamu, dan tidak boleh kamu merusakkan ⟨את⟩ ⟨tepi⟩ janggut kamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "kamu boleh membulatkan"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨tepi⟩"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "kepala kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "kamu boleh merusakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tepi"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tepi"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "janggut kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:06.286551227Z",
+  "model": "glm-5.2"
+}

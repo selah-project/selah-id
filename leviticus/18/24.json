@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 18:24",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Janganlah kamu menajiskan diri dalam segala hal-hal ini, sebab dalam segala hal-hal inilah ketajisan ⟨telah⟩ menajiskan bangsa-bangsa yang aku halau dari hadapanmu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "kamu menajiskan diri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hal-hal ini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hal-hal ini"
+    },
+    {
+      "surface": "נטמאו",
+      "gloss": "⟨telah⟩ menajiskan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "halau"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dari hadapanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:15.217546248Z",
+  "model": "glm-5.2"
+}

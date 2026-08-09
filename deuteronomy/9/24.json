@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Orang-orang pemberontak ⟨kalian⟩ telah ⟨menjadi⟩ bersama Yahweh — dari hari aku mengenal ⟨את⟩ kalian.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "orang-orang pemberontak"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kalian telah menjadi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "dari hari"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "aku mengenal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T23:16:11.979184158Z",
+  "model": "glm-5.2"
+}

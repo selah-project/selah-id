@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Baik dan lurus ⟨adalah⟩ Yahweh; oleh sebab itu ⟨Dia⟩ mengajar orang-orang berdosa di jalan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "dan lurus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "Dia mengajar"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "orang-orang berdosa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:56.367006388Z",
+  "model": "glm-5.2"
+}

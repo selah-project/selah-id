@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan aku mengangkat mataku dan melihat, dan lihat, ⟨seorang⟩ laki-laki, dan di tangannya tali pengukur.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Dan aku mengangkat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "dan di tangannya"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tali"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "pengukur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:04:36.797620135Z",
+  "model": "glm-5.2"
+}

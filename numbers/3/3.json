@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Ini nama-nama anak-anak Aharon, ⟨para⟩ imam ⟨yang⟩ diurapi, yang tangannya diisi untuk bertugas sebagai imam.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "yang diurapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "diisi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuk bertugas sebagai imam"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:58.745017807Z",
+  "model": "glm-5.2"
+}

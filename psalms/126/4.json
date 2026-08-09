@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 126,
+  "translation": "Kembalikanlah, Yahweh, ⟨את⟩ keadaan pembuangan kami, seperti aliran-aliran di ⟨wilayah⟩ Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kembalikanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan pembuangan kami"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "keadaan pembuangan kami"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "seperti aliran-aliran"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "di Negev"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:53.038651050Z",
+  "model": "glm-5.2"
+}

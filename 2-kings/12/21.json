@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Maka bangkitlah hamba-hambanya dan berkomplotlah mereka suatu komplotan, dan memukul ⟨את⟩ Yoas di Bet-Milo, ⟨yang⟩ turun ke Sila.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "maka bangkitlah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "dan berkomplotlah"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "suatu komplotan"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di Bet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "-Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "yang turun"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "ke Sila"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:52.445557124Z",
+  "model": "glm-5.2"
+}

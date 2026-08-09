@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan berkatalah ⟨ia⟩, “Besok.” Dan berkatalah ⟨ia⟩, “Sesuai perkataanmu, supaya engkau tahu bahwa tidak ada seperti Yahweh, Elohim kami.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Besok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Sesuai perkataanmu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "seperti Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:00.839709901Z",
+  "model": "glm-5.2"
+}

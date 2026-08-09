@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Rahasia Yahweh bagi orang-orang yang takut akan Dia, dan perjanjian-Nya untuk memberitahukan mereka.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "rahasia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "bagi orang-orang yang takut akan Dia"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "dan perjanjian-Nya"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "untuk memberitahukan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:53.218030330Z",
+  "model": "glm-5.2"
+}

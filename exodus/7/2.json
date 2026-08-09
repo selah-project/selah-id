@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Engkau akan berbicara ⟨את⟩ segala yang Kuperintahkan kepadamu, dan Aharon saudaramu akan berbicara kepada Paroh, supaya ⟨dia⟩ menyuruh ⟨את⟩ bani Yisra'el keluar dari negerinya.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "akan berbicara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "Kuperintahkan kepadamu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "akan berbicara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "supaya menyuruh keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dari negerinya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:13.515911589Z",
+  "model": "glm-5.2"
+}

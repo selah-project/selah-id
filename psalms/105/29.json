@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Ia membalikkan ⟨את⟩ air mereka menjadi darah, dan membunuh ⟨את⟩ ikan mereka.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "membalikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "air mereka"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "air mereka"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "menjadi darah"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikan mereka"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ikan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:02.859402605Z",
+  "model": "glm-5.2"
+}

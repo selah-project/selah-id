@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 5:5",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Aku akan pergi bagiku kepada yang-sungguh-besar dan aku akan berbicara ⟨את⟩ mereka, sebab mereka mengenal jalan Yahweh, hukum Elohim mereka. tetapi mereka bersama-sama telah memecahkan kuk, telah mencabik tali-pengikat.",
+  "tokens": [
+    {
+      "surface": "אלכה",
+      "gloss": "aku akan pergi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "yang-sungguh-besar"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "dan aku akan berbicara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "telah memecahkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuk"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "telah mencabik"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "tali-pengikat"
+    }
+  ],
+  "timestamp": "2026-08-08T08:31:11.014653080Z",
+  "model": "glm-5.2"
+}

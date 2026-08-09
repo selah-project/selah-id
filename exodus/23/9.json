@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan ⟨seorang⟩ ger janganlah kau-tekan, karena kamu tahu ⟨את⟩ nefesh ⟨dari⟩ sang ger — karena gerim kamu telah ada di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Dan ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "kau-tekan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sang ger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "gerim"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamu telah ada"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:18.446026645Z",
+  "model": "glm-5.2"
+}

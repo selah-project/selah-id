@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Tangan mereka tetapi tidak memegang, kaki mereka tetapi tidak berjalan; tidak bersuara dalam tenggorokan mereka.",
+  "tokens": [
+    {
+      "surface": "יְדֵיהֶ֤ם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "וְלֹ֬א",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יְמִישׁ֗וּן",
+      "gloss": "memegang"
+    },
+    {
+      "surface": "רַ֭גְלֵיהֶם",
+      "gloss": "kaki mereka"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יְהַלֵּ֑כוּ",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יֶ֝הְגּ֗וּ",
+      "gloss": "bersuara"
+    },
+    {
+      "surface": "בִּגְרוֹנָֽם",
+      "gloss": "dalam tenggorokan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:12.843898566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Bukankah hal ini kamu perbuat bagi dirimu sendiri: ⟨karena⟩ kamu meninggalkan ⟨את⟩ Yahweh, Elohim-mu, pada saat ⟨Ia⟩ menuntunmu di jalan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kamu perbuat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi dirimu sendiri"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "kamu meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada saat"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "⟨Ia⟩ menuntunmu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:15:06.160166260Z",
+  "model": "glm-5.2"
+}

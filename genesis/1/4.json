@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Elohim melihat ⟨את⟩ terang itu, bahwa itu baik; maka Elohim memisahkan antara terang itu dan antara kegelapan itu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terang itu"
+    },
+    {
+      "surface": "האור",
+      "gloss": "terang itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "maka memisahkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "האור",
+      "gloss": "terang itu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "kegelapan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:54.598707570Z",
+  "model": "glm-5.2"
+}

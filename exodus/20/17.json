@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Jangan mengingini rumuh sesamamu, jangan mengingini isteri sesamamu, dan hamba sahayanya, dan hamba perempuannya, dan lembunya, dan keledainya, dan segala apa yang milik sesamamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "mengingini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "mengingini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "dan hamba sahayanya"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "dan hamba perempuannya"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "dan lembunya"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "dan keledainya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "milik sesamamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:24.481261901Z",
+  "model": "glm-5.2"
+}

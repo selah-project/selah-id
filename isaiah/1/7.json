@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Negerimu ⟨adalah⟩ sunyi, kota-kotamu dilalapkan api; tanahmu, di depanmu orang-orang asing memakannya, ⟨dan⟩ ⟨את⟩ tempat itu menjadi sunyi seperti porak-poranda orang-orang asing.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "negerimu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "sunyi"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "kota-kotamu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "dilalapkan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "di depanmu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "orang-orang asing"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "memakannya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tempat itu"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "dan menjadi sunyi"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "seperti porak-poranda"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "orang-orang asing"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:14.672720621Z",
+  "model": "glm-5.2"
+}

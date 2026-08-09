@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 53,
+  "translation": "Siapa yang percaya kepada apa yang kami dengar, dan lengan Yahweh, kepada siapa ⟨ia⟩ dinyatakan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "kepada apa yang kami dengar"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "dan lengan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "dinyatakan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:11.556462627Z",
+  "model": "glm-5.2"
+}

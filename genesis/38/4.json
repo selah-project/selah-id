@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Maka mengandunglah ⟨dia⟩ lagi dan melahirkan seorang putra, dan ia memanggil ⟨את⟩ namanya Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "maka mengandunglah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang putra"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dan ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:06.526335907Z",
+  "model": "glm-5.2"
+}

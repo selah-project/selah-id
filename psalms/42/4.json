@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Air mataku menjadi makananku siang dan malam, saat mereka berkata kepadaku sepanjang hari: “Di mana Elohim-mu?”",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "makananku"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "air mataku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "saat berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:34.521110199Z",
+  "model": "glm-5.2"
+}

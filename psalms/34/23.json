@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Yahweh menebus nefesh ⟨dari⟩ hamba-hamba-Nya, dan tidak akan dihukum semua yang berlindung pada-Nya.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "menebus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hamba-Nya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "akan dihukum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "yang berlindung"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pada-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:37.755431869Z",
+  "model": "glm-5.2"
+}

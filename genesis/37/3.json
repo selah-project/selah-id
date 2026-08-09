@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan Yisrael mengasihi ⟨את⟩ Yusuf lebih dari semua anak-anaknya, sebab ia anak masa tuanya. Dan ia membuatkan baginya kethoneth pasim.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "dan Yisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusuf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lebih dari semua"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "masa tua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan ia membuatkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kethoneth"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "pasim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:38.933904306Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Hai Tsiyon, larilah, ⟨engkau⟩ yang diam ⟨di⟩ putri Bavel!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hai"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "larilah"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "⟨engkau⟩ yang diam"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-08T12:22:56.157134779Z",
+  "model": "glm-5.2"
+}

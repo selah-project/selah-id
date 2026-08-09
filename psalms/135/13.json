@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Yahweh, nama-Mu ⟨untuk⟩ selamanya; Yahweh, peringatan-Mu ⟨untuk⟩ keturunan dan keturunan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selamanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "peringatan-Mu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "untuk keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dan keturunan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:55.176516813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 7:9",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Aku berkata, aku akan naik ke pohon palem, aku akan memegang dahannya, dan biarlah payudaramu seperti tandan buah anggur, dan baui hidungmu seperti apel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aku akan naik"
+    },
+    {
+      "surface": "בתמר",
+      "gloss": "ke pohon palem"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "aku akan memegang"
+    },
+    {
+      "surface": "בסנסניו",
+      "gloss": "dahannya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan biarlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "payudaramu"
+    },
+    {
+      "surface": "כאשכלות",
+      "gloss": "seperti tandan buah"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "dan baui"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hidungmu"
+    },
+    {
+      "surface": "כתפוחים",
+      "gloss": "seperti apel"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:40.561229200Z",
+  "model": "glm-5.2"
+}

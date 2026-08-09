@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Aku akan menjadikan ⟨את⟩ Yerushalayim menjadi tumpukan reruntuhan, tempat tinggal serigala, dan ⟨את⟩ kota-kota Yehudah akan Kujadikan sunyi sepi, tanpa ⟨ada⟩ penduduk.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "menjadi tumpukan reruntuhan"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tempat tinggal"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "serigala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kota-kota"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "akan Kujadikan"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "sunyi sepi"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "penduduk"
+    }
+  ],
+  "timestamp": "2026-08-08T11:16:11.320292216Z",
+  "model": "glm-5.2"
+}

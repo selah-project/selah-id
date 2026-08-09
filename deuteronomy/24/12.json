@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan jika ⟨dia⟩ orang miskin, jangan engkau berbaring dengan jaminannya,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "engkau berbaring"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "dengan jaminannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:01.683542129Z",
+  "model": "glm-5.2"
+}

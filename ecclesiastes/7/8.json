@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Lebih baik akhir suatu perkara daripada awalnya; lebih baik ⟨orang yang⟩ panjang ⟨dalam⟩ roh daripada ⟨orang yang⟩ tinggi ⟨dalam⟩ roh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "akhir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "suatu perkara"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "daripada awalnya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "daripada ⟨orang yang⟩ tinggi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:25.612232824Z",
+  "model": "glm-5.2"
+}

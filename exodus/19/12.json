@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan engkau akan membatasi ⟨את⟩ bangsa sekelilingnya, berkata: Hati-hatilah kamu dari naik ke gunung atau menyentuh ujungnya; setiap orang yang menyentuh gunung pasti akan dihukum mati.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Dan engkau akan membatasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekelilingnya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Hati-hatilah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dari naik"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ke gunung"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "atau menyentuh"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "ujungnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akan dihukum mati"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:49.230240388Z",
+  "model": "glm-5.2"
+}

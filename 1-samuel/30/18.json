@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Lalu Dawid menyelamatkan kembali ⟨את⟩ segala yang telah diambil Amalek, dan ⟨את⟩ kedua istrinya diselamatkan Dawid kembali.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "dan menyelamatkan kembali"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala yang telah diambil Amalek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "telah diambil"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kedua istrinya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "istrinya"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "diselamatkan kembali"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:34.391180900Z",
+  "model": "glm-5.2"
+}

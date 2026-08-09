@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu ⟨ia⟩ membawa keluar ⟨את⟩ putra sang raja, dan meletakkan atasnya ⟨את⟩ mahkota dan ⟨את⟩ kesaksian, lalu mereka mengangkatnya menjadi raja dan mengurapinya, dan mereka bertepuk ⟨bertangan⟩, serta berkata, “Hiduplah sang raja!”",
+  "tokens": [
+    {
+      "surface": "וַיּוֹצִ֣א",
+      "gloss": "dan ia membawa keluar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "putra sang raja"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "הַמֶּ֗לֶךְ",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "וַיִּתֵּ֤ן",
+      "gloss": "dan ia meletakkan"
+    },
+    {
+      "surface": "עָלָיו֙",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mahkota"
+    },
+    {
+      "surface": "הַנֵּ֨זֶר֙",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kesaksian"
+    },
+    {
+      "surface": "הָ֣עֵד֔וּת",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "וַיַּמְלִ֥כוּ",
+      "gloss": "lalu mereka mengangkat menjadi raja"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "וַיִּמְשָׁחֻ֑הוּ",
+      "gloss": "dan mengurapinya"
+    },
+    {
+      "surface": "וַיַּכּ֔וּ",
+      "gloss": "lalu mereka memukul"
+    },
+    {
+      "surface": "כַּ֣ף",
+      "gloss": "telapak tangan"
+    },
+    {
+      "surface": "וַיֹּאמְר֖וּ",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "יְחִ֥י",
+      "gloss": "hiduplah"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T18:32:46.852295205Z",
+  "model": "glm-5.2"
+}

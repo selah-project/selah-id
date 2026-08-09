@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Orang benar makan sampai kenyang napas-hidupnya, tetapi perut orang-orang fasik ⟨akan⟩ kekurangan.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sampai kenyang"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "napas-hidupnya"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "tetapi perut"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "kekurangan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:35.356704226Z",
+  "model": "glm-5.2"
+}

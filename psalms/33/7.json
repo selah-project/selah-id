@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Mengumpulkan seperti timbunan air laut, memberi dalam gudang-gudang kedalaman.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "mengumpulkan"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "seperti timbunan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "dalam gudang-gudang"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "kedalaman-kedalaman"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:57.049167746Z",
+  "model": "glm-5.2"
+}

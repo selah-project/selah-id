@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 132,
+  "translation": "sampai aku menemukan tempat bagi Yahweh, kediaman-kediaman bagi Yang Perkasa ⟨milik⟩ Yaakob.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "aku menemukan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "kediaman-kediaman"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "bagi Yang Perkasa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:33.207864326Z",
+  "model": "glm-5.2"
+}

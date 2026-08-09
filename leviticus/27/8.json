@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan jika dia terlalu miskin untuk penaksiranmu, maka ⟨ia⟩ harus berdiri di hadapan imam, dan imam harus menaksirnya; sesuai dengan apa yang dicapai oleh tangan ⟨orang⟩ yang bernazar, demikianlah imam menaksirnya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "מך",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "untuk penaksiranmu"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "maka harus berdiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "dan harus menaksir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (orang miskin tersebut)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "על",
+      "gloss": "sesuai"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "dicapai"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "orang yang bernazar"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "menaksirnya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:34.812732783Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Siapa yang telah mengatur ⟨את⟩ roh Yahweh, dan siapakah ⟨yang menjadi⟩ penasihat-Nya yang memperkenalkan ⟨kepada⟩-Nya?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "תִכֵּ֥ן",
+      "gloss": "telah mengatur"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "roh"
+    },
+    {
+      "surface": "ר֖וּחַ",
+      "gloss": "roh"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאִ֥ישׁ",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "עֲצָת֖וֹ",
+      "gloss": "penasihat-Nya"
+    },
+    {
+      "surface": "יוֹדִיעֶֽנּוּ",
+      "gloss": "memperkenalkan kepada-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:31.917046125Z",
+  "model": "glm-5.2"
+}

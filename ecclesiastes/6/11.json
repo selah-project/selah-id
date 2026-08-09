@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Karena ada hal-hal yang banyak memperbanyak hebel, apa kelebihan bagi ⟨הָאָדָם⟩ manusia?",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "ada"
+    },
+    {
+      "surface": "דְּבָרִ֥ים",
+      "gloss": "hal-hal"
+    },
+    {
+      "surface": "הַרְבֵּ֖ה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "מַרְבִ֣ים",
+      "gloss": "memperbanyak"
+    },
+    {
+      "surface": "הָ֑בֶל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יֹּתֵ֖ר",
+      "gloss": "kelebihan"
+    },
+    {
+      "surface": "לָאָדָֽם",
+      "gloss": "bagi manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:28.574573047Z",
+  "model": "glm-5.2"
+}

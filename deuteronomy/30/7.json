@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan Yahweh Elohim-mu akan memberikan ⟨את⟩ segala kutuk-kutuk ini atas musuhmu dan atas pembenci-pembencimu, yang telah mengejar engkau.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dan akan memberikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kutuk-kutuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "kutuk-kutuk"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "pembenci-pembencimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "telah mengejar engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:24.320880189Z",
+  "model": "glm-5.2"
+}

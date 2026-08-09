@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan nama sungai yang kedua ⟨adalah⟩ Gichon; ⟨dialah⟩ yang mengelilingi ⟨את⟩ seluruh tanah Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Dan nama"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "yang mengelilingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh tanah Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:14.212828707Z",
+  "model": "glm-5.2"
+}

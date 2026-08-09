@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨mereka⟩ memberitahukan kepada Mordekhai ⟨את⟩ perkataan Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "dan ⟨mereka⟩ memberitahukan"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kepada Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-08T11:58:08.822408755Z",
+  "model": "glm-5.2"
+}

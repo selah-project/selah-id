@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 26,
+ "ref": "deuteronomy 27:26",
+ "book": "deuteronomy",
+ "lang": "id",
+ "chapter": 27,
+ "translation": "Terkutuklah yang tidak menegakkan ⟨את⟩ perkataan torah ini untuk melakukannya, dan seluruh bangsa itu berkata, “Amen.”",
+ "tokens": [
+  {
+   "surface": "ארור",
+   "gloss": "Terkutuklah"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "yang"
+  },
+  {
+   "surface": "לא",
+   "gloss": "tidak"
+  },
+  {
+   "surface": "יקים",
+   "gloss": "menegakkan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "perkataan"
+  },
+  {
+   "surface": "דברי",
+   "gloss": "perkataan"
+  },
+  {
+   "surface": "התורה",
+   "gloss": "torah"
+  },
+  {
+   "surface": "הזאת",
+   "gloss": "ini"
+  },
+  {
+   "surface": "לעשות",
+   "gloss": "untuk melakukannya"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "ואמר",
+   "gloss": "dan berkata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "seluruh"
+  },
+  {
+   "surface": "העם",
+   "gloss": "bangsa itu"
+  },
+  {
+   "surface": "אמן",
+   "gloss": "Amen"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:02.607704536Z",
+ "model": "glm-5.2"
+}

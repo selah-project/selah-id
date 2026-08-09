@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan diberitahukanlah kepada keluarga Dawud, demikian: “Aram telah bermalam bersama Efrayim.” Maka goyahlah hatinya dan hati bangsanya, seperti goyahnya pohon-pohon hutan karena angin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Dan diberitahukanlah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kepada keluarga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "demikian:"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "telah bermalam"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "Maka goyahlah"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "dan hati"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bangsanya"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "seperti goyahnya"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "pohon-pohon"
+    },
+    {
+      "surface": "יער",
+      "gloss": "hutan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karena"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-08T12:17:34.404411327Z",
+  "model": "glm-5.2"
+}

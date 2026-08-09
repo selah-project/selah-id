@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "⟨Mereka⟩ yang duduk dalam kegelapan dan bayang-maut, tawanan penderitaan dan besi.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "yang duduk"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "dan bayang-maut"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "penderitaan"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "dan besi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:59.674217798Z",
+  "model": "glm-5.2"
+}

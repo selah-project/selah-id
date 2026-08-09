@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "Penuhilah wajah mereka dengan aib, supaya mereka mencari namamu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "penuhilah"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wajah mereka"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "aib"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "supaya mereka mencari"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:55.674353396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Mereka bangkit, saksi-saksi kekerasan; hal-hal yang tidak aku kenal, mereka tanyakan kepadaku.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Mereka bangkit"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hal-hal yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku kenal"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "mereka tanyakan kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:26.484839939Z",
+  "model": "glm-5.2"
+}

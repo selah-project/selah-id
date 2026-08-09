@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Dengan Engkau para lawan kami kami tanduk; dalam nama-Mu kami injak para pembangkit melawan kami.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Dalam Engkau"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "para penyesak kami"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "kami tanduk"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "dalam nama-Mu"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "kami injak"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "para pembangkit melawan kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:36.826894095Z",
+  "model": "glm-5.2"
+}

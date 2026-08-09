@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan aku menempatkan di sana ⟨se⟩ tempat untuk aron, di mana di sana ⟨adalah⟩ berit Yahweh, yang ⟨dia⟩ mengikat dengan bapa-bapa kami, pada saat ⟨dia⟩ mengeluarkan ⟨את⟩ mereka dari tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "Dan aku menempatkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "untuk aron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "mengikat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "pada saat mengeluarkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:27.384587427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "dan ⟨את⟩ Kholon serta ⟨את⟩ tanah penggembalaannya, dan ⟨את⟩ Devir serta ⟨את⟩ tanah penggembalaannya,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:50:48.402416341Z",
+  "model": "glm-5.2"
+}

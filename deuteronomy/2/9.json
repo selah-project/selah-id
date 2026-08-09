@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Yahweh berfirman kepadaku, “Janganlah menyerang Moab, dan janganlah memprovokasi mereka ⟨ke⟩ peperangan, karena aku tidak akan memberikan kepadamu dari tanahnya sebagai milik, karena kepada bani Lot aku telah memberikan ⟨את⟩ Ar sebagai milik.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "menyerang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "memprovokasi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aku berikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dari tanahnya"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "sebagai milik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada bani"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aku telah memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "sebagai milik"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:40.793503465Z",
+  "model": "glm-5.2"
+}

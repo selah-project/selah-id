@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan berkatalah Dawid kepada Elohim, “Aku telah berbuat dosa sangat, bahwa aku telah melakukan ⟨את⟩ perkara ini; dan sekarang, silakanlah lalui ⟨את⟩ kesalahan hamba-Mu, karena aku telah berlaku sangat bodoh.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku telah berbuat dosa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku telah melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "laluilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "silakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesalahan hamba-Mu"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "aku telah berlaku bodoh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:08:26.898966210Z",
+  "model": "glm-5.2"
+}

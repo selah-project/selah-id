@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Ketika engkau mendekati sebuah kota untuk berperang melawannya, maka engkau harus menyerunya untuk damai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "engkau mendekati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sebuah kota"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "melawannya"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "maka engkau harus menyeru"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "untuk damai"
+    }
+  ],
+  "timestamp": "2026-08-08T07:28:40.338297566Z",
+  "model": "glm-5.2"
+}

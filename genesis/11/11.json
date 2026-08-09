@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Shem hidup setelah ⟨dia⟩ memperanakkan ⟨את⟩ Arpakshad lima ratus tahun, dan memperanakkan anak-anak lelaki dan anak-anak perempuan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Dan hidup"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "dan anak-anak perempuan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:08:58.836732574Z",
+  "model": "glm-5.2"
+}

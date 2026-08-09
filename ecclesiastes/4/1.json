@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu aku berpaling, dan aku melihat ⟨את⟩ segala penindasan yang dilakukan di bawah matahari, dan lihat, air mata ⟨dari⟩ orang-orang yang ditindas, dan tidak ada bagi mereka penghibur, dan dari tangan orang-orang yang menindas mereka ⟨ada⟩ kekuasaan, dan tidak ada bagi mereka penghibur.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Lalu aku berpaling"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dan aku melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala penindasan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "penindasan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "air mata"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "orang-orang yang ditindas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "penghibur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dan dari tangan"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "orang-orang yang menindas mereka"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kekuasaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "penghibur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:37.374190577Z",
+  "model": "glm-5.2"
+}

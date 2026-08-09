@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dengarlah na, ⟨את⟩ apa yang Yahweh katakan: Bangunlah, berperanglah terhadap pegunungan, dan biarlah bukit-bukit mendengar suaramu.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "berperanglah"
+    },
+    {
+      "surface": "את",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "pegunungan"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "dan biarlah ... mendengar"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:52.509918468Z",
+  "model": "glm-5.2"
+}

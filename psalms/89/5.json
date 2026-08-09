@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "sampai ⟨olam⟩ aku akan menegakkan benihmu, dan aku akan membangun untuk keturunan dan keturunan kursimu. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨olam⟩"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "aku akan menegakkan"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "dan aku akan membangun"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "untuk keturunan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dan keturunan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kursimu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:14.079394470Z",
+  "model": "glm-5.2"
+}

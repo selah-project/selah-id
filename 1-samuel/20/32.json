@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu Yonatan menjawab ⟨את⟩ Sha'ul ayahnya, dan ⟨ia⟩ berkata kepadanya, “Mengapa ia harus dibunuh? Apa yang ia perbuat?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu menjawab"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ia harus dibunuh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ia perbuat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:56.620968024Z",
+  "model": "glm-5.2"
+}

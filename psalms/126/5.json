@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 126,
+  "translation": "Orang-orang yang menabur dengan tangisan, dengan nyanyian riuh mereka akan menuai.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "orang-orang yang menabur"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "dengan tangisan"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "dengan nyanyian riuh"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "mereka akan menuai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:11.770812806Z",
+  "model": "glm-5.2"
+}

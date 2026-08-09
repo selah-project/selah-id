@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Saudara-saudaraku yang naik bersamaku telah melelehkan ⟨את⟩ hati bangsa itu, tetapi aku, aku mengikuti sepenuhnya Yahweh, Elohimku.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "dan saudara-saudaraku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naik"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bersamaku"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "melelehkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "tetapi aku"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "mengikuti sepenuhnya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:36:06.132530659Z",
+  "model": "glm-5.2"
+}

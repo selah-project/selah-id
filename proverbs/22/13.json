@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Orang malas berkata, “⟨Ada⟩ singa di luar; di tengah lapangan aku akan dibunuh.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "orang malas"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "singa"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "lapangan"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "aku akan dibunuh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:07.630288132Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Jerih payah orang-orang bodoh menyebabkan dia kelelahan, yang tidak tahu pergi ke kota.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "jerih payah"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "menyebabkan dia kelelahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:21.994521665Z",
+  "model": "glm-5.2"
+}

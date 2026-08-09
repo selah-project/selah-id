@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Sebuah ketetapan bagi Yisrael ⟨ia⟩; sebuah peraturan bagi Elohim Yakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebuah"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bagi Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "peraturan"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "bagi Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:12.204392328Z",
+  "model": "glm-5.2"
+}

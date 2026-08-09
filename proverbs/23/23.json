@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Kebenaran, belilah, dan jangan menjual — hikmat dan didikan dan pengertian.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "belilah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "menjual"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "dan didikan"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "dan pengertian"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:22.665228080Z",
+  "model": "glm-5.2"
+}

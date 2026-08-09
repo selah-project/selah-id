@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu ia mengembalikan ⟨את⟩ segala harta benda; dan juga ⟨את⟩ Lot saudaranya serta hartanya ia kembalikan, dan juga ⟨את⟩ perempuan-perempuan dan ⟨את⟩ rakyat.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Lalu mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala harta benda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "harta benda"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "serta hartanya"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ia kembalikan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan-perempuan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "perempuan-perempuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rakyat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:33.961112628Z",
+  "model": "glm-5.2"
+}

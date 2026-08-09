@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Shallum memperanakkan ⟨את⟩ Yekamya, dan Yekamya memperanakkan ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "dan Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamya"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "dan Yekamya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:41.899662866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 125,
+  "translation": "Dan mereka yang membelokkan kepada kebelitan mereka, Yahweh akan menuntun ⟨את⟩ pelaku kejahatan. Damai atas Yisrael!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "dan mereka yang membelokkan"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "kebelitan mereka"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "akan menuntun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelaku kejahatan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pelaku"
+    },
+    {
+      "surface": "האון",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:05.204936308Z",
+  "model": "glm-5.2"
+}

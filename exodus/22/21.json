@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Setiap janda dan yatim tidak akan kamu menindas.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "janda"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "dan yatim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "kamu menindas"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:28.739949658Z",
+  "model": "glm-5.2"
+}

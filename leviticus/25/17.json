@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan janganlah kamu menindas, seseorang ⟨את⟩ sesamanya, dan engkau akan takut akan Elohim-mu; karena Akulah Yahweh, Elohim-mu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan janganlah"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "kamu menindas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesamanya"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "dan engkau akan takut"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "akan Elohim-mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:38:13.834900240Z",
+  "model": "glm-5.2"
+}

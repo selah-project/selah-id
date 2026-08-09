@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 67,
+  "translation": "Bangsa-bangsa akan bersyukur kepada-Mu, ⟨hai⟩ Elohim; bangsa-bangsa akan bersyukur kepada-Mu, semuanya.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "akan bersyukur kepada-Mu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨hai⟩ Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "akan bersyukur kepada-Mu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "semuanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:15.572895555Z",
+  "model": "glm-5.2"
+}

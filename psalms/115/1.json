@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Bukan kepada kami, Yahweh, bukan kepada kami, melainkan kepada nama-Mu berilah kemuliaan, atas hesed-Mu, atas kesetiaan-Mu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kepada nama-Mu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "berilah"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kesetiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:02.634953466Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Untuk pemimpin biduan, bagi hamba Yahweh, bagi Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk pemimpin biduan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "bagi hamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:19.289218502Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 100,
+  "translation": "Mizmor untuk todah. Bersorak-sorailah kepada Yahweh, seluruh bumi!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "untuk todah"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:48.325722800Z",
+  "model": "glm-5.2"
+}

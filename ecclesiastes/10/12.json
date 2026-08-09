@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Perkataan mulut orang bijak penuh kasih; tetapi bibir orang bodoh menelannya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Perkataan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijak"
+    },
+    {
+      "surface": "חן",
+      "gloss": "penuh kasih"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "tetapi bibir"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "menelannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:58.909413959Z",
+  "model": "glm-5.2"
+}

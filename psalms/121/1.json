@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 121,
+  "translation": "Nyanyian untuk naikan. Aku mengangkat mataku ke gunung-gunung — dari mana ⟨kah⟩ pertolonganku datang?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "untuk naikan"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aku mengangkat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "dari mana"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "pertolonganku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:26.634428343Z",
+  "model": "glm-5.2"
+}

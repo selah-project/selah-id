@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 96,
+  "translation": "Hod dan hadar di hadapan-Nya, oz dan tif'eret di miqdash-Nya.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "hod"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dan hadar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "oz"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "dan tif'eret"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "di miqdash-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:17.504248575Z",
+  "model": "glm-5.2"
+}

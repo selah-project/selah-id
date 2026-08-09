@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Untuk pemimpin biduan. “Jangan musnahkan.” Untuk David. Miktam. Ketika ⟨ia⟩ melarikan diri dari hadapan Shaul, di gua.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin biduan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "“Jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "musnahkan.”"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "Ketika melarikan diri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di gua"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:35.829279821Z",
+  "model": "glm-5.2"
+}

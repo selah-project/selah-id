@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Aku akan bersyukur kepada Yahweh dengan segenap hatiku; aku akan menceritakan segala perbuatan-perbuatan-Mu yang ajaib.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Aku akan bersyukur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "aku akan menceritakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "perbuatan-perbuatan-Mu yang ajaib"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:01.030695429Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Adam mengenal lagi ⟨את⟩ isterinya, dan ia melahirkan seorang anak laki-laki, dan ia memanggil ⟨את⟩ namanya Shet: “karena telah diletakkan bagiku oleh Elohim benih lain menggantikan Hevel, karena Qayin telah membunuh dia.”",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "dan mengenal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isterinya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan ia melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dan ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שת",
+      "gloss": "telah diletakkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "telah membunuh dia"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:17.177437957Z",
+  "model": "glm-5.2"
+}

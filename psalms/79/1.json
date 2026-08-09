@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 79,
+  "translation": "Mazmur bagi Asaf. Elohim, bangsa-bangsa telah masuk ke dalam warisan-Mu, mereka menajiskan ⟨את⟩ bait kekudusan-Mu, mereka menjadikan ⟨את⟩ Yerushalayim menjadi tumpukan reruntuhan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "telah masuk"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "ke dalam warisan-Mu"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "mereka menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait kekudusan-Mu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "bait"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kekudusan-Mu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mereka menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "menjadi tumpukan reruntuhan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:11.032364709Z",
+  "model": "glm-5.2"
+}

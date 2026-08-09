@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 39:12",
+  "book": "job",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Apakah ⟨kau⟩ mempercayainya, bahwa ia akan membawa pulang benihmu, dan mengumpulkan ke lantai pengirikanmu?",
+  "tokens": [
+    {
+      "surface": "הֲתַאֲמִ֣ין",
+      "gloss": "apakah ⟨kau⟩ mempercayai"
+    },
+    {
+      "surface": "בּ֭וֹ",
+      "gloss": "dia"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ia akan membawa pulang"
+    },
+    {
+      "surface": "זַרְעֶ֑ךָ",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "וְֽגָרְנְךָ֥",
+      "gloss": "dan lantai pengirikanmu"
+    },
+    {
+      "surface": "יֶאֱסֹֽף",
+      "gloss": "mengumpulkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:45:15.133767802Z",
+  "model": "glm-5.2"
+}

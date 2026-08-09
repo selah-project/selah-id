@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ⟨ia⟩ mengalirkan air yang menetes dari bukit batu, dan membuat air turun seperti sungai-sungai.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dan ia mengeluarkan"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "yang menetes"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "dari bukit batu"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "dan membuat turun"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "seperti sungai-sungai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:28.060139346Z",
+  "model": "glm-5.2"
+}

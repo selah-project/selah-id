@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Janganlah engkau membawa ⟨ ⟨⟩ ⟩ kabar dusta; janganlah engkau meletakkan tanganmu bersama orang fasik untuk menjadi saksi kekerasan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "engkau membawa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kabar"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "engkau meletakkan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "להית",
+      "gloss": "untuk menjadi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:18.072243595Z",
+  "model": "glm-5.2"
+}

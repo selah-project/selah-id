@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan mereka menyembah ⟨את⟩ berhala-berhala mereka, dan hal itu menjadi perangkap bagi mereka.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan mereka menyembah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhala-berhala mereka"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "berhala-berhala mereka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan hal itu menjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "perangkap"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:56.936752282Z",
+  "model": "glm-5.2"
+}

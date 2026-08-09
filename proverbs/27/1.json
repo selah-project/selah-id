@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Jangan memuji diri pada hari esok, sebab engkau tidak tahu apa yang dilahirkan ⟨oleh⟩ hari.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "memuji diri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "esok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:39.597235428Z",
+  "model": "glm-5.2"
+}

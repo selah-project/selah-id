@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan orang-orang itu mengulurkan ⟨את⟩ tangan mereka, dan membawa ⟨את⟩ Lot kepada mereka, ke dalam rumah, dan ⟨את⟩ pintu itu ditutupnya.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Dan mengulurkan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ke dalam rumah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pintu itu"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pintu itu"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ditutupnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:44.941671810Z",
+  "model": "glm-5.2"
+}

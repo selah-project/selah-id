@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Lalu pergilah Mosheh dan ia berbicara ⟨את⟩ perkataan-perkataan ini kepada seluruh Yisra'el:",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu pergilah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dan ia berbicara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan-perkataan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T10:47:46.413107640Z",
+  "model": "glm-5.2"
+}

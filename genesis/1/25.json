@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Elohim membuat ⟨את⟩ binatang liar ⟨di⟩ bumi menurut jenisnya, dan ⟨את⟩ ternak menurut jenisnya, dan ⟨את⟩ segala yang merayap di tanah menurut jenisnya; dan Elohim melihat bahwa itu baik.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu membuat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binatang liar bumi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "binatang liar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ternak"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang merayap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "yang merayap"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:07.288109591Z",
+  "model": "glm-5.2"
+}

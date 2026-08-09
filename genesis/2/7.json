@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim membentuk ⟨את⟩ sang adam: debu dari tanah itu, dan Ia meniup ke dalam hidungnya nafas kehidupan, dan sang adam menjadi nefesh yang hidup.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "Lalu ... membentuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang adam"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "dan Ia meniup"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "ke dalam hidungnya"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "nafas"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ... menjadi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang adam"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:19.866593688Z",
+  "model": "glm-5.2"
+}

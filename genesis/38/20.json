@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Lalu Yehudah mengirim ⟨את⟩ anak kambing itu melalui tangan rekannya orang Adulam itu, untuk mengambil gadai itu dari tangan perempuan itu, tetapi ia tidak menemukannya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu mengirim"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak kambing itu"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "anak kambing"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kambing itu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "melalui tangan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "rekannya"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "orang Adulam itu"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "untuk mengambil"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "gadai itu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "menemukannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:48.588613009Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Angkatlah nyanyian, dan berikanlah rebana, kecapi yang merdu bersama nevel!",
+  "tokens": [
+    {
+      "surface": "שְֽׂאוּ",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "זִ֭מְרָה",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "וּתְנוּ",
+      "gloss": "dan berikanlah"
+    },
+    {
+      "surface": "תֹ֑ף",
+      "gloss": "rebana"
+    },
+    {
+      "surface": "כִּנּ֖וֹר",
+      "gloss": "kecapi"
+    },
+    {
+      "surface": "נָעִ֣ים",
+      "gloss": "yang merdu"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "נָֽבֶל",
+      "gloss": "nevel"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:04.927457823Z",
+  "model": "glm-5.2"
+}

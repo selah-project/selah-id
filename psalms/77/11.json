@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Maka aku berkata: “Inilah kesakitanku — bahwa tahun-tangan Elyon telah berubah.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "maka aku berkata"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "kesakitanku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "telah berubah"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tahun-tangan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:20.105818327Z",
+  "model": "glm-5.2"
+}

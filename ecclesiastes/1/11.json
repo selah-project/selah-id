@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Tidak ada kenangan akan ⟨mereka⟩ yang terdahulu; dan juga bagi ⟨mereka⟩ yang terkemudian yang akan ada, tidak akan ada bagi mereka kenangan bersama ⟨mereka⟩ yang akan ada di kemudian hari.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kenangan"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "akan yang terdahulu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "bagi yang terkemudian"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "yang akan ada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kenangan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "yang akan ada"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "di kemudian hari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:48:56.275489639Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Mengapa engkau tunduk, hai napasku, dan mengapa engkau bergemuruh ⟨di dalam⟩ diriku? Nantikanlah Elohim, sebab lagi aku bersyukur kepada-Nya: ⟨tersedia⟩ keselamatan dari wajah-Nya.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "engkau tunduk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai napasku"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "dan engkau bergemuruh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atasku"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "nantikanlah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "aku bersyukur kepada-Nya"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajah-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:39.410326530Z",
+  "model": "glm-5.2"
+}

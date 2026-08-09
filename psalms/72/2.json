@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 72,
+  "translation": "Ia ⟨akan⟩ menghakimi umat-Mu dalam kebenaran, dan orang-orang miskin-Mu dengan keadilan.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Ia ⟨akan⟩ menghakimi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dalam kebenaran"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "dan orang-orang miskin-Mu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dengan keadilan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:35.214665510Z",
+  "model": "glm-5.2"
+}

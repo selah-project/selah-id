@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ia mengusir ⟨את⟩ sang manusia, dan menempatkan di sebelah timur taman Eden ⟨את⟩ kerub-kerub dan ⟨את⟩ pedang berpijar yang berbolak-balik untuk menjaga ⟨את⟩ jalan menuju pohon kehidupan.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "Dan mengusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang manusia"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "di sebelah timur"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerub-kerub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerub-kerub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pedang berpiyar"
+    },
+    {
+      "surface": "להט",
+      "gloss": "berpiyar"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "yang berbolak-balik"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kehidupan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:39.207612886Z",
+  "model": "glm-5.2"
+}

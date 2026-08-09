@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan mereka mencobai dan memberontak terhadap ⟨את⟩ Elohim Elyon, dan kesaksiannya tidak dijaga.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "dan mencobai"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "dan memberontak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "dan kesaksiannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "dijaga"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:23.390087332Z",
+  "model": "glm-5.2"
+}

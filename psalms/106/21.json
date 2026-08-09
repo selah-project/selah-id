@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Mereka melupakan El yang menyelamatkan mereka, yang melakukan hal-hal besar di Mitsrayim,",
+  "tokens": [
+    {
+      "surface": "שָׁ֭כְחוּ",
+      "gloss": "Mereka melupakan"
+    },
+    {
+      "surface": "אֵ֣ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מוֹשִׁיעָ֑ם",
+      "gloss": "yang menyelamatkan mereka"
+    },
+    {
+      "surface": "עֹשֶׂ֖ה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "גְדֹל֣וֹת",
+      "gloss": "hal-hal besar"
+    },
+    {
+      "surface": "בְּמִצְרָֽיִם",
+      "gloss": "di Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:32.981193659Z",
+  "model": "glm-5.2"
+}

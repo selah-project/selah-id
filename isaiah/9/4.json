@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Sebab setiap alas tentara bersepatu dengan gemuruh, dan setiap pakaian luar bergulung dalam darah, maka semuanya akan menjadi untuk bakaran, bahan-bakar api.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "alas tentara"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "bersepatu"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "dengan gemuruh"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "dan pakaian luar"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "bergulung"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dalam darah"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "maka semuanya akan menjadi"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "untuk bakaran"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "bahan-bakar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:13.186417593Z",
+  "model": "glm-5.2"
+}

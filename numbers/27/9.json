@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan jika tidak ⟨ada⟩ baginya putri, maka kamu memberikan ⟨את⟩ warisannya kepada saudara-saudaranya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ⟨ada⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "maka kamu memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisannya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "warisannya"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kepada saudara-saudaranya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:42:54.387043775Z",
+  "model": "glm-5.2"
+}

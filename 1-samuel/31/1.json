@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan orang Peleshet berperang melawan Yisrael, dan orang-orang Yisrael melarikan diri dari hadapan orang Peleshet, dan yang terluka mati jatuh di pegunungan ha-Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Dan orang Peleshet"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "melawan Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dan melarikan diri"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Peleshet"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "yang terluka mati"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "ha-Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:49.500609110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Tidak ⟨⟨ada⟩⟩ tersembunyi kerangka tubuhku dari-Mu, yang dibuat dalam tempat tersembunyi, disulam dalam bagian terdalam bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "tersembunyi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kerangka tubuhku"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari-Mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dalam tempat tersembunyi"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "disulam"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "dalam bagian terdalam"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:09.449988223Z",
+  "model": "glm-5.2"
+}

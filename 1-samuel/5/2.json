@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan orang-orang Pelishti mengambil ⟨את⟩ tabut Elohim dan membawanya ⟨את⟩ ke bait Dagon, dan menempatkannya ⟨את⟩ di sisi Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Dan mengambil"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ke bait"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:26.754355484Z",
+  "model": "glm-5.2"
+}

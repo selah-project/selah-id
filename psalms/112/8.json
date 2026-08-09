@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 112,
+  "translation": "Tegak hatinya, tidak takut, sampai ⟨ia⟩ memandang ⟨pada⟩ para lawannya.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "tegak"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨bahwa⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "memandang"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "para lawannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:55.546070022Z",
+  "model": "glm-5.2"
+}

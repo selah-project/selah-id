@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 96,
+  "translation": "Nyanyikanlah bagi Yahweh nyanyian baru, nyanyikanlah bagi Yahweh, seluruh bumi!",
+  "tokens": [
+    {
+      "surface": "שִׁ֣ירוּ",
+      "gloss": "nyanyikanlah"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "שִׁ֣יר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חָדָ֑שׁ",
+      "gloss": "baru"
+    },
+    {
+      "surface": "שִׁ֥ירוּ",
+      "gloss": "nyanyikanlah"
+    },
+    {
+      "surface": "לַ֝יהוָ֗ה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:28.065343784Z",
+  "model": "glm-5.2"
+}

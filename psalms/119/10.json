@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dengan segenap hatiku aku mencari-Mu; jangan biarkan aku menyimpang dari mitzvot-Mu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "aku mencari-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "biarkan aku menyimpang"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "dari mitzvot-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:04.408428523Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Maka terjadilah, ketika Yosef datang kepada saudara-saudaranya, bahwa mereka menelanjangi ⟨את⟩ Yosef, ⟨את⟩ jubahnya, ⟨את⟩ jubah pita yang ada padanya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "bahwa mereka menelanjangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubahnya"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "jubahnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah pita"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "pita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ada padanya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:21.001535380Z",
+  "model": "glm-5.2"
+}

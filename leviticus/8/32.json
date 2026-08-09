@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan apa yang tersisa dari daging dan dari roti, dalam api haruslah kamu bakar.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "dan apa yang tersisa"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "dari daging"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "dan dari roti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "haruslah kamu bakar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:47.642854411Z",
+  "model": "glm-5.2"
+}

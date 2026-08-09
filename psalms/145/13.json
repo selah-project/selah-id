@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Kerajaan-Mu ⟨adalah⟩ kerajaan segala zaman, dan pemerintahan-Mu dalam setiap orang yang berumur dan orang yang berumur.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "kerajaan-Mu"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "zaman"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "dan pemerintahan-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam setiap"
+    },
+    {
+      "surface": "דור",
+      "gloss": "orang yang berumur"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dan orang yang berumur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:22.258066731Z",
+  "model": "glm-5.2"
+}

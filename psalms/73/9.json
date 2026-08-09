@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Mereka menempatkan di langit mulut mereka, dan lidah mereka berjalan di bumi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "mereka menempatkan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "dan lidah mereka"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:47.142951677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 86,
+  "translation": "Sebab Engkau, Adonai, ⟨adalah⟩ baik dan pengampun, dan berlimpah hesed bagi semua yang berseru kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "dan pengampun"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dan berlimpah"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "yang berseru kepada-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:59.477787003Z",
+  "model": "glm-5.2"
+}

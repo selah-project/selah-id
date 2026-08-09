@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "dan juga darah orang-orang tidak bersalah yang telah dicurahkan, dan ia telah memenuhi ⟨את⟩ Yerushalayim ⟨dengan⟩ darah tidak bersalah; dan Yahweh tidak mau mengampuni.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "orang-orang tidak bersalah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "telah dicurahkan"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "dan ia telah memenuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨dengan⟩ darah"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "tidak bersalah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "mau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "mengampuni"
+    }
+  ],
+  "timestamp": "2026-08-08T08:16:11.130986825Z",
+  "model": "glm-5.2"
+}

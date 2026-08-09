@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Di telinga-ku, Yahweh Tsevaot: Jika tidak, banyak rumah akan menjadi reruntuhan, ⟨rumah-rumah⟩ yang besar dan baik tanpa ⟨ada⟩ penghuni.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "Di telinga-ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "untuk reruntuhan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "yang besar-besar"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "dan yang baik-baik"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "penghuni"
+    }
+  ],
+  "timestamp": "2026-08-08T11:08:59.250153822Z",
+  "model": "glm-5.2"
+}

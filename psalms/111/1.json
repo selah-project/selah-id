@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 111,
+  "translation": "Pujilah Yah! Aku bersyukur kepada Yahweh dengan seluruh hati, di dalam sidang ⟨orang⟩-⟨yang⟩-lurus dan jemaah.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "aku bersyukur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan seluruh"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "di dalam sidang"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "orang-lurus"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "dan jemaah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:12.503241441Z",
+  "model": "glm-5.2"
+}

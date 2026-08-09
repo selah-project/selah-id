@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan nafasku terkejut sangat; dan ⟨ Engkau ⟩, Yahweh, sampai kapan?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Dan nafasku"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "terkejut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨ Engkau ⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:06.085543323Z",
+  "model": "glm-5.2"
+}

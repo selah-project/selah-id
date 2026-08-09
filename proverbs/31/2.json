@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Apa, anakku? dan apa, anak rahimku? dan apa, anak nazarku?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "rahimku"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "nazarku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:36:36.646564709Z",
+  "model": "glm-5.2"
+}

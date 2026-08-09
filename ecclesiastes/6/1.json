@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Ada kejahatan yang kulihat di bawah matahari, dan ⟨itu⟩ besar ⟨menimpa⟩ manusia:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kulihat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "dan besar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨menimpa⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:27.291715741Z",
+  "model": "glm-5.2"
+}

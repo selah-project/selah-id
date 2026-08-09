@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 62,
+  "translation": "Hanya Dia ⟨adalah⟩ batuku dan keselaratanku, perlindunganku; tidak aku akan tergoncang hebat.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batuku"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "dan keselaratanku"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "perlindunganku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "aku akan tergoncang"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hebat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:44.083892314Z",
+  "model": "glm-5.2"
+}

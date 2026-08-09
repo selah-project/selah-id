@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Carilah Yahweh selama ⟨dia⟩ ditemukan; panggillah dia selama ⟨dia⟩ dekat.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Carilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "selama ditemukan"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "panggillah dia"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "selama menjadi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dekat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:13:56.826816464Z",
+  "model": "glm-5.2"
+}

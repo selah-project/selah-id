@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "Ya Elohim, janganlah ada kebisuan bagi-Mu, janganlah berdiam diri, dan janganlah diam, ya El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ya Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kebisuan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "berdiam diri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "diam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya El"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:27.656528788Z",
+  "model": "glm-5.2"
+}

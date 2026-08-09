@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Maka Paroh akan berkata tentang bani Yisra'el, 'Mereka bingung di tanah ini, padang gurun telah menutupi mereka.'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Maka akan berkata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tentang bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "Mereka bingung"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah ini"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "telah menutupi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:42.974727043Z",
+  "model": "glm-5.2"
+}

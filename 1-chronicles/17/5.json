@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Sebab aku tidak tinggal di rumah, dari hari bahwa aku menuntun ⟨את⟩ Yisrael, sampai hari ini, dan aku berpindah dari kemah ke kemah dan dari tempat kediaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "aku tinggal"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "aku menuntun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "dan aku berpindah"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "dari kemah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "dan dari tempat kediaman"
+    }
+  ],
+  "timestamp": "2026-08-08T12:03:32.379828182Z",
+  "model": "glm-5.2"
+}

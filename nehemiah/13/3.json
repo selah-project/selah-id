@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Maka terjadilah ketika mereka mendengar ⟨את⟩ Torat itu, mereka memisahkan segala campuran-bangsa dari Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "ketika mereka mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torat itu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torat itu"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "mereka memisahkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "campuran-bangsa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "dari Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:12.547815903Z",
+  "model": "glm-5.2"
+}

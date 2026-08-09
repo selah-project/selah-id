@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 146,
+  "translation": "Yahweh menjaga ⟨את⟩ orang-orang asing, yatim dan janda ditegakkan-Nya; tetapi jalan orang-orang fasik dibengkokkan-Nya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang asing"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "orang-orang asing"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "dan janda"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ditegakkan-Nya"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "dan jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "dibengkokkan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:39.230516181Z",
+  "model": "glm-5.2"
+}

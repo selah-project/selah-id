@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Elohim saya, aku berseru siang, dan tidak Engkau menjawab, dan malam, dan tidak ada kesunyian bagiku.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim saya"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "Engkau menjawab"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ada kesunyian"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:19.980213160Z",
+  "model": "glm-5.2"
+}

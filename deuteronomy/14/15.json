@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "dan ⟨את⟩ burung unta, dan ⟨את⟩ ha-tahmas, dan ⟨את⟩ ha-shahaf, dan ⟨את⟩ ha-netz menurut jenisnya,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung unta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "burung unta"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "⟨burung unta⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ha-tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ha-tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ha-shahaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ha-shahaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ha-netz"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ha-netz"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "menurut jenisnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:08.335296195Z",
+  "model": "glm-5.2"
+}

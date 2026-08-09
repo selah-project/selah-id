@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Bukankah sedikit hari-hariku? Berhentilah, ⟨Engkau⟩ menaruh ⟮sesuatu⟯ daripadaku, dan aku ⟨akan⟩ bersukaria sedikit.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hariku"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "berhentilah"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "Engkau menaruh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "dan aku ⟨akan⟩ bersukaria"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    }
+  ],
+  "timestamp": "2026-08-08T11:52:24.031291298Z",
+  "model": "glm-5.2"
+}

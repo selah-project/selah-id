@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 91,
+  "translation": "Sebab Dia akan meluputkan engkau dari jaring penjebak, dari wabah yang membinasakan.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "יַצִּילְךָ",
+      "gloss": "akan meluputkan engkau"
+    },
+    {
+      "surface": "מִפַּח",
+      "gloss": "dari jaring"
+    },
+    {
+      "surface": "יָקוּשׁ",
+      "gloss": "penjebak"
+    },
+    {
+      "surface": "מִדֶּבֶר",
+      "gloss": "dari wabah"
+    },
+    {
+      "surface": "הַוּֽוֹת",
+      "gloss": "yang membinasakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:19.475159438Z",
+  "model": "glm-5.2"
+}

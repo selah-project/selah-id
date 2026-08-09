@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Apakah akan dibuat oleh manusia baginya Elohim, padahal mereka itu bukan Elohim?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Apakah akan dibuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "padahal mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T08:33:52.352725875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan tekhelet dan argaman dan tôla'at syani, dan syesy dan bulu kambing.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "Dan tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dan argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dan tôla'at"
+    },
+    {
+      "surface": "שני",
+      "gloss": "syani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan syesy"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "dan bulu kambing"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:53.497962557Z",
+  "model": "glm-5.2"
+}

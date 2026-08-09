@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 95,
+  "translation": "Yang di tangan-Nya ⟨ada⟩ tempat-tempat terdalam bumi, dan puncak-puncak gunung ⟨adalah⟩ milik-Nya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangan-Nya"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "tempat-tempat terdalam"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "dan puncak-puncak"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "לו",
+      "gloss": "milik-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:46.999287407Z",
+  "model": "glm-5.2"
+}

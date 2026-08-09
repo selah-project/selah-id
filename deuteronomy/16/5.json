@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Tidak engkau dapat mempersembahkan ⟨את⟩ ha-Pesach di dalam salah satu gerbangmu, yang Yahweh Elohimmu berikan kepadamu,",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תוּכַ֖ל",
+      "gloss": "engkau dapat"
+    },
+    {
+      "surface": "לִזְבֹּ֣חַ",
+      "gloss": "mempersembahkan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Pesach"
+    },
+    {
+      "surface": "הַפָּ֑סַח",
+      "gloss": "ha-Pesach"
+    },
+    {
+      "surface": "בְּאַחַ֣ד",
+      "gloss": "di dalam salah satu"
+    },
+    {
+      "surface": "שְׁעָרֶ֔יךָ",
+      "gloss": "gerbangmu"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:28:07.386995134Z",
+  "model": "glm-5.2"
+}

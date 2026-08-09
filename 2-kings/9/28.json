@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan para hambanya menaikkannya ⟨ke kereta⟩ ke Yerushalayim, dan mereka menguburkan dia di makamnya bersama bapa-bapanya, di kota Dawid.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "Dan para hambanya menaikkannya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para hambanya"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ke Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan mereka menguburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "di makamnya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T08:11:04.429760043Z",
+  "model": "glm-5.2"
+}

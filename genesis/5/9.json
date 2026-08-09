@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Enosh hidup sembilan puluh tahun, dan memperanakkan ⟨את⟩ Qeinan:",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Dan hidup"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "sembilan puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qeinan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Qeinan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:30.197894468Z",
+  "model": "glm-5.2"
+}

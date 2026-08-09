@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Maskil bagi Asaf. Mengapa, ya Elohim, kaubuang ⟨selama⟩-nenek? Bermoko murkamu terhadap kawanan domba gembalaanmu?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "kaubuang"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨selama⟩-nenek"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "Bermoko"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murkamu"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "terhadap kawanan domba"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "gembalaanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:13.081150704Z",
+  "model": "glm-5.2"
+}

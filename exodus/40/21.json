@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ia membawa ⟨את⟩ arka itu ke dalam mishkan, dan ia memasang ⟨את⟩ tirai penutup, dan ia menutupi arka kesaksian itu, seperti yang diperintahkan Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dan ia membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka itu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan ia memasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirai"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "penutup"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "dan ia menutupi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:11.248168298Z",
+  "model": "glm-5.2"
+}

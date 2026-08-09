@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "“Keluarlah dari bahtera itu, engkau dan istrimu dan anak-anakmu serta istri-istri anak-anakmu bersamamu.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera itu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "dan istrimu"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "dan anak-anakmu"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "serta istri-istri"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersamamu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:42.641827353Z",
+  "model": "glm-5.2"
+}

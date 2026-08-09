@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 34:14",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Dan ketika mereka mengeluarkan ⟨את⟩ uang yang dibawa masuk ke bait Yahweh, Khilkiyahu sang imam menemukan ⟨את⟩ kitab Taurat Yahweh di tangan Mosheh.",
+  "tokens": [
+    {
+      "surface": "ובהוציאם",
+      "gloss": "Dan ketika mereka mengeluarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uang"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "uang"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "yang dibawa masuk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ke bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "menemukan"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilkiyahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitab"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:39.534825745Z",
+  "model": "glm-5.2"
+}

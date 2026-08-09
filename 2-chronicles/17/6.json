@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan hatinya ⟨ditinggikan⟩ di jalan-jalan Yahweh; dan lagi ⟨ia⟩ menghapus ⟨את⟩ bukit-bukit pengorbanan dan ⟨את⟩ tiang-tiang Asyera dari Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "Dan … ditinggikan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di jalan-jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "dan lagi"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "menghapus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukit-bukit pengorbanan"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bukit-bukit pengorbanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang Asyera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "tiang-tiang Asyera"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "dari Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-08T10:13:48.253785719Z",
+  "model": "glm-5.2"
+}

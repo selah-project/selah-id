@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan Mosheh selesai berbicara ⟨את⟩ segala perkataan ini kepada seluruh Yisra'el,",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "dan selesai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:40.511104572Z",
+  "model": "glm-5.2"
+}

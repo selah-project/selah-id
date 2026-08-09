@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lalu Shemuel berkata kepada tukang masak, “Berikanlah ⟨את⟩ bagian yang kuberikan kepadamu, yang kukatakan kepadamu, ‘Taruhlah ⟨את⟩-nya bersamamu.’”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "kepada tukang masak"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Berikanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagian"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kukatakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שים",
+      "gloss": "Taruhlah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "bersamamu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:27.480936345Z",
+  "model": "glm-5.2"
+}

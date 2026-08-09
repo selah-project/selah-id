@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Mengertilah, hai orang-naif, ⟨kepada⟩ kecerdikan; dan hai orang-bodoh, mengertilah hati;",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "mengertilah"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "hai orang-naif"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "kecerdikan"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "dan hai orang-bodoh"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "mengertilah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:20.160611283Z",
+  "model": "glm-5.2"
+}

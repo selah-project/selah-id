@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan ⟨את⟩ segala lemaknya ia mempersembahkan dari padanya: ⟨את⟩ ekor berlemak dan ⟨את⟩ lemak yang menutupi ⟨את⟩ perut bagian dalam,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "segala lemaknya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "lemaknya"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ia mempersembahkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekor berlemak"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ekor berlemak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "yang menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perut bagian dalam"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "perut bagian dalam"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:15.038654603Z",
+  "model": "glm-5.2"
+}

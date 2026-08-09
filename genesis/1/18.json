@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "dan untuk memerintah pada siang dan pada malam, dan untuk memisahkan antara terang dan antara gelap; dan Elohim melihat bahwa baik.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "dan untuk memerintah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada siang"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "dan pada malam"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "dan untuk memisahkan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "האור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:13.156457465Z",
+  "model": "glm-5.2"
+}

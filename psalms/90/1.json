@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 90,
+  "translation": "Doa bagi Mosheh, seorang ⟨את⟩ manusia Elohim — Adonai, ⟨Engkau⟩ tempat tinggal, Engkau telah menjadi bagi kami, dari angkatan ke angkatan.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Doa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "bagi Mosheh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨את⟩ Elohim",
+      "marks": "manusia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tempat tinggal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Engkau telah menjadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "dari angkatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ke angkatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:15.326355671Z",
+  "model": "glm-5.2"
+}

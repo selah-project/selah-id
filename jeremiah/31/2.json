@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 31:2",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Beginilah berfiran Yahweh: ⟨ada⟩ umat yang mendapat kasih karunia di padang gurun — ⟨yaitu⟩ orang-orang yang terluput dari pedang — ⟨yaitu⟩ Yisrael ketika ⟨ia⟩ berjalan untuk menenangkan ⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "mendapat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "שרידי",
+      "gloss": "orang-orang yang terluput"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "dari pedang"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "להרגיעו",
+      "gloss": "untuk menenangkan dia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T08:36:59.362360484Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 101,
+  "translation": "Tidak aku taruh di depan mataku ⟨⟨hal⟩⟩ perkara beliyaal; perbuatan pembelokan aku benci, tidak akan melekat padaku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "aku taruh"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliyaal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "pembelokan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku benci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "akan melekat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "padaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:22.737432559Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Takut akan Yahweh ⟨membawa⟩ kepada kehidupan, dan ⟨siapa⟩ kenyang akan bermalam, tidak akan dikunjungi oleh kejahatan.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "akan Yahweh"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "kepada kehidupan"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "dan kenyang"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "akan bermalam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "akan dikunjungi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "oleh kejahatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:51.944133031Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan tidak mampu imam-imam berdiri untuk menyembah oleh karena awan itu, sebab kemuliaan Yahweh telah memenuhi ⟨את⟩ bait Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "untuk menyembah"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "oleh karena"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "telah memenuhi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:38.924914122Z",
+  "model": "glm-5.2"
+}

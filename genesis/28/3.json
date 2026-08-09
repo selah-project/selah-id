@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Dan semoga El Shaddai memberkati ⟨את⟩ engkau, dan membuat engkau berbuah dan membuat engkau bertambah banyak, dan engkau akan menjadi kumpulan bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dan El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "semoga memberkati"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "dan membuat engkau berbuah"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "dan membuat engkau bertambah banyak"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "dan engkau akan menjadi"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:29.910474356Z",
+  "model": "glm-5.2"
+}

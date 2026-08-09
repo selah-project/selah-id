@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Mereka berkerumun melawan nefesh ⟨ה⟩ orang benar, dan ⟨את⟩ darah yang tidak bersalah mereka nyatakan bersalah.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "Mereka berkerumun"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "dan darah"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "yang tidak bersalah"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "mereka nyatakan bersalah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:29.169108637Z",
+  "model": "glm-5.2"
+}

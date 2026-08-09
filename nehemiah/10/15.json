@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "kepala-kepala ⟨dari⟩ rakyat: Parosh, Pakhat-Moav, Elam, Zattu, Bani",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pakhat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zattu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    }
+  ],
+  "timestamp": "2026-08-08T10:01:24.136505735Z",
+  "model": "glm-5.2"
+}

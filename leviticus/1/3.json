@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Jika korban bakarannya ⟨יהוה⟩ dari ternak sapi, jantan tanpa cacat, ia harus mempersembahkannya; ke pintu masuk Kemah Pertemuan ia harus mempersembahkannya ⟨את⟩-nya untuk berkenan baginya di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "korban bakar"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbanannya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ternak sapi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "jantan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tanpa cacat"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ia harus mempersembahkannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu masuk"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ia harus mempersembahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (korban itu)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "untuk berkenan baginya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:17.818702688Z",
+  "model": "glm-5.2"
+}

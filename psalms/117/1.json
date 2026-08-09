@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 117,
+  "translation": "Pujilah ⟨את⟩ Yahweh, segala bangsa, megahkanlah Dia, segala suku-suku!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "megahkanlah Dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "suku-suku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:27.729678172Z",
+  "model": "glm-5.2"
+}

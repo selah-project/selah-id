@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Terpujilah Yahweh, sebab ⟨ Dia ⟩ telah menjadikan ajaib hesed-Nya bagiku di kota benteng.",
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הִפְלִ֘יא",
+      "gloss": "⟨Dia⟩ telah menjadikan ajaib"
+    },
+    {
+      "surface": "חַסְדּ֥וֹ",
+      "gloss": "hesed-Nya"
+    },
+    {
+      "surface": "לִ֝֗י",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "בְּעִ֣יר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "מָצֽוֹר",
+      "gloss": "benteng"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:07.540133583Z",
+  "model": "glm-5.2"
+}

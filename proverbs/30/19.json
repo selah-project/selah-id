@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Jalan burung nasar di langit, jalan ular di atas batu karang, jalan kapal di tengah laut, dan jalan seorang laki-laki pada seorang gadis —",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "burung nasar"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ular"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "kapal"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "dan jalan"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "pada seorang gadis"
+    }
+  ],
+  "timestamp": "2026-08-08T09:36:17.512022139Z",
+  "model": "glm-5.2"
+}

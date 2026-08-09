@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dan ⟨dia⟩ berkata: “Berangkatlah, dan marilah kita berjalan, dan aku akan berjalan di depanmu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "Berangkatlah"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "dan marilah kita berjalan"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dan aku akan berjalan"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "di depanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:31:40.084236924Z",
+  "model": "glm-5.2"
+}

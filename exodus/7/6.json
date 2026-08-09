@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan Mosheh dan Aharon berbuat — sesuai seperti yang diperintahkan Yahweh kepada mereka, ⟨demikianlah⟩ mereka berbuat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan berbuatlah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sesuai seperti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yang diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka berbuat"
+    }
+  ],
+  "timestamp": "2026-08-08T23:18:56.578241021Z",
+  "model": "glm-5.2"
+}

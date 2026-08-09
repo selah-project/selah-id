@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Dialah yang akan berseru kepada-ku: 'Engkau ⟨adalah⟩ bapaku, El-ku, dan gunung batu keselamatanku.'",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "yang akan berseru kepada-ku"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapaku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "dan gunung batu"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "keselamatanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:59.521687416Z",
+  "model": "glm-5.2"
+}

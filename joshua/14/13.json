@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu Yahoshua memberkati dia, dan ⟨ia⟩ memberikan ⟨את⟩ Khebron kepada Kalev bin Yefune menjadi milik pusaka.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "lalu memberkati dia"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kepada Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "menjadi milik pusaka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:50:29.553751698Z",
+  "model": "glm-5.2"
+}

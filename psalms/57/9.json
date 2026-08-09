@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Bersergarlah, hai kemuliaanku; bersergarlah, hai nevel dan kinor! Aku akan mengejutkan fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Bersergarlah"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kemuliaanku"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "bersergarlah"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dan kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "aku akan mengejutkan"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:42.563761462Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Lapar dan juga haus, nyawa mereka di dalam mereka mendarung.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "lapar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "haus"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa mereka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalam mereka"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "mendarung"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:15.470052668Z",
+  "model": "glm-5.2"
+}

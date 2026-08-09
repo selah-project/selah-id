@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Jangan berbantah-bantahan dengan seseorang tanpa sebab, jika tidak ia tidak membalas kejahatan kepadamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "berbantah-bantahan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ia membalas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:30.787325497Z",
+  "model": "glm-5.2"
+}

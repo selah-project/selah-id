@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu Yahweh Elohim memanggil ⟨kepada⟩ ha-adam dan berkata kepadanya, “Di manakah engkau?”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu memanggil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kepada⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Di manakah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:19.325153860Z",
+  "model": "glm-5.2"
+}

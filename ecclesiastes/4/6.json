@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lebih baik segenap ⟨ה⟩ telapak ⟨dengan⟩ ketenangan daripada penuh dua kepalan ⟨dengan⟩ jerih payah dan penggembalaan ⟨ה⟩ angin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "segenap"
+    },
+    {
+      "surface": "כף",
+      "gloss": "telapak"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ketenangan"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "daripada penuh"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "dua kepalan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "jerih payah"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dan penggembalaan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:30.991950915Z",
+  "model": "glm-5.2"
+}

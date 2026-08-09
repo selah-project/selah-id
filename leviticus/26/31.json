@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan Aku akan menjadikan kota-kotamu reruntuhan, dan Aku akan memusnahkan tempat-tempat kudusmu, dan Aku tidak akan menghirup ⟨aroma⟩ ⟨yang⟩ menenangkan dari persembahanmu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kotamu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "kota-kotamu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "reruntuhan"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "dan Aku akan memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat-tempat kudusmu"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "tempat-tempat kudusmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "Aku akan menghirup"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "aroma"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "yang menenangkan dari persembahanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:52.356832772Z",
+  "model": "glm-5.2"
+}

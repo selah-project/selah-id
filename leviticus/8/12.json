@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ia menuangkan dari minyak urapan ke atas kepala Aharon, lalu mengurap ⟨את⟩ dia untuk menguduskan dia.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "Dan ia menuangkan"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "dari minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "lalu mengurap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "untuk menguduskan dia"
+    }
+  ],
+  "timestamp": "2026-08-08T17:03:48.308418612Z",
+  "model": "glm-5.2"
+}

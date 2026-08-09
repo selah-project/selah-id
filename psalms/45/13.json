@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Dan putri Tsor ⟨dengan⟩ persembahan — wajahmu mereka penuhi; orang-orang kaya ⟨dari⟩ bangsa.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "dan putri"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "dengan persembahan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "mereka penuhi"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "orang-orang kaya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:18.068552732Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Bila jalan-jalan seorang manusia berkenan kepada Yahweh, bahkan musuh-musuhnya, ⟨Ia⟩ membuat damai bersamanya.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Bila berkenan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang manusia"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "musuh-musuhnya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "Ia membuat damai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:55.738080116Z",
+  "model": "glm-5.2"
+}

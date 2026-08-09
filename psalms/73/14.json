@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Dan aku ⟨telah⟩ ditimpa tulah sepanjang hari, dan teguran ⟨bagiku⟩ setiap pagi.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ditimpa tulah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "dan teguranku"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "setiap pagi"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:22.852749413Z",
+  "model": "glm-5.2"
+}

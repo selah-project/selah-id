@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 143,
+  "translation": "Dan rohku telah terbayang lesu di atasku, di dalamku hatiku menjadi sunyi",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "Dan telah terbayang lesu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atasku"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohku"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "di dalamku"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "menjadi sunyi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:43.191066216Z",
+  "model": "glm-5.2"
+}

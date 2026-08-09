@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jika engkau mengambil jubah sesamamu sebagai gadaian, menjelang matahari terbenam engkau harus mengembalikannya kepadanya,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "mengambil sebagai gadai"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "engkau mengambil sebagai gadai"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "menjelang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "terbenam"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "engkau harus mengembalikannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:05.805456160Z",
+  "model": "glm-5.2"
+}

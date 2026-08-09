@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan lihatlah, Boaz datang dari Beit-Lekhem, dan berkata kepada para penuai, “Yahweh menyertai kamu.” Lalu mereka berkata kepadanya, “Yahweh memberkati engkau.”",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "kepada para penuai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "menyertai kamu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "memberkati engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:55:55.526660521Z",
+  "model": "glm-5.2"
+}

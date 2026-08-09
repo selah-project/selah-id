@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan ⟨ia⟩ meninggalkan ⟨את⟩ nasihat para tua-tua yang mereka nasihatkan kepadanya, dan ⟨ia⟩ bermusyawarah dengan ⟨את⟩ anak-anak muda yang telah dibesarkan bersamanya, yang berdiri di hadapannya.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Dan ⟨ia⟩ meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasihat"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para tua-tua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "mereka nasihatkan kepadanya"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "dan ⟨ia⟩ bermusyawarah dengan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak muda"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "anak-anak muda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "telah dibesarkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapannya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:23.808300384Z",
+  "model": "glm-5.2"
+}

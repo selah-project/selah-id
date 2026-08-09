@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Apabila fondasi-fondasi dihancurkan, orang benar—apakah yang telah diperbuatnya?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "fondasi-fondasi"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "dihancurkan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "yang telah diperbuatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:07.260264810Z",
+  "model": "glm-5.2"
+}

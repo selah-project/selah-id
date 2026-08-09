@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Tetapi ⟨את⟩ ladang kota itu dan ⟨את⟩ pekarangan-pekarangannya mereka berikan kepada Kalev bin Yefune sebagai miliknya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "tetapi ⟨את⟩",
+      "marks": "ladang kota itu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pekarangan-pekarangannya"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "pekarangan-pekarangannya"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "mereka berikan"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kepada Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "sebagai miliknya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:37:27.248113232Z",
+  "model": "glm-5.2"
+}

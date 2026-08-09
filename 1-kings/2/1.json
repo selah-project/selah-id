@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan hari-hari Dawab mendekati ⟨untuk⟩ mati, dan ⟨ia⟩ memberi perintah ⟨את⟩ Syelomo anaknya, dengan mengatakan:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Dan mendekati"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuk mati"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "dan ia memberi perintah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:00:57.321205343Z",
+  "model": "glm-5.2"
+}

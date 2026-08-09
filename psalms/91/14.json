@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 91,
+  "translation": "Karena dalam-Ku ⟨dia⟩ berpaut dan Aku akan meluputkannya; Aku akan meninggikannya, karena ⟨dia⟩ telah mengetahui nama-Ku.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "karena"
+    },
+    {
+      "surface": "בִ֣י",
+      "gloss": "dalam-Ku"
+    },
+    {
+      "surface": "חָ֭שַׁק",
+      "gloss": "⟨dia⟩ berpaut"
+    },
+    {
+      "surface": "וַאֲפַלְּטֵ֑הוּ",
+      "gloss": "dan Aku akan meluputkannya"
+    },
+    {
+      "surface": "אֲשַׂגְּבֵ֗הוּ",
+      "gloss": "Aku akan meninggikannya"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יָדַ֥ע",
+      "gloss": "⟨dia⟩ telah mengetahui"
+    },
+    {
+      "surface": "שְׁמִֽי",
+      "gloss": "nama-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:45.518138510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan orang Peleshet mengejar Shaúl dan anak-anaknya, dan orang Peleshet memukul ⟨את⟩ Yehonatan dan ⟨את⟩ Avinadav dan ⟨את⟩ Malkishua, anak-anak Shaúl.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Dan mengejar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Peleshet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Peleshet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:49.502052242Z",
+  "model": "glm-5.2"
+}

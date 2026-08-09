@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan orang-orang Pelishti mengambil ⟨את⟩ tabut Elohim, dan membawanya dari Even-Ha-Ezer ke Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Dan orang-orang Pelishti"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dan membawanya"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "dari Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ke Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:26.754068774Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Tempat dudukmu ⟨berada⟩ di tengah-tipuan; karena tipuan mereka menolak mengenal ⟨את⟩-ku, demikianlah ucapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "שִׁבְתְּךָ֖",
+      "gloss": "tempat dudukmu"
+    },
+    {
+      "surface": "בְּת֣וֹךְ",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "מִרְמָ֑ה",
+      "gloss": "tipuan"
+    },
+    {
+      "surface": "בְּמִרְמָ֛ה",
+      "gloss": "karena tipuan"
+    },
+    {
+      "surface": "מֵאֲנ֥וּ",
+      "gloss": "mereka menolak"
+    },
+    {
+      "surface": "דַֽעַת",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "אוֹתִ֖י",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "demikianlah ucapan"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:16:00.486220010Z",
+  "model": "glm-5.2"
+}

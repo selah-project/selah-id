@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Lalu imam itu menjawab ⟨את⟩ David dan berkata, “Tidak ada roti biasa di bawah tanganku, karena memang roti kudus ⟨yang⟩ ada — jika para pemuda itu telah menjaga diri, sungguh pun dari perempuan.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lalu menjawab"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "חל",
+      "gloss": "biasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bawah"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אם",
+      "gloss": "memang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "telah menjaga diri"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "para pemuda itu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguh pun"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "dari perempuan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:50:58.094378671Z",
+  "model": "glm-5.2"
+}

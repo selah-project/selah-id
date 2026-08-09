@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "karena enam bulan lamanya Yoav dan seluruh Yisra'el diam di sana, sampai menghabiskan setiap laki-laki di Edom —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "enam"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulannya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "diam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "menghabiskan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:18.217555244Z",
+  "model": "glm-5.2"
+}

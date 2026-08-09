@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Mereka mengembara untuk makan; jika tidak kenyang, maka bermalamlah mereka.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "mengembara"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk makan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kenyang"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "maka bermalahlah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:43.098097998Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu mem beratkanlah Paroh ⟨את⟩ hatinya juga pada kali ini, dan ia tidak melepaskan ⟨את⟩ umat itu.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "lalu memberatkanlah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatinya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "pada kali"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:22.642159591Z",
+  "model": "glm-5.2"
+}

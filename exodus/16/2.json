@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan bersungut-sungutlah seluruh jemaat bani Yisrael terhadap Moshe dan terhadap Aharon di padang gurun.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "dan bersungut-sungutlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T06:59:19.335350476Z",
+  "model": "glm-5.2"
+}

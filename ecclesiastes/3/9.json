@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Keuntungan apa ⟨yang⟩ diperoleh sang pekerja dalam apa yang ia kerjakan?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "keuntungan"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "sang pekerja"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "dalam apa yang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bekerja"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:02.436105690Z",
+  "model": "glm-5.2"
+}

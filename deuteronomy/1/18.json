@@ -1,0 +1,51 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "deuteronomy 1:18",
+ "book": "deuteronomy",
+ "lang": "id",
+ "chapter": 1,
+ "translation": "Dan aku memerintahkan ⟨את⟩ ⟨kepada⟩ kamu pada waktu itu ⟨את⟩ segala perkara yang harus kamu lakukan.",
+ "tokens": [
+  {
+   "surface": "ואצוה",
+   "gloss": "Dan aku memerintahkan"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ ⟨kepada⟩ kamu",
+   "marks": "kamu"
+  },
+  {
+   "surface": "בעת",
+   "gloss": "pada waktu"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "itu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "segala perkara"
+  },
+  {
+   "surface": "כל",
+   "gloss": "segala"
+  },
+  {
+   "surface": "הדברים",
+   "gloss": "perkara"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "yang"
+  },
+  {
+   "surface": "תעשון",
+   "gloss": "harus kamu lakukan"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:00.950990370Z",
+ "model": "glm-5.2"
+}

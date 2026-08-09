@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Bangsa-bangsa mendengar, mereka gemetar; kekejahan mengerangap ⟨penduduk⟩ Peleshet.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "mereka gemetar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekejahan"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "mengerangap"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨penduduk⟩"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:20.852535052Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan setiap orang luar tidak boleh memakan ⟨yang⟩ kudus; orang yang menumpang pada imam dan orang upahan tidak boleh memakan ⟨yang⟩ kudus.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "זר",
+      "gloss": "orang luar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak boleh"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨yang⟩ kudus"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "orang yang menumpang"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pada imam"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "dan orang upahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak boleh"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨yang⟩ kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:32.204140717Z",
+  "model": "glm-5.2"
+}

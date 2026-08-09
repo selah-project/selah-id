@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Dan ⟨itu⟩ akan lebih berkenan kepada Yahweh daripada ⟨seekor⟩ lembu jantan, ⟨yaitu⟩ yang ber tanduk berkuku terbelah.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "Dan akan lebih berkenan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "daripada lembu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu jantan"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "yang ber tanduk"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "berkuku terbelah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:17.394585057Z",
+  "model": "glm-5.2"
+}

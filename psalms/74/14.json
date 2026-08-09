@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Engkau menghancurkan kepala-kepala Livyatan; ⟨Engkau⟩ memberikannya menjadi makanan bagi umat, bagi penduduk stepa.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "רִצַּצְתָּ",
+      "gloss": "Engkau menghancurkan"
+    },
+    {
+      "surface": "רָאשֵׁי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "לִוְיָתָן",
+      "gloss": "Livyatan"
+    },
+    {
+      "surface": "תִּתְּנֶנּוּ",
+      "gloss": "Engkau memberikannya"
+    },
+    {
+      "surface": "מַאֲכָל",
+      "gloss": "menjadi makanan"
+    },
+    {
+      "surface": "לְעָם",
+      "gloss": "bagi umat"
+    },
+    {
+      "surface": "לְצִיִּים",
+      "gloss": "bagi penduduk stepa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:22.569341570Z",
+  "model": "glm-5.2"
+}

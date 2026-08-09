@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "maka Esav melihat bahwa anak-anak perempuan Kenaan itu buruk di mata Yitschak, ayahnya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "maka melihat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "buruk"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:40.057216509Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Bernyanyilah bagi Yahweh dengan pengucapan syukur; bermainlah kecapi bagi Elohim kami.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Bernyanyilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "dengan pengucapan syukur"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bermainlah"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "bagi Elohim kami"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kecapi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:13.737261119Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan Elisha berkata kepadanya, “Pergilah, katakan: Tidak ⟨akan⟩ hidup ⟨engkau⟩ akan hidup; namun Yahweh telah menunjukkan kepadaku bahwa sungguh-sungguh ⟨dia⟩ akan mati.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "(engkau) akan hidup"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "dan ⟨dia⟩ telah menunjukkan kepadaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dia akan mati"
+    }
+  ],
+  "timestamp": "2026-08-08T12:17:08.170842035Z",
+  "model": "glm-5.2"
+}

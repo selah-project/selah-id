@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 61,
+  "translation": "Dengarkanlah, Elohim, seruanku; pasanglah telinga kepada doaku.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "dengarkanlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "seruanku"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:32.543404199Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lalu Shaul memukul kalah ⟨את⟩ Amalek, dari Khavilah sampai engkau datang ke Shur, yang berhadapan dengan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Lalu memukul kalah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "dari Khavilah"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "sampai engkau datang"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ke Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "berhadapan dengan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pada tepi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:48.400196843Z",
+  "model": "glm-5.2"
+}

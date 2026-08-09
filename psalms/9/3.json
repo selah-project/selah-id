@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Aku akan bersukaria dan beria-ria di dalam-Mu; aku akan bermazmur bagi nama-Mu, Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Aku akan bersukaria"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "dan beria-ria"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam-Mu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku akan bermazmur"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:01.032156777Z",
+  "model": "glm-5.2"
+}

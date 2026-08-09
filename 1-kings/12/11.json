@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan sekarang, ayahku membebankan ke atas kalian beban yang berat, dan aku akan menambah ke atas beban kalian. Ayahku menghukum ⟨את⟩ kalian dengan cambuk, dan aku, aku akan menghukum ⟨את⟩ kalian dengan kalajengking.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "membebankan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ke atas kalian"
+    },
+    {
+      "surface": "על",
+      "gloss": "beban"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yang berat"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "akan menambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "beban kalian"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "menghukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "dengan cambuk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "aku akan menghukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "dengan kalajengking"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:12.024804637Z",
+  "model": "glm-5.2"
+}

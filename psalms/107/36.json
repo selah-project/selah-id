@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Dan di sana Ia menempatkan ⟨orang-orang⟩ yang lapar, dan mereka mendirikan kota tempat kediaman.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "Ia menempatkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "yang lapar"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "dan mereka mendirikan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tempat kediaman"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:39.815434120Z",
+  "model": "glm-5.2"
+}

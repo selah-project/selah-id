@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Yahweh berkata kepadanya, “Apa ini di tanganmu?” Dan ⟨ia⟩ berkata, “Sebuah tongkat.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Apa ini"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tanganmu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Sebuah tongkat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:19.921466713Z",
+  "model": "glm-5.2"
+}

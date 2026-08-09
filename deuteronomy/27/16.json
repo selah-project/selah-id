@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Terkutuk ⟨làh⟩ yang menganggap ringan ayahnya dan ibunya; dan berkata seluruh bangsa: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Terkutuk"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "yang menganggap ringan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "dan ibunya"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:59.910135505Z",
+  "model": "glm-5.2"
+}

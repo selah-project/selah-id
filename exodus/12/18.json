@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Di bulan pertama, pada hari keempat belas bulan itu, pada petang, kamu akan makan roti tak beragi, sampai hari yang kedua puluh satu bulan itu, pada petang.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "di pertama"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pada empat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada petang"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu akan makan"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "roti tak beragi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dan dua puluh"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada petang"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:58.785175438Z",
+  "model": "glm-5.2"
+}

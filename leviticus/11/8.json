@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dari daging mereka tidak boleh kalian makan, dan bangkai mereka tidak boleh kalian sentuh — tameim mereka bagi kalian.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "dari daging mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kalian makan"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "dan bangkai mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kalian sentuh"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "tameim"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:37.338694133Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Tiga kali dalam setahun akan terlihat semua laki-laki ⟨engkau⟩ menghadap ⟨את⟩ wajah Adonai, Yahweh, Elohim Israel.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Tiga"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "dalam setahun"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akan terlihat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "laki-laki ⟨engkau⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:47.338293895Z",
+  "model": "glm-5.2"
+}

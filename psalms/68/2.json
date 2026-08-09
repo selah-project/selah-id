@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Biarlah Elohim bangkit, berseraklah musuh-musuh-⟨Nya⟩, dan biarlah orang-orang yang membenci ⟨Dia⟩ melarikan diri dari hadapan-⟨Nya⟩.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Biarlah … bangkit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "berseraklah"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "musuh-musuh-Nya"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "dan biarlah melarikan diri"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "orang-orang yang membenci-Nya"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari hadapan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.418768098Z",
+  "model": "glm-5.2"
+}

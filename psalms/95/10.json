@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 95,
+  "translation": "Empat puluh tahun Aku ⟨merasa Muak⟩ terhadap angkatan itu, dan Aku berkata: ⟨Mereka⟩ ⟨adalah⟩ umat yang menyimpang dalam hati, dan mereka tidak mengenal jalan-jalan-Ku.",
+  "tokens": [
+    {
+      "surface": "אַרְבָּ֘עִ֤ים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "שָׁנָ֨ה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "אָ֘ק֤וּט",
+      "gloss": "⟨merasa Muak⟩"
+    },
+    {
+      "surface": "בְּד֖וֹר",
+      "gloss": "terhadap angkatan itu"
+    },
+    {
+      "surface": "וָאֹמַ֗ר",
+      "gloss": "dan Aku berkata"
+    },
+    {
+      "surface": "עַ֤ם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "תֹּ֣עֵי",
+      "gloss": "yang menyimpang"
+    },
+    {
+      "surface": "לְבָ֣ב",
+      "gloss": "dalam hati"
+    },
+    {
+      "surface": "הֵ֑ם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "וְ֝הֵ֗ם",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יָדְע֥וּ",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "דְּרָכָֽי",
+      "gloss": "jalan-jalan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:59.985554344Z",
+  "model": "glm-5.2"
+}

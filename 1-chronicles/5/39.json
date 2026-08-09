@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Shallum memperanakkan ⟨את⟩ Chilqiah, dan Chilqiah memperanakkan ⟨את⟩ Azaryah.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "dan Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilqiah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilqiah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "dan Chilqiah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:03:51.905698172Z",
+  "model": "glm-5.2"
+}

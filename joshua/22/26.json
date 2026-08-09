@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Maka kami berkata: “Mari kita buatlah bagi kami untuk membangun ⟨את⟩ mizbeach, bukan untuk korban bakaran dan bukan untuk korban sembelihan.”",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Maka kami berkata"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kita buat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "untuk membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeach"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "untuk korban bakaran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "untuk korban sembelihan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:51:17.500311327Z",
+  "model": "glm-5.2"
+}

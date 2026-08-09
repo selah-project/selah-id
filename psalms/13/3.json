@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Sampai kapan aku-meletakkan rencana dalam diriku, kesedihan dalam hatiku, setiap hari? Sampai kapan musuhku ditinggikan di atas-ku?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "aku-meletakkan"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "rencana"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "dalam diriku"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "kesedihan"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "dalam hatiku"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "setiap hari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ditinggikan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atas-ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:44.064991944Z",
+  "model": "glm-5.2"
+}

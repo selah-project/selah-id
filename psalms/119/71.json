@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Baik bagiku bahwa aku ⟨telah⟩ direndahkan, supaya aku belajar ketetapan-ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "direndahkan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "aku belajar"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:40.315304521Z",
+  "model": "glm-5.2"
+}

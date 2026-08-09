@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Janganlah kaumenindas ⟨את⟩ sesamamu, dan janganlah merampas; upah pekerja upahan yang bersamamu janganlah bermalam semalaman sampai pagi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "kaumenindas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesamamu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "merampas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "bermalam"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "upah"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "pekerja upahan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "yang bersamamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:32.887953976Z",
+  "model": "glm-5.2"
+}

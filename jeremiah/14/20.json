@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Kami mengetahui, Yahweh, kefasikan kami, kesalahan nenek moyang kami, sebab kami telah berdosa kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "Kami mengetahui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "kefasikan kami"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nenek moyang kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "kami telah berdosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:34:00.772299555Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Jalananku dan tempat berbaringku Engkau memeriksa, dan segala jalanku Engkau kenal.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Jalananku"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "dan tempat berbaringku"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "Engkau memeriksa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalanku"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "Engkau kenal"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:42.142198657Z",
+  "model": "glm-5.2"
+}

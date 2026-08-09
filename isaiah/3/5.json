@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨rakyat⟩ akan ditindas, seorang laki-laki oleh seorang laki-laki, dan setiap laki-laki oleh sesamanya; orang muda akan berlaku angkuh terhadap orang tua, dan orang hina terhadap orang terhormat.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "dan akan ditindas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "oleh seorang laki-laki"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan setiap laki-laki"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "oleh sesamanya"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "akan berlaku angkuh"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "orang muda"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "terhadap orang tua"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "dan orang hina"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "terhadap orang terhormat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:09:38.544487467Z",
+  "model": "glm-5.2"
+}

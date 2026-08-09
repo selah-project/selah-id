@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "dan Aku sendiri akan memusnahkan ⟨את⟩ negeri itu, dan musuh-musuhmu yang diam di dalamnya akan tercengang karenanya.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "dan Aku akan memusnahkan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku sendiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "dan akan tercengang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "karenanya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuhmu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:52.357075116Z",
+  "model": "glm-5.2"
+}

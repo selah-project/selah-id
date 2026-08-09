@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Sebab orang fasik memuji diri atas keinginan nafsunya, dan orang rakus memberkati ⟨dirinya sendiri⟩, ia menghina Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "memuji diri"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafsunya"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "dan orang rakus"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "menghina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:26.530290317Z",
+  "model": "glm-5.2"
+}

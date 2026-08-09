@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Maka Yahweh menguatkan ⟨את⟩ hati Paroh, dan ⟨ia⟩ tidak mendengarkan mereka, seperti yang telah difirmankan Yahweh kepada Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Maka menguatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-08T18:23:06.339612364Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan setelahnya ia mengambil ⟨את⟩ Maakha bat Avshalom, dan ia melahirkan kepadanya ⟨את⟩ Aviya, dan ⟨את⟩ Atai, dan ⟨את⟩ Ziza, dan ⟨את⟩ Shelomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "Dan setelahnya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ia mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan ia melahirkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Atai"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Atai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Shelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomit"
+    }
+  ],
+  "timestamp": "2026-08-08T10:12:57.722424663Z",
+  "model": "glm-5.2"
+}

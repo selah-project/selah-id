@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Di jalan kesaksian-kesaksian-Mu aku bersukaria, seperti atas segala kekayaan.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "kesaksian-kesaksian-Mu"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "aku bersukaria"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "seperti atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kekayaan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:36.482760766Z",
+  "model": "glm-5.2"
+}

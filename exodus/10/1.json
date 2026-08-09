@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Yahweh berfirman kepada Mosheh: “Pergilah kepada Paroh, sebab aku telah memberatkan ⟨את⟩ hatinya dan ⟨את⟩ hati para hambanya, supaya aku menetapkan tanda-tandaku ini di tengah-tengahnya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "telah memberatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatinya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para hambanya"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "aku menetapkan"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tanda-tandaku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tengah-tengahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:29.980247751Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Aku telah melakukan keadilan dan kebenaran; jangan ⟨kau⟩ tinggalkan aku kepada orang-orang yang menindas aku.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "aku telah melakukan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "בל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "kau tinggalkan aku"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "kepada orang-orang yang menindas aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:23.874904320Z",
+  "model": "glm-5.2"
+}

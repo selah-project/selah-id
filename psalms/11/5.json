@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Yahweh menguji ⟨yang⟩ adil, dan ⟨yang⟩ fasik, dan ⟨yang⟩ pencinta kekerasan — membenci ⟨ה⟩ napas-Nya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "menguji"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "dan fasik"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "dan pencinta"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "membenci"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "napas-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:56.397802639Z",
+  "model": "glm-5.2"
+}

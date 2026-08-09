@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Dan ketika saudara-saudara Yosef melihat bahwa ⟨telah⟩ mati ayah mereka, mereka berkata, “Semoga Yosef tidak membenci kita, dan pasti akan mengembalikan kepada kita ⟨את⟩ segala kejahatan yang kami lakukan terhadap ⟨את⟩nya.”",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Dan ketika … melihat"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "semoga tidak"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "membenci kita"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "dan akan mengembalikan"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kejahatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "kami lakukan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "terhadap ⟨את⟩nya",
+      "marks": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:15.246983446Z",
+  "model": "glm-5.2"
+}

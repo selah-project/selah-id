@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan jika mizbakh batu engkau buat bagi-Ku, janganlah engkau mendirikannya dari batu pahatan; sebab jika engkau mengayunkan pedangmu ke atasnya, engkau telah menodainya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbakh"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "engkau mendirikan"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "batu pahatan"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu pahatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedangmu"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "engkau mengayunkan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "maka engkau menodainya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:44.148219600Z",
+  "model": "glm-5.2"
+}

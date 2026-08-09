@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Datanglah, lihatlah perbuatan-perbuatan Yahweh, yang telah menetapkan kehancuran di bumi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Datanglah"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "perbuatan-perbuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "telah menetapkan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "kehancuran"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:57.931645562Z",
+  "model": "glm-5.2"
+}

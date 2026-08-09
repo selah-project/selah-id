@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan tidak akan terpejam mata ⟨orang-orang⟩ yang melihat, dan telinga ⟨orang-orang⟩ yang mendengar akan mencamatkan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "akan terpejam"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "orang-orang yang melihat"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "dan telinga"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "orang-orang yang mendengar"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "akan mencamatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:11:34.002228328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Sebab Aku tidak diam dalam ⟨sebuah⟩ rumah sejak hari Aku menaikkan ⟨את⟩ bani Yisrael dari Mitsrayim sampai hari ini, dan ⟨Aku⟩ berjalan dari kemah ke kemah dan ke mishkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "Aku diam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dalam rumah"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "sejak hari"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "Aku menaikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "dan Aku"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di kemah"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "dan di mishkan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:54.647028583Z",
+  "model": "glm-5.2"
+}

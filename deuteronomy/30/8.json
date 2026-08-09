@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan engkau akan berbalik dan engkau akan mendengar ⟨ke dalam⟩ suara Yahweh, dan engkau akan melakukan ⟨את⟩ segala perintah-Nya, yang aku perintahkan kepadamu hari ini.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "akan berbalik"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "dan engkau akan mendengar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨ke dalam⟩ suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perintah-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "perintah-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "perintahkan kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:24.321008800Z",
+  "model": "glm-5.2"
+}

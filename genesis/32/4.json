@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Lalu Ya'akov mengirim utusan-utusan sebelumnya, kepada Esav saudaranya, ke tanah Seir, padang Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu mengirim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sebelumnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:49.936318039Z",
+  "model": "glm-5.2"
+}

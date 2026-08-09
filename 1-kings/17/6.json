@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan burung-burung gagak membawakan kepadanya roti dan daging pada pagi hari, dan roti dan daging pada petang, dan dari wadi itu ia minum.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "dan burung-burung gagak"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "membawakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi hari"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dan roti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada petang"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "wadi itu"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ia minum"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:51.316114917Z",
+  "model": "glm-5.2"
+}

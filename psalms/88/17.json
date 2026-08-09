@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Atasku telah lewat murka-mu, kengerian-mu telah memunahkan aku.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Atasku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "telah lewat"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "murka-mu"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "kengerian-mu"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "telah memunahkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:56.149628817Z",
+  "model": "glm-5.2"
+}

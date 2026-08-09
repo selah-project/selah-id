@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "dan ⟨את⟩ mezbah emas, dan ⟨את⟩ minyak pengurapan, dan ⟨את⟩ dupa wangi-wangian, dan ⟨את⟩ tirai pintu masuk kemah;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah emas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak pengurapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pengurapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dupa wangi-wangian"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wangi-wangian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tirai pintu masuk kemah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu masuk"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:07.991259280Z",
+  "model": "glm-5.2"
+}

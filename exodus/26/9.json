@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan engkau akan menggabungkan ⟨את⟩ lima tirai tersendiri dan ⟨את⟩ enam tirai tersendiri, dan engkau akan melipat ganda ⟨את⟩ tirai yang keenam ke depan panjuru kemah.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "Dan engkau akan menggabungkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima tirai"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tersendiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "enam tirai"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tersendiri"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "dan engkau akan melipat ganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirai yang keenam"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "yang keenam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מול",
+      "gloss": "depan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "panjuru"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:31:32.352338611Z",
+  "model": "glm-5.2"
+}

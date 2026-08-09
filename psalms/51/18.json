@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Sebab Engkau tidak berkenan kepada korban sembelihan — maka aku memberikannya; korban bakaran Engkau tidak rindui.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תַחְפֹּ֣ץ",
+      "gloss": "Engkau berkenan"
+    },
+    {
+      "surface": "זֶ֣בַח",
+      "gloss": "korban sembelihan"
+    },
+    {
+      "surface": "וְאֶתֵּ֑נָה",
+      "gloss": "maka aku memberikannya"
+    },
+    {
+      "surface": "ע֝וֹלָ֗ה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תִרְצֶֽה",
+      "gloss": "Engkau rindui"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:51.838017179Z",
+  "model": "glm-5.2"
+}

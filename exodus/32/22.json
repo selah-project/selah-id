@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan berkatalah Aharon: “Janganlah menyala-nyala amarah tuanku; engkau sendiri tahu ⟨את⟩ bangsa itu, bahwa ⟨ia⟩ dalam kejahatan.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "menyala-nyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "amarah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dalam kejahatan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:46.009455090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Berbahagialah bangsa yang mengenal sorak-sorai, Yahweh; di dalam terang wajahmu mereka berjalan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "berbahagialah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "yang mengenal"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "di dalam terang"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "mereka berjalan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:48.238095670Z",
+  "model": "glm-5.2"
+}

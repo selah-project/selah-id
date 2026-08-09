@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Lalu Ya'akov menamai ⟨את⟩ nama tempat di mana Elohim berbicara dengannya di sana: Beit-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu menamai"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:48.066563708Z",
+  "model": "glm-5.2"
+}

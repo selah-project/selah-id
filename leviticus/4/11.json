@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "dan ⟨את⟩ kulit lembu itu dan ⟨את⟩ segala dagingnya, beserta kepalanya dan beserta kakinya dan isinya dan kotorannya,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kulit"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "beserta"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan beserta"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "kakinya"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "dan isinya"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "dan kotorannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:53.910733306Z",
+  "model": "glm-5.2"
+}

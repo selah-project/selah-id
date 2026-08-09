@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan nama yang satu Eli'ezer, “karena Elohim ayahku ⟨adalah⟩ pertolonganku, dan Ia menyelamatkan aku dari pedang Paroh.”",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Dan nama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eli'ezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "pertolonganku"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "dan Ia menyelamatkan aku"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari pedang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:17.581853333Z",
+  "model": "glm-5.2"
+}

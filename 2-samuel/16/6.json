@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan ia melempari dengan batu ⟨את⟩ David dan ⟨את⟩ segala hamba raja David, padahal seluruh rakyat dan segala pahlawan ⟨berada⟩ di sebelah kanannya dan di sebelah kirinya.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "Dan ia melempari"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "dengan batu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala hamba raja David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "padahal seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "di sebelah kanannya"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "dan di sebelah kirinya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:57:18.722081442Z",
+  "model": "glm-5.2"
+}

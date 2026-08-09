@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Inilah angkatan orang-orang yang mencari Dia, yang mencari wajah-Mu, ⟨yaitu⟩ Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זֶ֭ה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "דּ֣וֹר",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "orang-orang yang mencari Dia"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֨י",
+      "gloss": "yang mencari"
+    },
+    {
+      "surface": "פָנֶ֖יךָ",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "יַעֲקֹ֣ב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:53.088831632Z",
+  "model": "glm-5.2"
+}

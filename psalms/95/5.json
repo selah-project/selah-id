@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 95,
+  "translation": "Yang kepunyaan-Nya ⟨adalah⟩ laut, dan Dialah yang membuatnya, dan tanah kering tangan-Nya membentuknya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepunyaan-Nya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan Dialah"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "yang membuatnya"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "dan tanah kering"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan-Nya"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "membentuknya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:26.025508854Z",
+  "model": "glm-5.2"
+}

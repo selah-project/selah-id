@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Lalu ia memerintahkan ⟨את⟩ yang pertama, katakan: “Apabila Esav saudaraku menemui engkau dan bertanya kepadamu, katakan: Milik siapa engkau, dan ke mana engkau pergi, dan milik siapa ⟨ini⟩ yang di depanmu?”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "dan ia memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang pertama"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "menemui engkau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaraku"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "dan bertanya kepadamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "למי",
+      "gloss": "milik siapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "dan ke mana"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "engkau pergi"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "dan milik siapa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yang di depanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:23:38.267444124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 18:40",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Berkatalah Eliyahu kepada mereka: “Tangkaplah ⟨את⟩ nabi-nabi ha-Baal itu! Janganlah seorang pun meloloskan diri dari antara mereka!” Mereka menangkap mereka, lalu Eliyahu menurunkan mereka ke wadi Qishon, dan menyembelih mereka di sana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Berkatalah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "Tangkaplah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi ha-Baal itu"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ha-Baal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "meloloskan diri"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari antara mereka"
+    },
+    {
+      "surface": "ויתפשום",
+      "gloss": "Mereka menangkap mereka"
+    },
+    {
+      "surface": "ויורדם",
+      "gloss": "lalu ... menurunkan mereka"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wadi"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Qishon"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "dan menyembelih mereka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-08-08T08:07:02.157604493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Tidak ⟨mereka⟩ memusnahkan ⟨את⟩ bangsa-bangsa yang berkata Yahweh kepada mereka:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:56.936478075Z",
+  "model": "glm-5.2"
+}

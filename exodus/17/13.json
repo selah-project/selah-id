@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan Yehosua mematahkan ⟨את⟩ Amalek dan ⟨את⟩ bangsanya dengan mata pedang.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "Dan mematahkan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bangsanya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bangsanya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dengan mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-08-08T06:59:43.017140880Z",
+  "model": "glm-5.2"
+}

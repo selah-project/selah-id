@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan naiklah Mosheh ke gunung itu, dan awan itu menutupi ⟨את⟩ gunung itu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "dan naiklah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung itu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:01.778575021Z",
+  "model": "glm-5.2"
+}

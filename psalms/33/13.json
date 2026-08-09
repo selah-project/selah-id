@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dari langit Yahweh memandang, ⟨הוּא⟩ melihat ⟨את⟩ semua anak manusia.",
+  "tokens": [
+    {
+      "surface": "מִ֭שָּׁמַיִם",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "הִבִּ֣יט",
+      "gloss": "memandang"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רָ֝אָ֗ה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "semua anak manusia"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הָאָדָֽם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:22.864422393Z",
+  "model": "glm-5.2"
+}

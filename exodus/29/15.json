@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan ⟨את⟩ domba jantan yang satu itu engkau ambil, dan Aharon serta anak-anaknya harus meletakkan ⟨את⟩ tangan mereka di atas kepala domba jantan itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domba jantan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau ambil"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "dan mereka harus meletakkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dan anak-anaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:10:48.635334051Z",
+  "model": "glm-5.2"
+}

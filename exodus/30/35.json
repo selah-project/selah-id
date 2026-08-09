@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Engkau akan membuat daripadanya ⟨את⟩ dupa — campuran, buatan tangan peracik, bergaram, murni, kudus.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Engkau akan membuat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dupa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "campuran"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "peracik"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "bergaram"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:38.505130369Z",
+  "model": "glm-5.2"
+}

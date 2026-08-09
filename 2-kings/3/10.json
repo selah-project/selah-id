@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan berkatalah raja Yisra'el: “Aduh! Sungguh Yahweh telah memanggil ketiga raja ini untuk menyerahkan ⟨את⟩ mereka ke dalam tangan Moav.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aduh!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "telah memanggil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk menyerahkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-08T12:49:31.405139944Z",
+  "model": "glm-5.2"
+}

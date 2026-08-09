@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Lalu Dawid mengambil musyawarah bersama para sar ⟨ha⟩-ribuan dan ⟨ha⟩-ratusan, untuk setiap naging.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "Lalu ia mengambil musyawarah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para sar"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "⟨ha⟩-ribuan"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "dan ⟨ha⟩-ratusan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuk setiap"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "naging"
+    }
+  ],
+  "timestamp": "2026-08-08T10:07:41.466559036Z",
+  "model": "glm-5.2"
+}

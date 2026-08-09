@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Mereka memberi minum setiap binatang lapangan; keledai-keledai liar menghilangkan dahaga mereka.",
+  "tokens": [
+    {
+      "surface": "יַ֭שְׁקוּ",
+      "gloss": "Mereka memberi minum"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "חַיְת֣וֹ",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "שָׂדָ֑י",
+      "gloss": "lapangan"
+    },
+    {
+      "surface": "יִשְׁבְּר֖וּ",
+      "gloss": "menghilangkan"
+    },
+    {
+      "surface": "פְרָאִ֣ים",
+      "gloss": "keledai-keledai liar"
+    },
+    {
+      "surface": "צְמָאָֽם",
+      "gloss": "dahaga mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:04.954672908Z",
+  "model": "glm-5.2"
+}

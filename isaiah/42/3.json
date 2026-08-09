@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Rumput yang remuk tidak ia akan memecahkan, dan sumbu yang pudar tidak ia akan memadamkan; kepada kebenaran ia akan mengeluarkan keadilan.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Rumput"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "yang remuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "ia akan memecahkan"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "dan sumbu"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "yang pudar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "ia akan memadamkannya"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "kepada kebenaran"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ia akan mengeluarkan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:24:59.129845549Z",
+  "model": "glm-5.2"
+}

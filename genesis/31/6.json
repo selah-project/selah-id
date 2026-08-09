@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan kalian tahu bahwa dengan segenap kekuatanku aku telah bekerja melayani ⟨את⟩ ayahmu.”",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "dan kalian"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "aku telah bekerja melayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahmu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ayahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:23:35.337983011Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 140,
+  "translation": "Kepala mereka yang mengelilingi aku — biarlah kesulitan bibir mereka sendiri menutupi mereka.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "mereka yang mengelilingi aku"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kesulitan"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "bibir mereka"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "menutupi mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:26.131667881Z",
+  "model": "glm-5.2"
+}

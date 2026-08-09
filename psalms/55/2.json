@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Berikanlah telinga, ya Elohim, ⟨kepada⟩ doaku, dan janganlah bersembunyi dari permohonanku.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "berikanlah telinga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "bersembunyi"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "dari permohonanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:11.851697264Z",
+  "model": "glm-5.2"
+}

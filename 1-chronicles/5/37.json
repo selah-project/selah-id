@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Azaryah memperanakkan ⟨את⟩ Amarjah, dan Amarjah memperanakkan ⟨את⟩ Achitub.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "dan Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitub"
+    }
+  ],
+  "timestamp": "2026-08-08T10:03:51.905364710Z",
+  "model": "glm-5.2"
+}

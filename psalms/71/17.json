@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Elohim, Engkau telah mengajari aku sejak masa muda-Ku, dan sampai sekarang aku memberitakan keajaiban-Mu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "Engkau telah mengajari aku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sejak masa muda-Ku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "aku memberitakan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "keajaiban-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:10.910040980Z",
+  "model": "glm-5.2"
+}

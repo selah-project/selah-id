@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Apakah elohim-elohim bangsa-bangsa yang telah dirusuh oleh bapa-bapaku menyelamatkan ⟨את⟩ mereka? — ⟨את⟩ Gozan dan ⟨את⟩ Haran dan Rezef dan bani Eden yang di Telassar.",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "apakah ... menyelamatkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim-elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "telah dirusuh oleh"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "bapa-bapaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "dan Rezef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "di Telassar"
+    }
+  ],
+  "timestamp": "2026-08-08T08:12:52.038606521Z",
+  "model": "glm-5.2"
+}

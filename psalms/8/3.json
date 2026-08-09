@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dari mulut bayi dan anak yang menyusu Engkau menegakkan kekuatan, demi musuh-musuh-Mu, untuk membungkam musuh dan si pendendam.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "dari mulut"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "bayi"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "dan anak yang menyusu"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Engkau menegakkan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "musuh-musuh-Mu"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "untuk membungkam"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "dan si pendendam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:06.018667065Z",
+  "model": "glm-5.2"
+}

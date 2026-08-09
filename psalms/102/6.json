@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Dari suara keluh-kesahku, tulangku melekat pada dagingku.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "dari suara"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "keluh-kesahku"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "melekat"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulangku"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "pada dagingku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:58.419296573Z",
+  "model": "glm-5.2"
+}

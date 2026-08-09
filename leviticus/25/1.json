@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Lalu Yahweh berfirman kepada Mosheh di gunung Sinai, ⟨untuk⟩ berkata:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "untuk berkata"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:59.407347431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ⟨ia⟩ menunjukkan kepada mereka ⟨את⟩ jalan masuk kota itu, dan mereka memukul ⟨את⟩ kota itu menurut mata pedang, tetapi ⟨את⟩ orang itu dan ⟨את⟩ seluruh keluarganya mereka menyuruh pergi.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "dan ia menunjukkan kepada mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan masuk kota itu"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "jalan masuk"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "menurut"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mata pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh keluarganya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "keluarganya"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "mereka menyuruh pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:51:09.656677654Z",
+  "model": "glm-5.2"
+}

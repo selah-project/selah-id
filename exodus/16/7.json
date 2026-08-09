@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "dan pada pagi hari, maka kamu akan melihat ⟨את⟩ kemuliaan Yahweh, pada ⟨saat⟩ didengar-Nya ⟨את⟩ gerutuan kamu terhadap Yahweh; dan kami ⟨ini⟩ apa, bahwa kamu menggerutu terhadap kami?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "dan pada pagi hari"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "dan kamu akan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemuliaan Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "pada didengar-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerutuan kamu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "gerutuan kamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "dan kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "kamu menggerutu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "terhadap kami"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:31.896793315Z",
+  "model": "glm-5.2"
+}

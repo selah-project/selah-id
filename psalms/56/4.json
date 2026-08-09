@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Pada hari aku takut, aku ⟨akan⟩ bersandar kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "bersandar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:07.156610323Z",
+  "model": "glm-5.2"
+}

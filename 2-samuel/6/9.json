@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan Dawid takut kepada ⟨את⟩ Yahweh pada hari itu, dan ia berkata, “Bagaimana aron Yahweh akan datang kepadaku?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan takut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "איך",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "akan datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:18.929338508Z",
+  "model": "glm-5.2"
+}

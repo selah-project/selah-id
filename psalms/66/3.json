@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Katakanlah kepada Elohim: “Betapa dashyatnya perbuatan-Mu! Dalam kelimpahan kekuatan-Mu musuh-musuh-Mu akan berdusta kepada-Mu.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Betapa"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "dashyatnya"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Dalam kelimpahan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kekuatan-Mu"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "akan berdusta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuh-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.140396172Z",
+  "model": "glm-5.2"
+}

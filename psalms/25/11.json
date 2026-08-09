@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Demi nama-Mu, Yahweh, Engkau mengampuni pelanggaranku, sebesar apa pun ⟨ia⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Demi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "Engkau mengampuni"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "pelanggaranku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebesar apa pun"
+    },
+    {
+      "surface": "רב",
+      "gloss": "besar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:55.647771260Z",
+  "model": "glm-5.2"
+}

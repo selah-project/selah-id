@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan berkatalah Yehoshua kepada bani Yisra'el: “Datanglah ke mari dan dengarkanlah ⟨את⟩ perkataan Yahweh, Elohim kamu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Datanglah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ke mari"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dan dengarkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:11.291426321Z",
+  "model": "glm-5.2"
+}

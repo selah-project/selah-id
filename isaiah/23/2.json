@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Diamlah, ⟨kamu⟩ penduduk pantai; ⟨kamu⟩ yang oleh pedagang Tsidon, yang melintasi laut, telah dipenuhi.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Diamlah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "אי",
+      "gloss": "pantai"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "pedagang"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yang melintasi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "telah dipenuhi"
+    }
+  ],
+  "timestamp": "2026-08-08T08:21:33.072131455Z",
+  "model": "glm-5.2"
+}

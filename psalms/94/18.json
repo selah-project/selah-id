@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Ketika aku berkata, ‘Kakiku tergelincir’, hesed-Mu, wahai Yahweh, menopang aku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tergelincir"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "menopang aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:14.070481060Z",
+  "model": "glm-5.2"
+}

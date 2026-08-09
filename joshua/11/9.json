@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Yehosua berbuat kepada mereka seperti yang Yahweh firmankan kepadanya: ⟨את⟩ kuda-kuda mereka disembelih uratnya, dan ⟨את⟩ kereta-kereta mereka dibakarnya dengan api.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan berbuat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firmankan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuda-kuda mereka"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "kuda-kuda mereka"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "disembelih uratnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kereta-kereta mereka"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "kereta-kereta mereka"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibakarnya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:57.774802785Z",
+  "model": "glm-5.2"
+}

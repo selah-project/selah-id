@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 2:27",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Maka Shelomoh mengusir ⟨את⟩ Evyatar dari menjadi kohen bagi Yahweh, untuk menggenapi ⟨את⟩ firman Yahweh yang Ia firmankan atas bait Eli di Shiloh.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "maka mengusir"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evyatar"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "dari menjadi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "untuk menggenapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ia firmankan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "di Shiloh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:01:24.254552418Z",
+  "model": "glm-5.2"
+}

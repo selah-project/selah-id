@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Maka datanglah raja dari Damsyik, dan raja melihat ⟨את⟩ mazbah; lalu raja mendekati mazbah itu, dan naik ke atasnya.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "maka datanglah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "dari Damsyik"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan ... melihat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "lalu ... mendekati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan ... naik"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:44.472497465Z",
+  "model": "glm-5.2"
+}

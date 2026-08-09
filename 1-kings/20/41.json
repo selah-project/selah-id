@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu ia segera menghapus ⟨את⟩ debu dari atas matanya, dan raja Yisra'el mengenalnya, bahwa ia termasuk ⟨dari⟩ para nabi.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Lalu ia segera"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "menghapus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debu"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matanya"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "dan mengenalnya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "dari para nabi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:04:37.790600474Z",
+  "model": "glm-5.2"
+}

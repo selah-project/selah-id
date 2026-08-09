@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "dan semoga ia memberikan kepadamu ⟨את⟩ berkat Avraham, kepadamu dan kepada benihmu bersamamu, untuk membuat engkau mewarisi ⟨את⟩ tanah tempat persinggahanmu, yang Elohim berikan kepada Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan semoga memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkat"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "dan kepada benihmu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersamamu"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "untuk membuat engkau mewarisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "tempat persinggahanmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kepada Avraham"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:29.910628589Z",
+  "model": "glm-5.2"
+}

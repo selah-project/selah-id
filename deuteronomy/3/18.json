@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan aku memerintahkan ⟨את⟩ kalian pada waktu itu, dengan berkata: Yahweh, Elohim kalian, telah memberikan ⟨את⟩ negeri ini untuk kalian miliki — ⟨kalian⟩ bersenjata kalian berjalan maju di depan saudara-saudara kalian, bani Yisrael, setiap ⟨anak⟩ pemberani.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "dan aku memerintahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "telah memberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuk kalian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "untuk kalian miliki"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "bersenjata"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "kalian berjalan maju"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudara-saudara kalian"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨anak⟩"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pemberani"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:44.742172499Z",
+  "model": "glm-5.2"
+}

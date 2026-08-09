@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Jika anak-anaknya meninggalkan taurat-Ku, dan dalam hukum-hukum-Ku mereka tidak berjalan,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "mereka meninggalkan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "taurat-Ku"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "dan dalam hukum-hukum-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "mereka berjalan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:14.362346582Z",
+  "model": "glm-5.2"
+}

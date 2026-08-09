@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan bani Yisrael harus menjaga ⟨את⟩ hari-Sabat, dengan melakukan ⟨את⟩ hari-Sabat untuk generasi-generasi mereka ⟨sebagai⟩ perjanjian kekal.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Dan harus menjaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari-Sabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "hari-Sabat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "dengan melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari-Sabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "hari-Sabat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "untuk generasi-generasi mereka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kekal"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:17.091389407Z",
+  "model": "glm-5.2"
+}

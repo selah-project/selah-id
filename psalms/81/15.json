@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Dengan sedikit waktu musuh-musuh mereka Aku taklukkan, dan kepada penyusah-penyusah mereka Aku berpalingkan tangan-Ku.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "dengan sedikit waktu"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "musuh-musuh mereka"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "Aku taklukkan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "penyusah-penyusah mereka"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Aku berpalingkan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:04.560631995Z",
+  "model": "glm-5.2"
+}

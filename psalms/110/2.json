@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 110,
+  "translation": "Tongkat kekuatanmu — Yahweh mengirim dari Tzion; berkuasalah di tengah musuhmu.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kekuatanmu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "mengirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tzion"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "berkuasalah"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuhmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:19.648968688Z",
+  "model": "glm-5.2"
+}

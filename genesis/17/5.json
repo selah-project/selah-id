@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan tidak lagi akan disebut ⟨את⟩ namamu Avram, dan akan menjadi namamu Avraham, karena ⟨sebagai⟩ bapa ⟨dari⟩ himpunan bangsa-bangsa telah Kuberikan ⟨kepadamu⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akan disebut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namamu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan akan menjadi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "himpunan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Kuberikan kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:03.390041285Z",
+  "model": "glm-5.2"
+}

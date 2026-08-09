@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Mataku habis ⟨menanti⟩ untuk keselamatan-Mu dan untuk firman kebenaran-Mu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habis"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "untuk keselamatan-Mu"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "dan untuk firman"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kebenaran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:23.875187335Z",
+  "model": "glm-5.2"
+}

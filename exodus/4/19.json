@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan berkatalah Yahweh kepada Moshe di Midyan, “Pergilah, kembalilah ke Mitsrayim, sebab telah mati semua orang yang mencari ⟨את⟩ nyawamu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "di Midyan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "yang mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawamu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:45.289841574Z",
+  "model": "glm-5.2"
+}

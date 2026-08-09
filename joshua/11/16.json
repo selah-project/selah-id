@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Yehosyua mengambil ⟨את⟩ seluruh negeri ini: pegunungan, dan ⟨את⟩ seluruh Negeb, dan ⟨את⟩ seluruh negeri Goshen, dan ⟨את⟩ Shefelá, dan ⟨את⟩ Arabá, dan ⟨את⟩ gunung Yisraél beserta shefelátanya.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh negeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "pegunungan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh Negeb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negeb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh negeri Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Shefelá"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Shefelá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Arabá"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "gunung Yisraél"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "beserta shefelátanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:35:36.257673469Z",
+  "model": "glm-5.2"
+}

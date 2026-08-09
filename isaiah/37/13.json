@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Di manakah raja Chamat, dan raja Arpad, dan raja kota Sefarwayim — Hena dan Iwah?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "di manakah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarwayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "dan Iwah"
+    }
+  ],
+  "timestamp": "2026-08-08T08:24:02.571508088Z",
+  "model": "glm-5.2"
+}

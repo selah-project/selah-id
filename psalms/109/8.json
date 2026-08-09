@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Biarlah hari-haranya sedikit, dan jabatannya orang lain ambil.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Biarlah"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hari-haranya"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "jabatannya"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ambil"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "orang lain"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:43.530036685Z",
+  "model": "glm-5.2"
+}

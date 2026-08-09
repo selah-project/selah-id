@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Janganlah ⟨engkau⟩ bijak di mata-mu sendiri; takutlah kepada ⟨את⟩ Yahweh dan berpalinglah dari kejahatan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "⟨engkau⟩ jadi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mata-mu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takutlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "dan berpalinglah"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dari kejahatan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:39.403750625Z",
+  "model": "glm-5.2"
+}

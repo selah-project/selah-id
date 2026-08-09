@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Orang yang berjalan dengan sempurna, dan yang berbuat keadilan, dan yang berbicara kebenaran di dalam hatinya.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Orang yang berjalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "dengan sempurna"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "dan yang berbuat"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dan yang berbicara"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "di dalam hatinya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:21.481607083Z",
+  "model": "glm-5.2"
+}

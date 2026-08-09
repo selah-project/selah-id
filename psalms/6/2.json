@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Yahweh, janganlah ⟨ Engkau ⟩ hardik aku dalam murka-Mu, dan janganlah ⟨ Engkau ⟩ didik aku dalam panas-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dalam murka-Mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "Engkau hardik aku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "dalam panas-Mu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "Engkau didik aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:06.085296379Z",
+  "model": "glm-5.2"
+}

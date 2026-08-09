@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 5:12",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Bangunlah, bangunlah, Devorah! Bangunlah, bangunlah, ucapkanlah nyanyian! Bangkitlah, Barak, dan tawanlah tawanan-tawananmu, hai anak Avinoam!",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devorah"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ucapkanlah"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangkitlah"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "dan tawanlah"
+    },
+    {
+      "surface": "שביך",
+      "gloss": "tawanan-tawananmu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Avinoam"
+    }
+  ],
+  "timestamp": "2026-08-08T07:39:50.645470392Z",
+  "model": "glm-5.2"
+}

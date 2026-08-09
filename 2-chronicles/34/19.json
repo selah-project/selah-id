@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Dan terjadilah, ketika mendengar raja ⟨את⟩ perkataan-perkataan Taurat, maka ia mengoyakkan ⟨את⟩ pakaiannya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ketika mendengar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan-perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "maka ia mengoyakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:01.154836474Z",
+  "model": "glm-5.2"
+}

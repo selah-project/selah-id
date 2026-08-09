@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ⟨ia⟩ menempatkan ⟨את⟩ mezbah emas itu di dalam Ohel Moed, di hadapan tirai.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah emas itu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di dalam Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "tirai"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:06.603843285Z",
+  "model": "glm-5.2"
+}

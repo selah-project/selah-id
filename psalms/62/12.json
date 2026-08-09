@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 62,
+  "translation": "Satu kali telah berfirman Elohim, dua hal ini telah kudengar: bahwa kekuatan ⟨milik⟩ Elohim —",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Satu kali"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "זו",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "telah kudengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:01.777915618Z",
+  "model": "glm-5.2"
+}

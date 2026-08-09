@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 20:5",
+  "book": "job",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "bahwa sorak-sorai orang-orang fasik ⟨adalah⟩ dari dekat, dan sukacita orang munafik ⟨adalah⟩ sampai sekejap.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "רִנְנַ֣ת",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "רְשָׁעִ֑ים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "מִקָּר֑וֹב",
+      "gloss": "dari dekat"
+    },
+    {
+      "surface": "וְשִׂמְחַ֖ת",
+      "gloss": "dan sukacita"
+    },
+    {
+      "surface": "חָנֵ֣ף",
+      "gloss": "orang munafik"
+    },
+    {
+      "surface": "עֲדֵי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "רָֽגַע",
+      "gloss": "sekejap"
+    }
+  ],
+  "timestamp": "2026-08-08T11:53:28.545118815Z",
+  "model": "glm-5.2"
+}

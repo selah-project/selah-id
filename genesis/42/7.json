@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Maka Yosef melihat ⟨את⟩ saudara-saudaranya dan mengenal mereka, tetapi ia berlaku sebagai orang asing terhadap mereka dan berbicara dengan mereka dengan keras, lalu berkata kepada mereka: “Dari mana kalian datang?” Mereka menjawab: “Dari tanah Kenaan, untuk membeli makanan.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "maka melihat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "dan mengenal mereka"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "tetapi ia berlaku sebagai orang asing"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dan berbicara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "dengan keras"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "dari mana"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kalian datang"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mereka menjawab"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuk membeli"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:43.746628652Z",
+  "model": "glm-5.2"
+}

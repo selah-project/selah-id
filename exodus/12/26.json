@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan ⟨akan terjadi⟩, ketika anak-anakmu berkata kepadamu: 'Apa ibadah ini bagimu?'",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan ⟨akan terjadi⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ibadah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:58.905914130Z",
+  "model": "glm-5.2"
+}

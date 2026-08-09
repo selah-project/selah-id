@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Pada masuknya Doeg ha-Edomi, ⟨dan⟩ ia memberitahukan kepada Sha'ul, dan ia berkata kepadanya, “Dawid telah masuk ke rumat Avimelekh.”",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Pada masuknya"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ha-Edomi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan ia memberitahukan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Sha'ul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah masuk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:15.134755366Z",
+  "model": "glm-5.2"
+}

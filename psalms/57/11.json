@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Karena besarnya hesed-Mu ⟨mencapai⟩ langit, dan kesetiaan-Mu ⟨sampai⟩ awan-awan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "besarnya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨mencapai⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨sampai⟩"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kesetiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:42.564118231Z",
+  "model": "glm-5.2"
+}

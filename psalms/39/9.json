@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Dari segala pelanggaranku, luputkanlah aku; cercaan ⟨dari⟩ orang bodoh jangan kauberikan kepadaku.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pelanggaranku"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "luputkanlah aku"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "cercaan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "kauberikan kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:13.519932159Z",
+  "model": "glm-5.2"
+}

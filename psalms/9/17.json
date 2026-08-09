@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Telah dikenal Yahweh, penghukuman yang ⟨telah⟩ dilakukan-Nya; dalam perbuatan tangannya sendiri tertangkap dalam jerat ⟨si⟩ fasik. Higgaion. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "telah dikenal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "penghukuman"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan-Nya"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "dalam perbuatan"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "tangannya sendiri"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "tertangkap dalam jerat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "fasik"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:02.623097124Z",
+  "model": "glm-5.2"
+}

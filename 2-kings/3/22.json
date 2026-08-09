@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Mereka bangun pagi-pagi, dan matahari bersinar di atas air itu, maka Moab melihat dari seberang ⟨את⟩ air itu merah seperti darah.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Mereka bangun pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di pagi"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "dan matahari"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "bersinar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "maka melihat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "dari seberang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "air itu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "merah"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "seperti darah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:05:26.334568803Z",
+  "model": "glm-5.2"
+}

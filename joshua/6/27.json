@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Maka Yahweh menyertai ⟨את⟩ Yehosyua, dan kabar ⟨tentang⟩nya terdengar di seluruh negeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "menyertai ⟨את⟩",
+      "marks": "Yehosyua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kabar ⟨tentang⟩nya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    }
+  ],
+  "timestamp": "2026-08-08T07:34:29.003266654Z",
+  "model": "glm-5.2"
+}

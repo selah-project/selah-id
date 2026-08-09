@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Taurat Yahweh sempurna, memulihkan ⟨את⟩ nefesh; kesaksian Yahweh dapat dipercaya, memberi hikmat kepada ⟨orang⟩ sederhana.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "sempurna"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "memulihkan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨את⟩ nefesh",
+      "marks": "nefesh"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "dapat dipercaya"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "memberi hikmat"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "kepada ⟨orang⟩ sederhana"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:36.275585675Z",
+  "model": "glm-5.2"
+}

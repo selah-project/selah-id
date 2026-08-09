@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Maka engkau akan mendengarkan suara Yahweh Elohim-mu, dan engkau akan melakukan ⟨את⟩ perintah-perintah-Nya dan ⟨את⟩ ketetapan-ketetapan-Nya, yang kuperintahkan kepadamu hari ini.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Maka engkau akan mendengarkan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintah-Nya"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "perintah-perintah-Nya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ketetapan-ketetapan-Nya"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ketetapan-ketetapan-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "perintahkan kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:41.647598682Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Mengertilah, hai orang-orang bodoh di antara bangsa, dan hai orang-orang bebal, bilakah kamu akan berbijak?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Mengertilah"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "hai orang-orang bodoh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "di antara bangsa"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "dan hai orang-orang bebal"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilakah"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "kamu akan berbijak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:06.061563767Z",
+  "model": "glm-5.2"
+}

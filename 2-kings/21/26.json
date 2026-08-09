@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan ⟨mereka⟩ menguburkan ⟨את⟩nya di makamnya di taman Uzza, danYoasya putranya menjadi raja menggantikannya.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Dan menguburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "di makamnya"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di taman"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan menjadi raja"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoasya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putranya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikannya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:14:08.854046181Z",
+  "model": "glm-5.2"
+}

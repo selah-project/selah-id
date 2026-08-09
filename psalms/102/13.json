@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Tetapi Engkau, Yahweh, untuk selamanya ⟨⟨duduk bertakhta⟩⟩, dan ⟨orang⟩ mengingat Engkau untuk generasi dan generasi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "⟨duduk bertakhta⟩"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "dan mengingat Engkau"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "untuk generasi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dan generasi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:39.414178420Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu berserulah sang penjaga dan memberitahukan kepada raja, dan berkatalah raja: “Jika ia sendirian, kabar baik ⟨ada⟩ di mulutnya.” Dan ia terus berjalan mendekat.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu berserulah"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "sang penjaga"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitahukan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ia sendirian"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "kabar baik"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "di mulutnya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Dan ia berjalan"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "terus"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "mendekat"
+    }
+  ],
+  "timestamp": "2026-08-08T12:47:26.492654901Z",
+  "model": "glm-5.2"
+}

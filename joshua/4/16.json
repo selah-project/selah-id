@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "“Perintahkanlah ⟨את⟩ para imam, para pengangkut Aron ⟨את⟩ ha-edut, supaya mereka naik dari sungai Yarden.”",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Perintahkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "para pengangkut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ha-edut"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "supaya mereka naik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yarden"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:05.310990164Z",
+  "model": "glm-5.2"
+}

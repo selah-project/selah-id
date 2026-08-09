@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Aku menyingkirkan dari bahunya beban; tangannya dari keranjang ⟨mereka⟩ berlalu.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Aku menyingkirkan"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "dari beban"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "bahunya"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "dari keranjang"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "berlalu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:12.204654442Z",
+  "model": "glm-5.2"
+}

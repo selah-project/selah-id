@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Bagi ⟨sang pemimpin⟩. Nyanyian, mizmor. Bersoraklah kepada Elohim, seluruh ⟨bumi⟩!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bagi ⟨sang pemimpin⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Bersoraklah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨bumi⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.139976629Z",
+  "model": "glm-5.2"
+}

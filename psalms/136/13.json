@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "Kepada Dia yang membelah Laut Teberau menjadi bagian-bagian, ki sampai selamanya hesed-Nya,",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Kepada ⟨Dia⟩ yang membelah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Teberau"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "menjadi bagian-bagian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:51.592246072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan ⟨Dia⟩ membungkukkan langit dan turun, dan kegelapan gelap di bawah kaki-Nya.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֣ט",
+      "gloss": "dan membungkukkan"
+    },
+    {
+      "surface": "שָׁ֭מַיִם",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וַיֵּרַ֑ד",
+      "gloss": "dan turun"
+    },
+    {
+      "surface": "וַֽעֲרָפֶ֗ל",
+      "gloss": "dan kegelapan gelap"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רַגְלָֽיו",
+      "gloss": "kaki-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:19.647326845Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan orang yang menyentuh daging orang yang beroleh keluaran harus mencuci pakaiannya dan mandi dalam air dan ⟨ia⟩ tuma hingga matahari terbenam.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "dan orang yang menyentuh"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "orang yang beroleh keluaran"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "harus mencuci"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan mandi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan tuma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "matahari terbenam"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:34.640168526Z",
+  "model": "glm-5.2"
+}

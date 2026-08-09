@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka aku berpaling, aku, dan aku melihat ⟨suatu⟩ kesia-siaan di bawah matahari.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "maka aku berpaling"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dan aku melihat"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:30.992064938Z",
+  "model": "glm-5.2"
+}

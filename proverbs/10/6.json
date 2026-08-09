@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Berkat-berkat ⟨di⟩ atas kepala orang benar, tetapi mulut orang-orang fasik diliputi ⟨oleh⟩ kekerasan.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "berkat-berkat"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "⟨di⟩ atas kepala"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "tetapi mulut"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "diliputi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "⟨oleh⟩ kekerasan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:33.018536136Z",
+  "model": "glm-5.2"
+}

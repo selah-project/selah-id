@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Di dekat padang seorang pemalas aku telah lewat, dan di dekat kebun anggur seorang manusia yang kurang ⟨את⟩ hati.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "di dekat"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "pemalas"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "aku telah lewat"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di dekat"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebun anggur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "seorang manusia"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:37.526174812Z",
+  "model": "glm-5.2"
+}

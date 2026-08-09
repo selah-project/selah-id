@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan mereka diam tiga tahun, tidak ada peperangan antara Aram dan antara Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Dan mereka diam"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:45.064131160Z",
+  "model": "glm-5.2"
+}

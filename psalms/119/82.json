@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Telah lelah mataku karena janji-Mu, ⟨sambil berkata⟩, “Kapanakah Engkau akan menghiburku?”",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Telah lelah"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "karena janji-Mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨sambil berkata⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kapanakah"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "Engkau akan menghiburku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:43.381821991Z",
+  "model": "glm-5.2"
+}

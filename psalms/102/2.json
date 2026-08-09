@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Yahweh, dengarkanlah doaku, dan seruanku kepada-Mu datanglah.",
+  "tokens": [
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שִׁמְעָ֣ה",
+      "gloss": "dengarkanlah"
+    },
+    {
+      "surface": "תְפִלָּתִ֑י",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "וְ֝שַׁוְעָתִ֗י",
+      "gloss": "dan seruanku"
+    },
+    {
+      "surface": "אֵלֶ֥יךָ",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "תָבֽוֹא",
+      "gloss": "datanglah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:57.314255857Z",
+  "model": "glm-5.2"
+}

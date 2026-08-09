@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan aku berkata: Dengarkanlah, hai para kepala Yakov, dan hai para pemimpin bait Yisrael — bukankah bagi kamu untuk mengetahui ⟨את⟩ keadilan?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dan aku berkata"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengarkanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "para kepala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "dan para pemimpin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadilan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:03.116347829Z",
+  "model": "glm-5.2"
+}

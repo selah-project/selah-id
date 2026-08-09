@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Lalu Dawid berbicara kepada Yahweh ⟨את⟩ kata-kata nyanyian ini, pada hari ⟨⟩ Yahweh menyelamatkan ⟨dia⟩ dari telapak semua musuhnya dan dari telapak Shaúl.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan berbicara-lah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kata-kata nyanyian ini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kata-kata"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-dia",
+      "marks": "dia (objek: Dawid)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dari telapak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuh-musuhnya"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "dan dari telapak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-09T01:41:08.652592915Z",
+  "model": "glm-5.2"
+}

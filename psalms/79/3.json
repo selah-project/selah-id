@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 79,
+  "translation": "Mereka menumpahkan darah mereka seperti air di sekeliling Yerushalayim, dan tidak ada ⟨yang⟩ menguburkan.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Mereka menumpahkan"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "darah mereka"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "seperti air"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "di sekeliling"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "menguburkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:11.032715396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan Shaul berkata, “Diberkati ⟨kalian⟩ oleh Yahweh, karena kalian mengasihani aku.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "diberkati"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨kalian⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "oleh Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "kalian mengasihani"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:29.990003473Z",
+  "model": "glm-5.2"
+}

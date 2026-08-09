@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu mereka menyingkirkan ⟨את⟩ para Elohim asing dari tengah-tengah mereka, dan mereka beribadah kepada ⟨את⟩ Yahweh; dan ⟨ihu⟩ jiwanya tersepit karena kesengsaraan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "lalu mereka menyingkirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Elohim asing"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "para Elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "asing"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "dari tengah-tengah mereka"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan mereka beribadah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "dan tersepit"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jiwanya"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "karena kesengsaraan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T10:52:27.427358359Z",
+  "model": "glm-5.2"
+}

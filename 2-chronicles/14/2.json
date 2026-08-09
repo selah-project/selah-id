@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Maka ia menyingkirkan ⟨את⟩ mezbah-mezbah asing dan ⟨את⟩ bukit-bukit pengorbunan, dan ia menghancurkan ⟨את⟩ tugu-tugu, dan ia menebang ⟨את⟩ patung-patung Ashera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "maka ia menyingkirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah-mezbah asing"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mezbah-mezbah"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "asing"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "dan bukit-bukit pengorbunan"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "dan ia menghancurkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu-tugu"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tugu-tugu"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "dan ia menebang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patung-patung Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "patung-patung Ashera"
+    }
+  ],
+  "timestamp": "2026-08-08T10:13:28.978651280Z",
+  "model": "glm-5.2"
+}

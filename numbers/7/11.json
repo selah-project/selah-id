@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan Yahweh berfirman kepada Mosheh: “Satu nasi ⟨satu⟩ hari, satu nasi ⟨satu⟩ hari, mereka harus mempersembahkan ⟨את⟩ persembahan mereka untuk pentahbisan mezbah itu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "mereka harus mempersembahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan mereka"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "persembahan mereka"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "untuk pentahbisan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:39:44.366400119Z",
+  "model": "glm-5.2"
+}

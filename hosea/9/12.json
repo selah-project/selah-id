@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Sungguhpun ⟨jika⟩ mereka membesarkan anak-anak mereka, Aku akan merampas ⟨את⟩ mereka dari manusia; sungguh, sungguh, celakalah mereka ketika Aku berpaling dari mereka!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sungguhpun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨jika⟩"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "mereka membesarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak mereka"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anak mereka"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "Aku akan merampas"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "celakalah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "ketika Aku berpaling"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:27.648217605Z",
+  "model": "glm-5.2"
+}

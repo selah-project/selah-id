@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "yang membawa keluar ⟨את⟩kamu dari tanah Mitsrayim untuk menjadi bagi kamu menjadi Elohim; aku ⟨ini⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "הַמּוֹצִ֤יא",
+      "gloss": "yang membawa keluar"
+    },
+    {
+      "surface": "אֶתְכֶם֙",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לִהְי֥וֹת",
+      "gloss": "untuk menjadi"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "לֵאלֹהִ֑ים",
+      "gloss": "menjadi Elohim"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:12.551919038Z",
+  "model": "glm-5.2"
+}

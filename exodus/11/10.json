@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Mosheh dan Aharon melakukan ⟨את⟩ segala mujizat-mujizat ini di hadapan Paroh, dan Yahweh meneguhkan ⟨את⟩ hati Paroh, sehingga ⟨הוא⟩ tidak menyurutkan ⟨את⟩ bani Yisrael keluar dari negerinya.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Dan Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala mujizat-mujizat ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "mujizat-mujizat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "dan meneguhkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "menyurutkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dari negerinya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:55.079992797Z",
+  "model": "glm-5.2"
+}

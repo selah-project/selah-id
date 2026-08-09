@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "dan ⟨את⟩ orang Arwadi, dan ⟨את⟩ orang Zemari, dan ⟨את⟩ orang Hamati; dan setelah itu berseraklah keluarga-keluarga orang Kanaan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "orang Arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Zemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "orang Zemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Hamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "orang Hamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan setelah itu"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "berseraklah"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "keluarga-keluarga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:49.270543830Z",
+  "model": "glm-5.2"
+}

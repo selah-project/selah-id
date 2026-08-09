@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Betapa berbahagialah ⟨dia yang⟩ memperhatikan ⟨orang⟩ lemah; pada hari celaka Yahweh meluputkan dia.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "betapa berbahagialah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "memperhatikan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨orang⟩ lemah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "celaka"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "meluputkan dia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:20.179502728Z",
+  "model": "glm-5.2"
+}

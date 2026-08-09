@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Lalu Mosheh mengambil ⟨את⟩ gerobak-gerobak itu dan ⟨את⟩ lembu-lembu itu, dan memberikan ⟨את⟩ mereka kepada orang-orang Lewi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu mengambil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerobak-gerobak itu"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "gerobak-gerobak itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lembu-lembu itu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu-lembu itu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "kepada orang-orang Lewi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "orang-orang Lewi"
+    }
+  ],
+  "timestamp": "2026-08-08T18:26:50.513697510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Seperti pembunuhan dalam tulang-tulangku, para penindasku mencela aku, sambil berkata kepadaku sepanjang hari: “Di mana Elohim-mu?”",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "seperti pembunuhan"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "dalam tulang-tulangku"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mereka mencela aku"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "para penindasku"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "sambil berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:24.637509388Z",
+  "model": "glm-5.2"
+}

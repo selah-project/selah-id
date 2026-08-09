@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Bukan demikian orang-orang fasik, melainkan seperti jerami yang angin tahan habis.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "seperti jerami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "tahan habis"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-08T18:38:39.663516329Z",
+  "model": "glm-5.2"
+}

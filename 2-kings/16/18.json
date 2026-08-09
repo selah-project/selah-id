@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 16:18",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan ⟨את⟩ naungan Sabat yang dibangun mereka di dalam rumah, dan ⟨את⟩ pintu masuk raja yang di luar, dipindahkannya ke rumah Yahweh, karena raja Ashur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naungan Sabat"
+    },
+    {
+      "surface": "מיסך",
+      "gloss": "naungan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dibangun"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di dalam rumah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pintu masuk raja"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "pintu masuk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "yang di luar"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "dipindahkannya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-08T11:07:12.975398203Z",
+  "model": "glm-5.2"
+}

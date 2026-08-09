@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Biarlah jalan mereka ⟨gelap⟩ dan licin, dan ⟨malakh⟩ Yahweh memburu mereka.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "biarlah"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan mereka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "dan licin"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "dan malakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "memburu mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:22.594395887Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Karena Elohim ⟨adalah⟩ Raja seluruh bumi; mazmurkanlah dengan pengertian!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mazmurkanlah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "dengan pengertian"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:54.952351981Z",
+  "model": "glm-5.2"
+}

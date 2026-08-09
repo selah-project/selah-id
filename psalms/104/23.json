@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Manusia keluar untuk pekerjaannya, dan untuk pelayanannya sampai waktu senja.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "untuk pekerjaannya"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "dan untuk pelayanannya"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "senja"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:09.881211369Z",
+  "model": "glm-5.2"
+}

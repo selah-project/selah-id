@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Yahweh, Elohim kami, tuan-tuan selain Engkau telah menguasai kami; hanya di dalam Engkaulah kami mengingat nama-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "telah menguasai kami"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "tuan-tuan"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "selain Engkau"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam Engkau"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "kami mengingat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:20:38.583963739Z",
+  "model": "glm-5.2"
+}

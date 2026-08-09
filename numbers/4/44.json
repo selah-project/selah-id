@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka jumlahlah yang terhitung mereka, menurut keluarga-keluarga mereka: tiga ribu dan dua ratus.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "maka jumlahlah"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "yang terhitung mereka"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut keluarga-keluarga mereka"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dan dua ratus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:14:41.931883780Z",
+  "model": "glm-5.2"
+}

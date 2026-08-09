@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Hitam ⟨aku⟩ dan cantik, putri-putri Yerushalayim, seperti kemah-kemah Qedar, seperti tirai-tirai Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "hitam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "dan cantik"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "seperti kemah-kemah"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "seperti tirai-tirai"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:16.015912175Z",
+  "model": "glm-5.2"
+}

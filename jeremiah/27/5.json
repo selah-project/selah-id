@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Aku telah membuat ⟨את⟩ bumi, ⟨את⟩ manusia, dan ⟨את⟩ hewan yang ⟨di⟩ atas muka bumi, dengan kekuatanku yang besar dan dengan lenganiku yang teracung, dan aku memberikannya kepada siapa yang lurus di mataku.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "telah membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hewan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hewan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "dengan kekuatanku"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "dan dengan lenganiku"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "yang teracung"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "dan aku memberikannya"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kepada siapa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mataku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:36:41.512503103Z",
+  "model": "glm-5.2"
+}

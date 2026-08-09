@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Pada lebar tembok pelataran, jalan ke arah timur, menghadap area pemisahan dan menghadap bangunan — ruang-ruang.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "pada lebar"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pelataran"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "timur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "area pemisahan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan menghadap"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "bangunan"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "ruang-ruang"
+    }
+  ],
+  "timestamp": "2026-08-08T08:54:05.433212074Z",
+  "model": "glm-5.2"
+}

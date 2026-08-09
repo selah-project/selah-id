@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka raja memberkati Shadrakh, Meishakh, dan Abed-Nego di provinsi Bavel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "maka"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meishakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "dan"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "di provinsi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-08T09:53:31.418451818Z",
+  "model": "glm-5.2"
+}

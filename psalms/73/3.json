@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Sebab aku iri kepada para pembangkang, kesejahteraan orang-orang fasik kulihat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "aku iri"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "kepada para pembangkang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kesejahteraan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "kulihat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:49.649992168Z",
+  "model": "glm-5.2"
+}

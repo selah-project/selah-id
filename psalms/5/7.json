@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Engkau akan membinasakan para pembual dusta; ⟨seorang⟩ orang berdarah dan penipu, Yahweh menjijikkannya.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Engkau akan membinasakan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "para pembual"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "berdarah"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "dan penipu"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "Ia menjijikkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:37.812343168Z",
+  "model": "glm-5.2"
+}

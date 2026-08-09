@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka Yehosua memerintahkan ⟨את⟩ para imam, dengan berkata: “Naiklah dari sungai Yarden.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maka memerintahkan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yarden"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:44.244293346Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Di dalam rahim ⟨dia⟩ menahan ⟨את⟩ tumit saudaranya, dan dalam kekuasaannya ⟨dia⟩ berjuang ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "Di dalam rahim"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "menahan tumit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "dan dalam kekuasaannya"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "berjuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T13:05:22.747037074Z",
+  "model": "glm-5.2"
+}

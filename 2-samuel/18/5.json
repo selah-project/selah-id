@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan raja itu memerintahkan ⟨את⟩ Yoav dan ⟨את⟩ Avishai dan ⟨את⟩ Itai, dengan mengatakan: “Bertindaklah lembut demi aku terhadap orang muda itu, terhadap Avshalom.” Dan seluruh rakyat mendengar ketika raja itu memerintahkan ⟨את⟩ semua perwira mengenai perkara Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dan memerintahkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Avishai"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Itai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "bertindaklah lembut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "demi aku"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "terhadap orang muda itu"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "terhadap Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "Dan seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "ketika memerintahkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua perwira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "perwira"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:57.362744279Z",
+  "model": "glm-5.2"
+}

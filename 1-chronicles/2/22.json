@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Segub memperanakkan ⟨את⟩ Yair, dan baginya ada dua puluh tiga kota di tanah Gilad.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "dan Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yair"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:57.052676314Z",
+  "model": "glm-5.2"
+}

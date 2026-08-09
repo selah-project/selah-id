@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Banyak kali ⟨Ia⟩ menyelamatkan mereka, tetapi mereka berpaling memberontak dalam rencana mereka, dan mereka tertunduk dalam kesalahan mereka.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "menyelamatkan mereka"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "tetapi mereka"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "dalam rencana mereka"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "dan tertunduk"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "dalam kesalahan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:16.161850597Z",
+  "model": "glm-5.2"
+}

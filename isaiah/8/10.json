@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Buatlah rencana, dan ⟨rencana itu⟩ akan digagalkan; ucapkanlah firman, dan ⟨firman itu⟩ tidak akan berdiri, karena El ⟨⟨adalah⟩⟩ bersama kita.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Buatlah rencana"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "rencana"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "dan akan digagalkan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ucapkanlah firman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bersama kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-08T08:16:46.689292841Z",
+  "model": "glm-5.2"
+}

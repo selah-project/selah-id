@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan Yahweh mendengarkan Yehezkiya, dan menyembuhkan ⟨את⟩ rakyat itu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dan mendengarkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehezkiya"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "dan menyembuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakyat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:16:49.024830031Z",
+  "model": "glm-5.2"
+}

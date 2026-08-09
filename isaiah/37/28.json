@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan dudukmu, dan keluarmu, dan masukmu, telah kuketahui, dan ⟨את⟩ amarahmu terhadapku.",
+  "tokens": [
+    {
+      "surface": "וְשִׁבְתְּךָ֛",
+      "gloss": "Dan dudukmu"
+    },
+    {
+      "surface": "וְצֵאתְךָ֥",
+      "gloss": "dan keluarmu"
+    },
+    {
+      "surface": "וּבוֹאֲךָ֖",
+      "gloss": "dan masukmu"
+    },
+    {
+      "surface": "יָדָ֑עְתִּי",
+      "gloss": "telah kuketahui"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "amarahmu"
+    },
+    {
+      "surface": "הִֽתְרַגֶּזְךָ֥",
+      "gloss": "amarahmu"
+    },
+    {
+      "surface": "אֵלָֽי",
+      "gloss": "terhadapku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:01.571499099Z",
+  "model": "glm-5.2"
+}

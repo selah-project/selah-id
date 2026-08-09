@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lebih baik dua dari pada satu, yang bagi mereka ada upah baik dalam jerih payah mereka.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari pada"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "dalam jerih payah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:10.628041409Z",
+  "model": "glm-5.2"
+}

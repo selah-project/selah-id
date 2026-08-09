@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu raja Ashshur mengasingkan ⟨את⟩ Yisrael ke Ashshur, dan menempatkan mereka di Chalach dan di Chavor, sungai Gozan, dan di kota-kota Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "lalu mengasingkan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ke Ashshur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dan menempatkan mereka"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "di Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "dan di Chavor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "dan kota-kota"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    }
+  ],
+  "timestamp": "2026-08-08T08:12:22.112899456Z",
+  "model": "glm-5.2"
+}

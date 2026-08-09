@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan ⟨את⟩ serambi pilar-pilar itu dibuatnya: panjangnya lima puluh hasta, dan lebarnya tiga puluh hasta; dan serambi ⟨hadap⟩ di depan mereka, dan pilar-pilar dan ambang di depan mereka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "serambi"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "serambi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pilar-pilar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "dan serambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "depan mereka"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "dan pilar-pilar"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "dan ambang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "depan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:28.520701829Z",
+  "model": "glm-5.2"
+}

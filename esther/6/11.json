@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu Haman mengambil ⟨את⟩ pakaian itu dan ⟨את⟩ kuda itu, dan ia mengenakan pakaian itu pada ⟨את⟩ Mordekhai, dan ia menunggangkannya di lapangan kota, dan ia berseru di depannya: beginilah dilakukan kepada orang yang raja berkenan memuliakannya!",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian itu"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "pakaian itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kuda itu"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kuda itu"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "dan mengenakan pakaian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekhai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "dan menunggangkannya"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "di lapangan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan berseru"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di depannya"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "memuliakannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:52:44.296729557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨ia⟩ berkata: \"Jalan mana ini ⟨yang⟩ kita naiki?\" Dan ⟨ia⟩ berkata: \"Jalan padang gurun Edom.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ia berkata"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "kita naiki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ia berkata"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-08T11:05:00.457685937Z",
+  "model": "glm-5.2"
+}

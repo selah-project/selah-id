@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Yahweh tidak akan meninggalkannya di tangannya, dan tidak akan menyatakannya bersalah pada waktu ia dihakimi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "akan meninggalkannya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "akan menyatakannya bersalah"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "pada waktu ia dihakimi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:39.307612187Z",
+  "model": "glm-5.2"
+}

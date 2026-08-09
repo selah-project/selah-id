@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dari bani Yosef: bagi Efrayim, Elishama ben Ammihud; bagi Menasye, Gamliel ben Pedahtsur.",
+  "tokens": [
+    {
+      "surface": "לִבְנֵ֣י",
+      "gloss": "Dari bani"
+    },
+    {
+      "surface": "יוֹסֵ֔ף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לְאֶפְרַ֕יִם",
+      "gloss": "bagi Efrayim"
+    },
+    {
+      "surface": "אֱלִישָׁמָ֖ע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "עַמִּיה֑וּד",
+      "gloss": "Ammihud"
+    },
+    {
+      "surface": "לִמְנַשֶּׁ֕ה",
+      "gloss": "bagi Menasye"
+    },
+    {
+      "surface": "גַּמְלִיאֵ֖ל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "פְּדָהצֽוּר",
+      "gloss": "Pedahtsur"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:18.271719359Z",
+  "model": "glm-5.2"
+}

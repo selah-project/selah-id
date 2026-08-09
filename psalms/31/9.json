@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan tidak engkau menyerahkan aku ke dalam tangan musuh; engkau membuat kaki-kakiku berdiri di tempan yang lapang.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "engkau menyerahkan aku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "engkau membuat berdiri"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "di tempat yang lapang"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki-kakiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:19.855412859Z",
+  "model": "glm-5.2"
+}

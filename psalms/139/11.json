@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Dan ⟨jika⟩ aku berkata, 'Sungguh, kegelapan akan menelan aku,' maka malam menjadi terang di sekelilingku —",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "dan aku berkata"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "יְשׁוּפֵנִי",
+      "gloss": "akan menelan aku"
+    },
+    {
+      "surface": "וְלַיְלָה",
+      "gloss": "maka malam"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "terang"
+    },
+    {
+      "surface": "בַּעֲדֵנִי",
+      "gloss": "di sekelilingku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:20.958662232Z",
+  "model": "glm-5.2"
+}

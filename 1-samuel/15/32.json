@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lalu berkatalah Shemuel, 'Bawalah kepadaku ⟨את⟩ Agag, raja Amalek.' Maka berjalanlah Agag mendapatinya dengan gembira, dan berkatalah Agag, 'Sungguh, telah berlalu kepahitan maut.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "bawalah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "maka berjalanlah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mendapatinya"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "dengan gembira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "סר",
+      "gloss": "telah berlalu"
+    },
+    {
+      "surface": "מר",
+      "gloss": "kepahitan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:20.673288462Z",
+  "model": "glm-5.2"
+}

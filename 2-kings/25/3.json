@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Pada tanggal sembilan bulan itu kelaparan menjadi hebat di kota itu, dan tidak ada roti bagi orang-orang negeri itu.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "pada tanggal sembilan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan itu"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "maka menjadi hebat"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bagi orang-orang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:25.393831544Z",
+  "model": "glm-5.2"
+}

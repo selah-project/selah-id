@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Ia membuat sungai-sungai menjadi padang gurun, dan mata air menjadi tanah gelongsong-kerontang.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Ia membuat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "menjadi padang gurun"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "dan mata air"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "menjadi tanah gelongsong-kerontang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:39.815026050Z",
+  "model": "glm-5.2"
+}

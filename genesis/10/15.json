@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan Kenaan memperanakkan ⟨את⟩ Tsidon, anak sulungnya, dan ⟨את⟩ Khet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Dan Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak sulungnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Khet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:57.563335900Z",
+  "model": "glm-5.2"
+}

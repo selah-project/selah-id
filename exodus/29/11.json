@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan engkau akan menyembelih ⟨את⟩ lembu jantan itu ke hadapan Yahweh, di pintu Ohel Moed.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "Dan engkau akan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu jantan itu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu jantan itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:29.021570213Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu aku mendengar ⟨את⟩ suara perkataannya, dan pada waktu kudengar ⟨את⟩ suara perkataannya, aku ⟩terjatuh⟨ dalam tidur lelap di atas wajahku, dan wajahku ke arah tanah.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "dan aku mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "perkataannya"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "dan pada waktu kudengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "perkataannya"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku menjadi"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "tertidur lelap"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajahku"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "dan wajahku"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke arah tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:54:54.109163460Z",
+  "model": "glm-5.2"
+}

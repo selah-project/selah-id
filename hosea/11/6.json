@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan pedang ⟨akan⟩ menderu di kota-kotanya, dan ⟨akan⟩ menghabisi palang-palangnya, dan ⟨akan⟩ memakan dari rencana-rencana mereka sendiri.",
+  "tokens": [
+    {
+      "surface": "וְחָלָה",
+      "gloss": "dan ⟨akan⟩ menderu"
+    },
+    {
+      "surface": "חֶרֶב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "בְּעָרָיו",
+      "gloss": "di kota-kotanya"
+    },
+    {
+      "surface": "וְכִלְּתָה",
+      "gloss": "dan ⟨akan⟩ menghabisi"
+    },
+    {
+      "surface": "בַּדָּיו",
+      "gloss": "palang-palangnya"
+    },
+    {
+      "surface": "וְאָכָלָה",
+      "gloss": "dan ⟨akan⟩ memakan"
+    },
+    {
+      "surface": "מִמֹּעֲצֹתֵיהֶם",
+      "gloss": "dari rencana-rencana mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:55.128302498Z",
+  "model": "glm-5.2"
+}

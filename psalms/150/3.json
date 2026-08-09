@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 150,
+  "translation": "Pujilah Dia dengan tiupan syofar, pujilah Dia dengan nevel dan kinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah Dia"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "dengan tiupan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "syofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah Dia"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "dengan nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dan kinor"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:38.775767334Z",
+  "model": "glm-5.2"
+}

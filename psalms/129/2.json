@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 129,
+  "translation": "sangat banyak mereka telah menyesakkanku sejak masa mudaku — pun tidak mereka sanggup ⟨terhadap⟩ku.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "sangat banyak"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "mereka telah menyesakkanku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sejak masa mudaku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mereka sanggup"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨terhadap⟩ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:51.841719448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Pada hari penyembelihanmu ⟨ia⟩ harus dimakan, dan pada keesokan harinya; dan ⟨sisanya⟩ sampai hari ketiga, dalam api harus dibakar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "penyembelihanmu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "harus dimakan"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "dan pada keesokan harinya"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "dan ⟨sisanya⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "harus dibakar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:06.099559107Z",
+  "model": "glm-5.2"
+}

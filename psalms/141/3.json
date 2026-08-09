@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 141,
+  "translation": "Tetapkanlah, Yahweh, penjagaan bagi mulutku, jagalah pintu bibirku.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Tetapkanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "penjagaan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bagi mulutku"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "jagalah"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibirku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:43.034526312Z",
+  "model": "glm-5.2"
+}

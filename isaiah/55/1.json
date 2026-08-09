@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Hai! Semua yang haus, datanglah ke air, dan yang tidak ada baginya perak, datanglah, belilah dan makanlah; ya, datanglah, belilah tanpa perak dan tanpa harga anggur dan susu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hai!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "yang haus"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ke air"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "belilah"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "dan makanlah"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "dan datanglah"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "belilah"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "dan tanpa"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "harga"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "dan susu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:31.753900395Z",
+  "model": "glm-5.2"
+}

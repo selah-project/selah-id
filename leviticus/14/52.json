@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "dan menyucikan ⟨את⟩ rumah itu dengan darah burung itu dan dengan air yang hidup dan dengan burung yang hidup dan dengan kayu araz itu dan dengan ezob itu dan dengan benang kirmizi itu;",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "dan menyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dengan darah"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "burung itu"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "dan dengan air"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "dan dengan burung"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "dan dengan kayu"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "araz itu"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "dan dengan ezob"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "dan dengan benang"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "kirmizi itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:36.180748130Z",
+  "model": "glm-5.2"
+}

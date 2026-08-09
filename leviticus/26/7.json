@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan kamu akan memburu ⟨את⟩ musuhmu, dan mereka akan jatuh di hadapanmu oleh pedang.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "dan kamu akan memburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuhmu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dan mereka akan jatuh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "oleh pedang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:42.581324625Z",
+  "model": "glm-5.2"
+}

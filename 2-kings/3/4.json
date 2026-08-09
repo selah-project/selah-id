@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Mesha raja Moab ⟨adalah⟩ seorang peternak kambing domba, dan ia membayar kepada raja Yisrael seratus ribu domba-domba muda dan seratus ribu dewasa — wol.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Dan Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "seorang peternak kambing domba"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "dan ia membayar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "domba-domba muda"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "dan seratus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "domba dewasa"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "wol"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:42.551613928Z",
+  "model": "glm-5.2"
+}

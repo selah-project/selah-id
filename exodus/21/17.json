@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan ⟨yang⟩ mengutuk ayahnya atau ibunya, pasti dihukum mati.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Dan mengutuk"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "atau ibunya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dihukum mati"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:09.325316261Z",
+  "model": "glm-5.2"
+}

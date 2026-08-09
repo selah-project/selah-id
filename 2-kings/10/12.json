@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu ia bangun, datang, dan pergi ke Shomeron; ⟨adapun⟩ ia berada di Beit-Eked para gembala, di jalan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu ia bangun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ke Shomeron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "adapun ia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "para gembala"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:11:04.001842603Z",
+  "model": "glm-5.2"
+}

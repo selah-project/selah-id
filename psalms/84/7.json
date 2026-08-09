@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 84,
+  "translation": "Orang-orang yang melintasi lembah Ha-Bakha, mata air dibuatnya; juga berkat-berkat menyelubungi musim hujan awal.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "orang-orang yang melintasi"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Ha-Bakha"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "berkat-berkat"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "menyelubungi"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "musim hujan awal"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:02.375291588Z",
+  "model": "glm-5.2"
+}

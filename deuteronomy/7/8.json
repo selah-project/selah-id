@@ -1,0 +1,102 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "deuteronomy 7:8",
+ "book": "deuteronomy",
+ "lang": "id",
+ "chapter": 7,
+ "translation": "Sebab dari karena cinta-kasih Yahweh ⟨את⟩ kepadamu dan dari karena menjaganya ⟨את⟩ sumpah yang diikrarkan kepada bapa-bapamu, Yahweh membawa kamu keluar dengan tangan yang kuat dan menukbus kamu dari rumah perbudakan, dari tangan Paroh, raja Mitsrayim.",
+ "tokens": [
+  {
+   "surface": "כִּי",
+   "gloss": "Sebab"
+  },
+  {
+   "surface": "מֵֽאַהֲבַת",
+   "gloss": "dari karena cinta-kasih"
+  },
+  {
+   "surface": "יְהוָ֜ה",
+   "gloss": "Yahweh"
+  },
+  {
+   "surface": "אֶתְכֶ֗ם",
+   "gloss": "⟨את⟩ kepadamu"
+  },
+  {
+   "surface": "וּמִשָּׁמְר֤וּ",
+   "gloss": "dan dari karena menjaganya"
+  },
+  {
+   "surface": "אֶת",
+   "gloss": "⟨את⟩",
+   "marks": "sumpah"
+  },
+  {
+   "surface": "הַשְּׁבֻעָה֙",
+   "gloss": "sumpah"
+  },
+  {
+   "surface": "אֲשֶׁ֤ר",
+   "gloss": "yang"
+  },
+  {
+   "surface": "נִשְׁבַּע֙",
+   "gloss": "diikrarkan"
+  },
+  {
+   "surface": "לַאֲבֹ֣תֵיכֶ֔ם",
+   "gloss": "kepada bapa-bapamu"
+  },
+  {
+   "surface": "הוֹצִ֧יא",
+   "gloss": "membawa keluar"
+  },
+  {
+   "surface": "יְהוָ֛ה",
+   "gloss": "Yahweh"
+  },
+  {
+   "surface": "אֶתְכֶ֖ם",
+   "gloss": "⟨את⟩ kamu"
+  },
+  {
+   "surface": "בְּיָ֣ד",
+   "gloss": "dengan tangan"
+  },
+  {
+   "surface": "חֲזָקָ֑ה",
+   "gloss": "yang kuat"
+  },
+  {
+   "surface": "וַֽיִּפְדְּךָ֙",
+   "gloss": "dan menukbus kamu"
+  },
+  {
+   "surface": "מִבֵּ֣ית",
+   "gloss": "dari rumah"
+  },
+  {
+   "surface": "עֲבָדִ֔ים",
+   "gloss": "perbudakan"
+  },
+  {
+   "surface": "מִיַּ֖ד",
+   "gloss": "dari tangan"
+  },
+  {
+   "surface": "פַּרְעֹ֥ה",
+   "gloss": "Paroh"
+  },
+  {
+   "surface": "מֶֽלֶךְ",
+   "gloss": "raja"
+  },
+  {
+   "surface": "מִצְרָֽיִם",
+   "gloss": "Mitsrayim"
+  }
+ ],
+ "timestamp": "2026-08-09T01:39:51.679825909Z",
+ "model": "glm-5.2"
+}

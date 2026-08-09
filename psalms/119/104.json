@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dari pi-pi-khu-da-im ⟨ini⟩ aku berakal-budi; oleh sebab itu aku membenci segala jalan kebohongan.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "dari pi-pi-khu-da-im"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "aku berakal-budi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku membenci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kebohongan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:02.673412080Z",
+  "model": "glm-5.2"
+}

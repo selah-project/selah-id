@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan aku akan menjadikan bagi-Ku saksi-saksi yang tepercaya: ⟨את⟩ Uriyah sang imam, dan ⟨את⟩ Zekharyahu bin Yeverekhyahu.\"",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Dan aku akan menjadikan saksi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "yang tepercaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekharyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekhyahu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:09:14.343668844Z",
+  "model": "glm-5.2"
+}

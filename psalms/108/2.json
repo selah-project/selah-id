@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 108,
+  "translation": "Tetap ⟨lah⟩ hatiku, ⟨hai⟩ Elohim; aku akan menyanyi, ya, aku akan bermazmur, juga kemuliaanku.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Tetap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku akan menyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ya, aku akan bermazmur"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kemuliaanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:52.489532264Z",
+  "model": "glm-5.2"
+}

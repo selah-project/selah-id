@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Lutut ⟨ku⟩ goyah karena berpuasa, dan daging ⟨ku⟩ menyusut karena lemak.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Lutut"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "⟨ku⟩ goyah"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "karena berpuasa"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "menyusut"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "karena lemak"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:09.123788067Z",
+  "model": "glm-5.2"
+}

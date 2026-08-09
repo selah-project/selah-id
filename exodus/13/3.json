@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan berkatalah Mosheh kepada ⟨the⟩ bangsa: \"Ingatlah ⟨את⟩ hari ini, yang ⟨kamu⟩ keluar dari Mitsrayim, dari rumah perbudakan, karena dengan kekuatan tangan Yahweh mengeluarkan ⟨את⟩kamu dari sini; dan tidak boleh dimakan apa yang beragi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ bangsa"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari ini"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "⟨kamu⟩ keluar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "perbudakan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "dengan kekuatan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "mengeluarkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamu",
+      "marks": "dari sini"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari sini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh dimakan"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "apa yang beragi"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:16.074833895Z",
+  "model": "glm-5.2"
+}

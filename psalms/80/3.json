@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Di hadapan Efrayim dan Binyamin dan Menashe, bangunklah ⟨את⟩ keperkasaan-Mu, dan datanglah untuk keselamatan bagi kami.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "dan Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "dan Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "bangunklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keperkasaan-Mu"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "keperkasaan-Mu"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "dan datanglah"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "untuk keselamatan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:36.858319477Z",
+  "model": "glm-5.2"
+}

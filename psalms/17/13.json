@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Bangkitlah, Yahweh, hadapilah dia, buatlah ⟨dia⟩ tersungkur; lepaskanlah napasku dari orang fasik, ⟨yaitu⟩ pedangmu,",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangkitlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "hadapilah"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajahnya"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "buatlah tersungkur"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "lepaskanlah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "dari orang fasik"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedangmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:28.325312814Z",
+  "model": "glm-5.2"
+}

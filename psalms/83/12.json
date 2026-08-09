@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "Jadikanlah para pemimpin mereka seperti Orev dan seperti Z'ev, dan seperti Zevach dan seperti Tzalmuna, semua pangeran mereka —",
+  "tokens": [
+    {
+      "surface": "שִׁיתֵמוֹ",
+      "gloss": "Jadikanlah"
+    },
+    {
+      "surface": "נְדִיבֵמוֹ",
+      "gloss": "para pemimpin mereka"
+    },
+    {
+      "surface": "כְעֹרֵב",
+      "gloss": "seperti Orev"
+    },
+    {
+      "surface": "וְכִזְאֵב",
+      "gloss": "dan seperti Z'ev"
+    },
+    {
+      "surface": "וּכְזֶבַח",
+      "gloss": "dan seperti Zevach"
+    },
+    {
+      "surface": "וּכְצַלְמֻנָּע",
+      "gloss": "dan seperti Tzalmuna"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "נְסִיכֵיהֶם",
+      "gloss": "pangeran mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:52.402546355Z",
+  "model": "glm-5.2"
+}

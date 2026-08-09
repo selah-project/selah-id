@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan engkau akan membuat kaporet emas murni: dua hasta setengah panjangnya dan satu hasta setengah lebarnya.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau akan membuat"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dua hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "dan setengah"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan satu hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "dan setengah"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lebarnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:31:18.342456152Z",
+  "model": "glm-5.2"
+}

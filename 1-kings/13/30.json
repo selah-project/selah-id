@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Lalu ia membaringkan ⟨את⟩ mayatnya di kuburnya, dan mereka meratapi dia: “Hai, saudaraku!”",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Lalu ia membaringkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayatnya"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "mayatnya"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "di kuburnya"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "dan mereka meratapi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hai"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaraku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:32.449280937Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Seandainya bukan Yahweh yang menjadi pertolonganku, nyaris saja nyawaku diam di bisu.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "seandainya bukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pertolongan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "nyaris"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "diam"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "bisu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:14.070305065Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Karena Engkau telah menguji kami, Elohim; Engkau telah memurnikan kami seperti pemurnian perak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "Engkau telah menguji kami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "Engkau telah memurnikan kami"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "seperti pemurnian"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:58.542464311Z",
+  "model": "glm-5.2"
+}

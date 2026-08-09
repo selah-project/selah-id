@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan ⟨seorang⟩ laki-laki yang bersetubuh dengan ⟨את⟩ seorang laki-laki sebagai persetubuhan dengan perempuan, kekejian telah dilakukan keduanya; mati mereka akan dihukum mati, darah mereka ⟨ada⟩ pada mereka.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan laki-laki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "bersetubuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laki-laki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "persetubuhan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "telah dilakukan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "keduanya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mereka akan dihukum mati"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "darah mereka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:08.575894832Z",
+  "model": "glm-5.2"
+}

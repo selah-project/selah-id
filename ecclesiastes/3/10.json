@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Aku telah melihat ⟨את⟩ kesibukan yang Elohim berikan kepada bani manusia untuk dilakukan di dalamnya.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesibukan"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "kesibukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada bani"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "untuk dilakukan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:02.436265833Z",
+  "model": "glm-5.2"
+}

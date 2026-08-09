@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Setiap jalan seseorang ⟨adalah⟩ lurus di matanya sendiri, tetapi Yahweh menimbang hati-hati.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya sendiri"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "tetapi menimbang"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "hati-hati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:58.210763814Z",
+  "model": "glm-5.2"
+}

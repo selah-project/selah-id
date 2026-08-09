@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Roti tak beragi dimakan ⟨את⟩ tujuh hari, dan tidak terlihat padamu yang beragi, dan tidak terlihat padamu ragi di segala batas wilayahmu.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Roti tak beragi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh hari"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "terlihat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "yang beragi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "terlihat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "batas wilayahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:03.159033473Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "dan supaya engkau menceritakan di telinga anakmu dan anak dari anakmu ⟨את⟩ apa yang telah kulakukan terhadap Mitsrayim, dan ⟨את⟩ tanda-tandaku yang kuletakkan di antara mereka, supaya kamu mengetahui bahwa akulah Yahweh.”",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "dan supaya"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "engkau menceritakan"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di telinga"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "dan anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "dari anakmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang telah kulakukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "telah kulakukan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "terhadap Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanda-tandaku"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tanda-tandaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "kuletakkan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di antara mereka"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "supaya kamu mengetahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:29.980489895Z",
+  "model": "glm-5.2"
+}

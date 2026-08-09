@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Betullah orang yang tidak berjalan dalam nasihat orang-orang fasik, yang tidak berdiri di jalan orang-orang berdosa, dan yang tidak duduk di tempat duduk pelempar ejekan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Betullah"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "dalam nasihat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "dan di jalan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "orang-orang berdosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "dan di tempat duduk"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "pelempar ejekan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduk"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:04.445765386Z",
+  "model": "glm-5.2"
+}

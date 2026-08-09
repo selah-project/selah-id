@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Semua ini tiba atas Nevukhadnetzar, sang raja.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "semua"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetzar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T11:58:57.164012186Z",
+  "model": "glm-5.2"
+}

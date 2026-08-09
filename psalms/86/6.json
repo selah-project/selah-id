@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 86,
+  "translation": "Pasanglah telinga, Yahweh, doaku, dan tariklah perhatian kepada suara permohonanku.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Pasanglah telinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "dan tariklah perhatian"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kepada suara"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "permohonanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:59.477972636Z",
+  "model": "glm-5.2"
+}

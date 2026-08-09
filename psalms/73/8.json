@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Mereka berolok-olok, dan berbicara dalam kejahatan ⟨tentang⟩ pemerasan; dari tempat tinggi mereka berbicara.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "mereka berolok-olok"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "dan berbicara"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dalam kejahatan"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "pemerasan"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "dari tempat tinggi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mereka berbicara"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:52.303092542Z",
+  "model": "glm-5.2"
+}

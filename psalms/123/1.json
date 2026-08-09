@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 123,
+  "translation": "Kidung naungan. Kepada-Mu aku mengangkat ⟨את⟩ mataku, hai ⟨Yang⟩ bersemayam di langit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naungan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kepada-Mu"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "aku mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "hai Yang bersemayam"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:44.054766847Z",
+  "model": "glm-5.2"
+}

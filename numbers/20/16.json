@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 20:16",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu kami berseru kepada Yahweh, dan ⟨ה⟩ mendengar suara kami, dan ⟨ה⟩ mengutus seorang malakh, dan mengeluarkan kami dari Mitsrayim; dan lihat, kami berada di Qadesh, kota di ujung batas daerahmu.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "lalu kami berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan ⟨ה⟩ mendengar"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "suara kami"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan ⟨ה⟩ mengutus"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "seorang malakh"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "dan mengeluarkan kami"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "berada di Qadesh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "di ujung"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "batas daerahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:42:11.209901128Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "yang di tangan mereka ⟨ada⟩ rencana jahat, dan tangan kanan mereka penuh suap.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "di tangan mereka"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "rencana jahat"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "dan tangan kanan mereka"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suap"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:12.432149871Z",
+  "model": "glm-5.2"
+}

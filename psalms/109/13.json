@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Biarlah akhirnya untuk memunahkan; dalam generasi lain biarlah nama mereka dihapus.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "biarlah"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "akhirnya"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "untuk memunahkan"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dalam generasi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "dihapus"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nama mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:54.005510720Z",
+  "model": "glm-5.2"
+}

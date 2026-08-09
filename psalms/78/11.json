@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan mereka melupakan perbuatan-perbuatan-Nya, dan keajaiban-keajaiban-Nya yang telah diperlihatkan-Nya kepada mereka.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "dan mereka melupakan"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "perbuatan-perbuatan-Nya"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dan keajaiban-keajaiban-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "diperlihatkan-Nya kepada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:07.634405532Z",
+  "model": "glm-5.2"
+}

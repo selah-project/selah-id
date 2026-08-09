@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan bersabdalah Elohim: \"Jadilah cakrawala di tengah ⟨את⟩ air, dan jadilah ia memisahkan antara air dengan air.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan bersabdalah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "cakrawala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "memisahkan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "למים",
+      "gloss": "dengan air"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:34.931824628Z",
+  "model": "glm-5.2"
+}

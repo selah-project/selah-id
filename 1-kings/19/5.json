@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan ⟨dia⟩ berbaring dan tidur di bawah satu pohon rotem, dan lihat, ini seorang malaikat menyentuh dia, dan ⟨dia⟩ berkata kepadanya, “Bangun, makanlah.”",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "dan berbaring"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "dan tidur"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "pohon rotem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "menyentuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "makanlah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:51.222113509Z",
+  "model": "glm-5.2"
+}

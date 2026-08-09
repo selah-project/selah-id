@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "Masih mereka akan berbuah di masa putih rambut, ⟨mereka akan⟩ bersegemak dan hijau.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Masih"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "mereka akan berbuah"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "di masa putih rambut"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "bersegemak"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "dan hijau"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨mereka akan⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:55.895151330Z",
+  "model": "glm-5.2"
+}

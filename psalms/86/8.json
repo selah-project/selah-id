@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 86,
+  "translation": "Tidak ada seperti Engkau di antara elohim, Adonai, dan tidak ada seperti perbuatan-perbuatan-Mu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tidak ada"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti Engkau"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di antara elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "seperti perbuatan-perbuatan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:59.478138541Z",
+  "model": "glm-5.2"
+}

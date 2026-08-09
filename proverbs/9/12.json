@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Jika engkau berbijak, engkau berbijak untuk dirimu sendiri; tetapi jika engkau mengejek, engkau sendirilah yang menanggungnya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "engkau berbijak"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "engkau berbijak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuk dirimu sendiri"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "tetapi jika engkau mengejek"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "engkau sendirilah"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "yang menanggungnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:55.841658825Z",
+  "model": "glm-5.2"
+}

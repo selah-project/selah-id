@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan raja Shelomah mencintai perempuan-perempuan asing yang banyak, dan ⟨את⟩ putri Paroh — perempuan-perempuan Moavi, perempuan-perempuan Amoni, perempuan-perempuan Edomi, perempuan-perempuan Tsidoni, perempuan-perempuan Hitti.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Dan raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mencintai"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "perempuan-perempuan"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "asing"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "putri"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidoni"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hitti"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:29.050689598Z",
+  "model": "glm-5.2"
+}

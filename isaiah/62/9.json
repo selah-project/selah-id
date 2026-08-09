@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 62,
+  "translation": "Sebab yang mengumpulkannya akan memakannya, dan memuji ⟨את⟩ Yahweh; dan yang mengumpulkannya akan meminumnya di pelataran-pelataran kekudusan-Ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "yang mengumpulkannya"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "akan memakannya"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "dan memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "dan yang mengumpulkannya"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "akan meminumnya"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di pelataran-pelataran"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kekudusan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:29:11.814281659Z",
+  "model": "glm-5.2"
+}

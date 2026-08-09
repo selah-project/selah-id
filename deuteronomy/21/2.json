@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "maka keluarlah para tetua-mu dan para hakim-mu, dan mereka mengukur kepada kota-kota yang di sekitar ⟨mayat⟩ itu.",
+  "tokens": [
+    {
+      "surface": "וְיָצְא֥וּ",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "זְקֵנֶ֖יךָ",
+      "gloss": "para tetua-mu"
+    },
+    {
+      "surface": "וְשֹׁפְטֶ֑יךָ",
+      "gloss": "dan para hakim-mu"
+    },
+    {
+      "surface": "וּמָדְדוּ֙",
+      "gloss": "dan mereka mengukur"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הֶ֣עָרִ֔ים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "סְבִיבֹ֥ת",
+      "gloss": "di sekitar"
+    },
+    {
+      "surface": "הֶחָלָֽל",
+      "gloss": "mayat itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:29:17.779332021Z",
+  "model": "glm-5.2"
+}

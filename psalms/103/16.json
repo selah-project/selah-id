@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Sebab angin lewat melaluinya dan tidaklah ada ia, dan tidak lagi mengenal tempatnya.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ר֣וּחַ",
+      "gloss": "angin"
+    },
+    {
+      "surface": "עָֽבְרָה",
+      "gloss": "lewat"
+    },
+    {
+      "surface": "בּ֣וֹ",
+      "gloss": "melaluinya"
+    },
+    {
+      "surface": "וְאֵינֶ֑נּוּ",
+      "gloss": "dan tidaklah ada ia"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יַכִּירֶ֖נּוּ",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "ע֣וֹד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "מְקוֹמֽוֹ",
+      "gloss": "tempatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:33.541562659Z",
+  "model": "glm-5.2"
+}

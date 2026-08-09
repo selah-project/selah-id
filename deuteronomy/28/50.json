@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "bangsa ⟨yang⟩ bermuka keras, yang tidak mengangkat muka orang tua, dan orang muda tidak ia kasihani.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "keras"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "kepada orang tua"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "dan orang muda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ia kasihani"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:32.014690733Z",
+  "model": "glm-5.2"
+}

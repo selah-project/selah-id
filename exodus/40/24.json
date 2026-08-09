@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ia meletakkan ⟨את⟩ ⟨the⟩ menorah di dalam kemah pertemuan, di depan ⟨the⟩ meja, pada sisi ⟨the⟩ mishkan ke arah selatan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Dan ia meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di dalam kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ke arah selatan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:20.545047465Z",
+  "model": "glm-5.2"
+}

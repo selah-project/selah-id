@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Banyak makanan ada pada ladang yang dibajak orang miskin, tetapi ada yang disapu bersih tanpa keadilan.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "ladang yang dibajak"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "tetapi ada"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "disapu bersih"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:28.415712628Z",
+  "model": "glm-5.2"
+}

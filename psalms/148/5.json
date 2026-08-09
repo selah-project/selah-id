@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 148,
+  "translation": "Bersyukurlah ⟨kepada⟩ ⟨את⟩ nama Yahweh, sebab ⟨Dialah⟩ yang memerintah dan mereka diciptakan",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "bersyukurlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "dan mereka diciptakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:32.624314959Z",
+  "model": "glm-5.2"
+}

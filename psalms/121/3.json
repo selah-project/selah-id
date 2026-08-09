@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 121,
+  "translation": "Jangan biarkan ⟨kakimu⟩ tergelincir, jangan tertidur yang menjagamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "biarkan"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "tergelincir"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kakimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "tertidur"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "yang menjagamu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:28.749402345Z",
+  "model": "glm-5.2"
+}

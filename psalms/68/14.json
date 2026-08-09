@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Apakah kamu berbaring di antara kandang-kandang? Sayap-sayap merpati berselimut perak, dan bulu-bulunya bersinar kuning emas.",
+  "tokens": [
+    {
+      "surface": "אִֽם",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "תִּשְׁכְּבוּן֮",
+      "gloss": "kamu berbaring"
+    },
+    {
+      "surface": "בֵּ֪ין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "שְׁפַ֫תָּ֥יִם",
+      "gloss": "kandang-kandang"
+    },
+    {
+      "surface": "כַּנְפֵ֣י",
+      "gloss": "sayap-sayap"
+    },
+    {
+      "surface": "י֭וֹנָה",
+      "gloss": "merpati"
+    },
+    {
+      "surface": "נֶחְפָּ֣ה",
+      "gloss": "berselimut"
+    },
+    {
+      "surface": "בַכֶּ֑סֶף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וְאֶבְרוֹתֶ֗יהָ",
+      "gloss": "dan bulu-bulunya"
+    },
+    {
+      "surface": "בִּֽירַקְרַ֥ק",
+      "gloss": "bersinar kuning"
+    },
+    {
+      "surface": "חָרֽוּץ",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:04.113073468Z",
+  "model": "glm-5.2"
+}

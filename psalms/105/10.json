@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "dan ⟨Ia⟩ menegakkannya kepada Yaakob sebagai ketetapan, kepada Yisrael sebagai berit olam,",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "dan menegakkannya"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kepada Yaakob"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sebagai ketetapan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kepada Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "olam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:26.129091964Z",
+  "model": "glm-5.2"
+}

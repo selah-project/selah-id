@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan raja Mitsrayim menyingkirkan dia di Yerushalayim; lalu ia mendenda ⟨את⟩ negeri seratus talenta perak dan satu talenta emas.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "Dan ... menyingkirkan dia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "lalu ia mendenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "dan satu talenta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:12.867181781Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Sebab itu aku akan memberikan ⟨את⟩ istri-istri mereka kepada orang lain, dan ⟨את⟩ ladang-ladang mereka kepada orang-orang yang akan merebutnya; karena dari yang kecil sampai kepada yang besar, semuanya mengejar keuntungan; dari nabi sampai kepada imam, semuanya berbuat kepalsuan.",
+  "tokens": [
+    {
+      "surface": "לָכֵן֩",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "אֶתֵּ֨ן",
+      "gloss": "aku akan memberikan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "istri-istri mereka"
+    },
+    {
+      "surface": "נְשֵׁיהֶ֜ם",
+      "gloss": "istri-istri mereka"
+    },
+    {
+      "surface": "לַאֲחֵרִ֗ים",
+      "gloss": "kepada orang lain"
+    },
+    {
+      "surface": "שְׂדֽוֹתֵיהֶם֙",
+      "gloss": "ladang-ladang mereka"
+    },
+    {
+      "surface": "לְי֣וֹרְשִׁ֔ים",
+      "gloss": "kepada orang-orang yang akan merebutnya"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מִקָּטֹן֙",
+      "gloss": "dari yang kecil"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "גָּד֔וֹל",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "כֻּלֹּ֖ה",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "בֹּצֵ֣עַ",
+      "gloss": "mengejar keuntungan"
+    },
+    {
+      "surface": "בָּצַ֑ע",
+      "gloss": "keuntungan"
+    },
+    {
+      "surface": "מִנָּבִיא֙",
+      "gloss": "dari nabi"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "כֹּהֵ֔ן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כֻלֹ֖ה",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "עֹ֥שֶׂה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "שָּֽׁקֶר",
+      "gloss": "kepalsuan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:32:05.834688592Z",
+  "model": "glm-5.2"
+}

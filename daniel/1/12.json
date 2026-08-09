@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Ujilah kiranya ⟨את⟩ hamba-hambamu selama sepuluh hari, dan biarkanlah mereka memberikan kepada kami dari ⟨sang⟩ zerayim, dan kami akan memakannya, dan air, dan kami akan meminumnya.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Ujilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambamu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hambamu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "selama hari"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dan biarkanlah mereka memberikan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "⟨sang⟩ zerayim"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "dan kami akan memakannya"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan air"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "dan kami akan meminumnya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:26:22.138552708Z",
+  "model": "glm-5.2"
+}

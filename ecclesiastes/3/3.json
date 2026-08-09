@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Waktu untuk membunuh, dan waktu untuk menyembuhkan; waktu untuk merobohkan, dan waktu untuk membangun.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "untuk membunuh"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "untuk menyembuhkan"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "untuk merobohkan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "untuk membangun"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:06.225176750Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Karena kegeraman-Mu dan kehangatan-Mu, sebab Engkau telah mengangkat aku dan melemparkan aku.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kegeraman-Mu"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "dan kehangatan-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "Engkau telah mengangkat aku"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "dan melemparkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T13:11:04.056769395Z",
+  "model": "glm-5.2"
+}

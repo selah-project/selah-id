@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "⟨Manusia⟩ seperti kesia-siaan ⟨⟩ dibandingkan; hari-harinya seperti bayangan yang berlalu.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "⟨Manusia⟩"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "seperti kesia-siaan"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "⟨⟩ dibandingkan"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hari-haranya"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "seperti bayangan"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "yang berlalu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:51.101965641Z",
+  "model": "glm-5.2"
+}

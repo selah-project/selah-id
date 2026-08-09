@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 6:16",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Maka pada kali ketujuh para imam meniup shofar, dan Yehoshua berkata kepada bangsa itu, “Berserulah! Karena Yahweh telah memberikan kepadamu ⟨את⟩ kota ini.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "pada kali"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "meniup"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "dengan shofar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Berserulah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "telah memberikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-08T07:33:40.941204586Z",
+  "model": "glm-5.2"
+}

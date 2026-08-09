@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 148,
+  "translation": "Bersyukurlah ⟨kepada⟩ ⟨את⟩ Yahweh dari bumi, ⟨hai⟩ monster-monster laut dan semua samudera",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bersyukurlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "monster-monster laut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "samudera"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:32.624585479Z",
+  "model": "glm-5.2"
+}

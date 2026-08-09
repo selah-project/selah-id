@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Makhluk hidup-Mu diam di dalamnya; dengan kebaikan-Mu Engau menyiapkan bagi yang miskin, wahai Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "makhluk hidup-Mu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Engau menyiapkan"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "dengan kebaikan-Mu"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bagi yang miskin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahai Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:10.718258803Z",
+  "model": "glm-5.2"
+}

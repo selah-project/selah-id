@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Maka Yehu tidur bersama nenek moyangnya, dan mereka menguburkan ⟨את⟩ dia di Shomron; maka Yehoakhaz anaknya menjadi raja menggantikan dia.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Maka ... tidur"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek moyangnya"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan mereka menguburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "maka ... menjadi raja"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikan dia"
+    }
+  ],
+  "timestamp": "2026-08-08T08:11:05.339711792Z",
+  "model": "glm-5.2"
+}

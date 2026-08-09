@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "perbuatan-perbuatan ajaib di tanah Kham, hal-hal yang dahsyat di Laut Suf.",
+  "tokens": [
+    {
+      "surface": "נִ֭פְלָאוֹת",
+      "gloss": "perbuatan-perbuatan ajaib"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חָ֑ם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "נ֝וֹרָא֗וֹת",
+      "gloss": "hal-hal yang dahsyat"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di"
+    },
+    {
+      "surface": "יַם",
+      "gloss": "Laut"
+    },
+    {
+      "surface": "סֽוּף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:32.981376036Z",
+  "model": "glm-5.2"
+}

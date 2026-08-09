@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan ia mempersembahkan korban dan membakar ukupan di bukit-bukit pengorbanan dan di atas bukit-bukit, dan di bawah setiap pohon yang rindang.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Dan ia mempersembahkan korban"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dan membakar ukupan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di bukit-bukit pengorbanan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dan di bawah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yang rindang"
+    }
+  ],
+  "timestamp": "2026-08-08T08:12:32.699787553Z",
+  "model": "glm-5.2"
+}

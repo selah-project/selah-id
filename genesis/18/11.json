@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 18:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan Avraham dan Sarah ⟨sudah⟩ tua, lanjut dalam hari-hari; telah berhenti terjadi kepada Sarah ⟨את⟩ jalan ⟨seperti⟩ perempuan-perempuan.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Dan Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "dan Sarah"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "tua"
+    },
+    {
+      "surface": "באים",
+      "gloss": "lanjut"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dalam hari-hari"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "telah berhenti"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kepada Sarah"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan",
+      "marks": "jalan (perempuan-perempuan)"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "seperti perempuan-perempuan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:44.606482609Z",
+  "model": "glm-5.2"
+}

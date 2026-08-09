@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan bani Yisra'el berbuat perkataan Mosheh, dan mereka meminta dari Mitsrayim barang perak dan barang emas dan pakaian.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dan bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "dan mereka meminta"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "barang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "dan barang"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "dan pakaian"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:15.009455462Z",
+  "model": "glm-5.2"
+}

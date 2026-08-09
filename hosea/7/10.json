@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan kesombongan Yisra'el ⟨sudah⟩ menjadi saksi di hadapannya; dan mereka tidak kembali kepada Yahweh, Elohim mereka, dan mereka tidak mencari Dia dalam segala hal ini.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "dan sudah menjadi saksi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kesombongan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "di hadapannya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "mereka kembali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "mereka mencari Dia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:17.884083411Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu berputarlah sang raja ⟨menghadapkan⟩ ⟨את⟩ wajahnya, dan memberkati ⟨את⟩ seluruh jemaah Yisra'el, sementara seluruh jemaah Yisra'el berdiri.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "lalu berputarlah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahnya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajahnya"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh jemaah Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sementara seluruh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "berdiri"
+    }
+  ],
+  "timestamp": "2026-08-08T10:11:45.095168804Z",
+  "model": "glm-5.2"
+}

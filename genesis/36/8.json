@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Maka Esav diam di pegunungan Seir — Esav, dialah Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Maka ... diam"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:50.783888146Z",
+  "model": "glm-5.2"
+}

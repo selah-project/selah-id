@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Untuk pemimpin biduan, mizmor bagi Dawid. Yahweh, Engkau telah meneliti aku, dan ⟨Engkau⟩ mengetahui.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin biduan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "Engkau telah meneliti aku"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "dan ⟨Engkau⟩ mengetahui"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:42.141873680Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "untuk memberitakan di pagi hari hesed-Mu, dan kesetiaan-Mu di malam-malam",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "untuk memberitakan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di pagi hari"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "dan kesetiaan-Mu"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "di malam-malam"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:02.901394739Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan berkatalah, “Lihat, kiranya aku ini telah tua; aku tidak tahu hari kematianku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "aku ini telah tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "kematianku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:48:42.071891328Z",
+  "model": "glm-5.2"
+}

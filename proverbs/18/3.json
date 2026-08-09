@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Pada waktu orang fasik datang, datanglah juga penghinaan, dan bersama kehinaan ⟨datang⟩ cemoh.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "pada waktu datang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "penghinaan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan bersama"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "kehinaan"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cemoh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:52.306396175Z",
+  "model": "glm-5.2"
+}

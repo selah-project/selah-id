@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 26:20",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan sekarang, janganlah ⟨dariku⟩ jatuh darahku ke bumi, jauh dari hadapan Yahweh; karena keluarlah raja Yisra'el untuk mencari ⟨את⟩ seekor pinjal tunggal, seperti orang memburu burung puyuh di pegunungan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darahku"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "jauh dari"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "untuk mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seekor pinjal"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "pinjal"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "memburu"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "burung puyuh"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "di pegunungan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:45:33.245647978Z",
+  "model": "glm-5.2"
+}

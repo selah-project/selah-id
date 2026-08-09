@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan urapilah ⟨את⟩ mizbeach kurban dan ⟨את⟩ segala perkakasnya, maka kuduskanlah ⟨את⟩ mizbeach itu, maka ⟨ia⟩ ⟨adalah⟩ mizbeach kedekutan tingkat tinggi.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dan urapilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeach"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeach"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "maka kuduskanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeach"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeach itu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeach itu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kedekutan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tingkat tinggi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:16.394866896Z",
+  "model": "glm-5.2"
+}

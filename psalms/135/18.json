@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Seperti mereka, demikianlah para pembuatnya; semua yang percaya kepada mereka.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "seperti mereka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "para pembuatnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:46.918953328Z",
+  "model": "glm-5.2"
+}

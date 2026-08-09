@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Mereka yang duduk di gerbang membicarakan aku, dan nyanyian[-nyanyian] orang-orang yang minum minuman keras.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "membicarakan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mereka yang duduk"
+    },
+    {
+      "surface": "שער",
+      "gloss": "di gerbang"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "dan nyanyian[-nyanyian]"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "orang-orang yang minum"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman keras"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:07.100570468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨ha⟩adam mengenal ⟨את⟩ Chavvah istrinya, dan ⟨ia⟩ mengandung dan melahirkan ⟨את⟩ Qayin, dan ⟨ia⟩ berkata: “Kuqani sebuah laki-laki ⟨bersama⟩ Yahweh.”",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Dan ha'adam"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "istrinya"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dan mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "kuqani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨bersama⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:00.203784509Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dalam mimpi, penglihatan di waktu malam, ketika tidur lelap jatuh ke atas manusia, dalam kelesuan di atas tempat tidur;",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "dalam mimpi"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "penglihatan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "di waktu malam"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "ketika jatuh"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "tidur lelap"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "dalam kelesuan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "tempat tidur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:43:27.851418396Z",
+  "model": "glm-5.2"
+}

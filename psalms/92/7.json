@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "Orang yang bebal tidak mengetahui, dan orang bodoh tidak memahami ⟨את⟩ hal ini —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Orang"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yang bebal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "dan orang bodoh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hal ini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:16.645876953Z",
+  "model": "glm-5.2"
+}

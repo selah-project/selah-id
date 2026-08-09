@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨dia⟩ harus menumpangkan ⟨את⟩ tangannya atas kepala persembahannya, dan menyembelihnya di hadapan Ohel Mo'ed, dan bani Aharon harus menyiramkan ⟨את⟩ darahnya ke atas mezbah sekelilingnya.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "dan dia harus menumpangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "persembahannya"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "di hadapan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "dan mereka harus menyiramkan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekelilingnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:04.736405730Z",
+  "model": "glm-5.2"
+}

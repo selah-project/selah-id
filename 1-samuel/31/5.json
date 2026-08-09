@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan ketika pembawa senjatanya melihat bahwa Sha'ul sudah mati, ia juga jatuh ke atas pedangnya dan mati bersamanya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan ketika melihat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "senjata-senjatanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sudah mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan ia jatuh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedangnya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:31.823721305Z",
+  "model": "glm-5.2"
+}

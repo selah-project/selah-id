@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 84,
+  "translation": "Nafsu jiwaku mendambakan, bahkan, merana rindu ⟨ke⟩ pelataran-pelataran Yahweh; hatiku dan dagingku bersorak-sorai kepada El ⟨yang⟩ hidup.",
+  "tokens": [
+    {
+      "surface": "נִכְסְפָ֬ה",
+      "gloss": "mendambakan"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "כָּלְתָ֨ה",
+      "gloss": "merana rindu"
+    },
+    {
+      "surface": "נַפְשִׁי֮",
+      "gloss": "nafsu jiwaku"
+    },
+    {
+      "surface": "לְחַצְר֪וֹת",
+      "gloss": "⟨ke⟩ pelataran-pelataran"
+    },
+    {
+      "surface": "יְה֫וָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לִבִּ֥י",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "וּבְשָׂרִ֑י",
+      "gloss": "dan dagingku"
+    },
+    {
+      "surface": "יְרַנְּנ֗וּ",
+      "gloss": "bersorak-sorai"
+    },
+    {
+      "surface": "אֶ֣ל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חָֽי",
+      "gloss": "hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:16.878521069Z",
+  "model": "glm-5.2"
+}

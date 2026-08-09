@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Maka lapisan embun itu naik, dan lihatlah, pada permukaan padang gurun ada sesuatu yang halus, bersisik, halus seperti embun beku di atas tanah.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "Maka ... naik"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "lapisan"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "embun"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "דק",
+      "gloss": "halus"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "bersisik"
+    },
+    {
+      "surface": "דק",
+      "gloss": "halus"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "seperti embun beku"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:00.166935595Z",
+  "model": "glm-5.2"
+}

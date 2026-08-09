@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dan ia menyingkirkan ⟨את⟩ para Elohim asing dan ⟨את⟩ patung sembahan itu dari rumah Yahweh, dan segala mezbah yang ia dirikan di gunung rumah Yahweh dan di Yerushalayim, dan ia melemparkan ⟨mereka⟩ ke luar kota.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "dan ia menyingkirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Elohim asing"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "para Elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "asing"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "patung sembahan itu"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "patung sembahan itu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ia dirikan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "dan di Yerushalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "dan ia melemparkan"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ke luar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-08T10:17:36.058332364Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan aku mengarahkan ⟨את⟩ wajahku kepada Adonai, ⟨si⟩ Elohim, untuk mencari ⟨dalam⟩ doa dan permohonan, dalam puasa dan kain karung dan abu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Dan aku mengarahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajahku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "untuk mencari"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "dan permohonan"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "dalam puasa"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "dan kain karung"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "dan abu"
+    }
+  ],
+  "timestamp": "2026-08-08T13:14:35.427052209Z",
+  "model": "glm-5.2"
+}

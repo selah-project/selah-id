@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 141,
+  "translation": "Mizmor bagi David: Yahweh, aku memanggil Engkau, segeralah kepadaku, berilah telinga kepada suaraku ketika aku berseru kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "aku memanggil Engkau"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "segeralah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "berilah telinga"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ketika aku berseru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:43.034060931Z",
+  "model": "glm-5.2"
+}

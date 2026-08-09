@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Aram dari timur dan Pelistim dari belakang, dan mereka memakan habis ⟨את⟩ Yisrael dengan segala mulut. Dalam segala ini murka-Nya tidak surut, dan lagi tangan-Nya teracung.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dari timur"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "dan Pelistim"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "dari belakang"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "dan mereka memakan habis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segala"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שב",
+      "gloss": "surut"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "murka-Nya"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "dan lagi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan-Nya"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "teracung"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:42.562166882Z",
+  "model": "glm-5.2"
+}

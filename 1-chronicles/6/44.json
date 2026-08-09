@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "dan ⟨את⟩ Ashan dan ⟨את⟩ padang-padang rumputnya, dan ⟨את⟩ Bet-Syemes dan ⟨את⟩ padang-padang rumputnya",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang-padang rumputnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padang-padang rumputnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Bet-Syemes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Syemes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang-padang rumputnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padang-padang rumputnya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:02:32.578160161Z",
+  "model": "glm-5.2"
+}

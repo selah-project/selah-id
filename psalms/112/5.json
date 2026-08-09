@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 112,
+  "translation": "Baik ⟨adalah⟩ orang yang berbelas kasih dan meminjamkan; ⟨ia⟩ menopang perkara-perkaranya dengan keadilan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "berbelas kasih"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "dan meminjamkan"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "menopang"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "perkara-perkaranya"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dengan keadilan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:55.545643246Z",
+  "model": "glm-5.2"
+}

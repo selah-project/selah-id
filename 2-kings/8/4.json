@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan raja sedang berbicara kepada Gechazi, bujang orang Elohim, dengan mengatakan: Ceritakanlah kiranya kepadaku ⟨את⟩ segala hal-hal besar yang telah diperbuat Elisha.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Dan raja"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sedang berbicara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bujang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "ceritakanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala hal-hal besar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "hal-hal besar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah diperbuat"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-08-08T08:10:26.413602621Z",
+  "model": "glm-5.2"
+}

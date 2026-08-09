@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Tetapi aku, kepada-Mu, Yahweh, aku berteriak, dan di pagi hari doaku mendahului ⟨menemui⟩ Engkau.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "aku berteriak"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "dan di pagi hari"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "mendahului Engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:40.768482393Z",
+  "model": "glm-5.2"
+}

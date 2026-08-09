@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Tetapi jika ⟨dia⟩ memukulinya dengan perkakas besi sehingga ia mati, pembunuh ⟨dia⟩; mati dibunuh pembunuh itu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tetapi jika"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "dengan perkakas"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "besi"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "memukulinya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sehingga ia mati"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "pembunuh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pembunuh itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:44:13.648521142Z",
+  "model": "glm-5.2"
+}

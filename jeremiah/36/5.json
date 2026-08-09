@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Maka Yirmeyahu memerintahkan ⟨את⟩ Barukh, katanya: \"Aku ⟨terkunci⟩; aku tidak dapat masuk ke bait Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "וַיְצַוֶּ֣ה",
+      "gloss": "Maka … memerintahkan"
+    },
+    {
+      "surface": "יִרְמְיָ֔הוּ",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Barukh"
+    },
+    {
+      "surface": "בָּר֖וּךְ",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "עָצ֔וּר",
+      "gloss": "terkunci"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוּכַ֔ל",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "לָב֖וֹא",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:39:00.920661413Z",
+  "model": "glm-5.2"
+}

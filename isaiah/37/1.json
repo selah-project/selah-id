@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Maka terjadilah, pada waktu raja Chizqiyahu mendengarnya, bahwa ⟨הוא⟩ mengoyak ⟨את⟩ pakaiannya, dan ⟨הוא⟩ menutupi diri dengan kain sak, dan ⟨הוא⟩ masuk ke bait Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pada waktu mendengar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizqiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dan mengoyak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "dan menutupi diri"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "dengan kain sak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:24:03.235642647Z",
+  "model": "glm-5.2"
+}

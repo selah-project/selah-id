@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 132,
+  "translation": "yang bersumpah kepada Yahweh, bernazar kepada Abir Yakov —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "bersumpah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "bernazar"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "kepada Abir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:33.749768073Z",
+  "model": "glm-5.2"
+}

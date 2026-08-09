@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "“Sesungguhnya, Aku akan membakar habis ⟨keturunan⟩ Baasa dan ⟨keturunan⟩ rumahnya, dan Aku akan memberikan ⟨את⟩ rumahmu seperti rumah Yarobam bin Nevat.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "sesungguhnya Aku"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "membakar habis"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨keturunan⟩"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dan ⟨keturunan⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumahmu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumahmu"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "seperti rumah"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:03.600140555Z",
+  "model": "glm-5.2"
+}

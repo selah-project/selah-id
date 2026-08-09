@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 128,
+  "translation": "Nyanyian naungan. Betapa berbahagialah setiap orang yang takut akan Yahweh, yang berjalan di jalan-jalan-Nya.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naungan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "betapa berbahagialah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "orang yang takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di jalan-jalan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:37.064184642Z",
+  "model": "glm-5.2"
+}

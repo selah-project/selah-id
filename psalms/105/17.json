@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": " ⟨Ia⟩ mengirim seorang laki-laki sebelum mereka — Yosef, yang dijual sebagai budak.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mengirim"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sebelum mereka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sebagai budak"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "yang dijual"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:45.173042855Z",
+  "model": "glm-5.2"
+}

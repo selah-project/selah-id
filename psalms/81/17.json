@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Dan ⟨Dia⟩ memberi dia makan dari lemak gandum, dan dari batu karang madu aku akan menyebaskan engkau.",
+  "tokens": [
+    {
+      "surface": "וַֽ֭יַּאֲכִילֵהוּ",
+      "gloss": "dan memberi dia makan"
+    },
+    {
+      "surface": "מֵחֵ֣לֶב",
+      "gloss": "dari lemak"
+    },
+    {
+      "surface": "חִטָּ֑ה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "וּ֝מִצּ֗וּר",
+      "gloss": "dan dari batu karang"
+    },
+    {
+      "surface": "דְּבַ֣שׁ",
+      "gloss": "madu"
+    },
+    {
+      "surface": "אַשְׂבִּיעֶֽךָ",
+      "gloss": "aku akan menyebaskan engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:41.066053129Z",
+  "model": "glm-5.2"
+}

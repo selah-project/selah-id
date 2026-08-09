@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan bagi hambamu perempuan ada dua anak laki-laki, dan berkelahilah keduanya di padang, dan tidak ada yang menyelamatkan di antara mereka, dan yang seorang memukul ⟨את⟩ yang seorang, dan ia mematikan ⟨את⟩ dia.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "dan bagi hambamu perempuan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "dan berkelahilah"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "keduanya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "yang menyelamatkan"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "di antara mereka"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang seorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang seorang"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang seorang"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan mematikan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    }
+  ],
+  "timestamp": "2026-08-08T18:31:21.269368513Z",
+  "model": "glm-5.2"
+}

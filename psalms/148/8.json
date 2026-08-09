@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 148,
+  "translation": "Api dan hujan es, salju dan kabut, angin badai yang melakukan firman-Nya",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "dan hujan es"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "salju"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "dan kabut"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firman-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:32.624697047Z",
+  "model": "glm-5.2"
+}

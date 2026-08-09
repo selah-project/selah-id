@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 65,
+  "translation": "Yang meredakan deru lautan, deru ombaknya, dan keributan bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Yang meredakan"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "deru"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lautan"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "deru"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ombaknya"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "dan keributan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:17.628140016Z",
+  "model": "glm-5.2"
+}

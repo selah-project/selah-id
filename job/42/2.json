@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Aku tahu bahwa Engkau sanggup segala sesuatu, dan tidak terhalang dari-Mu rencana apa pun.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala sesuatu"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "Engkau sanggup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "terhalang"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari-Mu"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "rencana"
+    }
+  ],
+  "timestamp": "2026-08-08T09:45:33.878621163Z",
+  "model": "glm-5.2"
+}

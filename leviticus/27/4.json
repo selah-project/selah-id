@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan jika perempuan ⟨dia⟩, maka penaksiranmu tiga puluh syekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "penaksiranmu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syekel"
+    }
+  ],
+  "timestamp": "2026-08-08T10:39:17.746719120Z",
+  "model": "glm-5.2"
+}

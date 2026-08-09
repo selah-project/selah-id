@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Menyingirlah dari padaku, semua pelaku kejahatan; sebab Yahweh telah mendengar suara ratapanku.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "menyingirlah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari padaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pelaku"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "telah mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "ratapanku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:29.475357569Z",
+  "model": "glm-5.2"
+}

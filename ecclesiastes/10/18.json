@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Karena kemalasan ⟨itu⟩ meruntuhkan rangka atap, dan karena kelemahan tangan ⟨itu⟩ membuat rumah bocor.",
+  "tokens": [
+    {
+      "surface": "בַּעֲצַלְתַּ֖יִם",
+      "gloss": "Karena kemalasan"
+    },
+    {
+      "surface": "יִמַּ֣ךְ",
+      "gloss": "meruntuhkan"
+    },
+    {
+      "surface": "הַמְּקָרֶ֑ה",
+      "gloss": "rangka atap"
+    },
+    {
+      "surface": "וּבְשִׁפְל֥וּת",
+      "gloss": "dan karena kelemahan"
+    },
+    {
+      "surface": "יָדַ֖יִם",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יִדְלֹ֥ף",
+      "gloss": "membuat bocor"
+    },
+    {
+      "surface": "הַבָּֽיִת",
+      "gloss": "rumah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:08.301286738Z",
+  "model": "glm-5.2"
+}

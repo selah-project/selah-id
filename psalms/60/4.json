@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Engkau telah membuat ⟨ה⟩ bumi berguncang; Engkau telah merobeknya; sembuhkanlah retak-retaknya, sebab ⟨ia⟩ tergoyahkan!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Engkau telah membuat berguncang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "Engkau telah merobeknya"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "sembuhkanlah"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "retak-retaknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tergoyahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:59.594398129Z",
+  "model": "glm-5.2"
+}

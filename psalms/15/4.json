@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Yang diremehkan di matanya ⟨adalah⟩ orang yang ditolak, tetapi ⟨את⟩ mereka yang takut akan Yahweh ia hormati; bersumpah untuk merugikan diri, dan tidak berubah.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Yang diremehkan"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "orang yang ditolak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mereka yang takut akan Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "mereka yang takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "akan Yahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ia hormati"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "bersumpah"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "untuk merugikan diri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "berubah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:21.482669598Z",
+  "model": "glm-5.2"
+}

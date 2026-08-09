@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan aku membenci ⟨את⟩ kehidupan, karena buruk bagiku ⟨adalah⟩ pekerjaan yang dikerjakan di bawah matahari, karena segalanya ⟨adalah⟩ habel dan penggembiraan roh.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Dan aku membenci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kehidupan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "רע",
+      "gloss": "buruk"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "yang dikerjakan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "segalanya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dan penggembiraan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    }
+  ],
+  "timestamp": "2026-08-09T01:43:46.064645660Z",
+  "model": "glm-5.2"
+}

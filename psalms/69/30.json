@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Tetapi aku ⟨ini⟩ orang miskin dan ⟨ini⟩ tersiksa; keselamatan-Mu, ya Elohim, ⟨itulah⟩ yang meninggikan aku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "dan tersiksa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "keselamatan-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "yang meninggikan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:17.394391188Z",
+  "model": "glm-5.2"
+}

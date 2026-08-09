@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan inilah keturunan Yitskhak, ben Avraham: Avraham memperanakkan ⟨את⟩ Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:21:49.195493904Z",
+  "model": "glm-5.2"
+}

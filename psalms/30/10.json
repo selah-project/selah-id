@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Apakah untungnya dalam darahku, pada waktu aku turun ke liang kubur? Apakah debu akan bersyukur kepada-Mu? Apakah ia akan memberitakan kesetiaan-Mu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "untungnya"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "dalam darahku"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "pada waktu aku turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "liang kubur"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "apakah akan bersyukur kepada-Mu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "apakah ia akan memberitakan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kesetiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:54.540259843Z",
+  "model": "glm-5.2"
+}

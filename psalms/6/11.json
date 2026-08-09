@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Malulah dan terkejutlah sangat ⟨semua⟩ musuhku; biarlah mereka berbalik, malulah sekejap mata.",
+  "tokens": [
+    {
+      "surface": "יֵבֹ֤שׁוּ",
+      "gloss": "malulah"
+    },
+    {
+      "surface": "וְיִבָּהֲל֣וּ",
+      "gloss": "dan terkejutlah"
+    },
+    {
+      "surface": "מְ֭אֹד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אֹיְבָ֑י",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "יָ֝שֻׁ֗בוּ",
+      "gloss": "berbaliklah"
+    },
+    {
+      "surface": "יֵבֹ֥שׁוּ",
+      "gloss": "malulah"
+    },
+    {
+      "surface": "רָֽגַע",
+      "gloss": "sekejap mata"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:03.090711022Z",
+  "model": "glm-5.2"
+}

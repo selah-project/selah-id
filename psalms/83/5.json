@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "Mereka berkata, “Mari, dan biarlah kami memunahkan mereka dari menjadi bangsa, dan jangan nama Yisra'el diingat lagi.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Mereka berkata"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mari"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "dan biarlah kami memunahkan mereka"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "dari menjadi bangsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "diingat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:10.240961134Z",
+  "model": "glm-5.2"
+}

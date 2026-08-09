@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Yahweh Elohim kami menyerahkan dia ke hadapan kami, maka kami memukul kalah dia dan ⟨את⟩ anak-anaknya dan ⟨את⟩ seluruh bangsanya.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּתְּנֵ֛הוּ",
+      "gloss": "Dan menyerahkan dia"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֖ינוּ",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "לְפָנֵ֑ינוּ",
+      "gloss": "ke hadapan kami"
+    },
+    {
+      "surface": "וַנַּ֥ךְ",
+      "gloss": "maka kami memukul kalah"
+    },
+    {
+      "surface": "אֹת֛וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh bangsanya"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עַמּֽוֹ",
+      "gloss": "bangsanya"
+    }
+  ],
+  "timestamp": "2026-08-08T18:27:50.375996637Z",
+  "model": "glm-5.2"
+}

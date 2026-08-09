@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu pergilah Mosheh dan Aharon, dan mereka mengumpulkan ⟨את⟩ segala tua-tua bani Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu pergilah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "dan mereka mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala tua-tua bani Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:40.140124497Z",
+  "model": "glm-5.2"
+}

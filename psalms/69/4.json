@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Aku letih dari seruanku, tenggorokanku terbakar, mataku habis ⟨kekuatannya⟩, sambil menanti-nantikan Elohimku.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Aku letih"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "dari seruanku"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "terbakar"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "tenggorokanku"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habis"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "sambil menanti-nantikan"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:18.266698484Z",
+  "model": "glm-5.2"
+}

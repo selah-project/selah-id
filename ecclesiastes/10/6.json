@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "kebodohan diberikan ⟨⟨pada⟩⟩ tempat-tempat tinggi yang banyak, dan orang-orang kaya di tempat rendah ⟨mereka⟩ duduk.",
+  "tokens": [
+    {
+      "surface": "נִתַּ֣ן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "הַסֶּ֔כֶל",
+      "gloss": "kebodohan"
+    },
+    {
+      "surface": "בַּמְּרוֹמִ֖ים",
+      "gloss": "di tempat-tempat tinggi"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "וַעֲשִׁירִ֖ים",
+      "gloss": "dan orang-orang kaya"
+    },
+    {
+      "surface": "בַּשֵּׁ֥פֶל",
+      "gloss": "di tempat rendah"
+    },
+    {
+      "surface": "יֵשֵֽׁבוּ",
+      "gloss": "mereka duduk"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:50.007422249Z",
+  "model": "glm-5.2"
+}

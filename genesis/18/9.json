@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan mereka berkata kepadanya, “Di manakah Sarah, istrimu?” Dan dia berkata, “Lihat, di dalam kemah.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan mereka berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Di manakah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "istrimu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan dia berkata"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di dalam kemah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:42.660225778Z",
+  "model": "glm-5.2"
+}

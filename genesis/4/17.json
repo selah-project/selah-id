@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Qayin mengenal ⟨את⟩ istrinya, dan ia mengandung dan melahirkan ⟨את⟩ Khanokh; dan ia menjadi pembangun kota, dan ia menamai nama kota itu seperti nama putranya, Khanokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "dan mengenal"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istrinya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "istrinya"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dan ia mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ia menjadi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pembangun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia menamai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "seperti nama"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putranya"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:37.741760556Z",
+  "model": "glm-5.2"
+}

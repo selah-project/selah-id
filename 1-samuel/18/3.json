@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Yehonatan dan David mengikat perjanjian, karena ia mengasihi ⟨את⟩-nya seperti napas-nyawanya sendiri.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Lalu mengikat"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dan David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "karena ia mengasihi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "seperti napas-nyawanya sendiri"
+    }
+  ],
+  "timestamp": "2026-08-08T10:56:16.276144180Z",
+  "model": "glm-5.2"
+}

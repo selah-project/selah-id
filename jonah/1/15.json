@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka mereka mengangkat ⟨את⟩ Yunus dan melemparkannya ke laut, dan laut itu berhenti dari amarahnya.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "maka mereka mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yunus"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "dan melemparkannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dan berhenti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut itu"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "dari amarahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:00:27.736787116Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "dan ia akan membawa keluar ⟨את⟩ seluruh lembu itu ke luar tempat perkemahan, ke tempat tahir, ke tempat pembuangan abu, dan ia akan membakarnya di atas kayu dengan api; di tempat pembuangan abu ia akan dibakar.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "dan ia akan membawa keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tempat perkemahan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tahir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "tempat pembuangan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "abu"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "dan ia akan membakarnya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ia",
+      "marks": "seluruh lembu itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "tempat pembuangan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "abu"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ia akan dibakar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:53.910827671Z",
+  "model": "glm-5.2"
+}

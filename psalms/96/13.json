@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 96,
+  "translation": "Di hadapan Yahweh, sebab ⟨dia⟩ datang, sebab ⟨dia⟩ datang untuk menghakimi bumi. ⟨Dia⟩ akan menghakimi dunia dengan keadilan, dan bangsa-bangsa dengan kesetiaan-Nya.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "untuk menghakimi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "⟨dia⟩ akan menghakimi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dengan keadilan"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "dan bangsa-bangsa"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "dengan kesetiaan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:47.000306223Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Ulang Devorah, seorang nabi perempuan, istri Lapidot — dia, dia menghakimi ⟨את⟩ Yisra'el pada waktu itu.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "Ulang Devorah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "nabi perempuan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lapidot"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:40:24.228988933Z",
+  "model": "glm-5.2"
+}

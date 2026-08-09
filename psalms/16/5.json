@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Yahweh ⟨adalah⟩ bagian dari warisanku dan pialaku; Engkaulah yang menopang bagiananku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bagian dari"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "warisanku"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "dan pialaku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "yang menopang"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "bagiananku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:02.586692454Z",
+  "model": "glm-5.2"
+}

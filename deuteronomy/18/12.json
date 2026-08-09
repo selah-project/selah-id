@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Sebab segala pelaku ⟨dari⟩ hal-hal ini ⟨adalah⟩ kekejian bagi Yahweh, dan oleh sebab kekejian-kekejian inilah Yahweh, Elohim-mu, mengusir mereka dari hadapanmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pelaku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hal-hal ini"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "dan oleh sebab"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "kekejian-kekejian"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "mengusir"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T18:28:55.087326686Z",
+  "model": "glm-5.2"
+}

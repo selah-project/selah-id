@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Jalan ⟨orang⟩ fasik ⟨adalah⟩ kekejian bagi Yahweh, tetapi ⟨Ia⟩ mengasihi ⟨orang⟩ yang mengejar kebenaran.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "tetapi yang mengejar"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "mengasihi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:34.401365146Z",
+  "model": "glm-5.2"
+}

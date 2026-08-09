@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Engkau diperlihatkan untuk mengetahui bahwa Yahweh, Dialah ha-Elohim; tidak ada yang lain selain Dia.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "diperlihatkan"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "selain Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:25:34.089438588Z",
+  "model": "glm-5.2"
+}

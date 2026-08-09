@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 91,
+  "translation": "Tidak engkau akan takut dari teror malam, dari panah yang terbang di siang hari;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "engkau akan takut"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "dari teror"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "dari panah"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "yang terbang"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "di siang hari"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:29.297147166Z",
+  "model": "glm-5.2"
+}

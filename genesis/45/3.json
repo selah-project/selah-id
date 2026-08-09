@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Dan berkatalah Yosef kepada saudara-saudaranya, “Akulah Yosef; apakah ayahku masih hidup?” Dan tidak mampu saudara-saudaranya menjawab ⟨את⟩-nya, sebab mereka terkejut karena kehadiran-nya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "apakah masih"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "-nya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "mereka terkejut"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "karena kehadiran-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T18:23:08.591635722Z",
+  "model": "glm-5.2"
+}

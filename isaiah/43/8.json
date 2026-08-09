@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Keluarkan ⟨lah⟩ bangsa yang buta namun ⟨ada⟩ mata, dan tuli namun ⟨ada⟩ telinga padanya.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "keluarkan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "yang buta"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "namun ⟨ada⟩ mata"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ada⟩"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "dan tuli"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "namun ⟨ada⟩ telinga"
+    },
+    {
+      "surface": "למו",
+      "gloss": "padanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:28.834114599Z",
+  "model": "glm-5.2"
+}

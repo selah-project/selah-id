@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Dan aku ⟨telah menjadi⟩ celaan bagi mereka; melihatku, mereka menggelengkan kepala mereka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dan aku"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨telah menjadi⟩"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "celaan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "melihatku"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "mereka menggelengkan"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kepala mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:09.534258547Z",
+  "model": "glm-5.2"
+}

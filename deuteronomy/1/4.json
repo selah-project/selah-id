@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "setelah mengalahkannya, ⟨את⟩ Sihon raja orang Amori yang diam di Heshbon, dan ⟨את⟩ Og raja Basyan yang diam di Ashtarot di Edrei —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "mengalahkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Amori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "di Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "di Edrei"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:18.462204508Z",
+  "model": "glm-5.2"
+}

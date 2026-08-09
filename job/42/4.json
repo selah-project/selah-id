@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "“Dengarlah, aku minta, dan aku akan berbicara; aku akan menanyakan Engkau, dan beritahulah aku.”",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "aku minta"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "akan berbicara"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "aku akan menanyakan Engkau"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "dan beritahulah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:45:33.878856353Z",
+  "model": "glm-5.2"
+}

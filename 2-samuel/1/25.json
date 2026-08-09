@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Bagaimana ⟨para⟩ pahlawan telah jatuh di tengah ⟨pertempuran⟩! Yehonatan, di bukit-bukitmu ⟨ engkau terluka ⟩!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Bagaimana"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "pertempuran"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "bukit-bukitmu"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "terluka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:03.185372247Z",
+  "model": "glm-5.2"
+}

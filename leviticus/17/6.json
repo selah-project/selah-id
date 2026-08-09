@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan ⟨sang imam⟩ akan memercikkan ⟨את⟩ darah itu di atas mizbeakh Yahweh, ⟨di⟩ pintu kemah pertemuan, dan ⟨dia⟩ akan membakar ⟨את⟩ lemak itu sebagai bau yang menyenangkan bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "dan-memercikkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang-imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah itu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah-itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di-atas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dan-membakar"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak-itu"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "sebagai-bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yang-menyenangkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi-Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:28.235391878Z",
+  "model": "glm-5.2"
+}

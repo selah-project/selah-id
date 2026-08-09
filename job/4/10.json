@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Auman singa, dan suara singa buas, dan gigi singa-singa muda — patah.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "auman"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dan suara"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singa buas"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dan gigi"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "singa-singa muda"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "patah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:06.858051178Z",
+  "model": "glm-5.2"
+}

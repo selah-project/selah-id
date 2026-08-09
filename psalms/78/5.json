@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ⟨ia⟩ menegakkan kesaksian dalam Yaakov, dan ⟨ia⟩ meletakkan taurat dalam Yisra'el, yang ⟨ia⟩ perintahkan ⟨את⟩ bapa-bapa kami, untuk membuat mereka diketahui kepada anak-anak mereka.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dan ⟨ia⟩ menegakkan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "dalam Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "dan taurat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ia⟩ meletakkan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "dalam Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨ia⟩ perintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa-bapa kami"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "untuk membuat mereka diketahui"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kepada anak-anak mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:43.370587687Z",
+  "model": "glm-5.2"
+}

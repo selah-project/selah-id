@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Dawid mendaftarkan ⟨את⟩ rakyat yang bersamanya, dan ia menempatkan atas mereka panglima-panglima ribuan dan panglima-panglima ratusan.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Lalu mendaftarkan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakyat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panglima-panglima"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribuan"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "dan panglima-panglima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratusan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:56:58.329293470Z",
+  "model": "glm-5.2"
+}

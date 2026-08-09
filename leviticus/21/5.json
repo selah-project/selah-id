@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Mereka tidak akan membuat kebotakan pada kepala mereka, dan sisi janggut mereka tidak akan mereka cukur, dan pada daging mereka mereka tidak akan menggoreskan goresan.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "mereka akan membuat botak"
+    },
+    {
+      "surface": "קָרְחָה֙",
+      "gloss": "kebotakan"
+    },
+    {
+      "surface": "בְּרֹאשָׁ֔ם",
+      "gloss": "pada kepala mereka"
+    },
+    {
+      "surface": "וּפְאַ֥ת",
+      "gloss": "dan sisi"
+    },
+    {
+      "surface": "זְקָנָ֖ם",
+      "gloss": "janggut mereka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יְגַלֵּ֑חוּ",
+      "gloss": "mereka akan mencukur"
+    },
+    {
+      "surface": "וּבִ֨בְשָׂרָ֔ם",
+      "gloss": "dan pada daging mereka"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יִשְׂרְט֖וּ",
+      "gloss": "mereka akan menggores"
+    },
+    {
+      "surface": "שָׂרָֽטֶת",
+      "gloss": "goresan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:12.185158897Z",
+  "model": "glm-5.2"
+}

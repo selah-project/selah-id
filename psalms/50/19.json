@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Mulutmu kaulepaskan kepada kejahatan, dan lidahmu mengikat tipu daya.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "Mulutmu"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "kaulepaskan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "kepada kejahatan"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "dan lidahmu"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "mengikat"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tipu daya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:28.614419836Z",
+  "model": "glm-5.2"
+}

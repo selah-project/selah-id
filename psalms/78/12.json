@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Di depan bapa-bapa mereka ⟨Ia⟩ melakukan perbuatan ajaib, di negeri Mitsrayim, di padang Tsoan.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa-bapa mereka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Ia⟩ melakukan"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "perbuatan ajaib"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:07.634490959Z",
+  "model": "glm-5.2"
+}

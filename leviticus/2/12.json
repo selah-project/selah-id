@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Sebagai qorban bikiurim kamu persembahkan ⟨את⟩ hal-hal itu kepada Yahweh, dan ke atas mezbah tidak boleh dinaikkan menjadi bau yang menenangkan.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "sebagai qorban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "bikiurim"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "kamu persembahkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hal-hal itu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "atas mezbah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "boleh dinaikkan"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "menjadi bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yang menenangkan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:42.694632566Z",
+  "model": "glm-5.2"
+}

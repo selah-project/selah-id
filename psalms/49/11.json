@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "karena ia melihat ⟨bahwa⟩ orang-orang bijaksana mati, bersama-sama orang bodoh dan orang tidak berakal binasa; dan mereka meninggalkan kekayaan mereka kepada orang lain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ia melihat"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "orang-orang bijaksana"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "dan orang tidak berakal"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "dan meninggalkan"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kepada orang lain"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kekayaan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:21.925353085Z",
+  "model": "glm-5.2"
+}

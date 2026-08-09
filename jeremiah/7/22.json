@@ -1,0 +1,79 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "jeremiah 7:22",
+ "book": "jeremiah",
+ "lang": "id",
+ "chapter": 7,
+ "translation": "Karena tidak berbicaralah aku dengan ⟨את⟩ bapa-bapakmu, dan tidak kuperintahkan mereka pada hari aku membawa mereka keluar dari tanah Mitsrayim, mengenai perkara-perkara korban bakaran dan korban sembelihan.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "karena"
+  },
+  {
+   "surface": "לא",
+   "gloss": "tidak"
+  },
+  {
+   "surface": "דברתי",
+   "gloss": "berbicaralah aku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "bapa-bapakmu"
+  },
+  {
+   "surface": "אבותיכם",
+   "gloss": "bapa-bapakmu"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "dan tidak"
+  },
+  {
+   "surface": "צויתים",
+   "gloss": "kuperintahkan mereka"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "pada hari"
+  },
+  {
+   "surface": "הוציא",
+   "gloss": "aku membawa keluar"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ mereka",
+   "marks": "mereka"
+  },
+  {
+   "surface": "מארץ",
+   "gloss": "dari tanah"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Mitsrayim"
+  },
+  {
+   "surface": "על",
+   "gloss": "mengenai"
+  },
+  {
+   "surface": "דברי",
+   "gloss": "perkara-perkara"
+  },
+  {
+   "surface": "עולה",
+   "gloss": "korban bakaran"
+  },
+  {
+   "surface": "וזבח",
+   "gloss": "dan korban sembelihan"
+  }
+ ],
+ "timestamp": "2026-08-09T01:42:06.196218134Z",
+ "model": "glm-5.2"
+}

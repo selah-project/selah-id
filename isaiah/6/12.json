@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "dan Yahweh menjauhkan ⟨את⟩ manusia, dan ⟨yang⟩ ditinggalkan menjadi banyak di tengah-tengah bumi.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "dan menjauhkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "dan ⟨yang⟩ ditinggalkan menjadi banyak"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "⟨yang⟩ ditinggalkan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:09:16.245360380Z",
+  "model": "glm-5.2"
+}

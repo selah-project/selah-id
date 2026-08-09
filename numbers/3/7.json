@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan mereka harus memelihara ⟨את⟩ tugas pengawasannya dan ⟨את⟩ tugas pengawasan seluruh jemaah di hadapan Ohel Moed, untuk melakukan ⟨את⟩ pelayanan ha-Mishkan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "dan mereka harus memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugas pengawasannya"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "tugas pengawasannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tugas pengawasan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas pengawasan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelayanan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "pelayanan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ha-Mishkan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:40:11.711039397Z",
+  "model": "glm-5.2"
+}

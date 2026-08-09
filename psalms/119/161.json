@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Pembesar-pembesar telah mengejar aku tanpa sebab, tetapi karena perkataan-Mu hatiku terkejut.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "Pembesar-pembesar"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "telah mengejar aku"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "tetapi karena perkataan-Mu"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "terkejut"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:48.300875258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 132,
+  "translation": "Imam-imammu biarlah berpakaian kebenaran, dan orang-orang hesed-mu bersorak-sorai.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "imam-imammu"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "biarlah berpakaian"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "dan orang-orang hesed-mu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bersorak-sorai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:19.653855560Z",
+  "model": "glm-5.2"
+}

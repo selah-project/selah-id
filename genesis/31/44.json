@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Maka sekarang, mari, kita memotong ⟨את⟩ perjanjian, aku dan engkau, dan itu akan menjadi saksi antara aku dan engkau.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Maka sekarang"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "mari"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "kita memotong"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨את⟩ perjanjian",
+      "marks": "perjanjian"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan akan menjadi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara aku"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "dan engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T10:23:38.719648678Z",
+  "model": "glm-5.2"
+}

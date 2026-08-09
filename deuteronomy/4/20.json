@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Tetapi ⟨אתכם⟩ Yahweh telah mengambil, dan ⟨הוא⟩ membawa ⟨אתכם⟩ keluar dari tanur besi, dari Mitsrayim, untuk menjadi bagi-Nya menjadi umat milik, seperti hari ini.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Tetapi ⟨אתכם⟩",
+      "marks": "kamu (objek langsung)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "telah mengambil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "dan membawa keluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamu (objek langsung)"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "tanur"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "besi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "untuk menjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "menjadi umat"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "milik"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-09T01:39:53.583183916Z",
+  "model": "glm-5.2"
+}

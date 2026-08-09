@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "maka Yahweh memanggil Shemuël, dan ⟨ia⟩ berkata, “Ini aku.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maka memanggil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "“Ini aku.”"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:24.824953875Z",
+  "model": "glm-5.2"
+}

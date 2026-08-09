@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Karena kamu telah berkata, 'Yahweh telah menetapkan bagi kita nabi-nabi di Bavel,'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kamu telah berkata"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "telah menetapkan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "di Bavel"
+    }
+  ],
+  "timestamp": "2026-08-08T08:37:14.239333788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu ia menyembelih ⟨את⟩ segala imam bamot yang ada di sana di atas mezbah-mezbah itu, dan ia membakar ⟨את⟩ tulang-tulang manusia di atasnya, lalu ia kembali ke Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Lalu ia menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala imam bamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ada di sana"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mezbah-mezbah itu"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "dan ia membakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang manusia"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu ia kembali"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ke Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T08:14:54.162298545Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Elohim memberkati ⟨את⟩ mereka, dengan berkata: “Berbuahlah, bertambahlah, dan penuhilah ⟨את⟩ air di laut, dan ⟨semoga⟩ burung bertambah di bumi.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Lalu memberkati"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "berbuahlah"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "bertambahlah"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan penuhilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "air"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "dan burung"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "bertambah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T18:21:55.346072964Z",
+  "model": "glm-5.2"
+}

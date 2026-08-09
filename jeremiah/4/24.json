@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Aku melihat gunung-gunung, dan lihat, ⟨mereka⟩ berguncang, dan semua bukit-bukit bergoyang-goyang.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku melihat"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "berguncang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "bergoyang-goyang"
+    }
+  ],
+  "timestamp": "2026-08-08T11:15:02.340343086Z",
+  "model": "glm-5.2"
+}

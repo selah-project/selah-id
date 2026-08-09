@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 79,
+  "translation": "Tolonglah kami, Elohim keselamatan kami, demi kemuliaan nama-Mu, dan lepaskanlah kami, dan adakanlah pendamaian atas dosa-dosa kami, demi nama-Mu.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "tolonglah kami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "keselamatan kami"
+    },
+    {
+      "surface": "על",
+      "gloss": "demi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "dan lepaskanlah kami"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan adakanlah pendamaian"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "dosa-dosa kami"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:44.062306243Z",
+  "model": "glm-5.2"
+}

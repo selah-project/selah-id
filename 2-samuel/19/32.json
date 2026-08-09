@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan Barzilai, orang Gilead itu, turun dari Rogelim, dan ia menyuruhkan ⟨את⟩ raja melintasi sungai Yarden untuk mengantarkannya ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "Dan Barzilai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "orang Gilead itu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "dari Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dan ia menyuruhkan melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yarden"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "untuk mengantarkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-08T11:00:47.702457524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Nyanyikanlah bagi-Nya nyanyian baru; petiklah dengan baik ⟨diiringi⟩ teriakan sorak.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "nyanyikanlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "petiklah dengan baik"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "⟨memainkan alat musik⟩"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "diiringi teriakan sorak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:01.755481342Z",
+  "model": "glm-5.2"
+}

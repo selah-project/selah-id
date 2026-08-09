@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dalam segala jalanmu kenallah Dia, dan ⟨Dia⟩ akan meluruskan jalan-jalanmu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalanmu"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "kenallah Dia"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ⟨Dia⟩"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "akan meluruskan"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "jalan-jalanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:06.367715864Z",
+  "model": "glm-5.2"
+}

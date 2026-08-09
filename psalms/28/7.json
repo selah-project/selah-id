@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Yahweh ⟨adalah⟩ kekuatanku dan perisaiku; dalam Dia percaya hatiku, dan aku ditolong; maka bersukarialah hatiku, dan dengan nyanyianku aku memuji Dia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "dan perisaiku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dalam Dia"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "dan aku ditolong"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "maka bersukarialah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "dan dengan nyanyianku"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "aku memuji Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:11.272227150Z",
+  "model": "glm-5.2"
+}

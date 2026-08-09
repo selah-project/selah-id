@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Dan ia memerintahkan ⟨את⟩ yang atas rumahnya, dengan mengatakan: Penuhilah ⟨את⟩ karung orang-orang itu makanan, sebanyak yang dapat mereka angkut, dan taruhlah ⟨את⟩ perak masing-masing di mulut karungnya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dan ia memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang atas rumahnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "penuhilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karung"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "karung"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sebanyak"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "yang dapat mereka"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "angkut"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "dan taruhlah"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di mulut"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "karungnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:45.521954378Z",
+  "model": "glm-5.2"
+}

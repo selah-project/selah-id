@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Sebab itu kesombongan ⟨adalah⟩ kalung bagi mereka; kekerasan membalut mereka seperti pakaian.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "kalung bagi mereka"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kesombongan"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "membalut"
+    },
+    {
+      "surface": "שית",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:52.302848724Z",
+  "model": "glm-5.2"
+}

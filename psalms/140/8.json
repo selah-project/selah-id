@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 140,
+  "translation": "Yahweh, Adonai, ⟨engkau⟩ kekuatan keselamatanku, ⟨engkau⟩ telah menaungi kepalaku pada hari pertempuran.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "keselamatanku"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "⟨engkau⟩ telah menaungi"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "kepalaku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "pertempuran"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:34.672668837Z",
+  "model": "glm-5.2"
+}

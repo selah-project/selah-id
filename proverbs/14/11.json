@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Rumah orang-orang fasik akan binasa, tetapi kemah orang-orang jujur akan berbunga.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "akan binasa"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "tetapi kemah"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "orang-orang jujur"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "akan berbunga"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:19.526206286Z",
+  "model": "glm-5.2"
+}

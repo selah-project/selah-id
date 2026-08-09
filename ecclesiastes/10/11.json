@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Jika ular itu menggigit tanpa mantra, maka tidak ada keuntungan bagi sang ahli lidah.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "menggigit"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ular itu"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "mantra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maka tidak ada"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "keuntungan"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "bagi sang ahli"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "lidah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:58.909333842Z",
+  "model": "glm-5.2"
+}

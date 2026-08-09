@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Gunung-gunung yang tinggi ⟨adalah⟩ bagi kambing-kambing liar; batu-batu karang ⟨adalah⟩ tempat berlindung bagi hewan-hewan marmut.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "yang tinggi"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "bagi kambing-kambing liar"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "batu-batu karang"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "tempat berlindung"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "bagi hewan-hewan marmut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:13.139761436Z",
+  "model": "glm-5.2"
+}

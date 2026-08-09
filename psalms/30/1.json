@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Mizmor, nyanyian untuk pentahbisan rumah, bagi David.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חֲנֻכַּת",
+      "gloss": "pentahbisan"
+    },
+    {
+      "surface": "הַבַּיִת",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:29.934094465Z",
+  "model": "glm-5.2"
+}

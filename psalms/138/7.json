@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 138,
+  "translation": "Jika aku berjalan di tengah kesesakan, Engkau menghidupkan aku; terhadap murka musuh-musuhku Engkau mengulurkan tangan-Mu, dan tangan kanan-Mu menyelamatkan aku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kesesakan"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "Engkau menghidupkan aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "אף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "Engkau mengulurkan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "dan ... menyelamatkan aku"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:15.480442473Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "dan engkau harus mengikatnya sebagai tanda pada tanganmu, dan ⟨mereka⟩ harus menjadi tefillin di antara matamu.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "dan engkau harus mengikatnya"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "sebagai tanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan ⟨mereka⟩ harus menjadi"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "tefillin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:45:11.804003012Z",
+  "model": "glm-5.2"
+}

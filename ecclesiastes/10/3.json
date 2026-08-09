@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan juga di sepanjang jalan, ketika orang bodoh berjalan, hatinya kurang, dan ia berkata kepada setiap ⟨orang⟩ bahwa orang bodoh ⟨adalah⟩ dia.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ketika orang bodoh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada setiap"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:45.489504260Z",
+  "model": "glm-5.2"
+}

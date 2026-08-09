@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Bukankah seluruh tanah ⟨itu⟩ di hadapanmu? Pisahkanlah dirimu, ini-permintaanku, dari padaku. Jika ⟨ke⟩ kiri, maka ⟨aku ke⟩ kanan; dan jika ⟨ke⟩ kanan, maka ⟨aku ke⟩ kiri.”",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "Pisahkanlah dirimu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ini-permintaanku"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "dari padaku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "maka kanan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "maka kiri"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:37.725309393Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 84,
+  "translation": "Yahweh Elohim Tsevaot, dengarkanlah doaku; pasanglah telinga, hai Elohim Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dengarkanlah"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "hai Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:37.812803372Z",
+  "model": "glm-5.2"
+}

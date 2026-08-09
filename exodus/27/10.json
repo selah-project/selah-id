@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "dan tiang-tiangnya dua puluh dan alas-alasnya dua puluh tembaga; kait-kait tiang-tiang dan penyambung-penyambungnya perak.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "dan tiang-tiangnya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "dan alas-alasnya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "kait-kait"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "dan penyambung-penyambungnya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:11.486799806Z",
+  "model": "glm-5.2"
+}

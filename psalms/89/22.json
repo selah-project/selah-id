@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Yang bersama dia tangan-Ku ⟨akan⟩ tegak, bahkan lengan-Ku ⟨akan⟩ menguatkan dia.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-Ku"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "tegak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama dia"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "lengan-Ku"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "menguatkan dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:27.543426009Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan mereka memberikan kepada mereka ⟨את⟩ kota perlindungan ⟨bagi⟩ pembunuh, ⟨את⟩ Shekhem dan ⟨את⟩ tanah penggembalaannya, di pegunungan Efrayim, dan ⟨את⟩ Gezer dan ⟨את⟩ tanah penggembalaannya.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dan mereka memberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota perlindungan bagi pembunuh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pembunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:50:56.760394896Z",
+  "model": "glm-5.2"
+}

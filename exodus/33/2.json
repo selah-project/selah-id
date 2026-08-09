@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "“Dan Aku akan mengutus seorang mal'akh di hadapanmu, dan Aku akan mengusir ⟨את⟩ orang Kena'an, ⟨את⟩ orang Emori, dan ⟨את⟩ orang Chiti, dan ⟨את⟩ orang Prizi, ⟨את⟩ orang Chiwi, dan ⟨את⟩ orang Yevusi.”",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Dan Aku akan mengutus"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "seorang mal'akh"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "dan Aku akan mengusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Kena'an, orang Emori, dan orang Chiti, dan orang Prizi, orang Chiwi, dan orang Yevusi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kena'an"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dan orang Chiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan orang Prizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "orang Chiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan orang Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:29.426872675Z",
+  "model": "glm-5.2"
+}

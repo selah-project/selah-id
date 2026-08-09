@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "raja Yerushalayim, satu; raja Hevron, satu;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:53.592764859Z",
+  "model": "glm-5.2"
+}

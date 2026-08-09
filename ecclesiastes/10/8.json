@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Siapa menggali lubang akan jatuh ke dalamnya, dan siapa merobohkan pagar, ular akan memagatnya.",
+  "tokens": [
+    {
+      "surface": "חֹפֵ֥ר",
+      "gloss": "siapa menggali"
+    },
+    {
+      "surface": "גּוּמָּ֖ץ",
+      "gloss": "lubang"
+    },
+    {
+      "surface": "בּ֣וֹ",
+      "gloss": "ke dalamnya"
+    },
+    {
+      "surface": "יִפּ֑וֹל",
+      "gloss": "akan jatuh"
+    },
+    {
+      "surface": "וּפֹרֵ֥ץ",
+      "gloss": "dan siapa merobohkan"
+    },
+    {
+      "surface": "גָּדֵ֖ר",
+      "gloss": "pagar"
+    },
+    {
+      "surface": "יִשְּׁכֶ֥נּוּ",
+      "gloss": "akan memagatnya"
+    },
+    {
+      "surface": "נָחָֽשׁ",
+      "gloss": "ular"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:50.007585649Z",
+  "model": "glm-5.2"
+}

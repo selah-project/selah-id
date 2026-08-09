@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Maka berangkatlah Yisra'el dan segala yang menjadi miliknya, dan datang ke Be'er-Sheva, dan menyembelih korban-korban kepada Elohim ayahnya, yaitu Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Maka berangkatlah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "menjadi miliknya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "ke Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "korban-korban"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:28:09.106799187Z",
+  "model": "glm-5.2"
+}

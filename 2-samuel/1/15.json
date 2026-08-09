@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Dawid memanggil salah satu dari ⟨para⟩ bujang-bujang itu dan berkata, “Mendekatlah, seranglah dia.” Maka ia memukul dia, dan ia mati.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu memanggil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "salah satu"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "dari bujang-bujang itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Mendekatlah"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "seranglah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "Maka ia memukul dia"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan ia mati"
+    }
+  ],
+  "timestamp": "2026-08-08T10:58:00.097573816Z",
+  "model": "glm-5.2"
+}

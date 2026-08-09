@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Ia akan menerima berkat dari hadapan Yahweh, dan kebenaran dari Elohim keselamatannya.",
+  "tokens": [
+    {
+      "surface": "יִשָּׂ֣א",
+      "gloss": "ia akan menerima"
+    },
+    {
+      "surface": "בְ֭רָכָה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "מֵאֵ֣ת",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּ֝צְדָקָ֗ה",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "מֵאֱלֹהֵ֥י",
+      "gloss": "dari Elohim"
+    },
+    {
+      "surface": "יִשְׁעֽוֹ",
+      "gloss": "keselamatannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:53.087280218Z",
+  "model": "glm-5.2"
+}

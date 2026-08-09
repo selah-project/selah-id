@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Sebab Yahweh akan menghakimi umat-Nya, dan terhadap hamba-hamba-Nya ⟨Ia⟩ akan terhibur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "akan menghakimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hamba-Nya"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "akan terhibur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:55.176700402Z",
+  "model": "glm-5.2"
+}

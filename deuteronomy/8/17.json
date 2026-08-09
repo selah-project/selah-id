@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "dan engkau berkata dalam hatimu: kekuatanku dan keperkasaan tanganku yang membuat ⟨bagiku⟩ ⟨את⟩ kekayaan ini —",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "dan engkau berkata"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dalam hatimu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "dan keperkasaan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang membuat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨bagiku⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekayaan ini"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T10:45:51.435822986Z",
+  "model": "glm-5.2"
+}

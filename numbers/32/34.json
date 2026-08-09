@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan bani Gad membangun ⟨את⟩ Dibon dan ⟨את⟩ Atarot dan ⟨את⟩ Aroer.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "Dan membangun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aroer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    }
+  ],
+  "timestamp": "2026-08-08T07:22:54.038626278Z",
+  "model": "glm-5.2"
+}

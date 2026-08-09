@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 70,
+  "translation": "Biarlah mereka berbalik karena rasa malu, ⟨mereka⟩ yang mengatakan, “Hah, hah!”",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "biarlah mereka berbalik"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "karena"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "rasa malu"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yang mengatakan"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:54.308061379Z",
+  "model": "glm-5.2"
+}

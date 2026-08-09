@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Kembalilah, Yahweh, luputkanlah napasku; selamatkanlah aku demi hesed-Mu.",
+  "tokens": [
+    {
+      "surface": "שׁוּבָ֣ה",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חַלְּצָ֣ה",
+      "gloss": "luputkanlah"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "ה֝וֹשִׁיעֵ֗נִי",
+      "gloss": "selamatkanlah aku"
+    },
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "demi"
+    },
+    {
+      "surface": "חַסְדֶּֽךָ",
+      "gloss": "hesed-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:44.039454843Z",
+  "model": "glm-5.2"
+}

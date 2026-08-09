@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Dan musuhku ⟨yang⟩ hidup menjadi kuat; dan mereka yang membenciku dengan kebohongan bertambah banyak.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Dan musuhku"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "menjadi kuat"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dan bertambah banyak"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "mereka yang membenciku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dengan kebohongan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:09.460465198Z",
+  "model": "glm-5.2"
+}

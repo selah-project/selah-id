@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "yang Ia memotong ⟨את⟩ dengan Avraham, dan shavu'ah-Nya kepada Yitschaq,",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כָּרַת֙",
+      "gloss": "Ia memotong"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dengan Avraham"
+    },
+    {
+      "surface": "אַבְרָהָ֔ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וּשְׁבוּעָת֖וֹ",
+      "gloss": "dan shavu'ah-Nya"
+    },
+    {
+      "surface": "לְיִצְחָֽק",
+      "gloss": "kepada Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-08T10:07:14.020669267Z",
+  "model": "glm-5.2"
+}

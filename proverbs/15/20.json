@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Anak yang bijak menyukakan ayah, tetapi orang bodoh menghina ibunya.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yang bijak"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "menyukakan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "tetapi orang bodoh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "menghina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:13.066197778Z",
+  "model": "glm-5.2"
+}

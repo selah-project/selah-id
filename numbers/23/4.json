@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan Elohim menemui Bilam, dan ⟨ia⟩ berkata kepadanya, “Tujuh mezbah telah kususun, dan seekor lembu jantan dan seekor domba jantan kupersembahkan di atas mezbah.”",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Dan menemui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh mezbah"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "mezbah-mezbah"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "telah kususun"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "dan kupersembahkan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "seekor lembu jantan"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "dan seekor domba jantan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "di atas mezbah"
+    }
+  ],
+  "timestamp": "2026-08-08T23:18:37.852394859Z",
+  "model": "glm-5.2"
+}

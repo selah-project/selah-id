@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 113,
+  "translation": "Dari terbitnya matahari sampai kepada tempat terbenamnya, terpujilah nama Yahweh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "dari terbitnya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "kepada tempat terbenamnya"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "terpujilah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:56.376305512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu Paroh mendengar ⟨את⟩ perkara ini dan berusaha membunuh ⟨את⟩ Mosheh, maka Mosheh melarikan diri dari hadapan Paroh dan diam di negeri Midyan, dan ia tinggal dekat sumur itu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lalu mendengar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "dan berusaha"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "maka melarikan diri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan diam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan tinggal"
+    },
+    {
+      "surface": "על",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "sumur itu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:10:12.914134765Z",
+  "model": "glm-5.2"
+}

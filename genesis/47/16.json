@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Maka berkatalah Yosef, “Berikanlah ternakmu, maka aku akan memberi ⟨makanan⟩ bagimu dengan ⟨menukar⟩ ternakmu, jika perak telah habis.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maka berkatalah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Berikanlah"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "ternakmu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "maka aku akan memberi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "dengan ternakmu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "telah habis"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:28:24.347939844Z",
+  "model": "glm-5.2"
+}

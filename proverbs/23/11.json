@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Sebab penebus mereka kuat, Dia akan memperkarakan ⟨את⟩ perkara mereka bersama engkau.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "penebus mereka"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "akan memperkarakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara mereka"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "perkara mereka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersama engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:46.820692027Z",
+  "model": "glm-5.2"
+}

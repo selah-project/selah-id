@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Pada-Mu bapa-bapa kami percaya; mereka percaya, dan Engkau meluputkan mereka.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "mereka percaya"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "dan Engkau meluputkan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:58.680736753Z",
+  "model": "glm-5.2"
+}

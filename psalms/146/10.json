@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 146,
+  "translation": "Yahweh akan memerintah untuk selamanya, Elohim-mu, hai Tziyon, dari angkatan ke angkatan. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dari angkatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ke angkatan"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:39.230735147Z",
+  "model": "glm-5.2"
+}

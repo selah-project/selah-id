@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 11:19",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka mendapatlah Hadad kasih karunia di mata Paro sangat, sehingga ⟨ia⟩ memberi kepadanya seorang istri ⟨את⟩ saudari istri ⟨Paro⟩ sendiri, saudari Takhpenis sang istri utama.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "maka mendapatlah"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "sehingga ⟨ia⟩ memberi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang istri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudari"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "saudari"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "istri ⟨Paro⟩ sendiri"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "saudari"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Takhpenis"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "sang istri utama"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:53.368266726Z",
+  "model": "glm-5.2"
+}

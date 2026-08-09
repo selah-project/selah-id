@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan setiap orang yang menyentuh segala sesuatu yang ⟨pernah⟩ ada di bawahnya menjadi tuma sampai petang; dan orang yang mengangkut ⟨את⟩ benda-benda itu harus mencuci pakaiannya dan membasuh diri dalam air dan menjadi tuma sampai petang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sesuatu yang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨pernah⟩ ada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "di bawahnya"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menjadi tuma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "dan orang yang mengangkut"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "benda-benda itu"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "harus mencuci"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan membasuh diri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan menjadi tuma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "petang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:53.671390108Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 5:21",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan jangan kauingini ⟨אֵשֶׁת⟩ istri rekanmu, dan jangan kaudambakan ⟨בֵּית⟩ rumah rekanmu, padangnya, dan hambanya, dan hambanya, lembunya, dan keledainya, dan segala sesuatu yang bagi rekanmu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan jangan"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "kauingini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨את⟩ istri"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "rekanmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תתאוה",
+      "gloss": "kaudambakan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨את⟩ rumah"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "rekanmu"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "padangnya"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "dan hambanya"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "dan hambanya"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "lembunya"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "dan keledainya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sesuatu yang"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "bagi rekanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:25:50.316326569Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Ketika si pencemooh dihukum, si sederhana menjadi bijak, dan ketika si bijak diberi pengertian, ia menerima pengetahuan.",
+  "tokens": [
+    {
+      "surface": "בענשׁ",
+      "gloss": "Ketika … dihukum"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "si pencemooh"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "menjadi bijak"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "si sederhana"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "dan ketika … diberi pengertian"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "si bijak"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ia menerima"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:11.695004452Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Maka Mosheh melakukan persis seperti yang Yahweh perintahkan ⟨את⟩ dia, dan jemaah berkumpul di pintu Kemah Pertemuan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Maka melakukan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "perintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "dan berkumpul"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    }
+  ],
+  "timestamp": "2026-08-08T18:23:57.726134800Z",
+  "model": "glm-5.2"
+}

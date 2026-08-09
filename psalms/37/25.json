@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Seorang anak muda aku pernah ⟨adalah⟩, juga aku telah menua, dan tidak aku melihat seorang tsadik ditinggalkan, atau keturunannya mencari roti.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "anak muda"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku pernah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "aku telah menua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "seorang tsadik"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "ditinggalkan"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "atau keturunannya"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:42.883332973Z",
+  "model": "glm-5.2"
+}

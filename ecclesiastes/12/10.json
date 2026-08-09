@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Qohelet berusaha mencari kata-kata yang menyenangkan, dan yang tertulis ⟨adalah⟩ tegak — kata-kata kebenaran.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "berusaha"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kata-kata"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yang menyenangkan"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "dan yang tertulis"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "tegak"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kata-kata"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:37.529061399Z",
+  "model": "glm-5.2"
+}

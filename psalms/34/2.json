@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Aku akan memberkati ⟨את⟩ Yahweh pada segala waktu; segala masa pujian ⟨miliknya⟩ di dalam mulutku.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Aku akan memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pada segala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "segala masa"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian ⟨miliknya⟩"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di dalam mulutku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:04.211451883Z",
+  "model": "glm-5.2"
+}

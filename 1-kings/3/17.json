@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu berkatalah perempuan yang satu, “Oh, tuanku, aku dan perempuan ini diam di satu rumah, dan aku melahirkan bersama dia di rumah.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "oh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "dan perempuan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "dan aku melahirkan"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bersama dia"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    }
+  ],
+  "timestamp": "2026-08-08T08:00:53.594125577Z",
+  "model": "glm-5.2"
+}

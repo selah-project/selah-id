@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Akankah manusia merampok Elohim? Karena kamu merampok ⟨את⟩-Ku. Dan kamu berkata, 'Dalam hal bagaimanakah kami merampok Engkau?' Dalam persembahan persepuluhan dan dalam persembahan khusus.",
+  "tokens": [
+    {
+      "surface": "הֲיִקְבַּ֨ע",
+      "gloss": "Akankah merampok"
+    },
+    {
+      "surface": "אָדָ֜ם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "אַתֶּם֙",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "קֹבְעִ֣ים",
+      "gloss": "merampok"
+    },
+    {
+      "surface": "אֹתִ֔י",
+      "gloss": "⟨את⟩",
+      "marks": "-Ku"
+    },
+    {
+      "surface": "וַאֲמַרְתֶּ֖ם",
+      "gloss": "Dan kamu berkata"
+    },
+    {
+      "surface": "בַּמֶּ֣ה",
+      "gloss": "Dalam hal bagaimanakah"
+    },
+    {
+      "surface": "קְבַעֲנ֑וּךָ",
+      "gloss": "kami merampok Engkau"
+    },
+    {
+      "surface": "הַֽמַּעֲשֵׂ֖ר",
+      "gloss": "Dalam persembahan persepuluhan"
+    },
+    {
+      "surface": "וְהַתְּרוּמָֽה",
+      "gloss": "dan dalam persembahan khusus"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:13.294368092Z",
+  "model": "glm-5.2"
+}

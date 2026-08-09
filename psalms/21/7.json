@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Sebab Engkau menetapkan dia ⟨sebagai⟩ berkat-berkat untuk selamanya; Engkau menyukakan dia dengan sukacita ⟨dengan⟩ ⟨את⟩ hadirat-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "Engkau menetapkan dia"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "berkat-berkat"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "Engkau menyukakan dia"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "dengan sukacita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadirat-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hadirat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:15.942704677Z",
+  "model": "glm-5.2"
+}

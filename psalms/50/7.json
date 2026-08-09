@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Dengarlah, umat-Ku, dan aku akan berbicara; Yisra'el, dan aku akan menjadi saksi terhadap engkau; Elohim, Elohim-mu, ⟨adalah⟩ aku.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "dan aku akan berbicara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "dan aku akan menjadi saksi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "terhadap engkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:16.001708769Z",
+  "model": "glm-5.2"
+}

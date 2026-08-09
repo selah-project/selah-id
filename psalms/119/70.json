@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Tebal seperti lemak ⟨lah⟩ hati mereka; aku ⟨telah⟩ bersukaria dalam torat-Mu.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "tebal"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "seperti lemak"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "torat-Mu"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "bersukaria"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:40.315180939Z",
+  "model": "glm-5.2"
+}

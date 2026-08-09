@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Tanpa kesalahan, mereka berlari dan bersiap-siap, bangunlah untuk menemui aku dan lihatlah.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "mereka berlari"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "dan bersiap-siap"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "untuk menemui aku"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:31.305215798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan ⟨את⟩ Resen, antara Niniwe dan antara Kalakh — itulah kota yang besar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:06.430323058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Aku bersyukur kepada-Mu, sebab dahsyat aku dibuat berbeda; ajaib ⟨adalah⟩ perbuatan-Mu, dan napasku mengetahui ⟨itu⟩ sangat.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Aku bersyukur kepada-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dahsyat"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "aku dibuat berbeda"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "ajaib"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "dan napasku"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:09.449864010Z",
+  "model": "glm-5.2"
+}

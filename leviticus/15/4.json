@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Setiap tempat tidur yang berbarang di atasnya nazab itu menjadi najis; dan setiap benda yang dudang di atasnya menjadi najis.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Setiap"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "tempat tidur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "berbaring"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "nazab"
+    },
+    {
+      "surface": "ייטמא",
+      "gloss": "menjadi najis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "benda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "ייטמא",
+      "gloss": "menjadi najis"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:34.176183012Z",
+  "model": "glm-5.2"
+}

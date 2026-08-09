@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Berilah aku keadilan, ya Elohim, dan perjuangkanlah perkuku terhadap bangsa yang tidak ḥasid, dari laki-laki penipu dan kecurangan lepaskanlah aku.",
+  "tokens": [
+    {
+      "surface": "שָׁפְטֵ֤נִי",
+      "gloss": "berilah aku keadilan"
+    },
+    {
+      "surface": "אֱלֹהִ֨ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְרִ֘יבָ֤ה",
+      "gloss": "dan perjuangkanlah"
+    },
+    {
+      "surface": "רִיבִ֗י",
+      "gloss": "perkuku"
+    },
+    {
+      "surface": "מִגּ֥וֹי",
+      "gloss": "terhadap bangsa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חָסִ֑יד",
+      "gloss": "ḥasid"
+    },
+    {
+      "surface": "מֵ֤אִישׁ",
+      "gloss": "dari laki-laki"
+    },
+    {
+      "surface": "מִרְמָ֖ה",
+      "gloss": "penipu"
+    },
+    {
+      "surface": "וְעַוְלָ֣ה",
+      "gloss": "dan kecurangan"
+    },
+    {
+      "surface": "תְפַלְּטֵֽנִי",
+      "gloss": "lepaskanlah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:50.320210626Z",
+  "model": "glm-5.2"
+}

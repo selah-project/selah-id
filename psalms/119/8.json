@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "⟨את⟩ ketetapan-ketetapan-Mu aku akan jaga; jangan tinggalkan aku sama sekali.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-ketetapan-Mu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "aku akan jaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tinggalkan aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:42.236459303Z",
+  "model": "glm-5.2"
+}

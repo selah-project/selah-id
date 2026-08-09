@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Lalu berkatalah Dawid kepada Sha'ul: “Mengapakah engkau mendengarkan ⟨את⟩ perkataan manusia, yang mengatakan: Lihat, Dawid mencari celakamu?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Sha'ul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mengapakah"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "engkau mendengarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang mengatakan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "celakamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:14.419339944Z",
+  "model": "glm-5.2"
+}

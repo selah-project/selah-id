@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Juga kambing-dombamu, juga lembu sapimu, ambillah, seperti yang kamu katakan, dan pergilah; dan berkatilah juga aku.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "צֹאנְכֶ֨ם",
+      "gloss": "kambing-dombamu"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בְּקַרְכֶ֥ם",
+      "gloss": "lembu sapimu"
+    },
+    {
+      "surface": "קְח֛וּ",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "דִּבַּרְתֶּ֖ם",
+      "gloss": "kamu katakan"
+    },
+    {
+      "surface": "וָלֵ֑כוּ",
+      "gloss": "dan pergilah"
+    },
+    {
+      "surface": "וּבֵֽרַכְתֶּ֖ם",
+      "gloss": "dan berkatilah"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אֹתִֽי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T18:22:57.434058756Z",
+  "model": "glm-5.2"
+}

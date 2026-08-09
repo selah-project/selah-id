@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Lalu mereka berseru kepada Yahweh dalam kesesakan ⟨mereka⟩, dan dari kesulitan-kesulitan mereka ⟨Ia⟩ menyelamatkan mereka.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Lalu mereka berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "dari kesulitan-kesulitan mereka"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "⟨Ia⟩ menyelamatkan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:23.335519865Z",
+  "model": "glm-5.2"
+}

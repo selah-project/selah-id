@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 75,
+  "translation": "Jangan mengangkat ke tempat tinggi tandukmu; jangan berbicara dengan tengkuk yang tegang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ke tempat tinggi"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "tandukmu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "dengan tengkuk"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "yang tegang"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:54.586476467Z",
+  "model": "glm-5.2"
+}

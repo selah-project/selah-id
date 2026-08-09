@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Untuk sang dirigen; di atas \"Bunga-bunga Bakung.\" Untuk Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk sang dirigen"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "\"Bunga-bunga Bakung\""
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:18.266126232Z",
+  "model": "glm-5.2"
+}

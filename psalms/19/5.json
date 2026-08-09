@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Di seluruh bumi keluar ⟨garis⟩-⟨nya⟩, dan pada ujung dunia perkataan mereka; bagi matahari ⟨Ia⟩ memasang kemah di antara mereka.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "קום",
+      "gloss": "⟨garis⟩-⟨nya⟩"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "dan pada ujung"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "perkataan mereka"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "bagi matahari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨Ia⟩ memasang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antara mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:36.270653489Z",
+  "model": "glm-5.2"
+}

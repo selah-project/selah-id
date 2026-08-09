@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 85,
+  "translation": "Engkau berkenan kepada bumi-Mu, Yahweh; ⟨Engkau⟩ memulihkan keadaan tawanan Yaakob.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Engkau berkenan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "bumi-Mu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "⟨Engkau⟩ memulihkan"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "keadaan tawanan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:35.078337908Z",
+  "model": "glm-5.2"
+}

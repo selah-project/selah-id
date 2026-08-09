@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan ketika kamu makan dan ketika kamu minum, bukankah kamu ⟨sendiri⟩ ⟨yang⟩ memakannya, dan kamu ⟨sendiri⟩ ⟨yang⟩ meminumnya?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan ketika"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan ketika"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "kamu minum"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "⟨yang⟩ memakannya"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dan kamu"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "⟨yang⟩ meminumnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:04:37.628297100Z",
+  "model": "glm-5.2"
+}

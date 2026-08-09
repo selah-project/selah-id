@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Ganjaran kerendahan hati ⟨adalah⟩ takut akan Yahweh: kekayaan dan kemuliaan dan kehidupan.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ganjaran"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "kerendahan hati"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "takut akan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dan kemuliaan"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "dan kehidupan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:23.187937935Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 130,
+  "translation": "Napasku ⟨untuk⟩ Adonai, dari penjaga-penjaga ⟨yang menunggu⟩ pagi, penjaga-penjaga ⟨yang menunggu⟩ pagi.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "untuk Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "dari penjaga-penjaga"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "penjaga-penjaga"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:03.661329270Z",
+  "model": "glm-5.2"
+}

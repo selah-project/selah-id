@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 61,
+  "translation": "Untuk pemimpin paduan suara, dengan permainan gesek, oleh David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk pemimpin paduan suara"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "permainan gesek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oleh David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:32.543138318Z",
+  "model": "glm-5.2"
+}

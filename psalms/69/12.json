@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Dan aku menjadikan pakaianku kain karung, dan aku menjadi bagi mereka menjadi perumpamaan.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "dan aku menjadikan"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "pakaianku"
+    },
+    {
+      "surface": "שק",
+      "gloss": "kain karung"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "dan aku menjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "perumpamaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:52.734139234Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan engkau akan mengambil dari sana sedikit dalam jumlah, dan engkau akan mengikat mereka di lapik sayapmu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Dan engkau akan mengambil"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dalam jumlah"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "dan engkau akan mengikat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "lapik sayapmu"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "di lapik sayapmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:45:46.567982983Z",
+  "model": "glm-5.2"
+}

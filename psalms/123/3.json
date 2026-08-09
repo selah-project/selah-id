@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 123,
+  "translation": "Berbelas kasihanlah kepada kami, wahai Yahweh, berbelas kasihanlah kepada kami, sebab betapa banyak kami telah kenyang dengan penghinaan.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Berbelas kasihanlah kepada kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "berbelas kasihanlah kepada kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רב",
+      "gloss": "betapa banyak"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "kami telah kenyang"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "dengan penghinaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:44.055143605Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan para pejabat yang berdiri itu menyediakan ⟨את⟩ raja Shelomo dan ⟨את⟩ semua yang mendekati meja raja Shelomo, tiap bulannya; mereka tidak akan kekurangan suatu pun.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "dan menyediakan"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "para pejabat yang berdiri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja Shelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua yang mendekati meja raja Shelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yang mendekati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tiap"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "bulannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "akan kekurangan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "suatu pun"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:03.478484473Z",
+  "model": "glm-5.2"
+}

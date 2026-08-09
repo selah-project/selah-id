@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Uzi memperanakkan ⟨את⟩ Zerachyah, dan Zerachyah memperanakkan ⟨את⟩ Merayot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Dan Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachyah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachyah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "dan Zerachyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-08T10:03:49.706648014Z",
+  "model": "glm-5.2"
+}

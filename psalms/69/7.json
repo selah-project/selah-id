@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Janganlah mereka yang menanti-nantikan Engkau mendapat malu karena aku, Adonai Yahweh Tsvaot; janganlah mereka yang mencari Engkau mendapat terhina karena aku, Elohim Yisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mereka mendapat malu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "karena aku"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "mereka yang menanti-nantikan Engkau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "mereka mendapat terhina"
+    },
+    {
+      "surface": "בי",
+      "gloss": "karena aku"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "mereka yang mencari Engkau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:35.431911602Z",
+  "model": "glm-5.2"
+}

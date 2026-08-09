@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "“Kamu telah melihat apa yang Kulakukan kepada Mitsrayim, dan Aku menanggung kamu ⟨את⟩ di atas sayap-sayap nsharim, dan Aku membawa kamu ⟨את⟩ kepada-Ku.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Kamu"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Kulakukan"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kepada Mitsrayim"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "dan Aku menanggung"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sayap-sayap"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "nsharim"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "dan Aku membawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:04.922688772Z",
+  "model": "glm-5.2"
+}

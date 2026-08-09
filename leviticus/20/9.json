@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Karena setiap orang yang mengutuk ⟨את⟩ ayahnya dan ⟨את⟩ ibunya pasti dihukum mati; ayahnya dan ibunya telah dikutuknya — darahnya ada padanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "mengutuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahnya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ibunya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dihukum mati"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "dan ibunya"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "telah dikutuknya"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ada padanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:17.460903325Z",
+  "model": "glm-5.2"
+}

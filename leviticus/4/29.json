@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ia harus meletakkan ⟨את⟩ tangannya ke atas kepala korban ḥattat, dan menyembelih ⟨את⟩ korban ḥattat itu di tempat ⟨korban⟩ olah.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "Dan ia harus meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban ḥattat"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban ḥattat itu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban ḥattat itu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban olah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:25.589911833Z",
+  "model": "glm-5.2"
+}

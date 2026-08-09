@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "dan Aku akan menjual ⟨את⟩ anak-anak lelaki kamu dan ⟨את⟩ anak-anak perempuan kamu ke tangan anak-anak Yehudah, dan mereka akan menjual mereka kepada orang-orang Sheva, kepada bangsa yang jauh, karena Yahweh telah berfirman.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "dan Aku akan menjual"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak lelaki kamu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak lelaki kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak perempuan kamu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "anak-anak perempuan kamu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke tangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "dan mereka akan menjual mereka"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "kepada orang-orang Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "yang jauh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    }
+  ],
+  "timestamp": "2026-08-08T08:58:32.263224901Z",
+  "model": "glm-5.2"
+}

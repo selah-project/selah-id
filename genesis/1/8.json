@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Elohim menamai cakrawala ⟨sebagai⟩ langit; dan jadilah petang, dan jadilah pagi: hari kedua.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu menamai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "cakrawala"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:56.109985704Z",
+  "model": "glm-5.2"
+}

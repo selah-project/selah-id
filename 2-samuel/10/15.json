@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan Aram melihat bahwa mereka telah terpukul di hadapan Yisra'el, maka mereka berkumpul bersama-sama.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan (ia) melihat"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "(mereka telah) terpukul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "maka mereka berkumpul"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:33.414055112Z",
+  "model": "glm-5.2"
+}

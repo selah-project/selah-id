@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "dan ⟨את⟩ orang Arwadi, dan ⟨את⟩ orang Tzemari, dan ⟨את⟩ orang Chamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "orang Arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Tzemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "orang Tzemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Chamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "orang Chamati"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:28.655001859Z",
+  "model": "glm-5.2"
+}

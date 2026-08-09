@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 13:9",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Lalu Yehoahaz tidur bersama bapa-bapanya, dan mereka menguburkan dia di Shomron, dan Yoash anaknya menjadi raja menggantikan dia.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Lalu tidur"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "dan mereka menguburkan dia"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan menjadi raja"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikan dia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:16.149762663Z",
+  "model": "glm-5.2"
+}

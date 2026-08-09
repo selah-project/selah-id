@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Seapi cemburu rumah-Mu memakan aku, dan cemoohan-cemohan pencemooh-Mu jatuh ke atasku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "cemburu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "memakan aku"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "dan cemoohan-cemoohan"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "pencemooh-Mu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:52.733867501Z",
+  "model": "glm-5.2"
+}

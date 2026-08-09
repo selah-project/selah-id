@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Aku akan mencerai-beraikan ⟨את⟩ Mitsrayim di antara bangsa-bangsa, dan aku akan menyerakkan mereka di tanah-tanah.",
+  "tokens": [
+    {
+      "surface": "וַהֲפִצוֹתִ֥י",
+      "gloss": "dan aku akan mencerai-beraikan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מִצְרַ֖יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בַּגּוֹיִ֑ם",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "וְזֵרִיתִ֖ם",
+      "gloss": "dan aku akan menyerakkan mereka"
+    },
+    {
+      "surface": "בָּאֲרָצֽוֹת",
+      "gloss": "di tanah-tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T13:03:12.136591715Z",
+  "model": "glm-5.2"
+}

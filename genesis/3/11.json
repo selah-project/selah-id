@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨dia⟩ berkata, “Siapakah yang memberitahukan kepadamu bahwa telanjang engkau? Apakah dari pohon yang kuperintahkan kepadamu supaya tidak makan daripadanya, ⟨kau⟩ telah makan?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "yang memberitahukan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Apakah dari"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "kuperintahkan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "⟨kau⟩ telah makan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:19.325570791Z",
+  "model": "glm-5.2"
+}

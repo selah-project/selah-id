@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Jagalah ⟨את⟩ hari shabbat untuk menguduskannya, seperti yang diperintahkan kepadamu oleh Yahweh Elohim-⟨mu⟩.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Jagalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "untuk menguduskannya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "diperintahkan kepadamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-⟨mu⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T07:25:39.675086171Z",
+  "model": "glm-5.2"
+}

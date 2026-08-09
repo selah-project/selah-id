@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Dan sekarang, apa yang kutunggu, Adonai? harapanku ⟨adalah⟩ kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "kutunggu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "harapanku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨adalah⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:23.348732044Z",
+  "model": "glm-5.2"
+}

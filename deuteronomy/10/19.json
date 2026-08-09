@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan kamu akan mengasihi ⟨את⟩ sang pendatang, karena pendatang-pendatang kamu ⟨telah menjadi⟩ di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "dan kamu akan mengasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang pendatang"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sang pendatang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "pendatang-pendatang"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamu telah menjadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:05.783969616Z",
+  "model": "glm-5.2"
+}

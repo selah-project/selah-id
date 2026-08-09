@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Aku melihat pengkhianat-pengkhianat dan merasa jijik, bahwa firman-Engkau tidak mereka pelihara.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku melihat"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "pengkhianat-pengkhianat"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "dan merasa jijik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "firman-Engkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mereka pelihara"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:44.651027809Z",
+  "model": "glm-5.2"
+}

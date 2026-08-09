@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan Yahweh meneguhkan ⟨את⟩ hati Paroh, dan ⟨dia⟩ tidak mau melepaskan mereka.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Dan meneguhkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "mau"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "melepaskan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:25.657505506Z",
+  "model": "glm-5.2"
+}

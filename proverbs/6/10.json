@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Sedikit tidur, sedikit mengantuk, sedakit pelukan tangan untuk berbaring.",
+  "tokens": [
+    {
+      "surface": "מְעַ֣ט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "שֵׁ֭נוֹת",
+      "gloss": "tidur"
+    },
+    {
+      "surface": "מְעַ֣ט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "תְּנוּמ֑וֹת",
+      "gloss": "mengantuk"
+    },
+    {
+      "surface": "מְעַ֓ט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "חִבֻּ֖ק",
+      "gloss": "pelukan"
+    },
+    {
+      "surface": "יָדַ֣יִם",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "לִשְׁכָּֽב",
+      "gloss": "untuk berbaring"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:56.575352415Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Diamlah kepada Yahweh dan nantikanlah ⟨dia⟩; jangan berpanas hati terhadap ⟨orang⟩ yang berhasil dalam jalannya, terhadap ⟨orang⟩ yang melakukan rancangan kejahatan.",
+  "tokens": [
+    {
+      "surface": "דּ֤וֹם",
+      "gloss": "diamlah"
+    },
+    {
+      "surface": "לַיהוָה֮",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "וְהִתְח֪וֹלֵ֫ל",
+      "gloss": "dan nantikanlah"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תִּ֭תְחַר",
+      "gloss": "berpanas hati"
+    },
+    {
+      "surface": "בְּמַצְלִ֣יחַ",
+      "gloss": "terhadap ⟨orang⟩ yang berhasil"
+    },
+    {
+      "surface": "דַּרְכּ֑וֹ",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "בְּ֝אִ֗ישׁ",
+      "gloss": "terhadap ⟨orang⟩"
+    },
+    {
+      "surface": "עֹשֶׂ֥ה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "מְזִמּֽוֹת",
+      "gloss": "rancangan kejahatan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:11.312529706Z",
+  "model": "glm-5.2"
+}

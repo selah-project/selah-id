@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan kamu harus menyediakan pada hari kamu mengoyak-goyangkan ⟨את⟩ berkas itu: seekor domba jantan yang sempurna berumur setahun, sebagai persembahan bakaran bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Dan kamu harus menyediakan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "kamu mengoyak-goyangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkas itu"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "berkas itu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yang sempurna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "setahun"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "sebagai persembahan bakaran"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:32.319960195Z",
+  "model": "glm-5.2"
+}

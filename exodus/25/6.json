@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "minyak untuk penerangan, bumbu-bumbu untuk minyak pengurapan, dan untuk ukupan rempah-rempah",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "untuk penerangan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bumbu-bumbu"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "untuk minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pengurapan"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "dan untuk ukupan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah-rempah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:52.916849681Z",
+  "model": "glm-5.2"
+}

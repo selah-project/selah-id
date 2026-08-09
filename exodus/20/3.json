@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Tidak akan ada bagimu elohim-elohim lain di hadapan-Ku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim-elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:21.478720699Z",
+  "model": "glm-5.2"
+}

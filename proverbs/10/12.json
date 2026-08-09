@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Kebencian membangkitkan perselisihan, tetapi atas segala pelanggaran ⟨kasih⟩ menutupi.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "Kebencian"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "membangkitkan"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "perselisihan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "tetapi atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "pelanggaran"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "menutupi"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kasih"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:38.254471718Z",
+  "model": "glm-5.2"
+}

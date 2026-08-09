@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan seluruh ⟨hal⟩ rakyat melihat ⟨את⟩ suara-suara itu dan ⟨את⟩ suluh-suluh itu dan ⟨את⟩ suara sangkakala itu dan ⟨את⟩ gunung yang berasap itu, lalu rakyat itu melihatnya, dan mereka gemetar, dan mereka berdiri dari jauh.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨hal⟩ rakyat"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara-suara itu"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "suara-suara itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "suluh-suluh itu"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "suluh-suluh itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "suara sangkakala itu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "sangkakala itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "gunung yang berasap itu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "yang berasap"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lalu melihat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "dan mereka gemetar"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dan mereka berdiri"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dari jauh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:24.481546028Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan pada hari kedelapan, sunatlah dilakukan kepada kulit kudupnya.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "dan pada hari"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ke-delapan"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "sunatlah dilakukan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "kudupnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:38.186618061Z",
+  "model": "glm-5.2"
+}

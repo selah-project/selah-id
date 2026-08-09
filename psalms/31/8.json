@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Aku akan bersukaria dan bersukacita dalam hesed-Mu, yang telah melihat ⟨את⟩ penderitaanku; Engkau telah mengetahui dalam kesesakan napasku.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Aku akan bersukaria"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "dan bersukacita"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "dalam hesed-Mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penderitaanku"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "penderitaanku"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Engkau telah mengetahui"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:30.610355559Z",
+  "model": "glm-5.2"
+}

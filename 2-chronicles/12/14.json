@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan ia melakukan ⟨yang⟩ jahat, sebab ia tidak menetapkan hatinya untuk mencari ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan melakukan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "menetapkan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "untuk mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:27:57.675829976Z",
+  "model": "glm-5.2"
+}

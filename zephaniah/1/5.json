@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ⟨את⟩ orang-orang yang sujud di atas atap-atap kepada tentara langit, dan ⟨את⟩ orang-orang yang sujud, yang bersumpah kepada Yahweh, dan yang bersumpah oleh Malkam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang sujud"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "orang-orang yang sujud"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "atap-atap"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kepada tentara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang sujud"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "orang-orang yang sujud"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "yang bersumpah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "dan yang bersumpah"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "oleh Malkam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:03:11.747195680Z",
+  "model": "glm-5.2"
+}

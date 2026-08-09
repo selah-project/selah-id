@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Bukankah Elohim akan menyelidiki hal ini? Sebab ⟨dia⟩ mengetahui rahasia-rahasia hati.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "akan menyelidiki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "rahasia-rahasia"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:01.711229890Z",
+  "model": "glm-5.2"
+}

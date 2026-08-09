@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Mazmur bagi Dawid. Milik Yahweh ⟨adalah⟩ bumi dan kepenuhannya; ⟨juga⟩ dunia dan mereka yang diam di dalamnya.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Milik Yahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "dan kepenuhannya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "dan mereka yang diam"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:20.177809277Z",
+  "model": "glm-5.2"
+}

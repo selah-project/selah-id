@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan anak itu bertumbuh besar dan disapih; dan Avraham membuat perjamuan besar pada hari penyapihan ⟨את⟩ Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Dan bertumbuh besar"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "dan disapih"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "perjamuan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "penyapihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:56.870959094Z",
+  "model": "glm-5.2"
+}

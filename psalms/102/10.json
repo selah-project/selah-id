@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Karena abu seperti roti telah kumakan, dan minumanku dengan tangisan telah kucampur.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "אֵ֭פֶר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "כַּלֶּ֣חֶם",
+      "gloss": "seperti roti"
+    },
+    {
+      "surface": "אָכָ֑לְתִּי",
+      "gloss": "telah kumakan"
+    },
+    {
+      "surface": "וְ֝שִׁקֻּוַ֗י",
+      "gloss": "dan minumanku"
+    },
+    {
+      "surface": "בִּבְכִ֥י",
+      "gloss": "dengan tangisan"
+    },
+    {
+      "surface": "מָסָֽכְתִּי",
+      "gloss": "telah kucampur"
+    }
+  ],
+  "timestamp": "2026-08-08T13:10:58.179138436Z",
+  "model": "glm-5.2"
+}

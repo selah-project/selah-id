@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Seperti air aku telah dicurahkan, dan terpisahlah segala tulangku, ⟨adalah⟩ hatiku seperti lilin, meleleh di tengah perutku.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "seperti air"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "aku telah dicurahkan"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "dan terpisahlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "tulangku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨adalah⟩"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "seperti lilin"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "meleleh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "perutku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:09.003797624Z",
+  "model": "glm-5.2"
+}

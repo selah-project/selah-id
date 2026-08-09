@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Janda, dan perempuan yang diceraikan, dan perempuan yang ternoda, pelacur — ⟨את⟩ ini tidak boleh diambilnya; melainkan perawan dari antara kaum-nya ⟨dia⟩ akan mengambil ⟨sebagai⟩ perempuan.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "janda"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "dan perempuan yang diceraikan"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "dan perempuan yang ternoda"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "pelacur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "boleh diambil-nya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(melainkan)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(hanya)"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "perawan"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "dari antara kaum-nya"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akan mengambil"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:02.522906211Z",
+  "model": "glm-5.2"
+}

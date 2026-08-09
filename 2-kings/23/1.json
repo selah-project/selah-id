@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu raja menyuruh orang, dan mereka mengumpulkan kepadanya semua tua-tua Yehudah dan Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu menyuruh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "dan mereka mengumpulkan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T08:14:59.897084943Z",
+  "model": "glm-5.2"
+}

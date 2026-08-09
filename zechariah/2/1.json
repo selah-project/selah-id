@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu kuangkat ⟨את⟩ mataku dan kulihat, dan lihatlah, empat tanduk.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Lalu kuangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "dan kulihat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduk"
+    }
+  ],
+  "timestamp": "2026-08-08T12:22:45.523365146Z",
+  "model": "glm-5.2"
+}

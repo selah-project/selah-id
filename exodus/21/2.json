@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Apabila kau beli ⟨seorang⟩ budak Ibrani, enam tahun ia akan bekerja, dan pada tahun ketujuh ia akan keluar merdeka tanpa bayaran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "kau beli"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "budak"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ibrani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ia akan bekerja"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "dan pada tahun ketujuh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ia akan keluar"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "merdeka"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa bayaran"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:37.757385062Z",
+  "model": "glm-5.2"
+}

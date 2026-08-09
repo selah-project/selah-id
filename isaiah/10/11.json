@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Bukankah seperti yang telah kulakukan kepada Shomron dan kepada elil-elilnya, demikianlah akan kulakukan kepada Yerushalayim dan kepada berhala-berhalanya?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "telah kulakukan"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "kepada Shomron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "dan kepada elil-elilnya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan kulakukan"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kepada Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "dan kepada berhala-berhalanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:09:56.352986032Z",
+  "model": "glm-5.2"
+}

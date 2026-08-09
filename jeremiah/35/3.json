@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Maka aku mengambil ⟨את⟩ Yaazanyah bin Yirmeyahu bin Khavatsanyah, dan ⟨את⟩ saudara-saudaranya, dan ⟨את⟩ seluruh anak-anaknya, dan ⟨את⟩ seluruh bait keluarga Rekhab.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Maka aku mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Khavatsanyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh anak-anaknya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh bait keluarga Rekhab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait keluarga"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Rekhab"
+    }
+  ],
+  "timestamp": "2026-08-08T08:39:02.625948687Z",
+  "model": "glm-5.2"
+}

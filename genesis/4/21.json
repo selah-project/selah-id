@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan nama saudaranya: Yaval — ⟨dialah⟩ ⟨yang menjadi⟩ bapa segala pemegang kinor dan ugav.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dialah⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨yang menjadi⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "pemegang"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "dan ugav"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:43.777335779Z",
+  "model": "glm-5.2"
+}

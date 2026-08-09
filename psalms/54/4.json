@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Ya Elohim, dengarkan doaku, berilah telinga kepada perkataan mulutku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarkan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "berilah telinga"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kepada perkataan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:54.792049348Z",
+  "model": "glm-5.2"
+}

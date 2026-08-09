@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Pujilah Yah, sebab baik Yahweh; mazmurkanlah bagi nama-Nya, sebab ⟨itu⟩ menyenangkan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mazmurkanlah"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "bagi nama-Nya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "menyenangkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:35.812881383Z",
+  "model": "glm-5.2"
+}

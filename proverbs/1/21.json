@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Di kepala keramaian ramai ⟨dia⟩ berseru, di pintu-pintu gerbang, di kota ⟨dia⟩ mengucapkan perkataan-perkataannya:",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "Di kepala"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "keramaian ramai"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "⟨dia⟩ berseru"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "di pintu-pintu"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gerbang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "perkataan-perkataannya"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "⟨dia⟩ mengucapkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:13.581737479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Milik-Mu hari, juga milik-Mu malam; Engkau menetapkan ⟨את⟩ cahaya dan ⟨את⟩ matahari.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Milik-Mu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Milik-Mu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "menetapkan"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "dan matahari"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:22.021590729Z",
+  "model": "glm-5.2"
+}

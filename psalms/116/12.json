@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 116,
+  "translation": "Apa yang aku kembalikan kepada Yahweh, segala kebaikan-Nya atasku?",
+  "tokens": [
+    {
+      "surface": "מָֽה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "אָשִׁ֥יב",
+      "gloss": "yang aku kembalikan"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תַּגְמוּל֥וֹהִי",
+      "gloss": "kebaikan-Nya"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "atasku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:32.251130747Z",
+  "model": "glm-5.2"
+}

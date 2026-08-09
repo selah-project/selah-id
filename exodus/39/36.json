@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "⟨את⟩ meja itu, ⟨את⟩ segala perkakasnya, dan ⟨את⟩ roti hadapan itu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja itu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkakasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "roti hadapan itu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "hadapan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:26.421736795Z",
+  "model": "glm-5.2"
+}

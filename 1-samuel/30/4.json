@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Maka Dawid dan rakyat yang bersamanya mengangkat ⟨את⟩ suara mereka dan menangis, sampai tidak ada lagi pada mereka kekuatan untuk menangis.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Maka mengangkat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "dan rakyat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara mereka"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suara mereka"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "dan menangis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada lagi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pada mereka"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "untuk menangis"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:27.957594990Z",
+  "model": "glm-5.2"
+}

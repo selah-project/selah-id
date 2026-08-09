@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan berkatalah raja kepada Tsadok: \"Kembalikanlah ⟨את⟩ tabut Elohim ke kota. Jika aku mendapat kasih karunia di mata Yahweh, maka Ia akan mengembalikan aku dan menunjukkan kepadaku ⟨את⟩-nya dan ⟨את⟩ tempat kediaman-Nya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "kepada Tsadok"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Kembalikanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ke kota"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "aku mendapat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "maka Ia akan mengembalikan aku"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "dan menunjukkan kepadaku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "tabut itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tempat kediaman-Nya"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "tempat kediaman-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:41.149628223Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan sebuah roh melintas di atas wajahku; berdiri tegak ⟨ia⟩ membuat bulu kebadanku.",
+  "tokens": [
+    {
+      "surface": "וְ֭רוּחַ",
+      "gloss": "dan sebuah roh"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פָּנַ֣י",
+      "gloss": "wajahku"
+    },
+    {
+      "surface": "יַחֲלֹ֑ף",
+      "gloss": "melintas"
+    },
+    {
+      "surface": "תְּ֝סַמֵּ֗ר",
+      "gloss": "berdiri tegak"
+    },
+    {
+      "surface": "שַֽׂעֲרַ֥ת",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "בְּשָׂרִֽי",
+      "gloss": "kebadanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:36:39.477486954Z",
+  "model": "glm-5.2"
+}

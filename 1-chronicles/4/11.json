@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Kelub saudara Shukhah memperanakkan ⟨את⟩ Mekhir; dialah ayah Esyton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Dan Kelub"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shukhah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mekhir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mekhir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Esyton"
+    }
+  ],
+  "timestamp": "2026-08-08T12:02:31.992979887Z",
+  "model": "glm-5.2"
+}

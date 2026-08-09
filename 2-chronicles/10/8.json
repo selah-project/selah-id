@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Tetapi ⟨ia⟩ meninggalkan ⟨את⟩ nasihat para tua-tua yang telah mereka nasihatkan kepadanya, lalu ia berkonsultasi dengan ⟨את⟩ anak-anak muda yang telah dibesarkan bersamanya, yang berdiri di hadapannya.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Tetapi meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasihat"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para tua-tua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "telah mereka nasihatkan kepadanya"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "lalu berkonsultasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak muda"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "anak-anak muda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "telah dibesarkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "yang berdiri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:13:04.489111067Z",
+  "model": "glm-5.2"
+}

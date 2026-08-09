@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu disentuhnya mulutku, dan ia berkata: “Lihat, ini telah menyentuh bibirmu, maka kesalahanmu telah berlalu dan dosamu telah ditebus.”",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Lalu disentuhnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "telah menyentuh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "bibirmu"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "maka ... telah berlalu"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "kesalahanmu"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "dan dosamu"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "telah ditebus"
+    }
+  ],
+  "timestamp": "2026-08-08T08:16:56.325269187Z",
+  "model": "glm-5.2"
+}

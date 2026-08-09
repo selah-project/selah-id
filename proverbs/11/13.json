@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Pembawa fitnah yang berjalan kian kemari membongkar rahasia, tetapi yang setia rohnya menutupi perkara.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "yang berjalan kian kemari"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "pembawa fitnah"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "membongkar"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "rahasia"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "tetapi yang setia"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rohnya"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "menutupi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:49.384038806Z",
+  "model": "glm-5.2"
+}

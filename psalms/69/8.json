@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Karena karena Engkau aku telah menanggung cela; rasa malu telah menutupi wajahku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "karena Engkau"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "aku telah menanggung"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "celaan"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "telah menutupi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "rasa malu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajahku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:35.432012319Z",
+  "model": "glm-5.2"
+}

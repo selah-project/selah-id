@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Apabila engkau melihat keledai milik orang yang membenci engkau rebahan di bawah bebannya, dan engkau berhenti meninggalkannya baginya — meninggalkan engkau harus meninggalkan bersamanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keledai"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "yang membenci engkau"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "rebahan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "bebannya"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "dan engkau berhenti"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "meninggalkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "meninggalkan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "engkau harus meninggalkan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:58.952612033Z",
+  "model": "glm-5.2"
+}

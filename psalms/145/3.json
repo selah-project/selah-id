@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Besar ⟨lah⟩ Yahweh dan sangat terpuji, dan kebesaran-Nya tidak ada batas ⟨yang dapat⟩ diselidiki.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "dan terpuji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "dan kebesaran-Nya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "batas diselidiki"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:29.364908321Z",
+  "model": "glm-5.2"
+}

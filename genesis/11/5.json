@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu turun Yahweh untuk melihat ⟨את⟩ kota dan ⟨את⟩ menara yang dibangun oleh anak-anak Adam.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Lalu turun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "menara"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "menara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dibangun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oleh anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:25.938803496Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "dan engkau berjalan di jalan raja-raja Yisrael, dan engkau membuat Yehudah dan penduduk Yerushalayim berzinah, seperti perzinaan bait Ahab, dan juga saudara-saudaramu, bait ayahmu, yang lebih baik daripadamu, telah kaubunuh —",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "dan engkau berjalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "dan engkau membuat berzinah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penduduk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "seperti perzinaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaramu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudara-saudaramu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "yang lebih baik"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripadamu"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "telah kaubunuh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:15:10.020790519Z",
+  "model": "glm-5.2"
+}

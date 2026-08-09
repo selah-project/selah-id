@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan bani Ammon melihat bahwa Aram telah melarikan diri, maka merekapun melarikan diri dari hadapan Avishai saudaranya, dan masuk ke dalam kota. Lalu Yoav masuk ke Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נס",
+      "gloss": "telah melarikan diri"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "maka merekapun melarikan diri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ke dalam kota"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lalu masuk"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:08:13.720946953Z",
+  "model": "glm-5.2"
+}

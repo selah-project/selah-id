@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Jangan takut, sebab Aku ⟨bersama⟩ engkau; dari timur Aku akan membawa keturunanmu, dan dari barat Aku akan mengumpulkan engkau.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תִּירָא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אִתְּךָ",
+      "gloss": "⟨bersama⟩ engkau"
+    },
+    {
+      "surface": "אָנִי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מִמִּזְרָח",
+      "gloss": "dari timur"
+    },
+    {
+      "surface": "אָבִיא",
+      "gloss": "Aku akan membawa"
+    },
+    {
+      "surface": "זַרְעֶךָ",
+      "gloss": "keturunanmu"
+    },
+    {
+      "surface": "וּמִמַּעֲרָב",
+      "gloss": "dan dari barat"
+    },
+    {
+      "surface": "אֲקַבְּצֶךָּ",
+      "gloss": "Aku akan mengumpulkan engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:43.164746277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Maka bani Yisrael yang hadir membuat ⟨את⟩ pesakh pada waktu itu, dan ⟨את⟩ hari raya roti tanpa ragi tujuh hari.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "maka membuat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "yang hadir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesakh"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hari raya roti tanpa ragi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "hari raya"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:02.658193003Z",
+  "model": "glm-5.2"
+}

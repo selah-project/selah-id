@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Aku ⟨adalah⟩ sang geber yang telah melihat sengsara oleh tongkat amarahnya.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "sang geber"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yang telah melihat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sengsara"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "oleh tongkat"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "amarahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:55.889075391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "⟨Ia⟩ melakukan kerelaan bagi yang takut kepada-Nya, dan ⟨את⟩ seruan mereka didengar-Nya, dan diselamatkan-Nyalah mereka.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "kerelaan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "yang takut kepada-Nya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨Ia⟩ melakukan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seruan mereka"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "seruan mereka"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "didengar-Nya"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "dan diselamatkan-Nyalah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:28.452624986Z",
+  "model": "glm-5.2"
+}

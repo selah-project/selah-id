@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Selamatkanlah, Yahweh, se orang חסיד telah berakhir, se yang setia telah lenyap dari antara anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "selamatkanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "telah berakhir"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "orang חסיד"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "telah lenyap"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "yang setia"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dari antara anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:46.260300947Z",
+  "model": "glm-5.2"
+}

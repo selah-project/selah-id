@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 87,
+  "translation": "dan para penyanyi seperti penari, “segala mata airku ⟨berada⟩ di dalam-Mu.”",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "dan para penyanyi"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "seperti penari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mata airku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:31.821714303Z",
+  "model": "glm-5.2"
+}

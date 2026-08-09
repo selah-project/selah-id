@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu aku memotong ⟨את⟩ tongkatku yang kedua, ⟨את⟩ \"Ikatan,\" untuk membatalkan ⟨את⟩ persaudaraan antara Yehudah dan antara Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "Lalu aku memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatku"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "tongkatku"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "\"Ikatan\""
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "\"Ikatan\""
+    },
+    {
+      "surface": "להפר",
+      "gloss": "untuk membatalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persaudaraan"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "persaudaraan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T09:05:47.800082569Z",
+  "model": "glm-5.2"
+}

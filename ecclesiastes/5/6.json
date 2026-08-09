@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Karena dalam banyaknya mimpi dan kefanaan serta banyak perkataan — tetapi ⟨engkau⟩ takutlah akan ⟨את⟩ Elohim!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dalam banyaknya"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "dan kefanaan"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "serta perkataan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takutlah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:13.525173923Z",
+  "model": "glm-5.2"
+}

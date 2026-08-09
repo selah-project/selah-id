@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "⟨Ia⟩ menghentikan peperangan sampai ujung bumi; busur ⟨dia⟩ patahkan, dan tombak ⟨dia⟩ potong; gerobak-gerobak ⟨dia⟩ bakar dengan api.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "menghentikan"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "⟨dia⟩ patahkan"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "dan ⟨dia⟩ potong"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tombak"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "gerobak-gerobak"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "⟨dia⟩ bakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:57.931810946Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Sepuluh hasta panjang ⟨ה⟩ papan itu, dan satu hasta setengah ⟨את⟩ lebar ⟨את⟩ satu papan.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan satu hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:35.711159469Z",
+  "model": "glm-5.2"
+}

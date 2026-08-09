@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Enam hari pekerjaan boleh dilakukan, tetapi pada hari ketujuh ⟨adalah⟩ shabbat shabbaton, miqra qodesh — segala pekerjaan tidak boleh kamu lakukan; shabbat ⟨itulah⟩ bagi Yahweh di seluruh tempat kediamanmu.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "boleh dilakukan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "tetapi pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "miqra"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "boleh kamu lakukan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itulah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "tempat kediamanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:37.114629202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Bernyanyilah bagi Yahweh nyanyian baru, pujian-Nya dari ujung bumi, ⟨kalian⟩ yang turun ke laut dan isinya, pulau-pulau dan penduduknya.",
+  "tokens": [
+    {
+      "surface": "שִׁ֤ירוּ",
+      "gloss": "bernyanyilah"
+    },
+    {
+      "surface": "לַֽיהוָה֙",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "שִׁ֣יר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חָדָ֔שׁ",
+      "gloss": "baru"
+    },
+    {
+      "surface": "תְּהִלָּת֖וֹ",
+      "gloss": "pujian-Nya"
+    },
+    {
+      "surface": "מִקְצֵ֣ה",
+      "gloss": "dari ujung"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יוֹרְדֵ֤י",
+      "gloss": "yang turun"
+    },
+    {
+      "surface": "הַיָּם֙",
+      "gloss": "laut"
+    },
+    {
+      "surface": "וּמְלֹא֔וֹ",
+      "gloss": "dan isinya"
+    },
+    {
+      "surface": "אִיִּ֖ים",
+      "gloss": "pulau-pulau"
+    },
+    {
+      "surface": "וְיֹשְׁבֵיהֶֽם",
+      "gloss": "dan penduduknya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:24:40.083831834Z",
+  "model": "glm-5.2"
+}

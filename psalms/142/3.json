@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 142,
+  "translation": "Aku mencurahkan renunganku di hadapan-Nya, kesusahanku di hadapan-Nya aku nyatakan.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Aku mencurahkan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "renunganku"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "kesusahanku"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "aku nyatakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:42.732452670Z",
+  "model": "glm-5.2"
+}

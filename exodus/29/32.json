@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan Aharon dan anak-anaknya akan memakan ⟨את⟩ daging domba itu dan ⟨את⟩ roti yang ada di keranjang, di pintu Kemoh Pertemuan.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Dan akan memakan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dan anak-anaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "di keranjang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemoh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:31:16.966366479Z",
+  "model": "glm-5.2"
+}

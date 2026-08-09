@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan Avshai bin Tzeruyah memukul kalah ⟨את⟩ Edom di Lembah Garam, delapan belas ribu.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Dan Avshai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tzeruyah"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "memukul kalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di Lembah"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Garam"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "delapan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:08:41.530763103Z",
+  "model": "glm-5.2"
+}

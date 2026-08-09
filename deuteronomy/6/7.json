@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "dan engkau harus mengajarkannya dengan tekun kepada anak-anakmu, dan engkau harus berbicara tentangnya, ketika engkau duduk di rumahmu dan ketika engkau berjalan di jalan, dan ketika engkau berbaring dan ketika engkau bangun:",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "dan engkau harus mengajarkannya dengan tekun"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "kepada anak-anakmu"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "dan engkau harus berbicara"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tentangnya"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "ketika engkau duduk"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di rumahmu"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "dan ketika engkau berjalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "dan ketika engkau berbaring"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "dan ketika engkau bangun"
+    }
+  ],
+  "timestamp": "2026-08-08T10:45:11.803758906Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 120,
+  "translation": "Terlalu lama ⟨lah⟩ diam ⟨נפשׁי⟩ bagi napasku, bersama pembenci shalom.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "terlalu lama"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "diam"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bagi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "pembenci"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:53.831244215Z",
+  "model": "glm-5.2"
+}

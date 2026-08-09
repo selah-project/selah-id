@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Pelanggaran-pelanggaran masa muda-Ku dan pemberontakan-pemberontakan-Ku, jangan ingat; sebagai ⟨sa⟩ hesed-Mu, ingatlah aku — Engkau — demi kebaikan-Mu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Pelanggaran-pelanggaran"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "masa muda-Ku"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "dan pemberontakan-pemberontakan-Ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "engkau ingat"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sebagai hesed-Mu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingatlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kebaikan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:56.366749685Z",
+  "model": "glm-5.2"
+}

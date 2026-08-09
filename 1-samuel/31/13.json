@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Lalu mereka mengambil ⟨את⟩ tulang-tulang mereka dan menguburkan ⟨dia⟩ di bawah pohon tamariska di Yavesy, dan mereka berpuasa tujuh hari.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dan mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang mereka"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "tulang-tulang mereka"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan mereka menguburkan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "pohon tamariska"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "di Yavesy"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "dan mereka berpuasa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:32.598089782Z",
+  "model": "glm-5.2"
+}

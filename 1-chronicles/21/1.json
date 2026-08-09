@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Lalu berdirilah seorang penentang melawan Yisra'el, dan ia membujuk ⟨את⟩ Dawid untuk m hitung ⟨את⟩ Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "lalu berdirilah"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "seorang penentang"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "י�שראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "dan ia membujuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "untuk menghitung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "י�שראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T10:08:26.014398200Z",
+  "model": "glm-5.2"
+}

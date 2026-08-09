@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Lihat, Adonai Yahweh datang dengan kekuatan, dan lengan-Nya memerintah bagi-Nya; lihat, upah-Nya bersama Dia, dan pahala-Nya di hadapan-Nya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "dengan kekuatan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "dan lengan-Nya"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "upah-Nya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersama Dia"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "dan pahala-Nya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:29.271680393Z",
+  "model": "glm-5.2"
+}

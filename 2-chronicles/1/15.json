@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu sang raja memberikan ⟨את⟩ perak dan ⟨את⟩ emas di Yerushalayim seperti batu, dan ⟨את⟩ kayu araz diberikannya seperti sykomora yang di Shefelah, dalam kelimpahan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Lalu memberikan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "seperti batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kayu araz"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "kayu araz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikannya"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "seperti sykomora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "di Shefelah"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "dalam kelimpahan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:10:30.939513851Z",
+  "model": "glm-5.2"
+}

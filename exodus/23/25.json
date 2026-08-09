@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan kamu akan beribadah kepada ⟨את⟩ Yahweh Elohim kamu, dan ⟨dia⟩ akan memberkati ⟨את⟩ rotimu dan ⟨את⟩ airmu; dan Aku akan menjauhkan penyakit dari tengah-tengahmu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "dan kamu akan beribadah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "dan dia akan memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rotimu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "rotimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "airmu"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "airmu"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "dan Aku akan menjauhkan"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "penyakit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dari tengah-tengahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:51.523839130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan saudara-saudaranya, menurut keluarga-keluarganya, ketika didaftarkan silsilah keturunan mereka: ⟨yang⟩ pertama ⟨adalah⟩ Ye'i'el, dan Zekharyahu.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Dan saudara-saudaranya"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "menurut keluarga-keluarganya"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "ketika didaftarkan silsilah"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "keturunan mereka"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨yang⟩ pertama"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Ye'i'el"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "dan Zekharyahu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:15.355686151Z",
+  "model": "glm-5.2"
+}

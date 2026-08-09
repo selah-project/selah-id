@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu berkatalah Yahweh kepada Mosheh: “Satu tulah lagi akan Kubawa atas Paroh dan atas Mitsrayim; setelah itu ia akan menyuruh kamu pergi dari sini. Ketika ia menyuruh kamu pergi, singersungnya ia akan mengusir kamu dari sini seluruhnya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tulah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "akan Kubawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ia akan menyuruh pergi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari sini"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "Ketika ia menyuruh pergi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "seluruhnya"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "mengusir"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "singersungnya ia akan mengusir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari sini"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:18.048259739Z",
+  "model": "glm-5.2"
+}

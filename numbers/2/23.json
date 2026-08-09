@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "dan pasukannya dan yang terhitung dari mereka ⟨adalah⟩ lima dan tiga puluh ribu dan empat ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dan pasukannya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dan yang terhitung dari mereka"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dan empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:14:07.843218036Z",
+  "model": "glm-5.2"
+}

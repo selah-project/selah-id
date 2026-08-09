@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "⟨Ia⟩ memanggil ⟨אל⟩ langit dari atas, dan ⟨אל⟩ bumi, untuk menghakimi umat-Nya.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ⟨אל⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "untuk menghakimi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:58.725639694Z",
+  "model": "glm-5.2"
+}

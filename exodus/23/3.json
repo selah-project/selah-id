@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan ⟨janganlah⟩ orang miskin tidak engkau beri muka dalam perkara ⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "Dan orang miskin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "engkau beri muka"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "dalam perkara"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:18.072564784Z",
+  "model": "glm-5.2"
+}

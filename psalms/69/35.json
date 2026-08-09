@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Langit dan bumi memuji Dia; lautan dan segala yang bergerak di dalamnya.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "memuji Dia"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan bumi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lautan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "yang bergerak"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:11.329476168Z",
+  "model": "glm-5.2"
+}

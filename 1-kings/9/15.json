@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan inilah perkara pemungutan yang dinaikkan raja Shelomah untuk membangun ⟨את⟩ bait Yahweh dan ⟨את⟩ baitnya dan ⟨את⟩ ha-Millo dan ⟨את⟩ tembok Yerushalayim dan ⟨את⟩ Chatsor dan ⟨את⟩ Megiddo dan ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "המס",
+      "gloss": "pemungutan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dinaikkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "untuk membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "baitnya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "baitnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ha-Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ha-Millo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tembok Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:16.533262244Z",
+  "model": "glm-5.2"
+}

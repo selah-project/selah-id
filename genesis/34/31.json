@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Lalu mereka berkata: “Apakah ⟨seorang⟩ pelacur ⟨harus⟩ diperlakukan demikian terhadap ⟨את⟩ saudari kami?”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lalu mereka berkata"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "apakah seorang pelacur"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "harus diperlakukan demikian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudari kami"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "saudari kami"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:52.375616585Z",
+  "model": "glm-5.2"
+}

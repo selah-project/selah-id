@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Lihatlah, ⟨dia⟩ mengandung kejahatan, dan mengandung kesusahan, dan melahirkan kebohongan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "mengandung"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "dan mengandung"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kebohongan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:54.202179951Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Bersorak-sorai kami dalam keselamatanmu, dan dalam nama Elohim kami kami mengarak panji-panji; semoga Yahweh menggenapi segala permintaanmu.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "bersorak-sorai kami"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "dalam keselamatanmu"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "dan dalam nama"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "kami mengarak panji-panji"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "semoga menggenapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "permintaanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:19.045392113Z",
+  "model": "glm-5.2"
+}

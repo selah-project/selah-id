@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Elohim ⟨bagi⟩ kami tempat perlindungan dan kekuatan, pertolongan dalam kesesakan yang ditemukan sungguh-sungguh.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": " ⟨bagi⟩ kami"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": " tempat perlindungan"
+    },
+    {
+      "surface": "ו",
+      "gloss": " dan"
+    },
+    {
+      "surface": "עז",
+      "gloss": " kekuatan"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": " pertolongan"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": " dalam kesesakan"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": " yang ditemukan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": " sungguh-sungguh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:00.863692481Z",
+  "model": "glm-5.2"
+}

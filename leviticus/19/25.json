@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan pada tahun kelima kamu akan memakan ⟨את⟩ buahnya, untuk menambah bagimu hasil panennya; aku ⟨adalah⟩ Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Dan pada tahun"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "kelima"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu akan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buahnya"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnya"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "untuk menambah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "hasil panennya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:06.286257482Z",
+  "model": "glm-5.2"
+}

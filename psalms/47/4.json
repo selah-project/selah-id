@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "⟨Ia⟩ akan menundukkan bangsa-bangsa di bawah kita, dan suku-suku bangsa di bawah kaki kita.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "⟨Ia⟩ akan menundukkan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "di bawah kita"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dan suku-suku bangsa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "kaki kita"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:10.224535362Z",
+  "model": "glm-5.2"
+}

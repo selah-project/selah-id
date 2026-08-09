@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan sekarang engkau berkata, ‘Pergilah, katakan kepada tuanmu, lihatlah, Eliyahu ada di sini.’",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "kepada tuanmu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:52.448292719Z",
+  "model": "glm-5.2"
+}

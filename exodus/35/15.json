@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "dan ⟨את⟩ mezbah ukupan, dan ⟨את⟩ tiang-tiangnya, dan ⟨את⟩ minyak urapan, dan ⟨את⟩ ukupan rempah-rempah, dan ⟨את⟩ tirai ambang pintu di ambang pintu Mishkan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah ukupan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ukupan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tiang-tiangnya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tiang-tiangnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ukupan rempah-rempah"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ukupan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah-rempah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tirai ambang pintu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ambang pintu"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "di ambang pintu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:05.114171900Z",
+  "model": "glm-5.2"
+}

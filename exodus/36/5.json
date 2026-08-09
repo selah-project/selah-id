@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan mereka berkata kepada Mosheh: “⟨Orang⟩ banyak membawa berlebih-lebih untuk pekerjaan yang Yahweh perintahkan untuk membuatnya.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "berlebih-lebih"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang banyak"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "membawa"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "melebihi"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "untuk pekerjaan itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "perintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "untuk membuat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pekerjaan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:05:12.840793923Z",
+  "model": "glm-5.2"
+}

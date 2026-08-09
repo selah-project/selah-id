@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan juga ⟨את⟩ tawon itu akan diutus Yahweh, Elohimmu, di antara mereka, sampai binasa ⟨yang tersisa⟩ dan ⟨yang tersembunyi⟩ dari hadapanmu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawon"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tawon itu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "akan diutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di antara mereka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "⟨yang tersisa⟩"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "dan ⟨yang tersembunyi⟩"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:29.251104343Z",
+  "model": "glm-5.2"
+}

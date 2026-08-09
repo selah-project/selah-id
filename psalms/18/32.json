@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Sebab siapakah Eloah selain Yahweh? Dan siapakah batu karang selain Elohaim kami?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "selain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "selain"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohaim kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:47.651766589Z",
+  "model": "glm-5.2"
+}

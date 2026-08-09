@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Celakalah ⟨mereka yang⟩ merancang ketetapan-ketetapan kepalsuan, dan ⟨mereka yang⟩ menuliskan kesusahan, yang telah mereka tuliskan",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Celakalah"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "⟨mereka yang⟩ merancang ketetapan-ketetapan"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "און",
+      "gloss": "kepalsuan"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "dan ⟨mereka yang⟩ menuliskan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "mereka telah tuliskan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:08:58.445507358Z",
+  "model": "glm-5.2"
+}

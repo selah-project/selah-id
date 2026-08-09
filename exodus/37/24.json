@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Se talenta emas murni ⟨ia⟩ membuat ⟨את⟩-nya, dan ⟨את⟩ segala perkakasnya.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "Se talenta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ia membuat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "kaki dian itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "perkakasnya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:10:56.483139320Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan ⟨Ia⟩ melihat kesesakan mereka, ketika mendengar ⟨את⟩ jeritan mereka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "kesesakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ketika mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeritan mereka"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "jeritan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:16.161986292Z",
+  "model": "glm-5.2"
+}

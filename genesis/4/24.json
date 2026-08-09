@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Sebab tujuh-kali lipat akan dibalaskan Kayin, tapi Lemekh tujuh puluh tujuh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "tujuh-kali lipat"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "akan dibalaskan"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "tapi Lemekh"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "dan tujuh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:43.778316950Z",
+  "model": "glm-5.2"
+}

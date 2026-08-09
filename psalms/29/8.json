@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Suara Yahweh menggoyangkan gurun; menggoyangkan Yahweh gurun Qadesh.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "menggoyangkan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "menggoyangkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:54.818798505Z",
+  "model": "glm-5.2"
+}

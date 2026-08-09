@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Ketika Paroh melihat bahwa ada kelaparan, ia mengeraskan ⟨את⟩ hatinya, dan tidak mendengarkan mereka, seperti yang telah difirmankan Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ketika melihat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "ia mengeraskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatinya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:38.489466699Z",
+  "model": "glm-5.2"
+}

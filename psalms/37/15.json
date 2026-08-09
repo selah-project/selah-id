@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Pedang mereka akan masuk ke dalam hati mereka sendiri, dan busur-busur mereka akan dipatahkan.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "pedang mereka"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "akan masuk"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ke dalam hati mereka"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "dan busur-busur mereka"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "akan dipatahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:32.276609545Z",
+  "model": "glm-5.2"
+}

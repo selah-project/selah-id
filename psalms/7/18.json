@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Aku bersyukur kepada Yahweh menurut kebenaran-Nya, dan aku bermazmur kepada nama Yahweh Elyon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "aku bersyukur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "menurut kebenaran-Nya"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "dan aku bermazmur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:25.182008018Z",
+  "model": "glm-5.2"
+}

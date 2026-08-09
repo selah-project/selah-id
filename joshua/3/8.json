@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan engkau, perintahkanlah ⟨את⟩ para imam, pembawa tabut perjanjian, katanya, “Ketika kamu datang sampai ke ujung air sungai Yarden, di sungai Yarden berdirilah kamu.”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan engkau"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "perintahkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "ketika kamu datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "di sungai Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "berdirilah kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:34:05.124847695Z",
+  "model": "glm-5.2"
+}

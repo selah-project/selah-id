@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "⟨Dialah⟩ yang mengutus mata-mata air di antara lembah-lembah; di antara gunung-gunung ⟨mereka⟩ berjalan.",
+  "tokens": [
+    {
+      "surface": "הַֽמְשַׁלֵּ֣חַ",
+      "gloss": "⟨Dialah⟩ yang mengutus"
+    },
+    {
+      "surface": "מַ֭עְיָנִים",
+      "gloss": "mata-mata air"
+    },
+    {
+      "surface": "בַּנְּחָלִ֑ים",
+      "gloss": "di antara lembah-lembah"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הָ֝רִ֗ים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "יְהַלֵּכֽוּן",
+      "gloss": "⟨mereka⟩ berjalan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:04.954562993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Aku akan mengajar ⟨את⟩kemu oleh tangan El; apa yang bersama Shaddai tidak akan aku sembunyikan.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "aku akan mengajar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kemu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "oleh tangan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "akan aku sembunyikan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:30.888983747Z",
+  "model": "glm-5.2"
+}

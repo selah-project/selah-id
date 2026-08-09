@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Keselaran saudari perempuan ibumu tidak engkau boleh singkap, karena ⟨dia⟩ daging ibumu ⟨ialah⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Keselaran"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "saudari perempuan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "engkau boleh singkap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dialah⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:33.914405776Z",
+  "model": "glm-5.2"
+}

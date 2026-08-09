@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka pergilah ia dan mengambil ⟨את⟩ Gomer bat Diblayim, lalu mengandung dan melahirkan baginya seorang putra.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Maka pergilah ia"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "lalu mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang putra"
+    }
+  ],
+  "timestamp": "2026-08-08T08:56:55.888847600Z",
+  "model": "glm-5.2"
+}

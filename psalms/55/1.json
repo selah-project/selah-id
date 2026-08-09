@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Untuk pemimpin musik, dengan permainan gesek, maskil bagi Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk pemimpin musik"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "dengan permainan gesek"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:11.851531649Z",
+  "model": "glm-5.2"
+}

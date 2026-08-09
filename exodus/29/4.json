@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan ⟨את⟩ Aharon dan ⟨את⟩ anak-anaknya engkau akan mendekatkan ke pintu Kemoh Pertemuan, dan engkau akan membasuh ⟨את⟩ mereka dengan air.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "engkau akan mendekatkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemoh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "dan engkau akan membasuh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (Aharon dan anak-anaknya)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:10.466440240Z",
+  "model": "glm-5.2"
+}

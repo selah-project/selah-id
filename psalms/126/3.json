@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 126,
+  "translation": "Yahweh telah melakukan hal-hal besar ⟨dengan⟩ kami; ⟨karena itu⟩ kami bersukaria.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "telah melakukan hal-hal besar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk berbuat"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "dengan kami"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "bersukaria"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:53.038567296Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 137,
+  "translation": "Biarlah melekat lidahku pada langit-langit mulutku, jika tidak aku mengingat engkau, jika tidak aku mengangkat ⟨את⟩ Yerushalayim di atas kepala sukacitaku.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Biarlah melekat"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lidahku"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "pada langit-langit mulutku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "aku mengingat engkau"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aku mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "sukacitaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:27.841386430Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan bersama kamu haruslah ada seorang laki-laki untuk masing-satu suku, seorang laki-laki kepala bait leluhur-leluhur dia.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Dan bersama kamu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "haruslah ada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "untuk masing-satu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "leluhur-leluhur dia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:06.099325801Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Ia berjongkok, ia membungkukkan diri, dan ⟨yang⟩ malang jatuh oleh keperkasaannya.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ia berjongkok"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ia membungkukkan diri"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "oleh keperkasaannya"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "yang malang"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:57.647156491Z",
+  "model": "glm-5.2"
+}

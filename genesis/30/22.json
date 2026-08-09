@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan Elohim mengingat ⟨את⟩ Rachel, dan Elohim mendengarkan ⟨ke⟩padanya, dan membuka ⟨את⟩ rahimnya.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "dan mengingat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengarkan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "dan membuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahimnya"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "rahimnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:06.759372550Z",
+  "model": "glm-5.2"
+}

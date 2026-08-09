@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jika matahari telah terbit atasnya, ada ⟨דמים⟩ darah baginya; ia wajib membayar ganti rugi penuh — jika ia tidak memiliki apa pun, maka ia dijual karena pencuriannya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "telah terbit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "membayar ganti rugi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ia wajib membayar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "dan ia dijual"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "karena pencuriannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:57.800092616Z",
+  "model": "glm-5.2"
+}

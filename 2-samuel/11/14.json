@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka terjadilah pada waktu pagi, bahwa Dawid menulis surat kepada Yoav, dan mengirimnya dengan tangan Uria.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "dan ia menulis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan ia mengirim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:30.402281324Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Mereka telah melihat ⟨ הֲלִיכוֹתֶיךָ ⟩ langkah-langkah-Mu, ya Elohim, langkah-langkah El-ku, Raja-ku, di tempat kudus.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "mereka telah melihat"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "langkah-langkah-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "langkah-langkah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Raja-ku"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tempat kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:33.596977834Z",
+  "model": "glm-5.2"
+}

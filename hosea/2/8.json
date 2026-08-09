@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Sebab itu, liharlah, aku sedang mengurung ⟨את⟩ jalannya dengan pagar duri, dan aku akan membuat pagar tembok ⟨את⟩nya, dan jalan-jalannya tidak akan ditemuinya.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lihatlah, aku"
+    },
+    {
+      "surface": "שך",
+      "gloss": "sedang mengurung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalannya"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "dengan pagar duri"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "dan aku akan membuat pagar tembok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagarnya"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "pagarnya"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "dan jalan-jalannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "akan ditemuinya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:56:27.625533368Z",
+  "model": "glm-5.2"
+}

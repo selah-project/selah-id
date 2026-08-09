@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan melihat ha-Elohim ⟨את⟩ perbuatan mereka, bahwa mereka berbalik dari jalan mereka yang jahat; dan menyesallah ha-Elohim atas kejahatan yang telah Ia firmankan untuk dilakukan kepada mereka, dan ⟨Ia⟩ tidak melakukannya.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֤רְא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "הָֽאֱלֹהִים֙",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "perbuatan mereka"
+    },
+    {
+      "surface": "מַ֣עֲשֵׂיהֶ֔ם",
+      "gloss": "perbuatan mereka"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "שָׁ֣בוּ",
+      "gloss": "mereka berbalik"
+    },
+    {
+      "surface": "מִדַּרְכָּ֑ם",
+      "gloss": "dari jalan mereka"
+    },
+    {
+      "surface": "הָרָעָ֖ה",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "וַיִּנָּ֣חֶם",
+      "gloss": "dan menyesal"
+    },
+    {
+      "surface": "הָאֱלֹהִ֗ים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הָרָעָ֛ה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דִּבֶּ֨ר",
+      "gloss": "Ia firmankan"
+    },
+    {
+      "surface": "לַעֲשׂ֥וֹת",
+      "gloss": "untuk dilakukan"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "עָשָֽׂה",
+      "gloss": "melakukannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:00:17.707845909Z",
+  "model": "glm-5.2"
+}

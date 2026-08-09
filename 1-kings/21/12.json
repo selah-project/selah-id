@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Mereka mengumumkan puasa, dan menempatkan ⟨את⟩ Navot di kepala ⟨dari⟩ rakyat itu.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "mereka mengumumkan"
+    },
+    {
+      "surface": "צום",
+      "gloss": "puasa"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di kepala ⟨dari⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:53.652520169Z",
+  "model": "glm-5.2"
+}

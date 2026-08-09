@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Lepaskanlah aibku yang aku takuti, sebab hukum-hukum-Mu baik.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Lepaskanlah"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "aibku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "aku takuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:30.735151986Z",
+  "model": "glm-5.2"
+}

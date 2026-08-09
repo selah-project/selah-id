@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Aku serupa dengan pelikan ⟨di⟩ padang gurun, aku telah menjadi seperti burung hantu reruntuhan.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "aku serupa"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "dengan pelikan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku telah menjadi"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "seperti burung hantu"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "reruntuhan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:58.419403883Z",
+  "model": "glm-5.2"
+}

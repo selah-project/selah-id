@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Mulut orang benar bergumam ⟨tentang⟩ hikmat, dan lidahnya berbicara keadilan.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "bergumam"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "dan lidahnya"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:03.966986784Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Yahweh melakukan ⟨את⟩ hal ini pada keesokan harinya, dan matilah segala ternak Mitsrayim; tetapi dari ternak bani Yisrael tidak mati satu pun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan melakukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pada keesokan harinya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan matilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "tetapi dari ternak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu pun"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:03.556159108Z",
+  "model": "glm-5.2"
+}

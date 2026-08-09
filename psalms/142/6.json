@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 142,
+  "translation": "Aku berteriak kepada-Mu, Yahweh; aku berkata: “Engkaulah tempat perlindunganku, bagianku di bumi ⟨orang-orang⟩ yang hidup.”",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Aku berteriak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "tempat perlindunganku"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "bagianku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:46.620998360Z",
+  "model": "glm-5.2"
+}

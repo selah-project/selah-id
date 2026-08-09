@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan ⟨את⟩ tembok-tembok Yerushalayim sekelilingnya, dibongkar oleh seluruh pasukan Kasdim yang bersama panglima pengawal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tembok-tembok"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tembok-tembok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekelilingnya"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "dibongkar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "pengawal"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:11.412738088Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Jika awan penuh, mereka melimpahkan hujan ke atas bumi; dan jika pohon jatuh di selatan, atau jika di utara — di tempat pohon itu jatuh, di sana ⟨ada⟩ dia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "awan"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "mereka melimpahkan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "di selatan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atau jika"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "di utara"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pohon itu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨ada⟩ dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:08.399496997Z",
+  "model": "glm-5.2"
+}

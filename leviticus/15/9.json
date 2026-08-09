@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan setiap pelana yang ditunggangi oleh si zaw, menjadi tuma.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "pelana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ditunggangi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "si zaw"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menjadi tuma"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:53.671212751Z",
+  "model": "glm-5.2"
+}

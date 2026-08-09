@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨ia⟩ berkata: Jangan mendekat kemari, tanggalkan alas kakimu dari kakimu, sebab tempat yang ⟨kau⟩ berdiri di atasnya ⟨adalah⟩ tanah kudus ⟨ia⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "mendekat"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "kemari"
+    },
+    {
+      "surface": "של",
+      "gloss": "tanggalkan"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "alas kakimu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "kakimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨kau⟩"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨adalah⟩ ia"
+    }
+  ],
+  "timestamp": "2026-08-08T12:34:39.774629182Z",
+  "model": "glm-5.2"
+}

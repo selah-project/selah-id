@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 21:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Jika buruk di mata tuannya yang tidak mempersembahkan dia, maka ⟨dia⟩ harus menebusnya; kepada bangsa asing ia tidak boleh berkuasa menjualnya, karena berkhianatlah ia terhadap dia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "buruk"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "tuannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "mempersembahkan dia"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "maka dia harus menebusnya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kepada bangsa"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "asing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ia berkuasa"
+    },
+    {
+      "surface": "למכרה",
+      "gloss": "menjualnya"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "karena berkhianat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "terhadap dia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:51.958008812Z",
+  "model": "glm-5.2"
+}

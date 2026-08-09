@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 76,
+  "translation": "Dari hardikan-Mu, Elohim ⟨dari⟩ Yaakov — terkulai kelemasan, baik kereta maupun kuda.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "dari hardikan-Mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "terkulai kelemasan"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "baik kereta"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "maupun kuda"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:10.791763277Z",
+  "model": "glm-5.2"
+}

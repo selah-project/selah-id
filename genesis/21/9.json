@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan Sarah melihat ⟨את⟩ putra Hagar ha-Mitsrit, yang dilahirkannya bagi Avraham, sedang tertawa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ha-Mitsrit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahirkannya"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "bagi Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "sedang tertawa"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:57.983777278Z",
+  "model": "glm-5.2"
+}

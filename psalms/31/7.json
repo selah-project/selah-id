@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Aku membenci ⟨yang memelihara⟩ hal-hal hampa kesia-siaan, tetapi aku, kepada Yahweh aku percaya.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Aku membenci"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "⟨yang memelihara⟩"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hal-hal hampa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tetapi aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku percaya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:30.609800771Z",
+  "model": "glm-5.2"
+}

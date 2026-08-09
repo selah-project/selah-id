@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Karena ⟨telah⟩ tenggelam ke debu nafshemu, merekat melekat ke tanah perut kami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "⟨telah⟩ tenggelam"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ke debu"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nafshemu"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "merekat"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "perut kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:57.202373430Z",
+  "model": "glm-5.2"
+}

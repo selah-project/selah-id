@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan ketika Izevel memunuh ⟨את⟩ nabi-nabi Yahweh, maka Obadyahu mengambil seratus nabi dan menyembunyikan mereka, lima puluh orang di sebuah gua, dan menyokong mereka dengan roti dan air.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "ketika memunnah"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maka mengambil"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "dan menyembunyikan mereka"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di sebuah gua"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "dan menyokong mereka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dengan roti"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan air"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:29.220553660Z",
+  "model": "glm-5.2"
+}

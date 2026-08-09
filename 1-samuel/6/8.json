@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ambillah ⟨את⟩ aron Yahweh dan letakkanlah ⟨את⟩-nya pada geroba itu, dan ⟨את⟩ perlengkapan emas yang kamu kembalikan kepada-Nya sebagai tebusan salah, taruhlah dalam peti di sisinya, dan suruhlah pergi ⟨את⟩-nya, dan ia telah pergi.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "dan ambillah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "dan letakkanlah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "aron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pada"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "geroba itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perlengkapan emas"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "perlengkapan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "kamu kembalikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepada-Nya"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sebagai tebusan salah"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "taruhlah"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "dalam peti"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "di sisinya"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "dan suruhlah pergi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "aron"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "dan ia telah pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:17.832934629Z",
+  "model": "glm-5.2"
+}

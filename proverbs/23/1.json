@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Ketika kau duduk untuk makan bersama ⟨את⟩ seorang penguasa, pahamilah dengan teliti ⟨את⟩ apa yang di hadapanmu,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "kau duduk"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "untuk makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seorang penguasa"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "penguasa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pahamilah"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "dengan teliti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang di hadapanmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:55.514433045Z",
+  "model": "glm-5.2"
+}

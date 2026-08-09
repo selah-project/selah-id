@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Lalu Avraham menyunat ⟨את⟩ Yitskhak, anak laki-lakinya, anak berusia delapan hari, seperti yang telah diperintahkan ⟨את⟩-nya Elohim.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Lalu menyunat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak laki-lakinya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak berusia"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "delapan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "telah diperintahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:47:30.903619198Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan ia mendaftarkan mereka di Bezek, dan bani Yisraél ada tiga ratus ribu, dan orang Yehudah tiga puluh ribu.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Dan ia mendaftarkan"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "di Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan ada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan orang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:23.546277803Z",
+  "model": "glm-5.2"
+}

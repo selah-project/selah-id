@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "patah sebagai ganti patah, mata sebagai ganti mata, gigi sebagai ganti gigi; seperti ia menimpakan cacat pada manusia, demikianlah akan ditimpakan kepadanya.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ia menimpakan"
+    },
+    {
+      "surface": "מום",
+      "gloss": "cacat"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pada manusia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "akan ditimpakan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:39.043226794Z",
+  "model": "glm-5.2"
+}

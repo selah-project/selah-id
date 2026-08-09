@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan Yaakov mencintai ⟨את⟩ Rahel, lalu berkata, “Aku akan melayanimu tujuh tahun demi Rahel putrimu yang bungsu.”",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "dan mencintai"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "aku akan melayanimu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "demi Rahel"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "putrimu"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "yang bungsu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:21.389269689Z",
+  "model": "glm-5.2"
+}

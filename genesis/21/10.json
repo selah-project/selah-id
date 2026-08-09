@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan berkatalah kepada Avraham: “Usirlah hamba perempuan ini dan ⟨את⟩ putranya, sebab tidak akan mewarisi putra hamba perempuan ini bersama putraku — bersama Yitskhak.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kepada Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "usirlah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hamba perempuan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putranya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putranya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "akan mewarisi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hamba perempuan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putraku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:57.983977791Z",
+  "model": "glm-5.2"
+}

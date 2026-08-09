@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "⟨Seorang⟩ laki-laki dengan mata jahat terburu-buru menuju kekayaan, dan ia tidak tahu bahwa kekurangan akan menimpanya.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "terburu-buru"
+    },
+    {
+      "surface": "להון",
+      "gloss": "menuju kekayaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kekurangan"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "akan menimpanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:36:19.790805109Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan berkatalah kepada mereka sang raja: “Sebuah mimpi telah kumimpi, dan rohku terganggu untuk mengetahui ⟨את⟩ mimpi itu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sebuah mimpi"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "telah kumimpi"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "dan terganggu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohku"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mimpi itu"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "mimpi itu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:52:31.667917431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Yahweh akan mengirim ke atasmu ⟨את⟩ kutuk, ⟨את⟩ kebingungan, dan ⟨את⟩ teguran, dalam segala perbuatan tanganmu yang kauperbuat, sampai ⟨engkau⟩ dibinasakan dan sampai ⟨engkau⟩ binasa dengan segera, karena kejahatan perbuatan-perbuatanmu yang ⟨karena⟩ engkau telah meninggalkan aku.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "akan mengirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ke atasmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutuk"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebingungan"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "kebingungan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "teguran"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kauperbuat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "dibinasakan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dengan segera"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karena"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "perbuatan-perbuatanmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "engkau telah meninggalkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:16.302428258Z",
+  "model": "glm-5.2"
+}

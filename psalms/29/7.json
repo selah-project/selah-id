@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Suara Yahweh memahat lidah-lidah api.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "memahat"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "lidah-lidah api"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:54.817426163Z",
+  "model": "glm-5.2"
+}

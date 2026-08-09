@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "dan bahwa Yaakob mendengarkan ⟨suara⟩ ayahnya dan ibunya, lalu pergi ke Padan-Aram —",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengarkan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:40.057084900Z",
+  "model": "glm-5.2"
+}

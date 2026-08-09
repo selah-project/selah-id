@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Aku akan membuka dalam perumpamaan mulutku, aku akan mengucurkan teka-teki dari masa purba.",
+  "tokens": [
+    {
+      "surface": "אֶפְתְּחָה",
+      "gloss": "aku akan membuka"
+    },
+    {
+      "surface": "בְמָשָׁל",
+      "gloss": "dalam perumpamaan"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "אַבִּיעָה",
+      "gloss": "aku akan mengucurkan"
+    },
+    {
+      "surface": "חִידוֹת",
+      "gloss": "teka-teki"
+    },
+    {
+      "surface": "מִנִּי",
+      "gloss": "dari"
+    },
+    {
+      "surface": "קֶדֶם",
+      "gloss": "masa purba"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:32.728176516Z",
+  "model": "glm-5.2"
+}

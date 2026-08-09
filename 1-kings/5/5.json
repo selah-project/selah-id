@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Yehudah dan Yisrael duduk diam dengan aman, masing-masing di bawah pohon anggurnya dan di bawah pohon aranya, dari Dan sampai Be'er-Sheva, segala hari Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dan duduk diam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dan Yisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dengan aman"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "pohon anggurnya"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dan di bawah"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "pohon aranya"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "dari Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:03.478158785Z",
+  "model": "glm-5.2"
+}

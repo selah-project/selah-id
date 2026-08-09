@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "⟨Ia⟩ akan mengembalikan kejahatan kepada para penjuru ⟨ku⟩; dalam kesetiaan-Mu, binasakanlah mereka.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "akan mengembalikan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "kepada para penjuru ⟨ku⟩"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dalam kesetiaan-Mu"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "binasakanlah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:09.192970030Z",
+  "model": "glm-5.2"
+}

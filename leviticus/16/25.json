@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan ⟨את⟩ lemak hukuman dosa itu akan diasapkan di atas mezbah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hukuman dosa itu"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "akan diasapkan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:25.847083348Z",
+  "model": "glm-5.2"
+}

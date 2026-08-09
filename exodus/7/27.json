@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan jika engkau menolak untuk melepaskan ⟨mereka⟩, lihatlah, Aku akan menimpa ⟨את⟩ seluruh wilayahmu dengan katak.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuk melepaskan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "akan menimpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh wilayahmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "wilayahmu"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "dengan katak"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:03.658808130Z",
+  "model": "glm-5.2"
+}

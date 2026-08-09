@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "“Jika aku berbuat dosa, Engkau mengawasi aku, dan dari kesalahanku Engkau tidak akan membebaskan aku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku berbuat dosa"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "Engkau mengawasi aku"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "dan dari kesalahanku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "Engkau membebaskan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:38:54.322448058Z",
+  "model": "glm-5.2"
+}

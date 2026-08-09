@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan ⟨את⟩ rumah-rumah Yerushalayim kauphitung, dan kaurobohkan rumah-rumah itu untuk membentengi tembok.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "rumah-rumah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "kauphitung"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "dan kaurobohkan"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "rumah-rumah itu"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "untuk membentengi"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "tembok"
+    }
+  ],
+  "timestamp": "2026-08-08T08:18:55.668385335Z",
+  "model": "glm-5.2"
+}

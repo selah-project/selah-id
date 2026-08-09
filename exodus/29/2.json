@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan roti tanpa ragi, dan kue tanpa ragi yang diadukkan dengan minyak, dan wafer tanpa ragi yang diolesi dengan minyak; dari tepung gandum yang halus engkau akan membuatnya.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "Dan roti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tanpa ragi"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "dan kue"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "tanpa ragi"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "yang diadukkan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "dan wafer"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tanpa ragi"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "yang diolesi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung halus"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau akan membuat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "roti, kue, dan wafer"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:03.626133185Z",
+  "model": "glm-5.2"
+}

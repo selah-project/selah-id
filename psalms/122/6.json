@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 122,
+  "translation": "Mohonlah kesejahteraan Yerushalayim; tenanglah mereka yang mencintai engkau.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Mohonlah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kesejahteraan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "tenanglah"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "mereka yang mencintai engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:25.584210408Z",
+  "model": "glm-5.2"
+}

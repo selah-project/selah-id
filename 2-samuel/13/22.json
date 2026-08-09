@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan Avshalom tidak berbicara dengan Amnon ⟨baik⟩ untuk kejahatan maupun untuk kebaikan, karena Avshalom membenci ⟨את⟩ Amnon atas perkara bahwa ia telah mempermalukan ⟨את⟩ Tamar saudarinya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "untuk kejahatan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "maupun untuk"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "membenci"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ia telah mempermalukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "saudarinya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:29.220421228Z",
+  "model": "glm-5.2"
+}

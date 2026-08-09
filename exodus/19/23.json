@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan berkatalah Mosheh kepada Yahweh: “Bangsa itu tidak sanggup naik ke gunung Sinai, sebab Engkau telah memperingatkan kami, bunyinya: ‘Batasilah ⟨את⟩ gunung itu dan kuduskanlah itu.’”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Bangsa itu"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "naik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "telah memperingatkan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bunyinya"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "Batasilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung itu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "dan kuduskanlah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:59:48.407957871Z",
+  "model": "glm-5.2"
+}

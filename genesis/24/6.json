@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Lalu berkatalah kepadanya Avraham, “Hati-hatilah engkau, supaya jangan engkau mengembalikan ⟨את⟩ puteraku ke sana.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "hati-hatilah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "engkau mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puteraku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "puteraku"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:43.268140243Z",
+  "model": "glm-5.2"
+}

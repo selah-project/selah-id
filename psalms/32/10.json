@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Banyak ⟨adalah⟩ rasa sakit bagi orang fasik, tetapi orang yang percaya kepada Yahweh, hesed akan melingkupinya.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Banyak"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "rasa sakit"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "bagi orang fasik"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "tetapi orang yang percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "akan melingkupinya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:58.111777030Z",
+  "model": "glm-5.2"
+}

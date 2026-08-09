@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Avner bin Ner, panglima tentara yang bagi Shaul, mengambil ⟨את⟩ Ish-Boset bin Shaul, dan membawanya ke Makhana'im.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "Dan Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tentara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "bagi Shaul"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ish-Boset"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boset"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "dan membawanya ke"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Makhana'im"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:45.194274968Z",
+  "model": "glm-5.2"
+}

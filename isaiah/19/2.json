@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan Aku akan mengadu Mitsrayim melawan Mitsrayim, dan mereka akan berperang setiap orang melawan saudaranya, dan setiap orang melawan sesamanya, kota melawan kota, kerajaan melawan kerajaan.",
+  "tokens": [
+    {
+      "surface": "וְסִכְסַכְתִּ֤י",
+      "gloss": "Dan Aku akan mengadu"
+    },
+    {
+      "surface": "מִצְרַ֨יִם֙",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בְּמִצְרַ֔יִם",
+      "gloss": "melawan Mitsrayim"
+    },
+    {
+      "surface": "וְנִלְחֲמ֥וּ",
+      "gloss": "dan mereka akan berperang"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "בְּאָחִ֖יו",
+      "gloss": "melawan saudaranya"
+    },
+    {
+      "surface": "וְאִ֣ישׁ",
+      "gloss": "dan setiap orang"
+    },
+    {
+      "surface": "בְּרֵעֵ֑הוּ",
+      "gloss": "melawan sesamanya"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בְּעִ֔יר",
+      "gloss": "melawan kota"
+    },
+    {
+      "surface": "מַמְלָכָ֖ה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "בְּמַמְלָכָֽה",
+      "gloss": "melawan kerajaan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:19:40.410644428Z",
+  "model": "glm-5.2"
+}

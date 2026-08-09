@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lalu hujan es memukul di seluruh tanah Mitsrayim ⟨את⟩ segala yang di padang, dari manusia sampai binatang; dan ⟨את⟩ segala tumbuhan padang telah dipukul oleh hujan es, dan ⟨את⟩ segala pohon padang diremukkan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "maka memukul"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "hujan es"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala yang di padang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari manusia"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "segala tumbuhan padang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tumbuhan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "telah memukul"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "hujan es"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "segala pohon padang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "diremukkan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:13.543793599Z",
+  "model": "glm-5.2"
+}

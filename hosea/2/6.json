@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "dan ⟨את⟩ anak-anaknya tidak akan kurahmati, sebab mereka anak-anak perzinahan, mereka itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "akan kurahmati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "perzinahan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:56:27.625325241Z",
+  "model": "glm-5.2"
+}

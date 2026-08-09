@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Doa Habakuk sang nabi, mengenai sygionot.",
+  "tokens": [
+    {
+      "surface": "תְּפִלָּ֖ה",
+      "gloss": "Doa"
+    },
+    {
+      "surface": "לַחֲבַקּ֣וּק",
+      "gloss": "Habakuk"
+    },
+    {
+      "surface": "הַנָּבִ֑יא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "שִׁגְיֹנֽוֹת",
+      "gloss": "sygionot"
+    }
+  ],
+  "timestamp": "2026-08-08T09:03:16.584414964Z",
+  "model": "glm-5.2"
+}

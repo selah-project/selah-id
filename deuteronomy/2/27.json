@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Biarlah aku melintasi tanahmu; di jalan, di jalan aku berjalan; tidak aku menyimpang ke kanan maupun ke kiri.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "biarlah aku melintasi"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "aku menyimpang"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ke kanan"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "maupun ke kiri"
+    }
+  ],
+  "timestamp": "2026-08-08T12:12:58.391235926Z",
+  "model": "glm-5.2"
+}

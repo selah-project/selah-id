@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan seorang laki-laki yang berzinah dengan ⟨את⟩ istri seorang laki-laki — yang berzinah dengan ⟨את⟩ istri sesamanya — pasti dihukum mati, pelaku zinah dan perempuan zinah itu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan seorang laki-laki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "berzinah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istri"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "berzinah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istri"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dihukum mati"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "pelaku zinah"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "dan perempuan zinah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:17.461177362Z",
+  "model": "glm-5.2"
+}

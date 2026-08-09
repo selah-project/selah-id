@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan juga bagi Lot, yang berjalan bersama ⟨את⟩ Avram, ada kawanan domba dan lembu dan kemah-kemah.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "bagi Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan domba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "dan lembu"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "dan kemah-kemah"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:02.835137897Z",
+  "model": "glm-5.2"
+}

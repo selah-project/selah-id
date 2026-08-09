@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan mereka menolak ⟨את⟩ tanah yang didambakan, tidak percaya kepada firman-Nya.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Dan mereka menolak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨את⟩ tanah",
+      "marks": "tanah"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "yang didambakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "kepada firman-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:35.783393941Z",
+  "model": "glm-5.2"
+}

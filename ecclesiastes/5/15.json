@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan juga ini ⟨adalah⟩ penyakit yang jahat: persis seperti kedatangannya, demikian ia pergi; dan apa kelebihan baginya yang ia berjerih payah untuk angin?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "penyakit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "persis"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "kedatangannya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ia pergi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apa"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kelebihan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "yang ia berjerih payah"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "untuk angin"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:57.408348568Z",
+  "model": "glm-5.2"
+}

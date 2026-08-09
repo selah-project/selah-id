@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan akan demikianlah: dari sungai itu engkau akan minum, dan ⟨את⟩ burung-burung gagak telah kuperintahkan untuk menanggung engkau di sana.”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan akan demikianlah"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "dari sungai itu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "engkau akan minum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burung-burung gagak"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "burung-burung gagak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "telah kuperintahkan"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "untuk menanggung engkau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:12.851842068Z",
+  "model": "glm-5.2"
+}

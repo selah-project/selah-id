@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Karena manusia — tidak ada yang adil di bumi yang berbuat baik dan tidak berbuat dosa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yang adil"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "berbuat dosa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:10.098129550Z",
+  "model": "glm-5.2"
+}

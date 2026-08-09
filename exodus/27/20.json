@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan engkau, engkau akan memerintahkan ⟨את⟩ bani Yisraél, dan mereka akan membawa kepadamu minyak zaitun murni dipukul untuk penerangan, untuk menyalakan pelita tetap.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "engkau akan memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisraél"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dan mereka akan membawa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "murni"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "dipukul"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "untuk penerangan"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "untuk menyalakan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "pelita"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tetap"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:05.985293780Z",
+  "model": "glm-5.2"
+}

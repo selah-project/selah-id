@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Maka terjadilah pada waktu petang, ia mengambil ⟨את⟩ Lea anak perempuannya dan membawa ⟨את⟩-nya kepadanya; dan ia masuk kepadanya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu petang"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ia mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak perempuannya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "kepadanya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan ia masuk"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:00.947206648Z",
+  "model": "glm-5.2"
+}

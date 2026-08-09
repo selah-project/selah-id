@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Lalu ⟨ia⟩ menyelamatkan mereka dari tangan pembenci, dan ⟨ia⟩ menebus mereka dari tangan musuh.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "dan ia menyelamatkan mereka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "pembenci"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "dan ia menebus mereka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:52.589489225Z",
+  "model": "glm-5.2"
+}

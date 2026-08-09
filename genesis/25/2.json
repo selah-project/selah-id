@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan ⟨ia⟩ melahirkan kepadanya ⟨את⟩ Zimran dan ⟨את⟩ Yoqsyan dan ⟨את⟩ Medan dan ⟨את⟩ Midyan dan ⟨את⟩ Yisbak dan ⟨את⟩ Syuakh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yoqsyan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yoqsyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yisbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yisbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Syuakh"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Syuakh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:48:06.913492919Z",
+  "model": "glm-5.2"
+}

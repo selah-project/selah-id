@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Kehidupan daging ⟨adalah⟩ hati yang menyembuhkan, dan busuk tulang ⟨adalah⟩ iri hati.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "yang menyembuhkan"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "dan busuk"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "iri hati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:31.059017153Z",
+  "model": "glm-5.2"
+}

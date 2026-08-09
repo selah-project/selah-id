@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan kepada Lavan ada dua anak perempuan; nama ⟨yang⟩ besar ⟨adalah⟩ Lea, dan nama ⟨yang⟩ kecil ⟨adalah⟩ Rahel.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "Dan kepada Lavan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "⟨yang⟩ besar"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "⟨yang⟩ kecil"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    }
+  ],
+  "timestamp": "2026-08-08T10:23:22.405833510Z",
+  "model": "glm-5.2"
+}

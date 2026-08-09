@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lalu Avshalom mengirim mata-mata ke segala suku Yisra'el, dengan pesan: “Saat kalian mendengar ⟨את⟩ bunyi sangkakala, maka katakanlah: 'Avshalom telah menjadi raja di Khevron.'”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu mengirim"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ke segala"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan pesan"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "Saat kalian mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunyi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "maka katakanlah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "telah menjadi raja"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Khevron"
+    }
+  ],
+  "timestamp": "2026-08-08T07:56:41.598070681Z",
+  "model": "glm-5.2"
+}

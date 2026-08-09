@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan mereka harus memelihara ⟨את⟩ segala perkakas Ohel Moed dan ⟨את⟩ tugas pengawasan bani Yisrael, untuk melakukan ⟨את⟩ pelayanan ha-Mishkan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "dan mereka harus memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkakas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tugas pengawasan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas pengawasan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelayanan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "pelayanan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ha-Mishkan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:40:11.711241871Z",
+  "model": "glm-5.2"
+}

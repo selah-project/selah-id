@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Mosheh ⟨sedang⟩ menggembalakan ⟨את⟩ kambing domba Yitro, mertuanya, imam Midyan, dan ia menggiring ⟨את⟩ kawanan domba itu ke belakang padang gurun, dan ia datang ke gunung ha-Elohim, ke Khorev.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Dan Mosheh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨sedang⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "menggembalakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing domba"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing domba"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mertuanya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "dan ia menggiring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanan domba itu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawanan domba itu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan ia datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Khorev"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:44.542883654Z",
+  "model": "glm-5.2"
+}

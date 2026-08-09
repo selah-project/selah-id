@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dengarkanlah firman Yahweh, ⟨hai⟩ pemimpin-pemimpin Sedom; taruhlah telinga kepada torat Elohim kita, ⟨hai⟩ bangsa Amorah!",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֥וּ",
+      "gloss": "Dengarkanlah"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קְצִינֵ֣י",
+      "gloss": "⟨hai⟩ pemimpin-pemimpin"
+    },
+    {
+      "surface": "סְדֹ֑ם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "הַאֲזִ֛ינוּ",
+      "gloss": "taruhlah telinga"
+    },
+    {
+      "surface": "תּוֹרַ֥ת",
+      "gloss": "kepada torat"
+    },
+    {
+      "surface": "אֱלֹהֵ֖ינוּ",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "עַ֥ם",
+      "gloss": "⟨hai⟩ bangsa"
+    },
+    {
+      "surface": "עֲמֹרָֽה",
+      "gloss": "Amorah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:07:59.618608006Z",
+  "model": "glm-5.2"
+}

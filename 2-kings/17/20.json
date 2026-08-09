@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan Yahweh menolak segala benih Yisra'el, dan menindas mereka, dan menyerahkan mereka ke dalam tangan para perampok, sampai Ia melemparkan mereka dari hadapan-Nya.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "dan Ia menolak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "dan menindas mereka"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "dan menyerahkan mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "para perampok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "Ia melemparkan mereka"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari hadapan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:07:21.892291685Z",
+  "model": "glm-5.2"
+}

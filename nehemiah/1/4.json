@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan terjadilah, ketika aku mendengar ⟨את⟩ perkataan ini, aku duduk dan menangis dan meratap selama beberapa hari, dan aku berpuasa dan berdoa di hadapan Elohim langit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "ketika aku mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "aku duduk"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "dan menangis"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "dan meratap"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "selama beberapa hari"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "צם",
+      "gloss": "berpuasa"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "dan berdoa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-08T09:58:38.604423584Z",
+  "model": "glm-5.2"
+}

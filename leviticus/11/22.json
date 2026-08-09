@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "⟨את⟩ ini dari antaranya kamu boleh makan: ⟨את⟩ belalang menurut jenisnya, dan ⟨את⟩ hargol menurut jenisnya, dan ⟨את〕 hargol menurut jenisnya, dan ⟨את⟩ hagab menurut jenisnya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari antaranya"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belalang"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hargol"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "menurut jenisnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:45.353429789Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Berkatilah Yahweh, segala tentara-Nya, para pelayan-Nya, pelaku kehendak-Nya.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Berkatilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "tentara-Nya"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "para pelayan-Nya"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "pelaku"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "kehendak-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:41.101279551Z",
+  "model": "glm-5.2"
+}

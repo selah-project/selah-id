@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan yang memukul binatang harus menggantinya, dan yang memukul manusia harus dihukum mati.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "dan yang memukul"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "harus menggantinya"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "dan yang memukul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "harus dihukum mati"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:55.048070841Z",
+  "model": "glm-5.2"
+}

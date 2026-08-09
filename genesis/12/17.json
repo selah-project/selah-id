@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Maka Yahweh menulah Paroh ⟨את⟩ dengan tularan besar dan ⟨את⟩ rumahnya, karena perkara Sarai, istri Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "maka menulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "dengan tularan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "besar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumahnya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:53.204911031Z",
+  "model": "glm-5.2"
+}

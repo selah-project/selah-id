@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Keadilan dan hukum ⟨adalah⟩ tempat takhtamu; hesed dan kebenaran akan mendahului hadiratmu.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan hukum"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "takhtamu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "akan mendahului"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hadiratmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:48.237772236Z",
+  "model": "glm-5.2"
+}

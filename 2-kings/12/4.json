@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Hanya tempat-tempat tinggi itu tidak beranjak; masih bangsa itu menyembelih korban dan membakar ukupan di tempat-tempat tinggi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "tempat-tempat tinggi itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "beranjak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "menyembelih korban"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "dan membakar ukupan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di tempat-tempat tinggi"
+    }
+  ],
+  "timestamp": "2026-08-08T08:11:24.738731736Z",
+  "model": "glm-5.2"
+}

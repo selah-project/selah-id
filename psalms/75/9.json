@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 75,
+  "translation": "Sebab gelas di tangan Yahweh, dan anggur berbuih, penu campuran, dan ⟨ia⟩ menuangkan dari sana; sungguh, endapannya akan diperas, akan diminum oleh segala orang fasik bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "gelas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "berbuih"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "penu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "campuran"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "dan ⟨ia⟩ menuangkan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "endapannya"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "akan diperas"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "akan diminum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:51.587408398Z",
+  "model": "glm-5.2"
+}

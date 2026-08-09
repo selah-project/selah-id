@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Janganlah yang terinjak berpulang tersipu-sipu; orang yang tertindas dan orang miskin, biarlah mereka memuji namamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "berpulang"
+    },
+    {
+      "surface": "דך",
+      "gloss": "yang terinjak"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "tersipu-sipu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "orang yang tertindas"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan orang miskin"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "biarlah mereka memuji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:51.735515927Z",
+  "model": "glm-5.2"
+}

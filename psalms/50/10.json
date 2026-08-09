@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Sebab Milik-Ku setiap binatang hutan, ternak di gunung-gunung seribu.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "Milik-Ku"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "חַיְתוֹ",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "יַעַר",
+      "gloss": "hutan"
+    },
+    {
+      "surface": "בְּהֵמוֹת",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "בְּהַרְרֵי",
+      "gloss": "di gunung-gunung"
+    },
+    {
+      "surface": "אֶלֶף",
+      "gloss": "seribu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:14.771017038Z",
+  "model": "glm-5.2"
+}

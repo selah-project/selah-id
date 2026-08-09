@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Untuk pemimpin biduan. Jangan musnahkan. Untuk David. Mikhtam. Ketika Sha'ul mengirim ⟨dan⟩ mereka mengawasi ⟨את⟩ rumah itu untuk membunuhnya.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk pemimpin biduan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "musnahkan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuk David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ketika mengirim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "dan mereka mengawasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "untuk membunuhnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:16.816343409Z",
+  "model": "glm-5.2"
+}

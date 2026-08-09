@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Pada empat sisi para penjaga pintu berada ⟨yaitu⟩: timur, barat, utara, dan selatan.",
+  "tokens": [
+    {
+      "surface": "לְאַרְבַּ֣ע",
+      "gloss": "pada empat"
+    },
+    {
+      "surface": "רוּח֔וֹת",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "יִהְי֖וּ",
+      "gloss": "berada"
+    },
+    {
+      "surface": "הַשֹּׁעֲרִ֑ים",
+      "gloss": "para penjaga pintu"
+    },
+    {
+      "surface": "מִזְרָ֥ח",
+      "gloss": "timur"
+    },
+    {
+      "surface": "יָ֖מָּה",
+      "gloss": "barat"
+    },
+    {
+      "surface": "צָפ֥וֹנָה",
+      "gloss": "utara"
+    },
+    {
+      "surface": "וָנֶֽגְבָּה",
+      "gloss": "dan selatan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:05:33.136946381Z",
+  "model": "glm-5.2"
+}

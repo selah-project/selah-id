@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 93,
+  "translation": "Yahweh telah bertakhta! Ia mengenakan keagungan; Yahweh telah mengenakan kekuatan, telah berikat pinggang dengannya; juga ⟨telah⟩ tegak ⟨lah⟩ dunia, tidak akan tergoncang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "telah bertakhta"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "mengenakan"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "telah mengenakan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "berikat pinggang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "tegak"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tergoncang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:28.559028410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Kesia-siaan mereka ucapkan, setiap orang kepada sesamanya; bibir yang mulus, dengan hati dan hati, mereka berbicara.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mereka ucapkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesamanya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "yang mulus"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dengan hati"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dan hati"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mereka berbicara"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:44.657914229Z",
+  "model": "glm-5.2"
+}

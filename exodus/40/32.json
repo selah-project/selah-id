@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Pada waktu mereka masuk ke ohel moed dan pada waktu mereka mendekati mezbah, mereka membasuh diri, seperti yang diperintahkan Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "pada waktu mereka masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moed"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "dan pada waktu mereka mendekati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "mereka membasuh diri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:21.130883715Z",
+  "model": "glm-5.2"
+}

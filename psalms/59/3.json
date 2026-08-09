@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Lepaskanlah aku dari pelaku kejahatan, dan selamatkanlah aku dari manusia-manusia berdarah.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "lepaskanlah aku"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "dari pelaku"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "dan dari manusia-manusia"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "berdarah"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "selamatkanlah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:16.816662074Z",
+  "model": "glm-5.2"
+}

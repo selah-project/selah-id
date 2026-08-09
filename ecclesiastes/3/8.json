@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Waktu untuk mencintai, dan waktu untuk membenci; waktu untuk perang, dan waktu untuk damai.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "untuk mencintai"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "untuk membenci"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:35.253983245Z",
+  "model": "glm-5.2"
+}

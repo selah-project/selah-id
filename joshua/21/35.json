@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna dan ⟨את⟩ tanah penggembalaannya, ⟨את‬ Nahalal dan ⟨את⟩ tanah penggembalaannya: empat kota.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דִּמְנָה֙",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֔הָ",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נַהֲלָ֖ל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֑הָ",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "עָרִ֖ים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "אַרְבַּֽע",
+      "gloss": "empat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:37:20.179702461Z",
+  "model": "glm-5.2"
+}

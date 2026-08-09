@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Keagungan kemuliaan sembah-Mu, dan firman-firman hal-hal mengagumkan-Mu aku akan renungkan.",
+  "tokens": [
+    {
+      "surface": "הֲדַר",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "כְּבוֹד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "הוֹדֶךָ",
+      "gloss": "sembah-Mu"
+    },
+    {
+      "surface": "וְדִבְרֵי",
+      "gloss": "dan firman-firman"
+    },
+    {
+      "surface": "נִפְלְאוֹתֶיךָ",
+      "gloss": "hal-hal mengagumkan-Mu"
+    },
+    {
+      "surface": "אָשִׂיחָה",
+      "gloss": "aku akan renungkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:57.001388870Z",
+  "model": "glm-5.2"
+}

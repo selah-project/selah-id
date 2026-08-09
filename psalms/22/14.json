@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Mereka menganga ke atasku mulut mereka, singa menerkam dan mengaum.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "mereka menganga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "menerkam"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "dan mengaum"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:09.003437246Z",
+  "model": "glm-5.2"
+}

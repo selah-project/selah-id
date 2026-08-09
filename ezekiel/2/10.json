@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu ⟨ia⟩ membentangkannya ⟨את⟩ di hadapanku, dan ⟨itu⟩ tertulis depan dan belakang; dan tertulis di atasnya: nyanyian ratapan, dan rintihan, dan celaka",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "Lalu ia membentangkannya"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "di hadapanku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dan itu"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "tertulis"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "depan"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "dan belakang"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "dan tertulis"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "nyanyian ratapan"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "dan rintihan"
+    },
+    {
+      "surface": "והי",
+      "gloss": "dan celaka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:21:47.385525360Z",
+  "model": "glm-5.2"
+}

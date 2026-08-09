@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Dengarlah, hai anak perempuan, dan lihatlah, dan condongkanlah telingamu, dan lupakanlah bangsamu dan rumah ayahmu.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hai anak perempuan"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "dan condongkanlah"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "telingamu"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "dan lupakanlah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsamu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dan rumah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:05.010771384Z",
+  "model": "glm-5.2"
+}

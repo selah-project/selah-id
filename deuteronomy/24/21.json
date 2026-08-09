@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Ketika engkau memetik kebun anggurmu, engkau tidak akan memungut sisa bersisa di belakangmu; bagi ⟨הגר⟩, bagi ⟨היתום⟩, dan bagi ⟨האלמנה⟩ ia akan menjadi miliknya.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Ketika"
+    },
+    {
+      "surface": "תִבְצֹר֙",
+      "gloss": "engkau memetik"
+    },
+    {
+      "surface": "כַּרְמְךָ֔",
+      "gloss": "kebun anggurmu"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תְעוֹלֵ֖ל",
+      "gloss": "engkau akan memungut sisa"
+    },
+    {
+      "surface": "אַחֲרֶ֑יךָ",
+      "gloss": "di belakangmu"
+    },
+    {
+      "surface": "לַגֵּ֛ר",
+      "gloss": "bagi si ger",
+      "marks": "הגר"
+    },
+    {
+      "surface": "לַיָּת֥וֹם",
+      "gloss": "bagi anak yatim",
+      "marks": "היתום"
+    },
+    {
+      "surface": "וְלָאַלְמָנָ֖ה",
+      "gloss": "dan bagi janda",
+      "marks": "האלמנה"
+    },
+    {
+      "surface": "יִהְיֶֽה",
+      "gloss": "ia akan menjadi miliknya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:03.125092309Z",
+  "model": "glm-5.2"
+}

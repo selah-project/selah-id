@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan imam yang menyucikan itu mendirikan ⟨את⟩ orang yang disucikan dan ⟨את⟩ semuanya di hadapan Yahweh, di pintu kemah perjumpaan.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "Dan ... mendirikan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yang menyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang yang disucikan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yang disucikan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semuanya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "perjumpaan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:32.258887592Z",
+  "model": "glm-5.2"
+}

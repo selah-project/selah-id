@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan persembahan Yehudah dan Yerushalayim akan berkenan kepada Yahweh, seperti hari-hari purbakala dan seperti tahun-tahun dahulu.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "Dan akan berkenan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerushalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "seperti hari-hari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "purbakala"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "dan seperti tahun-tahun"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "dahulu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:24.273862566Z",
+  "model": "glm-5.2"
+}

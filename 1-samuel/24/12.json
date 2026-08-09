@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 24:12",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "“Dan ayahku, lihat, ya, lihatlah ⟨את⟩ ujung jubahmu di tanganku, sebab ketika aku memotong ⟨את⟩ ujung jubahmu, aku tidak membunuh engkau. Ketahuilah dan lihatlah bahwa tidak ada dalam tanganku kejahatan maupun pelanggaran, dan aku tidak berbuat dosa kepadamu, padahal engkau memburu ⟨את⟩ nyawaku untuk mengambilnya.”",
+  "tokens": [
+    {
+      "surface": "ואבי",
+      "gloss": "Dan ayahku"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ujung jubahmu"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "jubahmu"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "di tanganku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בכרתי",
+      "gloss": "ketika aku memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ujung jubahmu"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "jubahmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "membunuh engkau"
+    },
+    {
+      "surface": "דע",
+      "gloss": "Ketahuilah"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "dalam tanganku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "maupun pelanggaran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku berbuat dosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "padahal engkau"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "memburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawaku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "untuk mengambilnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:14.420259279Z",
+  "model": "glm-5.2"
+}

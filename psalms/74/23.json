@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Janganlah lupakan suara para lawanmu; keributan orang-orang yang bangkit melawanmu naik tanpa henti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lupakan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "para lawanmu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "keributan"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "orang-orang yang bangkit melawanmu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tanpa henti"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:51.735861334Z",
+  "model": "glm-5.2"
+}

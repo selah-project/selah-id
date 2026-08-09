@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Maka pergilah Obadjahu menemui Ahab, dan memberitahukan ⟨kepadanya⟩; lalu pergilah Ahab menemui Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "maka pergilah"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadjahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "menemui"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kepadanya⟩"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergilah"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "menemui"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:54.695524201Z",
+  "model": "glm-5.2"
+}

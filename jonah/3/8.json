@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 3:8",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan biarlah kain karung menutupi manusia dan binatang, dan biarlah ⟨mereka⟩ berseru kepada Elohim dengan keras; dan biarlah setiap orang berbalik dari jalannya yang jahat dan dari kekerasan yang ada di telapak tangan mereka.",
+  "tokens": [
+    {
+      "surface": "ויתכסו",
+      "gloss": "dan biarlah menutupi"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "kain karung"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "dan binatang"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "dan biarlah ⟨mereka⟩ berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "dengan keras"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dan biarlah berbalik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "dari jalannya"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "החמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "di telapak tangan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:00.905260381Z",
+  "model": "glm-5.2"
+}

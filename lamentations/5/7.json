@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Bapa-bapa kami telah berdosa—⟨mereka⟩ tidak ada; kami menanggung kesalahan-kesalahan mereka.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "telah berdosa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "⟨mereka⟩ tidak ada"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "kesalahan-kesalahan mereka"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "telah menanggung"
+    }
+  ],
+  "timestamp": "2026-08-08T11:56:59.579526173Z",
+  "model": "glm-5.2"
+}

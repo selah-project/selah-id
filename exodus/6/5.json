@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan juga aku ⟨telah⟩ mendengar ⟨את⟩ keluhan bani Yisra'el yang Mitsrayim perbudak ⟨את⟩ mereka, dan aku ingat ⟨את⟩ perjanjian-Ku.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "⟨telah⟩ mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluhan"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "keluhan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "perbudak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "dan aku ingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T23:15:41.965208252Z",
+  "model": "glm-5.2"
+}

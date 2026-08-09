@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Tetapi jika ia tidak mencuci ⟨pakaian-pakaian⟩ dan tidak membasuh tubuhnya, maka ia akan menanggung kesalahannya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ia mencuci"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "tubuhnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "membasuh"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "maka ia akan menanggung"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kesalahannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:17.939432266Z",
+  "model": "glm-5.2"
+}

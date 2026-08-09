@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Adonai tertawa kepadanya, sebab ⟨dia⟩ melihat bahwa harinya datang.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יִשְׂחַק",
+      "gloss": "tertawa"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רָ֝אָ֗ה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "datang"
+    },
+    {
+      "surface": "יוֹמֽוֹ",
+      "gloss": "harinya"
+    }
+  ],
+  "timestamp": "2026-08-08T13:24:18.960533125Z",
+  "model": "glm-5.2"
+}

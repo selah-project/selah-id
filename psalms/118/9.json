@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 118,
+  "translation": "Lebih baik berlindung pada Yahweh daripada percaya pada ⟨para⟩ nadib.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "berlindung"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pada Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "daripada percaya"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "pada nadib"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:04.210788262Z",
+  "model": "glm-5.2"
+}

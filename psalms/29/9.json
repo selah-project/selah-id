@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Suara Yahweh membuat ⟨את⟩ rusa betina melahirkan, dan ⟨dia⟩ menelanjangi ⟨את⟩ hutan; dan di bait-Nya, semuanya berkata: “Kavod!”",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "membuat melahirkan"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "rusa betina"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "dan menelanjangi"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "hutan"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "dan di bait-Nya"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kavod"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:56.132534917Z",
+  "model": "glm-5.2"
+}

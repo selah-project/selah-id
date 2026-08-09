@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Sekarang aku tahu bahwa Yahweh menyelamatkan ⟨את⟩ Mashíac-Nya; Ia akan menjawabnya dari langit-Nya yang kudus dengan kekuatan penyelamatan tangan kanan-Nya.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "⟨את⟩ Mashíac-Nya",
+      "marks": "Mashíac-Nya"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "Ia akan menjawabnya"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "dari langit-"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "-Nya yang kudus"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "dengan kekuatan"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "penyelamatan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tangan kanan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:19.045684627Z",
+  "model": "glm-5.2"
+}

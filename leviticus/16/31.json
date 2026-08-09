@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Shabbat shabbaton ⟨lah ia⟩ bagi kalian, dan kalian akan merendahkan ⟨את⟩ nefesh kalian — ketetapan kekal.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨lah ia⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kalian"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "dan kalian akan merendahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesh kalian"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nefesh kalian"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kekal"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:13.208173068Z",
+  "model": "glm-5.2"
+}

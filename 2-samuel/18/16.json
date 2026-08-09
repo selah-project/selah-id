@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Yoav meniup sangkakala, dan rakyat berhenti mengejar orang-orang Yisra'el, sebab Yoav menahan ⟨את⟩ rakyat itu.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "meniup"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "berhenti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "mengejar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "menahan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakyat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:00:12.275543874Z",
+  "model": "glm-5.2"
+}

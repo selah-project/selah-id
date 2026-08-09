@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dan seluruh bangsa itu melihat ⟨את⟩ tiang awan berdiri di pintu kemah, dan seluruh bangsa itu bangkit dan tersungkur, setiap orang di pintu kemahnya.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang awan"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "dan bangkit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "dan tersungkur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "kemahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:36.590078874Z",
+  "model": "glm-5.2"
+}

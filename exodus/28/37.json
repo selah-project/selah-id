@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Dan engkau akan menaruhnya di atas tali biru-ungu, dan ⟨ia⟩ akan berada di atas destar, tepat di depan destar ⟨ia⟩ akan berada.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Dan engkau akan menaruh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "di atas tali biru-ungu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "tali"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru-ungu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan akan berada"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "destar itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tepat"
+    },
+    {
+      "surface": "מול",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "destar itu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan berada"
+    }
+  ],
+  "timestamp": "2026-08-08T10:31:55.939295101Z",
+  "model": "glm-5.2"
+}

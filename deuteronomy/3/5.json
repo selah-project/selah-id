@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Semua kota-kota ini ⟨adalah⟩ benteng-benteng, tembok tinggi, pintu gerbang dan palang — di samping kota-kota orang Perizi yang sangat banyak.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אֵ֜לֶּה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עָרִ֧ים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "בְּצֻר֛וֹת",
+      "gloss": "benteng-benteng"
+    },
+    {
+      "surface": "חוֹמָ֥ה",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "גְבֹהָ֖ה",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "דְּלָתַ֣יִם",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "וּבְרִ֑יחַ",
+      "gloss": "dan palang"
+    },
+    {
+      "surface": "לְבַ֛ד",
+      "gloss": "di samping"
+    },
+    {
+      "surface": "מֵעָרֵ֥י",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "הַפְּרָזִ֖י",
+      "gloss": "orang Perizi"
+    },
+    {
+      "surface": "הַרְבֵּ֥ה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:40.005271136Z",
+  "model": "glm-5.2"
+}

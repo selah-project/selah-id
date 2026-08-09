@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan ⟨seorang⟩ laki-laki yang memberikan persetubuhannya kepada seekor hewan, mati ⟨dia⟩ akan dihukum mati, dan ⟨את⟩ hewan itu kamu harus membunuh.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan laki-laki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "persetubuhannya"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "kepada hewan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dia akan dihukum mati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hewan itu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hewan itu"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "kamu harus membunuh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:08.576172105Z",
+  "model": "glm-5.2"
+}

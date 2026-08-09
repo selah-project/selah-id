@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Maka Hanun mengambil ⟨את⟩ hamba-hamba Dawit, dan mencukur ⟨את⟩ separuh janggut mereka, lalu memotong ⟨את⟩ pakaian mereka di tengah, sampai pinggul mereka, dan menyuruh mereka pergi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Maka mengambil"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hamba"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawit"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "dan mencukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "separuh"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "separuh"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "janggut mereka"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "lalu memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian mereka"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "pakaian mereka"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "pinggul mereka"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "dan menyuruh mereka pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:58:33.280574552Z",
+  "model": "glm-5.2"
+}

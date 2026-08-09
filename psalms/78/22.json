@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "karena mereka tidak percaya kepada Elohim dan tidak bersandar kepada keselamatan-Nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "mereka percaya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "mereka bersandar"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "kepada keselamatan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:26.820898774Z",
+  "model": "glm-5.2"
+}

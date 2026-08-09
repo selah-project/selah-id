@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Lalu ia menyuruh ⟨את⟩ saudara-saudaranya pergi, dan mereka berangkat; dan ia berkata kepada mereka, “Jangan bergemetar di jalan.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu ia menyuruh pergi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan mereka berangkat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "kalian bergemetar"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:02.430041492Z",
+  "model": "glm-5.2"
+}

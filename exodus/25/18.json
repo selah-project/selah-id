@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan engkau akan membuat dua keruv emas — pekerjaan tempaan engkau akan membuat ⟨את⟩-nya — dari kedua ujung kaporet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau akan membuat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruv"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "pekerjaan tempaan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau akan membuat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (dua keruv)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "dari kedua"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    }
+  ],
+  "timestamp": "2026-08-08T10:31:18.342657496Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Aku melihat ⟨את⟩ bumi, dan lihat, tohu va-vohu; dan ke langit, dan tidak ada cahaya mereka.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "va-vohu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "cahaya mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:15:02.340176288Z",
+  "model": "glm-5.2"
+}

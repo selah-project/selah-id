@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 76,
+  "translation": "Untuk pemimpin musik, dengan permainan senar. Mizmor bagi Asaf, nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk pemimpin musik"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "dengan permainan senar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:55.038454244Z",
+  "model": "glm-5.2"
+}

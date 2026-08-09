@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan ⟨ia⟩ berkata kepada mereka, “Cemari ⟨את⟩ rumah ini dan penuhilah ⟨את⟩ pelataran-pelataran dengan orang-orang yang tewas. Keluarlah!” Maka mereka pun keluar dan memukul di kota.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "cemarilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan penuhilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelataran-pelataran"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "pelataran-pelataran"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "dengan orang-orang yang tewas"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "dan mereka keluar"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    }
+  ],
+  "timestamp": "2026-08-08T11:22:57.785032361Z",
+  "model": "glm-5.2"
+}

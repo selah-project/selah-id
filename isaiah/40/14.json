@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "⟨Dengan⟩ ⟨את⟩ siapa Ia berunding, dan ⟨Ia⟩ membuatnya mengerti, dan mengajarinya di jalan keadilan, dan mengajarinya pengetahuan, dan jalan pengertian memperkenalkan ⟨kepada⟩-Nya?",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "siapa"
+    },
+    {
+      "surface": "מִ֤י",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "נוֹעָץ֙",
+      "gloss": "Ia berunding"
+    },
+    {
+      "surface": "וַיְבִינֵ֔הוּ",
+      "gloss": "dan membuatnya mengerti"
+    },
+    {
+      "surface": "וַֽיְלַמְּדֵ֖הוּ",
+      "gloss": "dan mengajarinya"
+    },
+    {
+      "surface": "בְּאֹ֣רַח",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "וַיְלַמְּדֵ֣הוּ",
+      "gloss": "dan mengajarinya"
+    },
+    {
+      "surface": "דַ֔עַת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "וְדֶ֥רֶךְ",
+      "gloss": "dan jalan"
+    },
+    {
+      "surface": "תְּבוּנ֖וֹת",
+      "gloss": "pengertian"
+    },
+    {
+      "surface": "יוֹדִיעֶֽנּוּ",
+      "gloss": "memperkenalkan kepada-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:31.917222269Z",
+  "model": "glm-5.2"
+}

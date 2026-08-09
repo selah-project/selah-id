@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Lalu Shaúl mengenali ⟨את⟩ suara Dawíd, dan berkata, “Apakah ini suaramu, anakku Dawíd?” Dan berkatalah Dawíd, “Suaraku, tuanku sang raja.”",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Lalu mengenali"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawíd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawíd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawíd"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T12:15:36.743405375Z",
+  "model": "glm-5.2"
+}

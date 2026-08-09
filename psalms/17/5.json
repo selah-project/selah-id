@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Langkah-langkahku ⟨telah⟩ berpegang teguh pada jejak-jejak-Mu, kakiku tidak tergelincir.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "berpegang teguh"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "langkah-langkahku"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "pada jejak-jejak-Mu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "tergelincir"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "kakiku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:53.695304058Z",
+  "model": "glm-5.2"
+}

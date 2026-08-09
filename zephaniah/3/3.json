@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Pemimpin-pemimpinnya di tengah-tengahnya ⟨adalah⟩ singa-singa yang mengaum; para hakimnya ⟨adalah⟩ serigala-serigala senja, yang tidak meninggalkan tulang sampai pagi.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "pemimpin-pemimpinnya"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "singa-singa"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "yang mengaum"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "para hakimnya"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "serigala-serigala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "senja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "meninggalkan tulang"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sampai pagi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:03:07.802966110Z",
+  "model": "glm-5.2"
+}

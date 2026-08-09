@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Ada yang memperkaya diri namun tidak memiliki apa-apa; ada yang memiskinkan diri namun memiliki harta berlimpah.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "yang memperkaya diri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "namun tidak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "yang memiskinkan diri"
+    },
+    {
+      "surface": "והון",
+      "gloss": "namun memiliki harta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "berlimpah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:06.009563707Z",
+  "model": "glm-5.2"
+}

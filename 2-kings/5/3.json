@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Lalu berkatalah ia kepada nyonyanya: „Semoga tuanku ⟨berada⟩ di hadapan nabi yang di Shomron, maka tentu ia akan mengambil ⟨את⟩ dia dari penyakit tzaraatnya!”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "nyonyanya"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Semoga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "maka tentu"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ia akan mengambil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "dari penyakit tzaraatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T18:32:01.419684308Z",
+  "model": "glm-5.2"
+}

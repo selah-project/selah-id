@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Anak-anak singa miskin dan lapar, tetapi orang-orang yang mencari Yahweh tidak kekurangan ⟨dari⟩ segala kebaikan.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "anak-anak singa"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "dan lapar"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "tetapi orang-orang yang mencari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "kekurangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:17.963388128Z",
+  "model": "glm-5.2"
+}

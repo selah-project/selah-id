@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Engkau, dengan tangan-Mu ⟨engkau⟩ menyingkirkan bangsa-bangsa dan ⟨Engkau⟩ menanam mereka; ⟨Engkau⟩ meremukkan kaum-kaum dan mengusir mereka.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dengan tangan-Mu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "⟨engkau⟩ menyingkirkan"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "dan ⟨Engkau⟩ menanam mereka"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "⟨Engkau⟩ meremukkan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kaum-kaum"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "dan mengusir mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:59.060805653Z",
+  "model": "glm-5.2"
+}

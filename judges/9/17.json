@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "judges 9:17",
+ "book": "judges",
+ "lang": "id",
+ "chapter": 9,
+ "translation": "(karena ayahku berperang untuk kamu, dan ia membahayakan ⟨את⟩ nyawanya dari depan, dan ia menyelamatkan kamu dari tangan Midyan;",
+ "tokens": [
+  {
+   "surface": "אֲשֶׁר",
+   "gloss": "karena"
+  },
+  {
+   "surface": "נִלְחַ֥ם",
+   "gloss": "berperang"
+  },
+  {
+   "surface": "אָבִ֖י",
+   "gloss": "ayahku"
+  },
+  {
+   "surface": "עֲלֵיכֶ֑ם",
+   "gloss": "untuk kamu"
+  },
+  {
+   "surface": "וַיַּשְׁלֵ֤ךְ",
+   "gloss": "dan ia membahayakan"
+  },
+  {
+   "surface": "אֶת",
+   "gloss": "⟨את⟩",
+   "marks": "nyawanya"
+  },
+  {
+   "surface": "נַפְשׁוֹ֙",
+   "gloss": "nyawanya"
+  },
+  {
+   "surface": "מִנֶּ֔גֶד",
+   "gloss": "dari depan"
+  },
+  {
+   "surface": "וַיַּצֵּ֥ל",
+   "gloss": "dan ia menyelamatkan"
+  },
+  {
+   "surface": "אֶתְכֶ֖ם",
+   "gloss": "⟨את⟩ kamu"
+  },
+  {
+   "surface": "מִיַּ֥ד",
+   "gloss": "dari tangan"
+  },
+  {
+   "surface": "מִדְיָֽן",
+   "gloss": "Midyan"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:15.717363747Z",
+ "model": "glm-5.2"
+}

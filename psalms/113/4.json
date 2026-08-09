@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 113,
+  "translation": "Tinggi mengatasi segala bangsa-bangsa ⟨adalah⟩ Yahweh, mengatasi langit kemuliaan-Nya.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengatasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengatasi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:56.376400077Z",
+  "model": "glm-5.2"
+}

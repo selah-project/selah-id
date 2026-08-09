@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "maka ia harus menghitung ⟨את⟩ tahun-tahun sejak penjualannya dan mengembalikan ⟨את⟩ kelebihan itu kepada orang yang menjual kepadanya, lalu ia kembali ke milik pusakanya.",
+  "tokens": [
+    {
+      "surface": "וְחִשַּׁב֙",
+      "gloss": "maka ia harus menghitung"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tahun-tahun"
+    },
+    {
+      "surface": "שְׁנֵ֣י",
+      "gloss": "tahun-tahun"
+    },
+    {
+      "surface": "מִמְכָּר֔וֹ",
+      "gloss": "sejak penjualannya"
+    },
+    {
+      "surface": "וְהֵשִׁיב֙",
+      "gloss": "dan mengembalikan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kelebihan"
+    },
+    {
+      "surface": "הָ֣עֹדֵ֔ף",
+      "gloss": "kelebihan"
+    },
+    {
+      "surface": "לָאִ֖ישׁ",
+      "gloss": "kepada orang"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מָֽכַר",
+      "gloss": "menjual"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "וְשָׁ֖ב",
+      "gloss": "lalu ia kembali"
+    },
+    {
+      "surface": "לַאֲחֻזָּתֽוֹ",
+      "gloss": "ke milik pusakanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:31.334180456Z",
+  "model": "glm-5.2"
+}

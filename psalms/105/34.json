@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "⟨Ia⟩ berfirman, dan datang belalang, dan ulat, dan tidak ada ⟨ada⟩ bilangan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Berfirman"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "dan ulat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:46.379427676Z",
+  "model": "glm-5.2"
+}

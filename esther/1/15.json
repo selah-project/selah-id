@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "“Menurut hukum, apa yang harus dilakukan kepada ratu Vashti, karena ⟨dia⟩ tidak melakukan ⟨את⟩ perintah raja Achashverosh oleh tangan para sida-sida?”",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "menurut hukum"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "harus dilakukan"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "kepada ratu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "dia melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "oleh tangan"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "para sida-sida"
+    }
+  ],
+  "timestamp": "2026-08-08T11:58:15.725753368Z",
+  "model": "glm-5.2"
+}

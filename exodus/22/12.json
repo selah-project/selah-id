@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jika sungguh diterkam, ia harus membawanya sebagai bukti; ⟨untuk⟩ yang diterkam ⟨itu⟩ ia tidak membayar ganti rugi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "diterkam"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "ia harus membawanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sebagai bukti"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "yang diterkam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ia membayar ganti rugi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:09.550763467Z",
+  "model": "glm-5.2"
+}

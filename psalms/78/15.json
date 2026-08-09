@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Ia membelah bebatuan di padang gurun dan memberi mereka minum sedalam air bah yang besar.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "ia membelah"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "bebatuan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dan memberi minum"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "sedalam air bah"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:28.059941588Z",
+  "model": "glm-5.2"
+}

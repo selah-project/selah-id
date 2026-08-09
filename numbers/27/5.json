@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Lalu Mosheh mendekatkan ⟨את⟩ perkara mereka ke hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Lalu mendekatkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara mereka"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "perkara mereka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:21:50.168711978Z",
+  "model": "glm-5.2"
+}

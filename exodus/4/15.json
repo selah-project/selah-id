@@ -1,0 +1,83 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "exodus 4:15",
+ "book": "exodus",
+ "lang": "id",
+ "chapter": 4,
+ "translation": "Dan engkau akan berbicara kepadanya, dan engkau akan menaruh ⟨את⟩ perkataan di mulutnya, dan Aku akan ada bersama mulutmu dan bersama mulutnya, dan Aku akan mengajari kamu ⟨את⟩ ⟨את⟩ yang akan kamu lakukan.",
+ "tokens": [
+  {
+   "surface": "ודברת",
+   "gloss": "Dan engkau akan berbicara"
+  },
+  {
+   "surface": "אליו",
+   "gloss": "kepadanya"
+  },
+  {
+   "surface": "ושמת",
+   "gloss": "dan engkau akan menaruh"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "perkataan"
+  },
+  {
+   "surface": "הדברים",
+   "gloss": "perkataan"
+  },
+  {
+   "surface": "בפיו",
+   "gloss": "di mulutnya"
+  },
+  {
+   "surface": "ואנכי",
+   "gloss": "dan Aku"
+  },
+  {
+   "surface": "אהיה",
+   "gloss": "akan ada"
+  },
+  {
+   "surface": "עם",
+   "gloss": "bersama"
+  },
+  {
+   "surface": "פיך",
+   "gloss": "mulutmu"
+  },
+  {
+   "surface": "ועם",
+   "gloss": "dan bersama"
+  },
+  {
+   "surface": "פיהו",
+   "gloss": "mulutnya"
+  },
+  {
+   "surface": "והוריתי",
+   "gloss": "dan Aku akan mengajari"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ kamu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "yang akan kamu lakukan"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "yang"
+  },
+  {
+   "surface": "תעשון",
+   "gloss": "akan kamu lakukan"
+  }
+ ],
+ "timestamp": "2026-08-09T01:38:31.107040319Z",
+ "model": "glm-5.2"
+}

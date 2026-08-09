@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Hatiku panas di dalam diriku; sembinɡianku menyala-nyala ⟨seperti⟩ api, aku berbicara dengan lidahku:",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "panas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Hatiku"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diriku"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "semeditasi\/sembinɡianku"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "menyala-nyala"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aku berbicara"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "dengan lidahku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:44.350007420Z",
+  "model": "glm-5.2"
+}

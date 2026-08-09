@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan terjadilah pada keesokan harinya, dan Mosheh duduk untuk menghakimi ⟨את⟩ bangsa itu, dan bangsa itu berdiri dekat Mosheh dari pagi sampai petang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pada keesokan harinya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan duduk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "untuk menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dan berdiri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "petang"
+    }
+  ],
+  "timestamp": "2026-08-08T06:59:42.988393204Z",
+  "model": "glm-5.2"
+}

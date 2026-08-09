@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Kami merenungkan hesed-Mu, Elohim, di tengah istana-Mu.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "kami merenungkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "istana-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:32.436517161Z",
+  "model": "glm-5.2"
+}

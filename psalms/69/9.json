@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Orang asing aku telah menjadi bagi saudara-saudaraku, dan orang asing bagi anak-anak ibuku.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku telah menjadi"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "bagi saudara-saudaraku"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "dan orang asing"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi anak-anak"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:52.733711385Z",
+  "model": "glm-5.2"
+}

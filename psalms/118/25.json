@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 118,
+  "translation": "Tolonglah ya Yahweh, selamatkanlah kiranya; tolonglah ya Yahweh, berilah keberhasilan kiranya!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "tolonglah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "selamatkanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "tolonglah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "berilah keberhasilan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:34.772220039Z",
+  "model": "glm-5.2"
+}

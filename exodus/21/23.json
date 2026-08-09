@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Tetapi jika ada kerugian, maka engkau ⟨harus⟩ memberikan jiwa demi jiwa,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "kerugian"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "maka engkau memberikan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "demi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    }
+  ],
+  "timestamp": "2026-08-08T10:31:00.125254113Z",
+  "model": "glm-5.2"
+}

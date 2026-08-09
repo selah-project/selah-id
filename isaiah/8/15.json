@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan banyak orang akan tersandung karenanya, dan akan jatuh, dan akan hancur, dan akan terjerat, dan akan tertangkap.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "Dan akan tersandung"
+    },
+    {
+      "surface": "בם",
+      "gloss": "karenanya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak orang"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dan akan jatuh"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "dan akan hancur"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "dan akan terjerat"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "dan akan tertangkap"
+    }
+  ],
+  "timestamp": "2026-08-08T08:16:44.562853011Z",
+  "model": "glm-5.2"
+}

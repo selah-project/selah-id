@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 72,
+  "translation": "Tamallah doa-doa Dawid, bin Yishai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "tamallah"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "doa-doa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:30.973690494Z",
+  "model": "glm-5.2"
+}

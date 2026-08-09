@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Jangan ⟨engkau⟩ bersaksi dusta terhadap sesamamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bersaksi"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "terhadap sesamamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-08T06:59:59.732906039Z",
+  "model": "glm-5.2"
+}

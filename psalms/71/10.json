@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Karena musuhku telah berbicara terhadap aku, dan ⟨mereka⟩ yang mengintai ⟨את⟩ nafsku telah bermusyawarah bersama-sama,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "telah berbicara"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "dan ⟨merega⟩ yang mengintai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsku"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "telah bermusyawarah"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:19.483800572Z",
+  "model": "glm-5.2"
+}

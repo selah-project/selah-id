@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan aku berkata, “Setelah ⟨ia⟩ melakukan ⟨את⟩ semua hal ini, akankah ⟨ia⟩ kembali kepadaku?” Tetapi ⟨ia⟩ tidak kembali. Dan saudarinya yang berkhianat, Yehudah, melihatnya.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַ֗ר",
+      "gloss": "Dan aku berkata"
+    },
+    {
+      "surface": "אַחֲרֵ֨י",
+      "gloss": "Setelah"
+    },
+    {
+      "surface": "עֲשׂוֹתָ֧הּ",
+      "gloss": "⟨ia⟩ melakukan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "semua hal"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אֵ֛לֶּה",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "תָּשׁ֖וּב",
+      "gloss": "akankah ⟨ia⟩ kembali"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "Tetapi tidak"
+    },
+    {
+      "surface": "שָׁ֑בָה",
+      "gloss": "⟨ia⟩ kembali"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "Dan melihatnya"
+    },
+    {
+      "surface": "בָּגוֹדָ֥ה",
+      "gloss": "yang berkhianat"
+    },
+    {
+      "surface": "אֲחוֹתָ֖הּ",
+      "gloss": "saudarinya"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-08T08:30:21.538321867Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Engkau mempersilakan manusia menunggangi ⟨di atas⟩ kepala kami, kami masuk ke dalam api dan ke dalam air, dan Engkau mengeluarkan kami ⟨menuju⟩ kelimpahan.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Engkau mempersilakan menunggangi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "⟨di atas⟩ kepala kami"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "kami masuk"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ke dalam api"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "dan ke dalam air"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "dan Engkau mengeluarkan kami"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "⟨menuju⟩ kelimpahan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:18.164582394Z",
+  "model": "glm-5.2"
+}

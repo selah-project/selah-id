@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Bangkitlah, Yahweh, dalam amarah-Mu; angkatlah diri-Mu dalam kegeraman terhadap yang menindasku; dan terjagalah bagi aku; penghakiman Engkau telah perintahkan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangkitlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dalam amarah-Mu"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "angkatlah diri-Mu"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "dalam kegeraman"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "yang menindasku"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "dan terjagalah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bagi aku"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "penghakiman"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "Engkau telah perintahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:02.168886518Z",
+  "model": "glm-5.2"
+}

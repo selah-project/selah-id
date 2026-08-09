@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 28:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Dan Esav melihat bahwa Yitschak telah memberkati ⟨את⟩ Yaakob, dan menyuruhnya pergi ke Padan-Aram untuk mengambil baginya dari sana seorang istri — ketika memberkatinya ⟨ia⟩ memberi perintah kepadanya, mengatakan: “Jangan ambil seorang istri dari antara anak-anak perempuan Kenaan.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "telah memberkati"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dan menyuruh pergi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "ia (Esav\/Yitschak)"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "untuk mengambil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang istri"
+    },
+    {
+      "surface": "בברכו",
+      "gloss": "ketika memberkatinya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "ia (Esav\/Yitschak)"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "dan ⟨ia⟩ memberi perintah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mengatakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau ambil"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang istri"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "dari antara anak-anak perempuan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:40.056870369Z",
+  "model": "glm-5.2"
+}

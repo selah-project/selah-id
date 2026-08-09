@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "sebab kepada para pekerja pekerjaan itu diberikan, dan dengannya mereka menguatkan ⟨את⟩ bait Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "kepada para pekerja"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "pekerjaan itu"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "dan mereka menguatkan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:52.897596752Z",
+  "model": "glm-5.2"
+}

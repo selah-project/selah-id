@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Muliakanlah ⟨את⟩ ayahmu dan ⟨את⟩ ibumu, seperti yang diperintahkan Yahweh Elohim-mu kepadamu, supaya panjang umurmu dan supaya baik kepadamu, atas tanah yang Yahweh Elohim-mu berikan kepadamu.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Muliakanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahmu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ibumu"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "diperintahkan kepadamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יאריכן",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "umurmu"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dan supaya"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:25:58.584583421Z",
+  "model": "glm-5.2"
+}

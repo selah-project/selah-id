@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Dan orang-orang benar akan melihat, dan akan gentar, dan atas dia mereka akan tertawa.",
+  "tokens": [
+    {
+      "surface": "וְיִרְא֖וּ",
+      "gloss": "dan akan melihat"
+    },
+    {
+      "surface": "צַדִּיקִ֥ים",
+      "gloss": "orang-orang benar"
+    },
+    {
+      "surface": "וְיִירָ֗אוּ",
+      "gloss": "dan akan gentar"
+    },
+    {
+      "surface": "וְעָלָ֥יו",
+      "gloss": "dan atas dia"
+    },
+    {
+      "surface": "יִשְׂחָֽקוּ",
+      "gloss": "mereka akan tertawa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:33.737845625Z",
+  "model": "glm-5.2"
+}

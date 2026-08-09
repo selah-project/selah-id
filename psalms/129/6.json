@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 129,
+  "translation": "Biarlah mereka seperti rumput di atap-atap, yang sebelum dicabut telah layu.",
+  "tokens": [
+    {
+      "surface": "יִ֭הְיוּ",
+      "gloss": "Biarlah mereka menjadi"
+    },
+    {
+      "surface": "כַּחֲצִ֣יר",
+      "gloss": "seperti rumput"
+    },
+    {
+      "surface": "גַּגּ֑וֹת",
+      "gloss": "di atap-atap"
+    },
+    {
+      "surface": "שֶׁקַּדְמַ֖ת",
+      "gloss": "yang sebelum"
+    },
+    {
+      "surface": "שָׁלַ֣ף",
+      "gloss": "dicabut"
+    },
+    {
+      "surface": "יָבֵֽשׁ",
+      "gloss": "telah layu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:41.876453633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Maka ia harus bercukur, tetapi ⟨את⟩ ruam itu tidak boleh dicukurnya; dan imam harus mengurung ⟨את⟩ ruam itu tujuh hari untuk kedua kalinya.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "maka ia harus bercukur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ruam itu"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ruam itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "boleh dicukurnya"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "dan harus mengurung"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruam itu"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ruam itu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "untuk kedua kalinya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:12:18.795873760Z",
+  "model": "glm-5.2"
+}

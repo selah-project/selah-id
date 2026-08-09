@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Cukup bagimu mengelilingi ⟨את⟩ gunung ini; berpalinglah kamu ke utara.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Cukup"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "סב",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "berpalinglah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ke utara"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:33.699432810Z",
+  "model": "glm-5.2"
+}

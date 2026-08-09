@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan pada saat Aku memadamkan engkau, Aku akan menutupi langit, dan Aku akan menggelapkan ⟨את⟩ bintang-bintangnya; matahari dengan awan Aku tutupi, dan bulan tidak akan menyinarkan cahayanya.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "dan Aku akan menutupi"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "pada saat Aku memadamkan engkau"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "dan Aku akan menggelapkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bintang-bintangnya"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "bintang-bintangnya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "dengan awan"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "Aku tutupi"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "dan bulan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "akan menyinarkan"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "cahayanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:25:38.473822369Z",
+  "model": "glm-5.2"
+}

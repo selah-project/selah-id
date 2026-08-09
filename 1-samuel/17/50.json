@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Maka berkuasalah Dawid atas ⟨את⟩ orang Pelishti itu dengan umbrella dan dengan batu, dan ia memukul ⟨את⟩ orang Pelishti itu serta membunuhnya; namun tidak ada pedang di tangan Dawid.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Maka berkuasalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מן",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Pelishti itu"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "dengan umbrella"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "dan dengan batu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan ia memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Pelishti itu"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Pelishti itu"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "serta membunuhnya"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "namun pedang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di tangan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T07:50:08.312272111Z",
+  "model": "glm-5.2"
+}

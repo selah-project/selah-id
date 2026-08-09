@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan terjadilah pada pagi hari, ketika naik persembahan itu, dan lihat, air datang dari jalan Edom, dan negeri itu dipenuhi ⟨את⟩ air itu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi hari"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ketika naik"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahan itu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "באים",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "dari jalan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dan dipenuhi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "air itu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:14.808917544Z",
+  "model": "glm-5.2"
+}

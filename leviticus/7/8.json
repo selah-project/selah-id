@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan imam yang mempersembahkan ⟨את⟩ korban bakaran seseorang — kulit korban bakaran yang telah dipersembahkannya, bagi imam itu ⟨itulah⟩ menjadi miliknya.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "dan imam"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "yang mempersembahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "dipersembahkannya"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bagi imam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "menjadi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:53.178738392Z",
+  "model": "glm-5.2"
+}

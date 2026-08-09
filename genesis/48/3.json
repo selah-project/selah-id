@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Yaakov berkata kepada Yosef: “El Shaddai menampakkan diri kepadaku di Luz, di tanah Kena'an, dan Ia memberkati ⟨את⟩ aku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "menampakkan diri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "di Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:14.902070879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Tetapi engkau, pergilah hingga akhir; dan ⟨engkau⟩ akan beristirahat, dan ⟨engkau⟩ akan berdiri bagi bagianmu, pada akhir hari-hari.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tetapi engkau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "hingga akhir"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "dan ⟨engkau⟩ akan beristirahat"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dan ⟨engkau⟩ akan berdiri"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "bagi bagianmu"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "pada akhir"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "hari-hari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:55:55.658403806Z",
+  "model": "glm-5.2"
+}

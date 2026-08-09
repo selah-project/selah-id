@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan diletakkannya ⟨את⟩ bejana di antara ohel moed dan di antara mezbah, dan diberikannya di sana air untuk pembasuhan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dan diletakkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bejana"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bejana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan di antara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan diberikannya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "untuk pembasuhan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:21.130661781Z",
+  "model": "glm-5.2"
+}

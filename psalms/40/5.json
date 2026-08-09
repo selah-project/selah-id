@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Berbahagialah ⟨sang⟩ laki-laki yang menaruh Yahweh sebagai perlindungannya, dan tidak berpaling kepada ⟨orang-orang⟩ sombong dan ⟨kepada⟩ penyimpang dusta.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨sang⟩ laki-laki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "menaruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "sebagai perlindungannya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "⟨orang-orang⟩ sombong"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "dan ⟨kepada⟩ penyimpang"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:34.490473809Z",
+  "model": "glm-5.2"
+}

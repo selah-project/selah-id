@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Dan Aku akan membuat ⟨את⟩ pegunungan Seir menjadi sunyi sepi, dan Aku akan melenyapkan dari padanya ⟨orang⟩ yang lalu-lalang dan yang kembali.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pegunungan Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "pegunungan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "menjadi sunyi"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "dan sepi"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "dan Aku akan melenyapkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yang lalu-lalang"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan yang kembali"
+    }
+  ],
+  "timestamp": "2026-08-08T12:21:50.623440549Z",
+  "model": "glm-5.2"
+}

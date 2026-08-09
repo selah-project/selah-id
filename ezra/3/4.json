@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Mereka juga merayakan ⟨את⟩ hari raya Sukot, seperti yang tertulis, dan ⟨mempersembahkan⟩ korban bakaran hari demi hari dalam jumlah tertentu menurut peraturan, perkara satu hari pada harinya.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mereka juga merayakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari raya Sukot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "hari raya"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "seperti yang tertulis"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "dan korban bakaran"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "demi hari"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dalam jumlah tertentu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "menurut peraturan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "satu hari"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "pada harinya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:57:23.636043992Z",
+  "model": "glm-5.2"
+}

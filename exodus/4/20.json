@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu mengambillah Moshe ⟨את⟩ istrinya dan ⟨את⟩ anak-anaknya, dan ditunggangkannyalah mereka ke atas keledai, dan kembalilah ia ke tanah Mitsrayim; dan mengambillah Moshe ⟨את⟩ tongkat Elohim di tangannya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambillah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istrinya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "istrinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "dan ditunggangkannyalah mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "keledai itu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan kembalilah"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambillah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:45.289955818Z",
+  "model": "glm-5.2"
+}

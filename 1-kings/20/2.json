@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu ia menyuruh utusan kepada Akhav raja Yisrael, ke kota itu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu ia menyuruh"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ke kota itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:07:35.898137272Z",
+  "model": "glm-5.2"
+}

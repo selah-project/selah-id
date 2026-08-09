@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Baiklah Yahweh bagi semuanya, dan rahmat-Nya atas segala perbuatan-Nya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baiklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semuanya"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "dan rahmat-Nya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "perbuatan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:48.744330490Z",
+  "model": "glm-5.2"
+}

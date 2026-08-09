@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Hiram mengirim kepada ratus seratus dua puluh talenta emas.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dan mengirim"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dan dua puluh"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-08T11:02:54.913332180Z",
+  "model": "glm-5.2"
+}

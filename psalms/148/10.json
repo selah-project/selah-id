@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 148,
+  "translation": "Binatang liar dan semua ternak, binatang yang merayap dan burung bersayap",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "Binatang liar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "binatang yang merayap"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "dan burung"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "bersayap"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:59.417819726Z",
+  "model": "glm-5.2"
+}

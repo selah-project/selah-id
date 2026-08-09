@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "carilah ⟨את⟩ Yahweh dan kamu akan hidup, supaya jangan ⟨Ia⟩ menjilat seperti api ⟨terhadap⟩ Beit Yosef, dan memakannya, dan tidak ada yang memadamkan ⟨bagi⟩ Beit-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "dan kamu akan hidup"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "⟨Ia⟩ menjilat"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "seperti api"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dan memakannya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "yang memadamkan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨bagi⟩ Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-08T11:32:35.782940929Z",
+  "model": "glm-5.2"
+}

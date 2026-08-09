@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan ⟨mereka⟩ meninggalkan di sana ⟨את⟩ patung-patung mereka, lalu Dawid dan orang-orangnya mengangkutnya.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "dan meninggalkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patung-patung mereka"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "patung-patung mereka"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "lalu mengangkutnya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dan orang-orangnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:48.484263805Z",
+  "model": "glm-5.2"
+}

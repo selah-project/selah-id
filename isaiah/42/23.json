@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Siapa di antara kamu yang memperhatikan ⟨את⟩ ini, yang waspada dan mendengar untuk waktu yang akan datang?",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "בָכֶ֖ם",
+      "gloss": "di antara kamu"
+    },
+    {
+      "surface": "יַאֲזִ֣ין",
+      "gloss": "yang memperhatikan"
+    },
+    {
+      "surface": "זֹ֑את",
+      "gloss": "⟨את⟩ ini",
+      "marks": "ini"
+    },
+    {
+      "surface": "יַקְשִׁ֥ב",
+      "gloss": "yang waspada"
+    },
+    {
+      "surface": "וְיִשְׁמַ֖ע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "לְאָחֽוֹר",
+      "gloss": "untuk waktu yang akan datang"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:44.976428693Z",
+  "model": "glm-5.2"
+}

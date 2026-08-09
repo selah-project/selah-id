@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 132,
+  "translation": "Imam-imamnya akan Kulenangi keselamatan; dan orang-orang setianya bersorak-sorai bersorak-sorailah.”",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "imam-imamnya"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "akan Kulenangi"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "orang-orang setianya"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "bersorak-sorai"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bersorak-sorailah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:20.938799040Z",
+  "model": "glm-5.2"
+}

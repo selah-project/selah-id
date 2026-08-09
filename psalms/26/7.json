@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Untuk memperdengarkan suara syukur, dan untuk menceritakan segala perbuatan-perbuatan ajaibmu,",
+  "tokens": [
+    {
+      "surface": "לַ֭שְׁמִעַ",
+      "gloss": "Untuk memperdengarkan"
+    },
+    {
+      "surface": "בְּק֣וֹל",
+      "gloss": "suara"
+    },
+    {
+      "surface": "תּוֹדָ֑ה",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "וּ֝לְסַפֵּ֗ר",
+      "gloss": "dan untuk menceritakan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "נִפְלְאוֹתֶֽיךָ",
+      "gloss": "perbuatan-perbuatan ajaibmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:19.736594536Z",
+  "model": "glm-5.2"
+}

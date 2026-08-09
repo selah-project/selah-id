@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 62,
+  "translation": "Untuk sang dirigen, menurut Yadutun. Mizmor bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk sang dirigen"
+    },
+    {
+      "surface": "על",
+      "gloss": "menurut"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yadutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:32.525316294Z",
+  "model": "glm-5.2"
+}

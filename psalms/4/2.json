@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Pada saat aku berseru, jawablah aku, Elohim ⟨yang⟩ benarku; di dalam kesesakan Engkau telah melapangkan ⟨ruang⟩ bagi-Ku; berhemahlah kepada-Ku dan dengarkan doaku.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Pada saat aku berseru"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "⟨yang⟩ benarku"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "di dalam kesesakan"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "Engkau telah melapangkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "berhemahlah kepada-Ku"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "dan dengarkan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:25.062453670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Yang menaikkan uap dari ujung bumi, kilat untuk hujan dibuat-Nya, mengeluarkan angin dari gudang-gudang-Nya.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "menaikkan"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "uap"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dari ujung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "kilat"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "untuk hujan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat-Nya"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "mengeluarkan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "dari gudang-gudang-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:53.891391665Z",
+  "model": "glm-5.2"
+}

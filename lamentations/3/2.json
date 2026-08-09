@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "⟨את⟩ aku ia telah menggiring dan telah memperjalankan ⟨ke dalam⟩ kegelapan dan bukan terang.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ia telah menggiring"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan telah memperjalankan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:55.889266155Z",
+  "model": "glm-5.2"
+}

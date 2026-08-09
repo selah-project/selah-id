@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 98,
+  "translation": "Dengan hasotsrot dan suara shofar, berteriaklah di hadapan Sang Raja, Yahweh!",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Dengan hasotsrot"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dan suara"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "berteriaklah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sang Raja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:39.522438665Z",
+  "model": "glm-5.2"
+}

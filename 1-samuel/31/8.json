@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan terjadilah pada keesokan harinya orang-orang Pelishti datang untuk menjarah ⟨את⟩ orang-orang yang tewas, dan mereka menemukan ⟨את⟩ Sha'ul dan ⟨את⟩ tiga anaknya tergeletak di gunung Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pada keesokan harinya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelishti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "untuk menjarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang tewas"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "orang-orang yang tewas"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dan mereka menemukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tiga anaknya"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "tergeletak"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:31.828389035Z",
+  "model": "glm-5.2"
+}

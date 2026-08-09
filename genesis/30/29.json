@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Lalu ia berkata kepadanya, “Engkau tahu ⟨את⟩ yang aku layani kepadamu, dan ⟨את⟩ yang menjadi ternakmu bersamaku.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu ia berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang aku layani kepadamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "aku layani kepadamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "yang menjadi ternakmu bersamaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "ternakmu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bersamaku"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:02.713607563Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Aku berseru kepada-Mu, sebab Engkau menjawab aku, El; condongkanlah telinga-Mu kepadaku, dengarkan ucapanku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "berseru kepada-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Engkau menjawab aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "condongkanlah"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "telinga-Mu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarkan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ucapanku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:53.695494952Z",
+  "model": "glm-5.2"
+}

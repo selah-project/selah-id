@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 54:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Dengan sukarela aku akan berkurban kepada-Mu; aku akan bersyukur kepada nama-Mu, Yahweh, searan ⟨ia⟩ baik.",
+  "tokens": [
+    {
+      "surface": "בנדבה",
+      "gloss": "dengan sukarela"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "aku akan berkurban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "aku akan bersyukur"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "searan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:09.193141687Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Sebab siapakah segala daging yang mendengar suara Elohim ⟨yang⟩ hidup berbicara dari tengah api seperti kami dan tetap hidup?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "⟨yang⟩ hidup"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tengah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "seperti kami"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "dan tetap hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T07:25:32.826215821Z",
+  "model": "glm-5.2"
+}

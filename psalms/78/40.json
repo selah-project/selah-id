@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Berapa kerap mereka memberontak terhadap-Nya di padang gurun, dan menyakinkan Dia di padang tandus!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Berapa kerap"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "mereka memberontak terhadap-Nya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "dan menyakinkan Dia"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di padang tandus"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:38.504150210Z",
+  "model": "glm-5.2"
+}

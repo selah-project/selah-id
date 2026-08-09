@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Waktu untuk lahir, dan waktu untuk mati; waktu untuk menanam, dan waktu untuk mencabut ⟨yang⟩ ditanam.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "untuk lahir"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuk mati"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "untuk menanam"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "untuk mencabut"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "yang ditanam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:06.225092535Z",
+  "model": "glm-5.2"
+}

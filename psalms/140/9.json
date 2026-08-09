@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 140,
+  "translation": "Jangan berikan, ya Yahweh, keinginan-keinginan orang fasik; rencananya jangan kaulaksanakan, supaya mereka tidak meninggikan diri. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "keinginan-keinginan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "rencananya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "kaulaksanakan"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "supaya mereka tidak meninggikan diri"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:26.131494150Z",
+  "model": "glm-5.2"
+}

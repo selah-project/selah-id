@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Kepada-Mu mereka berseru dan ⟨terluput⟩; pada-Mu mereka percaya dan tidak ⟨termalu⟩.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "mereka berseru"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "dan ⟨terluput⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "mereka percaya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "⟨termalu⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:58.682534290Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Adapun raja Aram sedang berperang melawan Yisra'el, dan ia bermusyawarah dengan para hambanya, berkata, “Di tempat si-anu si-anu perkemahanku.”",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "adapun raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sedang"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "melawan Yisra'el"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "dan ia bermusyawarah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para hambanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "si-anu"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "si-anu"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "perkemahanku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:30.950915058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 140,
+  "translation": "Orang penfitnah, jangan ia ditegakkan di bumi; orang kelaliman, ⟨kesusahan⟩ akan memburunya ⟨untud dijatuhkan⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "penfitnah"
+    },
+    {
+      "surface": "בל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ia ditegakkan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kelaliman"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "akan memburunya"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "untuk dijatuhkan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:45.950631195Z",
+  "model": "glm-5.2"
+}

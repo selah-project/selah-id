@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Buatlah jalan bagi pedang ⟨untuk⟩ datang ⟨את⟩ Rabbah bani Ammon dan ⟨את⟩ Yehudah di Yerushalayim, ⟨yang⟩ dibentengi.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "kau-buat"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "untuk datang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "dibentengi"
+    }
+  ],
+  "timestamp": "2026-08-08T08:49:17.092583794Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dua belas tahun mereka menjadi hamba ⟨את⟩ Kedorlaomer, dan tiga belas tahun mereka memberontak.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mereka menjadi hamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "mereka memberontak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:10.259654862Z",
+  "model": "glm-5.2"
+}

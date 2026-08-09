@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 95,
+  "translation": "Mari, marilah kita bernyanyi kepada Yahweh, bersorak-sorailah kepada Tsur keselamatan kita.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Mari"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "marilah kita bernyanyi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kepada Tsur"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "keselamatan kita"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:00.913874386Z",
+  "model": "glm-5.2"
+}

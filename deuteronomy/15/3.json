@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Terhadap ⟨את⟩ orang asing engkau boleh menagih; tetapi apa yang ada padamu ⟨dari⟩ ⟨את⟩ saudaramu engkau akan melepaskan tangannya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang asing"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "engkau boleh menagih"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "tetapi apa yang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudaramu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "engkau akan melepaskan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:45.442111911Z",
+  "model": "glm-5.2"
+}

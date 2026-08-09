@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 7:25",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan mereka menangkap dua panglima Midyan, ⟨את⟩ Orev dan ⟨את⟩ Zeev; dan mereka membunuh ⟨את⟩ Orev di batu Orev, dan ⟨את⟩ Zeev mereka bunuh di pemerasan anggur Zeev; dan mereka mengejar Midyan, dan kepala Orev serta Zeev mereka bawa kepada Gideon di seberang sungai Yarden.",
+  "tokens": [
+    {
+      "surface": "וילכדו",
+      "gloss": "dan mereka menangkap"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Orev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Orev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Zeev"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeev"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "dan mereka membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Orev"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Orev"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "di batu"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Orev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Zeev"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeev"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "mereka bunuh"
+    },
+    {
+      "surface": "ביקב",
+      "gloss": "di pemerasan anggur"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeev"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "dan mereka mengejar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "dan kepala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Orev"
+    },
+    {
+      "surface": "וזאב",
+      "gloss": "serta Zeev"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "mereka bawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "sungai Yarden"
+    }
+  ],
+  "timestamp": "2026-08-08T07:40:47.870464472Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Angkatlah, hai pintu-pintu gerbang, kepala-kepalamu, dan terbukalah, hai pintu-pintu masuk ⟨yang⟩ kekal; dan biarlah masuk Raja kemuliaan!",
+  "tokens": [
+    {
+      "surface": "שְׂא֤וּ",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "שְׁעָרִ֨ים",
+      "gloss": "hai pintu-pintu gerbang"
+    },
+    {
+      "surface": "רָֽאשֵׁיכֶ֗ם",
+      "gloss": "kepala-kepalamu"
+    },
+    {
+      "surface": "וְֽ֭הִנָּשְׂאוּ",
+      "gloss": "dan terbukalah"
+    },
+    {
+      "surface": "פִּתְחֵ֣י",
+      "gloss": "hai pintu-pintu masuk"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "kekal"
+    },
+    {
+      "surface": "וְ֝יָב֗וֹא",
+      "gloss": "dan biarlah masuk"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הַכָּבֽוֹד",
+      "gloss": "kemuliaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:53.089973021Z",
+  "model": "glm-5.2"
+}

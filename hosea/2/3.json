@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Katakanlah kepada saudara-saudaramu, 'Ammi,' dan kepada saudara-saudari perempuanmu, 'Rukhamah.'",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kepada saudara-saudaramu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "dan kepada saudara-saudari perempuanmu"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukhamah"
+    }
+  ],
+  "timestamp": "2026-08-08T08:56:55.645538462Z",
+  "model": "glm-5.2"
+}

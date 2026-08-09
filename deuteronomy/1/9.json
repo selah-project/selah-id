@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan aku berkata kepada kalian pada waktu itu, dengan berkata: “Tidak aku sanggup sendirian memikul ⟨את⟩ kalian.”\n",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dan aku berkata"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kepada kalian"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aku sanggup"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "memikul"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:13.064974081Z",
+  "model": "glm-5.2"
+}

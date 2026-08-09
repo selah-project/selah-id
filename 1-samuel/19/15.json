@@ -1,0 +1,67 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "1-samuel 19:15",
+ "book": "1-samuel",
+ "lang": "id",
+ "chapter": 19,
+ "translation": "Lalu Shaul mengirim ⟨את⟩ para utusan untuk melihat ⟨את⟩ Dawid, dengan pesan: “Bawalah ⟨את⟩ ⟨dia⟩ di dalam tempat tidur kepadaku untuk membunuhnya.”",
+ "tokens": [
+  {
+   "surface": "וישלח",
+   "gloss": "Lalu mengirim"
+  },
+  {
+   "surface": "שאול",
+   "gloss": "Shaul"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "para utusan"
+  },
+  {
+   "surface": "המלאכים",
+   "gloss": "para utusan"
+  },
+  {
+   "surface": "לראות",
+   "gloss": "untuk melihat"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Dawid"
+  },
+  {
+   "surface": "דוד",
+   "gloss": "Dawid"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "dengan pesan"
+  },
+  {
+   "surface": "העלו",
+   "gloss": "Bawalah"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ ⟨dia⟩"
+  },
+  {
+   "surface": "במטה",
+   "gloss": "di dalam tempat tidur"
+  },
+  {
+   "surface": "אלי",
+   "gloss": "kepadaku"
+  },
+  {
+   "surface": "להמתו",
+   "gloss": "untuk membunuhnya"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:59.026905980Z",
+ "model": "glm-5.2"
+}

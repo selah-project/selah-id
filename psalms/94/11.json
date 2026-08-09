@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Yahweh mengetahui pikiran-pikiran manusia, bahwa mereka ⟨adalah⟩ kesia-siaan.",
+  "tokens": [
+    {
+      "surface": "יְֽהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יֹ֭דֵעַ",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "מַחְשְׁב֣וֹת",
+      "gloss": "pikiran-pikiran"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "הֵ֥מָּה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "הָֽבֶל",
+      "gloss": "kesia-siaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:08.319897182Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Kepada generasi dan generasi ⟨adalah⟩ kesetiaan-Mu; Engkau menegakkan bumi, dan ⟨ia⟩ berdiri teguh.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "Kepada generasi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dan generasi"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kesetiaan-Mu"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "Engkau menegakkan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dan ⟨ia⟩ berdiri teguh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:25.043512215Z",
+  "model": "glm-5.2"
+}

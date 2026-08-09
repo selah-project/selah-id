@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Orang bodoh — pada hari itu juga amarahnya diketahui, tetapi yang menutupi ⟨aib⟩ ⟨adalah⟩ orang berakal.",
+  "tokens": [
+    {
+      "surface": "אֱוִ֗יל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "בַּ֭יּוֹם",
+      "gloss": "pada hari itu juga"
+    },
+    {
+      "surface": "יִוָּדַ֣ע",
+      "gloss": "diketahui"
+    },
+    {
+      "surface": "כַּעְס֑וֹ",
+      "gloss": "amarahnya"
+    },
+    {
+      "surface": "וְכֹסֶ֖ה",
+      "gloss": "tetapi yang menutupi"
+    },
+    {
+      "surface": "קָל֣וֹן",
+      "gloss": "aib"
+    },
+    {
+      "surface": "עָרֽוּם",
+      "gloss": "berakal"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:09.635581833Z",
+  "model": "glm-5.2"
+}

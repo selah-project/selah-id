@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Lalu berkatalah Yahweh kepada Mosheh: “Siapa yang berdosa terhadap-Ku, akan Kuhapus dari kitab-Ku.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "berdosa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "terhadap-Ku"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "akan Kuhapus"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "dari kitab-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:42.727517534Z",
+  "model": "glm-5.2"
+}

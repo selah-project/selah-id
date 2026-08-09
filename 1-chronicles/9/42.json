@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Ahaz memperanakkan ⟨את⟩ Yarha, dan Yarha memperanakkan ⟨את⟩ Alemet dan ⟨את⟩ Azmavet dan ⟨את⟩ Zimri, dan Zimri memperanakkan ⟨את⟩ Motza.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Dan Ahaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarha"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yarha"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "dan Yarha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Azmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "dan Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motza"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motza"
+    }
+  ],
+  "timestamp": "2026-08-08T10:05:45.879945022Z",
+  "model": "glm-5.2"
+}

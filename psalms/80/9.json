@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Pohon anggur dari Mitsrayim Engkau pindahkan; Engkau mengusir bangsa-bangsa dan ⟨את⟩-nya Engkau tanam.",
+  "tokens": [
+    {
+      "surface": "גֶּ֭פֶן",
+      "gloss": "Pohon anggur"
+    },
+    {
+      "surface": "מִמִּצְרַ֣יִם",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "תַּסִּ֑יעַ",
+      "gloss": "Engkau pindahkan"
+    },
+    {
+      "surface": "תְּגָרֵ֥שׁ",
+      "gloss": "Engkau mengusir"
+    },
+    {
+      "surface": "גּ֝וֹיִ֗ם",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "וַתִּטָּעֶֽהָ",
+      "gloss": "dan ⟨את⟩-nya Engkau tanam",
+      "marks": "pohon anggur itu"
+    }
+  ],
+  "timestamp": "2026-08-08T13:10:22.466203838Z",
+  "model": "glm-5.2"
+}

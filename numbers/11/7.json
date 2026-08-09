@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan man itu seperti biji gad ⟨itu⟩, dan rupanya seperti rupa bedolach.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "Dan man"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "seperti biji"
+    },
+    {
+      "surface": "גד",
+      "gloss": "gad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "dan rupanya"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "seperti rupa"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolach"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:46.373189257Z",
+  "model": "glm-5.2"
+}

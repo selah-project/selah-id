@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Aku telah melihat ⟨seorang⟩ fasik yang tiran, dan ia menyebarkan diri seperti pohon asli yang rimbun.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "fasik"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "tiran"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "dan menyebarkan diri"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "seperti pohon asli"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "rimbun"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:06.697322018Z",
+  "model": "glm-5.2"
+}

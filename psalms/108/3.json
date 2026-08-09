@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 108,
+  "translation": "Bergembiralah, ⟨hai⟩ nevel dan kinnor; aku akan membangunkan fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Bergembiralah"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dan kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "aku akan membangunkan"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:52.489642760Z",
+  "model": "glm-5.2"
+}

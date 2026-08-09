@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "dan aku akan memberikan kepadamu rahmat, dan ia akan merahimi kamu, dan ia akan mengembalikan kamu ke tanahmu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "dan aku akan memberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "rahmat"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "dan ia akan merahimi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "dan ia akan mengembalikan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tanahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:19:44.825263699Z",
+  "model": "glm-5.2"
+}

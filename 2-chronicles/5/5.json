@@ -1,0 +1,80 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "2-chronicles 5:5",
+ "book": "2-chronicles",
+ "lang": "id",
+ "chapter": 5,
+ "translation": "Dan mereka membawa naik ⟨את⟩ aron dan ⟨את⟩ ohel moed dan ⟨את⟩ segala kelengkapan ha-kodesh yang di dalam ohel; imam-imam, orang-orang Lewi, merekalah yang membawa mereka naik.",
+ "tokens": [
+  {
+   "surface": "ויעלו",
+   "gloss": "dan mereka membawa naik"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "aron"
+  },
+  {
+   "surface": "הארון",
+   "gloss": "aron"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "dan ⟨את⟩",
+   "marks": "ohel"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "ohel"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "moed"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "dan ⟨את⟩",
+   "marks": "segala kelengkapan ha-kodesh"
+  },
+  {
+   "surface": "כל",
+   "gloss": "segala"
+  },
+  {
+   "surface": "כלי",
+   "gloss": "kelengkapan"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "ha-kodesh"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "yang"
+  },
+  {
+   "surface": "באהל",
+   "gloss": "di dalam ohel"
+  },
+  {
+   "surface": "העלו",
+   "gloss": "membawa mereka naik"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "imam-imam"
+  },
+  {
+   "surface": "הלוים",
+   "gloss": "orang-orang Lewi"
+  }
+ ],
+ "timestamp": "2026-08-09T01:43:45.608123817Z",
+ "model": "glm-5.2"
+}

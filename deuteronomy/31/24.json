@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan terjadilah, ketika Moshe selesai menuliskan ⟨את⟩ perkataan torah ini di atas gulungan sampai selesai.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ketika selesai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "menuliskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "gulungan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "selesai"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:27.484514831Z",
+  "model": "glm-5.2"
+}

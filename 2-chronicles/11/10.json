@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan ⟨את⟩ Tzora, dan ⟨את⟩ Ayalon, dan ⟨את⟩ Khevron, yang di Yehuda dan di Binyamin, kota-kota benteng",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tzora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tzora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "dan di Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "benteng"
+    }
+  ],
+  "timestamp": "2026-08-08T12:05:18.421218670Z",
+  "model": "glm-5.2"
+}

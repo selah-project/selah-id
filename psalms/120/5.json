@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 120,
+  "translation": "Celakalah aku, bahwa aku menumpang di Mesyekh, aku diam dengan kemah-kemah Kedar!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "celakalah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "aku menumpang"
+    },
+    {
+      "surface": "משך",
+      "gloss": "di Mesyekh"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "aku diam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "kemah-kemah"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:53.831014175Z",
+  "model": "glm-5.2"
+}

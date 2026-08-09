@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Berhati-hatilah engkau, jangan engkau melupakan ⟨את⟩ Yahweh, yang membawa engkau keluar dari tanah Mitsrayim, dari rumah perbudakan.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "berhati-hatilah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "פן",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "engkau melupakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "membawa engkau keluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "perbudakan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:44:57.691224365Z",
+  "model": "glm-5.2"
+}

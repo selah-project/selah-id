@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Milik-Mulah langit, juga milik-Mulah bumi; dunia dan kepenuhannya, Engkaulah yang mendirikan mereka.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "milik-Mu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "milik-Mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "dan kepenuhannya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "mendiri-kan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:17.164547197Z",
+  "model": "glm-5.2"
+}

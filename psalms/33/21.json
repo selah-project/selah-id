@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Sebab di dalam Dia bersukaria hati kita, sebab di dalam nama kekudusan-Nya kami percaya.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "ב֭וֹ",
+      "gloss": "di dalam Dia"
+    },
+    {
+      "surface": "יִשְׂמַ֣ח",
+      "gloss": "bersukaria"
+    },
+    {
+      "surface": "לִבֵּ֑נוּ",
+      "gloss": "hati kita"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בְשֵׁ֖ם",
+      "gloss": "di dalam nama"
+    },
+    {
+      "surface": "קָדְשׁ֣וֹ",
+      "gloss": "kekudusan-Nya"
+    },
+    {
+      "surface": "בָטָֽחְנוּ",
+      "gloss": "kami percaya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:51.605623162Z",
+  "model": "glm-5.2"
+}

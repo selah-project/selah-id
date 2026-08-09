@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Celakah, gemuruh bangsa-bangsa yang banyak, seperti gemuruf laut mereka bergemuruh, dan riuh bangsa-bangsa seperti riuh air yang dahsyat mereka berbunyi!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Celakah"
+    },
+    {
+      "surface": "המון",
+      "gloss": "gemuruh"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "seperti gemuruh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "mereka bergemuruh"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "dan riuh"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "seperti riuh"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "yang dahsyat"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "mereka berbunyi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:07.893444725Z",
+  "model": "glm-5.2"
+}

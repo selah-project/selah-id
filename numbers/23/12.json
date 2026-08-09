@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu dijawabnya dan berkatalah: “Bukankah ⟨את⟩ yang ditaruh Yahweh di mulutku, ⟨את⟩ itulah yang kujaga untuk kukatakan?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu dijawabnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang ditaruh Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ditaruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di mulutku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "itulah"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "kujaga"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "untuk kukatakan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:21:25.637852818Z",
+  "model": "glm-5.2"
+}

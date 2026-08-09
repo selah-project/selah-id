@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan sunatlah ⟨את⟩ kulit pelir hatimu, dan janganlah kamu mengeraskan tengkukmu lagi.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Dan sunatlah kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulit pelir hatimu"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kulit pelir"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "dan tengkukmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "kamu mengeraskan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:06.706610348Z",
+  "model": "glm-5.2"
+}

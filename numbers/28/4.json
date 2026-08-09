@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "⟨את⟩ seekor domba muda haruslah kauolah di pagi hari, dan ⟨את⟩ domba muda yang kedua haruslah kauolah di antara dua senja.”",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seekor domba muda"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba muda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seekor"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "haruslah kauolah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di pagi hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "domba muda yang kedua"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba muda"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "haruslah kauolah"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dua senja"
+    }
+  ],
+  "timestamp": "2026-08-08T07:22:08.789885923Z",
+  "model": "glm-5.2"
+}

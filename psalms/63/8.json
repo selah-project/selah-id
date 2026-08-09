@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 63,
+  "translation": "Sebab engkau telah menjadi pertolongan bagiku, dan dalam naungan sayapmu aku bersorak-sorai.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הָיִיתָ",
+      "gloss": "engkau telah menjadi"
+    },
+    {
+      "surface": "עֶזְרָתָה",
+      "gloss": "pertolongan"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "וּבְצֵל",
+      "gloss": "dan dalam naungan"
+    },
+    {
+      "surface": "כְנָפֶיךָ",
+      "gloss": "sayapmu"
+    },
+    {
+      "surface": "אֲרַנֵּן",
+      "gloss": "aku bersorak-sorai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.504428847Z",
+  "model": "glm-5.2"
+}

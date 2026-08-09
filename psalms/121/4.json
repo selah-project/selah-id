@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 121,
+  "translation": "Lihat, tidak akan tertidur dan tidak akan tertidur-lelap Yang menjaga Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "tertidur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "tertidur-lelap"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Yang menjaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:28.749596095Z",
+  "model": "glm-5.2"
+}

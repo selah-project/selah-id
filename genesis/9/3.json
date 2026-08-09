@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Setiap yang bergerak yang ⟨itu⟩ hidup, bagi kamu akan menjadi makanan; seperti tumbuhan hijau telah Kuberikan ⟨את⟩ semuanya kepada kamu.”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Setiap"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "yang bergerak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "seperti tumbuhan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "hijau"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "telah Kuberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semuanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semuanya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:22.399686961Z",
+  "model": "glm-5.2"
+}

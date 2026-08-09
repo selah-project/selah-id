@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Dari hardaan-Mu ⟨mereka⟩ melarikan diri, dari suara guruh-Mu ⟨mereka⟩ bergegas pergi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "hardaan-Mu"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "mereka melarikan diri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "guruh-Mu"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "mereka bergegas pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:02.017530636Z",
+  "model": "glm-5.2"
+}

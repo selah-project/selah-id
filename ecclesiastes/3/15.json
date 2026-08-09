@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Apa yang telah ada, sudahlah ⟨demikian⟩; dan apa yang akan ada, sudahlah telah ada; dan Elohim menuntut ⟨את⟩ yang diperjarakan.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yang telah ada"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sudah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan apa yang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sudah"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telah ada"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "dan Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "menuntut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang diperjarakan"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "yang diperjarakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:08.236012102Z",
+  "model": "glm-5.2"
+}

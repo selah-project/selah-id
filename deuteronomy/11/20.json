@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan tuliskanlah mereka atas tiang pintu rumahmu dan di gerbang-gerbangmu.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "dan tuliskanlah mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tiang pintu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumahmu"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "dan di gerbang-gerbangmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:24.054665766Z",
+  "model": "glm-5.2"
+}

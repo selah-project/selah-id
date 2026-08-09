@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 13:7",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Bukankah penglihatan kesia-siaan telah kamu lihat, dan tenung kebohongan telah kamu ucapkan, sambil berkata, 'Oracle Yahweh,' padahal aku tidak berfirman?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "penglihatan"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "kamu lihat"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "dan tenung"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kamu ucapkan"
+    },
+    {
+      "surface": "ואמרים",
+      "gloss": "sambil berkata"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "padahal aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "berfirman"
+    }
+  ],
+  "timestamp": "2026-08-08T08:46:30.115598418Z",
+  "model": "glm-5.2"
+}

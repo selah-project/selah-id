@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ia menempatkan ⟨את⟩ meja itu di dalam ohel moed, pada sisi utara mishkan, di luar tirai.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan ia menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja itu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di dalam ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moed"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "utara"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "tirai"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:11.248381766Z",
+  "model": "glm-5.2"
+}

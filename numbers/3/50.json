@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "dari ⟨yang⟩ anak sulung ⟨dari⟩ bani Israel ia mengambil ⟨את⟩ uang itu: lima dan enam puluh dan tiga ratus dan seribu berdasarkan syakel ⟨dari⟩ kesucian,",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "dari"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ia mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uang itu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "uang itu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dan enam puluh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "dan seribu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "berdasarkan syakel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kesucian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:14:10.759441609Z",
+  "model": "glm-5.2"
+}

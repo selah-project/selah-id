@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Apakah hesed-Nya berakhir untuk selamanya? Apakah firman-Nya berhenti ⟨untuk⟩ generasi demi generasi?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "apakah berakhir"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "apakah berhenti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "⟨untuk⟩ generasi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "demi generasi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:20.105502728Z",
+  "model": "glm-5.2"
+}

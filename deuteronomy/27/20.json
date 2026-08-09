@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Terkutuklah ⟨yang⟩ tidur dengan istri ayahnya, sebab ⟨ia⟩ telah menyingkapkan lapik ⟨dari⟩ ayahnya, dan seluruh bangsa itu harus berkata, Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Terkutuklah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "tidur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "menyingkapkan"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "lapik"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:11.087737405Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Ingatlah, aku ini ⟨adalah⟩ kesementaraan; atas apa ⟨yang⟩ sia-sia Engkau telah menciptakan semua anak manusia?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku ini"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "kesementaraan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "Engkau telah menciptakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:16.520385741Z",
+  "model": "glm-5.2"
+}

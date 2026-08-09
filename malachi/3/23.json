@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lihat, Aku mengutus kepada kamu ⟨את⟩ Eliyahu sang nabi sebelum datangnya hari Yahweh, yang besar dan yang dahsyat.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mengutus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "datangnya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "dan yang dahsyat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:02.639037939Z",
+  "model": "glm-5.2"
+}

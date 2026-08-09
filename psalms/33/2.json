@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Bersyukurlah kepada Yahweh dengan kecapi; dengan nebel sepuluh tali, bermusiklah bagi-Nya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "bersyukurlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kecapi"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "dengan nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sepuluh tali"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bermusiklah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:01.755329374Z",
+  "model": "glm-5.2"
+}

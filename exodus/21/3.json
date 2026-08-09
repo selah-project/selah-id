@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Jika dengan tubuhnya sendiri ia masuk, dengan tubuhnya sendiri ia akan keluar; jika ia ⟨seorang⟩ suami, maka istrinya akan keluar bersama dia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "dengan tubuhnya sendiri"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ia masuk"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "dengan tubuhnya sendiri"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ia akan keluar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "suami"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "maka istrinya akan keluar"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "istrinya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama dia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:37.757509025Z",
+  "model": "glm-5.2"
+}

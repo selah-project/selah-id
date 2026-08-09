@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan ⟨mereka⟩ akan terkejut dan ⟨mereka⟩ akan malu karena Kush harapan mereka, dan karena Mitsrayim kebanggaan mereka.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "dan ⟨mereka⟩ akan terkejut"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "dan ⟨mereka⟩ akan malu"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "harapan mereka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan karena"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "kebanggaan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:19:11.752297424Z",
+  "model": "glm-5.2"
+}

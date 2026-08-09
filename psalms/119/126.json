@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Waktunya ⟨untuk⟩ bertindak bagi Yahweh; mereka telah mengingkari ⟨את⟩ taurat-Mu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktunya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk bertindak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "mereka telah mengingkari"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "taurat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:40.161511951Z",
+  "model": "glm-5.2"
+}

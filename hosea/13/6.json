@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Sesuai dengan gembalaan mereka, maka mereka kenyang; mereka kenyang, dan hati mereka terangkat — itulah sebabnya mereka melupakan Aku.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "Sesuai dengan gembalaan mereka"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "maka mereka kenyang"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "mereka kenyang"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "dan terangkat"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itulah sebabnya"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "mereka melupakan Aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:30:45.815906350Z",
+  "model": "glm-5.2"
+}

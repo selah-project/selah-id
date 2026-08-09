@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Kebun tertutup adikku, ⟨hai⟩ pengantin; mata air tertutup, pancangan tersegel.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "kebun"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "tertutup"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "adikku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pengantin"
+    },
+    {
+      "surface": "גל",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "tertutup"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "pancangan"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "tersegel"
+    }
+  ],
+  "timestamp": "2026-08-08T11:55:47.310614806Z",
+  "model": "glm-5.2"
+}

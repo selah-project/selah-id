@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan aku mendengar ⟨את⟩ suara Adonai yang berkata: “⟨את⟩ Siapa yang akan kutusut, dan siapa yang akan pergi bagi kita?” Lalu aku berkata: “Ini aku, utuslah aku.”",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Dan aku mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "yang akan kutusut"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "yang akan pergi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Lalu aku berkata"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ini aku"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "utuslah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:16:56.325355045Z",
+  "model": "glm-5.2"
+}

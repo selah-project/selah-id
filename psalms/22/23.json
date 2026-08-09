@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Aku akan menceritakan namamu kepada saudara-saudaraku; di tengah jemaah aku akan memujimu.",
+  "tokens": [
+    {
+      "surface": "אֲסַפְּרָה",
+      "gloss": "Aku akan menceritakan"
+    },
+    {
+      "surface": "שִׁמְךָ",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "לְאֶחָי",
+      "gloss": "kepada saudara-saudaraku"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "קָהָל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "אֲהַלְלֶךָּ",
+      "gloss": "aku akan memujimu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:30.300483632Z",
+  "model": "glm-5.2"
+}

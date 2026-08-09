@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Apakah ⟨akan⟩ diketahui di kegelapan ⟨kah⟩ mujizat-mu, dan kebenaran-mu di tanah pelupaan?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "Apakah diketahui"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "di kegelapan"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "mujizat-mu"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "dan kebenaran-mu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "pelupaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:40.768299565Z",
+  "model": "glm-5.2"
+}

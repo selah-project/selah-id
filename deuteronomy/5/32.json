@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan kamu harus menjaga untuk melakukan seperti yang diperintahkan Yahweh, Elohim kamu, ⟨kepada⟩ kamu; jangan menyimpang ke kanan atau ke kiri.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Dan kamu harus menjaga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "menyimpang"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ke kanan"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "atau ke kiri"
+    }
+  ],
+  "timestamp": "2026-08-08T18:28:09.247504092Z",
+  "model": "glm-5.2"
+}

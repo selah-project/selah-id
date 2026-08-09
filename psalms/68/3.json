@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Seperti dihalau-⟨nya⟩ asap, ⟨demikian⟩ Engkau halau ⟨mereka⟩; seperti melelehnya lilin di hadapan api, biarlah orang-orang fasik binasa di hadapan Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Seperti dihalau"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asap"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "Engkau halau"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "Seperti melelehnya"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "lilin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "biarlah … binasa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.418879557Z",
+  "model": "glm-5.2"
+}

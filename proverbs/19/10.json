@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Tidak layak bagi orang bodoh kemewahan; sungguh, bagi seorang budak memerintah atas para pembesar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "layak"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "bagi orang bodoh"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "kemewahan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "bagi seorang budak"
+    },
+    {
+      "surface": "משל",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "atas para pembesar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:50.484169382Z",
+  "model": "glm-5.2"
+}

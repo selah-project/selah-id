@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan janganlah kamu menyisakan sesuatu dari padanya sampai pagi; ⟨tetapi⟩ yang tersisa dari padanya sampai pagi haruslah kamu bakar dalam api.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "kamu menyisakan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "dan ⟨yang⟩ tersisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "kamu bakar"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:54.076043857Z",
+  "model": "glm-5.2"
+}

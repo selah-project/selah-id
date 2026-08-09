@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ketahuilah bahwa Yahweh telah memilih kasih bagi-Nya; Yahweh mendengarkan pada saat aku berseru kepada-Nya.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Dan ketahuilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "telah memilih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kasih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "pada saat aku berseru"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepada-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:25.063146971Z",
+  "model": "glm-5.2"
+}

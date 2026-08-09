@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "⟨Dia⟩ mengikiskan dagingku dan kulitku, ⟨dia⟩ meremukkan tulang-tulangku.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "mengikiskan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagingku"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "dan kulitku"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "meremukkan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "tulang-tulangku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:55.582773621Z",
+  "model": "glm-5.2"
+}

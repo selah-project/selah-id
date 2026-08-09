@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan kamu, orang-orang yang berpaut pada Yahweh Elohim-mu, ⟨kamu⟩ hidup semuanya hari ini.",
+  "tokens": [
+    {
+      "surface": "וְאַתֶּם֙",
+      "gloss": "dan kamu"
+    },
+    {
+      "surface": "הַדְּבֵקִ֔ים",
+      "gloss": "orang-orang yang berpaut"
+    },
+    {
+      "surface": "בַּיהוָ֖ה",
+      "gloss": "pada Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶ֑ם",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "חַיִּ֥ים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "כֻּלְּכֶ֖ם",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "הַיּֽוֹם",
+      "gloss": "hari ini"
+    }
+  ],
+  "timestamp": "2026-08-08T10:45:00.304641953Z",
+  "model": "glm-5.2"
+}

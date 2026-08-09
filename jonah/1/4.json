@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Yahweh melemparkan angin besar ke ⟨dalam⟩ laut, dan terjadilah badai besar di laut, sehingga kapal itu pikir akan hancur.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Lalu Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "melemparkan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "besar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "סער",
+      "gloss": "badai"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "sehingga kapal itu"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "pikir"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "akan hancur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:00:39.774125232Z",
+  "model": "glm-5.2"
+}

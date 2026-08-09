@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan ⟨את⟩ anak-anaknya engkau dekatkanlah, dan pakaikanlah mereka kuttonet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "engkau dekatkanlah"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "dan pakaikanlah mereka"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kuttonet"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:52.382471802Z",
+  "model": "glm-5.2"
+}

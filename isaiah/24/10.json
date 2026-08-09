@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Telah runtuh kota kekosongan; tertutup setiap rumah dari pintu masuk.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "telah runtuh"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kota"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kekosongan"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "tertutup"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "dari pintu masuk"
+    }
+  ],
+  "timestamp": "2026-08-08T08:20:26.625095535Z",
+  "model": "glm-5.2"
+}

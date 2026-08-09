@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "dan setiap orang yang bijak hati di antara kamu, datanglah dan buatlah ⟨את⟩ segala yang diperintahkan Yahweh",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yang bijak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "di antara kamu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dan buatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:23.005823593Z",
+  "model": "glm-5.2"
+}

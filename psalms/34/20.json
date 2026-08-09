@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Banyak ⟨adalah⟩ kecelakaan ⟨bagi⟩ orang benar, tetapi dari semuanya itu Yahweh menyelamatkan dia.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Banyak"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kecelakaan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "tetapi dari semuanya itu"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "menyelamatkan dia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:31.329176112Z",
+  "model": "glm-5.2"
+}

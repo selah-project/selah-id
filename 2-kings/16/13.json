@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan ⟨ia⟩ membakar ⟨את⟩ korban bakarannya dan ⟨את⟩ korban sajiannya, dan ia menuangkan ⟨את⟩ korban curahannya, dan ia memercikkan ⟨את⟩ darah persekutuan yang ada padanya ke atas mezbah itu.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "dan ia membakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakarannya"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "korban bakarannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban sajiannya"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "korban sajiannya"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "dan ia menuangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban curahannya"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "korban curahannya"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "dan ia memercikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "persekutuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:07:45.810918230Z",
+  "model": "glm-5.2"
+}

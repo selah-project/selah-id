@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Engkau mengutus roh-Mu, mereka diciptakan, dan Engkau memperbarui wajah ⟨את⟩ tanah.",
+  "tokens": [
+    {
+      "surface": "תְּשַׁלַּ֣ח",
+      "gloss": "Engkau mengutus"
+    },
+    {
+      "surface": "ר֭וּחֲךָ",
+      "gloss": "roh-Mu"
+    },
+    {
+      "surface": "יִבָּרֵא֑וּן",
+      "gloss": "mereka diciptakan"
+    },
+    {
+      "surface": "וּ֝תְחַדֵּ֗שׁ",
+      "gloss": "dan Engkau memperbarui"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "אֲדָמָֽה",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:50.254357410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Sichon raja orang-orang Emori, dan Og raja ha-Basyan, dan semua kerajaan Kenaan:",
+  "tokens": [
+    {
+      "surface": "לְסִיח֤וֹן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הָאֱמֹרִ֗י",
+      "gloss": "orang-orang Emori"
+    },
+    {
+      "surface": "וּ֭לְעוֹג",
+      "gloss": "dan Og"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הַבָּשָׁ֑ן",
+      "gloss": "ha-Basyan"
+    },
+    {
+      "surface": "וּ֝לְכֹ֗ל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "מַמְלְכ֥וֹת",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "כְּנָֽעַן",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:38.787534473Z",
+  "model": "glm-5.2"
+}

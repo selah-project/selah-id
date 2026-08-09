@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan lemam bangkai, dan lemak hewan yang diterkam, dapat dipakai untuk segala pekerjaan; tetapi memakannya sama sekali tidak boleh kamu lakukan.”",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Dan lemak"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bangkai"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "dan lemak"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "hewan yang diterkam"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dapat dipakai"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuk segala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dan memakannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sama sekali tidak"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "boleh kamu lakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:27.896683022Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Jangan mencuri, dan jangan berdusta, dan jangan berbohong, seorang laki-laki kepada sesamanya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "mencuri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "berdusta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "berbohong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "kepada sesamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:21.089617718Z",
+  "model": "glm-5.2"
+}

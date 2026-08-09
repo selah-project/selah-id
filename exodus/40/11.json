@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan urapilah ⟨את⟩ bejana dan ⟨את⟩ alasnya, maka kuduskanlah ⟨את⟩ itu.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dan urapilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bejana"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bejana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "alasnya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "alasnya"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "maka kuduskanlah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:16.395027400Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ⟨ia⟩ membentangkan ⟨את⟩ kemah di atas mishkan, dan menempatkan ⟨את⟩ penutup kemah itu di atasnya dari sebelah atas, seperti yang diperintahkan Yahweh kepada Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "dan membentangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penutup"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "penutup"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "dari sebelah atas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:22.477384903Z",
+  "model": "glm-5.2"
+}

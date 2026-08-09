@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Lihat, aku telah meletakkan di hadapanmu hari ini ⟨את⟩ kehidupan dan ⟨את⟩ kebaikan, dan ⟨את⟩ kematian dan ⟨את⟩ kejahatan;",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aku telah meletakkan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kehidupan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kebaikan"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kematian"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kejahatan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:59.896436272Z",
+  "model": "glm-5.2"
+}

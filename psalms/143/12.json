@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 143,
+  "translation": "Dan dalam hesed-Mu, melenyapkanlah musuh-musuhku, dan binasakanlah semua yang menyesakkan nafsiku, karena aku hamba-Mu.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "dan dalam hesed-Mu"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "melenyapkanlah"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "dan binasakanlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "yang menyesakkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsiku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:18.293560668Z",
+  "model": "glm-5.2"
+}

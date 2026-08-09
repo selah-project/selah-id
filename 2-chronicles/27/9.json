@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Lalu Yotam tidur bersama dengan bapa-bapanya, dan mereka menguburkan ⟨את⟩-nya di kota Dawid; dan Ahas anaknya menjadi raja menggantikannya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "dan tidur"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama dengan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan menguburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan menjadi raja"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:15:34.500209401Z",
+  "model": "glm-5.2"
+}

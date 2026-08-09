@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka Elohim menciptakan ⟨את⟩ makhluk-makhluk laut yang besar, dan ⟨את⟩ setiap makhluk hidup yang bergerak yang air-air berkeriak dengannya menurut jenisnya, dan ⟨את⟩ setiap buruk bersayap menurut jenisnya; dan Elohim melihat bahwa itu baik.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "maka menciptakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makhluk-makhluk laut yang besar"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "makhluk-makhluk laut"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "setiap makhluk hidup yang bergerak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "makhluk"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "yang bergerak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "berkeriak"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air-air"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "setiap buruk bersayap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "buruk"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "bersayap"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:04.205235251Z",
+  "model": "glm-5.2"
+}

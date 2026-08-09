@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Setiap ⟨yang⟩ membelah kuku dan yang celahannya ⟨se⟩-belah sempurna pada kuku, ⟨yang⟩ memuntahkan makanan dari perut di antara hewan, ⟨את⟩-nya boleh kamu makan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "yang membelah"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "dan yang mencelah"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "celahan"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "yang memuntahkan"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "makanan dari perut"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "di antara hewan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "boleh kamu makan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:42.030777792Z",
+  "model": "glm-5.2"
+}

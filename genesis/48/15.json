@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Lalu ia memberkati ⟨את⟩ Yosef dan berkata, “HaElohim yang telah berjalan leluhur-leluhurku di hadapan-Nya, Avraham dan Yitskhak, HaElohim yang menggembalakan ⟨את⟩ diriku sejak keberadaanku sampai hari ini —",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "lalu memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "telah berjalan"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "leluhur-leluhurku"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "dan Yitskhak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yang menggembalakan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "diriku"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "sejak keberadaanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:44.971294752Z",
+  "model": "glm-5.2"
+}

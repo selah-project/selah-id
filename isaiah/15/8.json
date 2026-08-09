@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Sebab teriakan itu telah mengelilingi ⟨את⟩ batas Moav; sampai Eglayim lolongannya, dan ke Be'er Elim lolongannya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "telah mengelilingi"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "teriakan itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batas"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "batas"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglayim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "lolongannya"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "dan ke Be'er"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "lolongannya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:19:00.908392341Z",
+  "model": "glm-5.2"
+}

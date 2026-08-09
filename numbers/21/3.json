@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan Yahweh mendengarkan suara Yisra'el dan menyerahkan ⟨את⟩ ⟨si⟩ Kenaan, dan ⟨mereka⟩ menumpas ⟨את⟩ mereka dan ⟨את⟩ kota-kota mereka; dan ⟨ia⟩ memanggil nama tempat itu Hormah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengarkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan menyerahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨si⟩ Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨si⟩ Kenaan"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "dan menumpas"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kota-kota mereka"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kota-kota mereka"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan memanggil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat itu"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Hormah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:19:59.466703689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Maka orang-orang itu mengambil dari bekal mereka, tetapi ⟨את⟩ mulut Yahweh tidak mereka tanyakan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Maka mengambil"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "dari bekal mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mulut Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "mereka tanyakan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:34:42.431556397Z",
+  "model": "glm-5.2"
+}

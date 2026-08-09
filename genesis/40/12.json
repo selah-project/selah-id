@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Lalu berkatalah kepadanya Yosef, “Ini petunjuknya: ketiga ranting itu, tiga hari ⟨adalahlah⟩ mereka.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "petunjuknya"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ranting itu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הם",
+      "gloss": "adalahlah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:23.913084440Z",
+  "model": "glm-5.2"
+}

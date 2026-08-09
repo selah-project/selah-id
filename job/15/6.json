@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Mulutmu sendiri yang menyatakan engkau bersalah, bukan aku; dan bibirmu bersaksi terhadap engkau.",
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "menyatakan engkau bersalah"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "dan bibirmu"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bersaksi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "terhadap engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:40:05.348875366Z",
+  "model": "glm-5.2"
+}

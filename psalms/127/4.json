@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 127,
+  "translation": "Seperti anak panah di tangan pahlawan, demikianlah anak-anak masa muda.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "seperti anak panah"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di tangan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "masa muda"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:26.055892982Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Paroh murka terhadap hamba-hambanya dan ⟨dia⟩ menaruh ⟨את⟩-ku dalam penjagaan rumah sang pemimpin penjaga, ⟨את⟩-ku dan ⟨את⟩ sang pemimpin pembuat-roti.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan ⟨dia⟩ menaruh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-ku",
+      "marks": "dalam penjagaan"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "dalam penjagaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sang pemimpin"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "penjaga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-ku",
+      "marks": "dan ⟨את⟩ sang pemimpin pembuat-roti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "sang pemimpin pembuat-roti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sang pemimpin"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "pembuat-roti"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:42.926934638Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Mengutuk, dan berdusta, dan membunuh, dan mencuri, dan berzinah; mereka merobohkan ⟨batas⟩, dan darah menyentuh darah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Mengutuk"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "dan berdusta"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "dan membunuh"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "dan mencuri"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "dan berzinah"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "mereka merobohkan"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "dan darah"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "menyentuh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:56:57.758848847Z",
+  "model": "glm-5.2"
+}

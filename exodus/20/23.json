@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "“Janganlah kamu membuat bersama-Ku elohi perak dan elohi emas; janganlah kamu membuat bagimu.”",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kamu membuat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bersama-Ku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan elohi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu membuat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:09.124615681Z",
+  "model": "glm-5.2"
+}

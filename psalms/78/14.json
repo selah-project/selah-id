@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ⟨ia⟩ menuntun mereka dengan awan di waktu siang, dan sepanjang malam dengan cahaya api.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "dan ia menuntun mereka"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "dengan awan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "di waktu siang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan sepanjang"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "באור",
+      "gloss": "dengan cahaya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:28.059815802Z",
+  "model": "glm-5.2"
+}

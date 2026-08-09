@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Untuk pemimpin biduan, menurut “Bunga-bunga Lili”; kesaksian, untuk Asaf. Mizmor.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Untuk pemimpin biduan"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "menurut"
+    },
+    {
+      "surface": "שׁוֹשַׁנִּים",
+      "gloss": "“Bunga-bunga Lili”"
+    },
+    {
+      "surface": "עֵדוּת",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "לְאָסָף",
+      "gloss": "untuk Asaf"
+    },
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:45.062687247Z",
+  "model": "glm-5.2"
+}

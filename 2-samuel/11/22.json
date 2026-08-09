@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka pergilah utusan itu, dan datang, dan memberitahukan ⟨את⟩ seluruh yang disuruh Yoab kepada David.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "maka pergilah"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "utusan itu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitahukan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "disuruh"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:49.248274761Z",
+  "model": "glm-5.2"
+}

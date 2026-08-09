@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Tinggal sementara dan orang upahan tidak boleh memakannya.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "tinggal sementara"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "dan orang upahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh memakan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "darinya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:36.331078022Z",
+  "model": "glm-5.2"
+}

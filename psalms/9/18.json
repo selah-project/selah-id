@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Kembali ⟨ke⟩ Sheol orang-orang fasik, segala bangsa yang melupakan Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "ke Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "yang melupakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:02.624391594Z",
+  "model": "glm-5.2"
+}

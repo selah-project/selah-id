@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 13:43",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan ⟨harus⟩memeriksa ⟨את⟩-nya ha-kohen, dan lihat, ⟨jika⟩ tempang ⟨dari⟩ ha-nega ⟨itu⟩ putih kemerah-merahan di kebotakan kepalanya atau di dahi botaknya — seperti tampaknya tzara'at kulit daging:",
+  "tokens": [
+    {
+      "surface": "וְרָאָ֨ה",
+      "gloss": "dan ⟨harus⟩memeriksa"
+    },
+    {
+      "surface": "אֹת֜וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ha-kohen"
+    },
+    {
+      "surface": "הַכֹּהֵ֗ן",
+      "gloss": "ha-kohen"
+    },
+    {
+      "surface": "וְהִנֵּ֤ה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "שְׂאֵת",
+      "gloss": "tempang"
+    },
+    {
+      "surface": "הַנֶּ֨גַע֙",
+      "gloss": "ha-nega"
+    },
+    {
+      "surface": "לְבָנָ֣ה",
+      "gloss": "putih"
+    },
+    {
+      "surface": "אֲדַמְדֶּ֔מֶת",
+      "gloss": "kemerah-merahan"
+    },
+    {
+      "surface": "בְּקָרַחְתּ֖וֹ",
+      "gloss": "di kebotakan kepalanya"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "atau"
+    },
+    {
+      "surface": "בְגַבַּחְתּ֑וֹ",
+      "gloss": "di dahi botaknya"
+    },
+    {
+      "surface": "כְּמַרְאֵ֥ה",
+      "gloss": "seperti tampilan"
+    },
+    {
+      "surface": "צָרַ֖עַת",
+      "gloss": "tzara'at"
+    },
+    {
+      "surface": "ע֥וֹר",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "בָּשָֽׂר",
+      "gloss": "daging"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:47.510600633Z",
+  "model": "glm-5.2"
+}

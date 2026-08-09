@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Telah jatuh mahkota kepala kami — celakalah kita, karena kami telah berbuat dosa!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "kepala kami"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "celakalah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kita"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "—"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "kami telah berbuat dosa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:48:53.853701702Z",
+  "model": "glm-5.2"
+}

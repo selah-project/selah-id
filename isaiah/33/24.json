@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dan tidak akan berkata ⟨seorang⟩ penghuni, “Aku sakit”; bangsa yang diam di dalamnya, ⟨kesalahan⟩ diampuni.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akan berkata"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "penghuni"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "Aku sakit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "diampuni"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:22:21.910681095Z",
+  "model": "glm-5.2"
+}

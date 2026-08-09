@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan terjadilah lagi peperangan ⟨את⟩ Pelesytim, dan Elhanan ben Ya'ur memukul ⟨את⟩ Lakhmi, saudara Golyat ha-Giti, dan kayu tombaknya ⟨adalah⟩ seperti tiang penenun.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesytim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesytim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elhanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Ya'ur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lakhmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lakhmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ha-Giti"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "dan kayu"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "tombaknya"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "seperti tiang"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "penenun"
+    }
+  ],
+  "timestamp": "2026-08-08T10:08:20.541216402Z",
+  "model": "glm-5.2"
+}

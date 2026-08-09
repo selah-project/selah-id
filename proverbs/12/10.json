@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Orang benar mengetahui napas kehidupan hewannya, tetapi belas kasihan orang-orang fasik ⟨adalah⟩ kejam.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "napas kehidupan"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "hewannya"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "tetapi belas kasihan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "kejam"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:59.235070259Z",
+  "model": "glm-5.2"
+}

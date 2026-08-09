@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "⟨את⟩ mishkan, ⟨את⟩ kemahnya dan ⟨את⟩ tudungnya, ⟨את⟩ kaitannya dan ⟨את⟩ papan-papannya, ⟨את⟩ palang-palangnya, ⟨את⟩ tiang-tiangnya dan ⟨את⟩ alas-alasnya",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemahnya"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "kemahnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tudungnya"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "tudungnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaitannya"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "kaitannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "papan-papannya"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "papan-papannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang-palangnya"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "palang-palangnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiangnya"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "tiang-tiangnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "alas-alasnya"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "alas-alasnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:23.005949269Z",
+  "model": "glm-5.2"
+}

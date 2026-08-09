@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Dan mereka berkata, “Tolong, tuanku, sungguh turun kami pada mulanya untuk membeli makanan.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan mereka berkata"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tolong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sungguh turun"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "kami turun"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "pada mulanya"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuk membeli"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:14.833981034Z",
+  "model": "glm-5.2"
+}

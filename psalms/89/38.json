@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Seperti bulan ⟨ia⟩ ditegakkan selamanya, dan saksi di awan tepercaya. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "seperti bulan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ditegakkan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan saksi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "di awan"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "tepercaya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:38.082783265Z",
+  "model": "glm-5.2"
+}

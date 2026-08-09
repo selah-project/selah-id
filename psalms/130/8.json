@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 130,
+  "translation": "Dan Dia akan menebus ⟨את⟩ Yisrael dari segala pelanggarannya.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "dan Dia"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "akan menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "pelanggarannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:03.661642283Z",
+  "model": "glm-5.2"
+}

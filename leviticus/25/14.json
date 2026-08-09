@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan apabila kamu menjual jualan kepada sesamamu, atau membeli dari tangan sesamamu, janganlah kamu menindas ⟨seorang⟩ ⟨את⟩ saudaranya.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "kamu menjual"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "jualan"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "kepada sesamamu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "membeli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "kamu menindas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:38:10.654304560Z",
+  "model": "glm-5.2"
+}

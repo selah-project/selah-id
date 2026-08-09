@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Aku akan mengetahui perkataan yang ⟨ia⟩ jawab kepadaku, dan aku akan memahami apa yang ⟨ia⟩ katakan kepadaku.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "aku akan mengetahui"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "ia jawab kepadaku"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "dan aku akan memahami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ia katakan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:41:15.638648761Z",
+  "model": "glm-5.2"
+}

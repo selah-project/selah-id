@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Kesunyian menimpa mereka; turunlah mereka ke Sheol ⟨dalam⟩ keadaan hidup, sebab kejahatan ⟨ada⟩ di kediaman mereka, di tengah-tengah mereka.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "kesunyian"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "menimpa mereka"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turunlah mereka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "di kediaman mereka"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "di tengah-tengah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:56.509530098Z",
+  "model": "glm-5.2"
+}

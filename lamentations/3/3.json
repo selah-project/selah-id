@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Sungguh, terhadap aku ⟨dia⟩ berbalik, ⟨dia⟩ membalikkan tangannya sepanjang hari.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "בי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "berbalik"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "membalikkan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:55.582591985Z",
+  "model": "glm-5.2"
+}

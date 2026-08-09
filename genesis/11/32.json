@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka hari-hari Terakh ⟨adalah⟩ lima tahun dan dua ratus tahun; lalu Terakh mati di Haran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Maka menjadi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dan dua ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "di Haran"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:07.670579467Z",
+  "model": "glm-5.2"
+}

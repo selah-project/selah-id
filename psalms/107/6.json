@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Lalu mereka berseru kepada Yahweh dalam kesesakan ⟨bagi⟩ mereka, dan dari pencabutan-pencabutan ⟨yang menimpa⟩ mereka Dia menyelamatkan mereka.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Lalu mereka berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "dari pencabutan-pencabutan mereka"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "Dia menyelamatkan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:15.470242921Z",
+  "model": "glm-5.2"
+}

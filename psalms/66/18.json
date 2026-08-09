@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Kelalahan, jika aku lihat dalam hatiku, tidak akan didengar Adonai.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "kelalahan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku lihat"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "dalam hatiku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "Ia mendengar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:15.580533334Z",
+  "model": "glm-5.2"
+}

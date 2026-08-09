@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Maka Yehoshua bangun pagi-pagi dan menyuruh ⟨את⟩ Yisrael datang menurut suku-sukunya; dan terambil suku Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Maka bangun pagi-pagi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "dan menyuruh datang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "menurut suku-sukunya"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dan terambil"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:49:03.791542412Z",
+  "model": "glm-5.2"
+}

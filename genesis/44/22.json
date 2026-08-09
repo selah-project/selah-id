@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Dan kami berkata kepada tuanku, 'Tidak sanggup sang anak meninggalkan ⟨את⟩ ayahnya; jika ⟨dia⟩ meninggalkan ⟨את⟩ ayahnya, ⟨ayahnya⟩ akan mati.'",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Dan kami berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "sang anak"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahnya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "dan ⟨dia⟩ meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahnya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan ⟨dia⟩ akan mati"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:30.453046409Z",
+  "model": "glm-5.2"
+}

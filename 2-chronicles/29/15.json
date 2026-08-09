@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Mereka mengumpulkan ⟨את⟩ saudara-saudara mereka dan menguduskan diri, lalu masuk sesuai perintah raja, dalam firman Yahweh, untuk menyucikan bait Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "mereka mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudara mereka"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "saudara-saudara mereka"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "dan menguduskan diri"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu masuk"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "sesuai perintah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "dalam firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "untuk menyucikan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:16:20.744836379Z",
+  "model": "glm-5.2"
+}

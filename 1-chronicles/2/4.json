@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Tamar menantunya melahirkan baginya ⟨את⟩ Perets dan ⟨את⟩ Zerach. Segala putra Yehudah ⟨adalah⟩ lima.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "dan Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "menantunya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    }
+  ],
+  "timestamp": "2026-08-08T10:03:06.909267613Z",
+  "model": "glm-5.2"
+}

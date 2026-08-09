@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Ehud lolos sementara mereka ragu-ragu, dan ia melintasi ⟨את⟩ patung-patung pahatan, dan ia sampai ⟩ke⟩ Seirah.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "dan Ehud"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "lolos"
+    },
+    {
+      "surface": "עד",
+      "gloss": "selama"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "mereka ragu-ragu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ia"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patung-patung pahatan"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "patung-patung pahatan"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "dan ia lolos"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "Seirah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:39:47.063751847Z",
+  "model": "glm-5.2"
+}

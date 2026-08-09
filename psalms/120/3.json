@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 120,
+  "translation": "Apa ⟨yang⟩ diberikan kepadamu, dan apa ⟨yang⟩ ditambahkan kepadamu, hai lidah penipu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ditambahkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "penipu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:06.210727483Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan sekarang, terkutuklah engkau dari ⟨pada⟩ tanah yang telah membuka ⟨את⟩ mulutnya untuk menerima ⟨את⟩ darah saudaramu dari tanganmu.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "terkutuklah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "telah membuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulutnya"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mulutnya"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "untuk menerima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah saudaramu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "dari tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:37.179191286Z",
+  "model": "glm-5.2"
+}

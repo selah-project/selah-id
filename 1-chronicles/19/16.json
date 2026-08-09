@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan Aram melihat bahwa mereka telah terpukul mundur di hadapan Yisra'el, lalu mereka mengirim utusan dan membawa keluar ⟨את⟩ Aram yang di seberang sungai itu, dan Shofakh, panglima tentara Hadad'ezer, ⟨memimpin⟩ di depan mereka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "mereka telah terpukul mundur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "lalu mereka mengirim"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "dan membawa keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "dan Shofakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tentara"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad'ezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di depan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:08:13.721056919Z",
+  "model": "glm-5.2"
+}

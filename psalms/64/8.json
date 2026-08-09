@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 64,
+  "translation": "Tetapi Elohim menembakkan anak panah ⟨kepada⟩ mereka; tiba-tiba luka-luka mereka terjadi.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "tetapi (Ia) menembakkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "anak panah"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "tiba-tiba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "luka-luka mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:14.609163056Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Sebab ⟨את⟩ mezbah-mezbah mereka kamu akan merobohkan, dan ⟨את⟩ tugu-tugu batu mereka kamu akan menghancurkan, dan ⟨את⟩ asherim-nya kamu akan menebang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah-mezbah mereka"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mezbah-mezbah mereka"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "kamu akan merobohkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tugu-tugu batu mereka"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tugu-tugu batu mereka"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "kamu akan menghancurkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "asherim-nya"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "asherim-nya"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "kamu akan menebang"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:23.284797293Z",
+  "model": "glm-5.2"
+}

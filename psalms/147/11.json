@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Berkenan Yahweh ⟨את⟩ yang takut akan Dia, ⟨את⟩ yang menanti-nantikan hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang takut akan Dia"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "yang takut akan Dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang menanti-nantikan"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "yang menanti-nantikan"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:58.860907461Z",
+  "model": "glm-5.2"
+}

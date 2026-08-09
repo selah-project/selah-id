@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "⟨את⟩ hari-hari sabat-Ku haruslah kamu jaga, dan tempat kudus-Ku haruslah kamu takuti; Akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari-hari sabat-Ku"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "hari-hari sabat-Ku"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "haruslah kamu jaga"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "dan tempat kudus-Ku"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "haruslah kamu takuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:03.375274230Z",
+  "model": "glm-5.2"
+}

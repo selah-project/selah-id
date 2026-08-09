@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Hancur tergiling nafsku mendambakan ⟨ke⟩ hukum-hukum-Mu pada setiap waktu.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Hancur tergiling"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsku"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "mendambakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pada setiap"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:44.339467259Z",
+  "model": "glm-5.2"
+}

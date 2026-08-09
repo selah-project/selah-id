@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "⟨Dia⟩ mengirim firman-Nya dan menyembuhkan mereka, dan menyelamatkan mereka dari kebinasaan-kebinasaan mereka.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "⟨dia⟩ mengirim"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "dan menyembuhkan mereka"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "dan menyelamatkan"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "dari kebinasaan-kebinasaan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:24.235825384Z",
+  "model": "glm-5.2"
+}

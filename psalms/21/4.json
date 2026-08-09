@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Sebab Engkau mendahului ⟨dia⟩ dengan berkat-berkat ⟨yang⟩ baik; Engkau menaruh di kepalanya mahkota emas murni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "Engkau mendahului"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "dengan berkat-berkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "Engkau menaruh"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "di kepalanya"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "פז",
+      "gloss": "emas murni"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:29.261022964Z",
+  "model": "glm-5.2"
+}

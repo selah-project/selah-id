@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Janganlah mereka berkata dalam hati mereka, \"Ha! ⟨את⟩ jiwa kita!\" Janganlah mereka berkata, \"Kami telah menelannya.\"",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dalam hati mereka"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ha!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "⟨את⟩ jiwa kita",
+      "marks": "jiwa kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "kami telah menelannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:42.166244693Z",
+  "model": "glm-5.2"
+}

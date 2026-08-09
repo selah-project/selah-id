@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Yahweh Elohim membuat untuk Adam dan untuk istrinya pakaian dari kulit, dan mengenakannya kepada mereka.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan membuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "untuk Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "dan untuk istrinya"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dari kulit"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "dan mengenakannya kepada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:39.206977345Z",
+  "model": "glm-5.2"
+}

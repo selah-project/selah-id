@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan engkau akan membuat ⟨את⟩ tujuh pelitanya, dan ⟨engkau⟩ akan menaikkan ⟨את⟩ pelita-pelitanya, dan ⟨itu⟩ akan menerangi sisi hadapannya.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh pelitanya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "pelitanya"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "dan akan menaikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelita-pelitanya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "pelita-pelitanya"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "dan akan menerangi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "hadapannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:53.758539641Z",
+  "model": "glm-5.2"
+}

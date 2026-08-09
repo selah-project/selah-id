@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 40:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Ke atas gunung yang tinggi, naiklah bagimu, hai pembawa berita baik, Tziyon; angkatlah dengan kuat suaramu, hai pembawa berita baik, Yerushalayim; angkatlah, jangan takut; katakanlah kepada kota-kota Yehudah, “Lihat, Elohim kamu!”",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "yang tinggi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "hai pembawa berita baik"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "dengan kuat"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "hai pembawa berita baik"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "takut"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "kepada kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:29.271472639Z",
+  "model": "glm-5.2"
+}

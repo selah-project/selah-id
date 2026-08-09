@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 86,
+  "translation": "Doa bagi David. Condongkan telinga-Mu, Yahweh, jawablah aku, karena sengsara dan telanak aku.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "condongkanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "telinga-Mu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sengsara"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan telanak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:59.086803289Z",
+  "model": "glm-5.2"
+}

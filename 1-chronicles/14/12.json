@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu mereka meninggalkan di sana ⟨את⟩ elohim mereka; lalu berfirmanlah Dawid, dan semuanya dibakar dengan api.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Lalu mereka meninggalkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elohim mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "elohim mereka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berfirmanlah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "dan semuanya dibakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-08-08T10:07:29.484297476Z",
+  "model": "glm-5.2"
+}

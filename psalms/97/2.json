@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 97,
+  "translation": "Awan dan kegelapan ⟨ada⟩ di sekeliling-Nya, kebenaran dan keadilan ⟨adalah⟩ tapak takhta-Nya.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "dan kegelapan"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "di sekeliling-Nya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan keadilan"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhta-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:31.069541613Z",
+  "model": "glm-5.2"
+}

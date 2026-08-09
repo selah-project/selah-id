@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Karena ketika hatiku memerasa pahit, dan ginjalku tertusuk tajam —",
+  "tokens": [
+    {
+      "surface": "כִּ֭י",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "יִתְחַמֵּ֣ץ",
+      "gloss": "memerasa pahit"
+    },
+    {
+      "surface": "לְבָבִ֑י",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "וְ֝כִלְיוֹתַ֗י",
+      "gloss": "dan ginjalku"
+    },
+    {
+      "surface": "אֶשְׁתּוֹנָֽן",
+      "gloss": "tertusuk tajam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:01.486584304Z",
+  "model": "glm-5.2"
+}

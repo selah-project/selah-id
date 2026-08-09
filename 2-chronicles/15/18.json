@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan ia membawa ⟨את⟩ benda-benda kudus ayahnya dan benda-benda kudusnya ke dalam bait Elohim: perak, emas, dan perkakas.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dan ia membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benda-benda kudus ayahnya"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "benda-benda kudus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "dan benda-benda kudusnya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "dan perkakas"
+    }
+  ],
+  "timestamp": "2026-08-08T10:13:21.235281009Z",
+  "model": "glm-5.2"
+}

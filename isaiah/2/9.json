@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan manusia ⟨telah⟩ membungkuk, dan laki-laki ⟨telah⟩ direndahkan; dan jangan engkau mengangkat ⟨mengampuni⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "dan membungkuk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "dan direndahkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "engkau mengangkat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:09:00.303643511Z",
+  "model": "glm-5.2"
+}

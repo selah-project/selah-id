@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan mereka akan menempatnya dan ⟨את⟩ segala perkakasnya ke dalam tutupan kuluh takhash, dan mereka akan menempatkannya di atas tongkat pemikul.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dan mereka akan menempat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "tutupan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "dan mereka akan menempatkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "tongkat pemikul"
+    }
+  ],
+  "timestamp": "2026-08-08T07:14:28.991187328Z",
+  "model": "glm-5.2"
+}

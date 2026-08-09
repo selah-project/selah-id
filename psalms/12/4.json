@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Semoga Yahweh mengerat semua bibir kemulusan, ⟨dan⟩ lidah yang berbicara hal-hal besar.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "semoga ... mengerat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "kemulusan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "yang berbicara"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "hal-hal besar"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:44.658111034Z",
+  "model": "glm-5.2"
+}

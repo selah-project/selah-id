@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Dan memukul setiap anak sulung di negeri mereka, ⟨yaitu⟩ pertama dari segala kekuatan mereka.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Dan memukul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di negeri mereka"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "kekuatan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:46.379632988Z",
+  "model": "glm-5.2"
+}

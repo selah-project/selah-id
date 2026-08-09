@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan Yaakov bekerja demi Rahel tujuh tahun, dan ⟨mereka⟩ di matanya seperti beberapa hari saja, karena cintanya ⟨את⟩ dia.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "dan bekerja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "demi Rahel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "seperti hari"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "beberapa"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "karena cintanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:21.389508889Z",
+  "model": "glm-5.2"
+}

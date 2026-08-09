@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Maka berhentilah ⟨the⟩ bangsa itu pada hari ketujuh.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "maka berhentilah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:59:47.588246143Z",
+  "model": "glm-5.2"
+}

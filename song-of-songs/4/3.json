@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Seperti ben kirmizi bibirmu, dan tutur katamu cantik; seperti belahan delima pelipismu di balik cadarmu.",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "seperti ben"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kirmizi"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "bibirmu"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "dan tutur katamu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "cantik"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "seperti belahan"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "delima"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "pelipismu"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "di balik"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "cadarmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:15.573208965Z",
+  "model": "glm-5.2"
+}

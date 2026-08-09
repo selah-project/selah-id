@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Lalu berkomplotlah hamba-hamba Amon melawan dia, dan mereka membunuh ⟨את⟩ sang raja di rumahnya.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "Lalu berkomplotlah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "melawan dia"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "dan mereka membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di rumahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:07:56.821548743Z",
+  "model": "glm-5.2"
+}

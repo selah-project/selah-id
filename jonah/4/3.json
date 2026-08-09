@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka sekarang, Yahweh, ambillah kiranya ⟨את⟩ nafsyiku daripada ku, sebab lebih baik matiku daripada hidupku.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "maka sekarang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsyiku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsyiku"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "matiku"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "daripada hidupku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:00:27.809540131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan Aku akan membawa ⟨את⟩ kamu masuk ke negeri yang telah Kuarahkan ⟨את⟩ tangan-Ku untuk memberikannya kepada Avraham, kepada Yitskhak, dan kepada Ya'akov, dan Aku akan memberikannya kepada kamu sebagai milik; Akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Dan Aku akan membawa masuk"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "telah Kuarahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-Ku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-Ku"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberikannya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kepada Avraham"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kepada Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kepada Yitskhak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "dan kepada Ya'akov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan memberikannya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kepada kamu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "sebagai milik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T23:15:41.965770181Z",
+  "model": "glm-5.2"
+}

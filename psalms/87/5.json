@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 87,
+  "translation": "Dan mengenai Tziyon akan dikatakan: “Seorang dan seorang dilahirkan di dalamnya”, dan ⟨dialah⟩ Yang Elyon yang menegakkannya.”",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "Dan mengenai Tziyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akan dikatakan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan seorang"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ⟨dialah⟩"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "yang menegakkannya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Yang Elyon"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:35.634287931Z",
+  "model": "glm-5.2"
+}

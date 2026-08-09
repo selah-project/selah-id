@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan sang raja mengulurkan kepada Ester ⟨את⟩ tongkat emas itu, dan Ester bangkit, dan berdiri di hadapan sang raja.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "Dan mengulurkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kepada Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat emas itu"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas itu"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "dan bangkit"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dan berdiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T11:58:23.674936845Z",
+  "model": "glm-5.2"
+}

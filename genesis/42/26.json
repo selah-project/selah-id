@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Dan mereka memuat ⟨את⟩ gandum mereka ke atas keledai mereka, dan mereka pergi dari sana.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Dan mereka memuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gandum mereka"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "gandum mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "keledai mereka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan mereka pergi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:26.452019925Z",
+  "model": "glm-5.2"
+}

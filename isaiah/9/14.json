@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "orang tua dan ⟨yang⟩ terangkat muka, dialah kepala; dan nabi pengajar dusta, dialah ekor.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "orang tua"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "dan ⟨yang⟩ terangkat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "dan nabi"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "pengajar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "ekor"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:46.049569926Z",
+  "model": "glm-5.2"
+}

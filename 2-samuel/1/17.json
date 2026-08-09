@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Dawid meratapi ⟨את⟩ ratapan ini atas Sha'ul dan atas Yehonatanan bininya.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "dan meratapi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ratapan"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ratapan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bininya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:44.459781051Z",
+  "model": "glm-5.2"
+}

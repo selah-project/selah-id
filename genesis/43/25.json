@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Lalu mereka menyiapkan ⟨את⟩ persembahan itu sampai datangnya Yosef pada tengah hari, sebab mereka telah mendengar bahwa di sana mereka akan makan roti.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "Lalu mereka menyiapkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan itu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahan itu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "datangnya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "pada tengah hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mereka telah mendengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mereka akan makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:50.283376160Z",
+  "model": "glm-5.2"
+}

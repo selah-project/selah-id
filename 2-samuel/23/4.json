@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan seperti cahaya pagi ketika matahari terbit, ⟨yaitu⟩ pagi tanpa awan gelap — dari sinaran, dari hujan, rumput ⟨muncul⟩ dari bumi.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "Dan seperti cahaya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ketika ... terbit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "awan gelap"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "dari sinaran"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "dari hujan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:59:13.633909956Z",
+  "model": "glm-5.2"
+}

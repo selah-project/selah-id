@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan bani Yavan: Elishah, dan Tarshish, Kitim, dan Dodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dan bani"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yavan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elishah"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "dan Tarshish"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "dan Dodanim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:34.151409598Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Mikhal, putri Shaul, mencintai ⟨את⟩ Daud; dan mereka memberitahukan hal itu kepada Shaul, dan perkara itu dipandang baik di matanya.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "Lalu mencintai"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "dan mereka memberitahukan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "dan dipandang baik"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara itu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:30.458846265Z",
+  "model": "glm-5.2"
+}

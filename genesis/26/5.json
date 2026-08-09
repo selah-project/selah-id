@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "sebab Abraham mendengar suaraku dan menjaga penjagaanku, perintah-perintahku, ketetapan-ketetapanku, dan torat-toratku.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "dan menjaga"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "penjagaanku"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "perintah-perintahku"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ketetapan-ketetapanku"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "dan torat-toratku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:48:31.725150560Z",
+  "model": "glm-5.2"
+}

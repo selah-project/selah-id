@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 40:12",
+  "book": "job",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Lihatlah setiap ⟨orang⟩ yang sombong, tundukkanlah dia, dan injaklah orang-orang fasik di tempat mereka!",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "yang sombong"
+    },
+    {
+      "surface": "הכניעהו",
+      "gloss": "tundukkanlah dia"
+    },
+    {
+      "surface": "והדך",
+      "gloss": "dan injaklah"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "di tempat mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:38.627230240Z",
+  "model": "glm-5.2"
+}

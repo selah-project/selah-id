@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Mengapa, Yahweh, Engkau menolak napas-hidupku, Engkau menyembunyikan wajah-Mu dariku?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "Engkau menolak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napas-hidupku"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Engkau menyembunyikan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dariku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:40.768567460Z",
+  "model": "glm-5.2"
+}

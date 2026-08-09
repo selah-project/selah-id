@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Maka mereka berseru kepada Yahweh dalam kesesakan mereka, dan dari kecelakaan-kecelakaan mereka ⟨dia⟩ menyelamatkan mereka.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "maka mereka berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "dari kecelakaan-kecelakaan mereka"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "⟨dia⟩ menyelamatkan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:24.235730278Z",
+  "model": "glm-5.2"
+}

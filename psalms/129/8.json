@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 129,
+  "translation": "Dan tidak berkata ⟨mereka⟩ yang lewat, “Berkat Yahweh ⟨bagi⟩ kamu; kami memberkati ⟨את⟩ kamu dalam nama Yahweh.”",
+  "tokens": [
+    {
+      "surface": "וְלֹ֤א",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "אָֽמְר֨וּ",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "הָעֹבְרִ֗ים",
+      "gloss": "yang lewat"
+    },
+    {
+      "surface": "בִּרְכַּֽת",
+      "gloss": "Berkat"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲלֵיכֶ֑ם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "בֵּרַ֥כְנוּ",
+      "gloss": "kami memberkati"
+    },
+    {
+      "surface": "אֶ֝תְכֶ֗ם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:41.876655539Z",
+  "model": "glm-5.2"
+}

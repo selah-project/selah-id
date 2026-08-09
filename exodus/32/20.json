@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan ⟨ia⟩ mengambil ⟨את⟩ anak lembu itu yang telah mereka buat, dan membakarnya dengan api, dan menggilingnya sampai halus, dan menghamburkannya ke permukaan air itu, dan membuat ⟨את⟩ bani Yisra'el meminumnya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lembu itu"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "anak lembu itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka buat"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "dan membakarnya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "dan menggilingnya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "דק",
+      "gloss": "halus"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "dan menghamburkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dan membuat meminum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:25.468781737Z",
+  "model": "glm-5.2"
+}

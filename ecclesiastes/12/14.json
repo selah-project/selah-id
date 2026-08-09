@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Karena ⟨את⟩ setiap perbuatan haElohim akan dibawa ⟨ke dalam⟩ penghakiman atas setiap ⟨hal⟩ yang tersembunyi, baik itu, maupun itu jahat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setiap perbuatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "haElohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akan dibawa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨ke dalam⟩ penghakiman"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "⟨hal⟩ yang tersembunyi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "baik itu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "maupun itu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:24.218809456Z",
+  "model": "glm-5.2"
+}

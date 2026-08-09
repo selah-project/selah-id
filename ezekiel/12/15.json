@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "dan mereka akan tahu bahwa aku ini Yahweh, ketika aku menyebarkan mereka ⟨את⟩ di antara bangsa-bangsa, dan aku menyirakkan mereka ⟨את⟩ di tanah-tanah.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "dan mereka akan tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "ketika aku menyebarkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "mereka ⟨את⟩",
+      "marks": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "dan aku menyirakkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "mereka ⟨את⟩",
+      "marks": "di tanah-tanah"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di tanah-tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:22:34.519775378Z",
+  "model": "glm-5.2"
+}

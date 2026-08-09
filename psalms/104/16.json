@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Pohon-pohon Yahweh dikenyangkan, arazim Levanon yang ⟨Ia⟩ tanam.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "dikenyangkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "pohon-pohon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "arazim"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "tanam"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:41.443704976Z",
+  "model": "glm-5.2"
+}

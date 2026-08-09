@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Karena suaminya tidak ada di rumahnya, ⟨ia⟩ telah pergi di jalan dari jauh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "suaminya"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di rumahnya"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "telah pergi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "dari jauh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:35.551789443Z",
+  "model": "glm-5.2"
+}

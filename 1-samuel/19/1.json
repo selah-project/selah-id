@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan Sha'ul berbicara kepada Yonatan, putranya, dan kepada semua hambanya, untuk membunuh ⟨את⟩ Dawid. Namun Yonatan, putra Sha'ul, berkenan kepada Dawid dengan sangat.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan berbicara"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putranya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "untuk mematikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "dan Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "kepada Dawid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dengan sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:35.203400971Z",
+  "model": "glm-5.2"
+}

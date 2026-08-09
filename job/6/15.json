@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Saudara-saudaraku telah berkhianat seperti sungai, seperti saluran sungai-sungai yang mengalir lewat.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Saudara-saudaraku"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "telah berkhianat"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "seperti saluran"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "yang mengalir lewat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:16.195655248Z",
+  "model": "glm-5.2"
+}

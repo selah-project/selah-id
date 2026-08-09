@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Bagaimana aku menikam? —bukan El menikam! Dan bagaimana aku murka? —bukan Yahweh murka!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "aku menikam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "menikam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan bagaimana"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "aku murka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "murka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:20:53.351037376Z",
+  "model": "glm-5.2"
+}

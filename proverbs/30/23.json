@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 30:23",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "seorang perempuan yang dibenci apabila ia dinikahkan, dan seorang hamba perempuan apabila ia menggantikan nyonyanya,",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "perempuan yang dibenci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תבעל",
+      "gloss": "dinikahkan"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "dan hamba perempuan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "nyonyanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:56.770233634Z",
+  "model": "glm-5.2"
+}

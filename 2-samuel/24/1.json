@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan bertambah-tambah pula murka Yahweh menyala terhadap Yisrael, dan ⟨הוא⟩ menggerakkan ⟨את⟩ Dawid terhadap mereka, dengan mengatakan: \"Pergilah, hitunglah ⟨את⟩ Yisrael dan ⟨את⟩ Yehudah.\"",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Dan bertambah-tambah"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "menyala"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "terhadap Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "dan menggerakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "hitunglah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:01:46.199791109Z",
+  "model": "glm-5.2"
+}

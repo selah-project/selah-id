@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Pengasihi musar mengasihi da'at, tetapi pembenci tokhahat ⟨adalah⟩ beastial.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "pengasihi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "musar"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "da'at"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "tetapi pembenci"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tokhahat"
+    },
+    {
+      "surface": "בער",
+      "gloss": "beastial"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:37.343293544Z",
+  "model": "glm-5.2"
+}

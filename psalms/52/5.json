@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Engkau mencintai kejahatan lebih dari pada kebaikan, kebohongan lebih dari pada berbicara kebenaran. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Engkau mencintai"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "lebih dari pada kebaikan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "lebih dari pada berbicara"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:56.905286688Z",
+  "model": "glm-5.2"
+}

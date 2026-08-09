@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Lebih baik kekesalan daripada tertawa, sebab oleh muram muka hati ⟨dipulihkan⟩ menjadi baik.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kekesalan"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "daripada tertawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "oleh muram"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "dipulihkan menjadi baik"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:09.408301525Z",
+  "model": "glm-5.2"
+}

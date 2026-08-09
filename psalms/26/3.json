@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Sebab hesed-Mu ⟨berada⟩ di hadapan mataku, dan aku telah berjalan dalam kebenaran-Mu.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חַ֭סְדְּךָ",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "לְנֶ֣גֶד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "עֵינָ֑י",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "וְ֝הִתְהַלַּ֗כְתִּי",
+      "gloss": "dan aku telah berjalan"
+    },
+    {
+      "surface": "בַּאֲמִתֶּֽךָ",
+      "gloss": "dalam kebenaran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:40.776973181Z",
+  "model": "glm-5.2"
+}

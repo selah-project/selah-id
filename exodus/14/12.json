@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Bukankah ini perkataan yang kami katakan kepadamu di Mitsrayim, sebagai berikut: ‘Berhentilah dari kami, dan biarlah kami melayani ⟨את⟩ Mitsrayim’? Karena lebih baik bagi kami melayani ⟨את⟩ Mitsrayim daripada mati di padang gurun.”",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "kami katakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sebagai berikut"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "Berhentilah"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari kami"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "dan biarlah kami melayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "melayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "daripada mati"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:51.473132411Z",
+  "model": "glm-5.2"
+}

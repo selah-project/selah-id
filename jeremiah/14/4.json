@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Karena tanah itu retak, karena tidak ada hujan di bumi, petani-petani malu, mereka menutupi kepala mereka.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "karena"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "retak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "malu"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "petani-petani"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "menutupi"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kepala mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:33:13.372176348Z",
+  "model": "glm-5.2"
+}

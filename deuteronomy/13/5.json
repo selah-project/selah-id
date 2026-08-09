@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Di belakang Yahweh Elohim kamu ⟨kamu⟩ akan berjalan, dan ⟨את⟩-dia kamu akan takuti, dan ⟨את⟩ perintah-perintahnya kamu akan jaga, dan pada suaranya kamu akan dengarkan, dan ⟨את⟩-dia kamu akan layani, dan padanya kamu akan berpaut.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kamu akan berjalan"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩-dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamu akan takuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintahnya"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "perintah-perintahnya"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kamu akan jaga"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "dan pada suaranya"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamu akan dengarkan"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩-dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "kamu akan layani"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "dan padanya"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "kamu akan berpaut"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:36.437476129Z",
+  "model": "glm-5.2"
+}

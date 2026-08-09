@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 143,
+  "translation": "Buatlah aku mendengar hesed-Mu di waktu pagi, sebab kepada-Mu aku percaya, beritahulah aku jalan ini aku berjalan, sebab kepada-Mu kuangkat napasku.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "Buatlah aku mendengar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di waktu pagi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "beritahulah aku"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "kuangkat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:56.311744618Z",
+  "model": "glm-5.2"
+}

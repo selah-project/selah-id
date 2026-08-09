@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Adapun aku, kepada El aku akan berseru, dan Yahweh akan menyelamatkan aku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "El"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku akan berseru"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "akan menyelamatkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:07.516595046Z",
+  "model": "glm-5.2"
+}

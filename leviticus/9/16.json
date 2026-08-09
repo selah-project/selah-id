@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan ⟨ia⟩ mempersembahkan ⟨את⟩ korban bakaran itu, dan ⟨ia⟩ melakukannya menurut peraturan.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Dan ia mempersembahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran itu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "dan ia melakukannya"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "menurut peraturan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:02.612714742Z",
+  "model": "glm-5.2"
+}

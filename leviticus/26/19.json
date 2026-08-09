@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan Aku akan mematahkan ⟨את⟩ kecongkahan kekuatanmu, dan Aku akan menjadikan ⟨את⟩ langitmu seperti besi dan ⟨את⟩ tanahmu seperti tembaga.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Dan Aku akan mematahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecongkahan kekuatanmu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kecongkahan"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "kekuatanmu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langitmu"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "langitmu"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "seperti besi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanahmu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "seperti tembaga"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:17.272283137Z",
+  "model": "glm-5.2"
+}

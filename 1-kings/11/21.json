@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Hadad mendengar di Mitsrayim bahwa Dawid telah berbaring dengan nenek-moyangnya dan bahwa Yoab panglima pasukan telah mati, lalu berkatalah Hadad kepada Paroh: “Suruhlah aku pergi, maka aku akan pergi ke negeriku.”",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "berbaring"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek-moyangnya"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan bahwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "suruhlah aku pergi"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "maka aku akan pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "negeriku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:40.965199393Z",
+  "model": "glm-5.2"
+}

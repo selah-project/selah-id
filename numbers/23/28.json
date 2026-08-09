@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan Balak membawa ⟨את⟩ Bilam ke puncak Peor, yang menghadap menghadap padang gurun.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dan membawa"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "puncak"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "yang menghadap"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T10:42:10.085240715Z",
+  "model": "glm-5.2"
+}

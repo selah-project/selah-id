@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "⟨Dia⟩ menjadikan kegelapan persembunyian-Nya, sekeliling-Nya ⟨adalah⟩ pondok-Nya — kegelapan air, gumpalan awan.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "⟨dia⟩ menjadikan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "persembunyian-Nya"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "sekeliling-Nya"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "pondok-Nya"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "gumpalan"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:38.467368671Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "untuk menghakimi yatim dan ⟨orang yang⟩ tertindas, supaya ⟨manusia⟩ duniawi tidak menambah ketakutan lagi dari bumi.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "untuk menghakimi"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "dan tertindas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "menambah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ketakutan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia duniawi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:42.234678666Z",
+  "model": "glm-5.2"
+}

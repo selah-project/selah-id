@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Maka Yahweh memberkati ⟨את⟩ hari-hari akhir Iyov melebihi awalnya; dan dimilikinya empat belas ribu kambing domba, dan enam ribu unta, dan seribu pasang lembu, dan seribu keledai betina.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "maka Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari-hari akhir"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "hari-hari akhir"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "melebihi awalnya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan dimilikinya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "empat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing domba"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "dan enam"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "unta"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "dan seribu"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "pasang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "dan seribu"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "keledai betina"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:08.850614005Z",
+  "model": "glm-5.2"
+}

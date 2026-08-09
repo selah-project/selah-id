@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan setiap orang yang mengangkat dari bangkai mereka harus mencuci pakaiannya dan ⟨dia⟩ najis sampai matahari terbenam.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "yang mengangkat"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "dari bangkai mereka"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "harus mencuci"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "matahari terbenam"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:48.938033130Z",
+  "model": "glm-5.2"
+}

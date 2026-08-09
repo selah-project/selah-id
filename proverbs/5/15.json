@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Minumlah air dari sumur kamu, dan ⟨air⟩ yang mengalir dari tengah telaga kamu.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "minumlah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "dari sumur kamu"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "dan ⟨air⟩ yang mengalir"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tengah"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "telaga kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:08.813016597Z",
+  "model": "glm-5.2"
+}

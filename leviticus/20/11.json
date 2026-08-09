@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan seorang laki-laki yang bersetubuh ⟨dengan⟩ ⟨את⟩ isteri ayahnya — telanjang ayahnya telah dinyatakannya — keduanya pastilah dihukum mati; darah mereka ⟨ada⟩ pada mereka.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dan seorang laki-laki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "bersetubuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteri ayahnya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "telah dinyatakannya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "hukuman mati"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "pastilah dihukum mati"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "keduanya"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "darah mereka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:28.415876286Z",
+  "model": "glm-5.2"
+}

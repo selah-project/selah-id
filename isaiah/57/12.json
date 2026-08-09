@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Aku akan menyatakan kebenaranmu, dan ⟨את⟩ perbuatanmu — dan tidak akan bermanfaat bagimu.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אַגִּ֖יד",
+      "gloss": "akan menyatakan"
+    },
+    {
+      "surface": "צִדְקָתֵ֑ךְ",
+      "gloss": "kebenaranmu"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perbuatanmu"
+    },
+    {
+      "surface": "מַעֲשַׂ֖יִךְ",
+      "gloss": "perbuatanmu"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יוֹעִילֽוּךְ",
+      "gloss": "akan bermanfaat bagimu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:28:01.328655146Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Sebab bukan ⟨seorang⟩ musuh yang mencela aku, maka aku bisa menanggungnya; bukan pembenciku yang membesarkan diri terhadap aku, maka aku akan bersembunyi daripadanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "mencela aku"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "dan aku menanggung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "pembenciku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "membesarkan diri"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "dan aku bersembunyi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:56.509074986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 138,
+  "translation": "Pada hari aku memanggil, Engkau menjawab aku; Engkau memberi keberanian dalam jiwaku ⟨dengan⟩ kekuatan.",
+  "tokens": [
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "קָ֭רָֽאתִי",
+      "gloss": "aku memanggil"
+    },
+    {
+      "surface": "וַֽתַּעֲנֵ֑נִי",
+      "gloss": "Engkau menjawab aku"
+    },
+    {
+      "surface": "תַּרְהִבֵ֖נִי",
+      "gloss": "Engkau memberi keberanian"
+    },
+    {
+      "surface": "בְּנַפְשִׁ֣י",
+      "gloss": "dalam jiwaku"
+    },
+    {
+      "surface": "עֹֽז",
+      "gloss": "kekuatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:19.107287634Z",
+  "model": "glm-5.2"
+}

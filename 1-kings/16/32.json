@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan ia mendirikan mezbah bagi Ba'al di bait ha-Ba'al yang ia dirikan di Shomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dan ia mendirikan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "bagi Ba'al"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di bait"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ha-Ba'al"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ia dirikan"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:59.404890832Z",
+  "model": "glm-5.2"
+}

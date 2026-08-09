@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Yahweh Elohim menanam taman di Eden, di timur, dan Ia menempatkan di sana ⟨את⟩ sang adam yang telah dibentuk-Nya.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "Dan ... menanam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "taman"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "di Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "di timur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan Ia menempatkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "telah dibentuk-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:19.866752911Z",
+  "model": "glm-5.2"
+}

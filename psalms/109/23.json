@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Seperti bayangan ketika ⟨ia⟩ mencondong, aku berjalan; aku terlempar seperti belalang.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Seperti bayangan"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "ketika mencondong"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "aku terlempar"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "seperti belalang"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:09.123597173Z",
+  "model": "glm-5.2"
+}

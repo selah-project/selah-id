@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 4:2",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Elisha berkata kepadanya, “Apa yang kuperbuat bagimu? Beritahukanlah kepadaku, apa yang ada padamu di rumah?” Dan ⟨ia⟩ berkata, “Tidak ada apa-apa pada hamba-mu di rumah, kecuali sedikit minyak peminyakan.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "kupergiatkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "beritahukanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לשפחתך",
+      "gloss": "pada hamba-mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kecuali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "אסוך",
+      "gloss": "minyak peminyakan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:30.414446848Z",
+  "model": "glm-5.2"
+}

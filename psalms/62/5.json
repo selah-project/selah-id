@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 62,
+  "translation": "Hanya, untuk menjatuhkan ⟨dia⟩ dari kedudukannya, mereka merancang; mereka menyukai dusta; dengan mulut mereka mereka memberkati, tetapi di dalam batin mereka mereka mengutuk. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "kedudukannya"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "mereka merancang"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "untuk menjatuhkan"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "mereka menyukai"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "dengan mulut mereka"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "mereka memberkati"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "dan di dalam batin mereka"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "mereka mengutuk"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:04.860400720Z",
+  "model": "glm-5.2"
+}

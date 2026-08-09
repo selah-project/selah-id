@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan sungai keluar dari Eden untuk mengairi ⟨את⟩ taman, dan dari sana ia bercabang dan menjadi empat kepala.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "dan sungai"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "dari Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "untuk mengairi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taman"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "taman"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "dan dari sana"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ia bercabang"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "empat"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "kepala"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:18.594156875Z",
+  "model": "glm-5.2"
+}

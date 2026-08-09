@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Maka terjadilah pada waktu senja, dan burung puyuh naik, dan menutupi ⟨את⟩ perkemahan; dan pada waktu pagi ada lapisan embun sekeliling perkemahan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu senja"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "dan ... naik"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "burung puyuh"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkemahan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "perkemahan"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "dan pada waktu pagi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "lapisan"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "embun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "perkemahan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:00.166759480Z",
+  "model": "glm-5.2"
+}

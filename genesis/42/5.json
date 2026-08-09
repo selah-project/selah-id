@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Maka datanglah bani Yisrael untuk membeli gandum di tengah-tengah ⟨para⟩ pendatang, sebab ⟨ada⟩ kelaparan di tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "maka datanglah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuk membeli gandum"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "⟨para⟩ pendatang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ada⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:43.746330217Z",
+  "model": "glm-5.2"
+}

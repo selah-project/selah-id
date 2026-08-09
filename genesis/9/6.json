@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Penumpah darah manusia, oleh manusia ⟨akah⟩ darahnya akan ditumpahkan; sebab dalam gambar Elohim ⟨Ia⟩ membuat ⟨את⟩ manusia.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "penumpah"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "oleh manusia"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "akan ditumpahkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dalam gambar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:25.786861890Z",
+  "model": "glm-5.2"
+}

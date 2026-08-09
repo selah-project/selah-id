@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Juga tidak berbuat kecurangan; di jalan-jalan-Nya mereka berjalan.",
+  "tokens": [
+    {
+      "surface": "אַ֭ף",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "פָעֲל֣וּ",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "עַוְלָ֑ה",
+      "gloss": "kecurangan"
+    },
+    {
+      "surface": "בִּדְרָכָ֥יו",
+      "gloss": "di jalan-jalan-Nya"
+    },
+    {
+      "surface": "הָלָֽכוּ",
+      "gloss": "mereka berjalan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:40.908325188Z",
+  "model": "glm-5.2"
+}

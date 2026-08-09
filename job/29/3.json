@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "ketika pelitunya bercahaya di atas kepalaku, dan oleh cahayanya aku berjalan ⟨di⟩ kegelapan;",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "ketika ... bercahaya"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "pelitunya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepalaku"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "oleh cahayanya"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:41:56.374866366Z",
+  "model": "glm-5.2"
+}

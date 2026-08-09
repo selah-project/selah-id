@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "⟨את⟩ menorah ⟨yang⟩ murni, ⟨את⟩ lampu-lampunya, lampu-lampu ⟨dari⟩ tata letak, dan ⟨את⟩ segala perkakasnya, dan ⟨את⟩ minyak ⟨untuk⟩ penerangan;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "murni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampunya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampunya"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "lampu-lampu"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "tata letak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "penerangan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:07.991040872Z",
+  "model": "glm-5.2"
+}

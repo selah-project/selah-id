@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Aku tahu bahwa tidak ada kebaikan dalam mereka, melainkan bersukacita dan berbuat baik dalam hidupnya.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dalam mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "dan berbuat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "dalam hidupnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:13.561479656Z",
+  "model": "glm-5.2"
+}

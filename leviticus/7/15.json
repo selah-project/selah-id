@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan daging korban syukur shelamayw-nya, pada hari persembahannya ⟨itu⟩ harus dimakan; tidak boleh dibiarkan daripadanya sampai pagi.",
+  "tokens": [
+    {
+      "surface": "וּבְשַׂ֗ר",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "זֶ֚בַח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "תּוֹדַ֣ת",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "שְׁלָמָ֔יו",
+      "gloss": "shelamayw-nya"
+    },
+    {
+      "surface": "בְּי֥וֹם",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "קָרְבָּנ֖וֹ",
+      "gloss": "persembahannya"
+    },
+    {
+      "surface": "יֵאָכֵ֑ל",
+      "gloss": "harus dimakan"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יַנִּ֥יחַ",
+      "gloss": "boleh dibiarkan"
+    },
+    {
+      "surface": "מִמֶּ֖נּוּ",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בֹּֽקֶר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:34.188794265Z",
+  "model": "glm-5.2"
+}

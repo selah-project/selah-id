@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "Baik untuk bersyukur kepada Yahweh, dan untuk bermazmur bagi nama-Mu, Elyon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "untuk bersyukur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "dan untuk bermazmur"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "bagi nama-Mu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:55.717514070Z",
+  "model": "glm-5.2"
+}

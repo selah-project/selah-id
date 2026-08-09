@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan yang membakarnya, ⟨את⟩ dia, ia mencuci pakaiannya dalam air dan membasuh tubuhnya dalam air, dan ⟨ia⟩ tame sampai waktu senja.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Dan yang membakarnya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia (sapi betina)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ia mencuci"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan membasuh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tubuhnya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan ⟨ia⟩ tame"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "waktu senja"
+    }
+  ],
+  "timestamp": "2026-08-08T10:41:28.202635227Z",
+  "model": "glm-5.2"
+}

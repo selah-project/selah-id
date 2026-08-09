@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan imam mencelupkan ⟨את⟩ jarinya ke dalam darah itu, dan memercikkan dari darah itu tujuh kali ke hadapan Yahweh, ⟨את⟩ permukaan tirai penyekat ruang kudus.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "dan mencelupkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarinya"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "jarinya"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ke dalam darah"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "dan memercikkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "permukaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tirai penyekat"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ruang kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:48.650073512Z",
+  "model": "glm-5.2"
+}

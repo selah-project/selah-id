@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan ⟨ketika⟩ Atalya ibu Ahaziahu melihat bahwa matilah putranya, maka bangunlah dia dan membinasakan ⟨את⟩ seluruh benih kerajaan itu.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "dan Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putranya"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "maka bangunlah dia"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "dan membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh benih kerajaan itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:11:15.710786469Z",
+  "model": "glm-5.2"
+}

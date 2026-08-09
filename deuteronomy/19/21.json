@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan matamu tidak boleh terbelas kasihan: nefesh ganti nefesh, mata ganti mata, gigi ganti gigi, tangan ganti tangan, kaki ganti kaki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "boleh terbelas kasihan"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "matamu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ganti nefesh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ganti mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ganti gigi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ganti tangan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ganti kaki"
+    }
+  ],
+  "timestamp": "2026-08-08T18:28:54.091215942Z",
+  "model": "glm-5.2"
+}

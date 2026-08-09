@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Maka engkau ⟨harus⟩ memelihara ⟨את⟩ perintah dan ⟨את⟩ ketetapan-ketetapan dan ⟨את⟩ peraturan-peraturan, yang aku perintahkan kepadam hari ini, untuk melakukannya.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "maka engkau memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "peraturan-peraturan"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "peraturan-peraturan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "memerintahkan kepadam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "untuk melakukannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:08.265364515Z",
+  "model": "glm-5.2"
+}

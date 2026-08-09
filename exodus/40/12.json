@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan dekatkanlah ⟨את⟩ Aharon dan ⟨את⟩ anak-anaknya ke pintu kemah perjumpaan, maka basuhlah ⟨את⟩ mereka dengan air.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "dan dekatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "perjumpaan"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "maka basuhlah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:16.395149580Z",
+  "model": "glm-5.2"
+}

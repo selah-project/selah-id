@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan dibuatnya ⟨את⟩ tiang-tiang itu dari kayu shittim, dan disalutnya ⟨את⟩-nya dengan emas, untuk mengangkat ⟨את⟩ meja itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan disalutnya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-nya",
+      "marks": "emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "untuk mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:00.129606814Z",
+  "model": "glm-5.2"
+}

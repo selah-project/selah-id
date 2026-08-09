@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Maka terjadilah setelah hal-hal ini, dan Elohim menguji ⟨את⟩ Avraham, dan ⟨Ia⟩ berfirman kepadanya: “Avraham!” Dan ⟨ia⟩ berkata: “Lihatlah, aku ini.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hal-hal"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "dan Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "menguji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lihatlah, aku ini"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:56.877574141Z",
+  "model": "glm-5.2"
+}

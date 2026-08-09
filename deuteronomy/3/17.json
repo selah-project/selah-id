@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨lah⟩ Araba dan Yarden dan ⟨situ⟩ perbatasan, dari Kineret sampai laut Araba, laut ⟨yang⟩ asin, di bawah lereng Pisga, ke arah timur.",
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "dan Araba"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "dan Yarden"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "dan perbatasan"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "dari Kineret"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "asin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "lereng"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pisga"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ke arah timur"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:44.741840460Z",
+  "model": "glm-5.2"
+}

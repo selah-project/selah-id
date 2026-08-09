@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Unta Dawid. Berkati, hai napasku, ⟨את⟩ Yahweh, dan seluruh batiniku, ⟨את⟩ nama kekudusan-Nya.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Unta Dawid"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Berkati"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai napasku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "batinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama kekudusan-Nya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kekudusan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:06.347429135Z",
+  "model": "glm-5.2"
+}

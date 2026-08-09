@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Sebab ⟨Ia⟩ telah memecahkan pintu-pintu tembaga, dan palang-palang besi ⟨Ia⟩ telah memutuskan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "⟨Ia⟩ telah memecahkan"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "dan palang-palang"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "besi"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "⟨Ia⟩ telah memutuskan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:23.335932373Z",
+  "model": "glm-5.2"
+}

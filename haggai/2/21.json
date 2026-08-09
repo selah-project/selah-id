@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Katakanlah kepada Zerubavel, pekat Yehudah, demikian: Aku menggoncangkan ⟨את⟩ langit dan ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubavel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "pekat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "menggoncangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:03:24.878386319Z",
+  "model": "glm-5.2"
+}

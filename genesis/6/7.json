@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Maka Yahweh berfirman, “Aku akan menghapus ⟨את⟩ manusia yang telah Kuciptakan dari permukaan tanah — dari manusia sampai hewan, sampai yang merayap, dan sampai burung langit — sebab Aku menyesal bahwa Aku telah membuat mereka.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Aku akan menghapus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "telah Kuciptakan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari permukaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari manusia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hewan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "yang merayap"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "Aku menyesal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "Aku telah membuat mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:58.212569062Z",
+  "model": "glm-5.2"
+}

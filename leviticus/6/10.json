@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Tidak boleh dipanggang beragi; bagiian mereka telah kuberikan ⟨את⟩-nya dari persembahan-api-Ku; ⟨itu⟩ qodesh qodashim, seperti persembahan hatat dan seperti persembahan asham.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "boleh dipanggang"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "beragi"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "bagian mereka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuberikan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "bagian mereka"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "dari persembahan-api-Ku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qodashim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "seperti persembahan hatat"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "dan seperti persembahan asham"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:45.963604996Z",
+  "model": "glm-5.2"
+}

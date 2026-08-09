@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Dan Yahweh ⟨bersama⟩ ⟨את⟩ Yosef, dan ⟨dia⟩ menjadi seorang yang berhasil, dan ⟨dia⟩ ada di rumad tuannya, orang Mitsri itu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ⟨dia⟩ menjadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "yang berhasil"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ⟨dia⟩ ada"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannya"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "orang Mitsri itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:36.985540597Z",
+  "model": "glm-5.2"
+}

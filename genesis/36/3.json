@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "dan ⟨את⟩ Bosmath anak perempuan Yishmael, saudara perempuan Nebayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "saudara perempuan"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayot"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:10.350452309Z",
+  "model": "glm-5.2"
+}

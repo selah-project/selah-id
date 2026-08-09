@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Kiranya orang-orang yang takut akan Engkau berbalik kepadaku, dan mereka yang mengenal pidut-Mu.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "berbalik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "orang-orang yang takut akan Engkau"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "dan mereka yang mengenal"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "pidut-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:28.748740589Z",
+  "model": "glm-5.2"
+}

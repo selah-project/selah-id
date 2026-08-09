@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "Bersyukurlah kepada Elohim ⟨dari⟩ para elohim, sebab untuk selamanya hesed-nya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "bersyukurlah"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "para elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:52.042677420Z",
+  "model": "glm-5.2"
+}

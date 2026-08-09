@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Sepanjang hari aibku ⟨ada⟩ di hadapanku, dan rasa malu wajahku telah menutupi aku.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "Sepanjang"
+    },
+    {
+      "surface": "הַ֭יּוֹם",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כְּלִמָּתִ֣י",
+      "gloss": "aibku"
+    },
+    {
+      "surface": "נֶגְדִּ֑י",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "וּבֹ֖שֶׁת",
+      "gloss": "dan rasa malu"
+    },
+    {
+      "surface": "פָּנַ֣י",
+      "gloss": "wajahku"
+    },
+    {
+      "surface": "כִּסָּֽתְנִי",
+      "gloss": "telah menutupi aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:32.317294282Z",
+  "model": "glm-5.2"
+}

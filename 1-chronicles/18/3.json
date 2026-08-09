@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Dawid memukul kalah ⟨את⟩ Hadadezer raja Tzova, dekat Khamat, ketika ia pergi untuk menegakkan tangannya di Sungai Perat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Lalu memukul kalah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tzova"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "dekat Khamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "ketika ia pergi"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "untuk menegakkan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": " tangannya"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "di Sungai"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-08-08T12:27:06.537543249Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 52:2",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Dan ⟨ia⟩ melakukan apa yang jahat di mata Yahweh, persis seperti segala yang telah dilakukan oleh Yehoyakim.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "dan melakukan"
+    },
+    {
+      "surface": "הָרַ֖ע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "בְּעֵינֵ֣י",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כְּכֹ֥ל",
+      "gloss": "persis seperti segala"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עָשָׂ֖ה",
+      "gloss": "telah dilakukan oleh"
+    },
+    {
+      "surface": "יְהוֹיָקִֽים",
+      "gloss": "Yehoyakim"
+    }
+  ],
+  "timestamp": "2026-08-08T11:22:04.299747389Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Lalu diberitahukan kepada Yoav: “Lihat, raja menangis dan berdukacita atas Avshalom.”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Lalu diberitahukan"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "kepada Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "menangis"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "dan berdukacita"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-08T11:00:53.341476283Z",
+  "model": "glm-5.2"
+}

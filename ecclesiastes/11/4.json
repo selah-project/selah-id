@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Siapa yang mengawasi angin tidak akan menabur, dan siapa yang melihat awan tidak akan menuai.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "mengawasi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "akan menabur"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "akan menuai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:08.399635658Z",
+  "model": "glm-5.2"
+}

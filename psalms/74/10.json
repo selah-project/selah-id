@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Sampai kapan, ya Elohim, musitertawa, akantertawa, akan menghina nama-Mu untuk selamanya?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "mengehina"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "akan menista"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lawan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:28.926887762Z",
+  "model": "glm-5.2"
+}

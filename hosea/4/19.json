@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Angin telah mengikatnya ⟨את⟩ di bawah sayap-sayapnya, dan mereka akan mendapat malu karena mezbah-mezbah mereka.",
+  "tokens": [
+    {
+      "surface": "צָרַ֥ר",
+      "gloss": "telah mengikat"
+    },
+    {
+      "surface": "ר֛וּחַ",
+      "gloss": "angin"
+    },
+    {
+      "surface": "אוֹתָ֖הּ",
+      "gloss": "⟨את⟩",
+      "marks": "di bawah sayap-sayapnya"
+    },
+    {
+      "surface": "בִּכְנָפֶ֑יהָ",
+      "gloss": "di bawah sayap-sayapnya"
+    },
+    {
+      "surface": "וְיֵבֹ֖שׁוּ",
+      "gloss": "dan mereka akan mendapat malu"
+    },
+    {
+      "surface": "מִזִּבְחוֹתָֽם",
+      "gloss": "karena mezbah-mezbah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:28:13.532143743Z",
+  "model": "glm-5.2"
+}

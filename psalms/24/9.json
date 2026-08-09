@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Angkatlah, hai gerbang, kepala-kepala kamu, dan terangkatlah, hai pintu-pintu ⟨yang⟩ kekal, dan masuklah Raja ⟨ha⟩kavod!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Angkatlah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gerbang"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "kepala-kepala kamu"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "dan terangkatlah"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨yang⟩ kekal"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan masuklah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "⟨ha⟩kavod"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:34.967172234Z",
+  "model": "glm-5.2"
+}

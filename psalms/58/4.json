@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 58,
+  "translation": "Terasinglah orang-orang fasik mulai dari rahim; menyimpanglah dari perut, para pembicar dusta.",
+  "tokens": [
+    {
+      "surface": "זֹ֣רוּ",
+      "gloss": "terasinglah"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "מֵרָ֑חֶם",
+      "gloss": "mulai dari rahim"
+    },
+    {
+      "surface": "תָּע֥וּ",
+      "gloss": "menyimpanglah"
+    },
+    {
+      "surface": "מִ֝בֶּ֗טֶן",
+      "gloss": "dari perut"
+    },
+    {
+      "surface": "דֹּבְרֵ֥י",
+      "gloss": "para pembicar"
+    },
+    {
+      "surface": "כָזָֽב",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:06.866398092Z",
+  "model": "glm-5.2"
+}

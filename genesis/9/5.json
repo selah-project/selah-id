@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan memang ⟨את⟩ darahmu untuk ⟨nefesh⟩-nefeshmu akan Kutuntut; dari tangan setiap binatang hidup akan Kutuntut ⟩ia⟨, dan dari tangan manusia, dari tangan saudara seorang laki-laki, akan Kutuntut ⟨את⟩ nefesh manusia.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "dan memang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahmu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "darahmu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "untuk nefesh-nefeshmu"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "akan Kutuntut"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "binatang hidup"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "akan Kutuntut ia"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dan dari tangan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "akan Kutuntut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:25.786623081Z",
+  "model": "glm-5.2"
+}

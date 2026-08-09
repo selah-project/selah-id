@@ -1,0 +1,78 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "leviticus 20:4",
+ "book": "leviticus",
+ "lang": "id",
+ "chapter": 20,
+ "translation": "“Dan jika menyembunyikan mereka menyembunyikan ⟨את⟩ mata orang-orang negeri itu dari orang itu, pada waktu ia memberikan dari benihnya kepada ⟨את⟩ Molekh, sehingga mereka tidak membunuh ⟨את⟩ dia,",
+ "tokens": [
+  {
+   "surface": "ואם",
+   "gloss": "Dan jika"
+  },
+  {
+   "surface": "העלם",
+   "gloss": "menyembunyikan"
+  },
+  {
+   "surface": "יעלימו",
+   "gloss": "mereka menyembunyikan"
+  },
+  {
+   "surface": "עם",
+   "gloss": "orang-orang"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "negeri itu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "mata mereka"
+  },
+  {
+   "surface": "עיניהם",
+   "gloss": "mata mereka"
+  },
+  {
+   "surface": "מן",
+   "gloss": "dari"
+  },
+  {
+   "surface": "האיש",
+   "gloss": "orang"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "itu"
+  },
+  {
+   "surface": "בתתו",
+   "gloss": "pada waktu ia memberikan"
+  },
+  {
+   "surface": "מזרעו",
+   "gloss": "dari benihnya"
+  },
+  {
+   "surface": "למלך",
+   "gloss": "kepada Molekh"
+  },
+  {
+   "surface": "לבלתי",
+   "gloss": "sehingga tidak"
+  },
+  {
+   "surface": "המית",
+   "gloss": "membunuh"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ dia"
+  }
+ ],
+ "timestamp": "2026-08-09T01:39:15.198298498Z",
+ "model": "glm-5.2"
+}

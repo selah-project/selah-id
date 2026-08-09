@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Serug hidup setelah memperanakkan ⟨את⟩ Nahor dua ratus tahun, dan memperanakkan anak-anak laki-laki dan anak-anak perempuan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dan hidup"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak laki-laki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "dan anak-anak perempuan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:57.392085064Z",
+  "model": "glm-5.2"
+}

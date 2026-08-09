@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Karena Aḥaz membagi ⟨את⟩ rumah Yahweh dan ⟨את⟩ rumah sang raja dan para pembesar, dan memberikan ⟨itu⟩ kepada raja Asshur, tetapi tidak untuk pertolongan baginya.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חָלַ֤ק",
+      "gloss": "membagi"
+    },
+    {
+      "surface": "אָחָז֙",
+      "gloss": "Aḥaz"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yahweh"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah sang raja"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "וְהַשָּׂרִ֑ים",
+      "gloss": "dan para pembesar"
+    },
+    {
+      "surface": "וַיִּתֵּן֙",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "לְמֶ֣לֶךְ",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "אַשּׁ֔וּר",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "לְעֶזְרָ֖ה",
+      "gloss": "untuk pertolongan"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:16:19.417678124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Lalu berlarilah Esav menyongsongnya, dan ia memeluknya, dan ia jatuh atas tengkuknya, dan ia menciumnya, lalu mereka menangis.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "Lalu berlarilah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "menyongsongnya"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "dan ia memeluknya"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan ia jatuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "tengkuknya"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "dan ia menciumnya"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "lalu mereka menangis"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:56.957336307Z",
+  "model": "glm-5.2"
+}

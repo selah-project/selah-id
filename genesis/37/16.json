@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan ⟨ia⟩ berkata: ⟨את⟩ saudara-saudaraku aku cari; beritahukanlah kiranya kepadaku di mana mereka menggembalakan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaraku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudaraku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "beritahukanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "menggembalakan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:26.062014270Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan Engkaulah ⟨yang⟩ kudus, ⟨yang⟩ bersemayam atas puji-pujian Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan Engkau"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bersemayam"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "atas puji-pujian"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:19.980467629Z",
+  "model": "glm-5.2"
+}

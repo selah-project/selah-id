@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Maka para tua-tua kota itu akan mengambil ⟨את⟩ laki-laki itu dan menegurnya.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Maka ... akan mengambil"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tua-tua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laki-laki itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "laki-laki itu"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "dan menegurnya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-08-09T01:39:25.972615302Z",
+  "model": "glm-5.2"
+}

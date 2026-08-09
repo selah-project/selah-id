@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Tidak sesuai pelanggaran-pelanggaran kita ⟨dia⟩ berbuat kepada kita, dan tidak sesuai kesalahan-kesalahan kita ⟨dia⟩ membalas atas kita.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כַ֭חֲטָאֵנוּ",
+      "gloss": "sesuai pelanggaran-pelanggaran kita"
+    },
+    {
+      "surface": "עָ֣שָׂה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "לָ֑נוּ",
+      "gloss": "kepada kita"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "כַ֝עֲוֺנֹתֵ֗ינוּ",
+      "gloss": "sesuai kesalahan-kesalahan kita"
+    },
+    {
+      "surface": "גָּמַ֥ל",
+      "gloss": "membalas"
+    },
+    {
+      "surface": "עָלֵֽינוּ",
+      "gloss": "atas kita"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:05.984243162Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Shelomah membangun ⟨את⟩ Gezer dan ⟨את⟩ Beit-Khoron bawah.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Dan membangun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Beit-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "bawah"
+    }
+  ],
+  "timestamp": "2026-08-08T12:48:04.948310129Z",
+  "model": "glm-5.2"
+}

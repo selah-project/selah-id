@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan kota-kota ia membangun di pegunungan Yehudah, dan di hutan-hutan ia membangun benteng-benteng dan menara-menara.",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "Dan kota-kota"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "membangun"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "dan di hutan-hutan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "membangun"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "benteng-benteng"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "dan menara-menara"
+    }
+  ],
+  "timestamp": "2026-08-08T12:07:24.509306626Z",
+  "model": "glm-5.2"
+}

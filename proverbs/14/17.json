@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Yang pendek napas berbuat kebodohan, dan orang tipu daya dibenci.",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "pendek"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "nafas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kebodohan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan orang"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "tipu daya"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dibenci"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:21.286425608Z",
+  "model": "glm-5.2"
+}

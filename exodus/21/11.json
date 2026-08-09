@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan jika ketiga hal ini tidak dilakukan kepadanya, maka keluarlah dia tanpa bayaran, tanpa perak.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "maka keluarlah dia"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa bayaran"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:47.551132965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan bertambah-tambahlah hikmat Shelomoh melebihi hikmat seluruh bani Qedem, dan melebihi segala hikmat Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "dan bertambah-tambahlah"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "melebihi hikmat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Qedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "dan melebihi segala"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T08:02:43.056366371Z",
+  "model": "glm-5.2"
+}

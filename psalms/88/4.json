@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Karena kenyang ⟨dengan⟩ keburukan napasku, dan hidupku telah sampai kepada Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "kenyang"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "⟨dengan⟩ keburukan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "dan hidupku"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "telah sampai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:30.974238918Z",
+  "model": "glm-5.2"
+}

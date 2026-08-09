@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Aku, akulah ⟨dia⟩ yang menghibur kamu; siapakah ⟨kau⟩ sehingga engkau takut kepada manusia yang akan mati, dan kepada anak manusia yang sebagai rumput diberikan?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "yang menghibur kamu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨kau⟩"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "sehingga engkau takut"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "kepada manusia"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "yang akan mati"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "dan kepada anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "diberikan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:13:40.726800398Z",
+  "model": "glm-5.2"
+}

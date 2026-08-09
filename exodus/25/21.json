@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan engkau akan menaruh ⟨את⟩ tutup pendamaian di atas ⟨הָ⟩ arak, dari atas; dan ke dalam ⟨הָ⟩ arak engkau akan menaruh ⟨את⟩ kesaksian yang Aku berikan kepadamu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Dan engkau akan menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutup pendamaian"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup pendamaian"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arak"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke dalam"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau akan menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesaksian"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Aku berikan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:58.172772892Z",
+  "model": "glm-5.2"
+}

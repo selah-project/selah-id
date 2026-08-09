@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Yahweh menjawab ⟨את⟩ sang malaikat yang berbicara di dalam diriku — kata-kata yang baik, kata-kata penghiburan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Dan menjawab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang malaikat"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sang malaikat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yang berbicara"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di dalam diriku"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kata-kata"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kata-kata"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "penghiburan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:22:44.669986741Z",
+  "model": "glm-5.2"
+}

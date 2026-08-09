@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Aku akan mengaku kepada-Mu dalam jemaah besar; di tengah bangsa yang banyak aku akan memuji-Mu.",
+  "tokens": [
+    {
+      "surface": "א֭וֹדְךָ",
+      "gloss": "aku akan mengaku kepada-Mu"
+    },
+    {
+      "surface": "בְּקָהָ֣ל",
+      "gloss": "dalam jemaah"
+    },
+    {
+      "surface": "רָ֑ב",
+      "gloss": "besar"
+    },
+    {
+      "surface": "בְּעַ֖ם",
+      "gloss": "di tengah bangsa"
+    },
+    {
+      "surface": "עָצ֣וּם",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "אֲהַֽלְלֶֽךָּ",
+      "gloss": "aku akan memuji-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:17.207348134Z",
+  "model": "glm-5.2"
+}

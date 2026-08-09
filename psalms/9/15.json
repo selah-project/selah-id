@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "supaya aku menceritakan segala puji-pujianmu di pintu-pintu putri Tzion, bersukaria aku dalam keselamatanmu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "aku menceritakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "puji-pujianmu"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "di pintu-pintu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "bersukaria aku"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "dalam keselamatanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:07.727598058Z",
+  "model": "glm-5.2"
+}

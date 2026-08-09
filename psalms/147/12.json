@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Pujilah Yerushalayim, ⟨את⟩ Yahweh; pujilah, Tsiyon, Elohim-mu!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:58.861013389Z",
+  "model": "glm-5.2"
+}

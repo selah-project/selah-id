@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Sebab ⟨dialah⟩ di atas laut-laute ⟨telah⟩ mendirikannya, dan di atas sungai-sungai ⟨telah⟩ menegakkannya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut-laute"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "mendirikannya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "menegakkannya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:20.178078614Z",
+  "model": "glm-5.2"
+}

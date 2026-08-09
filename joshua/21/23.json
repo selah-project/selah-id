@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan dari suku Dan: ⟨את⟩ Elteqe dan ⟨את⟩ tanah penggembalaannya, ⟨את⟩ Gibeton dan ⟨את⟩ tanah penggembalaannya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dan dari suku"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteqe"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteqe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibeton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:50:48.434771953Z",
+  "model": "glm-5.2"
+}

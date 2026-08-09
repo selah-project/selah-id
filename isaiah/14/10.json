@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Semua mereka akan menjawab dan berkata kepadamu: “Juga engkau telah menjadi lemah seperti kami; kepada kami engkau telah menjadi sama!”",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "semua mereka"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "akan menjawab"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan akan berkata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "telah menjadi lemah"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "seperti kami"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "engkau telah menjadi sama"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:42.433132396Z",
+  "model": "glm-5.2"
+}

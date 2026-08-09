@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu ⟨ia⟩ membalik ⟨את⟩ wajahnya ke dinding dan berdoa kepada Yahweh, katanya:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Lalu membalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahnya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajahnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "dinding"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "dan berdoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-08-08T23:16:48.205629132Z",
+  "model": "glm-5.2"
+}

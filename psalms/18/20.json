@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan ⟨ia⟩ membawa aku keluar ke tempan yang luas, ⟨ia⟩ menyelamatkan aku, sebab ⟨ia⟩ berkenan kepadaku.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "dan membawa aku keluar"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ke tempat yang luas"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "menyelamatkan aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:43.737147255Z",
+  "model": "glm-5.2"
+}

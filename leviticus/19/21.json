@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan ia harus membawa ⟨את⟩ ashamnya kepada Yahweh, ke pintu kemah pertemuan: seekor domba jantan sebagai korban asham.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Dan ia harus membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashamnya"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ashamnya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "איל",
+      "gloss": "seekor domba jantan"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sebagai korban asham"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:23.204559070Z",
+  "model": "glm-5.2"
+}

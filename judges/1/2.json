@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Yahweh berfirman, “Yehuda akan naik; lihat, Aku telah memberikan ⟨את⟩ negeri itu ke dalam tangannya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan Ia berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "akan naik"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku telah memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ke dalam tangannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:22.541973878Z",
+  "model": "glm-5.2"
+}

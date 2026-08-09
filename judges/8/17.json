@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ⟨את⟩ menara Penuel ⟨dia⟩ merobohkan, dan ⟨dia⟩ membunuh ⟨את⟩ orang-orang kota itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "menara Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "menara"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "merobohkan"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "dan membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang kota itu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:52:09.892261558Z",
+  "model": "glm-5.2"
+}

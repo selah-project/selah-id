@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Di antara semua musuh-musuhku aku ⟨menjadi⟩ cemoh, dan bagi tetangga-tetanggaku sangat, dan ⟨menjadi⟩ ketakutan bagi orang-orang yang mengenalku; yang melihat aku di luar — menghindar daripadaku.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "di antara semua"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku menjadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cemoh"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "dan bagi tetangga-tetanggaku"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "dan ketakutan"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "bagi orang-orang yang mengenalku"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "yang melihat aku"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "menghindar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:19.858286586Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Karena berpalingnya ⟨orang-orang⟩ yang mudah dibujuk akan membunuh mereka, dan ketenangan orang-orang bodoh akan membinasakan mereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "berpalingnya"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "orang-orang yang mudah dibujuk"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "akan membunuh mereka"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "dan ketenangan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "akan membinasakan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:50.845610322Z",
+  "model": "glm-5.2"
+}

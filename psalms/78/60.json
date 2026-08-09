@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ⟨ia⟩ meninggalkan kediaman Shilo, kemah yang ⟨ia⟩ tempati di antara manusia.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "Dan meninggalkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "kediaman"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "⟨ia⟩ tempati"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "di antara manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:01.113103979Z",
+  "model": "glm-5.2"
+}

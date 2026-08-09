@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Sebab mereka membuat pahit ⟨את⟩ roh-Nya, dan ⟨ia⟩ berbicara tanpa pertimbangan dengan bibirnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "mereka membuat pahit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roh-Nya"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "roh-Nya"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "dan ia berbicara tanpa pertimbangan"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "dengan bibirnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:56.936257353Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu keluarlah Mosheh dari dekat Paroh dan memohonlah kepada Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lalu keluarlah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari dekat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "dan memohonlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:22.641958246Z",
+  "model": "glm-5.2"
+}

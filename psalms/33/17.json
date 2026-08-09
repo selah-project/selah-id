@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Kebohongan ⟨adalah⟩ kuda untuk keselamatan, dan dengan kelimpahan kekuatannya tidaklah ia meluputkan.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֣קֶר",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "הַ֭סּוּס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "לִתְשׁוּעָ֑ה",
+      "gloss": "untuk keselamatan"
+    },
+    {
+      "surface": "וּבְרֹ֥ב",
+      "gloss": "dan dengan kelimpahan"
+    },
+    {
+      "surface": "חֵ֝יל֗וֹ",
+      "gloss": "kekuatannya"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidaklah"
+    },
+    {
+      "surface": "יְמַלֵּֽט",
+      "gloss": "ia meluputkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:08.689891731Z",
+  "model": "glm-5.2"
+}

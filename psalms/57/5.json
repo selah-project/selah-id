@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "נפשׁי di tengah-tengah singa-singa betina; aku berbaring ⟨di antara⟩ yang menyala-nyala — bani manusia, yang gigi mereka ⟨adalah⟩ tombak dan anak panah, dan lidah mereka ⟨adalah⟩ pedang yang tajam.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "singa-singa betina"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "aku berbaring"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "yang menyala-nyala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "gigi mereka"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tombak"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "dan anak panah"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "dan lidah mereka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "yang tajam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:10.398909885Z",
+  "model": "glm-5.2"
+}

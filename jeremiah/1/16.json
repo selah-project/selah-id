@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Aku akan mengucapkan ⟨את⟩ hukum-hukum-Ku atas mereka, segala kejahatan mereka, bahwa mereka telah meninggalkan Aku, dan mereka telah membakar ukupan bagi elohim-elohim lain, dan mereka telah sujud menyembah kepada buatan tangan-tangan mereka.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "Dan Aku akan mengucapkan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum-Ku"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hukum-hukum-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "kejahatan mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "mereka telah meninggalkan Aku"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "dan mereka telah membakar ukupan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bagi elohim-elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dan mereka telah sujud menyembah"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "kepada buatan"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan-tangan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:30:22.175458249Z",
+  "model": "glm-5.2"
+}

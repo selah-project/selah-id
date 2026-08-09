@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Dan ⟨ada⟩ baginya tujuh anak laki-laki dan tiga anak perempuan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan ⟨ada⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak perempuan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:45:55.690976711Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Maka terjadilah, ketika yang satu sedang menjatuhkan balok, ⟨את⟩ besi itu jatuh ke dalam air, dan ia berseru serta berkata, “Aduh, tuanku! Dan ia itu dipinjam!”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "sedang menjatuhkan"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "balok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "besi itu"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "besi itu"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "dan ia berseru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "serta berkata"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "aduh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ia itu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "dipinjam"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:30.950523651Z",
+  "model": "glm-5.2"
+}

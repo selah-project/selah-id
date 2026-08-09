@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan Yahweh berfirman kepada Mosheh dan kepada Aharon, serta-merta:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "serta-merta"
+    }
+  ],
+  "timestamp": "2026-08-08T10:35:22.269914316Z",
+  "model": "glm-5.2"
+}

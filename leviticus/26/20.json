@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan akan habis sia-sia kekuatanmu, dan tanahmu tidak akan memberikan ⟨את⟩ hasilnya, dan pohon ⟨the⟩ tanah itu tidak akan memberikan buahnya.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "Dan akan habis"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "kekuatanmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "akan memberikan"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilnya"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasilnya"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "dan pohon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akan memberikan"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:17.272495212Z",
+  "model": "glm-5.2"
+}

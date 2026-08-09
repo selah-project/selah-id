@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "dan ⟨Ia⟩ telah membawa ⟨את⟩ kamu mendekat, dan ⟨את⟩ semua saudara-saudaramu bani Levi, bersama-sama dengan kamu, dan kamupun menuntut jabatan imam?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dan telah membawa mendekat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua saudara-saudaramu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudara-saudaramu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersama-sama dengan kamu"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "dan kamu menuntut"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "jabatan imam"
+    }
+  ],
+  "timestamp": "2026-08-08T07:18:34.013941169Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Pada firman Yahweh langit dibuat, dan oleh nafas mulut-Nya semua pasukan mereka.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "pada firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "dan oleh nafas"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "mulut-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "pasukan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:57.049084452Z",
+  "model": "glm-5.2"
+}

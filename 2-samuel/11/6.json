@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka Dawid menyuruh ⟨orang⟩ kepada Yoab: “Suruhlah mengirim kepadaku ⟨את⟩ Uria orang Het itu.” Maka Yoab mengirim ⟨את⟩ Uria kepada Dawid.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "maka menyuruh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "suruhlah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "orang Het"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "maka mengirim"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:28.573896298Z",
+  "model": "glm-5.2"
+}

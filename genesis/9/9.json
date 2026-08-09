@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "“Dan aku, lihatlah, aku menegakkan ⟨את⟩ perjanjianku dengan kamu dan ⟨את⟩ benihmu sesudahmu,",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "aku menegakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjianku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjianku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "dengan kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "sesudahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:22.381755228Z",
+  "model": "glm-5.2"
+}

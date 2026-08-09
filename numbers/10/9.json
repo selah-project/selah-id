@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 10:9",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan ketika kamu masuk peperangan di tanahmu melawan musuh yang menekan kamu, maka kamu harus meniup ⟨אֶתְכֶם⟩ sinyal dengan nafiri, dan kamu akan diingat di hadapan Yahweh Elohim kamu, dan kamu akan diselamatkan dari musuh-musuhmu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan ketika"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "kamu masuk"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di tanahmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "הצרר",
+      "gloss": "yang menekan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (objek langsung dari הצרר)"
+    },
+    {
+      "surface": "והרעתם",
+      "gloss": "maka kamu harus meniup sinyal"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "dengan nafiri"
+    },
+    {
+      "surface": "ונזכרתם",
+      "gloss": "dan kamu akan diingat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "ונושעתם",
+      "gloss": "dan kamu akan diselamatkan"
+    },
+    {
+      "surface": "מאיביכם",
+      "gloss": "dari musuh-musuhmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:39.399662101Z",
+  "model": "glm-5.2"
+}

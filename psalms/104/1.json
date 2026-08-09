@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Pujilah, hai nafyaku, ⟨את⟩ Yahweh; Yahweh, Elohimku, ⟨engkau⟩ sangat besar; ⟨engkau⟩ berbusana hod dan hadar.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai nafyaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "⟨engkau⟩ besar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hod"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dan hadar"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "⟨engkau⟩ berbusana"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:19.294179560Z",
+  "model": "glm-5.2"
+}

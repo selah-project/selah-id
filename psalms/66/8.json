@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Berkatlah, hai bangsa-bangsa, Elohim kami, dan perdengarkanlah suara pujian-⟨nya⟩.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Berkatlah"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "hai bangsa-bangsa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "dan perdengarkanlah"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-⟨nya⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:17.394379415Z",
+  "model": "glm-5.2"
+}

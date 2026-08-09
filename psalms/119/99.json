@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dari semua pengajarku aku beroleh pengertian, sebab kesaksian-kesaksian-Mu ⟨adalah⟩ renunganku.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "dari semua"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "pengajarku"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "aku beroleh pengertian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "kesaksian-kesaksian-Mu"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "renungan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:36.341756319Z",
+  "model": "glm-5.2"
+}

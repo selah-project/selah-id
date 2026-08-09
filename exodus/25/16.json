@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan engkau akan memberi ke dalam ⟨הָאָרֹן⟩ aron ⟨את⟩ kesaksian yang Kuberikan kepadamu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Dan engkau akan memberi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesaksian"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Kuberikan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:53.659043306Z",
+  "model": "glm-5.2"
+}

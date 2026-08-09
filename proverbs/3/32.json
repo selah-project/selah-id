@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Karena kekejian bagi Yahweh ⟨adalah⟩ yang bengkok, tetapi ⟨את⟩ orang-orang jujur ⟨adalah⟩ persitiaraan-Nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "yang bengkok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "tetapi ⟨את⟩",
+      "marks": "orang-orang jujur"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "orang-orang jujur"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "persitiaraan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:30.787550137Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan ⟨Dia⟩ membawa kami ke tempat ini, dan memberi kepada kami ⟨את⟩ tanah ini, tanah yang mengalir susu dan madu.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "dan membawa kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan memberi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "mengalir"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dan madu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:21.032953689Z",
+  "model": "glm-5.2"
+}

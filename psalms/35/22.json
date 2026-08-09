@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Engkau telah melihatnya, Yahweh; janganlah berdiam diri; Adonai, janganlah menjauh dariku.",
+  "tokens": [
+    {
+      "surface": "רָאִ֣יתָה",
+      "gloss": "Engkau telah melihat"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אַֽל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תֶּחֱרַ֑שׁ",
+      "gloss": "berdiam diri"
+    },
+    {
+      "surface": "אֲדֹנָ֗י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אֲל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תִּרְחַ֥ק",
+      "gloss": "menjauh"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "dariku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:21.756840595Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Indah ⟨dalam⟩ ketinggiannya, ⟨mendid⟩ kesukaan seluruh bumi: Gunung Tzion, sayap utara, kota Raja yang besar.",
+  "tokens": [
+    {
+      "surface": "יְפֵ֥ה",
+      "gloss": "indah"
+    },
+    {
+      "surface": "נוֹף֮",
+      "gloss": "ketinggian"
+    },
+    {
+      "surface": "מְשׂ֪וֹשׂ",
+      "gloss": "kesukaan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הָ֫אָ֥רֶץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "יַרְכְּתֵ֣י",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "צָפ֑וֹן",
+      "gloss": "utara"
+    },
+    {
+      "surface": "קִ֝רְיַ֗ת",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "raja"
+    },
+    {
+      "surface": "רָֽב",
+      "gloss": "besar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:41.467539662Z",
+  "model": "glm-5.2"
+}

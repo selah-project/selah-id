@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu ⟨ia⟩ menyembelihnya, dan Moshe menyiramkan ⟨את⟩ darahnya atas mezbah sekelilingnya.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Lalu ⟨ia⟩ menyembelihnya"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "dan menyiramkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnya"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekelilingnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:06.174861245Z",
+  "model": "glm-5.2"
+}

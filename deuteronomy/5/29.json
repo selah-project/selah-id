@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 5:29",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Siapakah yang memberi, dan jadilah hati mereka ini bagi mereka, untuk takut ⟨את⟩-ku dan untuk menjaga ⟨את⟩ seluruh perintah-perintahku seluruh hari-hari, supaya baik bagi mereka dan bagi anak-anak mereka untuk selamanya?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "יִתֵּ֡ן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "וְהָיָה֩",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "לְבָבָ֨ם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "זֶ֜ה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לָהֶ֗ם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "לְיִרְאָ֥ה",
+      "gloss": "untuk takut"
+    },
+    {
+      "surface": "אֹתִ֛י",
+      "gloss": "⟨את⟩-ku",
+      "marks": "aku (Yahweh)"
+    },
+    {
+      "surface": "וְלִשְׁמֹ֥ר",
+      "gloss": "dan untuk menjaga"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh perintah-perintahku"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "מִצְוֺתַ֖י",
+      "gloss": "perintah-perintahku"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הַיָּמִ֑ים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "לְמַ֨עַן",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יִיטַ֥ב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "לָהֶ֛ם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "וְלִבְנֵיהֶ֖ם",
+      "gloss": "dan bagi anak-anak mereka"
+    },
+    {
+      "surface": "לְעֹלָֽם",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T18:27:30.040443402Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "dan dari puncak gunung-gunung timur, dan oleh yang terbaik dari bukit-bukit selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "dan dari puncak"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "timur"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "dan oleh yang terbaik"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:54.461128955Z",
+  "model": "glm-5.2"
+}

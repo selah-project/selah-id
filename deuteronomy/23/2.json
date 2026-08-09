@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Tidak boleh masuk ⟨yang⟩ terluka hancur dan yang terpotong saluran ⟨ke⟩ jamaah Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "boleh masuk"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "terluka"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "hancur"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "dan yang terpotong"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "saluran"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "⟨ke⟩ jamaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:05.566380248Z",
+  "model": "glm-5.2"
+}

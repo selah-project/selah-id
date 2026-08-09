@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Korban bakaran berlemak aku akan naikkan kepada-Mu, dengan ukupan domba-domba jantan; aku akan membuat sapi-sapi dengan kambing jantan. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "berlemak"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aku akan naikkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ukupan"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "domba-domba jantan"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aku akan membuat"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sapi-sapi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kambing-kambing jantan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:00.566353985Z",
+  "model": "glm-5.2"
+}

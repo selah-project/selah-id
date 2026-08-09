@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Yang membuat-tahu jalan-jayan-Nya kepada Mosheh, kepada bani-bani Yisra'el perbuatan-perbuatan-Nya.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Yang membuat-tahu"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalan-jayan-Nya"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kepada Mosheh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada bani-bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "perbuatan-perbuatan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:51.725515059Z",
+  "model": "glm-5.2"
+}

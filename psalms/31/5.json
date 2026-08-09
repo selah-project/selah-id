@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Engkau mengeluarkanku dari jaring ini yang mereka sembunyikan untukku, karena Engkaulah perlindunganku.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "Engkau mengeluarkanku"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "dari jaring"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ini"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "mereka sembunyikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "perlindunganku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:30.608238807Z",
+  "model": "glm-5.2"
+}

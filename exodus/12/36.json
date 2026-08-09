@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan Yahweh memberikan ⟨את⟩ kasih karunia bangsa itu di mata Mitsrayim, sehingga mereka memberikan kepada mereka ⟨yang diminta⟩; dan mereka menjarah ⟨את⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dan Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasih karunia"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "sehingga mereka memberikan kepada mereka"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "dan mereka menjarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:15.009618812Z",
+  "model": "glm-5.2"
+}

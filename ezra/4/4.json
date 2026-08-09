@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka rakyat negeri itu melemahkan tangan rakyat Yehudah, dan menggangu mereka ⟨את⟩ untuk membangun.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "melemahkan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "dan menggangu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "untuk membangun"
+    }
+  ],
+  "timestamp": "2026-08-08T18:40:18.964781687Z",
+  "model": "glm-5.2"
+}

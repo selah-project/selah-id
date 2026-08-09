@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Juga, sungguhpun aku berjalan di lembah tsalmavet, tidak aku akan takut ⟨akan⟩ kejahatan, karena Engkau ⟨bersama⟩ aku; tongkat-Mu dan penopang-Mu, merekalah yang menghibur aku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguhpun"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di lembah"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "tsalmavet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku akan takut"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bersama aku"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "tongkat-Mu"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "dan penopang-Mu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "merekalah"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "yang menghibur aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:30.358825389Z",
+  "model": "glm-5.2"
+}

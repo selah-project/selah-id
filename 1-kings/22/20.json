@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan Yahweh berkata, “Siapa akan membujuk ⟨את⟩ Achav, sehingga ia naik dan jatuh di Ramot-Gil'ad?” Dan yang satu berkata demikian, dan yang lain berkata demikian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "akan membujuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achav"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "sehingga ia naik"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "di Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang ini"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dan yang ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "demikian"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:30.373354708Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Maka terjadilah, ketika Avram datang ke Mitsrayim, orang-orang Mitsri melihat ⟨את⟩ ⟨si⟩ wanita itu, bahwa sangat cantik ⟨dialah⟩.",
+  "tokens": [
+    {
+      "surface": "וַיְהִי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "כְּבוֹא",
+      "gloss": "ketika datang"
+    },
+    {
+      "surface": "אַבְרָם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מִצְרָיְמָה",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "וַיִּרְאוּ",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "הַמִּצְרִים",
+      "gloss": "orang-orang Mitsri"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wanita itu"
+    },
+    {
+      "surface": "הָאִשָּׁה",
+      "gloss": "wanita itu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "יָפָה",
+      "gloss": "cantik"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "⟨dialah⟩"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:31.303548347Z",
+  "model": "glm-5.2"
+}

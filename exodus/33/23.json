@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Lalu Aku akan menjauhkan ⟨את⟩ telapak tangan-Ku, dan engkau akan melihat ⟨את⟩ belakang-Ku; tetapi wajah-Ku tidak akan dilihat.”",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Lalu Aku akan menjauhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "telapak tangan-Ku"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "telapak tangan-Ku"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "dan engkau akan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belakang-Ku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "belakang-Ku"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "tetapi wajah-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "akan dilihat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:43.917857157Z",
+  "model": "glm-5.2"
+}

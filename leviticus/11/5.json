@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan ⟨את⟩ ha-shafan, karena ⟨ia⟩ memuntahkan geri, tetapi telapak ⟨tidak⟩ dibelahnya — tame ⟨ia⟩ bagi kalian.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-shafan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "ha-shafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "memuntahkan"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "dan telapak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "dibelahnya"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tame"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:37.338336623Z",
+  "model": "glm-5.2"
+}

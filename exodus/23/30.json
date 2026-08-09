@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Sedikit, sedikit aku akan menghalau mereka dari hadapanmu, sampai engkau berbuah dan engkau mewarisi ⟨את⟩ negeri itu.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "aku akan menghalau mereka"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapanmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "engkau berbuah"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "dan engkau mewarisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:27.720937428Z",
+  "model": "glm-5.2"
+}

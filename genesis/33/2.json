@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Lalu ia menempatkan ⟨את⟩ budak-budak perempuan itu dan ⟨את⟩ anak-anak mereka paling depan, dan ⟨את⟩ Lea dan anak-anaknya di belakang, dan ⟨את⟩ Rahel dan ⟨את⟩ Yosef paling belakang.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Lalu ia menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak-budak perempuan itu"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "budak-budak perempuan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak mereka"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "anak-anak mereka"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "paling depan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "dan anak-anaknya"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "paling belakang"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:56.957097589Z",
+  "model": "glm-5.2"
+}

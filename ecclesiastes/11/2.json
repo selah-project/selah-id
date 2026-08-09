@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Berikanlah bagian kepada tujuh, dan juga kepada delapan, sebab engkau tidak tahu apa kejahatan yang akan terjadi di atas bumi.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Berikanlah"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "kepada tujuh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "kepada delapan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan terjadi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:08.399375118Z",
+  "model": "glm-5.2"
+}

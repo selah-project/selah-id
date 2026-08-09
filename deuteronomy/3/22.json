@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Janganlah kamu takut kepada mereka, sebab Yahweh Elohim kamu, Dialah ⟨yang⟩ berperang bagi kamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "kamu takut kepada mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "yang berperang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:44:44.102340502Z",
+  "model": "glm-5.2"
+}

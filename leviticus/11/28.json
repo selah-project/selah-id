@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan yang mengangkat ⟨את⟩ bangkai mereka harus mencuci pakaiannya dan ⟨dia⟩ najis sampai matahari terbenam — najis ⟨mereka⟩ bagi kamu.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "dan yang mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangkai mereka"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "bangkai mereka"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "harus mencuci"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "matahari terbenam"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "najis"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:48.938600050Z",
+  "model": "glm-5.2"
+}

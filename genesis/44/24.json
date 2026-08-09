@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Dan terjadilah, ketika kami naik kepada hambamu ayahku, kami memberitahukan kepadanya ⟨את⟩ perkataan tuanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kami naik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "kami memberitahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan tuanku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:30.453237323Z",
+  "model": "glm-5.2"
+}

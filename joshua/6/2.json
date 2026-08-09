@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan berkatalah Yahweh kepada Yehosyua: “Lihat, Aku telah memberikan ke dalam tanganmu ⟨את⟩ Yeriho dan ⟨את⟩ rajanya, ⟨yaitu⟩ pahlawan-pahlawan keperkasaan.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֔עַ",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "רְאֵה֙",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "נָתַ֣תִּי",
+      "gloss": "Aku telah memberikan"
+    },
+    {
+      "surface": "בְיָֽדְךָ֔",
+      "gloss": "ke dalam tanganmu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriho"
+    },
+    {
+      "surface": "יְרִיח֖וֹ",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rajanya"
+    },
+    {
+      "surface": "מַלְכָּ֑הּ",
+      "gloss": "rajanya"
+    },
+    {
+      "surface": "גִּבּוֹרֵ֖י",
+      "gloss": "pahlawan-pahlawan"
+    },
+    {
+      "surface": "הֶחָֽיִל",
+      "gloss": "keperkasaan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:33:42.560076050Z",
+  "model": "glm-5.2"
+}

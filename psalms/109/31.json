@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Sebab ⟨Ia⟩ berdiri di sebelah kanan orang miskin, untuk menyelamatkan ⟨dia⟩ dari ⟨mereka yang⟩ menghakimi napasnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨Ia⟩ berdiri"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "di sebelah kanan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "untuk menyelamatkan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dari ⟨mereka yang⟩ menghakimi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "napasnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:06.236195534Z",
+  "model": "glm-5.2"
+}

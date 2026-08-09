@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan Kheber memperanakkan ⟨את⟩ Yaflet dan ⟨את⟩ Shomer dan ⟨את⟩ Khotam, dan ⟨את⟩ Shua saudari mereka.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "dan Kheber"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Khotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "saudari mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:05:02.081846202Z",
+  "model": "glm-5.2"
+}

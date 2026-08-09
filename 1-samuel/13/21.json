@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 13:21",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan ⟨adalah⟩ tarif ⟨itu⟩ satu pim untuk ⟨את⟩ mata-mata bajak, dan untuk ⟨את⟩ cangkul, dan untuk garpu bermata tiga, dan untuk kapak, dan untuk memasang tongkat pemacu.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Dan ⟨adalah⟩"
+    },
+    {
+      "surface": "הפצירה",
+      "gloss": "tarif ⟨itu⟩"
+    },
+    {
+      "surface": "פים",
+      "gloss": "satu pim"
+    },
+    {
+      "surface": "למחרשת",
+      "gloss": "untuk"
+    },
+    {
+      "surface": "ולאתים",
+      "gloss": "dan untuk ⟨את⟩",
+      "marks": "mata-mata bajak dan cangkul"
+    },
+    {
+      "surface": "ולשלש",
+      "gloss": "dan untuk bermata tiga"
+    },
+    {
+      "surface": "קלשון",
+      "gloss": "garpu"
+    },
+    {
+      "surface": "ולהקרדמים",
+      "gloss": "dan untuk kapak"
+    },
+    {
+      "surface": "ולהציב",
+      "gloss": "dan untuk memasang"
+    },
+    {
+      "surface": "הדרבן",
+      "gloss": "tongkat pemacu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:46:53.178783854Z",
+  "model": "glm-5.2"
+}

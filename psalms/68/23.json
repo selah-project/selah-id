@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Adonai berfirman: \"Dari Bashan Aku akan mengembalikan, Aku akan mengembalikan dari kedalaman-kedalaman laut.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Dari Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Aku akan mengembalikan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Aku akan mengembalikan"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "dari kedalaman-kedalaman"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:09.228072967Z",
+  "model": "glm-5.2"
+}

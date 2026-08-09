@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Kami teringat ⟨את⟩ ikan yang kami makan di Mitsrayim tanpa biaya: ⟨את⟩ mentimun dan ⟨את⟩ semangka dan ⟨את⟩ daun bawang dan ⟨את⟩ bawang merah dan ⟨את⟩ bawang putih.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Kami teringat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikan"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kami makan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa biaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mentimun"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "mentimun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semangka"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "semangka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "daun bawang"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "daun bawang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bawang merah"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "bawang merah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bawang putih"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "bawang putih"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:46.372733598Z",
+  "model": "glm-5.2"
+}

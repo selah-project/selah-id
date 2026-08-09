@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu aku berbicara kepada orang-orang pembuangan ⟨את⟩ segala perkataan Yahweh yang Ia perlihatkan kepadaku.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Lalu aku berbicara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "orang-orang pembuangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Ia perlihatkan kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:45:51.621048504Z",
+  "model": "glm-5.2"
+}

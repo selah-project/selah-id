@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Hanya ⟨saja⟩ suku Levi tidak kauhitung, dan ⟨את⟩ jumlah mereka tidak kauangkat di tengah-tengah bani Yisrael —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "kauhitung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "jumlah mereka"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "jumlah mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kauangkat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:44.436213133Z",
+  "model": "glm-5.2"
+}

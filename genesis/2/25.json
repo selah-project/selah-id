@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan keduanya telanjang, ha-adam dan istrinya, dan tidak ⟨mereka⟩ malu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Dan keduanya ⟨berada⟩"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "keduanya"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dan istrinya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "⟨mereka⟩ malu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:04.028157603Z",
+  "model": "glm-5.2"
+}

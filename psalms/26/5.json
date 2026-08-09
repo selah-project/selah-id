@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Aku membenci perkumpulan pelaku kejahatan, dan dengan orang-orang fasik aku tidak akan duduk.",
+  "tokens": [
+    {
+      "surface": "שָׂ֭נֵאתִי",
+      "gloss": "Aku membenci"
+    },
+    {
+      "surface": "קְהַ֣ל",
+      "gloss": "perkumpulan"
+    },
+    {
+      "surface": "מְרֵעִ֑ים",
+      "gloss": "pelaku kejahatan"
+    },
+    {
+      "surface": "וְעִם",
+      "gloss": "dan dengan"
+    },
+    {
+      "surface": "רְ֝שָׁעִ֗ים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אֵשֵֽׁב",
+      "gloss": "akan duduk"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:19.733980969Z",
+  "model": "glm-5.2"
+}

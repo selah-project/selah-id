@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Pada bulan kedua, pada empat belas hari, di antara waktu-waktu senja, mereka akan membuatnya ⟨את⟩; dengan roti tak beragi dan herba pahit mereka akan memakannya.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Pada bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pada empat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "waktu-waktu senja"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "mereka akan membuat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (Paskah)"
+    },
+    {
+      "surface": "על",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tak beragi"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "dan herba pahit"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "mereka akan memakannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:41:01.568098358Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Yang Maha Besar membentuk segala sesuatu, dan upah ⟨diberikan⟩ kepada orang bodoh, dan upah kepada orang-orang yang melanggar.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Yang Maha Besar"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "membentuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala sesuatu"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "dan upah"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "dan upah"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "orang-orang yang melanggar"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:38.851906085Z",
+  "model": "glm-5.2"
+}

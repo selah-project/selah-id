@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Bangkitlah, wahai Elohim, perkarakan perkaramu; ingatlah cercaanmu dari⟨pihak⟩ orang bebal sepanjang hari.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangkitlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahai Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "perkarakan"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "perkaramu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingatlah"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "cercaanmu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "orang bebal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:51.735745397Z",
+  "model": "glm-5.2"
+}

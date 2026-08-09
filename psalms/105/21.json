@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Ia menetapkan dia sebagai tuan atas rumahnya, dan sebagai penguasa atas seluruh kepemilikannya,",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Ia menetapkan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "atas rumahnya"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "dan sebagai penguasa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "atas seluruh"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "kepemilikannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:46.055374155Z",
+  "model": "glm-5.2"
+}

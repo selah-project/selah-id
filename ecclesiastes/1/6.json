@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Berjalan ke selatan dan berputar ke utara, berputar berputar berjalan angin itu, dan pada circuits-nya kembali angin itu.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Berjalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "selatan"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "dan berputar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "berputar"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "berputar"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "angin itu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan pada"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "circuits-nya"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "angin itu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:06.285568853Z",
+  "model": "glm-5.2"
+}

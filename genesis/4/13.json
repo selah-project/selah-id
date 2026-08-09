@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu Kajin berkata kepada Yahweh, “Terlalu besar ⟨kesalahan⟩ku untuk ditanggung.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "terlalu besar"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "kesalahanku"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "untuk ditanggung"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:31.141672741Z",
+  "model": "glm-5.2"
+}

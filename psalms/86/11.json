@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 86,
+  "translation": "Ajarlah aku, Yahweh, jalan-Mu; aku akan berjalan dalam kebenaran-Mu. Satukan hatiku untuk takut akan nama-Mu.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ajarlah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "aku akan berjalan"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dalam kebenaran-Mu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "satukan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "untuk takut akan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:01.041337333Z",
+  "model": "glm-5.2"
+}

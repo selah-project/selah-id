@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Bukan atas korban-korbanmu ⟨bahwa⟩ aku menghukum engkau; dan olakan-olakanmu ⟨ada⟩ di hadapan-Ku senantiasa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "korban-korbanmu"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "aku menghukum engkau"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "dan olakan-olakanmu"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di hadapan-Ku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "senantiasa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:16.001834887Z",
+  "model": "glm-5.2"
+}

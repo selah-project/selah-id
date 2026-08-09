@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dalam kelaparan ⟨Ia⟩ menebus engkau dari maut, dan dalam peperangan dari tangan-tangan pedang.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Dalam kelaparan"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "menebus engkau"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dari maut"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "dan dalam peperangan"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dari tangan-tangan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:59.113402805Z",
+  "model": "glm-5.2"
+}

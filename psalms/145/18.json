@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Dekat ⟨adalah⟩ Yahweh kepada semua yang berseru kepada-Nya, kepada semua yang berseru kepada-Nya dalam kebenaran.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Dekat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada semua"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "yang berseru kepada-Nya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "berseru kepada-Nya"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "dalam kebenaran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:28.283623627Z",
+  "model": "glm-5.2"
+}

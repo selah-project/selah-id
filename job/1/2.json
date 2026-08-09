@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan dilahirkanlah kepadanya tujuh anak laki-laki dan tiga anak perempuan.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "Dan dilahirkanlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak perempuan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:20.447540449Z",
+  "model": "glm-5.2"
+}

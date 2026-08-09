@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Selama hari-hari kesunyian ia akan berhenti, ⟨את⟩ apa yang tidak ia rayakan pada hari-hari sabatmu, pada waktu kamu diam di atasnya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "selama"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "kesunyian"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ia akan berhenti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang tidak ia rayakan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ia rayakan"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "pada hari-hari sabatmu"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "pada waktu kamu diam"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atasnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:41.169462134Z",
+  "model": "glm-5.2"
+}

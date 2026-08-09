@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 142,
+  "translation": "Maskil untuk Dawid, ketika ia berada di dalam gua: sebuah doa.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuk Dawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ketika ia berada"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di dalam gua"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "sebuah doa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:42.732118947Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Berbahagialah ⟨the⟩ laki-laki yang Kauhajar, ⟨O⟩ Yah, dan dari Taurat-Mu Kauajari dia.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֤י",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "הַגֶּ֣בֶר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תְּיַסְּרֶ֣נּוּ",
+      "gloss": "Kauhajar"
+    },
+    {
+      "surface": "יָּ֑הּ",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "וּֽמִתּוֹרָתְךָ֥",
+      "gloss": "dan dari Taurat-Mu"
+    },
+    {
+      "surface": "תְלַמְּדֶֽנּוּ",
+      "gloss": "Kauajari dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:08.320008049Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Yahweh, Engkau menetapkan shalom bagi kami, karena juga segala perbuatan kami Engkau telah bekerja bagi kami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "Engkau menetapkan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "perbuatan kami"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Engkau telah bekerja"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:57.577553352Z",
+  "model": "glm-5.2"
+}

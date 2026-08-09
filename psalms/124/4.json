@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 124,
+  "translation": "maka air-air telah menghanyutkan kami, sungai telah berlalu atas napas-kehidupan kami —",
+  "tokens": [
+    {
+      "surface": "אֲ֭זַי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "הַמַּ֣יִם",
+      "gloss": "air-air"
+    },
+    {
+      "surface": "שְׁטָפ֑וּנוּ",
+      "gloss": "telah menghanyutkan kami"
+    },
+    {
+      "surface": "נַ֗֜חְלָה",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "עָבַ֥ר",
+      "gloss": "telah berlalu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נַפְשֵֽׁנוּ",
+      "gloss": "napas-kehidupan kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:19.407410042Z",
+  "model": "glm-5.2"
+}

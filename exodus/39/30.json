@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Dan mereka membuat ⟨את⟩ lempengan mahkota pengudusan dari emas murni, dan mereka menulis di atasnya suatu tulisan seperti ukiran meterai: “Kudus bagi Yahweh.”",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Dan mereka membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lempengan mahkota pengudusan"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "lempengan"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pengudusan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "dan mereka menulis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "suatu tulisan"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "seperti ukiran"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "meterai"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kudus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:12.237364847Z",
+  "model": "glm-5.2"
+}

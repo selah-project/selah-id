@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Dan mereka akan mengambil ⟨את⟩ emas dan ⟨את⟩ tekelet dan ⟨את⟩ argaman dan ⟨את⟩ ulat-shani dan ⟨את⟩ syesy.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tekelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ulat-shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "syesy"
+    },
+    {
+      "surface": "השש",
+      "gloss": "syesy"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:58.418157186Z",
+  "model": "glm-5.2"
+}

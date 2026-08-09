@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Maka keluarlah seluruh jemaat bani Yisra'el dari hadapan Moshe.",
+  "tokens": [
+    {
+      "surface": "וַיֵּֽצְא֛וּ",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עֲדַ֥ת",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "bani"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מִלִּפְנֵ֥י",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:21.564852115Z",
+  "model": "glm-5.2"
+}

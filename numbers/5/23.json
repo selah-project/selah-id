@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan ha-kohen akan menuliskan ⟨את⟩ sumpah-kutuk ini di dalam gulungan, dan menghapusnya ke dalam air pahit.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "Dan ia akan menuliskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumpah-kutuk"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "sumpah-kutuk"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "di dalam gulungan"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "dan menghapusnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "pahit"
+    }
+  ],
+  "timestamp": "2026-08-08T10:39:36.707842635Z",
+  "model": "glm-5.2"
+}

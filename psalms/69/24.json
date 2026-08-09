@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Biarlah mata mereka menjadi gelap agar tidak melihat, dan pinggang mereka selalu dibuat goyah.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "biarlah menjadi gelap"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mata mereka"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "agar melihat"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "dan pinggang mereka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "selalu"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "dibuat goyah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:01.414554275Z",
+  "model": "glm-5.2"
+}

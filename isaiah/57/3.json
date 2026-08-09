@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Dan kamu, mendekatlah ke sini, anak-anak ⟨dari⟩ penenung, benih ⟨dari⟩ pezina, dan pelacur!",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "dan kamu"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "mendekatlah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ke sini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "penenung"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "pezina"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "dan pelacur"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:57.773704850Z",
+  "model": "glm-5.2"
+}

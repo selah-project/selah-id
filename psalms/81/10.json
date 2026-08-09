@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Jangan ada di tengahmu el zar, dan jangan sujud menyembah kepada el nekar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di tengahmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "זר",
+      "gloss": "asing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "engkau sujud menyembah"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kepada el"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:52.740188019Z",
+  "model": "glm-5.2"
+}

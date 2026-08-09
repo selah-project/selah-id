@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Demikianlah melakukan bapa-bapamu ketika aku mengutus ⟨את⟩ mereka dari Qadesh-Barnea untuk melihat ⟨את⟩ negeri itu,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bapa-bapamu"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "ketika aku mengutus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (dari Qadesh-Barnea)"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Qadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:22:50.565667564Z",
+  "model": "glm-5.2"
+}

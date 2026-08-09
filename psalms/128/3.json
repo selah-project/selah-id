@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 128,
+  "translation": "Istrimu seperti pohon anggur yang berbuah, di bagian dalam rumahmu; anak-anakmu seperti tunas zaitun, di sekeliling mejamu.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Istrimu"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "seperti pohon anggur"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "yang berbuah"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "di bagian dalam"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumahmu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "seperti tunas"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di sekeliling"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "mejamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:37.064500400Z",
+  "model": "glm-5.2"
+}

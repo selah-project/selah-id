@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Pelanggaran-pelanggaranmu telah menjauhkan hal-hal ini, dan dosa-dosamu telah menahan yang baik daripadamu.",
+  "tokens": [
+    {
+      "surface": "עֲוֺנוֹתֵיכֶ֖ם",
+      "gloss": "Pelanggaran-pelanggaranmu"
+    },
+    {
+      "surface": "הִטּוּ",
+      "gloss": "telah menjauhkan"
+    },
+    {
+      "surface": "אֵ֑לֶּה",
+      "gloss": "hal-hal ini"
+    },
+    {
+      "surface": "וְחַטֹּ֣אותֵיכֶ֔ם",
+      "gloss": "dan dosa-dosamu"
+    },
+    {
+      "surface": "מָנְע֥וּ",
+      "gloss": "telah menahan"
+    },
+    {
+      "surface": "הַטּ֖וֹב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "מִכֶּֽם",
+      "gloss": "daripadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:15:05.236844107Z",
+  "model": "glm-5.2"
+}

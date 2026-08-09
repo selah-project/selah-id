@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 111,
+  "translation": "Besar-besar perbuatan Yahweh, diteliti oleh semua yang berkenan kepada-nya.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "besar-besar"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "diteliti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oleh semua"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "yang berkenan kepada-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:12.503463586Z",
+  "model": "glm-5.2"
+}

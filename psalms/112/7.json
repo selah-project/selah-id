@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 112,
+  "translation": "Dari kabar buruk tidak takut; tetap hatinya, bersandar pada Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "dari kabar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "buruk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tetap"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bersandar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pada Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:55.545980847Z",
+  "model": "glm-5.2"
+}

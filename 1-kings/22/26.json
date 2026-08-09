@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan berkatalah raja Yisra'el, “Bawalah ⟨את⟩ Mikayahu dan kembalikanlah dia kepada Amon, pemimpin kota itu, dan kepada Yoash ben ha-melekh.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Bawalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikayahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "dan kembalikanlah dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pemimpin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ha-melekh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:04:34.890714685Z",
+  "model": "glm-5.2"
+}

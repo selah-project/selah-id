@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan engkau harus menaruh ⟨את⟩ basin di antara Ohel Moed dan di antara mezbah, dan engkau harus menaruh di sana air.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau harus menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "basin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan di antara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau harus menaruh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:11.554353800Z",
+  "model": "glm-5.2"
+}

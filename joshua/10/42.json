@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan ⟨את⟩ semua raja-raja ini dan ⟨את⟩ negeri mereka, ditawan Yehoshua sekaligus; sebab Yahweh, Elohim-nya Yisrael, berperang bagi Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua raja-raja ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "negeri mereka"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "negeri mereka"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ditawan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "sekali"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-nya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bagi Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T07:35:21.897532961Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan Chaza'el, raja Aram, menindas ⟨את⟩ Yisrael selama seluruh hari Yehoakhaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Dan Chaza'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "menindas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "selama seluruh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaz"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:19.217179307Z",
+  "model": "glm-5.2"
+}

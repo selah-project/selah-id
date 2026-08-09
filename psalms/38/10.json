@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Adonai, di hadapan-Mu seluruh kerinduanku, dan keluh-kesahku dari-Mu tidak tersembunyi.",
+  "tokens": [
+    {
+      "surface": "אֲֽדֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נֶגְדְּךָ֥",
+      "gloss": "di hadapan-Mu"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "תַּאֲוָתִ֑י",
+      "gloss": "kerinduanku"
+    },
+    {
+      "surface": "וְ֝אַנְחָתִ֗י",
+      "gloss": "dan keluh-kesahku"
+    },
+    {
+      "surface": "מִמְּךָ֥",
+      "gloss": "dari-Mu"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נִסְתָּֽרָה",
+      "gloss": "tersembunyi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:20.881222943Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Perkataanku — berilah telinga, wahai Yahweh, pahamilah renunganku.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Perkataanku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "berilah telinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "pahamilah"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "renunganku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:47.028541954Z",
+  "model": "glm-5.2"
+}

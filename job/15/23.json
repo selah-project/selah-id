@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Ia mengembara untuk roti, ⟨seraya berkata⟩, “Di mana?” Ia tahu bahwa tersedia di tangannya hari kegelapan.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "ia mengembara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "untuk roti"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ia tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tersedia"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:51.290177592Z",
+  "model": "glm-5.2"
+}

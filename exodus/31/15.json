@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Enam hari pekerjaan boleh dilakukan, tetapi pada hari ketujuh ⟨ada⟩ Sabat, hari istirahat penuh, kesucian bagi Yahweh; setiap orang yang melakukan pekerjaan pada hari hari-Sabat — maut akan dipakaikan maut.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "boleh dilakukan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "tetapi pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "hari istirahat penuh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kesucian"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "orang yang melakukan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "hari-Sabat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akan dipakaikan maut"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:17.091294621Z",
+  "model": "glm-5.2"
+}

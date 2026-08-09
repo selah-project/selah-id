@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan ia mengandung dan melahirkan seorang anak laki-laki, dan berkata, “Elohim telah mengumpulkan ⟨את⟩ aibku.”",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "dan ia mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak laki-laki"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "telah mengumpulkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aibku"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "aibku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:06.759525921Z",
+  "model": "glm-5.2"
+}

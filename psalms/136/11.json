@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "Dan ⟨Ia⟩ mengeluarkan Yisrael dari tengah mereka, karena untuk selama-lamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Dan mengeluarkan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "dari tengah mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:15.875167538Z",
+  "model": "glm-5.2"
+}

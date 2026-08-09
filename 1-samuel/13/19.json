@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 13:19",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan tukang tidak ditemukan di seluruh negeri Yisra'el, sebab kata Pelishtim, 'Jangan sampai orang Ibrani membuat pedang atau tombak.'",
+  "tokens": [
+    {
+      "surface": "וחרש",
+      "gloss": "Dan tukang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ditemukan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "jangan sampai"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "orang Ibrani"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tombak"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:10.525526362Z",
+  "model": "glm-5.2"
+}

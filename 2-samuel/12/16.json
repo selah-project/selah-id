@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lalu Dawid mencari ⟨את⟩ Elohim demi anak itu, dan Dawid berpuasa; dan ⟨ia⟩ masuk, bermalam, dan merebahkan diri ke tanah.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Lalu mencari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "demi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "dan berpuasa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צום",
+      "gloss": "puasa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "bermalam"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "dan merebahkan diri"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:56:07.298371081Z",
+  "model": "glm-5.2"
+}

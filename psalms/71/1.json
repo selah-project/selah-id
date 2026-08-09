@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Pada-Mu, Yahweh, aku berlindung; jangan biarkan aku malu selamanya.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Pada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "biarkan aku malu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:07.994847334Z",
+  "model": "glm-5.2"
+}

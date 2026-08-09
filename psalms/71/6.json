@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Engkalah yang menopangku sejak kandungan, dari perut ibuku Engkaulah yang mengeluarku; dalam-Mulah pujianku senantiasa.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "aku bersandar"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "sejak kandungan"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "dari perut"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "yang mengeluarku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dalam-Mu"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "pujianku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "senantiasa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:33.750792525Z",
+  "model": "glm-5.2"
+}

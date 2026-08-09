@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan orang-orang pembuangan membuat ⟨את⟩ pesakh pada tanggal empat belas ⟨di⟩ bulan yang pertama.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Dan membuat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pembuangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesakh"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pada empat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yang pertama"
+    }
+  ],
+  "timestamp": "2026-08-08T12:01:11.249069063Z",
+  "model": "glm-5.2"
+}

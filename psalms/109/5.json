@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Dan mereka menetapkan atasku kejahatan sebagai ganti kebaikan, dan kebencian sebagai ganti cintaku.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dan mereka menetapkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "dan kebencian"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "cintaku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:34.099804302Z",
+  "model": "glm-5.2"
+}

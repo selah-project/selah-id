@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan berkatalah kepadanya pembawa senjatanya, “Perbuatlah segala sesuatu yang ⟨ada⟩ di dalam hatimu. Menyimpanglah bagimu. Lihat, aku ini bersamamu, seperti hatimu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "senjatanya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "perbuatlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sesuatu yang"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "di dalam hatimu"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "menyimpanglah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lihat, aku ini"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "seperti hatimu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:03.205860447Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 58,
+  "translation": "Sungguhkah, ⟨hai yang sunyi⟩, keadilan kamu ucapkan? Kelurusan kamu putuskan, ⟨hai⟩ anak-anak manusia?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Sungguhkah"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "⟨hai yang sunyi⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "kamu ucapkan"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "kelurusan"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "kamu putuskan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:18.039066898Z",
+  "model": "glm-5.2"
+}

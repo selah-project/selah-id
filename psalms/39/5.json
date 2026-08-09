@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Buatkah aku tahu, Yahweh, akhirku, dan ukuran hari-hariku — apa ⟨ia⟩; aku akan tahu, apa ⟨ia⟩ ⟨yang⟩ aku — hampa.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Buatkah aku tahu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "akhirku"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "dan ukuran"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hariku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "aku akan tahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "hampa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:34.595772279Z",
+  "model": "glm-5.2"
+}

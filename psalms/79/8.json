@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 79,
+  "translation": "Janganlah Engkau ingat kepada kami kesalahan-kesalahan yang terdahulu; segeralah, rahmat-Mu mendahului kami, sebab kami telah sangat lemah.",
+  "tokens": [
+    {
+      "surface": "אַֽל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תִּזְכָּר",
+      "gloss": "Engkau ingat"
+    },
+    {
+      "surface": "לָנוּ֮",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "עֲוֺנֹ֪ת",
+      "gloss": "kesalahan-kesalahan"
+    },
+    {
+      "surface": "רִאשֹׁ֫נִ֥ים",
+      "gloss": "yang terdahulu"
+    },
+    {
+      "surface": "מַ֭הֵר",
+      "gloss": "segeralah"
+    },
+    {
+      "surface": "יְקַדְּמ֣וּנוּ",
+      "gloss": "mendahului kami"
+    },
+    {
+      "surface": "רַחֲמֶ֑יךָ",
+      "gloss": "rahmat-Mu"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "דַלּ֣וֹנוּ",
+      "gloss": "kami telah lemah"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:33.276389585Z",
+  "model": "glm-5.2"
+}

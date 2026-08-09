@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Dalam pakaian bersulam ia diantar kepada raja; perawan-perawan di belakangnya, sahabat-sahabatnya, dibawa masuk kepadamu.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "dalam pakaian bersulam"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "ia diantar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "perawan-perawan"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "di belakangnya"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "sahabat-sahabatnya"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "dibawa masuk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:18.068872519Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Aku berkata dalam hatiku, ⟨את⟩ yang benar dan ⟨את⟩ yang fasik Elohim akan adili, sebab ada waktu bagi setiap kehendak dan atas setiap perbuatan di sana.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Aku berkata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "dalam hatiku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang benar"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "yang benar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "yang fasik"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yang fasik"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "akan mengadili"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi setiap"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kehendak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:17.805838889Z",
+  "model": "glm-5.2"
+}

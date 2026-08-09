@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Semua yang melihat aku mengolok-olok aku; mereka menganggukkan bibir, mereka menggerakkan kepala.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "yang melihat aku"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "mengolok-olok"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "menganggukkan"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "mereka menggerakkan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:58.685330326Z",
+  "model": "glm-5.2"
+}

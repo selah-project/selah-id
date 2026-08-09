@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Lindungilah aku seperti anak mata, bayangan sayap-sayap-Mu sembunyikanlah aku.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Lindungilah aku"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "seperti anak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨dari⟩ anak"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "bayangan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sayap-sayap-Mu"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "sembunyikanlah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:58.372400791Z",
+  "model": "glm-5.2"
+}

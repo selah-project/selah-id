@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Dan ⟨Dia⟩ berkata kepadaku, “Hamba-Ku ⟨engkau⟩, Yisra'el, yang di dalammu Aku akan bermegah.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan Dia berkata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Hamba-Ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalammu"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "Aku akan bermegah"
+    }
+  ],
+  "timestamp": "2026-08-08T08:26:39.957357498Z",
+  "model": "glm-5.2"
+}

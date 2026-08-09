@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan Yahweh berfirman kepada Yaakov, \"Kembalilah ke tanah bapa-bapamu dan ke tempat kelahiranmu, dan Aku akan menyertai engkau.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "bapa-bapamu"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "dan ke tempat kelahiranmu"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "dan Aku akan menyertai"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:11.837057939Z",
+  "model": "glm-5.2"
+}

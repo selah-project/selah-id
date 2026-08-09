@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Lalu Dia membuat mereka melangkah di jalan yang lurus untuk berjalan menuju kota tempat-diam.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Lalu Dia membuat mereka melangkah"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "yang lurus"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuk berjalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menuju"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tempat-diam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:15.470344309Z",
+  "model": "glm-5.2"
+}

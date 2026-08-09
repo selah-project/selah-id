@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan ⟨dia⟩ akan menunjukkan keluar seperti terang kebenaranmu, dan hukummu seperti tengah hari.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "dan ia akan menunjukkan keluar"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "seperti terang"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kebenaranmu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "dan hukummu"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "seperti tengah hari"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:07.379810556Z",
+  "model": "glm-5.2"
+}

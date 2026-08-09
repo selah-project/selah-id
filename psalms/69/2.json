@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Selamatkanlah aku, hai Elohim, sebab air telah datang sampai kepada ⟨nafasku⟩.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Selamatkanlah aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "באו",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨nafasku⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:18.266379478Z",
+  "model": "glm-5.2"
+}

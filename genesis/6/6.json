@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu Yahweh menyesal bahwa ⟨Ia⟩ telah membuat ⟨את⟩ manusia di bumi, dan ⟨Ia⟩ terlukalah hatinya.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "lalu menyesal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "dan terlukalah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:58.212426041Z",
+  "model": "glm-5.2"
+}

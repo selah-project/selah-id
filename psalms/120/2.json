@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 120,
+  "translation": "Yahweh, selamatkanlah ⟨את⟩ napasku dari bibir dusta, dari lidah penipu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "selamatkanlah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨את⟩ napasku"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "dari bibir"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "dari lidah"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "penipu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:06.210616676Z",
+  "model": "glm-5.2"
+}

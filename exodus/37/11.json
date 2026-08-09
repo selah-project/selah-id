@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan ia melapisinya ⟨את⟩ dengan emas murni, dan membuat baginya bingkaian emas sekeliling.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Dan ia melapisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (meja itu)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia membuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "bingkaian"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-08-08T07:05:30.854484218Z",
+  "model": "glm-5.2"
+}

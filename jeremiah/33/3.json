@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Berserulah kepada-Ku dan Aku akan menjawab engkau, dan Aku akan memberitahukan kepadamu hal-hal besar dan terkurung yang tidak engkau ketahui.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "berserulah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "dan Aku akan menjawab engkau"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "dan Aku akan memberitahukan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "hal-hal besar"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "dan terkurung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "engkau ketahui"
+    }
+  ],
+  "timestamp": "2026-08-08T08:38:30.951588731Z",
+  "model": "glm-5.2"
+}

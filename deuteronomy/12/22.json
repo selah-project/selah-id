@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Hanya, seperti dimakan ⟨את⟩ kijang dan ⟨את⟩ rusa jantan, demikian engkau memakannya; orang najis dan orang tahir bersama-sama memakannya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kijang"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "kijang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rusa jantan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "rusa jantan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "engkau memakannya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "orang najis"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "dan orang tahir"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "memakannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:03.747621975Z",
+  "model": "glm-5.2"
+}

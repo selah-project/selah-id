@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Karena aku ini akan mati di negeri ini, aku tidak menyeberangi ⟨את⟩ sungai Yarden; tetapi kamu, kamu menyeberang dan kamu akan menduduki ⟨את⟩ negeri yang baik ini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku ini"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akan mati"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "aku tidak"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "tetapi kamu"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "kamu menyeberang"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "dan kamu akan menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T12:12:48.406683844Z",
+  "model": "glm-5.2"
+}

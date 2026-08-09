@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "⟨Ia⟩ menuntun orang-orang rendah hati dalam keadilan, dan mengajar orang-orang rendah hati jalan-Nya.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "menuntun"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang rendah hati"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dalam keadilan"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "dan mengajar"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang rendah hati"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:55.645185878Z",
+  "model": "glm-5.2"
+}

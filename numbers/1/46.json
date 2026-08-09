@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "maka semua yang tercatat itu ⟨adalah⟩ enam ratus ribu dan tiga ribu dan lima ratus dan lima puluh.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "maka ada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "yang tercatat"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dan lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dan lima puluh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:38:58.028935395Z",
+  "model": "glm-5.2"
+}

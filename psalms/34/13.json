@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Siapakah ⟨the⟩ orang yang menginginkan kehidupan, yang mencintai hari-hari yang banyak untuk melihat kebaikan?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "הָ֭אִישׁ",
+      "gloss": "orang"
+    },
+    {
+      "surface": "הֶחָפֵ֣ץ",
+      "gloss": "yang menginginkan"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "אֹהֵ֥ב",
+      "gloss": "yang mencintai"
+    },
+    {
+      "surface": "יָ֝מִ֗ים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "לִרְא֥וֹת",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "kebaikan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:44.361673606Z",
+  "model": "glm-5.2"
+}

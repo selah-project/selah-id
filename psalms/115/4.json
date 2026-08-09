@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Berhala-berhala mereka ⟨⟨adalah⟩⟩ perak dan emas, buatan tangan manusia.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Berhala-berhala mereka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:52.822879452Z",
+  "model": "glm-5.2"
+}

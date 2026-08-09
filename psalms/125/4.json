@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 125,
+  "translation": "Berbuat baiklah, wahai Yahweh, kepada orang-orang yang baik, dan kepada orang-orang yang lurus hati dalam hati mereka.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "berbuat baiklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "kepada orang-orang yang baik"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "dan kepada orang-orang yang lurus hati"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "dalam hati mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:38.046810736Z",
+  "model": "glm-5.2"
+}

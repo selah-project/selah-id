@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Sebuah kesaksian diangkatnya bagi Yosef, ketika ⟨ia⟩ keluar melalui tanah Mitsrayim; suara yang tidak kukenal — kudengar.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "sebuah kesaksian"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "bagi Yosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "diangkatnya"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "ketika keluar"
+    },
+    {
+      "surface": "על",
+      "gloss": "melalui"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "suara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kukenal"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "kudengar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:12.204566499Z",
+  "model": "glm-5.2"
+}

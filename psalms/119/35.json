@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Tuntunlah aku di jalan perintah-perintah-Mu, sebab di dalamnya aku berkenan.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "tuntunlah aku"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-perintah-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "aku berkenan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:48.689257170Z",
+  "model": "glm-5.2"
+}

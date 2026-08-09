@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Aku telah mendengar cercaan Moab dan hinaan bani Ammon, yang mencela ⟨את⟩ umat-Ku, dan membesarkan diri terhadap wilayah mereka.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Aku telah mendengar"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "cercaan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "dan hinaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "mencela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "dan membesarkan diri"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "wilayah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:34:31.132892509Z",
+  "model": "glm-5.2"
+}

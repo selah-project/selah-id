@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Jika engkau melihat pencuri, maka engkau berlumut bersamanya, dan dengan pezina berbagilah bagianmu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "pencuri"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "maka engkau berlumut"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan dengan"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "pezina"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "bagianmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:28.614337224Z",
+  "model": "glm-5.2"
+}

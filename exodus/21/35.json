@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan apabila lembu seseorang menanduk ⟨את⟩ lembu rekannya dan mati, maka mereka harus menjual ⟨את⟩ lembu yang hidup itu dan membagi dua ⟨את⟩ harganya, dan juga ⟨את⟩ bangkai itu mereka harus bagi dua.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "menanduk"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "rekannya"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "maka mereka harus menjual"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu yang hidup itu"
+    },
+    {
+      "surface": "השור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "yang hidup itu"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "dan membagi dua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harganya"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "harganya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangkai itu"
+    },
+    {
+      "surface": "המת",
+      "gloss": "bangkai itu"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "mereka harus bagi dua"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:02.805768826Z",
+  "model": "glm-5.2"
+}

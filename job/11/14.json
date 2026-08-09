@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 11:14",
+  "book": "job",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "jika ada kelaliman di tanganmu, jauhkanlah itu, dan jangan biarkan kecurangan diam di kemah-kemahmu.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "kelaliman"
+    },
+    {
+      "surface": "בְּיָדְךָ",
+      "gloss": "di tanganmu"
+    },
+    {
+      "surface": "הַרְחִיקֵהוּ",
+      "gloss": "jauhkanlah itu"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תַּשְׁכֵּן",
+      "gloss": "biarkan diam"
+    },
+    {
+      "surface": "בְּאֹהָלֶיךָ",
+      "gloss": "di kemah-kemahmu"
+    },
+    {
+      "surface": "עַוְלָה",
+      "gloss": "kecurangan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:38:50.885398073Z",
+  "model": "glm-5.2"
+}

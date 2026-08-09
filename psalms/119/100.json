@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dari orang-orang tua aku lebih berpengertian, sebab pikudim-Mu kujaga.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "dari orang-orang tua"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "aku lebih berpengertian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pikudim-Mu"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "kujaga"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:36.341873729Z",
+  "model": "glm-5.2"
+}

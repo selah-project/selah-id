@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan ⟨ada⟩ hidup Adam tiga puluh dan seratus tahun, dan ⟨dia⟩ memperanakkan dalam rupanya seperti gambarannya, dan ⟨dia⟩ memanggil ⟨את⟩ namanya Shet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dan hidup"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "dan seratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "dalam rupanya"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "seperti gambarannya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:46.589677527Z",
+  "model": "glm-5.2"
+}

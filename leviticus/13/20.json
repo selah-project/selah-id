@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 13:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan ha-kohen melihatnya, dan lihat, tampaknya lebih rendah dari kulit, dan bulunya berubah putih, maka ha-kohen menyatakan dia tamei; itu adalah nega tsaraat yang telah berbuah di dalam bisul.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "tampaknya"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "lebih rendah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "dan bulunya"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "berubah"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "putih"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "maka menyatakan dia tamei"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "di dalam bisul"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "telah berbuah"
+    }
+  ],
+  "timestamp": "2026-08-08T12:12:20.799097303Z",
+  "model": "glm-5.2"
+}

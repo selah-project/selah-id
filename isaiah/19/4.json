@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan Aku akan menyerahkan ⟨את⟩ Mitsrayim ke dalam tuan-tuan yang keras, dan raja yang gagah akan memerintah atas mereka, — demikianlah ucapan Adonai, Yahweh Tzevaot.",
+  "tokens": [
+    {
+      "surface": "וְסִכַּרְתִּי֙",
+      "gloss": "Dan Aku akan menyerahkan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "אֲדֹנִ֣ים",
+      "gloss": "tuan-tuan"
+    },
+    {
+      "surface": "קָשֶׁ֑ה",
+      "gloss": "yang keras"
+    },
+    {
+      "surface": "וּמֶ֤לֶךְ",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "עַז֙",
+      "gloss": "yang gagah"
+    },
+    {
+      "surface": "יִמְשָׁל",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "בָּ֔ם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "נְאֻ֥ם",
+      "gloss": "demikianlah ucapan"
+    },
+    {
+      "surface": "הָאָד֖וֹן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָאֽוֹת",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-08T08:19:40.410912673Z",
+  "model": "glm-5.2"
+}

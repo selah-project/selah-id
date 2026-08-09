@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Tetapi aku, sedikit lagi kakiku terhuyung, hampir langkahku tergelincir.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "sedikit lagi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "terhuyung"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "hampir"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "tergelincir"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "langkahku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:49.649897583Z",
+  "model": "glm-5.2"
+}

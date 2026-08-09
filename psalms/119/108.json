@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Persembahan sukarela mulutku, berkenanlah kiranya, Yahweh, dan ⟨hukum-hukum⟩-Mu ajarkanlah kepadaku.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "Persembahan sukarela"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "berkenanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "dan ⟨hukum-hukum⟩-Mu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarkanlah kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:56.115690213Z",
+  "model": "glm-5.2"
+}

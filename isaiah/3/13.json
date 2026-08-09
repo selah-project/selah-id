@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Yahweh berdiri untuk berperkara, dan ⟨Ia⟩ berdiri untuk menghakimi bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "נִצָּב",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לָרִיב",
+      "gloss": "untuk berperkara"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְעֹמֵד",
+      "gloss": "dan berdiri"
+    },
+    {
+      "surface": "לָדִין",
+      "gloss": "untuk menghakimi"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:09:37.739042002Z",
+  "model": "glm-5.2"
+}

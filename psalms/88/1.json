@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Nyanyian, mizmor bagi bani Korach, bagi pemimpin biduan, atas Machalat Leannoth, maskil bagi Heman ha-Ezrachi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "bagi pemimpin biduan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "bagi Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ha-Ezrachi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:30.973866689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan terjadilah dari kelunakan persundalannya bahwa ⟨הוא⟩ menajiskan ⟨את⟩ negeri itu, dan ⟨הוא⟩ berzinah dengan ⟨את⟩ batu dan dengan ⟨את⟩ kayu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "dari kelunakan"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "persundalannya"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "bahwa ⟨הוא⟩ menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "dan ⟨הוא⟩ berzinah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kayu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kayu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:30:40.157731145Z",
+  "model": "glm-5.2"
+}

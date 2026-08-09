@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Yang memberi salju seperti bulu; embun beku seperti abu Ia menebarkan.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Yang memberi"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "salju"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "seperti bulu"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "embun beku"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "seperti abu"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "Ia menebarkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:38.498649962Z",
+  "model": "glm-5.2"
+}

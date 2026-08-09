@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Sampai waktu datang firman-Nya, ucapan Yahweh telah menguji dia.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "telah menguji dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:45.173330569Z",
+  "model": "glm-5.2"
+}

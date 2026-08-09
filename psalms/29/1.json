@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Mizmor bagi David: berikanlah kepada Yahweh, hai bani El, berikanlah kepada Yahweh kabod dan kekuatan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hai bani"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabod"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "dan kekuatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:53.797338480Z",
+  "model": "glm-5.2"
+}

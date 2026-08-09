@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Bergemuruh, bergolak airnya, berguncang gunung-gunung dalam keangkuhannya. Sela.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": " Bergemuruh"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": " bergolak"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": " airnya"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": " berguncang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": " gunung-gunung"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": " dalam keangkuhannya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": " Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:00.863886702Z",
+  "model": "glm-5.2"
+}

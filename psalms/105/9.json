@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "yang ⟨Ia⟩ mengikat dengan Avraham, dan sumbah-Nya kepada Yitskhaq —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "mengikat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "dan sumbah-Nya"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kepada Yitskhaq"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:26.128860391Z",
+  "model": "glm-5.2"
+}

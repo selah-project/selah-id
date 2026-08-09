@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Engkau memegang kelopak mataku; aku terguncang dan tidak berbicara.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Engkau memegang"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "kelopak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "aku terguncang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "berbicara"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:07.555013600Z",
+  "model": "glm-5.2"
+}

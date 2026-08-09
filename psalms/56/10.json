@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Maka musuh-musuhku akan berbalik mundur pada hari aku berseru; ini aku tahu, bahwa Elohim ⟨untuk⟩ku.",
+  "tokens": [
+    {
+      "surface": "אָ֥֨ז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "יָ֘שׁ֤וּבוּ",
+      "gloss": "akan berbalik"
+    },
+    {
+      "surface": "אוֹיְבַ֣י",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "אָ֭חוֹר",
+      "gloss": "mundur"
+    },
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אֶקְרָ֑א",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יָ֝דַ֗עְתִּי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "⟨untuk⟩ku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:11.369300913Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Maka berkatalah Paroh kepada saudara-saudaranya, “Apa pekerjaanmu?” Dan mereka berkata kepada Paroh, “Hamba-hambamu ⟨adalah⟩ penggembala kambing-domba, baik kami juga nenek-moyang kami.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maka berkatalah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "pekerjaanmu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan mereka berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "penggembala"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing-domba"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "Hamba-hambamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nenek-moyang kami"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:38.187880590Z",
+  "model": "glm-5.2"
+}

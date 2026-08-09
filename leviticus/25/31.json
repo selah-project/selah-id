@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 25:31",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Tetapi rumah-rumah di pemukiman-pemukiman yang tidak mempunyai tembok di sekelilingnya, dihitung sebagai ladang ⟨di⟩ tanah itu; hak penebusan ⟨akan⟩ ada baginya, dan pada Yovel ⟨itu⟩ akan keluar.",
+  "tokens": [
+    {
+      "surface": "ובתי",
+      "gloss": "Tetapi rumah-rumah"
+    },
+    {
+      "surface": "החצרים",
+      "gloss": "di pemukiman-pemukiman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mempunyai"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di sekelilingnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebagai"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨di⟩ tanah itu"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "dihitung"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "hak penebusan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨akan⟩ ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "וביבל",
+      "gloss": "dan pada Yovel"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "akan keluar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:50.028789912Z",
+  "model": "glm-5.2"
+}

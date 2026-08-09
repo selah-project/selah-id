@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "untuk mengusir ⟨את⟩ semua musuhmu dari hadapanmu, seperti yang difirmankan Yahweh,",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "untuk mengusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua musuhmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapanmu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:25:10.028258795Z",
+  "model": "glm-5.2"
+}

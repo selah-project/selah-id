@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dari laki-laki sampai perempuan kamu harus menyuruh keluar; ke luar ⟨dari⟩ perkemahan kamu harus menyuruh mereka keluar; dan mereka tidak boleh menajiskan ⟨את⟩ perkemahan-perkemahan mereka yang ⟨di⟩ tengah-tengahnya aku diam.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "Dari laki-laki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "kamu harus menyuruh keluar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "perkemahan"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "kamu harus menyuruh mereka keluar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "mereka menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkemahan-perkemahan mereka"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "perkemahan-perkemahan mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di tengah-tengahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:15:10.910798256Z",
+  "model": "glm-5.2"
+}

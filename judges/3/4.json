@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan mereka ⟨ada⟩ untuk menguji dengan mereka ⟨את⟩ Yisrael, untuk mengetahui apakah mereka akan mendengarkan ⟨את⟩ perintah-perintah Yahweh yang diperintahkan ⟨את⟩ nenek moyang mereka dengan tangan Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Dan mereka"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "untuk menguji"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "apakah mereka akan mendengarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah-perintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nenek moyang mereka"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nenek moyang mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:59.374815350Z",
+  "model": "glm-5.2"
+}

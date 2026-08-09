@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Apakah hari-hari-Mu ⟨seperti⟩ hari-hari manusia fana, atau tahun-tahun-Mu ⟨seperti⟩ hari-hari seorang laki-laki?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "Apakah seperti hari-hari"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-hari-Mu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atau"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "tahun-tahun-Mu"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "seperti hari-hari"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "seorang laki-laki"
+    }
+  ],
+  "timestamp": "2026-08-08T11:52:09.871726770Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu Uriyah tidur di pintu ⟨di⟩ rumah sang raja bersama ⟨את⟩ semua hamba tuannya, dan tidak turun ke rumahnya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "maka-tidur"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di-pintu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang-raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua hamba tuannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan-tidak"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:10.127651436Z",
+  "model": "glm-5.2"
+}

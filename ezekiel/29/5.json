@@ -1,0 +1,98 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "ezekiel 29:5",
+ "book": "ezekiel",
+ "lang": "id",
+ "chapter": 29,
+ "translation": "Dan Aku akan meninggalkan engkau di padang gurun, engkau dan ⟨את⟩ segala ikan sungai-sungaimu; ⟨engkau⟩ akan jatuh ke atas permukaan padang, tidak dikumpulkan dan tidak dibawa bersama; kepada binatang liar ⟨di⟩ bumi dan kepada burung ⟨di⟩ langit Aku memberikan engkau untuk dimakan.",
+ "tokens": [
+  {
+   "surface": "וּנְטַשְׁתִּ֣יךָ",
+   "gloss": "Dan Aku akan meninggalkan"
+  },
+  {
+   "surface": "הַמִּדְבָּ֗רָה",
+   "gloss": "di padang gurun"
+  },
+  {
+   "surface": "אוֹתְךָ֙",
+   "gloss": "⟨את⟩ engkau"
+  },
+  {
+   "surface": "וְאֵת֙",
+   "gloss": "⟨את⟩",
+   "marks": "segala ikan sungai-sungaimu"
+  },
+  {
+   "surface": "כָּל",
+   "gloss": "segala"
+  },
+  {
+   "surface": "דְּגַ֣ת",
+   "gloss": "ikan"
+  },
+  {
+   "surface": "יְאֹרֶ֔יךָ",
+   "gloss": "sungai-sungaimu"
+  },
+  {
+   "surface": "עַל",
+   "gloss": "ke atas"
+  },
+  {
+   "surface": "פְּנֵ֤י",
+   "gloss": "permukaan"
+  },
+  {
+   "surface": "הַשָּׂדֶה֙",
+   "gloss": "padang"
+  },
+  {
+   "surface": "תִּפּ֔וֹל",
+   "gloss": "engkau akan jatuh"
+  },
+  {
+   "surface": "לֹ֥א",
+   "gloss": "tidak"
+  },
+  {
+   "surface": "תֵאָסֵ֖ף",
+   "gloss": "dikumpulkan"
+  },
+  {
+   "surface": "וְלֹ֣א",
+   "gloss": "dan tidak"
+  },
+  {
+   "surface": "תִקָּבֵ֑ץ",
+   "gloss": "dibawa bersama"
+  },
+  {
+   "surface": "לְחַיַּ֥ת",
+   "gloss": "kepada binatang liar"
+  },
+  {
+   "surface": "הָאָ֛רֶץ",
+   "gloss": "bumi"
+  },
+  {
+   "surface": "וּלְע֥וֹף",
+   "gloss": "dan kepada burung"
+  },
+  {
+   "surface": "הַשָּׁמַ֖יִם",
+   "gloss": "langit"
+  },
+  {
+   "surface": "נְתַתִּ֥יךָ",
+   "gloss": "Aku memberikan engkau"
+  },
+  {
+   "surface": "לְאָכְלָֽה",
+   "gloss": "untuk dimakan"
+  }
+ ],
+ "timestamp": "2026-08-09T01:43:15.836393745Z",
+ "model": "glm-5.2"
+}

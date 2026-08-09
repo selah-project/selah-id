@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Aku akan memberikan ⟨את⟩ kasih karunia ⟨ dari⟩ umat ini di mata Mitsrayim, dan akan terjadi, ketika kamu pergi, kamu tidak akan pergi dengan tangan kosong;",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasih karunia"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan akan terjadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kamu pergi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kamu akan pergi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "dengan tangan kosong"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:55.730647417Z",
+  "model": "glm-5.2"
+}

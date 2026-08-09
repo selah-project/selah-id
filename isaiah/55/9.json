@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Sebab tinggi ⟨dari⟩ langit ⟨daripada⟩ bumi, demikian tinggi jalan-jalan-Ku ⟨daripada⟩ jalan-jalanmu, dan rancangan-rancangan-Ku ⟨daripada⟩ rancangan-rancanganmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan-Ku"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "daripada jalan-jalanmu"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "dan rancangan-rancangan-Ku"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "daripada rancangan-rancanganmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:13:21.681161047Z",
+  "model": "glm-5.2"
+}

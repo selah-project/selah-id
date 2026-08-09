@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan ⟨Ia⟩ membuat mereka melompat seperti anak sapi jantan — ha-Levanon dan Siryon seperti anak banteng liar.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "dan membuat mereka melompat"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "anak sapi jantan"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ha-Levanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "dan Siryon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "banteng liar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:54.816282750Z",
+  "model": "glm-5.2"
+}

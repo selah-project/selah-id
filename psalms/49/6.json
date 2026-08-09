@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Mengapa aku takut pada hari-hari celaka, ketika kesalahan di belakangku mengepung aku?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pada hari-hari"
+    },
+    {
+      "surface": "רע",
+      "gloss": "celaka"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "di belakangku"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "mengepung aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:50.480529109Z",
+  "model": "glm-5.2"
+}

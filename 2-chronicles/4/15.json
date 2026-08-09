@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "⟨את⟩ laut ⟨yang⟩ satu, dan ⟨את⟩ lembu-sapi dua belas di bawahnya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lembu-sapi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu-sapi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "di bawahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:04:41.332215624Z",
+  "model": "glm-5.2"
+}

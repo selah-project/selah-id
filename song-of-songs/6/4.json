@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Indah ⟨engkau⟩, ⟨את⟩ kasihku, seperti Tirtza; elok seperti Yerushalayim; menggerunkan seperti pasukan berpanji-panji.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "indah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasihku"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "kasihku"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "seperti Tirtza"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "elok"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "seperti Yerushalayim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "menggerunkan"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "seperti pasukan berpanji-panji"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:30.321197563Z",
+  "model": "glm-5.2"
+}

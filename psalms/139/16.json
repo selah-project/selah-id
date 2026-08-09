@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Jisimku yang belum berwujud dilihat mata-Mu; dan pada kitab-Mu semuanya tertulis — hari-hari yang dibentuk, padahal belum ada satu pun di antaranya.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "jisimku yang belum berwujud"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dilihat"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mata-Mu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan pada"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "kitab-Mu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "tertulis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "yang dibentuk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "padahal belum ada"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu pun"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antaranya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:09.450128157Z",
+  "model": "glm-5.2"
+}

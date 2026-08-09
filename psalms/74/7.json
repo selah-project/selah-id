@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Mereka mengirim api ke dalam tempat kudus-Mu; ke bumi, mereka menodai tempat kediaman nama-Mu.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "mereka mengirim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "api"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "tempat kudus-Mu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "mereka menodai"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "tempat kediaman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:29.988463993Z",
+  "model": "glm-5.2"
+}

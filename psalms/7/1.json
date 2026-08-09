@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Sygion bagi David, yang dinyanyikan kepada Yahweh, atas perkataan Kush ⟨orang⟩ Benyamin.",
+  "tokens": [
+    {
+      "surface": "שִׁגָּיוֹן",
+      "gloss": "sygion"
+    },
+    {
+      "surface": "לְדָ֫וִד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שָׁר",
+      "gloss": "dinyanyikan"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "כּוּשׁ",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "⟨orang⟩ Benyamin"
+    },
+    {
+      "surface": "יְמִינִֽי",
+      "gloss": "Benyamin"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:07.546441566Z",
+  "model": "glm-5.2"
+}

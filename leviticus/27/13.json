@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan jika ia sungguh-sungguh menebusnya, maka ia harus menambah seperlimanya di atas penilaianmu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "menebus"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "ia menebusnya"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "maka ia harus menambah"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "seperlimanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "penilaianmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:38:52.631207272Z",
+  "model": "glm-5.2"
+}

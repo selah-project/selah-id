@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Biarlah lidahku menyanyikan firman-Mu, sebab segala perintah-Mu ⟨adalah⟩ keadilan.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "biarlah menyanyikan"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lidahku"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-Mu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:58.846422989Z",
+  "model": "glm-5.2"
+}

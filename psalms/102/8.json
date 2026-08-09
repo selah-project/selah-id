@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Aku terjaga, dan aku ini seperti burung yang menyendiri di ⟨atas⟩ atap.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "aku terjaga"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "dan aku ini"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "seperti burung"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "yang menyendiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "גג",
+      "gloss": "atap"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:58.419507967Z",
+  "model": "glm-5.2"
+}

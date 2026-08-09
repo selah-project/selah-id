@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 146,
+  "translation": "Jangan percayalah kepada para pemimpin, kepada anak manusia — yang tidak ada baginya keselamatan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "percayalah"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "kepada para pemimpin"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "kepada anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "yang tidak ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "keselamatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:35.707593805Z",
+  "model": "glm-5.2"
+}

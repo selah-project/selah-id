@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Terpuji ⟨lah⟩ Elohim, yang tidak menjauhkan doaku dan hesed-Nya dariku.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpuji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "menjauhkan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "dan hesed-Nya"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "dariku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:15.580751551Z",
+  "model": "glm-5.2"
+}

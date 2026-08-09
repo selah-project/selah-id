@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Maka Yahweh berfirman kepada Mosheh: “Katakanlah kepada Aharon: Ulurkanlah ⟨את⟩ tongkatmu dan pukullah ⟨את⟩ debu bumi itu, maka ia akan menjadi pinang-pinus di seluruh tanah Mitsrayim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ulurkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatmu"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tongkatmu"
+    },
+    {
+      "surface": "והך",
+      "gloss": "dan pukullah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka ia akan menjadi"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "pinang-pinus"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:38.489576524Z",
+  "model": "glm-5.2"
+}

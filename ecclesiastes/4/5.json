@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Sang bodoh memeluk ⟨את⟩ tangannya dan memakan ⟨את⟩ dagingnya sendiri.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "sang bodoh"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "memeluk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingnya sendiri"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingnya sendiri"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:30.991685385Z",
+  "model": "glm-5.2"
+}

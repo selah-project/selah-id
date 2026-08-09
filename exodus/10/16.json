@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Paroh segera memanggil Mush dan Aharon, dan berkata, “Aku telah berdosa kepada Yahweh, Elohim kamu, dan kepada kamu.”",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "lalu segera"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mush"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku telah berdosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "dan kepada kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:47.522690385Z",
+  "model": "glm-5.2"
+}

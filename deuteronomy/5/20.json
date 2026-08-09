@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan engkau tidak akan bersaksi terhadap sesamamu ⟨sebagai⟩ saksi dusta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "engkau akan menjawab"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "terhadap sesamamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-08T10:44:55.994615394Z",
+  "model": "glm-5.2"
+}

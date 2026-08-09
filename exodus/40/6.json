@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan engkau harus meletakkan ⟨את⟩ mezbah korban bakaran di depan pintu mishkan ohel moed.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Dan engkau harus meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah korban bakaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moed"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:25.992619170Z",
+  "model": "glm-5.2"
+}

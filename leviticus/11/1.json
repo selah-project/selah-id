@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu Yahweh berfirman kepada Mosheh dan kepada Aharon, yang mengatakan kepada mereka:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang mengatakan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:36:47.697503679Z",
+  "model": "glm-5.2"
+}

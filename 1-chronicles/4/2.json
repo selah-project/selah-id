@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "dan Reayah ben Shoval memperanakkan ⟨את⟩ Yachat, dan Yachat memperanakkan ⟨את⟩ Akhumai dan ⟨את⟩ Lahad; inilah marga-marga orang Tserati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "dan Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "dan Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Akhumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "marga-marga"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "orang Tserati"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:15.562506540Z",
+  "model": "glm-5.2"
+}

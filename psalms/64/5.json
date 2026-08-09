@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 64,
+  "translation": "Untuk memanah di tempat-persembunyian ⟨orang⟩ yang tidak bersalah; tiba-tiba mereka memanahnya dan tidak takut.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "untuk memanah"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di tempat-persembunyian"
+    },
+    {
+      "surface": "תם",
+      "gloss": "yang tidak bersalah"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "tiba-tiba"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "mereka memanahnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "takut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:14.608570505Z",
+  "model": "glm-5.2"
+}

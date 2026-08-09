@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Pelita bagi kakiku ⟨⟨adalah⟩⟩ firman-Mu, dan terang bagi jalananku.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "pelita"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "bagi kakiku"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dan terang"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "bagi jalananku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:20.348841039Z",
+  "model": "glm-5.2"
+}

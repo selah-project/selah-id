@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Dan kebenaran-Mu, ya Elohim, sampai ke ketinggian; ⟨Engkau⟩ yang telah melakukan hal-hal besar; Elohim, siapa seperti-Mu?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Dan kebenaran-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ketinggian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Engkau telah melakukan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "hal-hal besar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:10.910365897Z",
+  "model": "glm-5.2"
+}

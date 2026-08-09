@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Tidak ada yang sehat dalam dagingku karena kegemasan-Mu; tidak ada shalom dalam tulang-tulangku karena dosaku.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tidak ada"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "yang sehat"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "dalam dagingku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karena"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kegemasan-Mu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "dalam tulang-tulangku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:06.094283255Z",
+  "model": "glm-5.2"
+}

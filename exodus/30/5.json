@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan engkau akan membuat ⟨את⟩ tiang-tiang itu dari kayu sitim, dan engkau akan menyelaputi ⟨אתם⟩ emas.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "dan engkau akan menyelaputi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-08T18:23:11.800972216Z",
+  "model": "glm-5.2"
+}

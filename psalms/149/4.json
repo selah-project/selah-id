@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 149,
+  "translation": "Sebab Yahweh berkenan kepada umat-Nya, Ia memperindulah orang-orang rendah hati dengan keselamatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "kepada umat-Nya"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "Ia memperindulah"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang rendah hati"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "dengan keselamatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:14.952485300Z",
+  "model": "glm-5.2"
+}

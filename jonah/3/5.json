@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan orang-orang Nineveh percaya kepada Elohim, dan ⟨mereka⟩ menyerukan puasa, dan ⟨mereka⟩ mengenakan kain karung, dari yang terbesar di antara mereka sampai yang terkecil.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "dan percayalah"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "dan ⟨mereka⟩ menyerukan"
+    },
+    {
+      "surface": "צום",
+      "gloss": "puasa"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "dan ⟨mereka⟩ mengenakan"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "kain karung"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "dari yang terbesar"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "yang terkecil"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:00.904686401Z",
+  "model": "glm-5.2"
+}

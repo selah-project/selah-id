@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Tidak akan ada yang keguguran dan yang mandul di negerimu; ⟨את⟩ jumlah hari-harimu akan Kupenuhi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "yang keguguran"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "dan yang mandul"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di negerimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jumlah hari-harimu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "jumlah"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-harimu"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "akan Kupenuhi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:51.524134719Z",
+  "model": "glm-5.2"
+}

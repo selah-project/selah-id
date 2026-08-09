@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Segala ⟨yang diperbuat⟩ Yahweh ⟨adalah⟩ untuk maksud-Nya, bahkan orang fasik untuk hari malapetaka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "yang diperbuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "untuk maksud-Nya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuk hari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "malapetaka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:11.010866138Z",
+  "model": "glm-5.2"
+}

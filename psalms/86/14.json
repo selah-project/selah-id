@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 86,
+  "translation": "Ya Elohim, orang-orang angkuh telah bangkit melawanku, dan kumpulan orang-orang kejam telah mencari napasku, dan tidak menempatkan Engkau di hadapan mereka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ya Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "orang-orang angkuh"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "telah bangkit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "melawanku"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "dan kumpulan"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "orang-orang kejam"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "telah mencari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "menempatkan Engkau"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "di hadapan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:34.097501674Z",
+  "model": "glm-5.2"
+}

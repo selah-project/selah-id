@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Aku telah menemukan Dawid hamba-Ku; dengan minyak kudus-Ku aku telah mengurapnya.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Aku telah menemukan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ku"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kudus-Ku"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "aku telah mengurapnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:27.543220907Z",
+  "model": "glm-5.2"
+}

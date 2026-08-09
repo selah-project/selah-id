@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Tertawa aku berkata, “⟨ia⟩ gila,” dan kepada kesukacitaan, “Apa ini ⟨yang⟩ dilakukannya?”",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "tertawa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "gila"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "dan kepada kesukacitaan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:11.713828793Z",
+  "model": "glm-5.2"
+}

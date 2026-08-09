@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Orang yang berjalan dalam ketulusan berjalan dengan aman, tetapi orang yang membelokkan jalan-jalannya akan diketahui.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Orang yang berjalan"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "dalam ketulusan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "dengan aman"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "tetapi orang yang membelokkan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalan-jalannya"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "akan diketahui"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:38.254111276Z",
+  "model": "glm-5.2"
+}

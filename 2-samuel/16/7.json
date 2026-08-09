@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Demikianlah kata Syimei sambil mengutuk: “Pergilah, pergilah, hai orang berdarah dan hai orang ketidakbergunaan!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "Demikianlah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Syimei"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "sambil mengutuk"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "צא",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hai orang"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "berdarah"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan hai orang"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "ketidakbergunaan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:57:18.723224152Z",
+  "model": "glm-5.2"
+}

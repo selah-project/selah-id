@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu Paroh memanggil Moshe dan Aharon, dan berkata, “Pergilah, berkorbanlah bagi Elohim kalian di negeri ini.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu memanggil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "dan kepada Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "berkorbanlah"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "bagi Elohim kalian"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri ini"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:36.829075605Z",
+  "model": "glm-5.2"
+}

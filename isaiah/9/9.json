@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Bata-bata telah jatuh, tetapi batu pahat kami bangunkan; pohon-pohon sikomor telah ditebang, tetapi pohon-pohon araz kami gantikan.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "bata-bata"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "tetapi batu pahat"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "kami bangunkan"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "pohon-pohon sikomor"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "telah ditebang"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "tetapi pohon-pohon araz"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "kami gantikan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:42.561875752Z",
+  "model": "glm-5.2"
+}

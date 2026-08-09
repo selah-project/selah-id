@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ia mengumpulkan kepada dirinya ⟨את⟩ bani Ammon dan ⟨את⟩ Amalek, lalu pergi dan memukul ⟨את⟩ Yisra'el, dan mereka menduduki ⟨את⟩ kota pohon kurma.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Dan ia mengumpulkan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepada dirinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "dan Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "dan mereka menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "pohon kurma"
+    }
+  ],
+  "timestamp": "2026-08-08T10:51:46.358339210Z",
+  "model": "glm-5.2"
+}

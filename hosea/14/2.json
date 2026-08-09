@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Kembalilah, hai Yisra'el, sampai kepada Yahweh, Elohim-mu, sebab engkau telah tergelincir dalam kesalahanmu.",
+  "tokens": [
+    {
+      "surface": "שׁ֚וּבָה",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֑יךָ",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כָשַׁ֖לְתָּ",
+      "gloss": "engkau telah tergelincir"
+    },
+    {
+      "surface": "בַּעֲוֺנֶֽךָ",
+      "gloss": "dalam kesalahanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:48.115338102Z",
+  "model": "glm-5.2"
+}

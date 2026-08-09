@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Jangan tinggalkan aku, Yahweh; Elohim-ku, jangan menjauh dari aku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tinggalkan aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "menjauh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:19.919009585Z",
+  "model": "glm-5.2"
+}

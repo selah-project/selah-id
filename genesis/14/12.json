@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Maka mengambilah ⟨mereka⟩ ⟨את⟩ Lot dan ⟨את⟩ harta miliknya, anak saudara Avram, lalu pergilah; dan ⟨dia⟩ diam di Sedom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "maka mengambilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "harta miliknya"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "harta miliknya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lalu pergilah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ⟨dia⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "di Sedom"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:15.728282582Z",
+  "model": "glm-5.2"
+}

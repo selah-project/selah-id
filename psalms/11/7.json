@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Karena adil ⟨adalah⟩ Yahweh; keadilan dikasihi-Nya; ⟨yang⟩ lurus akan memandang wajah-Nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dikasihi-Nya"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "akan memandang"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "wajah-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:56.400497498Z",
+  "model": "glm-5.2"
+}

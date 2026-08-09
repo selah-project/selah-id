@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan jika sungguh-sungguh dimakan pada hari ketiga, ⟨ia⟩ pigul; ia tidak akan diterima.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "sungguh-sungguh dimakan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pigul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "akan diterima"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:06.099657359Z",
+  "model": "glm-5.2"
+}

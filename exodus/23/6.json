@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Jangan engkau memiringkan keadilan ⟨bagi⟩ orang miskinmu dalam perkara ⟨perselisihan⟩-nya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "engkau memiringkan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "orang miskinmu"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "dalam perkara⟨perselisihan⟩-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:58.952932180Z",
+  "model": "glm-5.2"
+}

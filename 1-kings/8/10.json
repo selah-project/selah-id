@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan terjadilah, ketika imam-imam keluar dari tempat kudus, bahwa awan itu memenuhi ⟨את⟩ bait Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ketika keluar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "bahwa awan itu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:38.924798786Z",
+  "model": "glm-5.2"
+}

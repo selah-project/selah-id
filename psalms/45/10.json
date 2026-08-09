@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Putri-putri raja ⟨berada⟩ di antara permaisuri-permaisurimu; berdirilah sang ratu di tangan kananmu dalam emas murni Ofir.",
+  "tokens": [
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "מְ֭לָכִים",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בְּיִקְּרוֹתֶ֑יךָ",
+      "gloss": "di antara permaisuri-permaisurimu"
+    },
+    {
+      "surface": "נִצְּבָ֥ה",
+      "gloss": "berdirilah"
+    },
+    {
+      "surface": "שֵׁגַ֥ל",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "לִֽ֝ימִינְךָ֗",
+      "gloss": "di tangan kananmu"
+    },
+    {
+      "surface": "בְּכֶ֣תֶם",
+      "gloss": "dalam emas murni"
+    },
+    {
+      "surface": "אוֹפִֽיר",
+      "gloss": "Ofir"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:32.508744068Z",
+  "model": "glm-5.2"
+}

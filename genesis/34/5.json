@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Maka Ya'akov mendengar bahwa ⟨dia⟩ telah menajiskan ⟨את⟩ Dinah anak perempuannya, dan anak-anak lelakinya sedang bersama ternaknya di padang, dan Ya'akov berdiam diri sampai mereka datang.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Maka Ya'akov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak perempuannya"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dan anak-anak lelakinya"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sedang"
+    },
+    {
+      "surface": "את",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ternaknya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "dan berdiam diri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באם",
+      "gloss": "mereka datang"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:18.583946271Z",
+  "model": "glm-5.2"
+}

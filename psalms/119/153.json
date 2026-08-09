@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Lihatlah penderitaanku dan luputkanlah aku, sebab Taurat-Mu tidak kulupakan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "penderitaanku"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "dan luputkanlah aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Taurat-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kulupakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:22.635805225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Maka ia kembali bersama dia, dan ia makan roti di rumahnya, dan ia minum air.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "maka ia kembali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersama dia"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dan ia makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di rumahnya"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "dan ia minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:46.189104598Z",
+  "model": "glm-5.2"
+}

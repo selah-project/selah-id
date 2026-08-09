@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Seperti namamu, wahai Elohim, demikianlah pujianmu sampai ke ujung-ujung bumi; keadilan ⟨memenuhi⟩ tangan kananmu.",
+  "tokens": [
+    {
+      "surface": "כְּשִׁמְךָ֤",
+      "gloss": "seperti namamu"
+    },
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "wahai Elohim"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "תְּהִלָּתְךָ",
+      "gloss": "pujianmu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "קַצְוֵי",
+      "gloss": "ujung-ujung"
+    },
+    {
+      "surface": "אֶ֑רֶץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "צֶ֝֗דֶק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "מָלְאָ֥ה",
+      "gloss": "⟨memenuhi⟩"
+    },
+    {
+      "surface": "יְמִינֶֽךָ",
+      "gloss": "tangan kananmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:11.712006497Z",
+  "model": "glm-5.2"
+}

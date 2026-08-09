@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan awan itu menutupi ⟨את⟩ Ohel Moed, dan kavod Yahweh memenuhi ⟨את⟩ Mishkan.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ohel Moed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dan kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:51.411000062Z",
+  "model": "glm-5.2"
+}

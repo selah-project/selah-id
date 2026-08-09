@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Ikatlah pedangmu di atas paha, wahai pahlawan; sembahanmu dan keagunganmu —",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Ikatlah"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedangmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "paha"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wahai pahlawan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sembahanmu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "dan keagunganmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:19.277773497Z",
+  "model": "glm-5.2"
+}

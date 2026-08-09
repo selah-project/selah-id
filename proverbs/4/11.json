@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Di jalan hikmah aku telah mengajarimu; di jejak-jejak kelayakan aku telah menuntunmu.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "aku telah mengajarimu"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "aku telah menuntunmu"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "di jejak-jejak"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "kelayakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:15.402263395Z",
+  "model": "glm-5.2"
+}

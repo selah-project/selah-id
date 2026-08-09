@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Maka ⟨dia⟩ menundukkan dengan penderitaan hati mereka; mereka terjatuh dan tidak ada penolong.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "maka menundukkan"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "dengan penderitaan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "mereka terjatuh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "penolong"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:59.674387310Z",
+  "model": "glm-5.2"
+}

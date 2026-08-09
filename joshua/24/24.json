@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan bangsa itu berkata kepada Yehosyua: “⟨את⟩ Yahweh, Elohim kami, yang akan kami layani, dan kepada suara-Nya kami akan mendengarkan.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "yang akan kami layani"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "dan kepada suara-Nya"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kami akan mendengarkan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:21.313717428Z",
+  "model": "glm-5.2"
+}

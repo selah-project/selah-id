@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Kami semua anak-anak satu orang — kami ⟨adalah⟩ orang jujur; hamba-hambamu tidak pernah menjadi mata-mata.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "kami semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "orang jujur"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היו",
+      "gloss": "pernah menjadi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hambamu"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:14.905898763Z",
+  "model": "glm-5.2"
+}

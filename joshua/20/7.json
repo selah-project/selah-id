@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu mereka menguduskan ⟨את⟩ Qedesh di Galil, di wilayah pegunungan Naftali, dan ⟨את⟩ Shekhem di wilayah pegunungan Efrayim, dan ⟨את⟩ Qiryat-Arba — yakni Chevron — di wilayah pegunungan Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Lalu mereka menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "di Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di wilayah pegunungan"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di wilayah pegunungan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Qiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yakni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di wilayah pegunungan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:00.993063983Z",
+  "model": "glm-5.2"
+}

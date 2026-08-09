@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Mendekatlah kepada napasku, lakukanlah penebusan ⟨baginya⟩; demi musuh-musuhku, bebaskanlah aku.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "mendekatlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "lakukanlah penebusan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "bebaskanlah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:34.108291202Z",
+  "model": "glm-5.2"
+}

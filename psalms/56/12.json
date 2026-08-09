@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Di dalam Elohim aku percaya, tidak aku takut — apa ⟨yang⟩ akan diperbuat manusia kepadaku?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Di dalam Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan diperbuat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:17.434913808Z",
+  "model": "glm-5.2"
+}

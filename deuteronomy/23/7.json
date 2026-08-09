@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Janganlah kausemukan keselamatan mereka dan kebaikan mereka, segala hari-harimu, sampai selamanya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "kausemukan"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "keselamatan mereka"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "dan kebaikan mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-harimu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:26.085530111Z",
+  "model": "glm-5.2"
+}

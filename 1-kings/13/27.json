@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Lalu ia berbicara kepada anak-anak lelakinya, katanya, “Kedenulkan untukku ⟨את⟩ keledai itu”, dan mereka mengedenulkannya.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu ia berbicara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anak lelakinya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Kedenulkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keledai itu"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "keledai itu"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "dan mereka mengedenulkannya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:03.275968390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Orang asing aku di bumi; jangan sembunyikan dari padaku perintah-perintah-Mu.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Orang asing"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "sembunyikan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari padaku"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-perintah-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:44.339372964Z",
+  "model": "glm-5.2"
+}

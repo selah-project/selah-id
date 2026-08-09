@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Ambillah ⟨את⟩ Aharon dan ⟨את⟩ Elazar anaknya, dan naikkan ⟨את⟩ mereka ke gunung Hor, ⟨ה⟩ gunung itu.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "dan naikkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ke gunung"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:42:07.349750583Z",
+  "model": "glm-5.2"
+}

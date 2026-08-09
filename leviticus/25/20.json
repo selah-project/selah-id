@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan apabila kamu berkata: Apa yang akan kami makan pada tahun ketujuh? Lihat, kami tidak menabur dan tidak mengumpulkan ⟨את⟩ hasil panen kami!",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dan apabila"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kamu berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yang akan kami makan"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pada tahun"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "menabur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasil panen kami"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "hasil panen kami"
+    }
+  ],
+  "timestamp": "2026-08-08T10:38:10.369168274Z",
+  "model": "glm-5.2"
+}

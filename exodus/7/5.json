@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan orang-orang Mitsrayim akan tahu bahwa akulah Yahweh, ketika aku mengulurkan ⟨את⟩ tanganku atas Mitsrayim, dan aku mengeluarkan ⟨את⟩ bani Yisrael dari tengah-tengah mereka.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "dan akan tahu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang-orang Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "ketika aku mengulurkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "dan aku mengeluarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "dari tengah-tengah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:13.054539677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Untuk sang dirigen; tentang \"Syusan-Edut\"; miktam bagi Dawid, untuk pengajaran.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk sang dirigen"
+    },
+    {
+      "surface": "על",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "\"Syusan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut\""
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "untuk pengajaran"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:59.593882248Z",
+  "model": "glm-5.2"
+}

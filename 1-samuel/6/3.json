@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan mereka berkata, “Jika ⟨kamu⟩ mengirim ⟨את⟩ tabut Elohim Yisrael, janganlah kirim ⟨את⟩-nya kosong, sebab pasti kembalikanlah kepadanya korban ⟨asham⟩; maka kamu akan disembuhkan dan akan diketahui kepadamu mengapa tangannya tidak berpaling dari padamu.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "mengirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "kamu kirim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "kosong"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "השב",
+      "gloss": "pasti kembalikanlah"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "kamu kembalikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "korban ashám"
+    },
+    {
+      "surface": "אז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "kamu akan disembuhkan"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "dan akan diketahui"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "dari padamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:16.584177408Z",
+  "model": "glm-5.2"
+}

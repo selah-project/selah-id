@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Berilah kasih karunia kepadaku, Yahweh; lihatlah kesengsaraanku oleh pembenci-pembenciku, Engkau yang mengangkat aku dari pintu-pintu maut.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "berilah kasih karunia kepadaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kesengsaraanku"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "oleh pembenci-pembenciku"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "Engkau yang mengangkat aku"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "dari pintu-pintu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:07.726349878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Beginilah firman Yahweh Tzeva'ot: 'Aku telah mengingat ⟨את⟩ apa yang dilakukan Amalek kepada Yisra'el, yang ia perbuat terhadapnya di jalan ketika ia naik dari Mitsrayim.'",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzeva'ot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Aku telah mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang dilakukan Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kepada Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ia perbuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "ketika ia naik"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:53.348061150Z",
+  "model": "glm-5.2"
+}

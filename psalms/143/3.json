@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 143,
+  "translation": "Sebab musuh telah mengejar napasku, ia telah meremukkan ke bumi kehidupanku, ia telah membuatku diam dalam kegelapan, seperti orang-orang yang mati dari dahulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "telah mengejar"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "telah meremukkan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "kehidupanku"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ia telah membuatku diam"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "seperti orang-orang yang mati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dari dahulu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:43.190971471Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Bukankah ⟨akan⟩ mereka yang membenci-Mu, Yahweh, aku benci, dan ⟨terhadap⟩ mereka yang bangkit melawan-Mu aku mendapat kejijikan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "mereka yang membenci-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "aku benci"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "dan ⟨terhadap⟩ mereka yang bangkit melawan-Mu"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "aku mendapat kejijikan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:27.807607441Z",
+  "model": "glm-5.2"
+}

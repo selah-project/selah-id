@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 112,
+  "translation": "Sebab untuk selamanya tidak akan goyah; ⟨ia⟩ menjadi peringatan kekal ⟨bahwa⟩ orang benar ⟨ada⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "akan goyah"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "menjadi peringatan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kekal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia menjadi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:55.545869379Z",
+  "model": "glm-5.2"
+}

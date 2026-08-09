@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Maka datanglah semua tua-tua Yisra'el, dan para Lewi mengangkat ⟨את⟩ aron itu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "maka datanglah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "para Lewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron itu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aron itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:11:27.531143552Z",
+  "model": "glm-5.2"
+}

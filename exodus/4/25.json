@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka Tsipporah mengambil sebuah batu pipih, dan memotong ⟨את⟩ kulup putranya, dan menyentuhkannya kepada kakinya, lalu berkata, “Sungguh, engkau ⟨⟨seorang⟩⟩ mertua darah bagiku.”",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Maka … mengambil"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporah"
+    },
+    {
+      "surface": "צר",
+      "gloss": "batu pipih"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "dan memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulup putranya"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kulup"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putranya"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "dan menyentuhkannya"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "kepada kakinya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mertua"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-08-08T10:28:53.936455339Z",
+  "model": "glm-5.2"
+}

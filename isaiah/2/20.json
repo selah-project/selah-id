@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Pada hari itu manusia akan membuang ⟨את⟩ berhala-berhala peraknya dan ⟨את⟩ berhala-berhala emasnya, yang dibuatnya bagi dirinya untuk disembah, ⟨kepada⟩ tikus-tikus tanah dan kelelawar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "akan membuang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhala-berhala peraknya"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "berhala-berhala"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "peraknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "berhala-berhala emasnya"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "berhala-berhala"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "emasnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "untuk disembah"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kepada tikus-tikus tanah"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "tikus-tikus"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "dan kelelawar"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:57.317264408Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Maka bersabdalah Yahweh kepada ha-satan: “Lihat, dia ⟨berada⟩ di tanganmu; hanya ⟨את⟩ nyawanya peliharalah.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maka bersabdalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tanganmu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawanya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanya"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "peliharalah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:34.387121015Z",
+  "model": "glm-5.2"
+}

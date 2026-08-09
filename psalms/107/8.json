@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Biarlah mereka bersyukur kepada Yahweh atas hesed-Nya, dan atas keajaiban-keajaiban-Nya kepada anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Biarlah mereka bersyukur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "atas hesed-Nya"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dan atas keajaiban-keajaiban-Nya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:15.470439566Z",
+  "model": "glm-5.2"
+}

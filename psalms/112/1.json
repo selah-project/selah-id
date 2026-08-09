@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 112,
+  "translation": "Pujilah Yah! Berbahagialah ⟨seorang⟩ laki-laki yang takut akan Yahweh, ⟨yang⟩ sangat berkenan dalam perintah-perintah-Nya.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "berbahagialah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yang takut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "dalam perintah-perintah-Nya"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:59.971648870Z",
+  "model": "glm-5.2"
+}

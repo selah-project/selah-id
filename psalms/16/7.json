@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Aku memberkati ⟨את⟩ Yahweh yang telah memberi nasihat kepadaku; ya, pada waktu malam ginjalku mengajar aku.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Aku memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "telah memberi nasihat kepadaku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "pada waktu malam"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "mengajar aku"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ginjalku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:02.589006917Z",
+  "model": "glm-5.2"
+}

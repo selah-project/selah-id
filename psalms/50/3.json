@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Elohim kami akan datang, dan jangan ⟨diam⟩; api di hadapan-Nya akan menghanguskan, dan sekeliling-Nya bertiap badai yang dahsyat.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "akan datang"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "⟨diam⟩"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "akan menghanguskan"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "dan sekeliling-Nya"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "bertiap badai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yang dahsyat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:58.725469941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Umat-Ku, apa yang Kuperbuat kepadamu, dan dengan apa Aku telah membuat engkau lelah? Jawablah kepada-Ku.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Umat-Ku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Kuperbuat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan dengan apa"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "Aku telah membuat ... lelah"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Jawablah"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kepada-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:52.510219831Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Sebelum anak itu tahu memanggil “Ayahku” dan “Ibuku,” kekayaan Damsyik dan rampasan Shomron akan dibawa ke hadapan raja Ashur.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebelum"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ayahku"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "dan Ibuku"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akan dibawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekayaan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damsyik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rampasan"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-08T11:09:16.593417902Z",
+  "model": "glm-5.2"
+}

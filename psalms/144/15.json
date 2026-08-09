@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "Berbahagialah bangsa yang demikian baginya; berbahagialah bangsa yang Elohim-nya Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "berbahagialah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "berbahagialah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "yang Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:58.463063001Z",
+  "model": "glm-5.2"
+}

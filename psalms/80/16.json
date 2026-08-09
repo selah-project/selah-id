@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "dan ⟨tentang⟩ pohon yang ditanam tangan kanan-Mu, dan ⟨tentang⟩ putra yang Kaukuatkan bagi-Mu.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "dan pohon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "ditanam"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan ⟨tentang⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "Kaukuatkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:45.558211652Z",
+  "model": "glm-5.2"
+}

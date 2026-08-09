@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "kambing betina dua ratus dan kambing jantan dua puluh, domba betina dua ratus dan domba jantan dua puluh,",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "kambing betina"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "dan kambing jantan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "domba betina"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "dan domba jantan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:14.600505144Z",
+  "model": "glm-5.2"
+}

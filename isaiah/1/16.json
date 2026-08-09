@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Bersihkanlah dirimu, sucikanlah dirimu; singkirkanlah kejahatan perbuatan-perbuatanmu dari hadapan mataku; berhentilah berbuat jahat!",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "Bersihkanlah dirimu"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "sucikanlah dirimu"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "singkirkanlah"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "perbuatan-perbuatanmu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "berhentilah"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "berbuat jahat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:08:22.557500418Z",
+  "model": "glm-5.2"
+}

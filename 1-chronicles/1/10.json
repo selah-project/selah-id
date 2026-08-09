@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Kush memperanakkan ⟨את⟩ Nimrod; dialah yang mulai menjadi pahlawan di bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Dan Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "החל",
+      "gloss": "yang mulai"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:38.356245724Z",
+  "model": "glm-5.2"
+}

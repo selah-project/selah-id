@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan jika tidak ia menebus ⟨את⟩ padang itu, atau jika ia menjual ⟨את⟩ padang itu kepada orang lain, maka tidak akan ditebus lagi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ia menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padang itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang itu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atau jika"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ia menjual"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padang itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang itu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada orang"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "akan ditebus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:34.979715343Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 58,
+  "translation": "Orang benar akan bersukacita bahwa ⟨ia telah⟩ melihat pembalasan; langkah-langkah kakinya akan dicuci dalam darah orang fasik.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "akan bersukacita"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pembalasan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "langkah-langkah kakinya"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "akan dicuci"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dalam darah"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "orang fasik"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:23.413649430Z",
+  "model": "glm-5.2"
+}

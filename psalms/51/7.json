@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Sesungguhnya dalam pelanggaran aku dilahirkan, dan dalam dosa ibuku mengandungku.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "dalam pelanggaran"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "aku dilahirkan"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "dan dalam dosa"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "mengandungku"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:57.910600191Z",
+  "model": "glm-5.2"
+}

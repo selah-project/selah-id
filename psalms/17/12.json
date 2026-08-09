@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "rupa mereka seperti singa yang rindu untuk menerkam, dan seperti singa muda yang duduk bersembunyi di tempat-tempat persembunyian.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "rupa mereka"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "seperti singa"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "yang rindu"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "untuk menerkam"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "dan seperti singa muda"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yang duduk bersembunyi"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di tempat-tempat persembunyian"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:03.138495546Z",
+  "model": "glm-5.2"
+}

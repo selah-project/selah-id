@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "dan penebus darah mendapati ⟨את⟩ dia di luar batas kota perlindungannya, dan penebus darah itu membunuh ⟨את⟩ pembunuh itu — tidak ada baginya darah.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "dan mendapati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "penebus"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "batas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "perlindungannya"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "dan membunuh"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "penebus"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pembunuh itu"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pembunuh itu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:23:48.318036467Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Sebab katanya: “Bukankah pemimpin-pemimpin-Ku bersama-sama ⟨adalah⟩ raja-raja?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pemimpin-pemimpin-Ku"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:44.021870569Z",
+  "model": "glm-5.2"
+}

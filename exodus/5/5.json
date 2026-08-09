@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Lalu berkatalah Paroh: \"Lihat, berjayalah sekarang ⟨ini⟩ umat negeri itu, dan kaul biarkan ⟨mereka⟩ berhenti dari beban-beban kerja mereka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "berjayalah"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "kaul biarkan berhenti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "dari beban-beban kerja mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:28:48.830675061Z",
+  "model": "glm-5.2"
+}

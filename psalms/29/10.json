@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Yahweh ⟨telah⟩ duduk ⟨guna⟩ air bah, dan Yahweh duduk sebagai raja untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "⟨guna⟩ air bah"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan duduk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sebagai raja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:56.133866289Z",
+  "model": "glm-5.2"
+}

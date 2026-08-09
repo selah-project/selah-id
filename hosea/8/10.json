@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Ya, sungguhpun mereka telah menyewa ⟨di antara⟩ bangsa-bangsa, sekarang Aku akan mengumpulkan mereka; dan mereka mulai ⟨menyusut⟩ sedikit demi sedikit karena beban raja ⟨para⟩ pembesar.",
+  "tokens": [
+    {
+      "surface": "גַּ֛ם",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "sungguhpun"
+    },
+    {
+      "surface": "יִתְנ֥וּ",
+      "gloss": "mereka telah menyewa"
+    },
+    {
+      "surface": "בַגּוֹיִ֖ם",
+      "gloss": "⟨di antara⟩ bangsa-bangsa"
+    },
+    {
+      "surface": "עַתָּ֣ה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "אֲקַבְּצֵ֑ם",
+      "gloss": "Aku akan mengumpulkan mereka"
+    },
+    {
+      "surface": "וַיָּחֵ֣לּוּ",
+      "gloss": "dan mereka mulai"
+    },
+    {
+      "surface": "מְּעָ֔ט",
+      "gloss": "sedikit demi sedikit"
+    },
+    {
+      "surface": "מִמַּשָּׂ֖א",
+      "gloss": "karena beban"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שָׂרִֽים",
+      "gloss": "para pembesar"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:20.542781808Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Mulutku akan berbicara hal-hat bijaksana, dan renungan hatiku pengertian-pengertian.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Mulutku"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "akan berbicara"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "hal-hal bijaksana"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "dan renungan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "pengertian-pengertian"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:53.244859939Z",
+  "model": "glm-5.2"
+}

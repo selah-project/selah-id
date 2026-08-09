@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Apabila anakmu bertanya kepadamu besok, katanya: Apakah kesaksian-kesaksian dan ketetapan-ketetapan dan peraturan-peraturan yang diperintahkan Yahweh, Elohim kita, kepada kalian?",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "יִשְׁאָלְךָ֥",
+      "gloss": "bertanya kepadamu"
+    },
+    {
+      "surface": "בִנְךָ֛",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "מָחָ֖ר",
+      "gloss": "besok"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "מָ֣ה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "הָעֵדֹ֗ת",
+      "gloss": "kesaksian-kesaksian"
+    },
+    {
+      "surface": "וְהַֽחֻקִּים֙",
+      "gloss": "dan ketetapan-ketetapan"
+    },
+    {
+      "surface": "וְהַמִּשְׁפָּטִ֔ים",
+      "gloss": "dan peraturan-peraturan"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צִוָּ֛ה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֖ינוּ",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "אֶתְכֶֽם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T18:27:31.527143794Z",
+  "model": "glm-5.2"
+}

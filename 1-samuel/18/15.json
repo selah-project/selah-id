@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Maka ketika Shaul melihat bahwa ⟨dia⟩ bertindak sangat bijaksana, ia menjadi takut kepadanya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bertindak bijaksana"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "dan menjadi takut"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:14:24.462219667Z",
+  "model": "glm-5.2"
+}

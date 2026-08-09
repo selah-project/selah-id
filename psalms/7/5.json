@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Jika aku membalas ⟨orang yang dami⟩ dengan kejahatan, dan aku menyelamatkan ⟨yang menindasku⟩ tanpa sebab—",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "aku membalas"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "orang yang berdamai denganku"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "dan aku menyelamatkan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "yang menindasku"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tanpa sebab"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:02.168599314Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Mereka naik ke langit, mereka turun ke samudera, nyawa mereka dalam kesengsaraan terlebur.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Mereka naik"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ke langit"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "mereka turun"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ke samudera"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa mereka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "dalam kesengsaraan"
+    },
+    {
+      "surface": "תתמogג",
+      "gloss": "terlebur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:42.592546653Z",
+  "model": "glm-5.2"
+}

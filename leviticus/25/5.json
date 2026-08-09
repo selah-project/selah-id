@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "⟨את⟩ tumbuhan liar dari panenmu tidak kaupanen, dan ⟨את⟩ buah anggur dari pohon anggur yang tidak kaujaga tidak kaupetik; tahun perhentian penuh ⟨itulah⟩ bagi tanah itu.",
+  "tokens": [
+    {
+      "surface": "אֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "tumbuhan liar"
+    },
+    {
+      "surface": "סְפִ֤יחַ",
+      "gloss": "tumbuhan liar"
+    },
+    {
+      "surface": "קְצִֽירְךָ֙",
+      "gloss": "panenmu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תִקְצ֔וֹר",
+      "gloss": "kaupanen"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "buah anggur"
+    },
+    {
+      "surface": "עִנְּבֵ֥י",
+      "gloss": "buah anggur"
+    },
+    {
+      "surface": "נְזִירֶ֖ךָ",
+      "gloss": "yang tidak kaujaga"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תִבְצֹ֑ר",
+      "gloss": "kaupetik"
+    },
+    {
+      "surface": "שְׁנַ֥ת",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "שַׁבָּת֖וֹן",
+      "gloss": "perhentian penuh"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "⟨itulah⟩"
+    },
+    {
+      "surface": "לָאָֽרֶץ",
+      "gloss": "bagi tanah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:05.939813559Z",
+  "model": "glm-5.2"
+}

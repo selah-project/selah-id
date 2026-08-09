@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Siapakah ⟨dia⟩ ini, Raja ⟨ha⟩kavod? Yahweh Tsevaot — ⟨dia⟩-lah Raja ⟨ha⟩kavod. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "⟨ha⟩kavod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩-lah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "⟨ha⟩kavod"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:34.967377857Z",
+  "model": "glm-5.2"
+}

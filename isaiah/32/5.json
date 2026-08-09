@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Tidak lagi kepada seorang nabal ⟨akan⟩ dipanggil nadiv, dan kepada seorang kheilai tidak ⟨akan⟩ dikatakan syoa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "dipanggil"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "kepada seorang nabal"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "nadiv"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "dan kepada seorang kheilai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dikatakan"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "syoa"
+    }
+  ],
+  "timestamp": "2026-08-08T08:22:20.954771103Z",
+  "model": "glm-5.2"
+}

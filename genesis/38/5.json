@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Dan ia menambah lagi dan melahirkan seorang anak laki-laki, dan ia menyebut ⟨את⟩ namanya Shelah; dan ⟨ia⟩ berada di Kheziv ketika ia melahirkan dia.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Dan ia menambah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak laki-laki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dan ia menyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan ⟨ia⟩ berada"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "di Kheziv"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "ketika ia melahirkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:26.487610714Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Ingatlah hari-hari purbakala, renungkanlah tahun-tahun angkatan demi angkatan; tanyakanlah kepada ayahmu dan ia akan memberitahukanmu, kepada tua-tuamu dan mereka akan mengatakan kepadamu.",
+  "tokens": [
+    {
+      "surface": "זְכֹר֙",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "יְמ֣וֹת",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "עוֹלָ֔ם",
+      "gloss": "purbakala"
+    },
+    {
+      "surface": "בִּ֖ינוּ",
+      "gloss": "renungkanlah"
+    },
+    {
+      "surface": "שְׁנ֣וֹת",
+      "gloss": "tahun-tahun"
+    },
+    {
+      "surface": "דּוֹר",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "וָד֑וֹר",
+      "gloss": "demi angkatan"
+    },
+    {
+      "surface": "שְׁאַ֤ל",
+      "gloss": "tanyakanlah"
+    },
+    {
+      "surface": "אָבִ֨יךָ֙",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "וְיַגֵּ֔דְךָ",
+      "gloss": "dan ia akan memberitahukanmu"
+    },
+    {
+      "surface": "זְקֵנֶ֖יךָ",
+      "gloss": "tua-tuamu"
+    },
+    {
+      "surface": "וְיֹ֥אמְרוּ",
+      "gloss": "dan mereka akan mengatakan"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:21.765851006Z",
+  "model": "glm-5.2"
+}

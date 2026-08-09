@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Maka pada waktu ⟨harusnya⟩ memberikan ⟨את⟩ Merav, putri Shaul, kepada Daud, dia diberikan kepada Adriel orang Mekholati menjadi istri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "תת",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Daud"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "kepada Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "orang Mekholati"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi istri"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:30.458255795Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Muzikkanlah kemuliaan nama-Nya, jadikanlah kemuliaan pujian-Nya.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Muzikkanlah"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "jadikanlah"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.140247490Z",
+  "model": "glm-5.2"
+}

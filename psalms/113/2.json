@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 113,
+  "translation": "⟨Kiranya⟩ terpuji nama Yahweh, dari sekarang dan sampai selamanya.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨kiranya⟩ terpuji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "terpuji"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari sekarang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:56.376146711Z",
+  "model": "glm-5.2"
+}

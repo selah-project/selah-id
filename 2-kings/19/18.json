@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "dan telah melemparkan ⟨את⟩ elohim mereka ke dalam api; sebab bukan elohim mereka — melainkan buatan tangan manusia, kayu dan batu — dan ⟨therefore⟩ mereka telah membinasakannya.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dan telah melemparkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elohim mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "elohim mereka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ke dalam api"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "dan mereka telah membinasakannya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:07:18.451678061Z",
+  "model": "glm-5.2"
+}

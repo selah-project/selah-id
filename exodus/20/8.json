@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Ingatlah ⟨את⟩ hari shabbat, untuk menguduskannya.",
+  "tokens": [
+    {
+      "surface": "זָכ֛וֹר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hari shabbat"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הַשַּׁבָּ֖ת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לְקַדְּשֽׁוֹ",
+      "gloss": "untuk menguduskannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:04.248122308Z",
+  "model": "glm-5.2"
+}

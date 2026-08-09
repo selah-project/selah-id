@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Janganlah engkau menajiskan ⟨את⟩ putrimu untuk membuatnya bersundal, supaya tanah itu tidak bersundal dan tanah itu penuh dengan kekejaman.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "engkau menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrimu"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "putrimu"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "untuk membuatnya bersundal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "bersundal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "dan penuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kekejaman"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:03.375074880Z",
+  "model": "glm-5.2"
+}

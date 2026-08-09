@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 98,
+  "translation": "Dia telah mengingat hesed(-Nya) dan kesetiaan(-Nya) kepada bet Avraham; Yisra'el telah melihat segala ujung bumi ⟨את⟩ keselamatan dari Elohim.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Dia telah mengingat"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed(-Nya)"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "dan kesetiaan(-Nya)"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kepada bet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keselamatan"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:21.861606392Z",
+  "model": "glm-5.2"
+}

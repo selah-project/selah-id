@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka engkau ⟨harus⟩ mengasihi ⟨את⟩ Yahweh Elohim-mu, dan engkau ⟨harus⟩ menjaga kewajiban-Nya, serta ketetapan-ketetapan-Nya dan peraturan-peraturan-Nya dan perintah-perintah-Nya, sepanjang hari-hari.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "maka engkau ⟨harus⟩ mengasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "dan engkau ⟨harus⟩ menjaga"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "kewajiban-Nya"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "serta ketetapan-ketetapan-Nya"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "dan peraturan-peraturan-Nya"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "dan perintah-perintah-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari-hari"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:33.824962220Z",
+  "model": "glm-5.2"
+}

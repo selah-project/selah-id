@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Orang pemalas menyembunyikan tangannya di dalam pinggan; ia lelah untuk mengembalikannya ke mulutnya.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "menyembunyikan"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "orang pemalas"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "di dalam pinggan"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "ia lelah"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "untuk mengembalikannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "mulutnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:20.557696331Z",
+  "model": "glm-5.2"
+}

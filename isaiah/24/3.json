@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dengan dikosongkan bumi akan dikosongkan, dan dirampas akan dirampas, sebab Yahweh telah berfirman ⟨את⟩ firman ini.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Dengan dikosongkan"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "akan dikosongkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "dan dirampas"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "akan dirampas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T08:21:03.523308501Z",
+  "model": "glm-5.2"
+}

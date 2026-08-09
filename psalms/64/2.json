@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 64,
+  "translation": "Dengarkan, Elohim, suaraku dalam keluh-kesahku; dari kengerian musuh jagalah nyawaku.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dengarkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "dalam keluh-kesahku"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "dari kengerian"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "jagalah"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nyawaku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:39.986857095Z",
+  "model": "glm-5.2"
+}

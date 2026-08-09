@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "di atas asor dan di atas nevel, di atas higayon dengan kinnor",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kinnor"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:02.901548901Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 14:10",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu Dawid bertanya kepada Elohim, katanya: “Apakah aku akan naik melawan orang-orang Pelishtim? Dan engkaukah yang akan menyerahkan mereka ke dalam tanganku?” Lalu Yahweh berfirman kepadanya: “Naiklah, dan Aku akan menyerahkan mereka ke dalam tanganmu.”",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Lalu bertanya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "Apakah aku akan naik"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "פלשתיים",
+      "gloss": "orang-orang Pelishtim"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "dan engkaukah yang akan menyerahkan"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ke dalam tanganku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "dan Aku akan menyerahkan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ke dalam tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:07:29.484103154Z",
+  "model": "glm-5.2"
+}

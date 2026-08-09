@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan diberitahukan kepada David ⟨את⟩ apa yang telah diperbuat Ritspah binti Aya, gundik Sha'ul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dan diberitahukan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "telah diperbuat"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "gundik"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-08T07:58:39.507536511Z",
+  "model": "glm-5.2"
+}

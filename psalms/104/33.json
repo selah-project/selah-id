@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Aku akan menyanyi bagi Yahweh selama aku hidup; aku akan bermain musik bagi Elohay selama aku ada.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "aku akan menyanyi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "selama aku hidup"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku akan bermain musik"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "bagi Elohay"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "selama aku ada"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:46.608734600Z",
+  "model": "glm-5.2"
+}

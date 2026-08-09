@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 98,
+  "translation": "Biarkan sungai-sungai bertepuk tangan; bersama-sama biarlah gunung-gunung bersorak-sorai.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "biarkan bertepuk"
+    },
+    {
+      "surface": "כף",
+      "gloss": "telapak tangan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "biarlah bersorak-sorai"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:40.976630871Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Dan kelaparan itu berat di ⟨di⟩ negeri itu.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Dan kelaparan itu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "berat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:58.848963767Z",
+  "model": "glm-5.2"
+}

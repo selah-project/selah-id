@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 1:8",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Atas hal ini aku akan meratap dan meraung; aku akan berjalan telanjang kaki dan telanjang; aku akan membuat ratapan seperti serigala, dan perkabungan seperti putri-putri burung unta.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Atas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "אספדה",
+      "gloss": "aku akan meratap"
+    },
+    {
+      "surface": "ואילילה",
+      "gloss": "dan meraung"
+    },
+    {
+      "surface": "אילכה",
+      "gloss": "aku akan berjalan"
+    },
+    {
+      "surface": "שילל",
+      "gloss": "telanjang kaki"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "dan telanjang"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aku akan membuat"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "ratapan"
+    },
+    {
+      "surface": "כתנים",
+      "gloss": "seperti serigala"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "dan perkabungan"
+    },
+    {
+      "surface": "כבנות",
+      "gloss": "seperti putri-putri"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "burung unta"
+    }
+  ],
+  "timestamp": "2026-08-08T09:00:54.293669742Z",
+  "model": "glm-5.2"
+}

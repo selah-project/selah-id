@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 97,
+  "translation": "Para pengasihi Yahweh, bencilah kejahatan; ⟨Dialah⟩ yang menjaga napas-napas orang-orang hesed ⟨Dialah⟩, dari tangan orang-orang fasik ⟨Dialah⟩ menyelamatkan mereka.",
+  "tokens": [
+    {
+      "surface": "אֹהֲבֵ֥י",
+      "gloss": "Para pengasihi"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שִׂנְא֫וּ",
+      "gloss": "bencilah"
+    },
+    {
+      "surface": "רָ֥ע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "שֹׁ֭מֵר",
+      "gloss": "⟨Dialah⟩ yang menjaga"
+    },
+    {
+      "surface": "נַפְשׁ֣וֹת",
+      "gloss": "napas-napas"
+    },
+    {
+      "surface": "חֲסִידָ֑יו",
+      "gloss": "orang-orang hesed ⟨Dialah⟩"
+    },
+    {
+      "surface": "מִיַּ֥ד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רְ֝שָׁעִ֗ים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "יַצִּילֵֽם",
+      "gloss": "⟨Dialah⟩ menyelamatkan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:22.034492786Z",
+  "model": "glm-5.2"
+}

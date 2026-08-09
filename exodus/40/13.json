@@ -1,0 +1,63 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "exodus 40:13",
+ "book": "exodus",
+ "lang": "id",
+ "chapter": 40,
+ "translation": "Dan engkau akan mengenakan pakaian kekudusan kepada Aharon, dan mengurapinya, dan menguduskannya, dan ia akan menjadi imam bagi-Ku.",
+ "tokens": [
+  {
+   "surface": "והלבשת",
+   "gloss": "Dan engkau akan mengenakan pakaian"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Aharon"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharon"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "pakaian kekudusan"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "pakaian"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "kekudusan"
+  },
+  {
+   "surface": "ומשחת",
+   "gloss": "dan engkau akan mengurapi"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ dia"
+  },
+  {
+   "surface": "וקדשת",
+   "gloss": "dan engkau akan menguduskan"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ dia"
+  },
+  {
+   "surface": "וכהן",
+   "gloss": "dan ia akan menjadi imam"
+  },
+  {
+   "surface": "לי",
+   "gloss": "bagi-Ku"
+  }
+ ],
+ "timestamp": "2026-08-09T01:38:00.165479728Z",
+ "model": "glm-5.2"
+}

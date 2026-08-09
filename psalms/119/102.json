@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dari ⟨משפטיך⟩ hukum-hukum-Mu aku tidak menyimpang, sebab Engkaulah yang mengajar aku.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "dari hukum-hukum-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "aku menyimpang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "mengajar aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:15.825899375Z",
+  "model": "glm-5.2"
+}

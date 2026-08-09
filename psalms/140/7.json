@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 140,
+  "translation": "Aku berkata kepada Yahweh: “El ⟨engkau⟩, Allahku; pasanglah telinga, Yahweh, ⟨pada⟩ suara permohonanku.”",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "permohonanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:34.672576586Z",
+  "model": "glm-5.2"
+}

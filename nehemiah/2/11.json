@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu aku datang ke Yerushalayim, dan aku ⟨ada⟩ di sana tiga hari.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Lalu aku datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "dan aku ⟨ada⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    }
+  ],
+  "timestamp": "2026-08-08T10:00:00.916049588Z",
+  "model": "glm-5.2"
+}

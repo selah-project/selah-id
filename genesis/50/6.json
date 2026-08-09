@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Maka Paroh berkata: “Naiklah dan kuburkanlah ⟨את⟩ ayahmu, seperti yang ia membuat engkau bersumpah.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berkatalah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "dan kuburkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahmu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "ia membuat engkau bersumpah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:58.569104242Z",
+  "model": "glm-5.2"
+}

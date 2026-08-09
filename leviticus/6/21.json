@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan setiap bejana tembikar yang dimasak di dalamnya harus dipecahkan; tetapi jika dimasak dalam bejana tembaga, maka ⟨harus⟩ digosok dan dibilas dengan air.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "dan setiap bejana"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tembikar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "dimasak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "harus dipecahkan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tetapi jika"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "dalam bejana"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "dimasak"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "maka digosok"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "dan dibilas"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:43.462815150Z",
+  "model": "glm-5.2"
+}

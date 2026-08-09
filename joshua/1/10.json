@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Yosua memerintahkan ⟨את⟩ para pejabat ⟨dari⟩ bangsa itu, katanya:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu memerintahkan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pejabat"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "para pejabat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:09.509455296Z",
+  "model": "glm-5.2"
+}

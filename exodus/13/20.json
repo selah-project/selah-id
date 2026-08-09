@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan mereka berangkat dari Sukkot, dan berkemah di Etam, di ujung padang gurun.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Dan mereka berangkat"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "dari Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dan berkemah"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "di Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "di ujung"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:38.354856412Z",
+  "model": "glm-5.2"
+}

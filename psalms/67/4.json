@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 67,
+  "translation": "Bersyukur kepada-Mulah bangsa-bangsa, ⟨ hai ⟩ Elohim; bersyukur kepada-Mulah bangsa-bangsa, semuanya.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Bersyukur kepada-Mulah"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "Bersyukur kepada-Mulah"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "semuanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:22.102726316Z",
+  "model": "glm-5.2"
+}

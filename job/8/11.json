@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dapatkah papirus membusar tanpa rawa? Dapatkah rumput rawa membesar tanpa air?",
+  "tokens": [
+    {
+      "surface": "הֲיִֽגְאֶה",
+      "gloss": "dapatkah membusar"
+    },
+    {
+      "surface": "גֹּ֭מֶא",
+      "gloss": "papirus"
+    },
+    {
+      "surface": "בְּלֹ֣א",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "בִצָּ֑ה",
+      "gloss": "rawa"
+    },
+    {
+      "surface": "יִשְׂגֶּה",
+      "gloss": "dapatkah membesar"
+    },
+    {
+      "surface": "אָ֥חוּ",
+      "gloss": "rumput rawa"
+    },
+    {
+      "surface": "בְלִי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:59.063302763Z",
+  "model": "glm-5.2"
+}

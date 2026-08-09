@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan segala ternak serta jarahan kota-kota kami rampas untuk kami.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "הַבְּהֵמָ֛ה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "וּשְׁלַ֥ל",
+      "gloss": "serta jarahan"
+    },
+    {
+      "surface": "הֶעָרִ֖ים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "בַּזּ֥וֹנוּ",
+      "gloss": "kami rampas"
+    },
+    {
+      "surface": "לָֽנוּ",
+      "gloss": "untuk kami"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:40.005723601Z",
+  "model": "glm-5.2"
+}

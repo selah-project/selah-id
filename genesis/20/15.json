@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan Avimelekh berkata, “Lihat, negeriku ada di hadapanmu; di mana ⟨yang⟩ baik di matamu, diamlah.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "negeriku"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "di mana baik"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di matamu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "diamlah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:47:02.586133619Z",
+  "model": "glm-5.2"
+}

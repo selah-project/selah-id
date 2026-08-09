@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan dari Khushim ⟨ia⟩ memperanakkan ⟨את⟩ Avituv dan ⟨את⟩ Elpa'al.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "dan dari Khushim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Elpa'al"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:48.077560138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "sebab kaki mereka berlari ke arah kejahatan, dan mereka bergegas untuk mencurahkan darah,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kaki mereka"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ke arah kejahatan"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "berlari"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "dan mereka bergegas"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "untuk mencurahkan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:37.017481374Z",
+  "model": "glm-5.2"
+}

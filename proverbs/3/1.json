@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Anakku, janganlah lupakan torat-ku, dan ________ mitzvot-ku, biarlah hatimu menjaganya.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "torat-ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lupakan"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dan mitzvot-ku"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "biarlah menjaga"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hatimu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:11.716896558Z",
+  "model": "glm-5.2"
+}

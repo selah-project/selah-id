@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Setelah itu terjadilah Dawid memukul ⟨את⟩ Pelishtim dan menundukkan mereka, dan mengambil ⟨את⟩ Gat dan putri-putrinya dari tangan Pelishtim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "terjadilah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "menundukkan mereka"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "putri-putrinya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    }
+  ],
+  "timestamp": "2026-08-08T12:03:05.295337719Z",
+  "model": "glm-5.2"
+}

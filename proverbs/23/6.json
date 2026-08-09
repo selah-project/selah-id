@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Jangan makan ⟨את⟩ roti ⟨orang⟩ yang mata jahat, dan jangan menginginkan hidangan lezatnya;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "menginginkan"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "hidangan lezatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:03.888887083Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan seorang manusia, apabila ia memakan sesuatu yang kudus tanpa sengaja, maka ia harus menambah seperlimanya di atasnya dan memberikan kepada imam ⟨את⟩ hal yang kudus itu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan seorang manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ia memakan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sesuatu yang kudus"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "tanpa sengaja"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "maka ia harus menambah"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "seperlimanya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kepada imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hal yang kudus itu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "hal yang kudus itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:39.487395813Z",
+  "model": "glm-5.2"
+}

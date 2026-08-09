@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 114,
+  "translation": "Pada keluarnya Yisrael dari Mitsrayim, bait Ya'akov dari ⟨bangsa⟩ berbahasa asing,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Pada keluarnya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari ⟨bangsa⟩"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "berbahasa asing"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:15.565162874Z",
+  "model": "glm-5.2"
+}

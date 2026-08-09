@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dengan apa ⟨seorang⟩ muda memurnikan jalannya? Untuk menjaga ⟨היא⟩ sesuai dengan firman-Mu.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "dengan apa"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "memurnikan"
+    },
+    {
+      "surface": "נער",
+      "gloss": "muda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalannya"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk menjaga"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sesuai dengan firman-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:04.408218862Z",
+  "model": "glm-5.2"
+}

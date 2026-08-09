@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Lalu mereka memberkati ⟨את⟩ Rivqah dan berkata kepadanya: “Engkau ⟨adalah⟩ saudari kami; jadilah engkau menjadi beribu-ribu ribu, dan semoga keturunanmu menduduki ⟨את⟩ gerar orang-orang yang membencinya.”",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "Lalu mereka memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivqah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivqah"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "saudari kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "היי",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "menjadi beribu-ribu"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "ribu ribu"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "dan semoga menduduki"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "keturunanmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gerar"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "orang-orang yang membencinya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:48:11.402019582Z",
+  "model": "glm-5.2"
+}

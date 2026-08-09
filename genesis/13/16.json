@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan Aku akan membuat ⟨את⟩ benihmu seperti debu bumi, yang jika ⟨seorang⟩ manusia dapat menghitung ⟨את⟩ debu bumi, juga benihmu akan dihitung.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Dan Aku akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benihmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "seperti debu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "menghitung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debu bumi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "akan dihitung"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:16.023511476Z",
+  "model": "glm-5.2"
+}

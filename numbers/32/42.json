@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan Novah pergi dan merebut ⟨את⟩ Kenat dan ⟨את⟩ putri-putrinya, dan ia menamainya Novah, menurut namanya.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Dan Novah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dan merebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "putri-putrinya"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "putri-putrinya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia menamai"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nya"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "menurut namanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:44:19.675368407Z",
+  "model": "glm-5.2"
+}

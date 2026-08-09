@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Jangan mengingini makanan lezatnya, ⟨sebab⟩ itu ⟨adalah⟩ roti kebohongan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "mengingini"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "makanan lezatnya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨sebab⟩ itu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "kebohongan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:40.147814442Z",
+  "model": "glm-5.2"
+}

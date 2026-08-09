@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Firman-firman Yahweh ⟨adalah⟩ firman-firman murni, perak yang dimurnikan dalam tanur ⟨di⟩ bumi, disaring tujuh kali.",
+  "tokens": [
+    {
+      "surface": "אִֽמֲר֣וֹת",
+      "gloss": "firman-firman"
+    },
+    {
+      "surface": "יְהוָה֮",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲמָר֪וֹת",
+      "gloss": "firman-firman"
+    },
+    {
+      "surface": "טְהֹ֫ר֥וֹת",
+      "gloss": "murni"
+    },
+    {
+      "surface": "כֶּ֣סֶף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "צָ֭רוּף",
+      "gloss": "yang dimurnikan"
+    },
+    {
+      "surface": "בַּעֲלִ֣יל",
+      "gloss": "dalam tanur"
+    },
+    {
+      "surface": "לָאָ֑רֶץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מְזֻקָּ֗ק",
+      "gloss": "disaring"
+    },
+    {
+      "surface": "שִׁבְעָתָֽיִם",
+      "gloss": "tujuh kali"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:55.776282823Z",
+  "model": "glm-5.2"
+}

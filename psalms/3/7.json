@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Aku tidak akan takut terhadap puluhan ribu orang, yang sekelilingku telah menempatkan ⟨diri⟩ terhadapku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku akan takut"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "terhadap puluhan ribu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekelilingku"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "telah menempatkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:41.410428648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan ia membawa dari sana ⟨את⟩ tulang Saul dan ⟨את⟩ tulang Yehonatanan binnya, dan mereka mengumpulkan ⟨את⟩ tulang-tulang ⟨yang⟩ disula.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Dan ia membawa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tulang"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "binnya"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "dan mereka mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "yang disula"
+    }
+  ],
+  "timestamp": "2026-08-08T07:58:38.026350032Z",
+  "model": "glm-5.2"
+}

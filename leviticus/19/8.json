@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan orang yang memakannya akan menanggung kesalahannya, sebab ⟨את⟩ kekudusan Yahweh telah dinajiskannya, dan ⟨nefesh⟩ itu akan dilenyapkan dari antara umatnya.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Dan orang yang memakannya"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kesalahannya"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akan menanggung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekudusan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kekudusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "telah dinajiskannya"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "dan akan dilenyapkan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨nefesh⟩ itu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "dari antara umatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:06.099740051Z",
+  "model": "glm-5.2"
+}

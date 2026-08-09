@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Segala binatang di padang, datanglah untuk memakan, segala binatang di hutan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk memakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "di hutan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:13:19.747717934Z",
+  "model": "glm-5.2"
+}

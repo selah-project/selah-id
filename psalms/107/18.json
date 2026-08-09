@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Segala makanan menjijikkan bagi napas mereka, dan mereka sampai kepada pintu-pintu gerbang maut.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "menjijikkan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bagi napas mereka"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "dan mereka sampai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:24.235630974Z",
+  "model": "glm-5.2"
+}

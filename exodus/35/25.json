@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Dan setiap perempuan yang berhikmat hatinya memintal dengan tangannya, dan mereka membawa benang yang dipintal: ⟨את⟩ kain biru-gelap dan ⟨את⟩ kain ungu, ⟨את⟩ benang merah dari cacing kirmizi dan ⟨את⟩ linen halus.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan setiap"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "yang berhikmat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "dengan tangannya"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "memintal"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dan mereka membawa"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "benang yang dipintal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kain biru-gelap"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "kain biru-gelap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kain ungu"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "kain ungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benang merah dari cacing kirmizi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "cacing kirmizi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "benang merah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "linen halus"
+    },
+    {
+      "surface": "השש",
+      "gloss": "linen halus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:44.745860728Z",
+  "model": "glm-5.2"
+}

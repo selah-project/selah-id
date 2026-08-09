@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Sejauh timur dari barat, ⟨dia⟩ telah menjauhkan dari kita ⟨את⟩ pelanggaran kita.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "Sejauh"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "timur"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "dari barat"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "⟨dia⟩ telah menjauhkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari kita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelanggaran kita"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "pelanggaran kita"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:39.540635042Z",
+  "model": "glm-5.2"
+}

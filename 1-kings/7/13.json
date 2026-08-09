@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Maka raja Shelomoh mengirim utusan dan mengambil ⟨את⟩ Khiram dari Tsor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "maka … mengirim utusan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Khiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dari Tsor"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:34.441577247Z",
+  "model": "glm-5.2"
+}

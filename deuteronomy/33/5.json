@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dan terjadilah ⟨seorang⟩ raja di Yeshurun, ketika berkumpul kepala-kepala ⟨dari⟩ umat — bersama-sama suku-suku Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "di Yeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "ketika berkumpul"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:34.759291982Z",
+  "model": "glm-5.2"
+}

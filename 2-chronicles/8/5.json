@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ia membangun ⟨את⟩ Bet-Horon yang atas dan ⟨את⟩ Bet-Horon yang bawah, kota-kota benteng, tembok-tembok, pintu-pintu gerbang dan palang-palang.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Dan ia membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yang atas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "yang bawah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "tembok-tembok"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "dan palang-palang"
+    }
+  ],
+  "timestamp": "2026-08-08T10:13:08.560302774Z",
+  "model": "glm-5.2"
+}

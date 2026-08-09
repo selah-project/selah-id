@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 99,
+  "translation": "Dalam tiang awan ⟨הוּא⟩ berbicara kepada mereka; mereka menjaga kesaksiannya, dan ⟨הוּא⟩ memberikan ketetapan kepada mereka.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "Dalam tiang"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "Ia berbicara"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mereka menjaga"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "kesaksiannya"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "dan ketetapan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Ia memberikan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:19.226961794Z",
+  "model": "glm-5.2"
+}

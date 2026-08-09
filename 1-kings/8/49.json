@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "maka Engkau mendengar di langit, tempat kediaman-Mu, ⟨את⟩ doa mereka dan ⟨את⟩ permohonan mereka, dan Engkau melakukan keadilan ⟨bagi⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "maka Engkau mendengar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "kediaman-Mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doa mereka"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "doa mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "permohonan mereka"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "permohonan mereka"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan Engkau melakukan"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "keadilan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:55.452537025Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Di padang-padang rumput hijau ⟨dia⟩ membaringkan aku; di samping air-air yang tenang ⟨dia⟩ menuntun aku.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Di padang-padang rumput"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "hijau"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "membaringkan aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "di samping"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air-air"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "yang tenang"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "menuntun aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:30.358426847Z",
+  "model": "glm-5.2"
+}

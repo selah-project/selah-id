@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Sebab itu umat-Nya berbalik ke mari, dan air kepenuhan diisap untuk mereka.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Ia mengembalikan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ke mari"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan air"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kepenuhan"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "diisap"
+    },
+    {
+      "surface": "למו",
+      "gloss": "untuk mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:47.143173923Z",
+  "model": "glm-5.2"
+}

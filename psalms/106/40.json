@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan menyala hidung Yahweh terhadap umat-Nya, dan Ia merasa jijik terhadap ⟨את⟩ warisan-Nya.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "dan menyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hidung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "terhadap umat-Nya"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "dan Ia merasa jijik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisan-Nya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "warisan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:05.735139799Z",
+  "model": "glm-5.2"
+}

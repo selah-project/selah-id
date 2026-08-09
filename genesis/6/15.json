@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan inilah yang engkau buat ⟨את⟩-nya: tiga ratus hasta panjang baari itu, lima puluh hasta lebarnya, dan tiga puluh hasta tingginya.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia (baari)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "baari itu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "tingginya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:21.758173387Z",
+  "model": "glm-5.2"
+}

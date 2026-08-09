@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Kebenaran-Mu ⟨adalah⟩ keadilan untuk selamanya, dan torat-Mu ⟨adalah⟩ kebenaran.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "kebenaran-Mu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "dan torat-Mu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:27.895066273Z",
+  "model": "glm-5.2"
+}

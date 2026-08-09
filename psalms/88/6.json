@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "⟨di⟩ tengah ⟨orang-orang⟩ mati ⟨aku⟩ bebas seperti ⟨mayat-mayat⟩ terluka, ⟨mereka⟩ yang berbaring di kuburan, yang tidak Kausing lagi, dan mereka dari tangan-Mu telah diputus.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "⟨di⟩ tengah ⟨orang-orang⟩ mati"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "⟨aku⟩ bebas"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "⟨mayat-mayat⟩ terluka"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "⟨mereka⟩ yang berbaring"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "di kuburan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "Kausing"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "dari tangan-Mu"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "telah diputus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:32.967240108Z",
+  "model": "glm-5.2"
+}

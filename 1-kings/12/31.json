@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan ia membuat ⟨את⟩ rumah bukit-bukit, dan ia membuat imam-imam dari ujung-ujung bangsa, yang tidak dari antara bani Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah bukit-bukit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia membuat"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "dari ujung-ujung"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dari antara bani"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:07.909490273Z",
+  "model": "glm-5.2"
+}

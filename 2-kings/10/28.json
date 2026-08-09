@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Maka Yehu memunahkan ⟨את⟩ Ha-Baal dari Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Maka memunahkan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ha-Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ha-Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "dari Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T08:10:42.528316047Z",
+  "model": "glm-5.2"
+}

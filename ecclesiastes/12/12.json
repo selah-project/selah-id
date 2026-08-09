@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan lebih dari itu, anakku, berhati-hatilah: membuat banyak kitab tidak ada ujungnya, dan belajar bersungguh-sungguh banyak ⟨adalah⟩ kelelahan bagi daging.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Dan lebih"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "dari itu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "berhati-hatilah"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ujungnya"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "dan belajar bersungguh-sungguh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "kelelahan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bagi daging"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:58.085777672Z",
+  "model": "glm-5.2"
+}

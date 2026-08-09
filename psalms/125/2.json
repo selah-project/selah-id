@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 125,
+  "translation": "Yerushalayim — gunung-gunung ⟨di sekelilingnya⟩, dan Yahweh ⟨di sekeliling⟩ umat-Nya, dari sekarang dan sampai selamanya.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨di sekeliling⟩nya"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "⟨di sekeliling⟩ umat-Nya"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari sekarang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:36.696845645Z",
+  "model": "glm-5.2"
+}

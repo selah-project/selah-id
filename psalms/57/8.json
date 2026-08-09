@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Teguh hatiku, Elohim, teguh hatiku; aku akan bernyanyi dan aku akan bermazmur.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "teguh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "teguh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku akan bernyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "dan aku akan bermazmur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:10.399430325Z",
+  "model": "glm-5.2"
+}

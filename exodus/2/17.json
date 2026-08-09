@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan datanglah para gembala itu, dan mereka mengusir mereka; tetapi bangkitlah Mosheh dan diselamatkannyalah mereka, dan ia memberi minum ⟨את⟩ kambing domba mereka.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dan datanglah"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "para gembala itu"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "dan mereka mengusir mereka"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dan bangkitlah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "dan diselamatkannyalah mereka"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dan ia memberi minum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing domba mereka"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "kambing domba mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:21.670819240Z",
+  "model": "glm-5.2"
+}

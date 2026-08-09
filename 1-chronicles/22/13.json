@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 22:13",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Maka engkau akan berhasil, jika engkau berjaga-jaga untuk melakukan ⟨את⟩ ketetapan-ketetapan dan ⟨את⟩ peraturan-peraturan yang diperintahkan Yahweh kepada ⟨את⟩ Moshe atas Yisrael: kuatkan diri dan beranikan diri, jangan takut dan jangan tunduk!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "engkau akan berhasil"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "engkau berjaga-jaga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "peraturan-peraturan"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "peraturan-peraturan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuatkan diri"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "dan beranikan diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tunduk"
+    }
+  ],
+  "timestamp": "2026-08-08T10:09:33.324540516Z",
+  "model": "glm-5.2"
+}

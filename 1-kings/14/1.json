@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Pada waktu itu Aviyah putra Yarav'am jatuh sakit.",
+  "tokens": [
+    {
+      "surface": "בָּעֵ֣ת",
+      "gloss": "Pada waktu"
+    },
+    {
+      "surface": "הַהִ֔יא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "חָלָ֖ה",
+      "gloss": "jatuh sakit"
+    },
+    {
+      "surface": "אֲבִיָּ֥ה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "בֶן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יָרָבְעָֽם",
+      "gloss": "Yarav'am"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:34.565733019Z",
+  "model": "glm-5.2"
+}

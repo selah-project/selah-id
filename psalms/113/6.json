@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 113,
+  "translation": "⟨yang⟩ merendahkan diri untuk melihat ⟨di⟩ langit dan ⟨di⟩ bumi?",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "⟨yang⟩ merendahkan diri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨di⟩ langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "dan ⟨di⟩ bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:35.011723533Z",
+  "model": "glm-5.2"
+}

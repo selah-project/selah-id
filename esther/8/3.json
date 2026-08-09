@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan Ester menambah ⟨lagi⟩, dan berbicara di hadapan sang raja, dan jatuh di hadapan kaki-nya, dan menangis, dan memohon kepadanya untuk menghapuskan ⟨את⟩ kejahatan Haman sang Agagi, dan ⟨את⟩ rencananya yang ia rencanakan terhadap orang-orang Yehudi.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "Dan menambah"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "dan berbicara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-nya"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "dan menangis"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "dan memohon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "untuk menghapuskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kejahatan"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "sang Agagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rencananya"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "rencananya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ia rencanakan"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "orang-orang Yehudi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:58:23.674699041Z",
+  "model": "glm-5.2"
+}

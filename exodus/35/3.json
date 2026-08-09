@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Janganlah kamu menyalakan api di segala tempat kediamanmu pada hari sabat.”",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "kamu menyalakan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "tempat kediamanmu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:12.831127970Z",
+  "model": "glm-5.2"
+}

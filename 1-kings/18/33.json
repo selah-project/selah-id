@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu ia menyusun ⟨את⟩ kayu itu, dan memotong-motong ⟨את⟩ lembu itu, dan meletakkannya di atas kayu api itu.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲרֹ֖ךְ",
+      "gloss": "lalu ia menyusun"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kayu itu"
+    },
+    {
+      "surface": "הָֽעֵצִ֑ים",
+      "gloss": "kayu api itu"
+    },
+    {
+      "surface": "וַיְנַתַּח֙",
+      "gloss": "dan memotong-motong"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "lembu itu"
+    },
+    {
+      "surface": "הַפָּ֔ר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "וַיָּ֖שֶׂם",
+      "gloss": "dan ia meletakkan"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הָעֵצִֽים",
+      "gloss": "kayu api itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:07:05.602844219Z",
+  "model": "glm-5.2"
+}

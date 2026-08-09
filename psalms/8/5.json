@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Apakah ⟨הוא⟩ enosh bahwa Engkau mengingatnya, dan anak adam bahwa Engkau mengunjunginya?",
+  "tokens": [
+    {
+      "surface": "מָֽה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "אֱנ֥וֹשׁ",
+      "gloss": "enosh"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "תִזְכְּרֶ֑נּוּ",
+      "gloss": "Engkau mengingatnya"
+    },
+    {
+      "surface": "וּבֶן",
+      "gloss": "dan anak"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "תִפְקְדֶֽנּוּ",
+      "gloss": "Engkau mengunjunginya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:47.694068712Z",
+  "model": "glm-5.2"
+}

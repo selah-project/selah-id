@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Hai, negeri dengar kibaran sayap, yang di seberang sungai-sungai Kush.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "dengar kibaran"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-08T08:20:02.294389909Z",
+  "model": "glm-5.2"
+}

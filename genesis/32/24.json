@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Lalu ia mengambil mereka dan membuat mereka menyeberangi ⟨את⟩ sungai itu, dan ia membuat menyeberang ⟨את⟩ segala yang ada padanya.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "lalu ia mengambil mereka"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "dan membuat mereka menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai itu"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dan ia membuat menyeberang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala yang ada padanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ada padanya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:47.408244073Z",
+  "model": "glm-5.2"
+}

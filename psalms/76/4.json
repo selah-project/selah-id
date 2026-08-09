@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 76,
+  "translation": "Di sana ⟨dia⟩ menghancurkan kilat panah, perisai, dan pedang, dan peperangan. Sela.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "menghancurkan"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "kilat"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "panah"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "perisai"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "dan pedang"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "dan peperangan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:55.038815602Z",
+  "model": "glm-5.2"
+}

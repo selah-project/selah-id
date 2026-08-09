@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "leviticus 22:16",
+ "book": "leviticus",
+ "lang": "id",
+ "chapter": 22,
+ "translation": "dan mereka akan membuat mereka menanggung ⟨את⟩ kesalahan pelanggaran, dalam memakan ⟨את⟩ hal-hal kudus mereka; sebab Akulah Yahweh yang menguduskan mereka.",
+ "tokens": [
+  {
+   "surface": "והשיאו",
+   "gloss": "dan mereka akan membuat menanggung"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "עון",
+   "gloss": "kesalahan"
+  },
+  {
+   "surface": "אשמה",
+   "gloss": "pelanggaran"
+  },
+  {
+   "surface": "באכלם",
+   "gloss": "dalam memakan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "hal-hal kudus mereka"
+  },
+  {
+   "surface": "קדשיהם",
+   "gloss": "hal-hal kudus mereka"
+  },
+  {
+   "surface": "כי",
+   "gloss": "sebab"
+  },
+  {
+   "surface": "אני",
+   "gloss": "Akulah"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweh"
+  },
+  {
+   "surface": "מקדשם",
+   "gloss": "yang menguduskan mereka"
+  }
+ ],
+ "timestamp": "2026-08-09T01:38:39.107416671Z",
+ "model": "glm-5.2"
+}

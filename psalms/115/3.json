@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Tetapi Elohim kami ⟨⟨ada⟩⟩ di langit, segala yang berkehendak ⟨Ia⟩ lakukan.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Tetapi Elohim kami"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "berkehendak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:52.822696805Z",
+  "model": "glm-5.2"
+}

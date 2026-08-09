@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan suap jangan engkau ambil, karena suap membutakan ⟨orang-orang⟩ yang berpenglihatan tajam dan memutarbalikkan perkataan orang-orang benar.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "dan suap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau ambil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "suap"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "membutakan"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "yang berpenglihatan tajam"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "dan memutarbalikkan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang benar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:58.953119587Z",
+  "model": "glm-5.2"
+}

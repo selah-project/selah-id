@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Setelah hal-hal ini raja Achashverosh memuliakan ⟨את⟩ Haman ben Hamdata ha-Agagi, dan ⟨ia⟩ meninggikannya, dan ⟨ia⟩ menempatkan ⟨את⟩ kursinya di atas semua para pembesar yang bersamanya.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hal-hal"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "memuliakan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ha-Agagi"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "dan meninggikannya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kursinya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kursinya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:03.583721604Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Kulit dan daging Engkau telah mengenakkan kepadaku, dan dengan tulang-tulang dan urat-urat Engkau telah melindungi aku.",
+  "tokens": [
+    {
+      "surface": "עוֹר",
+      "gloss": "Kulit"
+    },
+    {
+      "surface": "וּבָשָׂר",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "תַּלְבִּישֵׁנִי",
+      "gloss": "Engkau telah mengenakkan kepadaku"
+    },
+    {
+      "surface": "וּבַעֲצָמוֹת",
+      "gloss": "dan dengan tulang-tulang"
+    },
+    {
+      "surface": "וְגִידִים",
+      "gloss": "dan urat-urat"
+    },
+    {
+      "surface": "תְּסֹכְכֵנִי",
+      "gloss": "Engkau telah melindungi aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:28.523483440Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Pedang di luar, dan penyakit sampar, dan kelaparan dari dalam; yang di padang, oleh pedang akan mati, dan yang di kota, kelaparan dan sampar akan memakannya.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "dan penyakit sampar"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "dan kelaparan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari dalam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "oleh pedang"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akan mati"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dan sampar"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "akan memakannya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:22:42.029380453Z",
+  "model": "glm-5.2"
+}

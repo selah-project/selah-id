@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Bisakah takhta kebinasaan bersekutu dengan-Mu, pembentuk kerugian melalui ketetapan?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "bisakah bersekutu dengan-Mu"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "kebinasaan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "pembentuk"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kerugian"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "melalui"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ketetapan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:14.070685771Z",
+  "model": "glm-5.2"
+}

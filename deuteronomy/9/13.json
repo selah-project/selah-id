@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Yahweh berfirman kepadaku, katanya: \"Telah kulihat ⟨את⟩ bangsa ini, dan sungguh, ⟨ia⟩ bangsa ber tengkuk keras ⟨ialah⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "telah kulihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa ini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sungguh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "keras"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "tengkuk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah"
+    }
+  ],
+  "timestamp": "2026-08-08T13:19:10.915378728Z",
+  "model": "glm-5.2"
+}

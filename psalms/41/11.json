@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Dan Engkau, Yahweh, kasihanilah aku dan bangkitkanlah aku, dan aku akan membalas mereka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kasihanilah aku"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "dan bangkitkanlah aku"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "dan aku akan membalas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:29.279487529Z",
+  "model": "glm-5.2"
+}

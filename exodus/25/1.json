@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan Yahweh berfirman kepada Mosheh, dengan kata-kata:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan kata-kata:"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:53.497599526Z",
+  "model": "glm-5.2"
+}

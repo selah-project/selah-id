@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan mereka menawan ⟨את⟩ perempuan-perempuan yang di sana, dari yang kecil sampai yang besar; mereka tidak mematikan seorang pun, melainkan menggiring dan pergi menuju jalan mereka.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Dan mereka menawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan-perempuan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "perempuan-perempuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "dari yang kecil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "mereka mematikan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang pun"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "melainkan menggiring"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "menuju jalan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:27.953652672Z",
+  "model": "glm-5.2"
+}

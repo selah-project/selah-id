@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 91,
+  "translation": "Ia berseru kepada-Ku, dan Aku menjawab dia; Aku ⟨bersama⟩ dia dalam kesesakan, Aku meluputkan dia, dan Aku memuliakan dia.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "ia berseru kepada-Ku"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "dan Aku menjawab dia"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama dia"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "Aku meluputkan dia"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "dan Aku memuliakan dia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:41.776668110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Tetapi ia berkata kepada mereka: “Tidak! Melainkan untuk melihat keterbukaan negeri ini kamu datang.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tetapi ia berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "keterbukaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri ini"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kamu datang"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:14.906067604Z",
+  "model": "glm-5.2"
+}

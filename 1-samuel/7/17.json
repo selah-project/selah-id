@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan kembalinya ⟨adalah⟩ ke Ramah, sebab di sana ⟨adalah⟩ rumahnya, dan di sana ia menghakimi ⟨את⟩ Yisra'el; dan ia mendirikan di sana mezbah bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Dan kembalinya"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ke Ramah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan di sana"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ia menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan ia mendirikan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:14:10.312528155Z",
+  "model": "glm-5.2"
+}

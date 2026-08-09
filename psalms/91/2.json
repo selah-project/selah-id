@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 91,
+  "translation": "Aku berkata kepada Yahweh: “Tempat perlindanganku dan bentengku, Elohímku, padá-Nya aku percaya!”",
+  "tokens": [
+    {
+      "surface": "אֹמַר",
+      "gloss": "Aku berkata"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "מַחְסִי",
+      "gloss": "tempat perlindanganku"
+    },
+    {
+      "surface": "וּמְצוּדָתִי",
+      "gloss": "dan bentengku"
+    },
+    {
+      "surface": "אֱלֹהַי",
+      "gloss": "Elohímku"
+    },
+    {
+      "surface": "אֶבְטַח",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "בוֹ",
+      "gloss": "padá-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:19.475048581Z",
+  "model": "glm-5.2"
+}

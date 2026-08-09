@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Api memakan ⟨אֵ֑שׁ⟩ para pemuda-Nya, dan para gadis-Nya tidak dilagukan ⟨הוּלָּֽלוּ⟩ (dalam nyanyian nikah).",
+  "tokens": [
+    {
+      "surface": "בַּחוּרָ֥יו",
+      "gloss": "para pemuda-Nya"
+    },
+    {
+      "surface": "אָֽכְלָה",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "אֵ֑שׁ",
+      "gloss": "api"
+    },
+    {
+      "surface": "וּ֝בְתוּלֹתָ֗יו",
+      "gloss": "dan para gadis-Nya"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הוּלָּֽלוּ",
+      "gloss": "dilagukan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:20.254514654Z",
+  "model": "glm-5.2"
+}

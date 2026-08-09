@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Mereka jijik kepadaku, mereka menjauh dariku, dan terhadap hadapanku mereka tidak menahan ludah.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "mereka jijik kepadaku"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "mereka menjauh"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dariku"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "dan terhadap hadapanku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "mereka menahan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ludah"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:20.106767125Z",
+  "model": "glm-5.2"
+}

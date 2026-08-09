@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dan engkau akan membuat ⟨את⟩ papan-papan untuk Mishkan: kayu shittim berdiri tegak.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "untuk Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "berdiri tegak"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:35.711050906Z",
+  "model": "glm-5.2"
+}

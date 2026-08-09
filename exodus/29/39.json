@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "⟨את⟩ domba yang satu engkau buat pada pagi hari, dan ⟨את⟩ domba yang kedua engkau buat di antara dua senja.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba yang satu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba itu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "domba yang kedua"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba itu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dua senja"
+    }
+  ],
+  "timestamp": "2026-08-08T10:31:42.623408528Z",
+  "model": "glm-5.2"
+}

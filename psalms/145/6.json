@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Dan kekuatan hal-hal menakutkan-Mu mereka akan ucapkan, dan kebesaran-Mu aku akan ceritakan.",
+  "tokens": [
+    {
+      "surface": "וְעֶזּוּז",
+      "gloss": "dan kekuatan"
+    },
+    {
+      "surface": "נוֹרְאֹתֶיךָ",
+      "gloss": "hal-hal menakutkan-Mu"
+    },
+    {
+      "surface": "יֹאמְרוּ",
+      "gloss": "mereka akan ucapkan"
+    },
+    {
+      "surface": "וּגְדוּלָתֶיךָ",
+      "gloss": "dan kebesaran-Mu"
+    },
+    {
+      "surface": "אֲסַפְּרֶנָּה",
+      "gloss": "aku akan ceritakan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:57.001569301Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 98,
+  "translation": "Mazmur. Nyanyikanlah bagi Yahweh nyanyian baru, sebab ⟨Ia⟩ telah melakukan hal-hal yang menakjubkan; keselamatan ⟨diberikan⟩ bagi-Nya oleh tangan kanan-Nya dan lengan kudus-Nya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyanyikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "hal-hal yang menakjubkan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ia telah melakukan"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tangan kanan-Nya"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "dan lengan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kudus-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:23.241509168Z",
+  "model": "glm-5.2"
+}

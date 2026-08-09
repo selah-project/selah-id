@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Dan Yosef memanggil ⟨את⟩ nama si sulam Menashé, sebab “Elohim telah membuatku lupa ⟨את⟩ segala jerih payahku dan ⟨את⟩ segala rumah ayahku.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Dan memanggil"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "si sulung"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "telah membuatku lupa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "jerih payahku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:47.601876066Z",
+  "model": "glm-5.2"
+}

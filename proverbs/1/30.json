@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "tidak mereka mau nasihatku, mereka menista segala teguranku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "mereka mau"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "nasihatku"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "mereka menista"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "teguranku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:50.845382666Z",
+  "model": "glm-5.2"
+}

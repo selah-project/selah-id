@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Setelah hal-hal ini terjadi, ⟨ada yang⟩ berkata kepada Yosef: “Lihat, ayahmu sedang sakit.” Lalu ia mengambil ⟨את⟩ kedua anaknya bersamanya, ⟨את⟩ Menashsheh dan ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hal-hal"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kepada Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sedang sakit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kedua anaknya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashsheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:14.901739920Z",
+  "model": "glm-5.2"
+}

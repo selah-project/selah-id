@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan mereka menyembuhkan ⟨את⟩ patah hati umat-Ku dengan ringan, dengan berkata: “Shalom, shalom,” padahal tidak ada shalom.",
+  "tokens": [
+    {
+      "surface": "וַֽיְרַפְּא֞וּ",
+      "gloss": "Dan mereka menyembuhkan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "patah hati"
+    },
+    {
+      "surface": "שֶׁ֤בֶר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "עַמִּי֙",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נְקַלָּ֔ה",
+      "gloss": "dengan ringan"
+    },
+    {
+      "surface": "לֵאמֹ֖ר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "שָׁל֑וֹם",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "וְאֵ֖ין",
+      "gloss": "padahal tidak ada"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-08T08:31:45.452371272Z",
+  "model": "glm-5.2"
+}

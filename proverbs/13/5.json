@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Perkataan dusta dibenci oleh orang benar, tetapi orang fasik menimbulkan bau busuk dan ⟨mempermalukan⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dibenci"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "tetapi orang fasik"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "menimbulkan bau busuk"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "dan mempermalukan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:06.009262831Z",
+  "model": "glm-5.2"
+}

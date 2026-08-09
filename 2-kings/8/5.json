@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 8:5",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan terjadilah, ketika dia menceritakan kepada raja ⟨את⟩ apa yang telah dihidupkannya kembali, yaitu ⟨את⟩ orang mati itu, sungguh, perempuan yang telah dihidupkannya kembali ⟨את⟩ anaknya itu berseru kepada raja tentang rumahnya dan tentang ladangnya. Lalu berkatalah Gechazi: “Tuananku raja, inilah perempuan itu, dan inilah anaknya, yang telah dihidupkan kembali oleh Elisha.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "menceritakan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang telah dihidupkannya kembali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "telah dihidupkannya kembali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang mati itu"
+    },
+    {
+      "surface": "המת",
+      "gloss": "orang mati"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "telah dihidupkannya kembali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan tentang"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladangnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Tuananku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dan ini"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "telah dihidupkan kembali"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-08-08T11:05:55.582251178Z",
+  "model": "glm-5.2"
+}

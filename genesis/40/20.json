@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan terjadilah pada hari ketiga, hari kelahiran Paroh, bahwa ⟨ia⟩ mengadakan perjamuan bagi semua hambanya, dan ⟨ia⟩ mengangkat ⟨את⟩ kepala sar hamasyqim dan ⟨את⟩ kepala sar ha-ofim di tengah hamba-hambanya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "kelahiran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan mengadakan"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "perjamuan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hambanya"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala sar hamasyqim"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "hamasyqim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kepala sar ha-ofim"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "ha-ofim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:15.025281397Z",
+  "model": "glm-5.2"
+}

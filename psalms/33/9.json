@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Sebab Dia berfirman, dan ⟨itulah⟩ terjadi; Dia memerintah, dan ⟨itu⟩ berdiri tegak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dan berdiri tegak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:56.839838026Z",
+  "model": "glm-5.2"
+}

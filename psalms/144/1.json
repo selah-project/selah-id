@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "Untuk Dawid. Terpujilah Yahweh batuku, yang melatih tanganku untuk berperang, jari-jariku untuk peperangan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batuku"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "yang melatih"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "jari-jariku"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk peperangan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:51.101511120Z",
+  "model": "glm-5.2"
+}

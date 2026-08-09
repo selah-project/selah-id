@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Air melihat Engkau, Elohim; air melihat Engkau, ⟨mereka⟩ terguncang; juga samudera-samudera bergemetar.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "melihat Engkau"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "melihat Engkau"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "terguncang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bergemetar"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "samudera-samudera"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:22.214163243Z",
+  "model": "glm-5.2"
+}

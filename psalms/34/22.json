@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Kematian ⟨milik⟩ orang fasik ⟨adalah⟩ kejahatan, dan pembenci-pembenci orang benar akan dihukum.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "Kematian"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "dan pembenci-pembenci"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "akan dihukum"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:37.755322595Z",
+  "model": "glm-5.2"
+}

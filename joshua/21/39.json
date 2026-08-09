@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheshbon dan ⟨את⟩ tanah penggembalaannya, ⟨את⟩ Ya'azer dan ⟨את⟩ tanah penggembalaannya — seluruhnya empat kota.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'azer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ya'azer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruhnya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:50:42.385007710Z",
+  "model": "glm-5.2"
+}

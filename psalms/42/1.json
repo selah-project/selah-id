@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Untuk pemimpin musik, mazmur pengajaran, bagi bani Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk pemimpin musik"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mazmur pengajaran"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:34.520628034Z",
+  "model": "glm-5.2"
+}

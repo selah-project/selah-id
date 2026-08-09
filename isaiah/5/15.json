@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan manusia ditundukkan, dan laki-laki direndahkan, dan mata orang-orang yang sombong akan direndahkan.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Dan ditundukkan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "dan direndahkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "dan mata"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "orang-orang yang sombong"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "akan direndahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:16:44.459225474Z",
+  "model": "glm-5.2"
+}

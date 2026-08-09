@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 72,
+  "translation": "Dan terpuji nama kemuliaan-Nya untuk selama-lamanya, dan kiranya kemuliaan-Nya memenuhi ⟨את⟩ seluruh ⟨את⟩ bumi; amein, dan amin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "dan terpuji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaan-Nya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "dan kiranya ... memenuhi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaan-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "dan amin"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:30.973560439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Kering seperti pecahan tembikar kekuatanku, dan lidahku melekat pada rahangku, dan ke debu maut kau-letakkan aku.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "kering"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "seperti pecahan tembikar"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "dan lidahku"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "melekat"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "pada rahangku"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "dan ke debu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "kau-letakkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:09.004194242Z",
+  "model": "glm-5.2"
+}

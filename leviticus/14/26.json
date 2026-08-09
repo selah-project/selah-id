@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan dari minyak itu imam akan menuangkan ⟨itu⟩ pada telapak tangan imam, ⟨pada⟩ sebelah kiri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Dan dari"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "imam akan menuangkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "כף",
+      "gloss": "telapak tangan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "sebelah kiri"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:58.711612867Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lalu ia menangkap ⟨את⟩ Agag raja Amalek dalam keadaan hidup, dan ⟨את⟩ seluruh rakyatnya ia ditumpas sampai binasa dengan mata pedang.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Lalu ia menangkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dalam keadaan hidup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh rakyat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ia ditumpas sampai binasa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dengan mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:48.400384911Z",
+  "model": "glm-5.2"
+}

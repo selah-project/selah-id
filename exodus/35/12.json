@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "⟨את⟩ aron dan ⟨את⟩ tongkat-tongkat pengusungnya, ⟨את⟩ tutup pendamaian, dan ⟨את⟩ tirai penutup",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tongkat-tongkat pengusungnya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tongkat-tongkat pengusungnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutup pendamaian"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup pendamaian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tirai"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "penutup"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:23.006078913Z",
+  "model": "glm-5.2"
+}

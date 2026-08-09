@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu keluarlah Yoav dari hadapan David dan ia mengirim utusan-utusan menyusul Avner, dan mereka membawa ⟨את⟩ dia kembali dari sumur Sirah — tetapi David tidak tahu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Lalu keluarlah"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan ia mengirim"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "menyusul"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dan mereka membawa kembali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Avner)"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "dari sumur"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Sirah"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "tetapi David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    }
+  ],
+  "timestamp": "2026-08-08T18:31:16.345054184Z",
+  "model": "glm-5.2"
+}

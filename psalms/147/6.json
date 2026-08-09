@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Yahweh menegakkan ⟨yang⟩ rendah hati; ⟨Ia⟩ merendahkan ⟨yang⟩ fasik sampai ke bumi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "menegakkan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "rendah hati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "merendahkan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "fasik"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:13.737159961Z",
+  "model": "glm-5.2"
+}

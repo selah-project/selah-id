@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Berlakukan baik kepada hamba-Mu, bahwa aku hidup, dan aku akan menjaga firman-Mu.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Berlakukan baik"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "aku hidup"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "dan aku akan menjaga"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firman-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:44.339096132Z",
+  "model": "glm-5.2"
+}

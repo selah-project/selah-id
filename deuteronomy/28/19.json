@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Terkutuklah engkau pada waktu masuk dan terkutuklah engkau pada waktu keluar.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Terkutuklah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "pada waktu masuk"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "dan terkutuklah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "pada waktu keluar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:16.302323834Z",
+  "model": "glm-5.2"
+}

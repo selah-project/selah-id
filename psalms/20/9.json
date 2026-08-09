@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Mereka berlutut dan jatuh, tetapi kami telah bangkit dan berdiri tegak.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "berlutut"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tetapi kami"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "telah bangkit"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "dan berdiri tegak"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:37.074442454Z",
+  "model": "glm-5.2"
+}

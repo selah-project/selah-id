@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu katanya kepadanya, “Berikanlah kepadaku suatu berkat, sebab tanah Negev telah kauberikan kepadaku; maka berikanlah juga kepadaku mata air.” Maka Kalev memberikan kepadanya ⟨את⟩ mata air hulu dan ⟨את⟩ mata air hilir.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "telah kauberikan kepadaku"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "maka berikanlah juga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maka diberikannyalah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata air hulu"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mata air hilir"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "hilir"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:30.669917662Z",
+  "model": "glm-5.2"
+}

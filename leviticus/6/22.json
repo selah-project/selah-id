@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Setiap laki-laki di antara ⟨para⟩ imam boleh memakannya; ⟨ini⟩ qodesh qodashim ⟨adalah⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "di antara imam"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh memakannya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "memakannya (menandai objek sufiks -nya)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qodashim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:43.463125608Z",
+  "model": "glm-5.2"
+}

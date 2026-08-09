@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Lalu Yahweh menampakkan diri kepada Shelomo pada malam hari, dan berfirman kepadanya, “Aku telah mendengar ⟨את⟩ doamu, dan telah memilih tempat ini bagi-Ku menjadi bait penyembelihan.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lalu menampakkan diri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada malam hari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Aku telah mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doamu"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "doamu"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "dan telah memilih"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "menjadi bait"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "penyembelihan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:12:21.450103222Z",
+  "model": "glm-5.2"
+}

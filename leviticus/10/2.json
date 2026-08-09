@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu keluar api dari hadapan Yahweh, dan ⟨את⟩ memakan mereka, dan mereka mati di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "Lalu keluar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dan memakan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "dan mereka mati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:37.809699370Z",
+  "model": "glm-5.2"
+}

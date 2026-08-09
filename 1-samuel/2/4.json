@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Busur ⟨para⟩ pahlawan ⟨telah⟩ hancur, dan ⟨mereka yang⟩ terjatuh telah mengikat kekuatan.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "⟨para⟩ pahlawan"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "hancur"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "dan ⟨mereka yang⟩ terjatuh"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "telah mengikat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekuatan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:14.403067582Z",
+  "model": "glm-5.2"
+}

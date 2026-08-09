@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Lalu Shaul bertanya kepada Yahweh, namun Yahweh tidak menjawab ⟨dia⟩, baik dalam mimpi maupun dalam Urim maupun dalam nabi-nabi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Lalu … bertanya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "namun tidak"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "menjawab ⟨dia⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "dalam mimpi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maupun"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "dalam Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maupun"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "dalam nabi-nabi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:57:35.263981805Z",
+  "model": "glm-5.2"
+}

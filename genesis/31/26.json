@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan Lavan berkata kepada Yaakob, “Apa yang telah kauperbuat? Engkau telah mencuri ⟨את⟩ hatiku, dan engkau menuntun ⟨את⟩ anak-anak perempuanku seperti tawanan pedang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kepada Yaakob"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kauperbuat"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "engkau telah mencuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatiku"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "engkau menuntun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak perempuanku"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "anak-anak perempuanku"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "seperti tawanan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:55.667664473Z",
+  "model": "glm-5.2"
+}

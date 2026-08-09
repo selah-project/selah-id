@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Suaraku — kepada Yahweh aku berseru, dan ⟨dia⟩ menjawab aku dari gunung kekudusan-Nya. Selah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "dan ⟨dia⟩ menjawab aku"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dari gunung"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kekudusan-Nya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:06.282891341Z",
+  "model": "glm-5.2"
+}

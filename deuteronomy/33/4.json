@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Taurat yang diperintahkan Mosheh kepada kita, milik warisan jemaat Yaakob.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yang diperintahkan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "milik warisan"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:34.333364818Z",
+  "model": "glm-5.2"
+}

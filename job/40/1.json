@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Lalu Yahweh menjawab ⟨את⟩ Ayub, dan berfirman:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lalu menjawab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    }
+  ],
+  "timestamp": "2026-08-08T11:54:34.859367504Z",
+  "model": "glm-5.2"
+}

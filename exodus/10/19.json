@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Yahweh membalikkan angin laut ⟨⟨yang⟩ sangat kuat⟩, dan diangkatnya ⟨את⟩ belalang itu, dan dilemparkannya ke laut teberau. Tidak tersisa satu belalang pun di seluruh wilayah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "dan membalikkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "dan diangkatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belalang"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "belalang itu"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "dan dilemparkannya"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "teberau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "tersisa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu pun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wilayah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:40.031731564Z",
+  "model": "glm-5.2"
+}

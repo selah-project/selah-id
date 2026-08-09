@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jika pemiliknya bersama-sama dengannya, ia tidak membayar ganti rugi; jika ⟨ia⟩ orang upahan, ⟨itu⟩ datang dengan upahannya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "pemiliknya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama-sama dengannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "membayar ganti rugi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "orang upahan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "dengan upahannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:27.564104994Z",
+  "model": "glm-5.2"
+}

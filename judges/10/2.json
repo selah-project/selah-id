@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan ⟨dia⟩ menghakimi ⟨את⟩ Yisra'el dua puluh tiga tahun, lalu mati dan dikuburkan di Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Dan ⟨dia⟩ menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dan dikuburkan"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "di Shamir"
+    }
+  ],
+  "timestamp": "2026-08-08T07:41:34.582655747Z",
+  "model": "glm-5.2"
+}

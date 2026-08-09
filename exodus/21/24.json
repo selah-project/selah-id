@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "mata demi mata, gigi demi gigi, tangan demi tangan, kaki demi kaki.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "demi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "demi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "demi"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    }
+  ],
+  "timestamp": "2026-08-08T10:31:00.125462412Z",
+  "model": "glm-5.2"
+}

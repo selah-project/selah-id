@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Sebagai duri yang terjalin, dan mabuk karena minuman mereka yang mabuk, mereka dilahap seperti jerami kering sepenuhnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebagai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "karena"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "duri"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "yang terjalin"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "dan minuman mereka"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "yang mabuk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mereka dilahap"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "seperti jerami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kering"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "sepenuhnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:23.952614840Z",
+  "model": "glm-5.2"
+}

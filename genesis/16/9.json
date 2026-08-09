@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan berkatalah kepadanya Malaikat Yahweh, “Kembalilah kepada nyonyamu dan rendahkanlah diri di bawah tangannya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malaikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "nyonyamu"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "dan rendahkanlah diri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "tangannya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:01.796027033Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Atas perkara bahwa mereka tidak mendahului ⟨את⟩kamu dengan roti dan dengan air di jalan ketika kamu keluar dari Mitsrayim, dan bahwa ia menyewa terhadapmu ⟨את⟩ Bilam ben Beor, dari Pethor Aram-Naharaim, untuk mengutukmu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "mereka mendahului"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "dengan roti"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "dan dengan air"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ketika kamu keluar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan bahwa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ia menyewa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "terhadapmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "dari Pethor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "untuk mengutukmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:26.085226657Z",
+  "model": "glm-5.2"
+}

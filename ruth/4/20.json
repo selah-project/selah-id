@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Amminadav memperanakkan ⟨את⟩ Nachshon, dan Nachshon memperanakkan ⟨את⟩ Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "dan Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "dan Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:56:12.311242418Z",
+  "model": "glm-5.2"
+}

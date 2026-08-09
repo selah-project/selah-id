@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Dan pada hari kelima belas bulan ini ⟨adalah⟩ hari raya; tujuh hari roti tanpa ragi dimakan.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "Dan pada lima belas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "חג",
+      "gloss": "hari raya"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:22:14.169369684Z",
+  "model": "glm-5.2"
+}

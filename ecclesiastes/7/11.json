@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Baik hikmat bersama warisan, dan ⟨ada⟩ keuntungan bagi mereka yang melihat matahari.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "dan keuntungan"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "bagi mereka yang melihat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:48.431526454Z",
+  "model": "glm-5.2"
+}

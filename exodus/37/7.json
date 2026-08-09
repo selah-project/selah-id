@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan dibuatnya dua keruv emas, dari ukiran tempa dibuatnya ⟨את⟩ mereka, dari kedua ujung tutup pendamaian.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuatnya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruv"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ukiran tempa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "משני",
+      "gloss": "dari kedua"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup pendamaian"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:00.346486471Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "Karena Engkau telah membuat aku bersukacita, Yahweh, dalam pekerjaan-Mu; dalam perbuatan tangan-Mu aku bersorak-sorai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "Engkau telah membuat aku bersukacita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "dalam pekerjaan-Mu"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "dalam perbuatan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "aku bersorak-sorai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:16.645628497Z",
+  "model": "glm-5.2"
+}

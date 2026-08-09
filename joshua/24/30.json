@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 24:30",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Maka mereka menguburkan ⟨את⟩nya di batas wilayah warisannya, di Timnat-Serakh yang di pegunungan Efrayim, di sebelah utara gunung Ga'asy.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Maka mereka menguburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "dia (Yehoshua)"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "di batas"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "wilayah warisannya"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "di Timnat-"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "Serakh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "di sebelah utara"
+    },
+    {
+      "surface": "להר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Ga'asy"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:48.316173996Z",
+  "model": "glm-5.2"
+}

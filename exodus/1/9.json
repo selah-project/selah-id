@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ⟨ia⟩ berkata kepada kaumnya, “Lihat, kaum bani Yisrael ⟨ini⟩ lebih banyak dan lebih kuat dari padanya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaumnya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lebih banyak"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "dan lebih kuat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:13.212693589Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 21:22",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "dan aku akan menjadikan ⟨את⟩ rumahmu seperti rumah Yarav'am bin Nevat, dan seperti rumah Ba'sya bin Achiyah, karena kepahitan yang membuat ⟩kau pahit, dan yang membuat Yisra'el berdosa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan aku akan menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumahmu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumahmu"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "seperti rumah"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "dan seperti rumah"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Ba'sya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הכעס",
+      "gloss": "kepahitan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכעסת",
+      "gloss": "membuat kau pahit"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "dan membuat berdosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:57.627690436Z",
+  "model": "glm-5.2"
+}

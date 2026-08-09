@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Raja mengirim dan membebaskannya, pemerintah bangsa-bangsa, dan membebaskannya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mengirim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "dan membebaskannya"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pemerintah"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "dan membebaskannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:45.173444983Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 63,
+  "translation": "Tetapi mereka memberontak, dan menyakiti ⟨את⟩ Roh kekudusan-Nya; maka ⟨Dialah⟩ berbalik menjadi musuh bagi mereka, dan ⟨Dialah⟩ sendiri berperang melawan mereka.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "tetapi mereka"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "dan menyakiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Roh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Roh"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kekudusan-Nya"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "maka berbalik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "menjadi bagi mereka"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "melawan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:29:09.823865816Z",
+  "model": "glm-5.2"
+}

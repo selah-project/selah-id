@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Juga segala hari-harinya dalam kegelapan ia makan; dan banyak kejengkelan dan penyakitnya dan kegeraman.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hari-harinya"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ia makan"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "dan kejengkelan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "dan penyakitnya"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "dan kegeraman"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:57.408471969Z",
+  "model": "glm-5.2"
+}

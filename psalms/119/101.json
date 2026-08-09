@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dari setiap jalan kejahatan aku menahan kakiku, supaya aku menjaga firman-Mu.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "dari setiap"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "aku menahan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "aku menjaga"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firman-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:15.825700505Z",
+  "model": "glm-5.2"
+}

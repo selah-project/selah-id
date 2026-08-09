@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Karena musim dingin orang malas tidak membajak; ia meminta pada waktu panen — tetapi tidak ada apa-apa.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "karena musim dingin"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "orang malas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "membajak"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "ia meminta"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pada waktu panen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tidak ada apa-apa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:05.333260338Z",
+  "model": "glm-5.2"
+}

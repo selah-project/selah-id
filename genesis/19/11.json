@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan ⟨את⟩ orang-orang yang di pintu rumah itu mereka pukul dengan kebutaan, dari yang kecil sampai yang besar, dan mereka lelah mencari pintu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "mereka pukul"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "dengan kebutaan"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "dari yang kecil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "dan mereka lelah"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "pintu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:51.643358711Z",
+  "model": "glm-5.2"
+}

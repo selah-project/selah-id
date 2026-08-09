@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Lalu Shaul mengirim utusan untuk mengambil ⟨את⟩ David, dan ⟨Mikal⟩ berkata, “⟨Ia⟩ sakit.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu mengirim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "untuk mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:27.110134581Z",
+  "model": "glm-5.2"
+}

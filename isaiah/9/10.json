@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Yahweh meninggikan ⟨את⟩ lawan-lawan Retzin atasnya, dan ⟩את⟩ musuh-musuhnya disusupkan-Nya.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "Dan meninggikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lawan-lawan Retzin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "lawan-lawan"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retzin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "musuh-musuhnya"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuh-musuhnya"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "disusupkan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:42.562080162Z",
+  "model": "glm-5.2"
+}

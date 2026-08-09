@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Karena Yahweh merendahkan ⟨את⟩ Yehudah oleh sebab Akhaz raja Yisrael, sebab ia merusak di Yehudah dan berkhianat secara besar-besaran terhadap Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "merendahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "merusak"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "dan berkhianat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "secara besar-besaran"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "terhadap Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:15:49.428947877Z",
+  "model": "glm-5.2"
+}

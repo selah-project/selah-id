@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Bangkitlah, angkatlah anak itu, dan kuatkanlah tanganmu padanya, sebab ⟨dia⟩ akan Kubuat menjadi bangsa yang besar.”",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Bangkitlah"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak itu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "dan kuatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "menjadi bangsa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "akan Kubuat dia"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:44.740972869Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan bukan dengan kamu sendirian aku memotong ⟨את⟩ perjanjian ini dan ⟨את⟩ sumpah kutuk ini;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "dengan kamu"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian ini"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "sumpah kutuk ini"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sumpah kutuk"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T10:47:32.275347326Z",
+  "model": "glm-5.2"
+}

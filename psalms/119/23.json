@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Memang duduk ⟨para⟩ sarim, melawan aku mereka berbicara; hamba-Mu merenungkan dalam chuq-Mu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Memang"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "⟨para⟩ sarim"
+    },
+    {
+      "surface": "בי",
+      "gloss": "melawan aku"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "mereka berbicara"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "merenungkan"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "dalam chuq-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:59.677353524Z",
+  "model": "glm-5.2"
+}

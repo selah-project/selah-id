@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan siapa yang tidak menetapkan hatinya kepada firman Yahweh, meninggalkan ⟨את⟩ hamba-hambanya dan ⟨את⟩ ternaknya di padang.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Dan siapa yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "menetapkan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ternaknya"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ternaknya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    }
+  ],
+  "timestamp": "2026-08-08T12:34:55.770663525Z",
+  "model": "glm-5.2"
+}

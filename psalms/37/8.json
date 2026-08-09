@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Tariklah diri dari murka dan tinggalkanlah kepanasan; jangan berpanas hati, itu hanya membawa kepada kejahatan.",
+  "tokens": [
+    {
+      "surface": "הֶ֣רֶף",
+      "gloss": "tariklah diri"
+    },
+    {
+      "surface": "מֵ֭אַף",
+      "gloss": "dari murka"
+    },
+    {
+      "surface": "וַעֲזֹ֣ב",
+      "gloss": "dan tinggalkanlah"
+    },
+    {
+      "surface": "חֵמָ֑ה",
+      "gloss": "kepanasan"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תִּ֝תְחַ֗ר",
+      "gloss": "berpanas hati"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "לְהָרֵֽעַ",
+      "gloss": "membawa kepada kejahatan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:11.312734667Z",
+  "model": "glm-5.2"
+}

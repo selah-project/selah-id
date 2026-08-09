@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Maka Aku akan memerintahkan ⟨את⟩ berkat-Ku bagimu pada tahun keenam, dan ⟨ia⟩ akan menghasilkan ⟨את⟩ hasil tanah untuk tiga tahun.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "Maka Aku akan memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkat-Ku"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "berkat-Ku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pada tahun"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "keenam"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "dan akan menghasilkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasil tanah"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "hasil tanah"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "untuk tiga"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-08-08T07:12:45.439240404Z",
+  "model": "glm-5.2"
+}

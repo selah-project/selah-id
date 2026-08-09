@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Maka ayah ⟨הנער⟩ dan ibunya mengambil dan membawa keluar ⟨את⟩ tanda-tanda keperawanan ⟨הנער⟩ kepada para tua-tua kota, di pintu gerbang.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "maka mengambil"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨הנער⟩"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan ibunya"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "dan membawa keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanda-tanda keperawanan"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "tanda-tanda keperawanan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨הנער⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tua-tua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "di pintu gerbang"
+    }
+  ],
+  "timestamp": "2026-08-09T01:39:48.907221434Z",
+  "model": "glm-5.2"
+}

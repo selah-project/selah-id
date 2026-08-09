@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dia yang membentuk hati mereka sekalian, dia yang memahami segala perbuatan mereka.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Dia yang membentuk"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sekalian"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "dia yang memahami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "perbuatan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:07.391630010Z",
+  "model": "glm-5.2"
+}

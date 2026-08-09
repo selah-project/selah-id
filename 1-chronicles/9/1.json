@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Maka seluruh Yisra'el mendaftarkan silsilah mereka, dan sungguh, mereka tertulis pada kitab raja-raja Yisra'el; dan Yehudah — mereka dibuang ke Bavel karena pelanggaran mereka.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "maka seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "mendaftarkan silsilah"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "dan sungguh mereka"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "tertulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehudah"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "mereka dibuang"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "ke Bavel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "karena pelanggaran mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:06:07.001518471Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Lalu mereka menangkap ⟨את⟩ raja itu dan membawanya kepada raja Bavel, di Rivlah, dan mereka berbicara ⟨dengannya⟩ hukum.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "Lalu mereka menangkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja itu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "di Rivlah"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "dan mereka berbicara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨dengannya⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:00.999071606Z",
+  "model": "glm-5.2"
+}

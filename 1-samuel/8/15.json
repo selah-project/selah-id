@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan benih kalian dan kebun-anggur kalian ia akan memungut sepersepuluh, dan memberikan kepada pegawai-pegawainya dan kepada hamba-hambanya.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "Dan benih kalian"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "dan kebun-anggur kalian"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ia akan memungut sepersepuluh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "kepada pegawai-pegawainya"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "dan kepada hamba-hambanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:45.718842640Z",
+  "model": "glm-5.2"
+}

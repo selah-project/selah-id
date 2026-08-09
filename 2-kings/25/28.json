@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan ia berbicara kepadanya hal-hal baik, dan menempatkan ⟨את⟩ kursinya di atas kursi raja-raja yang bersamanya di Bavel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan ia berbicara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "hal-hal baik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kursinya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kursinya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kursi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "di Bavel"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:37.741391746Z",
+  "model": "glm-5.2"
+}

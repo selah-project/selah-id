@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Dan mereka harus menyediakan ⟨את⟩ domba itu dan ⟨את⟩ korban sajian itu dan ⟨את⟩ minyak itu, pagi demi pagi, korban bakaran tetap.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "dan mereka harus menyediakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba itu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban sajian itu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "korban sajian itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak itu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "demi pagi"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tetap"
+    }
+  ],
+  "timestamp": "2026-08-08T11:27:37.696176066Z",
+  "model": "glm-5.2"
+}

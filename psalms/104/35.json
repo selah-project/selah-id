@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Kiranya orang berdosa berakhir dari bumi, dan orang fasik — tidak ada lagi. Berkati, jiwa-ku, ⟨את⟩ Yahweh; Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "kiranya berakhir"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "orang berdosa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "dan orang fasik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "berkati"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:46.609045700Z",
+  "model": "glm-5.2"
+}

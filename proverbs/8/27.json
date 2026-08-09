@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Ketika ⟨dia⟩ menetapkan langit, di sana aku ⟨ada⟩, ketika ⟨dia⟩ menggaris lingkaran di atas permukaan samudra.",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "ketika ⟨dia⟩ menetapkan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "ketika ⟨dia⟩ menggaris"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "lingkaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "samudra"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:37.122915317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "namun kabut naik dari bumi dan mengairi ⟨את⟩ seluruh muka tanah itu.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "namun kabut"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "dan mengairi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh muka tanah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:19.866450226Z",
+  "model": "glm-5.2"
+}

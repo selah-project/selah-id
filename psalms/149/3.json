@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 149,
+  "translation": "Pujilah nama-Nya dengan tarian, dengan tef dan kinor bermusiklah bagi-Nya.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "dengan tarian"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "dengan tef"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dan kinor"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bermusiklah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:14.952398901Z",
+  "model": "glm-5.2"
+}

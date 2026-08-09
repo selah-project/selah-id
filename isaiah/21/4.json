@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Mengembara hatiku, kengerian telah menakuti aku; ⟨את⟩ senja yang kudambakan telah dijadikan bagiku menjadi kegemetaran.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "Mengembara"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kengerian"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "telah menakuti aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senja"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "senja"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "yang kudambakan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "telah dijadikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "menjadi kegemetaran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:43.259403614Z",
+  "model": "glm-5.2"
+}

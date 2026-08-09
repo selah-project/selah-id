@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Maka ⟨selesai⟩lah langit dan bumi dan segala tentara mereka.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "maka selesai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dan bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "tentara mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:16.631605499Z",
+  "model": "glm-5.2"
+}

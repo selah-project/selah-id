@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Maka Chananyah sang nabi mengambil ⟨את⟩ kayu kuk itu dari atas tengkuk Yirmeyah sang nabi, dan memecahkannya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maka mengambil"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayu kuk itu"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "kayu kuk itu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "tengkuk"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "dan memecahkannya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:17:55.131008486Z",
+  "model": "glm-5.2"
+}

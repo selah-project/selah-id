@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 62,
+  "translation": "Sampai kapan kamu akan menyerang seorang laki-laki? Kamu akan membunuh ⟨את⟩ dia, semua kamu, seperti dinding yang merosot, pagaran yang terdorong.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "kamu akan menyerang"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "kamu akan membunuh"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "semua kamu"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "seperti dinding"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "yang merosot"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "pagaran"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "yang terdorong"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:44.084087617Z",
+  "model": "glm-5.2"
+}

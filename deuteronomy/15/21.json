@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan jika ada di dalamnya cacat, pincang atau buta, segala cacat jahat, janganlah kau sembelih ⟨dia⟩ kepada Yahweh Elohim-mu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "מום",
+      "gloss": "cacat"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pincang"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "עור",
+      "gloss": "buta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מום",
+      "gloss": "cacat"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "kau sembelih"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:36.993525121Z",
+  "model": "glm-5.2"
+}

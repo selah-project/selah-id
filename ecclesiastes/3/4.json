@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Waktu untuk menangis, dan waktu untuk tertawa; waktu untuk meratap, dan waktu untuk menari.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "untuk menangis"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "untuk tertawa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "meratap"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "menari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:06.225255314Z",
+  "model": "glm-5.2"
+}

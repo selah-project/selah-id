@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan Achaḇ putra Omri berbuat kejahatan di mata Yahweh, melebihi semua yang ⟨di⟩ depannya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan berbuat"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaḇ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "melebihi semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di depannya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:04:16.726393676Z",
+  "model": "glm-5.2"
+}

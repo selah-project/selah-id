@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Selamatkanlah dari pedang napasku, dari cakar anjing kesayanganku.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "selamatkanlah"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari pedang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari cakar"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "anjing"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "kesayanganku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:33.052183532Z",
+  "model": "glm-5.2"
+}

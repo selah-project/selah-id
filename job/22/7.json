@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Air engkau tidak berikan kepada orang yang lelah, dan dari orang yang lapar engkau menahan roti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "orang yang lelah"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "engkau berikan"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "dan dari orang yang lapar"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "engkau menahan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-08T09:40:38.882211784Z",
+  "model": "glm-5.2"
+}

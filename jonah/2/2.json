@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu Yonah berdoa kepada Yahweh, Elohim-nya, dari dalam perut ikan itu.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "lalu … berdoa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nya"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "dari dalam perut"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ikan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:31:50.211361549Z",
+  "model": "glm-5.2"
+}

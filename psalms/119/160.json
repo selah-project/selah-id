@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Kepala firman-Engkau ⟨adalah⟩ kebenaran, dan untuk selamanya setiap hukum keadilan-Engkau.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Kepala"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firman-Engkau"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "dan untuk selamanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "keadilan-Engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:44.651353267Z",
+  "model": "glm-5.2"
+}

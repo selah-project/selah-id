@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dari kediaman ⟨tempat⟩ duduk-Nya ⟨הוּא⟩ mengamat ⟨אל⟩ semua penduduk bumi.",
+  "tokens": [
+    {
+      "surface": "מִֽמְּכוֹן",
+      "gloss": "dari kediaman"
+    },
+    {
+      "surface": "שִׁבְתּ֥וֹ",
+      "gloss": "duduk-Nya"
+    },
+    {
+      "surface": "הִשְׁגִּ֑יחַ",
+      "gloss": "mengamat"
+    },
+    {
+      "surface": "אֶ֖ל",
+      "gloss": "⟨אל⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "יֹשְׁבֵ֣י",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:22.864631312Z",
+  "model": "glm-5.2"
+}

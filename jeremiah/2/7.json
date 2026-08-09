@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Aku membawa ⟨את⟩ kalian ke tanah karmel, untuk memakan buahnya dan kebaikannya, tetapi kalian masuk dan menajiskan ⟨את⟩ tanah-Ku, dan warisan-Ku kalian jadikan ⟨sebagai⟩ sesuatu yang menjijikkan.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "Dan Aku membawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "karmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk memakan"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "buahnya"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "dan kebaikannya"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "tetapi kalian masuk"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "dan menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah-Ku"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tanah-Ku"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "dan warisan-Ku"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "kalian jadikan"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "sesuatu yang menjijikkan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:30:12.786854548Z",
+  "model": "glm-5.2"
+}

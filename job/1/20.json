@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Ayub berdiri dan mengoyakkan ⟨את⟩ jubahnya, dan mencukur ⟨את⟩ kepalanya, dan jatuh ke tanah, dan tersujud.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Lalu berdiri"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dan mengoyakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubahnya"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "jubahnya"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "dan mencukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepalanya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dan tersujud"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:07.300609249Z",
+  "model": "glm-5.2"
+}

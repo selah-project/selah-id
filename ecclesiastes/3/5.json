@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Waktu untuk melemparkan batu, dan waktu untuk mengumpulkan batu; waktu untuk memeluk, dan waktu untuk menjauh dari pelukan.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "untuk melemparkan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "untuk mengumpulkan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "untuk memeluk"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "untuk menjauh"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "dari pelukan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:01.730161635Z",
+  "model": "glm-5.2"
+}

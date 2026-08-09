@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan bangsa itu tidak berbalik kepada yang memukulnya, dan ⟨את⟩ Yahweh Tsevaot tidak dicari mereka.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Dan bangsa itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שב",
+      "gloss": "berbalik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "yang memukulnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yahweh Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "dicari mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:42.562270685Z",
+  "model": "glm-5.2"
+}

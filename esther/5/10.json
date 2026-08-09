@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Tetapi Haman menahan diri, dan datang ke rumahnya, dan ia menyuruh orang membawa ⟨את⟩ sahabat-sahabatnya dan ⟨את⟩ Zeresh istrinya.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "Tetapi … menahan diri"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan ia menyuruh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sahabat-sahabatnya"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "sahabat-sahabatnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "istrinya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:53.702941980Z",
+  "model": "glm-5.2"
+}

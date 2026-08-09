@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan orang-orang Pelishti mengejar Sha'ul dan mengejar putra-putranya, dan orang-orang Pelishti memukul ⟨את⟩ Yonatan dan ⟨את⟩ Avinadav dan ⟨את⟩ Malki-Syua, putra-putra Sha'ul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Dan mengejar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelishti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dan mengejar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putranya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Malki-Syua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Syua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-08T10:06:32.984553392Z",
+  "model": "glm-5.2"
+}

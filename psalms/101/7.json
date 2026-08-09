@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 101,
+  "translation": "Tidak akan tinggal di tengah-tengah rumahku ⟨orang⟩ yang melakukan kecurangan; ⟨orang⟩ yang berbicara dusta tidak akan kokoh di hadapan mataku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akan tinggal"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumahku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "kecurangan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yang berbicara"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "akan kokoh"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:00.215328038Z",
+  "model": "glm-5.2"
+}

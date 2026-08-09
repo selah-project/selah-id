@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Pembukaan firman-Mu menerangi; membuat orang bersederhana mengerti.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "pembukaan"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "menerangi"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "membuat mengerti"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "orang-orang bersederhana"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:42.873803327Z",
+  "model": "glm-5.2"
+}

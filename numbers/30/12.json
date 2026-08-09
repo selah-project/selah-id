@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "dan suaminya mendengar dan ⟪menahan suara⟫ kepadanya, tidak melarang ⟨את⟩nya, maka tegaklah segala nazar-nazarnya dan segala ikatan yang diikatnya atas nafshanya — akan tegak.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "suaminya"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "dan ⟪menahan suara⟫"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "melarang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia (objek langsung dari 'melarang')"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "maka tegaklah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "nazar-nazarnya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ikatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "diikatnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "nafshanya"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akan tegak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:43:06.935367479Z",
+  "model": "glm-5.2"
+}

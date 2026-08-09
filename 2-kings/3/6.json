@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan keluarlah raja Yehoram pada hari itu dari Shomron, dan ia mengerahkan ⟨את⟩ seluruh Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Dan keluarlah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "dari Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dan ia mengerahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T11:04:55.881220797Z",
+  "model": "glm-5.2"
+}

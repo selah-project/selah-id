@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu Yoab bersiap dan pergi ke Geshur, serta membawa ⟨את⟩ Avshalom ke Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Lalu … bersiap"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "ke Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "serta membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ke Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:20.710647533Z",
+  "model": "glm-5.2"
+}

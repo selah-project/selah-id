@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 132,
+  "translation": " demi Dawid hambamu, janganlah kausembunyikan wajah Mashíac-mu.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "demi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "kausembunyikan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashíac-mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:19.654055882Z",
+  "model": "glm-5.2"
+}

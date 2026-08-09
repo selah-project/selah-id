@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ia harus meletakkan tangannya atas kepala ⟨הָ⟩ korban bakaran itu, maka ia diterima baginya untuk menebus dia.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "Dan ia harus meletakkan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "maka ia diterima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "untuk menebus"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:17.819002725Z",
+  "model": "glm-5.2"
+}

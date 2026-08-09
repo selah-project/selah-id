@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Firman Yahweh yang terjadi kepada Yoel bin Petuel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuel"
+    }
+  ],
+  "timestamp": "2026-08-08T08:58:01.179309919Z",
+  "model": "glm-5.2"
+}

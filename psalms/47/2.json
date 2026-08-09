@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Segala bangsa, bertepuklah ⟨dengan⟩ telapak tangan! Bersorak-sorailah Elohim dengan suara sorak-sorai!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bertepuklah"
+    },
+    {
+      "surface": "כף",
+      "gloss": "telapak tangan"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengan suara"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sorak-sorai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:10.224372032Z",
+  "model": "glm-5.2"
+}

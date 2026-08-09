@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Lalu mereka mengingini keinginan di padang gurun, dan mereka mencobai El di tanah kering.",
+  "tokens": [
+    {
+      "surface": "וַיִּתְאַוּ֣וּ",
+      "gloss": "Lalu mereka mengingini"
+    },
+    {
+      "surface": "תַּאֲוָ֭ה",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "וַיְנַסּ֥וּ",
+      "gloss": "dan mereka mencobai"
+    },
+    {
+      "surface": "אֵ֝ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בִּֽישִׁימֽוֹן",
+      "gloss": "di tanah kering"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:06.867786590Z",
+  "model": "glm-5.2"
+}

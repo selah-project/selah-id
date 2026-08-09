@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Dan ⟨ia⟩ membuat ⟨את⟩ choshen, buatan ahli-desain, seperti buatan efod — emas, biru-gelap, dan ungu, dan merah-benia, dan lenan halus yang dipilin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choshen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ahli-desain"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "seperti buatan"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru-gelap"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dan ungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dan ulat-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "merah-benia"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan lenan halus"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "yang dipilin"
+    }
+  ],
+  "timestamp": "2026-08-08T07:05:30.653688946Z",
+  "model": "glm-5.2"
+}

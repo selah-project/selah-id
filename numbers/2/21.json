@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "dan pasukannya ⟨⟨dan⟩⟩ yang terhitung dari mereka ⟨adalah⟩ dua dan tiga puluh ribu dan dua ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dan pasukannya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dan yang terhitung dari mereka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dan dua ratus"
+    }
+  ],
+  "timestamp": "2026-08-08T07:14:07.842913803Z",
+  "model": "glm-5.2"
+}

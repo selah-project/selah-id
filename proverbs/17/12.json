@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Bertemu beruang yang kehilangan anaknya ⟨lebih baik baginya⟩ dari ⟨pada⟩ bertemu orang bodoh dalam kebodohannya.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "bertemu"
+    },
+    {
+      "surface": "דב",
+      "gloss": "beruang"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "kehilangan anak"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "oleh seseorang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "dalam kebodohannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:08.860111992Z",
+  "model": "glm-5.2"
+}

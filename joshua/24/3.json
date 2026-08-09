@@ -1,0 +1,93 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "joshua 24:3",
+ "book": "joshua",
+ "lang": "id",
+ "chapter": 24,
+ "translation": "Lalu Aku mengambil ⟨את⟩ bapakmu, ⟨את⟩ Avraham, dari seberang sungai itu, dan Aku menuntun ⟨את⟩ dia melalui seluruh tanah Kenaan, dan Aku memperbanyak ⟨את⟩ keturunannya, dan Aku memberikan kepadanya ⟨את⟩ Yitskhak.",
+ "tokens": [
+  {
+   "surface": "ואקח",
+   "gloss": "Lalu Aku mengambil"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "bapakmu"
+  },
+  {
+   "surface": "אביכם",
+   "gloss": "bapakmu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Avraham"
+  },
+  {
+   "surface": "אברהם",
+   "gloss": "Avraham"
+  },
+  {
+   "surface": "מעבר",
+   "gloss": "dari seberang"
+  },
+  {
+   "surface": "הנהר",
+   "gloss": "sungai itu"
+  },
+  {
+   "surface": "ואולך",
+   "gloss": "dan Aku menuntun"
+  },
+  {
+   "surface": "אותו",
+   "gloss": "⟨את⟩ dia"
+  },
+  {
+   "surface": "בכל",
+   "gloss": "melalui seluruh"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "tanah"
+  },
+  {
+   "surface": "כנען",
+   "gloss": "Kenaan"
+  },
+  {
+   "surface": "וארב",
+   "gloss": "dan Aku memperbanyak"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "keturunannya"
+  },
+  {
+   "surface": "זרעו",
+   "gloss": "keturunannya"
+  },
+  {
+   "surface": "ואתן",
+   "gloss": "dan Aku memberikan"
+  },
+  {
+   "surface": "לו",
+   "gloss": "kepadanya"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yitskhak"
+  },
+  {
+   "surface": "יצחק",
+   "gloss": "Yitskhak"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:36.036709176Z",
+ "model": "glm-5.2"
+}

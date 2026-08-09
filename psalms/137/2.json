@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 137,
+  "translation": "Pada pohon-pohon gandarusa di tengah-tengahnya, kami menggantungkan kecapi-kecapi kami.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "pohon-pohon gandarusa"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "kami menggantungkan"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kecapi-kecapi kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:18.357515740Z",
+  "model": "glm-5.2"
+}

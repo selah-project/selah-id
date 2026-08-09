@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Apabila kamu meninggalkan ⟨את⟩ Yahweh dan kamu menyembah elohim asing, maka ⟨ia⟩ akan berbalik dan mendatangkan kecelakaan kepadamu, dan ⟨ia⟩ akan membinasakan kamu, setelah ia berbuat baik kepadamu.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תַֽעַזְבוּ֙",
+      "gloss": "kamu meninggalkan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וַעֲבַדְתֶּ֖ם",
+      "gloss": "dan kamu menyembah"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "נֵכָ֑ר",
+      "gloss": "asing"
+    },
+    {
+      "surface": "וְשָׁ֨ב",
+      "gloss": "maka akan berbalik"
+    },
+    {
+      "surface": "וְהֵרַ֤ע",
+      "gloss": "dan mendatangkan kecelakaan"
+    },
+    {
+      "surface": "לָכֶם֙",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "וְכִלָּ֣ה",
+      "gloss": "dan akan membinasakan"
+    },
+    {
+      "surface": "אֶתְכֶ֔ם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אַחֲרֵ֖י",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הֵיטִ֥יב",
+      "gloss": "berbuat baik"
+    },
+    {
+      "surface": "לָכֶֽם",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T18:29:09.750485239Z",
+  "model": "glm-5.2"
+}

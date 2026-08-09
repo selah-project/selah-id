@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dengarlah ⟨את⟩ firman ini yang aku angkat atas kamu, suatu nyanyian ratu, hai bait Israel.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "atas kamu"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "nyanyian ratu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-08T08:59:39.979237767Z",
+  "model": "glm-5.2"
+}

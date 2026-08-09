@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 70,
+  "translation": "Untuk pemimpin biduan. Mizmor bagi Dawid. Untuk mengingatkan.",
+  "tokens": [
+    {
+      "surface": "לַ֝מְנַצֵּ֗חַ",
+      "gloss": "Untuk pemimpin biduan"
+    },
+    {
+      "surface": "לְדָוִ֥ד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "לְהַזְכִּֽיר",
+      "gloss": "Untuk mengingatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:57.301308494Z",
+  "model": "glm-5.2"
+}

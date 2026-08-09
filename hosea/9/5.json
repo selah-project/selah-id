@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Apakah yang akan kalian lakukan pada hari pertemuan, dan pada hari perayaan bagi Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kalian akan lakukan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "dan pada hari"
+    },
+    {
+      "surface": "חג",
+      "gloss": "perayaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:58:07.854610527Z",
+  "model": "glm-5.2"
+}

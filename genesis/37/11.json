@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Maka saudara-saudaranya cemburu kepadanya, tetapi ayahnya menjaga ⟨את⟩ perkara itu.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "maka cemburu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "tetapi ayahnya"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara itu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:33.634143844Z",
+  "model": "glm-5.2"
+}

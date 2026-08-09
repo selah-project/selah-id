@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan setelah selesai mengumumkan pendamaian ⟨את⟩ tempat kudus dan ⟨את⟩ kemah pertemuan dan ⟨את⟩ mezbah, maka ia akan mempersembahkan ⟨את⟩ kambing jantan yang hidup itu.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Dan setelah selesai"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "mengumumkan pendamaian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat kudus"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kemah pertemuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "maka ia akan mempersembahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing jantan yang hidup itu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambing jantan"
+    },
+    {
+      "surface": "החי",
+      "gloss": "yang hidup itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:47.154623304Z",
+  "model": "glm-5.2"
+}

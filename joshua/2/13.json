@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "dan kamu akan membiarkan hidup ⟨את⟩ ayahku dan ⟨את⟩ ibuku dan ⟨את⟩ saudara-saudaraku dan ⟨את⟩ saudari-saudariku dan ⟨את⟩ segala yang mereka miliki, dan kamu akan menyelamatkan ⟨את⟩ nyawa kami dari maut.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "dan kamu akan membiarkan hidup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahku"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ibuku"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudara-saudaraku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudaraku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudari-saudariku"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "saudari-saudariku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka miliki"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "dan kamu akan menyelamatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa kami"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "nyawa kami"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dari maut"
+    }
+  ],
+  "timestamp": "2026-08-08T07:33:35.218298876Z",
+  "model": "glm-5.2"
+}

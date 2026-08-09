@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Maka berjaga-jagalah kamu dengan sangat bagi napas-napas kamu, untuk mengasihi ⟨את⟩ Yahweh Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "maka berjaga-jagalah kamu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dengan sangat"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "bagi napas-napas kamu"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "untuk mengasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:50:48.813520970Z",
+  "model": "glm-5.2"
+}

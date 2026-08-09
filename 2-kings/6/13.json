@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 6:13",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨ia⟩ berkata, “Pergilah dan lihatlah di mana ⟨dia⟩ berada, dan aku akan mengirim ⟨orang⟩ dan mengambilnya.” Dan diberitahukan kepadanya, demikian: “Lihat, di Dotan.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "dan aku akan mengirim"
+    },
+    {
+      "surface": "ואקחהו",
+      "gloss": "dan mengambilnya"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "Dan diberitahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "בדתן",
+      "gloss": "di Dotan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:38.994910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Tidak mengintai dengan lidahnya, tidak berbuat kejahatan terhadap sesamanya, dan celaan tidak diangkatnya terhadap orang yang dekat kepadanya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "mengintai"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "lidahnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "terhadap sesamanya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "dan celaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "diangkatnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "orang yang dekat kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:21.482028730Z",
+  "model": "glm-5.2"
+}

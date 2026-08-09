@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lembu mengenal pemiliknya, dan keledai palungan tuannya; Yisra'el tidak mengenal, umat-Ku tidak memahami.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Lembu"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "pemiliknya"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "dan keledai"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "palungan"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "tuannya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "memahami"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:03.410588715Z",
+  "model": "glm-5.2"
+}

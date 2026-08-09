@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 53,
+  "translation": "Dan ⟨Ia⟩ memberikan ⟨את⟩ orang-orang fasik sebagai kuburnya, dan ⟨את⟩ orang kaya dalam kematian-Nya, meskipun ⟨Ia⟩ tidak melakukan kekerasan, dan tidak ada penipuan di mulut-Nya.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang fasik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kuburnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang kaya"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "dalam kematian-Nya"
+    },
+    {
+      "surface": "על",
+      "gloss": "meskipun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ia lakukan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penipuan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "di mulut-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:13:36.516499473Z",
+  "model": "glm-5.2"
+}

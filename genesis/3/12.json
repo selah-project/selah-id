@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan berkatalah ha-adam, “Ha-isyah yang engkau berikan ⟨untuk⟩ bersamaku, dialah yang memberikan kepadaku dari pohon itu, dan aku makan.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Ha-isyah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "engkau berikan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨untuk⟩ bersamaku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "yang memberikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pohon itu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dan aku makan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:19.325718071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan Yaakob mencuri hati Lavan sang Arami, tanpa memberitahukan kepadanya bahwa ⟨⟨dia⟩⟩ sedang melarikan diri.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "dan mencuri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "sang Arami"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "memberitahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "sedang melarikan diri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:31.247402730Z",
+  "model": "glm-5.2"
+}

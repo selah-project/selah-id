@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "Kepada ⟨Dia yang⟩ melakukan keajaiban ⟨yang⟩ besar ⟨sendirian⟩, sebab untuk selamanya hesed-⟨Nya⟩.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kepada ⟨Dia yang⟩ melakukan"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "keajaiban"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "⟨yang⟩ besar"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "⟨sendirian⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-⟨Nya⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:22.454873667Z",
+  "model": "glm-5.2"
+}

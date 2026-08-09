@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Buatlah aku mendengar ria dan kegembiraan; bersukarialah ⟨tulang⟩ yang telah Kauremukkan.",
+  "tokens": [
+    {
+      "surface": "תַּ֭שְׁמִיעֵנִי",
+      "gloss": "Buatlah aku mendengar"
+    },
+    {
+      "surface": "שָׂשׂ֣וֹן",
+      "gloss": "ria"
+    },
+    {
+      "surface": "וְשִׂמְחָ֑ה",
+      "gloss": "dan kegembiraan"
+    },
+    {
+      "surface": "תָּ֝גֵ֗לְנָה",
+      "gloss": "bersukarialah"
+    },
+    {
+      "surface": "עֲצָמ֥וֹת",
+      "gloss": "⟨tulang⟩"
+    },
+    {
+      "surface": "דִּכִּֽיתָ",
+      "gloss": "yang telah Kauremukkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:17.627160685Z",
+  "model": "glm-5.2"
+}

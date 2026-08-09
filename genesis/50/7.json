@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Maka naiklah Yosef untuk menguburkan ⟨את⟩ ayahnya; dan turut naik bersamanya semua hamba Paroh, para tua-tua rumahnya, dan semua tua-tua tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "maka naiklah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "untuk menguburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahnya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dan turut naiklah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tua-tua"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tua-tua"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:58.569208186Z",
+  "model": "glm-5.2"
+}

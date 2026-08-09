@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan ⟨ia⟩ berkata kepadaku, “Siapakah engkau?” Dan aku berkata kepadanya, “Orang Amaleki, akulah.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan aku berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Orang Amaleki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "akulah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:58:12.939097267Z",
+  "model": "glm-5.2"
+}

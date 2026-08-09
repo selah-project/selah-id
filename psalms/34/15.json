@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Berbaliklah dari kejahatan dan lakukanlah kebaikan; carilah shalom dan kejarlah dia.",
+  "tokens": [
+    {
+      "surface": "ס֣וּר",
+      "gloss": "berbaliklah"
+    },
+    {
+      "surface": "מֵ֭רָע",
+      "gloss": "dari kejahatan"
+    },
+    {
+      "surface": "וַעֲשֵׂה",
+      "gloss": "dan lakukanlah"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "בַּקֵּ֖שׁ",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "וְרָדְפֵֽהוּ",
+      "gloss": "dan kejarlah dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:44.362019103Z",
+  "model": "glm-5.2"
+}

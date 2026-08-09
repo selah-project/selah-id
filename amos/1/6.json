@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Demikian bersabda Yahweh: Atas tiga pemberontakan Azzah, dan atas empat, aku tidak akan menariknya kembali — atas pembuangan mereka, pembuangan yang menyeluruh, untuk menyerahkan kepada Edom.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bersabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pemberontakan"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "empat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "aku akan menariknya kembali"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "pembuangan mereka"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "pembuangan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "yang menyeluruh"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "untuk menyerahkan"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "kepada Edom"
+    }
+  ],
+  "timestamp": "2026-08-08T13:05:42.009410359Z",
+  "model": "glm-5.2"
+}

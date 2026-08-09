@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 116,
+  "translation": "Karena ⟨Ia⟩ menundukkan telingaNya kepadaku, maka dalam hari-hariku aku akan berseru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "menundukkan"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "telingaNya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "dan dalam hari-hariku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku akan berseru"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:50.163378830Z",
+  "model": "glm-5.2"
+}

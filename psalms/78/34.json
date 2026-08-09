@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Jika Ia membunuh mereka, maka mereka mencari Dia, lalu mereka kembali dan mencari El dengan sungguh-sungguh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "Ia membunuh mereka"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "maka mereka mencari Dia"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "lalu mereka kembali"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "dan mencari … dengan sungguh-sungguh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:56.039580502Z",
+  "model": "glm-5.2"
+}

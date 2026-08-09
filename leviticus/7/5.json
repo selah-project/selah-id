@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan imam itu harus membakar asap ⟨אתם⟩ di atas mezbah, persembahan api bagi Yahweh; ⟨itu⟩ persembahan salah.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Dan ... harus membakar asap"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "mereka (bagian-bagian lemak dan ginjal)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "persembahan salah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:06.757362579Z",
+  "model": "glm-5.2"
+}

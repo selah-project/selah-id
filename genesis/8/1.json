@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Maka Elohim mengingat ⟨את⟩ Noach dan ⟨את⟩ segala yang hidup dan ⟨את⟩ segala ternak yang bersama dia di dalam teivah, lalu Elohim menghembuskan angin melintasi bumi, dan air-air itu mereda.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Maka … mengingat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang hidup"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala ternak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersama dia"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "di dalam teivah"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "lalu … menghembuskan … melintasi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "על",
+      "gloss": "melintasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "dan … mereda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air-air itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:05.603785873Z",
+  "model": "glm-5.2"
+}

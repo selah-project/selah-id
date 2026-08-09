@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka Yoav dan Avishai saudaranya membunuh Avner, karena dia telah membunuh ⟨את⟩ Asahel saudara mereka di Givon dalam pertempuran.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Maka Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "dan Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "המית",
+      "gloss": "telah membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "saudara mereka"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "di Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dalam pertempuran"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:58.850997680Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Yahweh, Elohim-ku, aku berseru kepada-Mu, dan Engkau menyembuhkan aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "dan Engkau menyembuhkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:18.622298676Z",
+  "model": "glm-5.2"
+}

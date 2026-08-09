@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 79,
+  "translation": "Kami telah menjadi ⟮celaan⟯ bagi tetangga-tetangga kami, menjadi olok-olok dan cemoohan bagi orang-orang di sekeliling kami.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Kami telah menjadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "bagi tetangga-tetangga kami"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "olok-olok"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "dan cemoohan"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "bagi orang-orang di sekeliling kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:11.032817827Z",
+  "model": "glm-5.2"
+}

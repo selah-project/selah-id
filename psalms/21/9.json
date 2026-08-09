@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Tangan-Mu akan menemukan segala musuh-Mu; tangan kanan-Mu akan menemukan ⟨mereka yang⟩ membenci-Mu.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "akan menemukan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-Mu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "akan menemukan"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "membenci-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:04.042724847Z",
+  "model": "glm-5.2"
+}

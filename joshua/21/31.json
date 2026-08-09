@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "⟨את⟩ Khelkat dan ⟨את⟩ padang penggembalaannya, dan ⟨את⟩ Rekhov dan ⟨את⟩ padang penggembalaannya — kota-kota empat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang penggembalaannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Rekhov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang penggembalaannya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:37:35.998332801Z",
+  "model": "glm-5.2"
+}

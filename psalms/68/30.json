@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Dari bait-mu, ⟨yang berada⟩ di atas Yerushalayim, ⟨kepadamu⟩ raja-raja akan membawa persembahan.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Dari bait-mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kepadamu⟩"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "akan membawa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "שי",
+      "gloss": "persembahan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:05.611554144Z",
+  "model": "glm-5.2"
+}

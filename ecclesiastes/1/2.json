@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Hevel ha-velim, kata Qohelet; hevel ha-velim, ⟨segala⟩-nya ⟨adalah⟩ hevel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ha-velim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ha-velim"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨segala⟩-nya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:58.965532662Z",
+  "model": "glm-5.2"
+}

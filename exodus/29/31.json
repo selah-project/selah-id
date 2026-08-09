@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan ⟨את⟩ domba pentahbisan engkau ambil, dan engkau merebus ⟨את⟩ dagingnya di tempat kudus.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domba"
+    },
+    {
+      "surface": "איל",
+      "gloss": "domba"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pentahbisan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau ambil"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "dan engkau merebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingnya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingnya"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T10:31:16.966193290Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "⟨Ia⟩ kembali, kesusahannya, di atas kepalanya, dan ke atas puncak kepalanya kekerasannya turun.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "kesusahannya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "di atas kepalanya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan ke atas"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "puncak kepalanya"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "kekerasannya"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:25.181696867Z",
+  "model": "glm-5.2"
+}

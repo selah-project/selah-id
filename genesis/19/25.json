@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan ⟨ia⟩ memusnahkan ⟨את⟩ kota-kota ini dan ⟨את⟩ seluruh lembah, dan ⟨את⟩ seluruh penduduk kota-kota, dan tumbuh-tumbuhan tanah.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "dan memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh lembah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh penduduk kota-kota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "dan tumbuh-tumbuhan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:23.390413836Z",
+  "model": "glm-5.2"
+}

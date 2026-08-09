@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Lalu Eliyahu mengambil ⟨את⟩ anak itu dan menurunkannya dari kamar atas ke ⟨dalam⟩ rumah, serta memberikannya kepada ibunya; dan berkatalah Eliyahu, “Lihat, hidup anakmu.”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak itu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "menurunkannya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "kamar atas"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "memberikannya"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kepada ibunya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkatalah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:02.885914096Z",
+  "model": "glm-5.2"
+}

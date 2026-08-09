@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Karena batu karangku dan bentengku ⟨engkau⟩, dan demi nama-Mu, Engkau menuntunku dan membimbing aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batu karangku"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "dan bentengku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨engkau⟩"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dan demi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "Engkau menuntunku"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "dan membimbing aku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:42.124428809Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Maka ⟨ia⟩ bangkit dan pergi, dan Yehonatan masuk ke ⟨dalam⟩ kota.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "maka bangkit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "dan Yehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:11.904897329Z",
+  "model": "glm-5.2"
+}

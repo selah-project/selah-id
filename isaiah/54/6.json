@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Sebab seperti istri yang ditinggalkan dan tertekan rohnya, telah memanggil engkau Yahweh, dan ⟨seperti⟩ istri masa muda ketika ditolak — telah berfirman Elohimmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "seperti istri"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "yang ditinggalkan"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "dan tertekan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rohnya"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "telah memanggil engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "dan istri"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "masa muda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "ditolak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah berfirman"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:14.313004380Z",
+  "model": "glm-5.2"
+}

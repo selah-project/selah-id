@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan di Tav'erah, dan di Masah, dan di Qivrot-Hata'avah, kamu membuat Yahweh murka.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "Dan di Tav'erah"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "dan di Masah"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "dan di Qivrot-"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "Hata'avah"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "kamu membuat murka"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:29.597514385Z",
+  "model": "glm-5.2"
+}

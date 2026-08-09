@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "dan mereka mengaku ⟨את⟩ dosa mereka yang telah mereka perbuat, dan ⟨ia⟩ mengembalikan ⟨את⟩ ganti-ruginya pada nilainya pokok, dan seperlimanya ditambahkan di atasnya, dan diberikan kepada orang yang terhadapnya ⟨ia⟩ bersalah.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "dan mereka mengaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dosa mereka"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dosa mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka perbuat"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "dan ia mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganti-ruginya"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ganti-ruginya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pada nilainya pokok"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "dan seperlimanya"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ditambahkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan diberikan"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kepada orang yang"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "bersalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "terhadapnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:39:50.409736032Z",
+  "model": "glm-5.2"
+}

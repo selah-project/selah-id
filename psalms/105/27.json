@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Mereka menaruh di tengah mereka perkara-perkara tanda-tanda-Nya, dan mukjizat-mukjizat di tanah Kham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Mereka menaruh"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di tengah mereka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "tanda-tanda-Nya"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "dan mukjizat-mukjizat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:02.166243896Z",
+  "model": "glm-5.2"
+}

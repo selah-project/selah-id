@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Orang fasik, dalam ketinggian hidungnya, tidak mencari; tidak ada Elohim — ⟨itulah⟩ segala rancangannya.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Orang fasik"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "dalam ketinggian"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hidungnya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "rancangannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:26.531104815Z",
+  "model": "glm-5.2"
+}

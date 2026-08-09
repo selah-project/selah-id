@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Bersembahyanglah kepada Elohim ⟨dengan⟩ syukur, dan bayarlah nazarmu kepada Elyon;",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Bersembahyanglah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "dan bayarlah"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "kepada Elyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nazarmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:40.723046788Z",
+  "model": "glm-5.2"
+}

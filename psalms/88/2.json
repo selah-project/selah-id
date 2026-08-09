@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim ⟨milik⟩ keselamatanku, hari aku berteriak, pada malam hari, di hadapan-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "keselamatanku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "aku berteriak"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada malam hari"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di hadapan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:30.974079856Z",
+  "model": "glm-5.2"
+}

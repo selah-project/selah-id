@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu Elohim menimbulkan baginya ⟨seorang⟩ lawan: Rezon ben Elyada, yang melarikan diri dari Hadadezer raja Tzova, tuannya.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu menimbulkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "lawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "melarikan diri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tzova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:40.965527937Z",
+  "model": "glm-5.2"
+}

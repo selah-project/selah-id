@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Adonai Yahweh membuka telinga untukku, dan aku tidak memberontak, ke belakang aku tidak berpaling mundur.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֤י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פָּתַֽח",
+      "gloss": "membuka"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "אֹ֔זֶן",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "וְאָנֹכִ֖י",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מָרִ֑יתִי",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "אָח֖וֹר",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נְסוּגֹֽתִי",
+      "gloss": "berpaling mundur"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:33.775879979Z",
+  "model": "glm-5.2"
+}

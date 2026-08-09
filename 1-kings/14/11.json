@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "yang mati bagi Yarav'am di kota, anjing-anjing akan memakannya, dan yang mati di padang, burung langit akan memakannya, karena Yahweh telah berfirman.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "yang mati"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "bagi Yarav'am"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan memakannya"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "anjing-anjing"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "dan yang mati"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan memakannya"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:32.636347611Z",
+  "model": "glm-5.2"
+}

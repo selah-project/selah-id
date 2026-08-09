@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Ini jalan mereka — kebodohan bagi mereka; dan setelah mereka, mulut mereka menyenangkan. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan mereka"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "kebodohan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "dan setelah mereka"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "menyenangkan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:40.373861177Z",
+  "model": "glm-5.2"
+}

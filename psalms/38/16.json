@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Sebab kepada-Mu, Yahweh, aku berharap; Engkau yang menjawab, Adonai, Elohimku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "aku berharap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "yang menjawab"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:09.587218643Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Paroh mengirim ⟨orang⟩, dan lihatlah, tidak mati satu pun dari ternak Yisrael; dan menjadi beratlah hati Paroh, dan ia tidak menyuruh ⟨את⟩ bangsa itu pergi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dan mengirim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "dari ternak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu pun"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "dan menjadi beratlah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "menyuruh pergi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:03.556305625Z",
+  "model": "glm-5.2"
+}

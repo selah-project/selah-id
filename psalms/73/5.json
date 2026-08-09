@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Dalam penderitaan manusia fana mereka tidak ⟨ada⟩, dan bersama ⟨anak⟩ adam mereka tidak ditimpa.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "dalam penderitaan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "mereka tidak"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan bersama"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "mereka ditimpa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:52.302664012Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Bagaimana aku sendirian memikul beban kalian, dan muatan kalian, dan perselisihan kalian?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Bagaimana"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aku memikul"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "beban kalian"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "dan muatan kalian"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "dan perselisihan kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:13.065447336Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Sebab bintang-bintang langit dan rasi-rasinya tidak akan menyinarkan cahayanya; matahari telah menjadi gelap pada terbitnya, dan bulan tidak akan menerangi cahayanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "bintang-bintang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "dan rasi-rasinya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "akan menyinarkan"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "cahayanya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "telah menjadi gelap"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "pada terbitnya"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "dan bulan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "akan menerangi"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "cahayanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:11.589419140Z",
+  "model": "glm-5.2"
+}

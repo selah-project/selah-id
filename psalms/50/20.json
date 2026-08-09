@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Engkau duduk, terhadap saudaramu engkau berbicara; terhadap putra ibumu engkau memberi cela.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Engkau duduk"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "terhadap saudaramu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "engkau berbicara"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "terhadap putra"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau memberi"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "cela"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:28.614510493Z",
+  "model": "glm-5.2"
+}

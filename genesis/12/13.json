@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Katakanlah na, kakakku ⟨kaulah⟩, supaya baik kepadaku karena engkau, dan hiduplah napasku berkat dirimu.",
+  "tokens": [
+    {
+      "surface": "אִמְרִי",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אֲחֹתִי",
+      "gloss": "kakakku"
+    },
+    {
+      "surface": "אַתְּ",
+      "gloss": "⟨kaulah⟩",
+      "marks": "kakakku"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יִיטַב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בַּעֲבוּרֵךְ",
+      "gloss": "karena engkau"
+    },
+    {
+      "surface": "וְחָיְתָה",
+      "gloss": "dan hiduplah"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "בִּגְלָלֵךְ",
+      "gloss": "berkat dirimu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:31.303351551Z",
+  "model": "glm-5.2"
+}

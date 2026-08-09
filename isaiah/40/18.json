@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 40:18",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan kepada siapakah kamu membandingkan ⟨את⟩ El, dan seperti apakah keserupaan yang kamu susun bagi-Nya?",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "תדמיון",
+      "gloss": "kamu membandingkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩ El",
+      "marks": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan seperti apakah"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "keserupaan"
+    },
+    {
+      "surface": "תערכו",
+      "gloss": "kamu susun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:24:39.188359407Z",
+  "model": "glm-5.2"
+}

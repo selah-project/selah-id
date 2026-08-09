@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 142,
+  "translation": "Suaraku kepada Yahweh aku meraung, suaraku kepada Yahweh aku memohon belas kasihan.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Suaraku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "aku meraung"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "aku memohon belas kasihan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:42.732336503Z",
+  "model": "glm-5.2"
+}

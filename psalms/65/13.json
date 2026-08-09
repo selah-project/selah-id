@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 65,
+  "translation": "Padang-padang gurun meneteskan ⟨embun⟩, dan bukit-bukit kecil berteriak gembira; ⟨mereka⟩ diliputi ⟨dengan⟩ sukacita.",
+  "tokens": [
+    {
+      "surface": "יִ֭רְעֲפוּ",
+      "gloss": "meneteskan"
+    },
+    {
+      "surface": "נְא֣וֹת",
+      "gloss": "padang-padang"
+    },
+    {
+      "surface": "מִדְבָּ֑ר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "וְ֝גִ֗יל",
+      "gloss": "dan sukacita"
+    },
+    {
+      "surface": "גְּבָע֥וֹת",
+      "gloss": "bukit-bukit kecil"
+    },
+    {
+      "surface": "תַּחְגֹּֽרְנָה",
+      "gloss": "diliputi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:53.714025367Z",
+  "model": "glm-5.2"
+}

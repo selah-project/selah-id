@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan dari setengah suku Menashsheh: ⟨את⟩ Taanakh dan ⟨את⟩ tanah penggembalaannya, dan ⟨את⟩ Gath-Rimmon dan ⟨את⟩ tanah penggembalaannya; dua kota.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "dan dari setengah"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakh"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Gath-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-08-08T07:37:28.430025850Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "tetapi hari ketujuh ⟨adalah⟩ shabat bagi Yahweh, Elohim-mu; ⟨engkau⟩ tidak akan melakukan pekerjaan apa pun — engkau, putramu, putrimu, hambamu laki-laki, hambamu perempuan, hewanmu, atau orang asing yang di gerbang-gerbangmu:",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "tetapi hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau akan melakukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "dan putramu"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "putrimu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu laki-laki"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "dan hambamu perempuan"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "dan hewanmu"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "dan orang asingmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "di gerbang-gerbangmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:29.740845622Z",
+  "model": "glm-5.2"
+}

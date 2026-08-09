@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Betullah kebahagiaan manusia yang tidak Yahweh hitung kepadanya kesalahan, dan tidak ada dalam rohnya kecurangan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Betullah kebahagiaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yang tidak"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hitung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "dalam rohnya"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "kecurangan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:17.779139726Z",
+  "model": "glm-5.2"
+}

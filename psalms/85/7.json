@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 85,
+  "translation": "Bukankah ⟨Engkau⟩ akan kembali menghidupkan kami, sehingga umat-Mu bersukaria di dalam-Mu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "akan kembali"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "menghidupkan kami"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "sehingga umat-Mu"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bersukaria"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:35.565019141Z",
+  "model": "glm-5.2"
+}

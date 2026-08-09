@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "dan dari tanah-tanah ⟨Ia⟩ kumpulkan mereka, dari timur dan dari barat, dari utara dan dari laut.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "dan dari tanah-tanah"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "Ia kumpulkan mereka"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "dari timur"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "dan dari barat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "dari utara"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan dari laut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:21.215465902Z",
+  "model": "glm-5.2"
+}

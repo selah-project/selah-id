@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Dia, Yahweh Elohim kita; di seluruh bumi ⟨adalah⟩ penghukuman-penghukuman-Nya.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "penghukuman-penghukuman-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:17.025666831Z",
+  "model": "glm-5.2"
+}

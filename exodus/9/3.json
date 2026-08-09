@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lihat, tangan Yahweh ⟨akan⟩ menimpa ternakmu yang di padang — pada kuda, pada keledai, pada unta, pada lembu, dan pada kambing domba — wabah ⟨yang⟩ berat sangat.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "⟨akan⟩ menimpa"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "pada ternakmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "pada kuda"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "pada keledai"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "pada unta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada lembu"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "dan pada kambing domba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wabah"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "berat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:13.273195799Z",
+  "model": "glm-5.2"
+}

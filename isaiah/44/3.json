@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Sebab Aku akan menuangkan air pada ⟨yang⟩ haus, dan aliran-aliran pada tanah kering; Aku akan menuangkan ruh-Ku pada benihmu, dan berkat-Ku pada keturunanmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "Aku akan menuangkan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "⟨yang⟩ haus"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "dan aliran-aliran"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "tanah kering"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "Aku akan menuangkan"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruh-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "dan berkat-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "keturunanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:53.108110829Z",
+  "model": "glm-5.2"
+}

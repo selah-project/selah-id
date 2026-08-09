@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Lalu saudara-saudaranya pergi untuk menggembalakan ⟨את⟩ kawanan domba ayah mereka di Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "lalu pergi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "untuk menggembalakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanan domba"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan domba"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "di Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:33.634352573Z",
+  "model": "glm-5.2"
+}

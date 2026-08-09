@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Keinginan hatinya Engkau berikan kepadanya, dan permintaan bibirnya tidak Engkau halangi. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Keinginan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Engkau berikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "dan permintaan"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "bibirnya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "Engkau halangi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:29.259457253Z",
+  "model": "glm-5.2"
+}

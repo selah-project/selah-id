@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan bumi itu tercemar di bawah penduduknya, karena mereka melanggar taurat-taurat, mengubah ketetapan, membatalkan perjanjian kekal.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "dan bumi itu"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "tercemar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "penduduknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mereka melanggar"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "taurat-taurat"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "mereka mengubah"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "mereka membatalkan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kekal"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:54.201029142Z",
+  "model": "glm-5.2"
+}

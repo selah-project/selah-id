@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Aku akan segerakan pelarian bagi diriku dari angin puting beliung, dari badai.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "aku akan segerakan"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "pelarian"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi diriku"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "dari angin puting beliung"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "dari badai"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:12.416608417Z",
+  "model": "glm-5.2"
+}

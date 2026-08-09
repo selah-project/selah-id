@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ia datang dan memberitahukan kepada ⟨אִישׁ הָאֱלֹהִים⟩, dan ⟨הוּא⟩ berkata, “Pergilah, juallah ⟨את⟩ minyak itu dan bayarlah hutangmu, dan ⟨אַתְּ⟩ serta anak-anakmu dapat hidup dari sisanya.”",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Dan ia datang"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "dan memberitahukan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "juallah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak itu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "dan bayarlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hutangmu"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "hutangmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨engkau⟩"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "dapat hidup"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "dari sisanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:06.515722693Z",
+  "model": "glm-5.2"
+}

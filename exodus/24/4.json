@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan Mosheh menuliskan ⟨את⟩ segala perkataan Yahweh; dan ⟨dia⟩ bangun pagi-pagi dan membangun sebuah mezbah di bawah ⟨the⟩ gunung itu, dan dua belas tugu batu untuk dua belas suku Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "dan menuliskan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "dan bangun pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan membangun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sebuah mezbah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dan dua belas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "← (bagian dari 'dua belas')"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "tugu batu"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "untuk dua belas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "← (bagian dari 'dua belas')"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:41.495567559Z",
+  "model": "glm-5.2"
+}

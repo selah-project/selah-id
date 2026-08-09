@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan sekarang, hai raja-raja, bertindaklah bijaksana; terimalah peringatan, hakim-hakim bumi.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "מְלָכִים",
+      "gloss": "hai raja-raja"
+    },
+    {
+      "surface": "הַשְׂכִּילוּ",
+      "gloss": "bertindaklah bijaksana"
+    },
+    {
+      "surface": "הִוָּסְרוּ",
+      "gloss": "terimalah peringatan"
+    },
+    {
+      "surface": "שֹׁפְטֵי",
+      "gloss": "hakim-hakim"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:31.732233671Z",
+  "model": "glm-5.2"
+}

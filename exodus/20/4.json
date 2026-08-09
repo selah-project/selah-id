@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Janganlah engkau membuat bagimu patung pahatan, atau rupa apa pun yang ⟨ada⟩ di langit di atas, atau yang ⟨ada⟩ di bumi di bawah, atau yang ⟨ada⟩ di air di bawah bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau membuat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung pahatan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "atau segala"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "atau yang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "atau yang"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di air"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:21.478828370Z",
+  "model": "glm-5.2"
+}

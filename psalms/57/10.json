@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Aku akan mengaku-Mu di antara bangsa-bangsa, hai Adonai; aku akan bermazmur kepada-Mu di antara suku-suku.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Aku akan mengaku-Mu"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "aku akan bermazmur kepada-Mu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "suku-suku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:42.563916947Z",
+  "model": "glm-5.2"
+}

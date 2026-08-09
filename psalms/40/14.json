@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Berkenanlah, Yahweh, untuk melepaskan aku; Yahweh, untuk pertolonganku segeralah!",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "berkenanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "untuk melepaskan aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "untuk pertolonganku"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "segeralah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:34.801638539Z",
+  "model": "glm-5.2"
+}

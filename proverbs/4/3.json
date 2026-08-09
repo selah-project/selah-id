@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Sebab aku ⟨adalah⟩ anak laki-laki bagi ayahku, lembut dan anak tunggal di hadapan ibuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku adalah"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "bagi ayahku"
+    },
+    {
+      "surface": "רך",
+      "gloss": "lembut"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "dan anak tunggal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:18.388224633Z",
+  "model": "glm-5.2"
+}

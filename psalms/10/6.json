@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Ia berkata dalam hatinya, “Tidak, aku tidak akan tergoyahkan; turun-temurun, ⟨bahwa⟩ tidak ada dalam malapetaka.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ia berkata"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dalam hatinya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "aku tidak akan tergoyahkan"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "turun-"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "temurun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨bahwa⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dalam malapetaka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:28.273412984Z",
+  "model": "glm-5.2"
+}

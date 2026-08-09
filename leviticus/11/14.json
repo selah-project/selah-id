@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan ⟨את⟩ burung pemakan-bangkai, dan ⟨את⟩ elang, menurut jenisnya;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burung pemakan-bangkai"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "burung pemakan-bangkai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elang"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "elang"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "menurut jenisnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:23.968255242Z",
+  "model": "glm-5.2"
+}

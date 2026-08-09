@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan ia berkata: “Hal yang sulit kauminta. Namun jika engkau melihat ⟨את⟩ aku ketika aku diambil dari padamu, terjadilah demikian untukmu; tetapi jika tidak, maka tidak akan terjadi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ia berkata"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "kauminta hal sulit"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "untuk diminta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ketika aku diambil"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "dari padamu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "terjadilah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untukmu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tetapi jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan terjadi"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:00.071435310Z",
+  "model": "glm-5.2"
+}

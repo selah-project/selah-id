@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Jangan geser batas ⟨yang⟩ kekal, dan ke ladang anak yatim jangan masuk.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "geser"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "batas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kekal"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "dan ke ladang"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "masuk"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:46.820582874Z",
+  "model": "glm-5.2"
+}

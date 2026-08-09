@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Moab memberontak terhadap Yisra'el setelah kematian Ahab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "Dan memberontak"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "terhadap Yisra'el"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    }
+  ],
+  "timestamp": "2026-08-08T11:04:47.898411867Z",
+  "model": "glm-5.2"
+}

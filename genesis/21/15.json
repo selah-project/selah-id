@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Maka habislah air dari kirbat itu, dan ia melemparkan ⟨את⟩ anak itu di bawah salah satu semak.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "maka habislah"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "kirbat itu"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "dan ia melemparkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak itu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "salah satu"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "semak"
+    }
+  ],
+  "timestamp": "2026-08-08T06:47:23.350524318Z",
+  "model": "glm-5.2"
+}

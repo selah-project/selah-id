@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Yahweh telah menyingkapkan ⟨את⟩ lengan kekudusan-Nya di mata semua bangsa-bangsa, dan semua ujung bumi telah melihat ⟨את⟩ keselamatan Elohim kami.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "telah menyingkapkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lengan kekudusan-Nya"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kekudusan-Nya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dan telah melihat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keselamatan Elohim kami"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:17.151624270Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan memberikan sang kohen kepada para panglima seratus itu ⟨את⟩ tombak itu dan ⟨את⟩ perisai-perisai itu yang milik raja Dawit, yang ⟨di⟩ rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "kepada para panglima"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "seratus itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tombak itu"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tombak itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perisai-perisai itu"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "perisai-perisai itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "milik raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨di⟩ rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T18:32:18.959675704Z",
+  "model": "glm-5.2"
+}

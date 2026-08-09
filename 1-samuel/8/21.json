@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan Shemuël mendengar ⟨את⟩ segala perkataan ⟨ה⟩ bangsa itu, dan ⟨ia⟩ mengatakannya di telinga Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dan mendengar"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan bangsa itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "dan mengatakannya"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di telinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:29.184153072Z",
+  "model": "glm-5.2"
+}

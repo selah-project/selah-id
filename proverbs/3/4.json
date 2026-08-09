@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka engkau akan mendapat kasih karunia dan pengertian yang baik di mata Elohim dan manusia.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "maka engkau akan mendapat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "dan pengertian"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "dan manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:11.717261864Z",
+  "model": "glm-5.2"
+}

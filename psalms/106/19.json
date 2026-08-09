@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Mereka membuat anak lembu di Khoréb, dan tersungkur menyembah patung tuangan.",
+  "tokens": [
+    {
+      "surface": "יַעֲשׂוּ",
+      "gloss": "mereka membuat"
+    },
+    {
+      "surface": "עֵ֥גֶל",
+      "gloss": "anak lembu"
+    },
+    {
+      "surface": "בְּחֹרֵ֑ב",
+      "gloss": "di Khoréb"
+    },
+    {
+      "surface": "וַ֝יִּשְׁתַּחֲו֗וּ",
+      "gloss": "dan tersungkur menyembah"
+    },
+    {
+      "surface": "לְמַסֵּכָֽה",
+      "gloss": "patung tuangan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:04.311777880Z",
+  "model": "glm-5.2"
+}

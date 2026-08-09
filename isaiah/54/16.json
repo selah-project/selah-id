@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 54:16",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Sungguh, Aku, Aku telah menciptakan ⟨את⟩ tukang, yang meniup api baro, dan mengeluarkan perkakas untuk pekerjaannya; dan Aku, Aku telah menciptakan ⟨את⟩ pemusnah untuk menghancurkan.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "Aku telah menciptakan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "⟨את⟩ tukang",
+      "marks": "tukang"
+    },
+    {
+      "surface": "נפח",
+      "gloss": "yang meniup"
+    },
+    {
+      "surface": "באש",
+      "gloss": "api"
+    },
+    {
+      "surface": "פחם",
+      "gloss": "baro"
+    },
+    {
+      "surface": "ומוציא",
+      "gloss": "dan mengeluarkan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "למעשהו",
+      "gloss": "untuk pekerjaannya"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dan Aku"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "Aku telah menciptakan"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "⟨את⟩ pemusnah",
+      "marks": "pemusnah"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "untuk menghancurkan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:28.834817690Z",
+  "model": "glm-5.2"
+}

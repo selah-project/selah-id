@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan ⟨ia⟩ mengangkat tangan-Nya terhadap mereka, untuk menjatuhkan mereka ⟨את⟩ di padang gurun;",
+  "tokens": [
+    {
+      "surface": "וַיִּשָּׂ֣א",
+      "gloss": "dan ⟨ia⟩ mengangkat"
+    },
+    {
+      "surface": "יָד֣וֹ",
+      "gloss": "tangan-Nya"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "לְהַפִּ֥יל",
+      "gloss": "untuk menjatuhkan"
+    },
+    {
+      "surface": "אֹותָ֗ם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "בַּמִּדְבָּֽר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:52.890321326Z",
+  "model": "glm-5.2"
+}

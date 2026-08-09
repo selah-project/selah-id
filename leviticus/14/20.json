@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan imam itu akan menaikkan ⟨את⟩ korban bakaran dan ⟨את⟩ korban sajian ke atas mezbah, dan imam itu akan mengadakan pendamaian atasnya, dan ia menjadi bersih.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Dan akan menaikkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban sajian"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "korban sajian"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ke atas mezbah"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan mengadakan pendamaian"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dan ia menjadi bersih"
+    }
+  ],
+  "timestamp": "2026-08-08T10:36:59.386255870Z",
+  "model": "glm-5.2"
+}

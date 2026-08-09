@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "⟨Ia⟩ menjadikan badai ⟨menjadi⟩ senyap, dan ombak-ombak mereka didiamkan.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "menjadikan"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "menjadi senyap"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "dan didiamkan"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ombak-ombak mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:42.926569055Z",
+  "model": "glm-5.2"
+}

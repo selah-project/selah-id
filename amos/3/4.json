@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Apakah singa mengaum di hutan, padahal tidak ada mangsa baginya? Apakah anak singa memberikan suaranya dari sarangnya, tanpa ⟨bahwa⟩ ia telah menangkap sesuatu?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Apakah ... mengaum"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "di hutan"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "padahal ... mangsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Apakah ... memberikan"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "anak singa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "suaranya"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "dari sarangnya"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨bahwa⟩"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ia telah menangkap sesuatu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:58:59.696019462Z",
+  "model": "glm-5.2"
+}

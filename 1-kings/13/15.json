@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Lalu berkatalah ia kepadanya, \"Pergilah bersamaku ke rumah, dan makanlah roti.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bersamaku"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ke rumah"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dan makanlah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:26.069512551Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Sebab setinggi langit di atas bumi, demikianlah hesed-⟨dia⟩ berkuasa atas yang takut akan ⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "setinggi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "berkuasa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-⟨dia⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "yang takut akan ⟨dia⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:39.540470108Z",
+  "model": "glm-5.2"
+}

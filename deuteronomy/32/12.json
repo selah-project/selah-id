@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Yahweh sendirian menuntunnya, dan tidak ada bersama dia ilah asing.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "menuntunnya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilah"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:44.852762887Z",
+  "model": "glm-5.2"
+}

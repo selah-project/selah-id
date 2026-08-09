@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan berkatalah raja Mitsrayim kepada para bidan ⟨orang⟩ Iberi — yang nama ⟨dari⟩ yang satu Shifrah dan nama yang kedua Puah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kepada para bidan"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "orang Iberi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifrah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:10.935717825Z",
+  "model": "glm-5.2"
+}

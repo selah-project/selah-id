@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan orang-orang kota berkata kepada Yoash, “Keluarkan ⟨את⟩ putramu supaya ia mati, karena ia merobohkan ⟨את⟩ mazbah ha-Baal, dan karena ia menebang pohon asyera yang di atasnya.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "Keluarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putramu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putramu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "supaya ia mati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "ia merobohkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbah ha-Baal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ha-Baal"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan karena"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ia menebang"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "pohon asyera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:51:53.605535909Z",
+  "model": "glm-5.2"
+}

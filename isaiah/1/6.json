@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dari telapak kaki sampai kepala tidak ada di dalamnya ⟨yang⟩ sehat; luka dan memar dan pukulan yang masih basah — tidak ditekan dan tidak dibalut dan tidak dilunakkan dengan minyak.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "dari telapak"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sehat"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "luka"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "dan memar"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "dan pukulan"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "yang masih basah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ditekan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "dibalut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "dilunakkan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:14.672625284Z",
+  "model": "glm-5.2"
+}

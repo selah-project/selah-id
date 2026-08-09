@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "dan engkau akan mengatakan: “Beginilah kata sang raja: Taruhlah ⟨את⟩ orang ini di rumah penjara, dan berilah dia makan roti tekanan dan air tekanan sampai aku datang dengan selamat.”",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "dan engkau akan mengatakan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "taruhlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang ini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "penjara"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "dan berilah dia makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "tekanan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan air"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "tekanan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באי",
+      "gloss": "aku datang"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "dengan selamat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:05:10.918784742Z",
+  "model": "glm-5.2"
+}

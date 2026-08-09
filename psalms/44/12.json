@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Engkau menyerahkan kami seperti daging makanan, dan di antara bangsa-bangsa Engkau menyerakkan kami.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Engkau menyerahkan kami"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "seperti domba"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "dan di antara bangsa-bangsa"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "Engkau menyerakkan kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:02.208115465Z",
+  "model": "glm-5.2"
+}

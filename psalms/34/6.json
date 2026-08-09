@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Mereka menatap kepada-Nya dan berseri, dan wajah mereka tidak ⟨akan⟩ mendapat malu.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Mereka menatap"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepada-Nya"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "dan berseri"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "dan wajah mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "mendapat malu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:50.220599815Z",
+  "model": "glm-5.2"
+}

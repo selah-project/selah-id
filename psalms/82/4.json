@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 82,
+  "translation": "Lepaskanlah yang lemah dan orang yang membutuhkan; dari tangan orang-orang fasik selamatkanlah ⟨mereka⟩.",
+  "tokens": [
+    {
+      "surface": "פַּלְּטוּ",
+      "gloss": "Lepaskanlah"
+    },
+    {
+      "surface": "דַ֥ל",
+      "gloss": "yang lemah"
+    },
+    {
+      "surface": "וְאֶבְי֑וֹן",
+      "gloss": "dan orang yang membutuhkan"
+    },
+    {
+      "surface": "מִיַּ֖ד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "הַצִּֽילוּ",
+      "gloss": "selamatkanlah ⟨mereka⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:02.551852320Z",
+  "model": "glm-5.2"
+}

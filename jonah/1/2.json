@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Bangunlah, pergilah ke Ninewe, kota yang besar itu, dan berserulah terhadapnya, karena kejahatan mereka telah naik ke hadapan-Ku.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "yang besar itu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "dan berserulah"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "telah naik"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "kejahatan mereka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:00:39.773788559Z",
+  "model": "glm-5.2"
+}

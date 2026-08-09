@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 114,
+  "translation": "⟨Hai⟩ gunung-gunung, bahwa ⟨kau⟩ melompat seperti domba jantan; ⟨hai⟩ bukit-bukit, seperti anak-anak kawanan?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "kau melompat"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "seperti domba jantan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "seperti anak-anak"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:48.638273895Z",
+  "model": "glm-5.2"
+}

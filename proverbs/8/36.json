@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Tetapi yang berdosa terhadap aku menzalimi napasnya; semua yang membenci aku mencintai maut.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "tetapi yang berdosa terhadapku"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "menzalimi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "napasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "yang membenciku"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "mencintai"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:23.360137673Z",
+  "model": "glm-5.2"
+}

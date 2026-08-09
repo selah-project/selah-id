@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Dan ⟨ia⟩ mendengar ⟨את⟩ perkataan anak-anak Lavan, yang mengatakan, \"Yaakov telah mengambil ⟨את⟩ segala yang ⟨milik⟩ ayah kami, dan dari apa yang ⟨milik⟩ ayah kami ia membuat ⟨את⟩ segala kemuliaan ini.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dan mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang mengatakan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "telah mengambil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "(milik) ayah kami"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "dan dari apa yang"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "(milik) ayah kami"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:11.836612254Z",
+  "model": "glm-5.2"
+}

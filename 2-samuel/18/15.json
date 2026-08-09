@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu sepuluh orang bujang pembawa senjata Yoav mengelilingi dan memukuli ⟨את⟩ Avshalom, dan mereka membunuhnya.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bujang-bujang"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "senjata"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "memukuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "membunuhnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:00:12.275326318Z",
+  "model": "glm-5.2"
+}

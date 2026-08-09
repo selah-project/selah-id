@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan Ahab memberitahukan kepada Izebel ⟨את⟩ semua yang telah dilakukan Eliyahu, dan ⟨את⟩ semua yang telah dibunuhnya — ⟨את⟩ semua nabi itu — dengan pedang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitahukan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "kepada Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah dilakukan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "telah dibunuhnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dengan pedang"
+    }
+  ],
+  "timestamp": "2026-08-08T11:04:05.873501174Z",
+  "model": "glm-5.2"
+}

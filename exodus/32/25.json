@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan Mosheh melihat ⟨את⟩ bangsa itu, bahwa ⟨הוא⟩ telanjang, karena Aharon telah menelanjangkannya untuk ⟩cela⟨ di antara orang-orang yang bangkit melawan mereka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "telah menelanjangkannya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "untuk cela"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "di antara yang bangkit melawan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:04.003940338Z",
+  "model": "glm-5.2"
+}

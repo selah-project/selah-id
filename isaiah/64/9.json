@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 64,
+  "translation": "Kota-kota kudus-Mu telah menjadi padang gurun, Tziyon telah menjadi padang gurun, Yerushalayim ⟨menjadi⟩ keporak-porandaan.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kudus-Mu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "keporak-porandaan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:29:13.664078147Z",
+  "model": "glm-5.2"
+}

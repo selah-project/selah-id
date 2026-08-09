@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan ⟨את⟩ babi — karena ia membelah kuku tetapi tidak memuntahkan kembali makanan, najis ia bagimu; dari dagingnya tidak boleh kamu makan, dan bangkainya tidak boleh kamu sentuh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "babi"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "babi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "membelah"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "memuntahkan kembali makanan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "najis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "dari dagingnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "dan bangkainya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kamu boleh sentuh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:31.794245260Z",
+  "model": "glm-5.2"
+}

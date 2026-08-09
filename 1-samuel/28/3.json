@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Umat Shemuel telah mati, dan seluruh Yisra'el meratapinya, dan mereka menguburkan dia di Rama, yakni di kotanya. Dan Sha'ul telah menjauhkan para „obot dan ⟨את⟩ para yid'oni dari tanah itu.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Dan Shemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "dan meratapi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "dan menguburkan dia"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "di Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "dan di kotanya"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Dan Sha'ul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "telah menjauhkan"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "para „obot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para yid'oni"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "para yid'oni"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "dari tanah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:57:37.629054207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Janganlah berikan tidur kepada matamu, mengantuk kepada kelopak matamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tidur"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "kepada matamu"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "mengantuk"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "kepada kelopak matamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:28.204483944Z",
+  "model": "glm-5.2"
+}

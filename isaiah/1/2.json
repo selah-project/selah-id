@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dengarlah, hai langit, dan pasanglah telinga, hai bumi, karena Yahweh telah berfirman: Anak-anak Kubiarkan dan Kutinggikan, tetapi mereka memberontak terhadap-Ku.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hai langit"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "dan pasanglah telinga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hai bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Anak-anak"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "Kubiarkan"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "dan Kutinggikan"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tetapi mereka"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "בי",
+      "gloss": "terhadap-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:03.410468539Z",
+  "model": "glm-5.2"
+}

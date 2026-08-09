@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 143,
+  "translation": "dan janganlah datang ⟨ke dalam⟩ penghukuman terhadap ⟨את⟩ hamba-Mu, sebab tidak akan dibenarkan di hadapan-Mu ⟨seorang⟩ pun yang hidup.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨ke dalam⟩ penghukuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-Mu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "akan dibenarkan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapan-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨seorang⟩ pun"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:43.190844552Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Jika aku mengangkap sayap fajar, ⟨jika⟩ aku diam di ujung laut —",
+  "tokens": [
+    {
+      "surface": "אֶשָּׂא",
+      "gloss": "aku mengangkat"
+    },
+    {
+      "surface": "כַנְפֵי",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "שָׁחַר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "אֶשְׁכְּנָה",
+      "gloss": "aku diam"
+    },
+    {
+      "surface": "בְּאַחֲרִית",
+      "gloss": "di ujung"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:20.958325282Z",
+  "model": "glm-5.2"
+}

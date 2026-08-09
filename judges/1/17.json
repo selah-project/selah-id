@@ -1,0 +1,85 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "judges 1:17",
+ "book": "judges",
+ "lang": "id",
+ "chapter": 1,
+ "translation": "Lalu pergilah Yehudah bersama ⟨את⟩ Shim'on saudaranya, dan mereka memukul ⟨את⟩ orang Kena'an yang diam di Tsefat; dan mereka menumpas ⟨את⟩ dia, dan dipanggilnya ⟨את⟩ nama kota itu Chormah.",
+ "tokens": [
+  {
+   "surface": "וילך",
+   "gloss": "Lalu pergilah"
+  },
+  {
+   "surface": "יהודה",
+   "gloss": "Yehudah"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Shim'on"
+  },
+  {
+   "surface": "שמעון",
+   "gloss": "Shim'on"
+  },
+  {
+   "surface": "אחיו",
+   "gloss": "saudaranya"
+  },
+  {
+   "surface": "ויכו",
+   "gloss": "dan mereka memukul"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "orang Kena'an"
+  },
+  {
+   "surface": "הכנעני",
+   "gloss": "orang Kena'an"
+  },
+  {
+   "surface": "יושב",
+   "gloss": "yang diam"
+  },
+  {
+   "surface": "צפת",
+   "gloss": "di Tsefat"
+  },
+  {
+   "surface": "ויחרימו",
+   "gloss": "dan mereka menumpas"
+  },
+  {
+   "surface": "אותה",
+   "gloss": "⟨את⟩ dia",
+   "marks": "orang Kena'an / Tsefat"
+  },
+  {
+   "surface": "ויקרא",
+   "gloss": "dan dipanggilnya"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "nama"
+  },
+  {
+   "surface": "שם",
+   "gloss": "nama"
+  },
+  {
+   "surface": "העיר",
+   "gloss": "kota itu"
+  },
+  {
+   "surface": "חרמה",
+   "gloss": "Chormah"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:23.920992003Z",
+ "model": "glm-5.2"
+}

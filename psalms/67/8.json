@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 67,
+  "translation": "Elohim akan memberkati kita, dan segala ujung bumi akan takut akan ⟨את⟩-Dia.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "akan memberkati kita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "dan akan takut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:15.573106899Z",
+  "model": "glm-5.2"
+}

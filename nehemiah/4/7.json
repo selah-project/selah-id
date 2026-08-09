@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka aku menempatkan ⟨di⟩ tingkat bawah di tempat, di belakang tembok, di tempat-tempat terbuka, dan aku menempatkan ⟨את⟩ rakyat itu menurut keluarga-keluarga, dengan pedang-pedang mereka, tombak-tombak mereka, dan busur-busur mereka.",
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "Maka aku menempatkan"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "di tingkat bawah"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "di tempat-tempat terbuka"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "dan aku menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakyat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "menurut keluarga-keluarga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "pedang-pedang mereka"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "tombak-tombak mereka"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "dan busur-busur mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:59:44.974522594Z",
+  "model": "glm-5.2"
+}

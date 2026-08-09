@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Tidak akan membiarkan lapar Yahweh nefesh ⟨orang⟩ benar, tetapi keinginan orang-orang fasik ia menolak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "membiarkan lapar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "benar"
+    },
+    {
+      "surface": "והות",
+      "gloss": "tetapi keinginan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "ia menolak"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:31.462940468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Aku memikirkan hari-hari dari masa depan, tahun-tahun zaman-zaman kekal.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Aku memikirkan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dari masa depan"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "tahun-tahun"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "zaman-zaman kekal"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:07.555218892Z",
+  "model": "glm-5.2"
+}

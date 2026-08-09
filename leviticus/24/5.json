@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan engkau akan mengambil tepung yang halus, dan membakarnya menjadi dua belas kue; dua persepuluh efa ⟨adalah⟩ ⟨untuk⟩ setiap kue.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Dan engkau akan mengambil"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung yang halus"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "dan engkau akan membakar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia (yaitu, tepung itu)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "kue"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "persepuluh (efa)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "kue itu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "setiap (satu)"
+    }
+  ],
+  "timestamp": "2026-08-08T23:15:08.513758677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dosa umat-Ku mereka makan, dan kepada kesalahan mereka mereka mengangkat nafsu-nya.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Dosa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mereka makan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kesalahan mereka"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "mereka mengangkat"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafsu-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:07.323487164Z",
+  "model": "glm-5.2"
+}

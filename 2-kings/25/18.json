@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan panglima jagawali mengambil ⟨את⟩ Serayah imam kepala, dan ⟨את⟩ Tsefanyahu imam kedua, dan ⟨את⟩ ketiga-tiga penjaga ambang itu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dan mengambil"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "jagawali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tsefanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ketiga-tiga"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ketiga-tiga"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "penjaga"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ambang itu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:08:25.447728655Z",
+  "model": "glm-5.2"
+}

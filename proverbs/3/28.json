@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Jangan katakan kepada sesamamu, “Pergilah dan kembalilah, dan besok aku akan memberi,” padahal ⟨ada⟩ padamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "kepada sesamamu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "dan kembalilah"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "dan besok"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aku akan memberi"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "padahal ⟨ada⟩"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "padamu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:17.806695974Z",
+  "model": "glm-5.2"
+}

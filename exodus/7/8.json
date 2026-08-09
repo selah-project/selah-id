@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan Yahweh berfirman kepada Mosheh dan kepada Aharon, dengan mengatakan:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:13.055101117Z",
+  "model": "glm-5.2"
+}

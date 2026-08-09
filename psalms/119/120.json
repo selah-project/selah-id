@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Berdiri merinding dari ketakutan akan engkau dagingku, dan dari hukum-hukummu aku takut.",
+  "tokens": [
+    {
+      "surface": "סָמַ֣ר",
+      "gloss": "Berdiri merinding"
+    },
+    {
+      "surface": "מִפַּחְדְּךָ֣",
+      "gloss": "dari ketakutan akan engkau"
+    },
+    {
+      "surface": "בְּשָׂרִ֑י",
+      "gloss": "dagingku"
+    },
+    {
+      "surface": "וּֽמִמִּשְׁפָּטֶ֥יךָ",
+      "gloss": "dan dari hukum-hukummu"
+    },
+    {
+      "surface": "יָרֵֽאתִי",
+      "gloss": "aku takut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:03.450077047Z",
+  "model": "glm-5.2"
+}

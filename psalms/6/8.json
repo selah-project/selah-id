@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Pudarlah dari kejengkelan mataku; menua ⟨ia⟩ karena semua musuhku.",
+  "tokens": [
+    {
+      "surface": "עָֽשְׁשָׁ֣ה",
+      "gloss": "Pudarlah"
+    },
+    {
+      "surface": "מִכַּ֣עַס",
+      "gloss": "dari kejengkelan"
+    },
+    {
+      "surface": "עֵינִ֑י",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "עָֽ֝תְקָ֗ה",
+      "gloss": "menua"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "karena semua"
+    },
+    {
+      "surface": "צוֹרְרָֽי",
+      "gloss": "musuhku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:44.040158535Z",
+  "model": "glm-5.2"
+}

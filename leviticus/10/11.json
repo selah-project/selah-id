@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "dan untuk mengajarkan ⟨את⟩ bani Yisra'el ⟨את⟩ segala ketetapan yang telah difirmankan Yahweh kepada mereka dengan perantaraan Mosheh.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "dan untuk mengajarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala ketetapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan perantaraan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:28.228881442Z",
+  "model": "glm-5.2"
+}

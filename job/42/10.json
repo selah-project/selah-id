@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Maka Yahweh mengembalikan ⟨את⟩ keadaan tawanan Iyov ketika ia berdoa untuk sahabatnya; dan Yahweh menambahkan ⟨את⟩ segala milik Iyov menjadi dua kali lipat.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "maka Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan tawanan"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "keadaan tawanan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "ketika ia berdoa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "untuk"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sahabatnya"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dan menambahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "milik"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "menjadi dua kali lipat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:08.850368174Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "pahlawan dan prajurit, hakim dan nabi, peramal dan tuaan,",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "prajurit"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "dan nabi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "dan peramal"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "dan tuaan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:45.317713149Z",
+  "model": "glm-5.2"
+}

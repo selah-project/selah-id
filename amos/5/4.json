@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Sebab demikianlah firman Yahweh kepada bait Israel: Carilah aku, maka kamu akan hidup!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kepada bait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "carilah aku"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "maka kamu akan hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T08:59:39.979620882Z",
+  "model": "glm-5.2"
+}

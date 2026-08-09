@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Maka datang raja dan Haman untuk minum bersama Ester sang malkah.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "maka datang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "dan Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "untuk minum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "sang malkah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:52:45.843670942Z",
+  "model": "glm-5.2"
+}

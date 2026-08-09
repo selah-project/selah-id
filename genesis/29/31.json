@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan Yahweh melihat bahwa dibenci ⟨adalah⟩ Lea, dan ia membuka ⟨את⟩ rahimnya; tetapi Rachel mandul.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "dibenci"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "dan ia membuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahimnya"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "rahimnya"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "dan Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "mandul"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:31.399145126Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dalam hatiku aku menyimpan firman-Mu, supaya aku tidak berbuat dosa terhadap-Mu.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "dalam hatiku"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "aku menyimpan"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "aku berbuat dosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "terhadap-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:04.408539951Z",
+  "model": "glm-5.2"
+}

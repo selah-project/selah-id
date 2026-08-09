@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan setiap orang ⟨את⟩ hal-har yang dikuduskan, kepadanyalah akan menjadi; setiap orang yang memberi kepada ⟨ה⟩ imam, kepadanyalah akan menjadi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan setiap orang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hal-har yang dikuduskan"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "hal-har yang dikuduskan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanyalah"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kepada ⟨ה⟩ imam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanyalah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:15:06.058722648Z",
+  "model": "glm-5.2"
+}

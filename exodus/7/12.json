@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan mereka melemparkan masing-masing tongkatnya, dan mereka menjadi taninim; tetapi tongkat Aharon menelan ⟨את⟩ tongkat-tongkat mereka.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "dan mereka melemparkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tongkatnya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan mereka menjadi"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "taninim"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "tetapi menelan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat-tongkat mereka"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "tongkat-tongkat mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:15.605734185Z",
+  "model": "glm-5.2"
+}

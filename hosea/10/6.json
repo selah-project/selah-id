@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Bahkan ⟨את⟩ dia pun akan dibawa ke Ashur sebagai persembahan bagi Raja Yareb; rasa malu akan menimpa Efrayim, dan Yisrael akan mendapat kehinaan karena rencananya sendiri.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (patung anak lembu)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "ke Ashur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "akan dibawa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sebagai persembahan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bagi raja"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "rasa malu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akan menimpa"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "dan akan mendapat kehinaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "karena rencananya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:58:05.781656703Z",
+  "model": "glm-5.2"
+}

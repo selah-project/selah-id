@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Sebab demikian bersabda Yahweh: Suara kegemetaran kami dengar, ketakutan, dan tidak ada shalom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bersabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "kegemetaran"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kami dengar"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ketakutan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-08T12:19:07.331323870Z",
+  "model": "glm-5.2"
+}

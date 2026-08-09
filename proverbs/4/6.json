@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Janganlah meninggalkannya, dan ⟨ia⟩ akan menjagamu; cintailah dia, dan ⟨ia⟩ akan melindungimu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "meninggalkannya"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "dan ia akan menjagamu"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "cintailah dia"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "dan ia akan melindungimu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:24.223823062Z",
+  "model": "glm-5.2"
+}

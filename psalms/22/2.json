@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "El saya, El saya, mengapakah Engkau meninggalkan aku, jauh dari keselamatanku, kata-kata dari raunganku?",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El saya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El saya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "Engkau meninggalkan aku"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "dari keselamatanku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kata-kata"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "dari raunganku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:19.979909935Z",
+  "model": "glm-5.2"
+}

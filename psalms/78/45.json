@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Ia mengirim di antara mereka kawanan serangga dan itu memakan mereka, dan katak dan itu membinasakan mereka.",
+  "tokens": [
+    {
+      "surface": "יְשַׁלַּ֬ח",
+      "gloss": "Ia mengirim"
+    },
+    {
+      "surface": "בָּהֶ֣ם",
+      "gloss": "di antara mereka"
+    },
+    {
+      "surface": "עָ֭רֹב",
+      "gloss": "kawanan serangga"
+    },
+    {
+      "surface": "וַיֹּאכְלֵ֑ם",
+      "gloss": "dan itu memakan mereka"
+    },
+    {
+      "surface": "וּ֝צְפַרְדֵּ֗עַ",
+      "gloss": "dan katak"
+    },
+    {
+      "surface": "וַתַּשְׁחִיתֵֽם",
+      "gloss": "dan itu membinasakan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:25.680543549Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "dan berkata: “Tolong, saudara-saudaraku, janganlah berbuat jahat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tolong"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudaraku"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "berbuat jahat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:20:52.188518771Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ⟨ia⟩ mengukur ⟨את⟩ lebar bukaan ⟨the⟩ pintu gerbang: sepuluh hasta; panjang ⟨the⟩ pintu gerbang: tiga-belas hasta.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Dan ⟨ia⟩ mengukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebar"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bukaan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨the⟩ pintu gerbang"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨the⟩ pintu gerbang"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    }
+  ],
+  "timestamp": "2026-08-08T11:26:37.783405826Z",
+  "model": "glm-5.2"
+}

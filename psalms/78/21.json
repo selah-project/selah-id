@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Sebab itu Yahweh mendengar dan ⟨menjadi⟩ murka, dan api dinyalakan di antara Ya'akov, dan juga ⟩amarah naik di antara Yisra'el.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "dan menjadi murka"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "dan api"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "dinyalakan"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "di antara Ya'akov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "amarah"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di antara Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:26.820684774Z",
+  "model": "glm-5.2"
+}

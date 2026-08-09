@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu Yehoshua berpagi-pagi di waktu pagi dan ia mendaftarkan ⟨את⟩ bangsa itu, dan ia naik, dia dan para tua-tua Yisra'el, di depan bangsa itu, ⟨menuju⟩ Ha-Ay.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Lalu ia berpagi-pagi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di waktu pagi"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dan ia mendaftarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan ia naik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "dan para tua-tua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Ay"
+    }
+  ],
+  "timestamp": "2026-08-08T07:34:29.625215352Z",
+  "model": "glm-5.2"
+}

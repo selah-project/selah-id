@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Inilah kitab keturunan Adam. Pada hari Elohim menciptakan Adam, dalam rupa Elohim ⟨dia⟩ membuat ⟨את⟩-nya.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "menciptakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "dalam rupa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:46.589251559Z",
+  "model": "glm-5.2"
+}

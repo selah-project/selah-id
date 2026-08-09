@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Kesedihan bagi ayahnya ⟨adalah⟩ seorang anak bodoh, dan kepahitan bagi ⟨ibu⟩ yang melahirkannya.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "kesedihan"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "bagi ayahnya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "bodoh"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "dan kepahitan"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "bagi yang melahirkannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:29.307715957Z",
+  "model": "glm-5.2"
+}

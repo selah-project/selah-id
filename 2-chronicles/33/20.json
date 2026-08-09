@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dan Menashsheh tidur ⟨bersama⟩ bapak-bapaknya, dan mereka menguburkannya di ⟨rumah⟩-nya; dan Amon anaknya menjadi raja sebagai penggantinya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Dan ... tidur"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapaknya"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "dan mereka menguburkannya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "di rumahnya"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan ... menjadi raja"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sebagai penggantinya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:17:12.541634291Z",
+  "model": "glm-5.2"
+}

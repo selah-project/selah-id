@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Ingatlah ⟨pada⟩ keajaiban-⟨Nya⟩ yang telah ⟨Ia⟩ perbuat, tanda-tanda-⟨Nya⟩ dan hukum-hukum ⟨dari⟩ mulut-⟨Nya⟩,",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ingatlah"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "keajaiban-⟨Nya⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Ia⟩ perbuat"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "tanda-tanda-⟨Nya⟩"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "dan hukum-hukum"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "mulut-⟨Nya⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:51.053092410Z",
+  "model": "glm-5.2"
+}

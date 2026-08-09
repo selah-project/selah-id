@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "leviticus 26:3",
+ "book": "leviticus",
+ "lang": "id",
+ "chapter": 26,
+ "translation": "Jika dalam ketetapan-ketetapan-Ku kamu berjalan, dan ⟨את⟩ perintah-perintah-Ku kamu jaga, dan kamu melakukannya —",
+ "tokens": [
+  {
+   "surface": "אִם",
+   "gloss": "Jika"
+  },
+  {
+   "surface": "בְּחֻקֹּתַ֖י",
+   "gloss": "dalam ketetapan-ketetapan-Ku"
+  },
+  {
+   "surface": "תֵּלֵ֑כוּ",
+   "gloss": "kamu berjalan"
+  },
+  {
+   "surface": "וְאֶת",
+   "gloss": "dan ⟨את⟩",
+   "marks": "perintah-perintah-Ku"
+  },
+  {
+   "surface": "מִצְוֺתַ֣י",
+   "gloss": "perintah-perintah-Ku"
+  },
+  {
+   "surface": "תִּשְׁמְר֔וּ",
+   "gloss": "kamu jaga"
+  },
+  {
+   "surface": "וַעֲשִׂיתֶ֖ם",
+   "gloss": "dan kamu lakukan"
+  },
+  {
+   "surface": "אֹתָֽם",
+   "gloss": "⟨את⟩ mereka"
+  }
+ ],
+ "timestamp": "2026-08-09T01:38:39.073132799Z",
+ "model": "glm-5.2"
+}

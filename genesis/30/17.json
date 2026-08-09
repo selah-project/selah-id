@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan Elohim mendengarkan ⟨אל⟩ Lea, maka ⟨dia⟩ mengandung dan melahirkan bagi Yaakob putra kelima.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dan mendengarkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "maka mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "bagi Yaakob"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "kelima"
+    }
+  ],
+  "timestamp": "2026-08-08T12:30:57.893641853Z",
+  "model": "glm-5.2"
+}

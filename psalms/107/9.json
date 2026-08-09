@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Sebab ⟨dia⟩ menyaturasikan nefesh yang mendesak, dan nefesh yang lapar ⟨dia⟩ penuhi dengan kebaikan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "menyaturasikan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "yang mendesak"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "dan nefesh"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "yang lapar"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "penuhi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dengan kebaikan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:59.674011103Z",
+  "model": "glm-5.2"
+}

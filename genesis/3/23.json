@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Maka Yahweh Elohim mengirimnya keluar dari taman Eden untuk mengolah ⟨את⟩ tanah yang ia diambil dari sana.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "Maka mengirimnya keluar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "dari taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuk mengolah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambil"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:39.207458542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan ⟨Ia⟩ menyerahkan mereka ke dalam tangan bangsa-bangsa, dan pembenci-pembenci mereka berkuasa atas mereka.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "dan menyerahkan mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "dan berkuasa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "pembenci-pembenci mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:16.161535289Z",
+  "model": "glm-5.2"
+}

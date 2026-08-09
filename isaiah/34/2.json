@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Sebab geram bagi Yahweh atas segala bangsa-bangsa itu, dan murka atas segala tentara mereka; Ia telah menumpas mereka, Ia telah menyerahkan mereka ke penyembelihan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "geram"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa itu"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "dan murka"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "tentara mereka"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "Ia telah menumpas mereka"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "Ia telah menyerahkan mereka"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "ke penyembelihan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:11:49.487732213Z",
+  "model": "glm-5.2"
+}

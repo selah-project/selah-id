@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 142,
+  "translation": "Ketika lenaplah semangatku di atasku, Engkau-lah yang tahu jalan-jalanku. Di jalan yang inilah aku berjalan, mereka menyembunyikan perangkap untukku.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Ketika lenaplah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atasku"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "semangatku"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Engkau-lah yang"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "jalan-jalanku"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "Di jalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "yang inilah"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "mereka menyembunyikan"
+    },
+    {
+      "surface": "פח",
+      "gloss": "perangkap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:42.732557926Z",
+  "model": "glm-5.2"
+}

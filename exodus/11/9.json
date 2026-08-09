@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan Yahweh berfirman kepada Mosheh: Paroh tidak akan mendengarkan kalian, supaya mujizat-mujizat-Ku bertambah banyak di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akan mendengarkan"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "bertambah banyak"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mujizat-mujizat-Ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:55.079730463Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Dan menanggunglah Yosef ⟨את⟩ ayahnya dan ⟨את⟩ saudara-saudaranya dan ⟨את⟩ seluruh rumah ayahnya dengan roti menurut mulut anak-anak kecil.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "Dan menanggunglah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahnya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dengan roti"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "menurut mulut"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "anak-anak kecil"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:28.018276399Z",
+  "model": "glm-5.2"
+}

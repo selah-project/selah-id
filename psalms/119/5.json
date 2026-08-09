@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Semoga kiranya tegaklah jalan-jalanku untuk menjaga ketetapan-ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "semoga kiranya"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "tegaklah"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalanku"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk menjaga"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:42.236016355Z",
+  "model": "glm-5.2"
+}

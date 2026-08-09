@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 128,
+  "translation": "Hasil jerih payah tanganmu, engkau akan memakannya; kebahagiaan ⟨bagimu⟩, dan kebaikan ⟨bagimu⟩.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "hasil jerih payah"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(engkau akan)"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "memakannya"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "kebahagiaan"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "dan kebaikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:37.064402027Z",
+  "model": "glm-5.2"
+}

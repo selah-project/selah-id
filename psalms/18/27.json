@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dengan yang murni Engkau menunjukkan diri-Mu murni, dan dengan yang bengkok Engkau berbelit.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "yang murni"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "Engkau menunjukkan diri-Mu murni"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan dengan"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "yang bengkok"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "Engkau berbelit"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:04.417856074Z",
+  "model": "glm-5.2"
+}

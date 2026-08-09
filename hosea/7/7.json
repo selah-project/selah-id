@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Semua mereka membara seperti tanur, dan mereka memakan ⟨את⟩ para hakim mereka; semua raja mereka telah jatuh, tidak ada yang berseru di antara mereka kepada-Ku.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "semua mereka"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "membara"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "seperti tanur"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "dan mereka memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para hakim mereka"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "para hakim mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "raja-raja mereka"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yang berseru"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antara mereka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:21:50.391349323Z",
+  "model": "glm-5.2"
+}

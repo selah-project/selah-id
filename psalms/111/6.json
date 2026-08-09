@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 111,
+  "translation": "Kekuatan perbuatan-⟨dia⟩ ⟨dia⟩ umumkan kepada umat-⟨dia⟩, untuk memberikan kepada mereka milik pusaka bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "Kekuatan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "perbuatan-dia"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "umumkan"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kepada umat-dia"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "milik pusaka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:05.687085248Z",
+  "model": "glm-5.2"
+}

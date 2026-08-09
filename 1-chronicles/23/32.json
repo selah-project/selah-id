@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan mereka memelihara ⟨את⟩ tugas kemah pertemuan, dan ⟨את⟩ tugas tempat kudus, dan tugas anak-anak Aharon, saudara-saudara mereka, untuk pelayanan rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Dan mereka memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugas kemah pertemuan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tugas tempat kudus"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "dan tugas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "saudara-saudara mereka"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "untuk pelayanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:09:22.257075489Z",
+  "model": "glm-5.2"
+}

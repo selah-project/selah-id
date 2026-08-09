@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Dan ⟨את⟩ saudaramu yang termuda bawalah kepadaku, maka perkataanmu akan terbukti benar dan kamu tidak akan mati.” Dan mereka berbuat demikian.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "saudaramu yang termuda"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yang termuda"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "bawalah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "maka akan terbukti benar"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "perkataanmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "kamu akan mati"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Dan mereka berbuat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:48.300865713Z",
+  "model": "glm-5.2"
+}

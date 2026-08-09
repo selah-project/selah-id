@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu berkatalah ⟨orang⟩ Elohim, “Ke mana jatuhnya?” dan ⟨ia⟩ menunjukkan kepadanya ⟨את⟩ tempat itu, lalu ia memotong kayu dan melemparkan ke sana, dan besi itu terapung.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨orang⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ke mana"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jatuhnya"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "dan ia menunjukkan kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat itu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat itu"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "lalu ia memotong"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "dan melemparkan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan terapung"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "besi itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:30.950710407Z",
+  "model": "glm-5.2"
+}

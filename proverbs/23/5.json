@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Apakah engkau membiarkan matamu terbang ⟨ke⟩ ⟨padanya⟩? Dan ia tidak ada! Karena ia membuat bagi dirinya sayap-sayap — seperti burung nasar ia terbang ke langit.",
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "apakah engkau membiarkan terbang"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matamu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ke⟩ ⟨padanya⟩"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan ia tidak ada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ia akan membuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sayap-sayap"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "seperti burung nasar"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "dan ia terbang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ke langit"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:03.888676673Z",
+  "model": "glm-5.2"
+}

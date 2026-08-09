@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "⟨Mendidih⟩ hatiku ⟨dengan⟩ perkataan yang baik; aku berkata, perbuatan-perbuatanku ⟨tentang⟩ raja; lidahku ⟨adalah⟩ pena juru tulis yang mahir.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "⟨Mendidih⟩"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "perbuatan-perbuatanku"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨tentang⟩ raja"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lidahku"
+    },
+    {
+      "surface": "עט",
+      "gloss": "⟨adalah⟩ pena"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "juru tulis"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "yang mahir"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:19.277569517Z",
+  "model": "glm-5.2"
+}

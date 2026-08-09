@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Sebab mulut orang fasik dan mulut penipu telah membuka ⟨diri⟩ terhadapku; mereka berbicara dengan ⟨את⟩-ku ⟨dengan⟩ lidah dusta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "dan mulut"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penipu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "telah membuka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mereka berbicara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku (objek langsung dengan preposisi 'dengan\/imputasi')"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:35.271508925Z",
+  "model": "glm-5.2"
+}

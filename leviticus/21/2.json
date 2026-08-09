@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "kecuali bagi kerabatnya yang dekat kepadanya — bagi ibunya, dan bagi ayahnya, dan bagi anaknya, dan bagi anak perempuannya, dan bagi saudaranya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kecuali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "bagi kerabatnya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yang dekat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "bagi ibunya"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "dan bagi ayahnya"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "dan bagi anaknya"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "dan bagi anak perempuannya"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "dan bagi saudaranya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:11:50.342359866Z",
+  "model": "glm-5.2"
+}

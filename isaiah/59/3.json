@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Sebab telapak-telapak tanganmu najis dalam darah, dan jari-jarimu dalam kesalahan; bibirmu berbicara kebohongan, lidahmu bergumam kelaliman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "telapak-telapak tanganmu"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "najis"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dalam darah"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "dan jari-jarimu"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "dalam kesalahan"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "bibirmu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "lidahmu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kelaliman"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "bergumam"
+    }
+  ],
+  "timestamp": "2026-08-08T08:28:34.239224159Z",
+  "model": "glm-5.2"
+}

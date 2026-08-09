@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 84,
+  "translation": "Bahkan, burung pipit mendapati rumah, dan burung layang-layang sarang bagi dirinya, tempat ⟨dia⟩ menaruh anak-anaknya — ⟨את⟩ mezbah-mezbahmu, Yahweh Tsevaot, Rajaku dan Elohimku.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "צִפּ֨וֹר",
+      "gloss": "burung pipit"
+    },
+    {
+      "surface": "מָ֪צְאָה",
+      "gloss": "mendapati"
+    },
+    {
+      "surface": "בַ֡יִת",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "וּדְר֤וֹר",
+      "gloss": "dan burung layang-layang"
+    },
+    {
+      "surface": "קֵ֥ן",
+      "gloss": "sarang"
+    },
+    {
+      "surface": "לָהּ֮",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "שָׁ֪תָה",
+      "gloss": "menaruh"
+    },
+    {
+      "surface": "אֶפְרֹ֫חֶ֥יהָ",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah-mezbahmu"
+    },
+    {
+      "surface": "מִ֭זְבְּחוֹתֶיךָ",
+      "gloss": "mezbah-mezbahmu"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֑וֹת",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מַ֝לְכִּ֗י",
+      "gloss": "Rajaku"
+    },
+    {
+      "surface": "וֵאלֹהָֽי",
+      "gloss": "dan Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:16.878732613Z",
+  "model": "glm-5.2"
+}

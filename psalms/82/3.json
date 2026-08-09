@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 82,
+  "translation": "Hakimilah yang lemah dan ⟨yang⟩ yatim; orang yang tertindas dan orang miskin — benarilah ⟨terhadap mereka⟩.",
+  "tokens": [
+    {
+      "surface": "שִׁפְטוּ",
+      "gloss": "Hakimilah"
+    },
+    {
+      "surface": "דַ֥ל",
+      "gloss": "yang lemah"
+    },
+    {
+      "surface": "וְיָת֑וֹם",
+      "gloss": "dan ⟨yang⟩ yatim"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "orang yang tertindas"
+    },
+    {
+      "surface": "וָרָ֣שׁ",
+      "gloss": "dan orang miskin"
+    },
+    {
+      "surface": "הַצְדִּֽיקוּ",
+      "gloss": "benarilah ⟨terhadap mereka⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:02.551759779Z",
+  "model": "glm-5.2"
+}

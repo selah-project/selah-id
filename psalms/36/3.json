@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Sebab ia menghaluskan ⟨dirinya⟩ di matanya sendiri, untuk menemukan kesalahannya ⟨perlu⟩ dibenci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "ia menghaluskan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨dirinya⟩"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya sendiri"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "untuk menemukan"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kesalahannya"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "⟨perlu⟩ dibenci"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:19.289513962Z",
+  "model": "glm-5.2"
+}

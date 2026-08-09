@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 97,
+  "translation": "Cahaya ditaburkan bagi orang benar, dan bagi yang lurus hati ⟨⟨adalah⟩⟩ sukacita.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ditaburkan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "bagi orang benar"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "dan bagi yang lurus"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sukacita"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:01.225110400Z",
+  "model": "glm-5.2"
+}

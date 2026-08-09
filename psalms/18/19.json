@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Mereka mendahului aku pada hari bencanaku, dan Yahweh menjadi tempat bertopang bagiku.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "mereka mendahului aku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "bencanaku"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "tempat bertopang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:43.736160890Z",
+  "model": "glm-5.2"
+}

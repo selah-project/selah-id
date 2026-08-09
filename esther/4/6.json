@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka keluarlah Hatak kepada Mordekhai, ke lapangan ⟨dari⟩ kota yang di hadapan pintu gerbang sang raja.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "lapangan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:09.657698804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Jangan iri pada orang-orang jahat, dan jangan mendambakan untuk ada di antara mereka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kau-iri"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "pada orang-orang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "kau-dambakan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "untuk ada"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bersama mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:04.515456357Z",
+  "model": "glm-5.2"
+}

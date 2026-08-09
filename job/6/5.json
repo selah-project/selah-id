@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Apakah keledai liar meringkik di atas rumput segar? Apakah sapi jantan mendengus di atas makanannya?",
+  "tokens": [
+    {
+      "surface": "הֲיִֽנְהַק",
+      "gloss": "Apakah meringkik"
+    },
+    {
+      "surface": "פֶּ֥רֶא",
+      "gloss": "keledai liar"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "דֶ֑שֶׁא",
+      "gloss": "rumput segar"
+    },
+    {
+      "surface": "אִ֥ם",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "יִגְעֶה",
+      "gloss": "mendengus"
+    },
+    {
+      "surface": "שּׁ֝֗וֹר",
+      "gloss": "sapi jantan"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "בְלִילֽוֹ",
+      "gloss": "makanannya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:29.981944415Z",
+  "model": "glm-5.2"
+}

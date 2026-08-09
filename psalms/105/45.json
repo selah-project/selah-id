@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "supaya mereka menjaga ketetapan-ketetapan-Nya, dan ajaran-ajaran-Nya mereka pelihara, haliluilah Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "mereka menjaga"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ketetapan-ketetapan-Nya"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "dan ajaran-ajaran-Nya"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "mereka pelihara"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "haliluilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:37.954496215Z",
+  "model": "glm-5.2"
+}

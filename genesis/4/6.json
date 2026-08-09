@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka berkatalah Yahweh kepada Qayin: “Mengapa berobar bagi-engkau, dan mengapa jatuh wajah-engkau?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "berobar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi-engkau"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "dan mengapa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:36.863984363Z",
+  "model": "glm-5.2"
+}

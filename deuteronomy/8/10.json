@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Maka engkau akan makan dan engkau akan kenyang, dan engkau akan memuji ⟨את⟩ Yahweh, Elohim-mu, atas ⟨ה⟩ negeri ⟨yang⟩ baik yang telah diberikan-Nya kepadamu.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Maka engkau akan makan"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "dan engkau akan kenyang"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "dan engkau akan memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ה⟩ negeri"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "⟨yang⟩ baik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "telah diberikan-Nya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:45:31.958503875Z",
+  "model": "glm-5.2"
+}

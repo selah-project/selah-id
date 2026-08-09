@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Pelaku ⟨the⟩ kebenaran-kebenaran ⟨adalah⟩ Yahweh, dan ⟨the⟩ hukum-hukum bagi semua yang terinjak.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Pelaku"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "kebenaran-kebenaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "dan hukum-hukum"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "yang terinjak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:51.725413801Z",
+  "model": "glm-5.2"
+}

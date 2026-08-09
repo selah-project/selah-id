@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Tidak sanggup aku, aku sendirian, untuk membawa ⟨את⟩ seluruh umat ini, sebab terlalu berat bagiku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "untuk membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh umat ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "terlalu berat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:17:36.034689542Z",
+  "model": "glm-5.2"
+}

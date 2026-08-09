@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Dan aku memikirkan untuk mengetahui hal ini — ⟨itu⟩ penyok dalam mataku.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "dan aku memikirkan"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "penyok"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨itu⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dalam mataku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:11.606875366Z",
+  "model": "glm-5.2"
+}

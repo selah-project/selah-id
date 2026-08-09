@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan ⟨את⟩ domba itu ia harus mengganti empat kali lipat, karena ia melakukan ⟨את⟩ perkara ini, dan karena ia tidak menyayangi.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "domba itu"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "domba itu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ia harus mengganti"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "empat kali lipat"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ia melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan karena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "menyayangi"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:08.062892772Z",
+  "model": "glm-5.2"
+}

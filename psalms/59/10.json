@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Kekuatan-ku, kepada-Mulah aku menanti perlindungan; sebab Elohim ⟨adalah⟩ tempat perlindungan-ku.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Kekuatan-ku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "aku menanti perlindungan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "tempat perlindungan-ku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:52.802520717Z",
+  "model": "glm-5.2"
+}

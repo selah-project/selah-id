@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "„Bukankah hilang musuh kami, dan api memakan sisanya?”",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨tidak⟩"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "hilang"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "musuh kami"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "dan sisanya"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-08-08T09:41:00.503560213Z",
+  "model": "glm-5.2"
+}

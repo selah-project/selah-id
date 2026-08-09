@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Maka Moshe mengulurkan ⟨את⟩ tangannya ke arah langit, dan terjadilah kegelapan gulita di seluruh tanah Mitsrayim selama tiga hari.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Maka mengulurkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "gulita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "selama tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:20.440882561Z",
+  "model": "glm-5.2"
+}

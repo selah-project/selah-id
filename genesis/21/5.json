@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan Avraham ⟨berusia⟩ seratus tahun ketika lahir kepadanya ⟨את⟩ Yitskhak, putranya.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Dan Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "ketika dilahirkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putranya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:56.870537856Z",
+  "model": "glm-5.2"
+}

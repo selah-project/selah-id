@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Karena sungguh dicuri aku dari tanah orang-orang Ibrani, dan juga di sini aku tidak berbuat apa-apa, karena mereka menaruh ⟨את⟩ aku ke dalam lubang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "sungguh dicuri"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "orang-orang Ibrani"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku berbuat"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mereka menaruh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ke dalam lubang"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:31.078429356Z",
+  "model": "glm-5.2"
+}

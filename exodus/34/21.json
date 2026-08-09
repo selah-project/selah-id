@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Enam hari engkau akan bekerja, dan pada hari ketujuh engkau akan berhenti; pada waktu membajak dan pada waktu menuai engkau akan berhenti.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "engkau akan bekerja"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "dan pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "engkau akan berhenti"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "pada waktu membajak"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "dan pada waktu menuai"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "engkau akan berhenti"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:47.337948127Z",
+  "model": "glm-5.2"
+}

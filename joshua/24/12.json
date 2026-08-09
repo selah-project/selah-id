@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "joshua 24:12",
+ "book": "joshua",
+ "lang": "id",
+ "chapter": 24,
+ "translation": "Dan Aku mengutus sebelum kamu ⟨את⟩ haTzir'ah, dan ⟨ia⟩ mengusir ⟨את⟩ mereka dari hadapanmu — dua raja haEmori — bukan dengan pedangmu dan bukan dengan busurmu.",
+ "tokens": [
+  {
+   "surface": "ואשלח",
+   "gloss": "dan Aku mengutus"
+  },
+  {
+   "surface": "לפניכם",
+   "gloss": "sebelum kamu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "haTzir'ah"
+  },
+  {
+   "surface": "הצרעה",
+   "gloss": "haTzir'ah"
+  },
+  {
+   "surface": "ותגרש",
+   "gloss": "dan ⟨ia⟩ mengusir"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "מפניכם",
+   "gloss": "dari hadapanmu"
+  },
+  {
+   "surface": "שני",
+   "gloss": "dua"
+  },
+  {
+   "surface": "מלכי",
+   "gloss": "raja"
+  },
+  {
+   "surface": "האמרי",
+   "gloss": "haEmori"
+  },
+  {
+   "surface": "לא",
+   "gloss": "bukan"
+  },
+  {
+   "surface": "בחרבך",
+   "gloss": "dengan pedangmu"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "dan bukan"
+  },
+  {
+   "surface": "בקשתך",
+   "gloss": "dengan busurmu"
+  }
+ ],
+ "timestamp": "2026-08-09T01:44:05.774019574Z",
+ "model": "glm-5.2"
+}

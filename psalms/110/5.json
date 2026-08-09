@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 110,
+  "translation": "Adonai di sebelah kananmu, ⟨⟨ia⟩⟩ menghantam raja-raja pada hari amarahnya.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di"
+    },
+    {
+      "surface": "יְמִֽינְךָ֑",
+      "gloss": "kananmu"
+    },
+    {
+      "surface": "מָחַ֖ץ",
+      "gloss": "menghantam"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אַפּ֣וֹ",
+      "gloss": "amarahnya"
+    },
+    {
+      "surface": "מְלָכִֽים",
+      "gloss": "raja-raja"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:59.682213114Z",
+  "model": "glm-5.2"
+}

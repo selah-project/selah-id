@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 75,
+  "translation": "Untuk dirigen; ⟨jangan musnahkan⟩. Mizmor bagi Asaf; nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk dirigen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "⟨kau musnahkan⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:57.225569538Z",
+  "model": "glm-5.2"
+}

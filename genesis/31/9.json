@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Demikianlah Elohim telah menyelamatkan ⟨את⟩ ternak ayahmu dan memberikannya kepadaku.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "Demikianlah telah menyelamatkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ternak"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:13.509201633Z",
+  "model": "glm-5.2"
+}

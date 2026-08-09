@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "maka Aku akan mengingat ⟨את⟩ perjanjian-Ku dengan Yaakow, dan juga ⟨את⟩ perjanjian-Ku dengan Yitschak, dan juga ⟨את⟩ perjanjian-Ku dengan Avraham Aku akan ingat; dan tanah itu Aku akan ingat.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "maka Aku akan mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakow"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "Aku akan ingat"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dan tanah itu"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "Aku akan ingat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:39:23.847517932Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 58,
+  "translation": "Untuk pemimpin paduan suara. “Jangan musnahkan.” Untuk David. Miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin paduan suara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "musnahkan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:18.038880663Z",
+  "model": "glm-5.2"
+}

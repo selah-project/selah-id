@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan jika memang menebus ⟨dia akan menebus⟩ ⟨את⟩ padang itu — ⟨dia yang menguduskannya⟩ — maka ⟨ia akan menambah⟩ sepertima dari perak penilaianmu di atasnya, dan ⟨ia akan menegakkannya⟩ baginya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "memang menebus"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "⟨dia akan menebus⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padang itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang itu"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "⟨dia yang menguduskannya⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "padang itu"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "maka ⟨ia akan menambah⟩"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "sepertima"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "penilaianmu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "dan ⟨ia akan menegakkannya⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-08-08T18:25:03.477073009Z",
+  "model": "glm-5.2"
+}

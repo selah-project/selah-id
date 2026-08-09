@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 1:44",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "dan sang raja telah mengutus bersamanya ⟨את⟩ Tsadok sang kohen dan ⟨את⟩ Natan sang nabi, dan Benayahu ben Yehoyada, serta ha-Kreti dan ha-Peleti; dan mereka telah menaikkannya ke atas bagal betina sang raja.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dan telah mengutus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "dan Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "serta ha-Kreti"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "dan ha-Peleti"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "dan mereka telah menaikkannya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "Shelomo (implied)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "פרדת",
+      "gloss": "bagal betina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T08:00:32.304127133Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu Shemuël memanggil ⟨את⟩ bangsa itu kepada Yahweh di ha-Mitspah.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Lalu memanggil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "di ha-Mitspah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:02.708998903Z",
+  "model": "glm-5.2"
+}

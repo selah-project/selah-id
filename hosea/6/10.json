@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Di rumah Yisra'el aku telah melihat hal yang mengerikan; di sana ada perzinahan bagi Efrayim, Yisra'el telah menjadi najis.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "hal yang mengerikan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "perzinahan"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "bagi Efrayim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "telah menjadi najis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T08:56:20.531098255Z",
+  "model": "glm-5.2"
+}

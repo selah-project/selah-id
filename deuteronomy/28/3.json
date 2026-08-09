@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Diberkatilah engkau di kota, dan diberkatilah engkau di ladang.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Diberkatilah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "dan diberkatilah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:14.765122946Z",
+  "model": "glm-5.2"
+}

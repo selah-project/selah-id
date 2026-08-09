@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Maka berkatalah ia kepadanya: “Pergilah ⟨nah⟩, lihatlah ⟨את⟩ kesejahteraan saudara-saudaramu dan ⟨את⟩ kesejahteraan kawanan domba itu, dan bawalah kembali kepadaku kabar.” Lalu ia mengutusnya dari Lembah Khevron, dan ia tiba ke Shékhem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berkatalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nah⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesejahteraan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kesejahteraan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudara-saudaramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kesejahteraan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kesejahteraan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawanan domba itu"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "dan bawalah kembali kepadaku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kabar"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "lalu ia mengutusnya"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "dari Lembah"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan ia tiba"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ke Shékhem"
+    }
+  ],
+  "timestamp": "2026-08-08T10:24:44.460560507Z",
+  "model": "glm-5.2"
+}

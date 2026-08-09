@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Lalu Mosheh memindahkan ⟨את⟩ Yisra'el dari laut teberau, dan mereka keluar ke padang gurun Shur; dan mereka berjalan tiga hari di padang gurun, dan tidak menemui air.",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "Lalu memindahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dari laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "teberau"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "dan mereka keluar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan mereka berjalan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "menemui"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:54.039810195Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Milik-Ku Gilad, dan milik-Ku Menashsheh, dan Efrayim ⟨adalah⟩ benteng kepala-Ku, Yehudah pemberi ketetapan-Ku.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "milik-Ku"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "dan milik-Ku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "dan Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-Ku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "pemberi ketetapan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:58.382119673Z",
+  "model": "glm-5.2"
+}

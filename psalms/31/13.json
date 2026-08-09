@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Aku telah dilupakan seperti orang mati dari hati; aku telah menjadi seperti bejana yang binasa.",
+  "tokens": [
+    {
+      "surface": "נִ֭שְׁכַּחְתִּי",
+      "gloss": "aku telah dilupakan"
+    },
+    {
+      "surface": "כְּמֵ֣ת",
+      "gloss": "seperti orang mati"
+    },
+    {
+      "surface": "מִלֵּ֑ב",
+      "gloss": "dari hati"
+    },
+    {
+      "surface": "הָ֝יִ֗יתִי",
+      "gloss": "aku telah menjadi"
+    },
+    {
+      "surface": "כִּכְלִ֥י",
+      "gloss": "seperti bejana"
+    },
+    {
+      "surface": "אֹבֵֽד",
+      "gloss": "yang binasa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:44.994620324Z",
+  "model": "glm-5.2"
+}

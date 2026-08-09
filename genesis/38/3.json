@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Maka mengandunglah ⟨dia⟩ dan melahirkan seorang putra, dan ia memanggil ⟨את⟩ namanya Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "maka mengandunglah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang putra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:06.526213727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Mereka yang makan ⟨dengan⟩ kenikmatan tersiar di jalan-jalan, mereka yang dipelihara ⟨dalam⟩ kain merah memeluk tumpukan sampah.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "mereka yang makan"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "kenikmatan"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "tersiar"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "di jalan-jalan"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "mereka yang dipelihara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨dalam⟩"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "kain merah"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "memeluk"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "tumpukan sampah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:48:25.149585388Z",
+  "model": "glm-5.2"
+}

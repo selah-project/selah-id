@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 148,
+  "translation": "Pemuda-pemuda dan juga anak-anak perempuan, orang-orang tua bersama orang-orang muda",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "Pemuda-pemuda"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "orang-orang tua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "orang-orang muda"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:59.418102941Z",
+  "model": "glm-5.2"
+}

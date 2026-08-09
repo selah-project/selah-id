@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Aku menempatkan Yahweh senantiasa di hadapanku; karena dari sebelah kananku ⟨⟨adalah⟩⟩, tidaklah aku akan tergoyahkan.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Aku menempatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "senantiasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "dari sebelah kananku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidaklah"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "aku akan tergoyahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:02.589854540Z",
+  "model": "glm-5.2"
+}

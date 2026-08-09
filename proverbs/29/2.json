@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Pada waktu bertambah banyak orang benar, bersukacitalah bangsa itu; tetapi pada waktu memerintah seorang fasik, mengeluhlah bangsa.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "pada waktu bertambah banyak"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacitalah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "tetapi pada waktu memerintah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "seorang fasik"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "mengeluhlah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:55.799776728Z",
+  "model": "glm-5.2"
+}

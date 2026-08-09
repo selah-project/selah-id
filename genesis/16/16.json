@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan Avram berumur delapan puluh enam tahun ketika Hagar melahirkan ⟨את⟩ Yishmael bagi Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "dan Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "delapan puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan enam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "ketika melahirkan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "bagi Avram"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:49.739502906Z",
+  "model": "glm-5.2"
+}

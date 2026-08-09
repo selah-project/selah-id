@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan berkatalah Mosheh, “Biarlah aku menyisih, supaya aku melihat ⟨את⟩ penglihatan besar ini, mengapakah semak duri itu tidak menyala?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Biarlah aku menyisih"
+    },
+    {
+      "surface": "נא",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penglihatan besar ini"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "penglihatan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "besar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "menyala"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "semak duri itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:44.543319769Z",
+  "model": "glm-5.2"
+}

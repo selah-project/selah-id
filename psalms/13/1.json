@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Untuk pemimpin musik. Mizmar bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin musik"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:44.062026194Z",
+  "model": "glm-5.2"
+}

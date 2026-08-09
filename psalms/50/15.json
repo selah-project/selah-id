@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "dan berserulah kepada-Ku pada hari kesesakan; Aku akan meluputkan engkau, dan engkau akan memuliakan Aku.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "dan berserulah kepada-Ku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kesesakan"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "Aku akan meluputkan engkau"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "dan engkau akan memuliakan Aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:40.723129641Z",
+  "model": "glm-5.2"
+}

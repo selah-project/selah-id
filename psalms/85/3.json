@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 85,
+  "translation": "Engkau telah mengangkat ⟨את⟩ kesalahan umat-Mu, Engkau telah menutupi seluruh dosa mereka. Sela.",
+  "tokens": [
+    {
+      "surface": "נָ֭שָׂאתָ",
+      "gloss": "Engkau telah mengangkat"
+    },
+    {
+      "surface": "עֲוֺ֣ן",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "כִּסִּ֖יתָ",
+      "gloss": "Engkau telah menutupi"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "חַטָּאתָ֣ם",
+      "gloss": "dosa mereka"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:34.371385131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 71,
+  "translation": "Biarlah mulutku penuh dengan pujian kepada-Mu, sepanjang hari ⟨dengan⟩ keagungan-Mu.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "biarlah penuh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "dengan pujian kepada-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "keagungan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:33.751062414Z",
+  "model": "glm-5.2"
+}

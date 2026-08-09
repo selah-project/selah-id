@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan rakyat yang berkemah mendengar, dikatakan: Zimri telah berkomplot, dan juga ia telah memukul ⟨את⟩ raja. Maka seluruh Yisra'el menobatkan ⟨את⟩ Omri, panglima tentara, atas Yisra'el pada hari itu, di perkemahan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "yang berkemah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dikatakan"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "berkomplot"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "maka menobatkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tentara"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di perkemahan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:08.354958093Z",
+  "model": "glm-5.2"
+}

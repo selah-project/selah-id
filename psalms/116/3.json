@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 116,
+  "translation": "Tali-tali maut melingkupi aku, dan sempit-sempit Sheol menemui aku; kesesakan dan dukacita aku temui.",
+  "tokens": [
+    {
+      "surface": "אֲפָפ֤וּנִי",
+      "gloss": "melingkupi aku"
+    },
+    {
+      "surface": "חֶבְלֵי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "מָ֗וֶת",
+      "gloss": "maut"
+    },
+    {
+      "surface": "וּמְצָרֵ֣י",
+      "gloss": "dan sempit-sempit"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מְצָא֑וּנִי",
+      "gloss": "menemui aku"
+    },
+    {
+      "surface": "צָרָ֖ה",
+      "gloss": "kesesakan"
+    },
+    {
+      "surface": "וְיָג֣וֹן",
+      "gloss": "dan dukacita"
+    },
+    {
+      "surface": "אֶמְצָֽא",
+      "gloss": "aku temui"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:47.219774821Z",
+  "model": "glm-5.2"
+}

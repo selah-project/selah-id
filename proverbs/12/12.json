@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Orang fasik mendambakan benteng orang-orang jahat, tetapi akar orang-orang benar memberi.",
+  "tokens": [
+    {
+      "surface": "חָמַ֣ד",
+      "gloss": "mendambakan"
+    },
+    {
+      "surface": "רָ֭שָׁע",
+      "gloss": "Orang fasik"
+    },
+    {
+      "surface": "מְצ֣וֹד",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "רָעִ֑ים",
+      "gloss": "orang-orang jahat"
+    },
+    {
+      "surface": "וְשֹׁ֖רֶשׁ",
+      "gloss": "tetapi akar"
+    },
+    {
+      "surface": "צַדִּיקִ֣ים",
+      "gloss": "orang-orang benar"
+    },
+    {
+      "surface": "יִתֵּֽן",
+      "gloss": "memberi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:03.945280128Z",
+  "model": "glm-5.2"
+}

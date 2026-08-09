@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu Paroh memanggil Mosheh dan Aharon, dan berkata: \"Berserahlah kepada Yahweh, dan dialihkanlah katak-katak itu dari padaku dan dari umatku, maka aku akan melepas ⟨את⟩ bangsa itu, supaya mereka berkurban kepada Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu memanggil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "berserahlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "dan dialihkanlah"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak itu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari padaku"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "dan dari umatku"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "maka aku akan melepas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "supaya mereka berkurban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:07.447177328Z",
+  "model": "glm-5.2"
+}

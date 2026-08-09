@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 112,
+  "translation": "Harta dan kekayaan ⟨ada⟩ di rumahnya, dan kebenarannya berdiri tegak untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "harta"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "dan kekayaan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di rumahnya"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "dan kebenarannya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "berdiri tegak"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:59.971938989Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Karena pelanggaranku aku sendiri tahu, dan dosaku di hadapanku senantiasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pelanggaranku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "dan dosaku"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "senantiasa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:57.910300213Z",
+  "model": "glm-5.2"
+}

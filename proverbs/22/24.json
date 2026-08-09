@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Jangan bergaul dengan orang pemarah, dan dengan orang berapi-api kemarahan jangan engkau datang,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "bergaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "dengan",
+      "marks": "orang pemarah"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pemarah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan dengan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "berapi-api kemarahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "engkau datang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:52.654537565Z",
+  "model": "glm-5.2"
+}

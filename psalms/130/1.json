@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 130,
+  "translation": "Kidung naikan. Dari tempat-tempat dalam aku berseru kepada-Mu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "kidung"
+    },
+    {
+      "surface": "הַֽמַּעֲל֑וֹת",
+      "gloss": "naikan"
+    },
+    {
+      "surface": "מִמַּעֲמַקִּ֖ים",
+      "gloss": "dari tempat-tempat dalam"
+    },
+    {
+      "surface": "קְרָאתִ֣יךָ",
+      "gloss": "aku berseru kepada-Mu"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:27.427637394Z",
+  "model": "glm-5.2"
+}

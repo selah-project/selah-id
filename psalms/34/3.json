@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Di dalam Yahweh bershohorjiwa diriku; bertalahirlah orang-orang yang rendah hati, dan bersukarialah.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Di dalam Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "bershohorjiwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "diriku"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bertalahirlah"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang yang rendah hati"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "dan bersukarialah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:04.211549715Z",
+  "model": "glm-5.2"
+}

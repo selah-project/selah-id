@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 76,
+  "translation": "Sungguh, murka manusia memuji-Mu; sisa murka Kaupasangkan.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "חֲמַ֣ת",
+      "gloss": "murka"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "תּוֹדֶ֑ךָּ",
+      "gloss": "memuji-Mu"
+    },
+    {
+      "surface": "שְׁאֵרִ֖ית",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "חֵמֹ֣ת",
+      "gloss": "murka"
+    },
+    {
+      "surface": "תַּחְגֹּֽר",
+      "gloss": "Kaupasangkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:21.736170321Z",
+  "model": "glm-5.2"
+}

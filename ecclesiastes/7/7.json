@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Karena pemerasan membutakan orang bijaksana, dan suap menghancurkan ⟨את⟩ hati ⟨seorang pemberi⟩ hadiah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "pemerasan"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "membutakan"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijaksana"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "dan menghancurkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "hadiah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:25.612152046Z",
+  "model": "glm-5.2"
+}

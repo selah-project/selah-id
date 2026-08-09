@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Pasanglah telinga, hai langit, dan aku akan berbicara; dan biarlah ⟨⟩ bumi mendengar perkataan mulutku.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Pasanglah telinga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hai langit"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "dan aku akan berbicara"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "dan biarlah mendengar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-08-08T10:48:23.845965136Z",
+  "model": "glm-5.2"
+}

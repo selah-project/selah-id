@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Adapun aku, ⟨aku ini⟩ miskin dan papa, Adonai memikirkan aku; pertolonganku dan pelepasanku, Engkaulah dia — Elohim-ku, jangan tunda!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "adapun aku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan papa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "memikirkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "pertolonganku"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "dan pelepasanku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah dia"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tunda"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:19.539834428Z",
+  "model": "glm-5.2"
+}

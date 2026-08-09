@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Sebab itu segala ketetapan ⟨–⟩ aku anggap benar, segala jalan dusta aku benci.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "aku anggap benar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku benci"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:40.161808923Z",
+  "model": "glm-5.2"
+}

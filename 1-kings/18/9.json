@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan ⟨ia⟩ berkata, “Apa dosaku, bahwa engkau menyerahkan ⟨את⟩ hambamu ke dalam tangan Achab untuk membunuh aku?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "menyerahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hambamu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "untuk membunuh aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:04:04.662387815Z",
+  "model": "glm-5.2"
+}

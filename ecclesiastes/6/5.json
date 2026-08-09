@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Juga matahari tidak ia lihat, dan tidak ia kenal ⟨apa pun⟩; ⟨ada⟩ istirahat bagi yang ini dari pada yang itu.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "ia lihat"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "ia kenal"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "istirahat"
+    },
+    {
+      "surface": "לָזֶ֖ה",
+      "gloss": "bagi yang ini"
+    },
+    {
+      "surface": "מִזֶּֽה",
+      "gloss": "dari pada yang itu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:19.965052890Z",
+  "model": "glm-5.2"
+}

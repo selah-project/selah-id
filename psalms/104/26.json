@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Di sana kapal-kapal berjalan, Livyatan yang ini Engkau bentuk untuk bermain di dalamnya.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Di sana"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kapal-kapal"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang ini"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "Engkau bentuk"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "untuk bermain"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:14.314869938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Angkatlah diri-Mu, ⟨Engkau⟩ Hakim ⟨ה⟩ bumi; berikanlah balasan atas orang-orang sombong!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "angkatlah diri-Mu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Hakim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "berikanlah balasan"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "balasan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "orang-orang sombong"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:00.066008659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Untuk pemimpin biduan; bagi bani Korach. Maskil.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin biduan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:59.060512679Z",
+  "model": "glm-5.2"
+}

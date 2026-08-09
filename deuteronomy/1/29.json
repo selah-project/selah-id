@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu aku berkata kepada kalian: jangan terkejut dan jangan takut kepada mereka.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Lalu aku berkata"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kepada kalian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "kalian terkejut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "kalian takut"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:34.849186531Z",
+  "model": "glm-5.2"
+}

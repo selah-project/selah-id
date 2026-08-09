@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "⟨ kepada Dia ⟩ yang memimpin umat-Nya di padang gurun, sebab untuk selama-lamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "⟨kepada Dia⟩ yang memimpin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:26.375249933Z",
+  "model": "glm-5.2"
+}

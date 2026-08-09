@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Janganlah engkau memulutkan lembu yang mengirik ⟨gandumnya⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "engkau memulutkan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "yang mengirik"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:45.717890192Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Aduh, hai sang perusak, padahal engkau tidak ⟨dirusak⟩, dan hai pengkhianat, padahal tidak orang berkhianat terhadapnya! Seperti engkau berhenti merusak, engkau akan dirusak; seperti engkau menyelesaikan berkhianat, mereka akan berkhianat terhadapmu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "sang perusak"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "padahal engkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "dirusak"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "dan pengkhianat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "padahal tidak"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "berkhianat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "seperti engkau berhenti"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "merusak"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "engkau akan dirusak"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "seperti engkau menyelesaikan"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "berkhianat"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "mereka akan berkhianat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "terhadapmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:22:33.007289565Z",
+  "model": "glm-5.2"
+}

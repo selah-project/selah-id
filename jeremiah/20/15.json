@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Terkutuklah ⟨האישׁ⟩ orang yang memberitahukan ⟨את⟩ ayahku, dengan mengatakan, “Telah lahir bagimu anak laki-laki,” menyenangkan ⟨dia⟩ dengan sukacita besar.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "terkutuklah"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨האישׁ⟩ orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "memberitahukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahku"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "telah lahir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "menyenangkan"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "dengan sukacita besar"
+    }
+  ],
+  "timestamp": "2026-08-08T08:34:36.179183563Z",
+  "model": "glm-5.2"
+}

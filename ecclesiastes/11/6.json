@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Di pagi hari taburkanlah ⟨את⟩ benihmu, dan di sore hari janganlah kauistirahatkan tanganmu, sebab engkau tidak mengetahui yang mana yang akan berhasil — yang ini ataukah yang itu — dan jika kedua-duanya ⟨bersama-sama⟩, baiklah mereka.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "di pagi hari"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "taburkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benihmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "dan di sore hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "kauistirahatkan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "engkau tidak"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "אי",
+      "gloss": "yang mana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "akan berhasil"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yang ini"
+    },
+    {
+      "surface": "או",
+      "gloss": "ataukah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang itu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kedua-duanya"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "baiklah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:46.216794450Z",
+  "model": "glm-5.2"
+}

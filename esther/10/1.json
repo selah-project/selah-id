@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan raja Achashverosh menetapkan pajak atas bumi dan kepulauan laut.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dan menetapkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "pajak"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "dan kepulauan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:52:14.916386668Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan kepada Ever lahir dua putera: nama ⟨yang⟩ satu Peleg, sebab dalam hari-harinya terbelahlah bumi, dan nama saudaranya Yoqtan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "Dan kepada Ever"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lahir"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putera"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "dalam hari-harinya"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "terbelahlah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoqtan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:58.014942026Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan kepada Avram berbuat baik karena dirinya, maka ada baginya kambing-domba dan lembu, dan keledai jantan, dan budak laki-laki dan budak perempuan, dan keledai betina, dan unta.",
+  "tokens": [
+    {
+      "surface": "וּלְאַבְרָם",
+      "gloss": "Dan kepada Avram"
+    },
+    {
+      "surface": "הֵיטִיב",
+      "gloss": "berbuat baik"
+    },
+    {
+      "surface": "בַּעֲבוּרָהּ",
+      "gloss": "karena dirinya"
+    },
+    {
+      "surface": "וַיְהִי",
+      "gloss": "maka ada"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "צֹאן",
+      "gloss": "kambing-domba"
+    },
+    {
+      "surface": "וּבָקָר",
+      "gloss": "dan lembu"
+    },
+    {
+      "surface": "וַחֲמֹרִים",
+      "gloss": "dan keledai jantan"
+    },
+    {
+      "surface": "וַעֲבָדִים",
+      "gloss": "dan budak laki-laki"
+    },
+    {
+      "surface": "וּשְׁפָחֹת",
+      "gloss": "dan budak perempuan"
+    },
+    {
+      "surface": "וַאֲתֹנֹת",
+      "gloss": "dan keledai betina"
+    },
+    {
+      "surface": "וּגְמַלִּים",
+      "gloss": "dan unta"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:31.303801726Z",
+  "model": "glm-5.2"
+}

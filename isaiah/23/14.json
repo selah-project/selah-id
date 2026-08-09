@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Merataplah, hai kapal-kapal Tarshish, karena bentengmu telah dihancurkan!",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Merataplah"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kapal-kapal"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "telah dihancurkan"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "bentengmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:20:27.485074927Z",
+  "model": "glm-5.2"
+}

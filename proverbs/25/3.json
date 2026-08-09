@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Langit ⟨karena⟩ ketinggian dan bumi ⟨karena⟩ kedalaman, dan hati raja-raja tidak terdapat batas penyelidikan.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Langit"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "⟨karena⟩ ketinggian"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan bumi"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "⟨karena⟩ kedalaman"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dan hati"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak terdapat"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "batas penyelidikan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:22.034040693Z",
+  "model": "glm-5.2"
+}

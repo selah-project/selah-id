@@ -1,0 +1,85 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "jeremiah 25:18",
+ "book": "jeremiah",
+ "lang": "id",
+ "chapter": 25,
+ "translation": "⟨את⟩ Yerushalayim dan ⟨את⟩ kota-kota Yehudah dan ⟨את⟩ raja-raja-nya, ⟨את⟩ para pemimpin-nya, untuk membuat ⟨את⟩ mereka menjadi kekosongan, menjadi kengerian, menjadi siulan, dan menjadi kutukan, seperti pada hari ini.",
+ "tokens": [
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yerushalayim"
+  },
+  {
+   "surface": "ירושלם",
+   "gloss": "Yerushalayim"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "dan ⟨את⟩",
+   "marks": "kota-kota"
+  },
+  {
+   "surface": "ערי",
+   "gloss": "kota-kota"
+  },
+  {
+   "surface": "יהודה",
+   "gloss": "Yehudah"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "dan ⟨את⟩",
+   "marks": "raja-raja-nya"
+  },
+  {
+   "surface": "מלכיה",
+   "gloss": "raja-raja-nya"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "para pemimpin-nya"
+  },
+  {
+   "surface": "שריה",
+   "gloss": "para pemimpin-nya"
+  },
+  {
+   "surface": "לתת",
+   "gloss": "untuk membuat"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "לחרבה",
+   "gloss": "menjadi kekosongan"
+  },
+  {
+   "surface": "לשמה",
+   "gloss": "menjadi kengerian"
+  },
+  {
+   "surface": "לשרקה",
+   "gloss": "menjadi siulan"
+  },
+  {
+   "surface": "ולקללה",
+   "gloss": "dan menjadi kutukan"
+  },
+  {
+   "surface": "כיום",
+   "gloss": "seperti pada hari"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "ini"
+  }
+ ],
+ "timestamp": "2026-08-09T01:42:26.036857821Z",
+ "model": "glm-5.2"
+}

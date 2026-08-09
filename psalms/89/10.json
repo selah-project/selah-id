@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Engkau memerintah ⟨atas⟩ keangkuhan laut; ⟨saat⟩ ombaknya naik, Engkau menenangkan mereka.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "keangkuhan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "saat naik"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ombaknya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "menenangkan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:17.164345873Z",
+  "model": "glm-5.2"
+}

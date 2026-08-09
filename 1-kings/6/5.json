@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨ia⟩ membangun pada dinding rumah itu sayap bangunan sekeliling, ⟨את⟩ dinding-dinding rumah itu sekeliling, bagi haheikal dan bagi hadvir, dan ⟨ia⟩ membuat ruang-ruang samping sekeliling.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Dan ia membangun"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dinding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "sayap bangunan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinding-dinding"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "dinding-dinding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "bagi haheikal"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "dan bagi hadvir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia membuat"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "ruang-ruang samping"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-08-08T18:31:10.801944464Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Senja dan pagi dan tengah hari aku akan merenung dan mengerang, dan ⟨ia⟩ mendengar suaraku.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "senja"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "dan pagi"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "dan tengah hari"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "aku akan merenung"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "dan mengerang"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:07.516771091Z",
+  "model": "glm-5.2"
+}

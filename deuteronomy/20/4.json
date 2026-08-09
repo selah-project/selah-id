@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "karena Yahweh Elohimkumulah ⟨dia⟩ yang berjalan bersama-sama dengan kamu, untuk berperang bagi kamu melawan musuhmu, untuk menyelamatkan ⟨את⟩kamu.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-kumulah"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bersama-sama dengan kamu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "untuk menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:29:28.509359039Z",
+  "model": "glm-5.2"
+}

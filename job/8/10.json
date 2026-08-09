@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Bukankah mereka akan mengajar engkau, berbicara kepada engkau, dan dari hati mereka mengeluarkan perkataan?",
+  "tokens": [
+    {
+      "surface": "הֲלֹא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "הֵ֣ם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "י֭וֹרוּךָ",
+      "gloss": "akan mengajar engkau"
+    },
+    {
+      "surface": "יֹ֣אמְרוּ",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "kepada engkau"
+    },
+    {
+      "surface": "וּ֝מִלִּבָּ֗ם",
+      "gloss": "dan dari hati mereka"
+    },
+    {
+      "surface": "יוֹצִ֥אוּ",
+      "gloss": "mengeluarkan"
+    },
+    {
+      "surface": "מִלִּֽים",
+      "gloss": "perkataan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:59.063191115Z",
+  "model": "glm-5.2"
+}

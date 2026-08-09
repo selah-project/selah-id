@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dialah yang membangun ⟨את⟩ Eylat dan mengembalikannya kepada Yehudah, setelah raja beristirahat bersama nenek-moyangnya.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yang membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "dan mengembalikannya"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kepada Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "beristirahat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek-moyangnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:18.580346059Z",
+  "model": "glm-5.2"
+}

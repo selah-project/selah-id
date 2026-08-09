@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Aku mengenal engkau di padang gurun, di negeri kekeringan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "mengenal engkau"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "kekeringan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:30:45.815682682Z",
+  "model": "glm-5.2"
+}

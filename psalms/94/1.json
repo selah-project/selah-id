@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "El dari pembalasan, Yahweh; El dari pembalasan, bersinarlah!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "dari pembalasan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "dari pembalasan"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "bersinarlah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:43:00.065791264Z",
+  "model": "glm-5.2"
+}

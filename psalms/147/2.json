@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Yahweh membangun Yerushalayim, ⟨dia⟩ mengumpulkan yang terbuang dari Yisrael.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "membangun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "yang terbuang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "mengumpulkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:17.030901189Z",
+  "model": "glm-5.2"
+}

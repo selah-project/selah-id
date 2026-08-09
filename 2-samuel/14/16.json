@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Karena raja akan mendengar untuk melepaskan ⟨את⟩ hambanya perempuan dari tangan orang yang berusaha membinasakan aku, ⟨את⟩-ku dan ⟨את⟩ anakku bersama-sama dari warisan Elohim.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akan mendengar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "untuk melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hambanya perempuan"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "hambanya perempuan"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-ku",
+      "marks": "aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anakku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "dari warisan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:39.874366880Z",
+  "model": "glm-5.2"
+}

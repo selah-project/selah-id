@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 22:6",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Lalu raja Yisrael mengumpulkan ⟨את⟩ para nabi, kira-kira empat ratus orang, dan berkatalah kepada mereka: “Apakah aku ini pergi menyerang Ramot-Gilad untuk berperang, atau aku ini berhenti?” Dan mereka berkata: “Naiklah, dan Adonai akan memberikannya ke dalam tangan raja.”",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Lalu mengumpulkan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "kira-kira empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Apakah aku ini pergi"
+    },
+    {
+      "surface": "על",
+      "gloss": "menyerang"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atau"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "aku ini berhenti"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan mereka berkata"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan akan memberikannya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:53.786041304Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan ⟨ia⟩ menawan ⟨את⟩ kota-kota benteng yang milik Yehudah, dan datang sampai Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Dan menawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota benteng"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "milik Yehudah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T12:05:32.246374110Z",
+  "model": "glm-5.2"
+}

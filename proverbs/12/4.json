@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Isteri hayil ⟨adalah⟩ mahkota suaminya, tetapi ⟨ia⟩ yang menimbulkan rasa malu ⟨adalah⟩ seperti busuk di dalam tulang-tulangnya.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hayil"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "suaminya"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "tetapi seperti busuk"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "di dalam tulang-tulangnya"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "yang menimbulkan rasa malu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:37.343791975Z",
+  "model": "glm-5.2"
+}

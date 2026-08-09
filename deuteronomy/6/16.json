@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Janganlah kalian mencobai ⟨את⟩ Yahweh Elohim-kalian, seperti yang kalian perbuat di Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "kalian mencobai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-kalian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "kalian perbuat"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "di Massah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:25:09.915630174Z",
+  "model": "glm-5.2"
+}

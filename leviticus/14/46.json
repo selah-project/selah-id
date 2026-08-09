@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan orang yang masuk ke dalam rumah itu segala hari masa penutupannya, menjadi najis sampai matahari terbenam.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "dan orang yang masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "penutupannya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu (objek penutupan)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menjadi najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "matahari terbenam"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:00.632661248Z",
+  "model": "glm-5.2"
+}

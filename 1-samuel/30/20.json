@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Lalu Dawid mengambil ⟨את⟩ segala kambing domba dan ⟨את⟩ sapi lembu; ⟨mereka⟩ menggiring di depan ternak itu, dan berkata, “Ini adalah jarahan Dawid.”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kambing domba dan sapi lembu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kambing domba"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "dan sapi lembu"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "menggiring"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "jarahan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:34.394580662Z",
+  "model": "glm-5.2"
+}

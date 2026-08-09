@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Aku telah melihat ⟨את⟩ segala perbuatan yang dikerjakan di bawah matahari, dan sesungguhnya segalanya ⟨adalah⟩ hebel dan menggiring roh.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perbuatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "yang dikerjakan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "segalanya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dan menggiring"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:42.843998654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan segala daging akan melihat bahwa Aku, Yahweh, telah menghangatkannya; api itu tidak akan padam.”",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "Dan (segala daging) akan melihat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "telah menghangatkannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "(api itu) akan padam"
+    }
+  ],
+  "timestamp": "2026-08-08T08:49:11.167740467Z",
+  "model": "glm-5.2"
+}

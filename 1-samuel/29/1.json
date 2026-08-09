@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Lalu Pelishtim mengumpulkan ⟨את⟩ segala tempat perkemahan mereka di Afeqah, dan Yisra'el berkemah di mata air yang di Yizre'el.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Lalu mengumpulkan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala tempat perkemahan mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "tempat perkemahan mereka"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "di Afeqah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dan Yisra'el"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "berkemah"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "di mata air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "di Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-08T10:57:49.449045676Z",
+  "model": "glm-5.2"
+}

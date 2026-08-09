@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Sebab Aku telah memuaskan ⟨את⟩ napas yang lelah, dan setiap napas yang mendambakan telah Kupenuhi.",
+  "tokens": [
+    {
+      "surface": "כִּ֥י",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הִרְוֵ֖יתִי",
+      "gloss": "telah memuaskan"
+    },
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "napas"
+    },
+    {
+      "surface": "עֲיֵפָ֑ה",
+      "gloss": "yang lelah"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "נֶ֥פֶשׁ",
+      "gloss": "napas"
+    },
+    {
+      "surface": "דָּאֲבָ֖ה",
+      "gloss": "yang mendambakan"
+    },
+    {
+      "surface": "מִלֵּֽאתִי",
+      "gloss": "telah Kupenuhi"
+    }
+  ],
+  "timestamp": "2026-08-08T08:37:28.022339229Z",
+  "model": "glm-5.2"
+}

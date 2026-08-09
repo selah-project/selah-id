@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Qeinan hidup tujuh puluh tahun, dan memperanakkan ⟨את⟩ Mahalalel:",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Dan hidup"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Qeinan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:30.198659955Z",
+  "model": "glm-5.2"
+}

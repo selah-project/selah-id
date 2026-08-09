@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Berbicaralah kepada jemaah, firman: Naiklah dari sekitar tempat kediaman Qorach, Datán, dan Aviram.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "berbicaralah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dari sekitar"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "tempat kediaman"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datán"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "dan Aviram"
+    }
+  ],
+  "timestamp": "2026-08-08T07:18:19.039771920Z",
+  "model": "glm-5.2"
+}

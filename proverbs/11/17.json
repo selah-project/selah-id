@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Orang yang berbuat hesed ⟨kepada⟩ dirinya sendiri ⟨adalah⟩ seorang laki-laki, tetapi orang yang merusak dagingnya sendiri ⟨adalah⟩ kejam.",
+  "tokens": [
+    {
+      "surface": "גֹּמֵ֣ל",
+      "gloss": "orang yang berbuat"
+    },
+    {
+      "surface": "נַ֭פְשׁוֹ",
+      "gloss": "dirinya sendiri"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "חָ֑סֶד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וְעֹכֵ֥ר",
+      "gloss": "tetapi orang yang merusak"
+    },
+    {
+      "surface": "שְׁ֝אֵר֗וֹ",
+      "gloss": "dagingnya sendiri"
+    },
+    {
+      "surface": "אַכְזָרִֽי",
+      "gloss": "kejam"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:53.015280999Z",
+  "model": "glm-5.2"
+}

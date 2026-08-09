@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka takutlah orang-orang itu — takut yang besar — kepada ⟨את⟩ Yahweh, dan mereka mempersembahkan korban kepada Yahweh, dan bernazar nazat.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "maka takutlah"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "takut"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "dan mempersembahkan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "dan bernazar"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nazar"
+    }
+  ],
+  "timestamp": "2026-08-08T18:38:59.032225705Z",
+  "model": "glm-5.2"
+}

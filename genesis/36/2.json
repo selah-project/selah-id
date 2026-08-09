@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Esav mengambil ⟨את⟩ isteri-isterinya dari antara anak-anak perempuan Kenaan: ⟨את⟩ Adah anak perempuan Elon orang Heti, dan ⟨את⟩ Aholibamah anak perempuan Anah anak perempuan Tsibon orang Hivi.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteri-isterinya"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "isteri-isterinya"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "dari antara anak-anak perempuan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adah"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "orang Heti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aholibamah"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Aholibamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "orang Hivi"
+    }
+  ],
+  "timestamp": "2026-08-08T06:51:10.350253369Z",
+  "model": "glm-5.2"
+}

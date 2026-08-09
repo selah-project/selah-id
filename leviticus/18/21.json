@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan dari benihmu jangan engkau berikan untuk dilewatkan kepada Molekh, dan jangan engkau menajiskan ⟨את⟩ nama Elohimmu; akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "dan dari benihmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau berikan"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "untuk dilewatkan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada Molekh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "engkau menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:15.217079023Z",
+  "model": "glm-5.2"
+}

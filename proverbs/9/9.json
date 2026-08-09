@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Berikanlah kepada yang bijak, maka ⟨ia⟩ akan bertambah bijak lagi; beritahukanlah kepada yang benar, maka ⟨ia⟩ akan bertambah menerima pengajaran.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "kepada yang bijak"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "maka ia akan bertambah bijak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "beritahukanlah"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kepada yang benar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "maka ia akan bertambah"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "menerima pengajaran"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:55.841305738Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu Musa mengambil minyak urapan, dan mengurapi ⟨את⟩ Mishkan beserta ⟨את⟩ segala yang ada di dalamnya; dan ia menguduskan ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu ia mengambil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "dan mengurapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "beserta ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ada di dalamnya"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "dan menguduskan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:00.744905561Z",
+  "model": "glm-5.2"
+}

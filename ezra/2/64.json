@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Seluruh jemaah ⟨sebagai⟩ satu, empat puluh ribu dua ribu tiga ratus enam puluh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "sebagai satu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "puluh ribu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "enam puluh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:59:51.272425154Z",
+  "model": "glm-5.2"
+}

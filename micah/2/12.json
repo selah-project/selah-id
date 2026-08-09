@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 2:12",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Mengumpulkan aku akan mengumpulkan ⟨את⟩ Yaakob, seluruhmu; menghimpun aku akan menghimpun sisa-sisa Yisra'el; bersama-sama aku akan menempatkan dia seperti kawanan di dalam kandang, seperti kawanan di tengah padangnya — mereka akan ribut karena banyaknya manusia.",
+  "tokens": [
+    {
+      "surface": "אָסֹף",
+      "gloss": "mengumpulkan"
+    },
+    {
+      "surface": "אֶאֱסֹף",
+      "gloss": "aku akan mengumpulkan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "כֻּלָּךְ",
+      "gloss": "seluruhmu"
+    },
+    {
+      "surface": "קַבֵּץ",
+      "gloss": "menghimpun"
+    },
+    {
+      "surface": "אֲקַבֵּץ",
+      "gloss": "aku akan menghimpun"
+    },
+    {
+      "surface": "שְׁאֵרִית",
+      "gloss": "sisa-sisa"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יַחַד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "אֲשִׂימֶנּוּ",
+      "gloss": "aku akan menempatkan dia"
+    },
+    {
+      "surface": "כְּצֹאן",
+      "gloss": "seperti kawanan"
+    },
+    {
+      "surface": "בָּצְרָה",
+      "gloss": "di dalam kandang"
+    },
+    {
+      "surface": "כְּעֵדֶר",
+      "gloss": "seperti kawanan"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הַדָּבְרוֹ",
+      "gloss": "padangnya"
+    },
+    {
+      "surface": "תְּהִימֶנָה",
+      "gloss": "mereka akan ribut"
+    },
+    {
+      "surface": "מֵאָדָם",
+      "gloss": "karena banyaknya manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:27.175307958Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan mereka akan berkata kepada tua-tua kotanya, “Anak kami ini pemberontak dan pembangkang, tidak mendengarkan ⟨kepada⟩ suara kami; pemakan boros dan peminum.”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kotanya"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "anak kami"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "pemberontak"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "dan pembangkang"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "kepada suara kami"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "pemakan boros"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "dan peminum"
+    }
+  ],
+  "timestamp": "2026-08-08T07:29:20.008572632Z",
+  "model": "glm-5.2"
+}

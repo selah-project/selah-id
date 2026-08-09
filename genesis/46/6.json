@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Dan mereka mengambil ⟨את⟩ ternak mereka dan ⟨את⟩ harta benda mereka yang telah mereka kumpulkan di tanah Kena'an, dan mereka masuk ke Mitsrayim — Yaakob dan seluruh keturunannya bersama dia.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Dan mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ternak mereka"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ternak mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "harta benda mereka"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "harta benda mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "telah mereka kumpulkan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan mereka masuk"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "keturunannya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersama dia"
+    }
+  ],
+  "timestamp": "2026-08-08T06:54:18.174288256Z",
+  "model": "glm-5.2"
+}

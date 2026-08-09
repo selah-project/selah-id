@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "dan ⟨את⟩ orang Hewi, dan ⟨את⟩ orang Arki, dan ⟨את⟩ orang Sini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Hewi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "orang Hewi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "orang Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "orang Sini"
+    }
+  ],
+  "timestamp": "2026-08-08T10:19:49.270321033Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Pada tahun datangnya Tartan ke Ashdod, ketika mengirim ⟨את⟩nya Sargon raja Ashur, maka ⟨ia⟩ berperang di Ashdod dan merebutnya.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "pada tahun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datangnya"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ke Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ketika mengirim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "maka berperang"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "di Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "dan merebutnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:19:59.952575594Z",
+  "model": "glm-5.2"
+}

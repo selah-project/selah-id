@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 148,
+  "translation": "Pujilah Dia, ⟨hai⟩ langit dari langit, dan ⟨hai⟩ ⟨the⟩ air yang di atas langit!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah Dia"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "dan air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:29.316443591Z",
+  "model": "glm-5.2"
+}

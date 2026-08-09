@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Inilah binatang-binatang yang boleh kamu makan: lembu, domba-domba muda, dan kambing-kambing.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang-binatang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "muda"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "dan kambing"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambing-kambing"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:50.400167271Z",
+  "model": "glm-5.2"
+}

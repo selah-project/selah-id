@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahweh, Elohim-mu, kamu akan takuti; ⟨את⟩-Dia kamu akan layani, dan kepada-Dia kamu akan melekat, dan demi nama-Nya kamu akan bersumpah.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kamu akan takuti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-Dia",
+      "marks": "Dia"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "kamu akan layani"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "dan kepada-Dia"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "kamu akan melekat"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "dan demi nama-Nya"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kamu akan bersumpah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:05.784184745Z",
+  "model": "glm-5.2"
+}

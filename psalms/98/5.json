@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 98,
+  "translation": "Bermusikah bagi Yahweh dengan kinnor, dengan kinnor dan suara nyanyian!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Bermusikah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kinnor"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kinnor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dan suara"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:39.522242090Z",
+  "model": "glm-5.2"
+}

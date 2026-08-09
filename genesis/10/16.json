@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan ⟨את⟩ orang Yevusi dan ⟨את⟩ orang Emori dan ⟨את⟩ orang Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "orang Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "orang Girgashi"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:57.563426368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Yang memasang balok kamar atasnya di air, yang menjadikan awan kerkuvo, yang berjalan di atas sayap-sayap ruakh.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Yang memasang balok"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di air"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "kamar atasnya"
+    },
+    {
+      "surface": "השם",
+      "gloss": "yang menjadikan"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "awan"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "kerkuvo-Nya"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sayap-sayap"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:19.294488185Z",
+  "model": "glm-5.2"
+}

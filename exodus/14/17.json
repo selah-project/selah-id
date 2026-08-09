@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan aku, lihatlah, aku menguatkan ⟨את⟩ hati orang Mitsrayim, dan mereka akan masuk di belakang mereka, dan aku akan dipermuliakan di Paro dan di segenap pasukannya, di keretanya dan di pasukan berkudanya.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dan aku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "aku menguatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan mereka akan masuk"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "di belakang mereka"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "dan aku akan dipermuliakan"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "di Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan di segenap"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "pasukannya"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "di keretanya"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "dan di pasukan berkudanya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:37.423332893Z",
+  "model": "glm-5.2"
+}

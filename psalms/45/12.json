@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Dan raja akan mendambakan keelokanmu, karena dia ⟨adalah⟩ Adonaimu, dan bersujudlah kepadanya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יתאו",
+      "gloss": "mendambakan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "keelokanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "Adonaimu"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "dan bersujudlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:05.010964412Z",
+  "model": "glm-5.2"
+}

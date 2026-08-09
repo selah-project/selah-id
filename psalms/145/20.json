@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "Yahweh menjaga ⟨את⟩ semua yang mengasihi-Nya, dan ⟨את⟩ semua orang-orang fasik dibinasakan-Nya.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "menjaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "yang mengasihi-Nya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "semua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "dibinasakan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:28.452806700Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Aku akan memuji nama Elohim dengan nyanyian, dan aku akan mengagungkan Dia dengan pengucapan syukur.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Aku akan memuji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "dengan nyanyian"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "dan aku akan mengagungkan Dia"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "dengan pengucapan syukur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:17.394490883Z",
+  "model": "glm-5.2"
+}

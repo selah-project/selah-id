@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "⟨Dia⟩ menyembuhkan yang patah hati, dan membebat luka-luka mereka.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "menyembuhkan"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "yang patah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "dan membebat"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "luka-luka mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:17.031021755Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "dan engkau, bangunlah, pergilah ke rumahmu; pada waktu kakimu memasuki kota, anak itu akan mati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ke rumahmu"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "pada waktu memasuki"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "kakimu"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan akan mati"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:32.636474299Z",
+  "model": "glm-5.2"
+}

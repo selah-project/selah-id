@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 118,
+  "translation": "Mengepung aku, ya, mengepung aku — dalam nama Yahweh, sungguh aku akan memotong mereka.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "mengepung aku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mengepung aku"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "aku akan memotong mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:04.211118469Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Kebajikan kepadan-pandai dan pengetahuan ajarlah aku, sebab dalam perintah-perintahmu aku telah percaya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kebajikan"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "kepadan-pandai"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "dan pengetahuan"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarlah aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "dalam perintah-perintahmu"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "aku telah percaya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:19.573040004Z",
+  "model": "glm-5.2"
+}

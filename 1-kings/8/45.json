@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "maka Engkau dengar di langit ⟨את⟩ doa mereka dan ⟨את⟩ permohonan mereka, dan Engkau lakukan keadilan ⟨bagi⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "maka Engkau dengar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doa mereka"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "doa mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "permohonan mereka"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "permohonan mereka"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan Engkau lakukan"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "keadilan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:02.434408796Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Maka Noach melakukan segala sesuatu yang diperintahkan Yahweh kepadanya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Maka melakukan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "segala sesuatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diperintahkan kepadanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:00.599772097Z",
+  "model": "glm-5.2"
+}

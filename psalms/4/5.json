@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Berguncanglah dan jangan berbuat dosa; berkatalah dalam hatimu di atas tempat tidurmu, dan diamlah. Selah",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "berguncanglah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "berbuat dosa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "berkatalah"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "dalam hatimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "tempat tidurmu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "dan diamlah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:29.846124024Z",
+  "model": "glm-5.2"
+}

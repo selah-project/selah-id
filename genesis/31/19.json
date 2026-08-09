@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Adapun Lavan telah pergi menggembala untuk mencukur ⟨את⟩ kambing dombanya, dan Rahel mencuri ⟨את⟩ terafim yang milik ayahnya.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "adapun Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "telah pergi"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "mencukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing dombanya"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "kambing dombanya"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "dan mencuri"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "milik ayahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:31.247281983Z",
+  "model": "glm-5.2"
+}

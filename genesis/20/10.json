@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu Avimelekh berkata kepada Avraham, “Apa yang kaulihat sehingga engkau memperbuat ⟨את⟩ perkara ini?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "yang kaulihat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "engkau memperbuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T06:46:41.283508079Z",
+  "model": "glm-5.2"
+}

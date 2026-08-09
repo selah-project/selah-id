@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Kekuatanku, kepada-Mu aku akan bermazmur, sebab Elohim ⟨adalah⟩ tempat perlindungan yang tinggiku, Elohim hesedku.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku akan bermazmur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "tempat perlindungan yang tinggiku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesedku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:53.683996883Z",
+  "model": "glm-5.2"
+}

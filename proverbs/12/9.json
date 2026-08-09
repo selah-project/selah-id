@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lebih baik ⟨yang⟩ dipandang ringan namun ada hamba baginya, dari ⟨pada⟩ yang memuliakan diri namun kekurangan roti.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "yang dipandang ringan"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "dan hamba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "dari yang memuliakan diri"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "namun kekurangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:59.234828118Z",
+  "model": "glm-5.2"
+}

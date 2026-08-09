@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan ia akan mengadakan pendamaian atas ⟨את⟩ tempat kudus yang maha kudus, dan ⟨את⟩ kemah pertemuan, dan ⟨את⟩ mezbah ia akan mengadakan pendamaian; dan atas para imam dan atas seluruh jemaah umat ia akan mengadakan pendamaian.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Dan ia akan mengadakan pendamaian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat kudus"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "yang maha kudus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kemah pertemuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ia akan mengadakan pendamaian"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ia akan mengadakan pendamaian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:29.490993101Z",
+  "model": "glm-5.2"
+}

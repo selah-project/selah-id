@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "dan pada tahun ketujuh ⟨itu⟩ shabbat shabbaton bagi bumi — shabbat bagi Yahweh; ladangmu tidak boleh engkau taburi dan kebun anggurmu tidak boleh engkau pangkas.",
+  "tokens": [
+    {
+      "surface": "וּבַשָּׁנָ֣ה",
+      "gloss": "dan pada tahun"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֗ת",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "שַׁבַּ֤ת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שַׁבָּתוֹן֙",
+      "gloss": "shabbaton"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "⟨akan menjadi⟩"
+    },
+    {
+      "surface": "לָאָ֔רֶץ",
+      "gloss": "bagi bumi"
+    },
+    {
+      "surface": "שַׁבָּ֖ת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "שָֽׂדְךָ֙",
+      "gloss": "ladangmu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תִזְרָ֔ע",
+      "gloss": "engkau boleh menabur"
+    },
+    {
+      "surface": "וְכַרְמְךָ֖",
+      "gloss": "dan kebun anggurmu"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תִזְמֹֽר",
+      "gloss": "engkau boleh memangkas"
+    }
+  ],
+  "timestamp": "2026-08-08T10:38:16.376539190Z",
+  "model": "glm-5.2"
+}

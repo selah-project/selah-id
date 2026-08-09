@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan bani Yisrael berseru kepada Yahweh, dengan berkata, “Kami telah berbuat dosa kepada-Mu, karena kami telah meninggalkan ⟨את⟩ Elohim kami, dan kami telah menyembah ⟨את⟩ para Baal.”",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "dan mereka berseru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "kami telah berbuat dosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "kami telah meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim kami"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "dan kami telah menyembah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    }
+  ],
+  "timestamp": "2026-08-08T10:52:24.234827613Z",
+  "model": "glm-5.2"
+}

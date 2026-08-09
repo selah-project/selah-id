@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 140,
+  "translation": "Biarkan bara api menjatuhkan diri ke atas mereka, ke dalam api Ia akan melemparkan mereka, ke dalam lubang-lubang jurang — jangan, mereka bangkit.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "biarkan … menjatuhkan diri"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ke atas mereka"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "bara api"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ke dalam api"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "Ia akan melemparkan mereka"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "ke dalam lubang-lubang jurang"
+    },
+    {
+      "surface": "בל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "mereka bangkit"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:45.950436624Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,100 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "genesis 32:20",
+ "book": "genesis",
+ "lang": "id",
+ "chapter": 32,
+ "translation": "Dan ia memerintahkan juga ⟨את⟩ yang kedua, juga ⟨את⟩ yang ketiga, juga ⟨את⟩ semua yang berjalan mengikuti kawanan-kawanan itu, dengan berkata: “Sesuai perkataan ini kamu harus berbicara kepada Esav ketika kamu menemui ⟨את⟩ dia.”",
+ "tokens": [
+  {
+   "surface": "ויצו",
+   "gloss": "Dan ia memerintahkan"
+  },
+  {
+   "surface": "גם",
+   "gloss": "juga"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "yang kedua"
+  },
+  {
+   "surface": "השני",
+   "gloss": "yang kedua"
+  },
+  {
+   "surface": "גם",
+   "gloss": "juga"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "yang ketiga"
+  },
+  {
+   "surface": "השלישי",
+   "gloss": "yang ketiga"
+  },
+  {
+   "surface": "גם",
+   "gloss": "juga"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "semua"
+  },
+  {
+   "surface": "כל",
+   "gloss": "semua"
+  },
+  {
+   "surface": "ההלכים",
+   "gloss": "yang berjalan"
+  },
+  {
+   "surface": "אחרי",
+   "gloss": "mengikuti"
+  },
+  {
+   "surface": "העדרים",
+   "gloss": "kawanan-kawanan itu"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "dengan berkata"
+  },
+  {
+   "surface": "כדבר",
+   "gloss": "sesuai perkataan"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "ini"
+  },
+  {
+   "surface": "תדברון",
+   "gloss": "kamu harus berbicara"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kepada"
+  },
+  {
+   "surface": "עשו",
+   "gloss": "Esav"
+  },
+  {
+   "surface": "במצאכם",
+   "gloss": "ketika kamu menemui"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ dia"
+  }
+ ],
+ "timestamp": "2026-08-09T01:37:54.159597517Z",
+ "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 17,
+  "translation": " ⟨דמן-לemak⟩ mereka telah menutup, mulut mereka berbicara dengan kesombongan.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "lemak mereka"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "mereka menutup"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mereka berbicara"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "dengan kesombongan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:03.136618281Z",
+  "model": "glm-5.2"
+}

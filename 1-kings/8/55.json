@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu ia berdiri dan memberkati ⟨את⟩ seluruh jemaat Yisrael dengan suara nyaring, katanya:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Lalu ia berdiri"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh jemaat Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengan suara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nyaring"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:57.456536348Z",
+  "model": "glm-5.2"
+}

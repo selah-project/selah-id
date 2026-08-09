@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Sebab roti kefasikan adalah makanan mereka, dan anggur kekerasan mereka minum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "makanan mereka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kefasikan"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "mereka minum"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:28.054556181Z",
+  "model": "glm-5.2"
+}

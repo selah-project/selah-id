@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 64,
+  "translation": "Dan semua manusia akan takut, dan mereka akan memberitakan pekerjaan Elohim, dan perbuatan-Nya mereka akan renungkan dengan bijak.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "dan mereka akan takut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "dan mereka akan memberitakan"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "dan perbuatan-Nya"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "mereka akan renungkan dengan bijak"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:16.628634933Z",
+  "model": "glm-5.2"
+}

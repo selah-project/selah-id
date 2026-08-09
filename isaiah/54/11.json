@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 54:11",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Hai yang tertindas, dilanda badai, tidak terhibur, lihat, Aku menatah batu-batumu dengan antimon dan Aku mendirikan engkau dengan batu-batu nilam.",
+  "tokens": [
+    {
+      "surface": "עניה",
+      "gloss": "Hai yang tertindas"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "dilanda badai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נחמה",
+      "gloss": "terhibur"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מרביץ",
+      "gloss": "menatah"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "dengan antimon"
+    },
+    {
+      "surface": "אבניך",
+      "gloss": "batu-batumu"
+    },
+    {
+      "surface": "ויסדתיך",
+      "gloss": "dan Aku mendirikan engkau"
+    },
+    {
+      "surface": "בספירים",
+      "gloss": "dengan batu-batu nilam"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:32.387887354Z",
+  "model": "glm-5.2"
+}

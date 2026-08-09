@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan raja Dawid telah tua, lanjut umur, dan mereka menutupi dia dengan pakaian, tetapi tidak menjadi panas baginya.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Dan raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "telah tua"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lanjut"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dalam hari-hari"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "dan mereka menutupi dia"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "dengan pakaian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "menjadi panas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:01:29.958102698Z",
+  "model": "glm-5.2"
+}

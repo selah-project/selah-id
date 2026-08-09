@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 148,
+  "translation": "Raja-raja bumi dan semua bangsa-bangsa, pemimpin-pemimpin dan semua hakim-hakim bumi",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Raja-raja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "pemimpin-pemimpin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "hakim-hakim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:59.417959470Z",
+  "model": "glm-5.2"
+}

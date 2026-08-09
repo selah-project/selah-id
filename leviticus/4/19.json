@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨את⟩ seluruh lemaknya ia akan mengangkat dari padanya, dan membakar sebagai wewangian ⟨di⟩ atas mezbah itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh lemaknya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "lemaknya"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ia akan mengangkat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dan membakar sebagai wewangian"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ke mezbah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:56.654142244Z",
+  "model": "glm-5.2"
+}

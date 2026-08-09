@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Yahweh duduk untuk selama-lamanya; Ia telah menegakkan takhta-Nya untuk penghakiman.",
+  "tokens": [
+    {
+      "surface": "וַֽ֭יהוָה",
+      "gloss": "Dan Yahweh"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "יֵשֵׁ֑ב",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "כּוֹנֵ֖ן",
+      "gloss": "Ia telah menegakkan"
+    },
+    {
+      "surface": "לַמִּשְׁפָּ֣ט",
+      "gloss": "untuk penghakiman"
+    },
+    {
+      "surface": "כִּסְאֽוֹ",
+      "gloss": "takhta-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:50.593537287Z",
+  "model": "glm-5.2"
+}

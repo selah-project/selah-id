@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Langit, langit ⟨adalah⟩ milik Yahweh, tetapi ⟨ה⟩ bumi ⟨ia⟩ berikan kepada anak-anak Adam.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Langit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "milik Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "tetapi ⟨ה⟩ bumi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨ia⟩ berikan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:50.553391349Z",
+  "model": "glm-5.2"
+}

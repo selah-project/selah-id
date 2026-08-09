@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Elohim berbuat baik kepada para bidan, dan bangsa itu bertambah banyak, dan mereka menjadi sangat kuat.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "dan berbuat baik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kepada para bidan"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "dan bertambah banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "dan menjadi sangat kuat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T12:34:30.587526801Z",
+  "model": "glm-5.2"
+}

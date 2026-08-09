@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Bernubuatlah kalian bagi Yahweh, Pembuat langit dan bumi.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Bernubuatlah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Pembuat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:50.553232538Z",
+  "model": "glm-5.2"
+}

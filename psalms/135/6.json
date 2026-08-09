@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 135,
+  "translation": "Segala yang berkenan kepada Yahweh, ⟨itu⟩ dilakukan-Nya di langit dan di bumi, di laut-llautan dan segala samudera.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan-Nya"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "dan di bumi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di laut-lautan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "samudera"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:53.891259927Z",
+  "model": "glm-5.2"
+}

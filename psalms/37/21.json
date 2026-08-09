@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "⟨Orang⟩ fasik meminjam dan tidak membayar, tetapi ⟨orang⟩ benar menunjukkan kemurahan dan memberi.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "meminjam"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "fasik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "membayar"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "tetapi benar"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "menunjukkan kemurahan"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "dan memberi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:05.691788603Z",
+  "model": "glm-5.2"
+}

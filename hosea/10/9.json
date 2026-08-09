@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 10:9",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dari hari-hari HaGiv'ah engkau telah berdosa, hai Yisra'el; di sana mereka berdiri — bukankah perang di Gib'ah menimpa mereka, atas bani-bani kelaliman?",
+  "tokens": [
+    {
+      "surface": "מימי",
+      "gloss": "Dari hari-hari"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "HaGiv'ah"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "engkau telah berdosa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "mereka berdiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "תשיגם",
+      "gloss": "menimpa mereka"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "di Gib'ah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani-bani"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "kelaliman"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:36.366052958Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dan ⟨ia⟩ berfirman: \"Tunjukkanlah kepadaku, aku Mohon, ⟨את⟩ kemuliaan-Mu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "tunjukkanlah kepadaku"
+    },
+    {
+      "surface": "נא",
+      "gloss": "aku mohon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemuliaan-Mu"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "kemuliaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:48.762182533Z",
+  "model": "glm-5.2"
+}

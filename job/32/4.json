@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan Elihu menanti-nantikan ⟨את⟩ Iyov dengan kata-kata, karena mereka lebih lanjut umur daripada dia dalam hari-hari.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "dan Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "menanti-nantikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "dengan kata-kata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "lebih lanjut umur"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripada dia"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "dalam hari-hari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:43:07.092143465Z",
+  "model": "glm-5.2"
+}

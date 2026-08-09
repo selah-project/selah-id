@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Telinga yang mendengarkan teguran ⟨yang memberi⟩ hidup, di tengah orang-orang bijak ⟨ia⟩ bermalam.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "Telinga"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "yang mendengarkan"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yang memberi hidup"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "orang-orang bijak"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ia bermalam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:54.250806212Z",
+  "model": "glm-5.2"
+}

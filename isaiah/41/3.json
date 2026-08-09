@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Ia mengejar mereka, melalui keselamatan ⟨ia⟩ melintas; jalan dengan kakinya tidak ia masuki.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Ia mengejar mereka"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "melintas"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "dengan kakinya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ia masuki"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:36.520238166Z",
+  "model": "glm-5.2"
+}

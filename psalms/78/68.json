@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ⟨ia⟩ memilih ⟨את⟩ suku Yehuda, ⟨את⟩ gunung Tsion yang ⟨ia⟩ kasihi.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Dan memilih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kasihi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:16.423293398Z",
+  "model": "glm-5.2"
+}

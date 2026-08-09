@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Lalu aku berpaling dan turun dari gunung itu, dan aku menaruh ⟨את⟩ loh itu di dalam aron yang telah aku buat, dan ⟨mereka⟩ ada di sana, seperti yang diperintahkan Yahweh kepadaku.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "Lalu aku berpaling"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "dan aku turun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "dan aku menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loh itu"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "loh itu"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "di dalam aron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "telah aku buat"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan ⟨mereka⟩ ada"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "diperintahkan kepadaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:19.537735862Z",
+  "model": "glm-5.2"
+}

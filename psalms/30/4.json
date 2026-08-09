@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Yahweh, Engkau telah menaikkan napasku dari Sheol, Engkau menghidupkan aku dari ⟨yang⟩ turun ke liang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "Engkau telah menaikkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Engkau menghidupkan aku"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "dari ⟨yang⟩ turun ke"
+    },
+    {
+      "surface": "בור",
+      "gloss": "liang"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:18.622460683Z",
+  "model": "glm-5.2"
+}

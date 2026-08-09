@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Bangkai dan mangsa ditarik tidak boleh dimakan untuk menajiskan diri dengannya; Akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "נְבֵלָה",
+      "gloss": "bangkai"
+    },
+    {
+      "surface": "וּטְרֵפָה",
+      "gloss": "mangsa ditarik"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "boleh dimakan"
+    },
+    {
+      "surface": "לְטָמְאָה",
+      "gloss": "untuk menajiskan"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:18.769344233Z",
+  "model": "glm-5.2"
+}

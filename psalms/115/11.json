@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Yang takut kepada Yahweh, percayalah kepada Yahweh; dialah pertolongan mereka dan perisai mereka.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Yang takut kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "percayalah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pertolongan mereka"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "dan perisai mereka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:12.010689558Z",
+  "model": "glm-5.2"
+}

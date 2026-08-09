@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan ketika aku mendengar ⟨את⟩ perkataan ini, aku mengoyakkan ⟨את⟩ pakaianku dan jubahku, dan aku mencabut sebagian dari rambut kepalaku dan janggutku, dan aku duduk terhenyak.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Dan ketika aku mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "aku mengoyakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaianku"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaianku"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "dan jubahku"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "dan aku mencabut sebagian"
+    },
+    {
+      "surface": "משער",
+      "gloss": "dari rambut"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepalaku"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "dan janggutku"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "dan aku duduk"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "terhenyak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:58:25.233134456Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 146,
+  "translation": "Yahweh membuka ⟨mata⟩ ⟨orang-orang⟩ buta, Yahweh menegakkan ⟨orang-orang⟩ tertunduk, Yahweh mengasihi orang-orang benar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "membuka"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "⟨orang-orang⟩ buta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "menegakkan"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "⟨orang-orang⟩ tertunduk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang benar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:13.383548166Z",
+  "model": "glm-5.2"
+}

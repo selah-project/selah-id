@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Tujuh hari lamanya engkau makan roti tak beragi, dan pada hari ketujuh ⟨ada⟩ hari raya bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "engkau makan"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "roti tak beragi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "dan pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "חג",
+      "gloss": "⟨ada⟩ hari raya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:07.299844050Z",
+  "model": "glm-5.2"
+}

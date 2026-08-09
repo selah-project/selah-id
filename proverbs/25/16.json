@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Madu kau temukan? Makan secukupmu, supaya jangan engkau menjadi kenyang karenanya dan memuntahkannya.",
+  "tokens": [
+    {
+      "surface": "דְּבַ֣שׁ",
+      "gloss": "madu"
+    },
+    {
+      "surface": "מָ֭צָאתָ",
+      "gloss": "kau temukan"
+    },
+    {
+      "surface": "אֱכֹ֣ל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "דַּיֶּ֑ךָּ",
+      "gloss": "secukupmu"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "תִּ֝שְׂבָּעֶ֗נּוּ",
+      "gloss": "engkau menjadi kenyang karenanya"
+    },
+    {
+      "surface": "וַהֲקֵֽאתֽוֹ",
+      "gloss": "dan memuntahkannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:22.523893671Z",
+  "model": "glm-5.2"
+}

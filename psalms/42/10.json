@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Aku akan berkata kepada El, gunung batuku, “Mengapa ⟨kau⟩ lupakan aku? Mengapa aku berjalan bernegas dukacita karena tekanan musuh?”",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kepada El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "gunung batuku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "kau lupakan aku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "bernegas dukacita"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "karena tekanan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:24.637423931Z",
+  "model": "glm-5.2"
+}

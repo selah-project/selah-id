@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 100,
+  "translation": "Ketahuilah bahwa Yahweh, Dialah Elohim; Dialah yang membuat kita, dan bukan kita ⟨sendiri⟩; umat-Nya ⟨kita⟩, dan kawanan gembalaan-Nya.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "ketahuilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "yang membuat kita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "dan kawanan"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "gembalaan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:48.326035142Z",
+  "model": "glm-5.2"
+}

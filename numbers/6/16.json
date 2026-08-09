@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨imam⟩ itu haruslah membawa mereka ke hadapan Yahweh, dan mengolah ⟨את⟩ korban dosanya dan ⟨את⟩ korban bakarannya.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dan haruslah dibawa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan mengolah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban dosanya"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "korban dosanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban bakarannya"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "korban bakarannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:39:57.088047585Z",
+  "model": "glm-5.2"
+}

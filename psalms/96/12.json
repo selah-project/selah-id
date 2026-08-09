@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 96,
+  "translation": "beria-rialah padang dan segala yang di dalamnya; maka bersorak-soraikanlah segala pohon hutan.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "beria-rialah"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "padang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "אז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bersorak-soraikanlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "יער",
+      "gloss": "hutan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:44:50.138565233Z",
+  "model": "glm-5.2"
+}

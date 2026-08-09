@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Janda dan orang asing mereka bunuh, dan anak yatim mereka pembunuh.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Janda"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "dan orang asing"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "mereka bunuh"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "dan anak yatim"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "mereka pembunuh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:06.061351481Z",
+  "model": "glm-5.2"
+}

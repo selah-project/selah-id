@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Aku, Nevukhadnetstsar, ⟨berada⟩ tenteram di rumahku dan subur di istanaku.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "tenteram"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "⟨berada⟩"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "di rumahku"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "dan subur"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "di istanaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:53:50.757591913Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Semua jalan Yahweh ⟨adalah⟩ hesed dan kebenaran, bagi para penjaga perjanjian-Nya dan peraturan-peraturan-Nya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Semua"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "bagi para penjaga"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjian-Nya"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "dan peraturan-peraturan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:55.646479716Z",
+  "model": "glm-5.2"
+}

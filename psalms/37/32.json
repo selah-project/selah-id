@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Orang fasik mengintai orang benar, dan berusaha untuk membunuhnya.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "mengintai"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "dan berusaha"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "untuk membunuhnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:03.967268977Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "dan biarlah mereka tahu bahwa engkaulah — ⟨yang namanya⟩ Yahweh — sendirian, Elyon, atas seluruh bumi.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "dan biarlah mereka tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:55.674626712Z",
+  "model": "glm-5.2"
+}

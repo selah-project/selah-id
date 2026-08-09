@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Jika Yahweh berkenan kepada kita, maka ⟨Ia⟩ akan membawa ⟨את⟩-kita ke negeri ini dan memberikannya kepada kita — negeri yang mengalir susu dan madu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kepada kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "dan akan membawa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-kita",
+      "marks": "kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kita"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "mengalir"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dan madu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:17:44.557170919Z",
+  "model": "glm-5.2"
+}

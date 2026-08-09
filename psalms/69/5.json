@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Mereka yang membenci aku tanpa sebab lebih banyak dari rambut-rambut kepalaku; mereka yang berusaha memunuh aku, musuh-musuhku secara dusta, ⟨telah⟩ ⟨menjadi⟩ kuat; apa yang tidak kurampok, itu yang kubayar kembali.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "mereka lebih banyak"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "dari rambut-rambut"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepalaku"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "yang membenci aku"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "mereka ⟨telah⟩ ⟨menjadi⟩ kuat"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "yang berusaha memunahkan aku"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "secara dusta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "kurampok"
+    },
+    {
+      "surface": "אז",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kubayar kembali"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:35.431634108Z",
+  "model": "glm-5.2"
+}

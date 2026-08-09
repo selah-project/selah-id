@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "dan imam itu mendekatkan ⟨את⟩ dia, dan membuat dia berdiri di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dan mendekatkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "dan membuat dia berdiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:15:16.591834976Z",
+  "model": "glm-5.2"
+}

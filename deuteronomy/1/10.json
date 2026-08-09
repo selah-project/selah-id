@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim kalian, telah membuat ⟨את⟩ kalian bertambah banyak, dan lihat, kalian pada hari ini seperti bintang-bintang langit karena banyaknya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "telah membuat bertambah banyak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "seperti bintang-bintang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "karena banyaknya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:13.065208108Z",
+  "model": "glm-5.2"
+}

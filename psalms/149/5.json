@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 149,
+  "translation": "Biarlah orang-orang yang berhesed bersukaria dalam kemuliaan; biarlah mereka bersorak-sorai di atas tempat tidur mereka.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "biarlah bersukaria"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "orang-orang yang berhesed"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "dalam kemuliaan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "biarlah bersorak-sorai"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "tempat tidur mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:26.728466586Z",
+  "model": "glm-5.2"
+}

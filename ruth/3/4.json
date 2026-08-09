@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan terjadilah, pada waktu ia berbaring, ketahuilah-engkau ⟨את⟩ tempat itu yang ia berbaring di sana, dan datanglah-engkau dan singkaplah ujung kakinya, dan berbaringlah-engkau, maka ia akan memberitahukan kepadamu ⟨את⟩ apa yang harus kauperbuat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "pada waktu ia berbaring"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ketahuilah-engkau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat itu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ia berbaring"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "dan datanglah-engkau"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "dan singkaplah"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "ujung kakinya"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "dan berbaringlah-engkau"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "maka ia"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "akan memberitahukan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang harus kauperbuat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "harus kauperbuat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:47:53.614387979Z",
+  "model": "glm-5.2"
+}

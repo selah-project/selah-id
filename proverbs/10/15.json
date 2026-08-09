@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Harta orang kaya ⟨adalah⟩ kota kekuatannya; kejatuhan orang-orang lemah ⟨adalah⟩ kemiskinan mereka.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "harta"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kota"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "kekuatannya"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "kejatuhan"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "orang-orang lemah"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "kemiskinan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:59.831629659Z",
+  "model": "glm-5.2"
+}

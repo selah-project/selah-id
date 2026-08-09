@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Ingatlah rahmat-Mu, Yahweh, dan hesed-Mu, sebab dari selama-lamanya ⟨merekalah⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmat-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "dan hesed-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dari selama-lamanya"
+    },
+    {
+      "surface": "המה",
+      "gloss": "merekalah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:54.612941221Z",
+  "model": "glm-5.2"
+}

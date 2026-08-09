@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka sekarang, pergilah, dan biarkanlah aku menasihatimu nasihat, dan selamatkanlah ⟨את⟩ nyawamu dan ⟨את⟩ nyawa anakmu, Shelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Maka sekarang"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "dan biarkanlah aku menasihatimu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "dan selamatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawamu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "nyawa anakmu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-08T07:59:46.164136874Z",
+  "model": "glm-5.2"
+}

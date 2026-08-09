@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan bersirahlah atasnya ruakh Yahweh — ruakh hakhmah dan binah, ruakh etzah dan gevurah, ruakh da'at dan takut akan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "dan bersirahlah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakhmah"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "dan binah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "etzah"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "dan gevurah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "da'at"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "dan takut akan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:18:15.840756156Z",
+  "model": "glm-5.2"
+}

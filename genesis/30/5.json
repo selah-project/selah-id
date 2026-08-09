@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Maka Bilhah mengandung dan melahirkan bagi Yaakov seorang putra.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "maka mengandung"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "bagi Yaakov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang putra"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:30.303597252Z",
+  "model": "glm-5.2"
+}

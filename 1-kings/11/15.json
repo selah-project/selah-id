@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka terjadilah, ketika Dawid berada di ⟨את⟩ Edom, pada waktu Yoav, panglima pasukan, naik untuk mengubur ⟨את⟩ orang-orang yang tewas, bahwa ia memukul setiap laki-laki di Edom—",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka terjadilah"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "ketika berada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "di Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "pada waktu naik"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "untuk mengubur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang tewas"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "orang-orang yang tewas"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "bahwa ia memukul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:18.217157116Z",
+  "model": "glm-5.2"
+}

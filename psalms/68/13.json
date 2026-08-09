@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Raja-raja pasukan melarikan, melarikan diri, dan ⟨dia⟩ yang tinggal di rumah membagi jarahan.",
+  "tokens": [
+    {
+      "surface": "מַלְכֵ֣י",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "צְ֭בָאוֹת",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "יִדֹּד֣וּן",
+      "gloss": "melarikan"
+    },
+    {
+      "surface": "יִדֹּד֑וּן",
+      "gloss": "melarikan diri"
+    },
+    {
+      "surface": "וּנְוַת",
+      "gloss": "dan yang tinggal"
+    },
+    {
+      "surface": "בַּ֝֗יִת",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "תְּחַלֵּ֥ק",
+      "gloss": "membagi"
+    },
+    {
+      "surface": "שָׁלָֽל",
+      "gloss": "jarahan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:04.112797848Z",
+  "model": "glm-5.2"
+}

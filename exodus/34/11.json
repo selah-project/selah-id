@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Jagalah ⟨את⟩ apa yang aku perintahkan kepadamu pada hari ini; lihatlah, Aku mengusir dari hadapanmu ⟨את⟩ ha-Emori dan ha-Kena'ani dan ha-Chiti dan ha-Perizi dan ha-Chivi dan ha-Yevusi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Jagalah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untukmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "yang ... aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "perintahkan kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lihatlah, Aku"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "mengusir"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapanmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "dan ha-Kena'ani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dan ha-Chiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan ha-Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "dan ha-Chivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan ha-Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:31.041818145Z",
+  "model": "glm-5.2"
+}

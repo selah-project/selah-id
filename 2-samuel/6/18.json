@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Setelah Dawid selesai mengolahkorbankan ha-olah dan shelamim, dia memberkati ⟨את⟩ bangsa itu demi nama Yahweh Tsevaot.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "setelah dia selesai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "mengolahkorbankan"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "ha-olah"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "dan shelamim"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dia memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "demi nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:05.103962837Z",
+  "model": "glm-5.2"
+}

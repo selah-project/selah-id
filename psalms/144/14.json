@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "Lembu-lembu kami sanggup memikul beban, tidak ada pelubangan, dan tidak ada ⟨yang⟩ keluar, dan tidak ada teriakan di jalan-jalan kami.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "lembu-lembu kami"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "sanggup memikul beban"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "pelubangan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "teriakan"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "di jalan-jalan kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:58.462837489Z",
+  "model": "glm-5.2"
+}

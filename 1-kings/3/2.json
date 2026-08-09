@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Hanya ⟨the⟩ ruma⟨t⟩ itu mempersembahkan korban di bukit-bukit pengorbanan, karena belum dibangun ⟨sebuah⟩ rumah bagi nama Yahweh sampai hari-hari itu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "mempersembahkan korban"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di bukit-bukit pengorbanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "belum"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "dibangun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "bagi nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:02:13.279147507Z",
+  "model": "glm-5.2"
+}

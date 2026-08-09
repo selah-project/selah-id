@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 2:3",
+  "book": "haggai",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Siapa di antara kamu ⟨yang⟩ tersisa, yang telah melihat ⟨את⟩ rumah ini dalam kemuliaannya yang pertama? Dan apa yang kamu lihat ⟨את⟩-nya sekarang — bukankah ia di matamu seperti tidak ada apa-apanya?",
+  "tokens": [
+    {
+      "surface": "מִ֤י",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "בָכֶם֙",
+      "gloss": "di antara kamu"
+    },
+    {
+      "surface": "הַנִּשְׁאָ֔ר",
+      "gloss": "⟨yang⟩ tersisa"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רָאָה֙",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah ini"
+    },
+    {
+      "surface": "הַבַּ֣יִת",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הַזֶּ֔ה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בִּכְבוֹד֖וֹ",
+      "gloss": "dalam kemuliaannya"
+    },
+    {
+      "surface": "הָרִאשׁ֑וֹן",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "וּמָ֨ה",
+      "gloss": "Dan apa"
+    },
+    {
+      "surface": "אַתֶּ֜ם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "רֹאִ֤ים",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אֹתוֹ֙",
+      "gloss": "⟨את⟩-nya",
+      "marks": "sekarang"
+    },
+    {
+      "surface": "עַ֔תָּה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "הֲל֥וֹא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "כָמֹ֛הוּ",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "כְּאַ֖יִן",
+      "gloss": "tidak ada apa-apanya"
+    },
+    {
+      "surface": "בְּעֵינֵיכֶֽם",
+      "gloss": "di matamu"
+    }
+  ],
+  "timestamp": "2026-08-08T18:38:18.179312939Z",
+  "model": "glm-5.2"
+}

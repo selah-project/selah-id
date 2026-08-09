@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 99,
+  "translation": "Yahweh memerintah — ⟨biarlah⟩ bangsa-bangsa gemetar; ⟨Ia⟩ yang duduk ⟨di atas⟩ kerubim — ⟨biarlah⟩ bumi bergetar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "biarlah gemetar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yang duduk"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "biarlah bergetar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:45.306201046Z",
+  "model": "glm-5.2"
+}

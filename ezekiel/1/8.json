@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan tangan manusia ⟨adalah⟩ dari bawah sayap-sayap mereka, di keempat sisi mereka; dan wajah-wajah mereka dan sayap-sayap mereka bagi keempat mereka.",
+  "tokens": [
+    {
+      "surface": "וִידֵ֨י",
+      "gloss": "Dan tangan"
+    },
+    {
+      "surface": "אָדָ֗ם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "מִתַּ֨חַת֙",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "כַּנְפֵיהֶ֔ם",
+      "gloss": "sayap-sayap mereka"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "di"
+    },
+    {
+      "surface": "אַרְבַּ֣עַת",
+      "gloss": "empat"
+    },
+    {
+      "surface": "רִבְעֵיהֶ֑ם",
+      "gloss": "sisi mereka"
+    },
+    {
+      "surface": "וּפְנֵיהֶ֥ם",
+      "gloss": "dan wajah-wajah mereka"
+    },
+    {
+      "surface": "וְכַנְפֵיהֶ֖ם",
+      "gloss": "dan sayap-sayap mereka"
+    },
+    {
+      "surface": "לְאַרְבַּעְתָּֽם",
+      "gloss": "bagi keempat mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:44:41.066223087Z",
+  "model": "glm-5.2"
+}

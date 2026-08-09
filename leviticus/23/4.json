@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Inilah mo'adei Yahweh, miqra'e qodesh, yang harus kamu panggil ⟨את⟩nya pada mo'adam.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mo'adei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "miqra'e"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "harus kamu panggil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pada mo'adam"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "pada mo'adam"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:37.114758245Z",
+  "model": "glm-5.2"
+}

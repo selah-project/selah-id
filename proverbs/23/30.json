@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Bagi mereka yang berlama-lama di tengah anggur, bagi mereka yang datang untuk menyelidiki campuran.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "Bagi mereka yang berlama-lama"
+    },
+    {
+      "surface": "על",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "היין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "bagi mereka yang datang"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "untuk menyelidiki"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "campuran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:04.787752541Z",
+  "model": "glm-5.2"
+}

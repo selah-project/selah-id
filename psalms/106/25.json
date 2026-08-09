@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan mereka bergumam di kemah mereka, tidak mendengarkan suara Yahweh.",
+  "tokens": [
+    {
+      "surface": "וַיֵּרָגְנ֥וּ",
+      "gloss": "dan mereka bergumam"
+    },
+    {
+      "surface": "בְאָהֳלֵיהֶ֑ם",
+      "gloss": "di kemah mereka"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שָׁ֝מְע֗וּ",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "בְּק֣וֹל",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:52.890091435Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 91,
+  "translation": "Karena Engkaulah, Yahweh, tempat perlindunganku; Elyon kaubuat ⟨⟨sebagai⟩⟩ kediamanmu.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מַחְסִ֑י",
+      "gloss": "tempat perlindunganku"
+    },
+    {
+      "surface": "עֶ֝לְי֗וֹן",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שַׂ֣מְתָּ",
+      "gloss": "kaubuat"
+    },
+    {
+      "surface": "מְעוֹנֶֽךָ",
+      "gloss": "kediamanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:36.473454200Z",
+  "model": "glm-5.2"
+}

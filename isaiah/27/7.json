@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Seperti memukul yang memukulnya, kah ⟨dia⟩ memukulnya? Atau seperti membunuh orang-orang yang dibunuhnya, ⟨dia⟩ dibunuh?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "seperti memukul"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "yang memukulnya"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "memukulnya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atau"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "seperti membunuh"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "orang-orang yang dibunuhnya"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dibunuh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:43.267864058Z",
+  "model": "glm-5.2"
+}

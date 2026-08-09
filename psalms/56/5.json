@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Di dalam Elohim aku memuji firman-Nya, di dalam Elohim aku percaya, tidak aku takut — apakah dapat daging lakukan ⟨ke⟩padaku?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "di dalam Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "aku memuji"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di dalam Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dapat lakukan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:08.568268279Z",
+  "model": "glm-5.2"
+}

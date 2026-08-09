@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan mereka menduduki ⟨את⟩ seluruh wilayah orang Emori, dari Arnon sampai ke Yabok, dan dari padang gurun sampai ke Yarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Dan mereka menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh wilayah orang Emori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wilayah"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "dari Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-08T07:42:16.887012475Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Aku menaikkan ⟨את⟩kamu dari tanah Mitsrayim, dan Aku membuat ⟨את⟩kamu berjalan di padang gurun empat puluh tahun, untuk menduduki ⟨את⟩ tanah orang Emori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Dan Aku"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "menaikkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "dan Aku membuat berjalan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "untuk menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    }
+  ],
+  "timestamp": "2026-08-08T18:38:11.732587615Z",
+  "model": "glm-5.2"
+}

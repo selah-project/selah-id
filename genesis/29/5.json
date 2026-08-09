@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan ⟨ia⟩ berkata kepada mereka, “Apakah kalian mengenal ⟨את⟩ Lavan putuk Nahor?” Dan mereka berkata, “Kami mengenal.”\n",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "apakah kalian mengenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan mereka berkata"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Kami mengenal"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:36.416250343Z",
+  "model": "glm-5.2"
+}

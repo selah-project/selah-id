@@ -1,0 +1,91 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "joshua 3:3",
+ "book": "joshua",
+ "lang": "id",
+ "chapter": 3,
+ "translation": "Dan mereka memerintahkan ⟨את⟩ bangsa itu, kata mereka: \"Ketika kamu melihat ⟨את⟩ tabut perjanjian Yahweh, Elohim kamu, dan ⟨את⟩ para imam, orang-orang Lewi, mengangkatnya, maka kamu berangkat dari tempat kamu dan kamu berjalan mengikutinya.\"",
+ "tokens": [
+  {
+   "surface": "ויצוו",
+   "gloss": "dan mereka memerintahkan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "bangsa itu"
+  },
+  {
+   "surface": "העם",
+   "gloss": "bangsa itu"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "kata mereka"
+  },
+  {
+   "surface": "כראותכם",
+   "gloss": "ketika kamu melihat"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tabut perjanjian Yahweh Elohim kamu"
+  },
+  {
+   "surface": "ארון",
+   "gloss": "tabut"
+  },
+  {
+   "surface": "ברית",
+   "gloss": "perjanjian"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweh"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohim kamu"
+  },
+  {
+   "surface": "והכהנים",
+   "gloss": "dan para imam"
+  },
+  {
+   "surface": "הלוים",
+   "gloss": "orang-orang Lewi"
+  },
+  {
+   "surface": "נשאים",
+   "gloss": "mengangkat"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ dia"
+  },
+  {
+   "surface": "ואתם",
+   "gloss": "kamu"
+  },
+  {
+   "surface": "תסעו",
+   "gloss": "berangkat"
+  },
+  {
+   "surface": "ממקומכם",
+   "gloss": "dari tempat kamu"
+  },
+  {
+   "surface": "והלכתם",
+   "gloss": "dan kamu berjalan"
+  },
+  {
+   "surface": "אחריו",
+   "gloss": "mengikutinya"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:10.290566638Z",
+ "model": "glm-5.2"
+}

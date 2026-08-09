@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan Aharon harus mempersembahkan ⟨את⟩ kambing jantan itu, yang kepadanya naik undian bagi Yahweh, dan mengolahnya sebagai persembahan dosa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Dan-mempersembahkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing jantan itu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambing-jantan itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "undian itu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "dan-mengolahnya"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "persembahan-dosa"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:51.447393835Z",
+  "model": "glm-5.2"
+}

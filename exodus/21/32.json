@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Jika lembu itu menanduk seorang budak laki-laki atau budak perempuan, tiga puluh syikel perak harus diberikan kepada tuannya, dan lembu itu harus dilempari batu.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "עֶ֛בֶד",
+      "gloss": "budak laki-laki"
+    },
+    {
+      "surface": "יִגַּ֥ח",
+      "gloss": "menanduk"
+    },
+    {
+      "surface": "הַשּׁ֖וֹר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "atau"
+    },
+    {
+      "surface": "אָמָ֑ה",
+      "gloss": "budak perempuan"
+    },
+    {
+      "surface": "כֶּ֣סֶף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֣ים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "שְׁקָלִ֗ים",
+      "gloss": "syikel"
+    },
+    {
+      "surface": "יִתֵּן֙",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לַֽאדֹנָ֔יו",
+      "gloss": "kepada tuannya"
+    },
+    {
+      "surface": "וְהַשּׁ֖וֹר",
+      "gloss": "dan lembu itu"
+    },
+    {
+      "surface": "יִסָּקֵֽל",
+      "gloss": "dilempari batu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:27.494782770Z",
+  "model": "glm-5.2"
+}

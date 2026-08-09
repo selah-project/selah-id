@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan ⟨את⟩ burung hantu kecil, dan ⟨את⟩ burung kormoran, dan ⟨את⟩ burung hantu besar,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung hantu kecil"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "burung hantu kecil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung kormoran"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "burung kormoran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung hantu besar"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "burung hantu besar"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:07.208948220Z",
+  "model": "glm-5.2"
+}

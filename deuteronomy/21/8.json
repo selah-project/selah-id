@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "'Luluskanlah bagi umat-Mu, Yisra'el, yang Kautebus, wahai Yahweh, dan jangan berikan ⟨ sebagai ⟩ darah orang tidak bersalah di tengah umat-Mu, Yisra'el,' maka darah itu akan dilunaskan bagi mereka.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "Luluskanlah"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "bagi umat-Mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "Kautebus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "orang tidak bersalah"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "maka akan dilunaskan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:28:53.350868562Z",
+  "model": "glm-5.2"
+}

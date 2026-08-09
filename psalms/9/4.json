@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Pada waktu musuh-musuhku berbalik ke belakang, mereka tergelincir dan binasa dari hadapan-Mu.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Pada waktu berbalik"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "mereka tergelincir"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "dan binasa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:01.033591052Z",
+  "model": "glm-5.2"
+}

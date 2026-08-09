@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Aku akan bersyukur kepada Yahweh dengan sangat di dalam mulutku, dan di tengah-tengah orang banyak aku akan memuji Dia.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "aku akan bersyukur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dengan sangat"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di dalam mulutku"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "dan di tengah-tengah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "orang banyak"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "aku akan memuji Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:06.236087122Z",
+  "model": "glm-5.2"
+}

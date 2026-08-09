@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Dan tinggikanlah ⟨mereka⟩ Dia dalam jemaah bangsa, dan dalam kursi tua-tua pujilah ⟨mereka⟩ Dia.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "dan tinggikanlah Dia"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dalam jemaah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "dan dalam kursi"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "pujilah Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:42.926898220Z",
+  "model": "glm-5.2"
+}

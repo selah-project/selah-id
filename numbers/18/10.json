@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Di tempat mahakudus engkau akan memakannya; setiap laki-laki boleh memakan ⟨את⟩-nya; kudus ⟨itu⟩ bagimu.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "Di tempat kesucian"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "mahakudus"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "engkau akan memakannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh memakan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kudus"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:18:42.859111204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Jawaban yang lembut membalikkan panas-marah, tetapi perkara yang menyakitkan menaikkan hidung-marah.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "jawaban"
+    },
+    {
+      "surface": "רך",
+      "gloss": "lembut"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "membalikkan"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "panas-marah"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "tetapi perkataan"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "menyakitkan"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "menaikkan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hidung-marah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:54.853572317Z",
+  "model": "glm-5.2"
+}

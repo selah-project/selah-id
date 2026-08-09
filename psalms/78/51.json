@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ia memukul setiap anak sulung di Mitsrayim, permulaan kekuatan di kemah-kemah Kham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Dan ia memukul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "permulaan"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "di kemah-kemah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:52.682802517Z",
+  "model": "glm-5.2"
+}

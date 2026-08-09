@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Biarlah berkata ⟨demikian⟩ ⟨ orang-orang⟩ yang ditebus oleh Yahweh, yang ⟨Ia⟩ tebus mereka dari tangan musuh,",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Biarlah berkata"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "orang-orang yang ditebus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "oleh Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "Ia tebus mereka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:21.215383591Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Lalu Dawid berkata kepada Avner: Bukankah ⟨engkau⟩ seorang laki-laki? Dan siapakah seperti engkau di Yisrael? Dan mengapa tidak engkau jaga tuanmu, sang raja? Karena datang salah satu dari rakyat untuk membinasakan ⟨את⟩ sang raja tuanmu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti engkau"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "dan mengapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "engkau jaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "salah satu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dari rakyat"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:57:56.539778925Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 100,
+  "translation": "Masuklah pintu gerbang-Nya dengan todah, pelataran-Nya dengan tehillah; akuilah Dia, berkatilah nama-Nya!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "masuklah"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "pintu gerbang-Nya"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "dengan todah"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "pelataran-Nya"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "dengan tehillah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "akuilah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berkatilah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:48.326174465Z",
+  "model": "glm-5.2"
+}

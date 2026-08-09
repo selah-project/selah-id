@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Hasatan menjawab ⟨את⟩ Yahweh dan berkata, “Apakah tanpa sebab Iyov takut akan Elohim?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu menjawab"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Hasatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:37:05.360065376Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan menjijikkan mereka itu bagi kamu; dari dagingnya janganlah kamu makan, dan ⟨את⟩ bangkainya kamu jadikan kejijikan.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "dan menjijikkan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mereka itu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "dari dagingnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bangkainya"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "bangkainya"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "kamu jadikan kejijikan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:24.734882952Z",
+  "model": "glm-5.2"
+}

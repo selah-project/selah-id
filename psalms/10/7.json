@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Sumpah kutukannyanya ⟨penuh⟩ mulutnya, dan penipuan dan kecurangan; di bawah lidahnya ada penderitaan dan kerusakan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Sumpah kutukannyanya"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "mulutnya"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "⟨penuh⟩"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "dan penipuan"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "dan kecurangan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lidahnya"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ada penderitaan"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "dan kerusakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:28.274444669Z",
+  "model": "glm-5.2"
+}

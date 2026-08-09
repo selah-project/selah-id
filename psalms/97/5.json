@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 97,
+  "translation": "Gunung-gunung meleleh seperti lilin di hadapan Yahweh, di hadapan Adonai seluruh bumi.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Gunung-gunung"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "seperti lilin"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "meleleh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:30.333706695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Lihat, Elohim ⟨adalah⟩ penolong bagiku; Adonai ⟨ada⟩ di antara mereka yang menopang nyawaku.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "penolong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "di antara mereka yang menopang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:58.305580238Z",
+  "model": "glm-5.2"
+}

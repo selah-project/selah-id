@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "⟨את⟩ Qedemoth dan ⟨את⟩ tanah penggembalaannya, dan ⟨את⟩ Mefaath dan ⟨את⟩ tanah penggembalaannya; empat kota.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedemoth"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Mefaath"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah penggembalaannya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah penggembalaannya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    }
+  ],
+  "timestamp": "2026-08-08T12:13:31.056264527Z",
+  "model": "glm-5.2"
+}

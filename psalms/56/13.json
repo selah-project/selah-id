@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 56,
+  "translation": "Atasku, hai Elohim, ⟨adalah⟩ nazar-nazar-Mu; aku akan membayar ⟨⟩ ucapan syukur kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "Atasku"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "hai Elohim"
+    },
+    {
+      "surface": "נְדָרֶ֑יךָ",
+      "gloss": "nazar-nazar-Mu"
+    },
+    {
+      "surface": "אֲשַׁלֵּ֖ם",
+      "gloss": "aku akan membayar"
+    },
+    {
+      "surface": "תּוֹדֹ֣ת",
+      "gloss": "ucapan syukur"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "kepada-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:49.736088119Z",
+  "model": "glm-5.2"
+}

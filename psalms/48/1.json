@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Nyanyian, mizmor bagi bani Korach.",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "מִ֝זְמוֹר",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "קֹֽרַח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:41.467291445Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Yang bijak hatinya menerima perintah-perintah, tetapi orang bodoh yang banyak bibir akan terguling.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "yang bijak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "menerima"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah-perintah"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "tetapi orang bodoh"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "yang banyak bibir"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "akan terguling"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:33.018706077Z",
+  "model": "glm-5.2"
+}

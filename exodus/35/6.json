@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Dan kain biru-gelap, dan kain ungu, dan kain merah-buai, dan lenan halus, dan bulu kambing.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "dan kain biru-gelap"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dan kain ungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dan kain merah-buai"
+    },
+    {
+      "surface": "שני",
+      "gloss": "(berwarna) buas"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan lenan halus"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "dan bulu kambing"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:45.243716362Z",
+  "model": "glm-5.2"
+}

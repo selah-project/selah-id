@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Lalu berkatalah Yaakov: “Juallah hari ini ⟨את⟩ hak kesulunganmu kepadaku.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "juallah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hak kesulunganmu"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "hak kesulunganmu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:48:08.372540130Z",
+  "model": "glm-5.2"
+}

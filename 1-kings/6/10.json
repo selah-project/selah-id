@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu ia mendirikan ⟨את⟩ lantai samping ⟨di atas⟩ seluruh rumah itu — lima hasta tingginya; dan ia mengaitkan ⟨את⟩ rumah itu dengan kayu araz.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Lalu ia mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lantai samping"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "lantai samping"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨di atas⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tingginya"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "dan ia mengaitkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "dengan kayu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "araz"
+    }
+  ],
+  "timestamp": "2026-08-08T12:16:27.336865223Z",
+  "model": "glm-5.2"
+}

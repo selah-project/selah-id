@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan berkatalah Yahweh kepada Mosheh: “Berat hati Paroh, ia menolak melepaskan bangsa itu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "berat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:23.527516032Z",
+  "model": "glm-5.2"
+}

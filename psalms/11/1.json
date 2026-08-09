@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Untuk pemimpin musik. Mazmur Dawid. Dalam Yahweh aku berlindung; bagaimana kamu berkata kepada ⟨את⟩ jiwaku, “Pindahlah ke gunungmu wahai burung”?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin musik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuk Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "dalam Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "איך",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kamu berkata"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kepada ⟨את⟩ jiwaku",
+      "marks": "jiwaku"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "pindahlah"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ke gunungmu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "burung"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:07.257053668Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan imam harus memerintahkan, dan harus menyembelih ⟨את⟩ burung yang satu itu ke arah bejana tembikar di atas air yang hidup.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Dan harus memerintahkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dan harus menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burung yang satu itu"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "burung itu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bejana"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tembikar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:12.849117556Z",
+  "model": "glm-5.2"
+}

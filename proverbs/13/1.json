@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Anak bijak, ⟨adalah⟩ didikan ⟨seorang⟩ ayah, tetapi penghina tidak mendengarkan teguran.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "didikan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "tetapi penghina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "teguran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:13.113660093Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 132,
+  "translation": "“Jika aku masuk ke dalam kemah rumahku, jika aku naik ke atas ranjang tempat tidurku —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "aku masuk"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ke dalam kemah"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumahku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aku naik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ranjang"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "tempat tidurku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:33.749876275Z",
+  "model": "glm-5.2"
+}

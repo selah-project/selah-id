@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "dan aku berkata: aku akan menaikkan ⟨את⟩ kamu dari penderitaan Mitsrayim ke tanah orang Kenaani dan orang Heti dan orang Emori dan orang Perizi dan orang Hewi dan orang Yebusi, ke tanah yang mengalir susu dan madu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dan aku berkata"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aku akan menaikkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "dari penderitaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dan orang Heti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "dan orang Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan orang Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "dan orang Hewi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan orang Yebusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "yang mengalir"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dan madu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:43.330350747Z",
+  "model": "glm-5.2"
+}

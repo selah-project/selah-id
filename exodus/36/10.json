@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Dan ⟨dia⟩ menghubungkan ⟨את⟩ lima tirai satu kepada satu, dan lima tirai ⟨dia⟩ menghubungkan satu kepada satu.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "dan menghubungkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima tirai"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dan lima"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "menghubungkan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:05:42.624595719Z",
+  "model": "glm-5.2"
+}

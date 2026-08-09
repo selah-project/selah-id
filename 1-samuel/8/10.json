@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu Shemuël mengucapkan ⟨את⟩ segala perkataan Yahweh kepada bangsa yang meminta kepadanya seorang raja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu mengucapkan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "yang meminta"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "seorang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:51.426004049Z",
+  "model": "glm-5.2"
+}

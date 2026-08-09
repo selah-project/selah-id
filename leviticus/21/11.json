@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan terhadap setiap ⟨diri⟩ yang mati tidak boleh ia datang; untuk ayahnya dan untuk ibunya tidak boleh ia menajiskan diri.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Dan terhadap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "⟨diri⟩"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yang mati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "boleh ia datang"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "untuk ayahnya"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "dan untuk ibunya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "boleh ia menajiskan diri"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:31.562449065Z",
+  "model": "glm-5.2"
+}

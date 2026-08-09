@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan katak-katak ⟨itu⟩ akan beranjak dari padamu, dan dari rumah-rumahmu, dan dari hamba-hambamu, dan dari kaummu; hanya di sungai ⟨saja⟩ mereka akan tertinggal.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "dan akan beranjak"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari padamu"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "dan dari rumah-rumahmu"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "dan dari hamba-hambamu"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "dan dari kaummu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "mereka akan tertinggal"
+    }
+  ],
+  "timestamp": "2026-08-08T12:09:58.562198795Z",
+  "model": "glm-5.2"
+}

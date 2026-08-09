@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Berhentilah kegembiraan hati kami, telah berbalik menjadi perkabungan tarian kami.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "berhentilah"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kegembiraan"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "hati kami"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "telah berbalik"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "menjadi perkabungan"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "tarian kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:48:53.853625463Z",
+  "model": "glm-5.2"
+}

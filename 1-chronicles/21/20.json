@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Lalu berbaliklah Arnan dan melihat ⟨את⟩ sang malakh, dan keempat anaknya bersamanya bersembunyi, dan Arnan mengirik gandum.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Lalu berbaliklah"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang malakh"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sang malakh"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "dan keempat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "bersembunyi"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "dan Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "mengirik"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    }
+  ],
+  "timestamp": "2026-08-08T12:03:17.951773909Z",
+  "model": "glm-5.2"
+}

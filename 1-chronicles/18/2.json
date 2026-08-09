@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan memukullah ⟨את⟩ Moab, dan menjadi Moab pelayan-pelayan bagi Dawid, pembawa persembahan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "memukullah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "pelayan-pelayan"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:03:05.295534775Z",
+  "model": "glm-5.2"
+}

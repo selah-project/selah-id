@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan kamu harus memelihara ⟨את⟩ ketetapan-ku dan ⟨את⟩ peraturan-peraturanku, yang jika dilakukan oleh ⟨את⟩ seorang manusia, ia akan hidup olehnya; Akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Dan kamu harus memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-ku"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ketetapan-ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "peraturan-peraturanku"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "peraturan-peraturanku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "seorang manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "seorang manusia"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ia akan hidup"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "olehnya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T18:25:24.929304402Z",
+  "model": "glm-5.2"
+}

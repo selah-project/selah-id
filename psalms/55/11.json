@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Siang dan malam mereka mengepunginya, di atas tembok-temboknya, dan kejahatan serta kesusahan ⟨berada⟩ di tengah-tengahnya.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "mereka mengepunginya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "tembok-temboknya"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "dan kejahatan"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "serta kesusahan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengah-tengahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:12.416872144Z",
+  "model": "glm-5.2"
+}

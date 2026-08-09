@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan sekarang, lihat, jeritan anak-anak Yisrael telah sampai kepadaku, dan juga telah kulihat ⟨את⟩ tekanan yang orang Mitsrayim lakukan menekan ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "jeritan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "telah sampai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "telah kulihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekanan"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "tekanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "menekan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T18:23:05.999059875Z",
+  "model": "glm-5.2"
+}

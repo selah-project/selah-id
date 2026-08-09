@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan engkau akan melapisinya ⟨את⟩ emas murni; dan engkau akan membuat baginya bingkaii emas sekeliling.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Dan engkau akan melapisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "emas murni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan membuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "bingkaii"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:58.173169429Z",
+  "model": "glm-5.2"
+}

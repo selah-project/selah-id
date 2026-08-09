@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan rusaklah ⟨telah⟩ bumi di hadapan ha-Elohim, dan penuhlah ⟨telah⟩ bumi ⟨oleh⟩ kekerasan.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "dan rusaklah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dan penuhlah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "⟨oleh⟩ kekerasan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:18.238998103Z",
+  "model": "glm-5.2"
+}

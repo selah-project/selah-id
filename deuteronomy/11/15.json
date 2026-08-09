@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan Aku akan memberikan rumput di padangmu untuk ternakmu, dan ⟨kau⟩ akan makan dan ⟨kau⟩ akan kenyang.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan memberikan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "di padangmu"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "untuk ternakmu"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "dan ⟨kau⟩ akan makan"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "dan ⟨kau⟩ akan kenyang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:29.250699441Z",
+  "model": "glm-5.2"
+}

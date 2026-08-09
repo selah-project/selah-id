@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "Pancarkan kilat dan sebarkan mereka, lepaskan anak-anak panah-Mu dan kacaukan mereka.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "pancarkan"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "kilat"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "dan sebarkan mereka"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lepaskan"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "anak-anak panah-Mu"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "dan kacaukan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:17.614673477Z",
+  "model": "glm-5.2"
+}

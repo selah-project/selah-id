@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨ia⟩ melapisi ⟨את⟩ ⟨the⟩ rumah, balok-balok, ambang-ambang, dan dinding-dindingnya, dan pintu-pintunya ⟨dengan⟩ emas; dan ⟨ia⟩ mengukir keruvim pada dinding-dinding.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "dan melapisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "balok-balok"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ambang-ambang"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "dan dinding-dindingnya"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "dan pintu-pintunya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "dan mengukir"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "dinding-dinding"
+    }
+  ],
+  "timestamp": "2026-08-08T12:27:43.366394902Z",
+  "model": "glm-5.2"
+}

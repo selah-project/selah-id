@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Jalan-jalunya ⟨bersusah-payah⟩ pada segala waktu; hukum-hukum-Mu ⟨terlalu⟩ tinggi dari hadapannya; segala musuhnya, ia menghembus ⟨terhadap⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "⟨bersusah-payah⟩"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalan-jalunya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pada segala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "dari hadapannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "musuhnya"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ia menghembus"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨terhadap⟩ mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:28.272076281Z",
+  "model": "glm-5.2"
+}

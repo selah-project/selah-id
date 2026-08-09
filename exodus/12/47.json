@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Seluruh jemaat Yisra'el akan melakukannya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "akan melakukan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (pesakh)"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:36.331565688Z",
+  "model": "glm-5.2"
+}

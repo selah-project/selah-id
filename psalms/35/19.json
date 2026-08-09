@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Janganlah musuhku yang dusta bersukacita karena aku; janganlah pembenci-niku tanpa alasan mengedipkan mata.",
+  "tokens": [
+    {
+      "surface": "אַֽל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יִשְׂמְחוּ",
+      "gloss": "mereka bersukacita"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "karena aku"
+    },
+    {
+      "surface": "אֹיְבַ֣י",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "שֶׁ֑קֶר",
+      "gloss": "yang dusta"
+    },
+    {
+      "surface": "שֹׂנְאַ֥י",
+      "gloss": "pembenci-niku"
+    },
+    {
+      "surface": "חִ֝נָּ֗ם",
+      "gloss": "tanpa alasan"
+    },
+    {
+      "surface": "יִקְרְצוּ",
+      "gloss": "mereka mengedipkan"
+    },
+    {
+      "surface": "עָֽיִן",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:17.207441397Z",
+  "model": "glm-5.2"
+}

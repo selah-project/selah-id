@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Lalu Ia menghabiskan hari-hari mereka dalam kesia-siaan, dan tahun-tahun mereka dalam kegegeran.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Lalu Ia menghabiskan"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "dalam kesia-siaan"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "hari-hari mereka"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "dan tahun-tahun mereka"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "dalam kegegeran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:56.039399548Z",
+  "model": "glm-5.2"
+}

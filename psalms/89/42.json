@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Semua orang yang lewat di jalan menjarahnya; ia telah menjadi cela bagi tetangga-tetangganya.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "menjarahnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "yang lewat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ia telah menjadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "bagi tetangga-tetangganya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:15.161687516Z",
+  "model": "glm-5.2"
+}

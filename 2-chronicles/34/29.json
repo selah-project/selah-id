@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Lalu sang raja menyuruh orang mengumpulkan ⟨את⟩ semua orang tua-tua Yehudah dan Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu menyuruh orang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "orang tua-tua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T12:08:43.958202211Z",
+  "model": "glm-5.2"
+}

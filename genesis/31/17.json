@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Lalu bangunlah Yaakob, dan ⟨⟨dia⟩⟩ menaikkan ⟨את⟩ anak-anaknya dan ⟨את⟩ istrinya-istrinya ke atas unta-unta,",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangunlah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "dan menaikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "istri-istrinya"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "istri-istrinya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "unta-unta"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:31.246791521Z",
+  "model": "glm-5.2"
+}

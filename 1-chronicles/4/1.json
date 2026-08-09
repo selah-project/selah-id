@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Saudara-saudara lelaki Yehudah: Perets, Ketsron, dan Karmi, dan Khur, dan Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Saudara-saudara lelaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Ketsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "dan Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "dan Khur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "dan Shoval"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:15.562296179Z",
+  "model": "glm-5.2"
+}

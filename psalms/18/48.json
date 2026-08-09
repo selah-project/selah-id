@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Ha-El yang memberi pembalasan kepadaku, dan ⟨yang⟩ menundukkan bangsa-bangsa di bawahku —",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ha-El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "yang memberi"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "pembalasan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dan ⟨yang⟩ menundukkan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "di bawahku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:05.388722891Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Maka mereka berjumpa dengan ⟨את⟩ Mosheh dan ⟨את⟩ Aharon, yang berdiri menunggu ⟨mereka⟩, ketika ⟨mereka⟩ keluar dari hadapan Paroh.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "Maka mereka berjumpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "yang berdiri"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "menunggu mereka"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ketika mereka keluar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:28:54.434104819Z",
+  "model": "glm-5.2"
+}

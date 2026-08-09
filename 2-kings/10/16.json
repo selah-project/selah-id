@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan berkata, “Mari bersamaku dan lihat api cemburuku bagi Yahweh!” Dan mereka membuatnya naik ⟨ke dalam⟩ keretanya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "mari"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bersamaku"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "api cemburuku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "dan mereka membuatnya naik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "keretanya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:10:58.235505741Z",
+  "model": "glm-5.2"
+}

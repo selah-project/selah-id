@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Aku telah menanggalkan ⟨את⟩ gamisku, bagaimana aku akan memakainya lagi? Aku telah membasuh ⟨את⟩ kakiku, bagaimana aku akan menodainya?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "aku telah menanggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gamisku"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "gamisku"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "aku akan memakainya lagi"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "aku telah membasuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakiku"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "aku akan menodainya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:06.527668947Z",
+  "model": "glm-5.2"
+}

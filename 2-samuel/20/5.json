@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Lalu pergilah Amasa untuk memanggil ⟨את⟩ Yehudah, tetapi ⟨ia⟩ terlambat dari waktu yang ditetapkan yang telah ditentukan baginya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu pergilah"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "untuk memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "tetapi terlambat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "waktu yang ditetapkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "ditentukan baginya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:00:35.671983323Z",
+  "model": "glm-5.2"
+}

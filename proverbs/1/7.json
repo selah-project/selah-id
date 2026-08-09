@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Takut akan Yahweh ⟨adalah⟩ permulaan pengetahuan; hikmat dan teguran, orang-orang bodoh meremehkan.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Takut akan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "permulaan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "dan teguran"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "meremehkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:34.766971538Z",
+  "model": "glm-5.2"
+}

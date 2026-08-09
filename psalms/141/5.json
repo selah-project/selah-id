@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 141,
+  "translation": "Biarlah orang benar memukul aku ⟨dengan⟩ hesed, dan memarahi aku; minyak ⟨untuk⟩ kepala, jangan kiranya ia ditolak oleh kepalaku, karena masih ⟨juga⟩ doaku dalam kejahatan mereka.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "biarlah memukul aku"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "dan memarahi aku"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יני",
+      "gloss": "ia ditolak"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "oleh kepalaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "dan doaku"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "dalam kejahatan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:49.285840055Z",
+  "model": "glm-5.2"
+}

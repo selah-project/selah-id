@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Tali-tali maut mengelilingi aku, dan anak-anak sungai Belial menakuti aku.",
+  "tokens": [
+    {
+      "surface": "אֲפָפ֥וּנִי",
+      "gloss": "mengelilingi aku"
+    },
+    {
+      "surface": "חֶבְלֵי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "מָ֑וֶת",
+      "gloss": "maut"
+    },
+    {
+      "surface": "וְֽנַחֲלֵ֖י",
+      "gloss": "dan anak-anak sungai"
+    },
+    {
+      "surface": "בְלִיַּ֣עַל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יְבַֽעֲתֽוּנִי",
+      "gloss": "menakuti aku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:45.077500922Z",
+  "model": "glm-5.2"
+}

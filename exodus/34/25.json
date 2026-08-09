@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Janganlah engkau menyembelih bersama ⟨dengan⟩ yang beragi darah korban-Ku, dan janganlah dibiarkan sampai pagi korban perayaan Pesakh.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תִשְׁחַט",
+      "gloss": "engkau menyembelih"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "חָמֵץ",
+      "gloss": "yang beragi"
+    },
+    {
+      "surface": "דַּם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "זִבְחִי",
+      "gloss": "korban-Ku"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "יָלִין",
+      "gloss": "dibiarkan (semalaman)"
+    },
+    {
+      "surface": "לַבֹּקֶר",
+      "gloss": "sampai pagi"
+    },
+    {
+      "surface": "זֶבַח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "חַג",
+      "gloss": "perayaan"
+    },
+    {
+      "surface": "הַפָּסַח",
+      "gloss": "Pesakh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:32.833767040Z",
+  "model": "glm-5.2"
+}

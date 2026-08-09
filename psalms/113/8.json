@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 113,
+  "translation": "untuk mendudukkan ⟨dia⟩ bersama para pembesar, bersama para pembesar ⟨dari⟩ umat-Nya.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "untuk mendudukkan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨dari⟩ umat-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:24:35.011881172Z",
+  "model": "glm-5.2"
+}

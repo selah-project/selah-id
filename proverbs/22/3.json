@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Orang cerdik melihat kejahatan dan bersembunyi, tetapi orang-orang sederhana lewat dan dihukum.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "orang cerdik"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "dan bersembunyi"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "tetapi orang-orang sederhana"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lewat"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "dan dihukum"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:23.187849823Z",
+  "model": "glm-5.2"
+}

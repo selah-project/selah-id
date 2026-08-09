@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan Amatsyahu menguatkan diri, dan ia memimpin ⟨את⟩ kaumnya, dan ia pergi ke Lembah Garam, dan ia memukul ⟨את⟩ bani Seir, sepuluh ribu orang.",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "Dan Amatsyahu"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "menguatkan diri"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "dan ia memimpin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaumnya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaumnya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ia pergi"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Lembah"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Garam"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan ia memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Seir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu orang"
+    }
+  ],
+  "timestamp": "2026-08-08T12:07:09.700275399Z",
+  "model": "glm-5.2"
+}

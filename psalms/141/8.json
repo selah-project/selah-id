@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 141,
+  "translation": "Karena kepada-Mulah, Yahweh, Adonai, mataku; pada-Mu aku berlindung; jangan kaukosongkan ⟨the⟩ napasku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תער",
+      "gloss": "kaukosongkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:49.286588922Z",
+  "model": "glm-5.2"
+}

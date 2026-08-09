@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "Yahweh, condongkan langit-Mu dan turunlah, sentuhlah gunung-gunung dan mereka akan berasap.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "condongkan"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langit-Mu"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "dan turunlah"
+    },
+    {
+      "surface": "גע",
+      "gloss": "sentuhlah"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "dan mereka akan berasap"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:17.614489569Z",
+  "model": "glm-5.2"
+}

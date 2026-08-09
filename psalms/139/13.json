@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "Sebab Engkaulah yang menciptakan ⟨את⟩ ginjalku; Engkaulah yang merangkai aku dalam rahim ibuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "Engkaulah yang menciptakan"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ginjalku"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "Engkaulah yang merangkai aku"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "dalam rahim"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:09.449671062Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Juga tangan Yahweh ⟨telah⟩ ⟨ada⟩ terhadap mereka untuk membinasakan mereka dari tengah-tengah perkemahan sampai mereka habis.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨telah⟩ ⟨ada⟩"
+    },
+    {
+      "surface": "בם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dari tengah-tengah"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "perkemahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "mereka habis"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:20.303626023Z",
+  "model": "glm-5.2"
+}

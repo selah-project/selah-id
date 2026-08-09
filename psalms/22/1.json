@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Untuk pemimpin musik, tentang Rusa Fajar, mizmor bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Rusa"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "Fajar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:19.979436536Z",
+  "model": "glm-5.2"
+}

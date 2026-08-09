@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu mereka menemukan ⟨את⟩ Adoni-Bezek di Bezek, dan mereka berperang melawannya, dan mereka memukul kalah ⟨את⟩ orang Kanaan dan ⟨את⟩ orang Perizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "dan mereka menemukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "di Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "dan mereka berperang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "melawannya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul kalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kanaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Perizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "orang Perizi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:38:51.244569541Z",
+  "model": "glm-5.2"
+}

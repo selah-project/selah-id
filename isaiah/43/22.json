@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Tetapi engkau tidak memanggil aku, ya Ya'akov, karena engkau telah lelah oleh aku, hai Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "engkau memanggil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "engkau telah lelah"
+    },
+    {
+      "surface": "בי",
+      "gloss": "oleh aku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:19.306984028Z",
+  "model": "glm-5.2"
+}

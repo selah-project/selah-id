@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Imam yang mengolahnya ⟨את⟩ harus memakannya; di tempat kudus ⟨itu⟩ harus dimakan, di pelataran Ohel Mo'ed.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Imam"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "yang mengolahnya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "memakannya"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "harus memakannya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "harus dimakan"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di pelataran"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:15.447597584Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "sesuai jumlah yang kamu perbuat, demikianlah kamu perbuat bagi satu, sesuai jumlah mereka.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "sesuai jumlah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu perbuat"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu perbuat"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "bagi satu"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "sesuai jumlah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:18:12.387486964Z",
+  "model": "glm-5.2"
+}

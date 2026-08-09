@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Dia yang menghajar bangsa-bangsa, tidakkah ⟨Ia⟩ menegur? Yang mengajar manusia pengetahuan, ⟨tidakkah Ia mengetahui?⟩",
+  "tokens": [
+    {
+      "surface": "הֲיֹסֵ֣ר",
+      "gloss": "Dia yang menghajar"
+    },
+    {
+      "surface": "גּ֭וֹיִם",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "tidakkah"
+    },
+    {
+      "surface": "יוֹכִ֑יחַ",
+      "gloss": "menegur"
+    },
+    {
+      "surface": "הַֽמְלַמֵּ֖ד",
+      "gloss": "Yang mengajar"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "דָּֽעַת",
+      "gloss": "pengetahuan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:08.319815051Z",
+  "model": "glm-5.2"
+}

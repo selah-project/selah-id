@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Janganlah engkau melihat ⟨את⟩ lembu saudaramu atau ⟨את⟩ dombanya yang tersesat, dan berpura-pura tidak tahu terhadapnya; engkau harus sungguh-sungguh mengembalikannya kepada saudaramu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dombanya"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "dombanya"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "yang tersesat"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "dan berpura-pura tidak tahu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "השב",
+      "gloss": "sungguh-sungguh"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "engkau mengembalikannya"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kepada saudaramu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:29:27.586596003Z",
+  "model": "glm-5.2"
+}

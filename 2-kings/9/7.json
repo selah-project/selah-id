@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan engkau akan memukul ⟨את⟩ keluarga Akhab tuanmu, maka Aku akan membalas darah hamba-hamba-Ku para nabi dan darah semua hamba Yahweh dari tangan Izebel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "dan engkau akan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluarga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "maka Aku akan membalas"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "dan darah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:18.065733516Z",
+  "model": "glm-5.2"
+}

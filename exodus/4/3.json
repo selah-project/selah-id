@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨ia⟩ berkata, “Lemparkanlah ia ke tanah.” Dan ⟨ia⟩ melemparkannya ke tanah, dan ia menjadi ular, dan Moshe melarikan diri dari hadapannya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "lemparkanlah ia"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "dan melemparkannya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ia menjadi"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ular"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "dan melarikan diri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari hadapannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:04.321067374Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Berjalanlah bersama ⟨את⟩ orang-orang bijak dan engkau akan menjadi bijak, tetapi teman bergaul orang-orang bodoh akan direndahkan.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "berjalanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang bijak"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "orang-orang bijak"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "dan engkau akan menjadi bijak"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "tetapi yang bergaul dengan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "akan direndahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:18.312606074Z",
+  "model": "glm-5.2"
+}

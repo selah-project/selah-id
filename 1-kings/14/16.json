@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan ⟨ia⟩ akan menyerahkan ⟨את⟩ Yisrael karena dosa-dosa Yarav'am yang ia lakukan dan yang ia buat ⟨את⟩ Yisrael berdosa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan ia akan menyerahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ia berdosa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ia membuat berdosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T12:48:38.813706267Z",
+  "model": "glm-5.2"
+}

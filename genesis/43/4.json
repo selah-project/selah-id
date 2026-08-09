@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Jika engkau mengirim ⟨את⟩ saudara kami bersama kami, kami akan turun dan membeli untukmu makanan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ada"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "engkau mengirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara kami"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "saudara kami"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "bersama kami"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "kami akan turun"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "dan kami akan membeli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untukmu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:25:16.087591712Z",
+  "model": "glm-5.2"
+}

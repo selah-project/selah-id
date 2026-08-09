@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Tetapi jika engkau menahan diri dari bernazar, tidak akan ada padamu dosa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "engkau menahan diri"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "dari bernazar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "בך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:45.360817645Z",
+  "model": "glm-5.2"
+}

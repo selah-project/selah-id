@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan mereka memukul ⟨את⟩ semua nefesyang ada di sana menurut mata pedang — pengbanan; tidak tinggal satu nesyamapun, dan ⟨את⟩ Chatsor dibakarnya dengan api.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua nefes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "menurut"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pengbanan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "tinggal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satu"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nesyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibakarnya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-08-08T12:13:33.623464441Z",
+  "model": "glm-5.2"
+}

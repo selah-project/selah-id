@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 134,
+  "translation": "Angkatlah tanganmu ke tempat kudus, dan berkatilelah ⟨את⟩ Yahweh!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "dan berkatilelah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:20.564614556Z",
+  "model": "glm-5.2"
+}

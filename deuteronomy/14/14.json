@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "dan ⟨את⟩ setiap gagak menurut jenisnya,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "setiap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "menurut jenisnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:08.335179336Z",
+  "model": "glm-5.2"
+}

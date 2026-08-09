@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Aku akan membuat ⟨את⟩ keluarga Ahab seperti keluarga Yarav'am bin Nevat, dan seperti keluarga Ba'sya bin Achiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Dan Aku akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluarga Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "seperti keluarga"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "dan seperti keluarga"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Ba'sya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:10:21.436183022Z",
+  "model": "glm-5.2"
+}

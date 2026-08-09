@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "当一个患有 tzaraat 的 neg'a 出现在 manusia身上, maka orang itu harus dibawa kepada ha-kohen.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "neg'a"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tzaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pada manusia"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "maka ia harus dibawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:42.360863912Z",
+  "model": "glm-5.2"
+}

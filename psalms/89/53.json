@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Tebaiklah Yahweh untuk selamanya. Amin, dan amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tebaiklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "dan amin"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:43.615502714Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 83,
+  "translation": "Sebab sungguh, musuh-Mu bergemuruh, dan pembenci-Mu telah mengangkat ⟨kepala⟩,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "musuh-Mu"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bergemuruh"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "dan pembenci-Mu"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "telah mengangkat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨kepala⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:27.656619064Z",
+  "model": "glm-5.2"
+}

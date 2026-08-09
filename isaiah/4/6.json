@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan sukkah akan menjadi ⟨sebagai⟩ naungan di siang hari dari terik panas, dan sebagai tempat perlindungan dan sebagai persembunyian dari badai dan dari hujan.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "dan sukkah"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "sebagai naungan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "di siang hari"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari terik panas"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "dan sebagai tempat perlindungan"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "dan sebagai persembunyian"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "dari badai"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "dan dari hujan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:16:24.978367934Z",
+  "model": "glm-5.2"
+}

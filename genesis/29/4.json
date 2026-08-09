@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Lalu berkatalah Yaakov kepada mereka: “Saudara-saudaraku, dari mana kamu?” Dan mereka berkata: “Dari Kharan kami.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudaraku"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "dari mana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan mereka berkata"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "dari Kharan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:22.578449179Z",
+  "model": "glm-5.2"
+}

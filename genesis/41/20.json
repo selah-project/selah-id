@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Lalu sapi-sapi yang kurus dan yang buruk itu memakan ⟨את⟩ tujuh sapi-sapi yang pertama, yang gemuk.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Lalu memakan"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "sapi-sapi"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "yang kurus"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "dan yang buruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh sapi-sapi yang pertama yang gemuk"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "sapi-sapi"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "yang gemuk"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:46.111890032Z",
+  "model": "glm-5.2"
+}

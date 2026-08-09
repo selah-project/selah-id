@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 95,
+  "translation": "di mana bapa-bapa leluhur kamu mencobai Aku, menguji Aku, padahal mereka telah melihat perbuatan-Ku.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "נִּ֭סּוּנִי",
+      "gloss": "mencobai Aku"
+    },
+    {
+      "surface": "אֲבוֹתֵיכֶ֑ם",
+      "gloss": "bapa-bapa leluhur kamu"
+    },
+    {
+      "surface": "בְּחָנ֗וּנִי",
+      "gloss": "menguji Aku"
+    },
+    {
+      "surface": "גַּ֥ם",
+      "gloss": "padahal"
+    },
+    {
+      "surface": "רָא֥וּ",
+      "gloss": "mereka telah melihat"
+    },
+    {
+      "surface": "פָּעֳלִֽי",
+      "gloss": "perbuatan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:59.985315426Z",
+  "model": "glm-5.2"
+}

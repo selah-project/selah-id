@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan daging, apabila ada padanya di kulitnya bisul, dan telah sembuh —",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "di kulitnya"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "bisul"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "dan telah sembuh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:35:10.207274297Z",
+  "model": "glm-5.2"
+}

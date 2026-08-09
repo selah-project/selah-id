@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Karena anak panah-Mu telah menancap di dalam aku, dan Engkau telah menekan ke atasku tangan-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "anak panah-Mu"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "telah menancap"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di dalam aku"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "dan Engkau telah menekan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:06.094204130Z",
+  "model": "glm-5.2"
+}

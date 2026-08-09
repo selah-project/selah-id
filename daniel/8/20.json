@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Domba jantan yang kau lihat, pemilik dua tanduk itu, ⟨mereka adalah⟩ raja-raja Madai dan Paras.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "kau lihat"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "pemilik"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "tanduk-tanduk itu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "dan Paras"
+    }
+  ],
+  "timestamp": "2026-08-08T09:55:41.275941993Z",
+  "model": "glm-5.2"
+}

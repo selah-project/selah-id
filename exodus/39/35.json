@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "⟨את⟩ aron kesaksitan itu dan ⟨את│ tiang-tiangnya, dan ⟨את⟩ tutup pendamaian itu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron kesaksitan itu"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kesaksitan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tiang-tiangnya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tiang-tiangnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tutup pendamaian itu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup pendamaian itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:26.421654875Z",
+  "model": "glm-5.2"
+}

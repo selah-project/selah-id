@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan pamannya Sha-ul berkata: “Beritahukanlah kiranya kepadaku apa yang dikatakan Shemu-el kepadamu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "paman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "beritahukanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yang dikatakan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu-el"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:16.129963215Z",
+  "model": "glm-5.2"
+}

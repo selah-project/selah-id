@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Kirimkanlah terang-Mu dan kebenaran-Mu; merekalah yang menuntunku, mereka akan membawaku ke gunung kekudusan-Mu dan ke tempat kediaman-Mu.",
+  "tokens": [
+    {
+      "surface": "שְׁלַח",
+      "gloss": "kirimkanlah"
+    },
+    {
+      "surface": "אוֹרְךָ֣",
+      "gloss": "terang-Mu"
+    },
+    {
+      "surface": "וַ֭אֲמִתְּךָ",
+      "gloss": "dan kebenaran-Mu"
+    },
+    {
+      "surface": "הֵ֣מָּה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "יַנְח֑וּנִי",
+      "gloss": "menuntunku"
+    },
+    {
+      "surface": "יְבִיא֥וּנִי",
+      "gloss": "mereka akan membawaku"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הַֽר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קָ֝דְשְׁךָ֗",
+      "gloss": "kekudusan-Mu"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "מִשְׁכְּנוֹתֶֽיךָ",
+      "gloss": "tempat kediaman-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:50.320545052Z",
+  "model": "glm-5.2"
+}

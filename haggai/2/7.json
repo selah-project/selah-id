@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 2:7",
+  "book": "haggai",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "dan Aku akan mengguncang ⟨את⟩ segala bangsa, maka akan datang ⟨yang didambakan⟩ segala bangsa, dan Aku akan memenuhi ⟨את⟩ rumah ini dengan kemuliaan, firman Yahweh Tzevaot.",
+  "tokens": [
+    {
+      "surface": "והרעשתי",
+      "gloss": "dan Aku akan mengguncang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala bangsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "maka akan datang"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "⟨yang didambakan⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "dan Aku akan memenuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah ini"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-08T11:34:08.299074580Z",
+  "model": "glm-5.2"
+}

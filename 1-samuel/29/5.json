@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Bukankah ini Dawid, yang ∎mereka∓ nyanyikan untuknya dalam tarian-tarian, dengan mengatakan: \"Sha'ul memukul ∎ ribuannya, dan Dawid ∎ puluh ribuannya\"?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "mereka nyanyikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuknya"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "dalam tarian-tarian"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "ribuannya"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dan Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "puluh ribuannya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:42.146575685Z",
+  "model": "glm-5.2"
+}

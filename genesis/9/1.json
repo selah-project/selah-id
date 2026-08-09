@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lalu Elohim memberkati ⟨את⟩ Noach dan ⟨את⟩ anak-anaknya, dan Ia berkata kepada mereka: “Berbuahlah, bertambahlah, dan penuhilah ⟨את⟩ bumi.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Lalu memberkati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "berbuahlah"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "bertambahlah"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan penuhilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:22.399382152Z",
+  "model": "glm-5.2"
+}

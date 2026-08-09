@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Bahkan ketika aku berteriak dan memohon tolong, ⟨Ia⟩ menyumbat doaku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "aku berteriak"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "dan memohon tolong"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "Ia menyumbat"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:47:55.733209368Z",
+  "model": "glm-5.2"
+}

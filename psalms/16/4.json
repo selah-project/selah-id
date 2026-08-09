@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Segala kesakitan mereka akan berlipat ganda — mereka segera berlari mengikuti allah lain. Tidak, aku tidak akan menuangkan persembahan kurban mereka dari darah, dan tidak, aku tidak akan mengangkat ⟨את⟩ nama-nama mereka ke bibirku.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "akan berlipat ganda"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "segala kesakitan mereka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "mereka segera berlari"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "aku akan menuangkan"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "persembahan kurban mereka"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aku akan mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama-nama mereka"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "nama-nama mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibirku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:14.057622818Z",
+  "model": "glm-5.2"
+}

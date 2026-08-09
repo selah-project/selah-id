@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Datanglah, dengarlah, dan aku akan menceritakan, semua ⟨kamu⟩ yang takut akan Elohim, apa yang telah dibuat-Nya bagi nafshiku.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "dan aku akan menceritakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "yang takut akan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah dibuat-Nya"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "bagi nafshiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:00.566444593Z",
+  "model": "glm-5.2"
+}

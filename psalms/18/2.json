@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan berkatalah, “Aku mengasihi-Mu, Yahweh, kekuatanku.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Aku mengasihi-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "kekuatanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:21.397590191Z",
+  "model": "glm-5.2"
+}

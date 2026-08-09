@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Bernafsu-keinginan tetapi tidak ada, napas-kehidupan ⟨si⟩ pemalas; tetapi napas-kehidupan ⟨orang⟩ rajin ⟨akan⟩ dimakmurkan.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "bernafsu-keinginan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tidak ada"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "napas-kehidupan"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "⟨si⟩ pemalas"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "tetapi napas-kehidupan"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "⟨orang⟩ rajin"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "dimakmurkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:14.606630132Z",
+  "model": "glm-5.2"
+}

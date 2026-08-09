@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Dawid berbuat demikian, sesuai dengan yang diperintahkan Yahweh kepadanya, dan ia memukul ⟨את⟩ orang-orang Peleshet dari Giv'a sampai engkau datang ke Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan berbuat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sesuai dengan yang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diperintahkan kepadanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan ia memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang Peleshet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Peleshet"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "dari Giv'a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באך",
+      "gloss": "engkau datang"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ke Gezer"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:56.959042424Z",
+  "model": "glm-5.2"
+}

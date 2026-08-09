@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 72,
+  "translation": "Untuk Shelomo: ya Elohim, hukum-hukum-Mu berikanlah kepada raja, dan kebenaran-Mu kepada anak raja.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Untuk Shelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "תן",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "dan kebenaran-Mu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "kepada anak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:35.214488734Z",
+  "model": "glm-5.2"
+}

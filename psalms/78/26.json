@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Ia membuat angin timur bergerak di langit, dan dengan kuasa-Nya Ia memandu angin selatan.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Ia membuat bergerak"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "angin timur"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "dan Ia memandu"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "dengan kuasa-Nya"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "angin selatan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:35.671693880Z",
+  "model": "glm-5.2"
+}

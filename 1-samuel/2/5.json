@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Yang kenyang ⟨dengan⟩ roti menyewakan diri, dan yang lapar berhenti — sampai ⟨yang⟩ mandul melahirkan tujuh, dan yang banyak anak menjadi layu.",
+  "tokens": [
+    {
+      "surface": "שְׂבֵעִ֤ים",
+      "gloss": "yang kenyang"
+    },
+    {
+      "surface": "בַּלֶּ֨חֶם֙",
+      "gloss": "dengan roti"
+    },
+    {
+      "surface": "נִשְׂכָּ֔רוּ",
+      "gloss": "menyewakan diri"
+    },
+    {
+      "surface": "וּרְעֵבִ֖ים",
+      "gloss": "dan yang lapar"
+    },
+    {
+      "surface": "חָדֵ֑לּוּ",
+      "gloss": "berhenti"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עֲקָרָה֙",
+      "gloss": "yang mandul"
+    },
+    {
+      "surface": "יָלְדָ֣ה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "שִׁבְעָ֔ה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "וְרַבַּ֥ת",
+      "gloss": "dan yang banyak"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אֻמְלָֽלָה",
+      "gloss": "menjadi layu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:54:10.884987336Z",
+  "model": "glm-5.2"
+}

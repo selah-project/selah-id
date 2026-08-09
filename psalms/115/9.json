@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Yisra'el, berserahlah kepada Yahweh; pertolongan mereka dan perisai mereka ⟨adalah⟩ Dia.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "berserahlah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pertolongan mereka"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "dan perisai mereka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:38.608770742Z",
+  "model": "glm-5.2"
+}

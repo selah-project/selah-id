@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Sepanjang hari ia ber murah-hati dan meminjamkan, dan keturunannya ⟨adalah⟩ untuk berkat.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ia ber murah-hati"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "dan meminjamkan"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "dan keturunannya"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "untuk berkat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:42.883534037Z",
+  "model": "glm-5.2"
+}

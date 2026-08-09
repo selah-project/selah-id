@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ⟨את⟩ anak-anaknya engkau akan mendekatkan, dan engkau akan mengenakan ⟨את⟩ mereka kemeja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "engkau akan mendekatkan"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "dan engkau akan mengenakan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "kemeja"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kemeja"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:17.997596306Z",
+  "model": "glm-5.2"
+}

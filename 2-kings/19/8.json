@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Maka kembalilah Ravshakeh, dan mendapati ⟨את⟩ raja Ashur sedang berperang melawan Livnah; karena ia mendengar bahwa ia telah berangkat dari Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "maka kembalilah"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "dan mendapati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "sedang berperang"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ia mendengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ia telah berangkat"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "dari Lakhish"
+    }
+  ],
+  "timestamp": "2026-08-08T08:12:25.318976896Z",
+  "model": "glm-5.2"
+}

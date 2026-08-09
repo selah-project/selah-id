@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Maka pergilah bani Yisrael dan berlakulah seperti yang diperintahkan Yahweh kepada ⟨את⟩ Moshe dan ⟨את⟩ Aharon; demikianlah mereka berbuat.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Maka pergilah"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dan berlakulah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yang diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka berbuat"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:58.906299966Z",
+  "model": "glm-5.2"
+}

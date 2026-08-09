@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan inilah torat korban asham: qodesh qodashim ⟨ialah⟩ dia.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torat"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "korban asham"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qodashim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:15.038272395Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Aku telah membisu, aku tidak membuka mulutku, sebab Engkaulah ⟨yang⟩ melakukannya.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "aku telah membisu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "aku membuka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "melakukannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:13.520174104Z",
+  "model": "glm-5.2"
+}

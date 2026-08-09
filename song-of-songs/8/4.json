@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Aku menyumpah ⟨את⟩ kalian, putri-putri Yerushalayim: mengapa kalian membangunkan, dan mengapa kalian mengejutkan ⟨את⟩ cinta, sampai ia berkenan?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "aku menyumpah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "kalian membangunkan"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan mengapa"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "kalian mengejutkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cinta"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "cinta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ia berkenan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:48.864564978Z",
+  "model": "glm-5.2"
+}

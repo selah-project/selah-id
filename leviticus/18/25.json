@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan negeri itu menjadi cemar, dan Aku mengunjungi kesalahannya atasnya, dan negeri itu memuntahkan ⟨את⟩ penduduknya.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "dan menjadi cemar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "dan Aku mengunjungi"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kesalahannya"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "dan memuntahkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduknya"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "penduduknya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:14.231619679Z",
+  "model": "glm-5.2"
+}

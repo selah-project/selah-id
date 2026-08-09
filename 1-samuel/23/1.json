@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu mereka memberitahukan kepada Dawid, katanya: “Lihat, orang-orang Pelishtim berperang melawan Qe'ilah, dan mereka menjarah ⟨את⟩ lantai-lantai pengirikan.”",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "dan mereka memberitahukan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelishtim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "melawan Qe'ilah"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "menjarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lantai-lantai pengirikan"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "lantai-lantai pengirikan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:50:50.023382716Z",
+  "model": "glm-5.2"
+}

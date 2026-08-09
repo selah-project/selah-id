@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 97,
+  "translation": "Terkencinglah semua pelayan patung, ⟨yang⟩ bermegah dalam berhala-berhala; sujudlah kepada-Nya, semua elohim.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Terkencinglah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "pelayan"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "⟨yang⟩ bermegah"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "dalam berhala-berhala"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujudlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepada-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:30.334013927Z",
+  "model": "glm-5.2"
+}

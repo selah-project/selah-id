@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lalu Musy berseru kepada Yahweh, katanya: “El, Mohonlah, sembuhkanlah dia, mohon!”",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Lalu berseru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Mohonlah"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "sembuhkanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mohon"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T10:40:26.846062140Z",
+  "model": "glm-5.2"
+}

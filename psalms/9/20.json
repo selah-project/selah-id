@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Bangkitlah, Yahweh; jangan biarkan bersenang-lenang manusia fana; biarkan bangsa-bangsa dihukum di hadapan hadirat-Mu.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangkitlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "biarkan bersenang-lenang"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "biarkan dihukum"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hadirat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:02.626752307Z",
+  "model": "glm-5.2"
+}

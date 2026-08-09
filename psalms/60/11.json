@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Siapa akan membimbing aku ke kota benteng? Siapa akan menuntun aku sampai ke Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "akan membimbing aku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "akan menuntun aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:58.382425683Z",
+  "model": "glm-5.2"
+}

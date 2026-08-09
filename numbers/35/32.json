@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Dan ⟨tidak⟩ boleh kamu menerima tebusan bagi ⟨dia yang⟩ melarikan diri ke kota tempat perlindungannya, untuk kembali untuk diam di negeri itu, sampai kematian ⟨sang⟩ imam.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "boleh kamu menerima"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "tebusan"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "bagi yang melarikan diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "tempat perlindungannya"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "untuk kembali"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuk diam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    }
+  ],
+  "timestamp": "2026-08-08T07:23:45.680874417Z",
+  "model": "glm-5.2"
+}

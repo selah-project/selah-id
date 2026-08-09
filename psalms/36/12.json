@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Janganlah kaki kesombongan datang kepadaku, dan tangan orang-orang fasik — janganlah ia menggoyahkan aku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "datang kepadaku"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kesombongan"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "dan tangan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "menggoyahkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:18.709670810Z",
+  "model": "glm-5.2"
+}

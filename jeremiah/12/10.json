@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Gembala-gembala banyak telah merusak kebun anggur-Ku, mereka menginjak ⟨את⟩ tanah bagian-Ku; mereka telah memberikan ⟨את⟩ petak kepujaan-Ku menjadi padang gurun yang sunyi.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "gembala-gembala"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "telah merusak"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "kebun anggur-Ku"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "mereka menginjak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah bagian-Ku"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "tanah bagian-Ku"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "mereka telah memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petak kepujaan-Ku"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "petak"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "kepujaan-Ku"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "menjadi padang gurun"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "yang sunyi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:16:35.211993195Z",
+  "model": "glm-5.2"
+}

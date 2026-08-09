@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Tiuplah sangkakala pada bulan baru, pada ⟨waktu⟩ bulan purnama, untuk hari raya kita!",
+  "tokens": [
+    {
+      "surface": "תִּקְע֣וּ",
+      "gloss": "tiuplah"
+    },
+    {
+      "surface": "בַחֹ֣דֶשׁ",
+      "gloss": "pada bulan baru"
+    },
+    {
+      "surface": "שׁוֹפָ֑ר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "בַ֝כֵּ֗סֶה",
+      "gloss": "pada bulan purnama"
+    },
+    {
+      "surface": "לְי֣וֹם",
+      "gloss": "untuk hari"
+    },
+    {
+      "surface": "חַגֵּֽנוּ",
+      "gloss": "raya kita"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:04.927573069Z",
+  "model": "glm-5.2"
+}

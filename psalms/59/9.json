@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Tetapi Engkau, Yahweh, tertawa kepada mereka; Engkau mengejek segala bangsa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tetapi Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "tertawa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "Engkau mengejek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:52.802313741Z",
+  "model": "glm-5.2"
+}

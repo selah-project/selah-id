@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan terjadilah pada keesokan harinya, datanglah orang Pelishti untuk menjarah ⟨את⟩ orang-orang yang tewas, dan menemukanlah ⟨את⟩ Shaúl dan ⟨את⟩ anak-anaknya terjatuh di gunung Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pada keesokan harinya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelishti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "untuk menjarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang tewas"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "orang-orang yang tewas"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dan menemukanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "terjatuh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-08T10:05:53.326034265Z",
+  "model": "glm-5.2"
+}

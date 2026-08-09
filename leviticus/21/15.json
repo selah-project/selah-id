@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "dan tidak ⟨boleh⟩ menajiskan keturunan-nya di tengah kaum-nya; karena Akulah Yahweh yang menguduskan ⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "boleh menajiskan"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "keturunan-nya"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "di tengah kaum-nya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "yang menguduskan-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:02.523009363Z",
+  "model": "glm-5.2"
+}

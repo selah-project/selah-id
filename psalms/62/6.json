@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 62,
+  "translation": "Hanya, kepada Elohim ⟨bersunyilah⟩ jiwaku, karena dari pada-Nya harapanku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "⟨bersunyilah⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari pada-Nya"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "harapanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:04.860629188Z",
+  "model": "glm-5.2"
+}

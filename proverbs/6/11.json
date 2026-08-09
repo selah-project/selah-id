@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "dan datang kemiskinanmu seperti perjalanan, dan kekuranganmu seperti orang bersenjata.",
+  "tokens": [
+    {
+      "surface": "וּבָֽא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "כִמְהַלֵּ֥ךְ",
+      "gloss": "seperti perjalanan"
+    },
+    {
+      "surface": "רֵאשֶׁ֑ךָ",
+      "gloss": "kemiskinanmu"
+    },
+    {
+      "surface": "וּ֝מַחְסֹֽרְךָ֗",
+      "gloss": "dan kekuranganmu"
+    },
+    {
+      "surface": "כְּאִ֣ישׁ",
+      "gloss": "seperti orang"
+    },
+    {
+      "surface": "מָגֵֽן",
+      "gloss": "bersenjata"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:56.575462650Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan empat puluh satu tahun ⟨ia⟩ memerintah di Yerushalayim; dan nama ibunya ⟨adalah⟩ Maakha putri Avishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Dan empat puluh"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "dan satu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:45.549522201Z",
+  "model": "glm-5.2"
+}

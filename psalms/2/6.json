@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "“Adapun aku, aku telah mengurapi raja-Ku, di atas Tsiyon, gunung kekudusan-Ku.”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Adapun aku"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "aku telah mengurapi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kekudusan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:35.701165913Z",
+  "model": "glm-5.2"
+}

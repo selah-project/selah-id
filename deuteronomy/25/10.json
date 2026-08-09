@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Maka nama keluarganya akan disebut di Yisra'el, 'Keluarga ⟨yang⟩ Sandalnya Dilepaskan.'",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "Maka nama keluarganya akan disebut"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisra'el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Keluarga"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "⟨yang⟩ Dilepaskannya"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "Sandal"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:49.762104484Z",
+  "model": "glm-5.2"
+}

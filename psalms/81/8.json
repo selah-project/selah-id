@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Dalam kesesakan engkau berseru dan aku meluputkan engkau; aku menjawab engkau dalam persembunyian guntur; aku menguji engkau di air-air Merivah. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "engkau berseru"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "dan aku meluputkan engkau"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "aku menjawab engkau"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dalam persembunyian"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "guntur"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "aku menguji engkau"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air-air"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merivah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:12.204748255Z",
+  "model": "glm-5.2"
+}

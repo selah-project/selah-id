@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Dan ia menegakkan ⟨את⟩ mezbah Yahweh, dan ia mempersembahkan di atasnya korban keselamatan dan korban syukur, dan ia berkata kepada Yehudah untuk beribadah kepada ⟨את⟩ Yahweh, Elohim-nya Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "dan ia menegakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah Yahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "dan ia mempersembahkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "korban"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "dan syukur"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kepada Yehudah"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "untuk beribadah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-nya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T10:17:36.058432040Z",
+  "model": "glm-5.2"
+}

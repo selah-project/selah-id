@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Juga dalam pikiranmu, janganlah kutuk raja; dan di kamar tidurmu, janganlah kutuk orang kaya; sebab burung langit akan membawa ⟨את⟩ suara itu, dan yang empunya sayap akan memberitahukan perkataan.",
+  "tokens": [
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "בְּמַדָּֽעֲךָ֗",
+      "gloss": "dalam pikiranmu"
+    },
+    {
+      "surface": "מֶ֚לֶךְ",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תְּקַלֵּ֔ל",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "וּבְחַדְרֵי֙",
+      "gloss": "dan di kamar"
+    },
+    {
+      "surface": "מִשְׁכָּבְךָ֔",
+      "gloss": "tidurmu"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תְּקַלֵּ֖ל",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "עָשִׁ֑יר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ע֤וֹף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "הַשָּׁמַ֨יִם֙",
+      "gloss": "langit"
+    },
+    {
+      "surface": "יוֹלִ֣יךְ",
+      "gloss": "akan membawa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "suara itu"
+    },
+    {
+      "surface": "הַקּ֔וֹל",
+      "gloss": "suara itu"
+    },
+    {
+      "surface": "וּבַ֥עַל",
+      "gloss": "dan yang empunya"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "יַגֵּ֥יד",
+      "gloss": "akan memberitahukan"
+    },
+    {
+      "surface": "דָּבָֽר",
+      "gloss": "perkataan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:08.301528420Z",
+  "model": "glm-5.2"
+}

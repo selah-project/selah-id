@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Dan engkau akan melapisinya ⟨את⟩ emas murni: ⟨את⟩ atap-nya dan ⟨את⟩ dinding-dinding-nya sekeliling, dan ⟨את⟩ tanduk-tanduk-nya; dan engkau akan membuat baginya bidai emas sekeliling.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Dan engkau akan melapisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "dia (mezbah)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atap-nya"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "atap-nya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dinding-dinding-nya"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "dinding-dinding-nya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanduk-tanduk-nya"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tanduk-tanduk-nya"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan membuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "bidai"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:24.626233882Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "⟨את⟩ hari-hari sabat-Ku kamu harus pelihara, dan tempat kudus-Ku kamu harus segani: akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari-hari sabat-Ku"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "hari-hari sabat-Ku"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kamu harus pelihara"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "dan tempat kudus-Ku"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamu harus segani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:13:02.605048243Z",
+  "model": "glm-5.2"
+}

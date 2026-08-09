@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 39:9",
+  "book": "job",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Apakah re'em bersedia menjadi pelayanmu, ataukah ia bermalam di kandang kamu?",
+  "tokens": [
+    {
+      "surface": "הֲיֹ֣אבֶה",
+      "gloss": "apakah ⟨ia⟩ bersedia"
+    },
+    {
+      "surface": "רֵּ֣ים",
+      "gloss": "re'em"
+    },
+    {
+      "surface": "עָבְדֶ֑ךָ",
+      "gloss": "menjadi pelayanmu"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ataukah"
+    },
+    {
+      "surface": "יָ֝לִ֗ין",
+      "gloss": "ia bermalam"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "di"
+    },
+    {
+      "surface": "אֲבוּסֶֽךָ",
+      "gloss": "kandangmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:45:15.133382278Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan di setiap kota dan kota ⟨ada⟩ perisai-perisai dan tombak-tombak, dan ⟨ia⟩ menguatkan mereka dengan sangat banyak, dan ⟨tersisalah⟩ baginya Yehudah dan Binyamin.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Dan di setiap"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "dan kota"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "perisai-perisai"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "dan tombak-tombak"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "dan ⟨ia⟩ menguatkan mereka"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "dengan sangat banyak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ⟨tersisalah⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "dan Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-08T12:05:34.647144548Z",
+  "model": "glm-5.2"
+}

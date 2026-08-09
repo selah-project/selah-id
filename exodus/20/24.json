@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "“Mezbah tanah engkau akan membuat bagi-Ku, dan engkau akan menyembelih di atasnya ⟨את⟩ korban bakaranmu dan ⟨את⟩ korban keselamatanmu, ⟨את⟩ kambing dombamu dan ⟨את⟩ lembu sapimu. Di setiap ⟨the⟩ tempat di mana Aku mengingat ⟨את⟩ nama-Ku, Aku akan datang kepadamu dan memberkati engkau.”",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau akan membuat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "dan engkau akan menyembelih"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaranmu"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "korban bakaranmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban keselamatanmu"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "korban keselamatanmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing dombamu"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "kambing dombamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lembu sapimu"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "lembu sapimu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di setiap"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "Aku mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama-Ku"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nama-Ku"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "Aku akan datang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "dan memberkati engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:09.124722550Z",
+  "model": "glm-5.2"
+}

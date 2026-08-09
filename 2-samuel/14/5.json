@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Lalu berkatalah raja kepadanya: “Apakah ⟨yang⟩ menimpamu?” Dan bersabdalah ⟨ia⟩: “Sungguh, akulah seorang janda, dan suamiku telah mati.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menimpamu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan bersabdalah"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "janda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan telah mati"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "suamiku"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:36.449115405Z",
+  "model": "glm-5.2"
+}

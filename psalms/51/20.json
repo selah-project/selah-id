@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Berbuatlah baik dalam kerelaan-Mu kepada Tzion; bangunlah tembok-tembok Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הֵיטִ֣יבָה",
+      "gloss": "Berbuatlah baik"
+    },
+    {
+      "surface": "בִ֭רְצוֹנְךָ",
+      "gloss": "dalam kerelaan-Mu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Tzion"
+    },
+    {
+      "surface": "צִיּ֑וֹן",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "תִּ֝בְנֶ֗ה",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "חוֹמ֥וֹת",
+      "gloss": "tembok-tembok"
+    },
+    {
+      "surface": "יְרוּשָׁלִָֽם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:51.838242931Z",
+  "model": "glm-5.2"
+}

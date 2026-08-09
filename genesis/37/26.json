@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Lalu berkatalah Yehudah kepada saudara-saudaranya, “Apakah untungnya, bahwa kita membunuh ⟨את⟩ saudara kita dan menutupi ⟨את⟩ darahnya?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "untungnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "kita membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara kita"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "saudara kita"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:16.737558992Z",
+  "model": "glm-5.2"
+}

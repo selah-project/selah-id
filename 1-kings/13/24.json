@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 13:24",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan ia pergi, dan seekor singa menjumpainya di jalan dan membunuhnya; dan mayatnya terhempas di jalan, dan keledai itu berdiri dekatnya, dan singa itu berdiri dekat mayat itu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Dan ia pergi"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "dan menjumpainya"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "seekor singa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "dan membunuhnya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "mayatnya"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "terhempas"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "dan keledai itu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "dekatnya"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "dan singa itu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "mayat itu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:10.047628405Z",
+  "model": "glm-5.2"
+}

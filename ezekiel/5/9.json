@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan aku akan melakukan kepadamu ⟨את⟩ yang tidak pernah kulakukan dan ⟨את⟩ yang tidak akan kulakukan seperti itu lagi, karena segala kekejianmu.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "dan aku akan melakukan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kulakukan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan kulakukan"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "seperti itu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "יען",
+      "gloss": "karena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "kekejianmu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:45:13.230109179Z",
+  "model": "glm-5.2"
+}

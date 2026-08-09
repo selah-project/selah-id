@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan tersisa putri Tzion seperti pondok di kebun anggur, seperti pondok jaga di kebun mentimun, seperti kota yang terkepung.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "dan tersisa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "seperti pondok"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "di kebun anggur"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "seperti pondok jaga"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "di kebun mentimun"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "seperti kota"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "yang terkepung"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:14.672807200Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Aku mengejar musuh-musuhku dan menyusul mereka, dan tidak aku berpaling sampai aku menghabisi mereka.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Aku mengejar"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "dan menyusul mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "aku berpaling"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "menghabisi mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:41.323088291Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Lebih baik nama dari minyak yang baik, dan hari kematian dari hari kelahirannya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "dari minyak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "dan hari"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "dari hari"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "kelahirannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:09.407989595Z",
+  "model": "glm-5.2"
+}

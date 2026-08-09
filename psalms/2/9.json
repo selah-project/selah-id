@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Engkau akan meremukkan mereka dengan tongkat besi; seperti bejana tukang tanah engkau akan menghancurkan mereka.",
+  "tokens": [
+    {
+      "surface": "תְּרֹעֵם",
+      "gloss": "engkau akan meremukkan mereka"
+    },
+    {
+      "surface": "בְּשֵׁבֶט",
+      "gloss": "dengan tongkat"
+    },
+    {
+      "surface": "בַּרְזֶל",
+      "gloss": "besi"
+    },
+    {
+      "surface": "כִּכְלִי",
+      "gloss": "seperti bejana"
+    },
+    {
+      "surface": "יוֹצֵר",
+      "gloss": "tukang tanah"
+    },
+    {
+      "surface": "תְּנַפְּצֵם",
+      "gloss": "engkau akan menghancurkan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:31.732049329Z",
+  "model": "glm-5.2"
+}

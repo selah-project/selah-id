@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Bangkitlah, Yahweh; selamatkanlah aku, Elohim-ku, sebab Engkau telah memukul ⟨את⟩ semua musuhku di pipi; gigi orang-orang fasik Engkau telah remukkan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangkitlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "selamatkanlah aku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "Engkau telah memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua musuhku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "di pipi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "Engkau telah remukkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:41.410630704Z",
+  "model": "glm-5.2"
+}

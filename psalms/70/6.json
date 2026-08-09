@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 70,
+  "translation": "Tetapi aku ini miskin dan tertindas; Elohim, segeralah mendapatkan aku! ⟨Engkau⟩ pertolonganku dan pelepasanku ⟨Engkau⟩ Yahweh; janganlah bertunda!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan tertindas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "segeralah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mendapatkan aku"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "pertolonganku"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "dan pelepasanku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨Engkau⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "bertunda"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:54.657508647Z",
+  "model": "glm-5.2"
+}

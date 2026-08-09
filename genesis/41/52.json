@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Dan ⟨את⟩ nama si kedua dipanggilnya Efrayim, sebab “Elohim telah membuatku berbuah di tanah penderitaanku.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "השני",
+      "gloss": "si kedua"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dipanggilnya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "telah membuatku berbuah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "penderitaanku"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:47.602101608Z",
+  "model": "glm-5.2"
+}

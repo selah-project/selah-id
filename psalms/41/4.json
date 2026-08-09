@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Yahweh akan menopangnya di atas ranjang sakit; seluruh tempat tidurnya telah kaubalikkan di dalam kesakitannya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "akan menopangnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ranjang"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "tempat tidurnya"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "telah kaubalikkan"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "di dalam kesakitannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:20.179698612Z",
+  "model": "glm-5.2"
+}

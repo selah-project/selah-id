@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Samu benuk menutupi mereka; turun ke dalam palung seperti batu.",
+  "tokens": [
+    {
+      "surface": "תְּהֹמֹ֖ת",
+      "gloss": "samu benuk"
+    },
+    {
+      "surface": "יְכַסְיֻ֑מוּ",
+      "gloss": "menutupi mereka"
+    },
+    {
+      "surface": "יָרְד֥וּ",
+      "gloss": "turun"
+    },
+    {
+      "surface": "בִמְצוֹלֹ֖ת",
+      "gloss": "ke dalam palung"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "אָֽבֶן",
+      "gloss": "batu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:29:51.986883577Z",
+  "model": "glm-5.2"
+}

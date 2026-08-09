@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan Yahweh akan menjadi tempat perlindungan bagi yang tertindas, tempat perlindungan untuk waktu-waktu dalam kesesakan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan akan menjadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "tempat perlindungan"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "bagi yang tertindas"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "tempat perlindungan"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "untuk waktu-waktu"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "dalam kesesakan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:35:30.204054693Z",
+  "model": "glm-5.2"
+}

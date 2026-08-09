@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "karena ia akan memalingkan ⟨את⟩ anak lelakimu dari mengikuti aku, dan mereka akan beribadah kepada elohim yang lain, maka nyala murka Yahweh terhadapmu dan Ia akan membinasakan engkau dengan segera.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "יָסִ֤יר",
+      "gloss": "ia akan memalingkan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "anak lelakimu"
+    },
+    {
+      "surface": "בִּנְךָ֙",
+      "gloss": "anak lelakimu"
+    },
+    {
+      "surface": "מֵֽאַחֲרַ֔י",
+      "gloss": "dari mengikuti aku"
+    },
+    {
+      "surface": "וְעָבְד֖וּ",
+      "gloss": "dan mereka akan beribadah"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "kepada elohim"
+    },
+    {
+      "surface": "אֲחֵרִ֑ים",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "וְחָרָ֤ה",
+      "gloss": "maka nyala"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בָּכֶ֔ם",
+      "gloss": "terhadapmu"
+    },
+    {
+      "surface": "וְהִשְׁמִידְךָ֖",
+      "gloss": "dan Ia akan membinasakan engkau"
+    },
+    {
+      "surface": "מַהֵֽר",
+      "gloss": "dengan segera"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:13.272618608Z",
+  "model": "glm-5.2"
+}

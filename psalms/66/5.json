@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Datanglah dan lihatlah perbuatan-perbuatan Elohim; ⟨dia⟩ menakutkan dalam perbuatan-⟨nya⟩ atas bani Adam.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Datanglah"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "perbuatan-perbuatan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "menakutkan"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "dalam perbuatan-⟨nya⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:17.393884636Z",
+  "model": "glm-5.2"
+}

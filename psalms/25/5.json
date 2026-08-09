@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Tuntunlah aku dalam kebenaran-Mu dan ajarlah aku, sebab Engkau ⟨adalah⟩ Elohim keselamatanku; kepada-Mu ⟨את⟩ aku menanti-nanti sepanjang hari.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Tuntunlah aku"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dalam kebenaran-Mu"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "dan ajarlah aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "keselamatanku"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "Engkau (objek yang dituju oleh 'menanti-nanti')"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "aku menanti-nanti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:54.612715349Z",
+  "model": "glm-5.2"
+}

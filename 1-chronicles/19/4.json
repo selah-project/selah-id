@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Maka Khanun mengambil ⟨את⟩ hamba-hamba Dawid, dan mencukur mereka, lalu memotong ⟨את⟩ pakaian mereka setengah, sampai pada bagian pinggul, dan menyuruh mereka pergi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Maka mengambil"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Khanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hamba"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "dan mencukur mereka"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "lalu memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian mereka"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "pakaian mereka"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai pada"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "bagian pinggul"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "dan menyuruh mereka pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T12:03:20.174583223Z",
+  "model": "glm-5.2"
+}

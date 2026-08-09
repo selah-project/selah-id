@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "Yahweh, ⟨sampai ke⟩ langit ⟨mencapai⟩ hesed-Mu, kesetiaan-Mu ⟨sampai ke⟩ awan-awan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kesetiaan-Mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan-awan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:03.968217263Z",
+  "model": "glm-5.2"
+}

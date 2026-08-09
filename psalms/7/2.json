@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Yahweh, Elohim-ku, pada-Mu aku berlindung; selamatkan aku dari semua pengejar aku, dan lepaskan aku.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱ֭לֹהַי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "בְּךָ֣",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "חָסִ֑יתִי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "הוֹשִׁיעֵ֥נִי",
+      "gloss": "selamatkan aku"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "dari semua"
+    },
+    {
+      "surface": "רֹ֝דְפַ֗י",
+      "gloss": "pengejar aku"
+    },
+    {
+      "surface": "וְהַצִּילֵֽנִי",
+      "gloss": "dan lepaskan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:07.546684302Z",
+  "model": "glm-5.2"
+}

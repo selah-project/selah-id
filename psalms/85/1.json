@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 85,
+  "translation": "Untuk dirigen, bagi bani Korach, mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk dirigen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:35.078160801Z",
+  "model": "glm-5.2"
+}

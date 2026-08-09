@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Aku akan membuat-engkau-bijaksana dan mengarahkan-engkau di jalan yang ini engkau akan berjalan; aku akan memberi-nasihat, mata-Ku atas engkau.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "aku akan membuat-Engkau-bijaksana"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "dan mengarahkan-Engkau"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "yang ini"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "engkau akan berjalan"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "aku akan memberi-nasihat"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atas-Engkau"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:20.385635429Z",
+  "model": "glm-5.2"
+}

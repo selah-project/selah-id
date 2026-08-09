@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan kamu harus memelihara ⟨את⟩ perkataan perjanjian ini dan melakukannya, supaya kamu berakal budi dalam ⟨את⟩ segala yang kamu lakukan.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Dan kamu harus memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan perjanjian ini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dan melakukannya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan perjanjian ini"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "kamu berakal budi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala yang kamu lakukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kamu lakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:29.928340623Z",
+  "model": "glm-5.2"
+}

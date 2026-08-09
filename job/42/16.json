@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Dan hiduplah Iyov setelah ini seratus empat puluh tahun, dan dilihatnya ⟨את⟩ anak-anaknya dan ⟨את⟩ anak-anak dari anak-anaknya, empat generasi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Dan hiduplah"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan dilihatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak dari anak-anaknya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak dari"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "empat"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "generasi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:45:55.691445167Z",
+  "model": "glm-5.2"
+}

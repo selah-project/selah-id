@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan sekarang, lakukanlah, sebab Yahweh telah berfirman kepada Dawid, katanya: “Dengan tangan Dawid hamba-Ku, selamatkanlah ⟨את⟩ umat-Ku Yisrael dari tangan Pelishti dan dari tangan semua musuh mereka.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lakukanlah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah berfirman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "Dengan tangan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ku"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "selamatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku Yisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dan dari tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "musuh mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T10:59:09.510572583Z",
+  "model": "glm-5.2"
+}

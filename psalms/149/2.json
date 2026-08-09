@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 149,
+  "translation": "Bersukacitalah Yisrael atas Pembuat-nya, anak-anak Tzion bersorak-sorai atas Raja mereka.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Bersukacitalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "atas Pembuat-nya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "atas Raja mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:14.952307963Z",
+  "model": "glm-5.2"
+}

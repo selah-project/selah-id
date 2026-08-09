@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Lalu Yaakov mengangkat kakinya, dan ia berjalan menuju tanah bani-Qedem.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Lalu ia mengangkat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kakinya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ia berjalan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "menuju tanah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Qedem"
+    }
+  ],
+  "timestamp": "2026-08-08T06:49:22.578049414Z",
+  "model": "glm-5.2"
+}

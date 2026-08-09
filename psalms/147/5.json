@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Besarlah Adonai kami dan berlimpah kekuatan, bagi pengertian-Nya tidak ada hitungan.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Besar"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai kami"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dan berlimpah"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "bagi pengertian-Nya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hitungan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:13.736984608Z",
+  "model": "glm-5.2"
+}

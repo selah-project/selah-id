@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan di depan devir ⟨adalah⟩ dua puluh hasta panjang dan dua puluh hasta lebar dan dua puluh asta tinggi-nya; dan ia melapisinya emas murni; dan ia melapisi mizbeaḥ kayu aras.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "dan di depan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "devir"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dan dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dan dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tinggi-nya"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "dan ia melapisinya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan ia melapisi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaḥ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "kayu aras"
+    }
+  ],
+  "timestamp": "2026-08-08T08:02:47.107408145Z",
+  "model": "glm-5.2"
+}

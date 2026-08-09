@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 116,
+  "translation": "Sebab Engkau telah menyelamatkan nafsyiku dari maut, ⟨את⟩ mataku dari tangisan, ⟨את⟩ kakiku dari tersandung.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "Engkau telah menyelamatkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsyiku"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dari maut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "tangisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakiku"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "dari tersandung"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:36.218415174Z",
+  "model": "glm-5.2"
+}

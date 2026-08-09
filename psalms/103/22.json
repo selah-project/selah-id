@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 103,
+  "translation": "Berkatilah Yahweh, segala perbuatan-Nya, di segala tempat kekuasaan-Nya; berkatilah, hai nafshiku, ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Berkatilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "perbuatan-Nya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "kekuasaan-Nya"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "berkatilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafshiku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:41.101508310Z",
+  "model": "glm-5.2"
+}

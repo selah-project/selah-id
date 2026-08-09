@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Dan mereka akan bertumbuh di antara rumput, seperti pohon gandarusa di tepi aluran air.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Dan mereka akan bertumbuh"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "seperti pohon gandarusa"
+    },
+    {
+      "surface": "על",
+      "gloss": "di tepi"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "aluran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:53.108310731Z",
+  "model": "glm-5.2"
+}

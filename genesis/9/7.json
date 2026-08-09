@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Dan kalian, berbuahlah dan bertambahlah, berkerumunlah di bumi, dan bertambahlah di ⟨⟩nya.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "dan kalian"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "berbuahlah"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dan bertambahlah"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "berkerumunlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dan bertambahlah"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:25.786984141Z",
+  "model": "glm-5.2"
+}

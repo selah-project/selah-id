@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dan aku akan berjalan di tempan yang lapang, seari aku telah mencari ⟨את⟩ ketetapan-ketetapanmu.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "dan aku akan berjalan"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "di tempat yang lapang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ketetapan-ketetapanmu"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "aku telah mencari"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:59.266365094Z",
+  "model": "glm-5.2"
+}

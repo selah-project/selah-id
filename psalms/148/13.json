@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 148,
+  "translation": "Biarlah mereka memuji ⟨את⟩ nama Yahweh, sebab ⟨nama⟩-Nya saja yang tinggi terangkat, keagungan-Nya di atas bumi dan langit.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "biarlah mereka memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "tinggi terangkat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "saja"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "keagungan-Nya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "dan langit"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:57.447136390Z",
+  "model": "glm-5.2"
+}

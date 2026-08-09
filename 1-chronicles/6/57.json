@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "dan dari suku Yissaskhar: ⟨את⟩ Qedesh dan ⟨את⟩ tempat penggembalaannya, ⟨את⟩ Daberat dan ⟨את⟩ tempat penggembalaannya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dan dari suku"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tempat penggembalaannya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tempat penggembalaannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tempat penggembalaannya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tempat penggembalaannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:35.387673105Z",
+  "model": "glm-5.2"
+}

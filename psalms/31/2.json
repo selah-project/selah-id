@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Pada-Mu, Yahweh, aku berlindung; jangan biarkan aku malah ⟨selamanya⟩; dalam kebenaran-Mu lepaskanlah aku.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Pada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "biarkan aku malu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selamanya"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dalam kebenaran-Mu"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "lepaskanlah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:38.818672480Z",
+  "model": "glm-5.2"
+}

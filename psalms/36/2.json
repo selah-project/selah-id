@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 36,
+  "translation": "⟨Oracle⟩ pemberontakan orang fasik ⟨sedang berbicara⟩ di tengah hatiku: tidak ada ketakutan akan Elohim di depan matanya.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "⟨Oracle⟩"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pemberontakan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ketakutan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:19.289390279Z",
+  "model": "glm-5.2"
+}

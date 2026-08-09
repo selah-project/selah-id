@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Orang benar untuk selamanya tidak akan tergoyahkan, tetapi orang fasik tidak akan diam di bumi.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "akan tergoyahkan"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "tetapi orang fasik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "akan diam"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:31:40.749106632Z",
+  "model": "glm-5.2"
+}

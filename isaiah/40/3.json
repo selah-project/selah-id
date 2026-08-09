@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Suara ⟨dari seseorang yang⟩ berseru di padang gurun: “Siapkanlah jalan bagi Yahweh, luruskanlah di arabah jalan raya bagi Elohim kita.”",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "⟨dari seseorang yang⟩ berseru"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "Siapkanlah"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "luruskanlah"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di arabah"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "jalan raya"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "bagi Elohim kita"
+    }
+  ],
+  "timestamp": "2026-08-08T12:18:45.919794784Z",
+  "model": "glm-5.2"
+}

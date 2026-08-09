@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 48,
+  "translation": "Besar Yahweh dan sangat terpuji, di kota Elohim kami, gunar kudus-Nya.",
+  "tokens": [
+    {
+      "surface": "גָּ֘ד֤וֹל",
+      "gloss": "besar"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּמְהֻלָּ֣ל",
+      "gloss": "dan terpuji"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "בְּעִ֥יר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "אֱ֝לֹהֵ֗ינוּ",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קָדְשֽׁוֹ",
+      "gloss": "kudus-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:41.467457831Z",
+  "model": "glm-5.2"
+}

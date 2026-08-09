@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "dan aku akan mengulurkan ⟨את⟩ tanganku dan menghantam ⟨את⟩ Mitsrayim dengan segala mujizat-Ku yang akan kulakukan di tengah-tengahnya, dan sesudah itu ia akan mengusir ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "dan aku akan mengulurkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "dan menghantam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segala"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "mujizat-Ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan kulakukan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dan sesudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ia akan mengusir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:43.330741854Z",
+  "model": "glm-5.2"
+}

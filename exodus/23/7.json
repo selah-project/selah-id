@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dari perkara dusta engkau harus menjauh, dan yang tidak bersalah serta yang benar jangan engkau bunuh, karena Aku tidak membenarkan orang fasik.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "dari perkara"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "engkau harus menjauh"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "dan yang tidak bersalah"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "serta yang benar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "engkau bunuh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "Aku membenarkan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:58.953031385Z",
+  "model": "glm-5.2"
+}

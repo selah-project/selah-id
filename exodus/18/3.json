@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan ⟨את⟩ kedua anaknya, yang nama yang satu Gersyom, karena ia berkata, “Orang asing aku telah berada di tanah asing.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "kedua anaknya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersyom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ia berkata"
+    },
+    {
+      "surface": "גר",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku telah berada"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:17.581742576Z",
+  "model": "glm-5.2"
+}

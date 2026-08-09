@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Inilah ⟨yang⟩ dinahkan Moshe di Arabot Moav, di seberang Yarden, Yerikho, ke arah timur.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨yang⟩"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "dinahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "di Arabot"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ke arah timur"
+    }
+  ],
+  "timestamp": "2026-08-08T10:50:08.077902675Z",
+  "model": "glm-5.2"
+}

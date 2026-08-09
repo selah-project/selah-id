@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Bersaranglah tanah mereka katak, di kamar-kamar raja-raja mereka.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "bersaranglah"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanah mereka"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "katak"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "di kamar-kamar"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "raja-raja mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:02.859587517Z",
+  "model": "glm-5.2"
+}

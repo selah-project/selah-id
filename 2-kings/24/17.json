@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan raja Bavel menobatkan ⟨את⟩ Mattanyah, paman ⟨dia⟩, menggantikan dia, dan mengubah ⟨את⟩ namanya menjadi Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "menobatkan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanyah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanyah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "paman"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikan dia"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "mengubah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:08:10.967770461Z",
+  "model": "glm-5.2"
+}

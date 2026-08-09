@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan mereka mempersembahkan ⟨את⟩ anak-anak lelaki mereka dan ⟨את⟩ anak-anak perempuan mereka kepada para shedim.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "dan mereka mempersembahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak lelaki mereka"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anak lelaki mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak perempuan mereka"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "anak-anak perempuan mereka"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kepada para shedim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:05.734703324Z",
+  "model": "glm-5.2"
+}

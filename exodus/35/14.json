@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "dan ⟨את⟩ kandil penerangan, dan ⟨את⟩ perkakasnya, dan ⟨את⟩ lampu-lampunya, dan ⟨את⟩ minyak penerangan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kandil penerangan"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "penerangan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perkakasnya"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lampu-lampunya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampunya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak penerangan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "penerangan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:05.113860871Z",
+  "model": "glm-5.2"
+}

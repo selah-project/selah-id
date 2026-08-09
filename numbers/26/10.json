@@ -1,0 +1,88 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "numbers 26:10",
+ "book": "numbers",
+ "lang": "id",
+ "chapter": 26,
+ "translation": "Dan bumi membuka mulutnya dan menelan mereka bersama ⟨את⟩ Korach pada kematian jemaat, ketika api memakan ⟨את⟩ lima puluh dan dua ratus orang, dan mereka menjadi tanda.",
+ "tokens": [
+  {
+   "surface": "ותפתח",
+   "gloss": "dan membuka"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "bumi"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "mulutnya"
+  },
+  {
+   "surface": "פיה",
+   "gloss": "mulutnya"
+  },
+  {
+   "surface": "ותבלע",
+   "gloss": "dan menelan"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "bersama ⟨את⟩",
+   "marks": "Korach"
+  },
+  {
+   "surface": "קרח",
+   "gloss": "Korach"
+  },
+  {
+   "surface": "במות",
+   "gloss": "pada kematian"
+  },
+  {
+   "surface": "העדה",
+   "gloss": "jemaat"
+  },
+  {
+   "surface": "באכל",
+   "gloss": "ketika memakan"
+  },
+  {
+   "surface": "האש",
+   "gloss": "api"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "lima puluh dan dua ratus orang"
+  },
+  {
+   "surface": "חמשים",
+   "gloss": "lima puluh"
+  },
+  {
+   "surface": "ומאתים",
+   "gloss": "dan dua ratus"
+  },
+  {
+   "surface": "איש",
+   "gloss": "orang"
+  },
+  {
+   "surface": "ויהיו",
+   "gloss": "dan mereka menjadi"
+  },
+  {
+   "surface": "לנס",
+   "gloss": "menjadi tanda"
+  }
+ ],
+ "timestamp": "2026-08-09T01:44:47.515838832Z",
+ "model": "glm-5.2"
+}

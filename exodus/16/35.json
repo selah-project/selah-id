@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 16:35",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan bani Yisra'el memakan ⟨את⟩ man empat puluh tahun, sampai mereka datang ke tanah yang dihuni; ⟨את⟩ man mereka makan sampai mereka datang ke batas tanah Kena'an.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dan bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באם",
+      "gloss": "mereka datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "yang dihuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mereka makan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באם",
+      "gloss": "mereka datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "batas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-08T10:30:35.887829423Z",
+  "model": "glm-5.2"
+}

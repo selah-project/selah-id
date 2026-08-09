@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 115,
+  "translation": "Bet Aharon, berserahlah kepada Yahweh; pertolongan mereka dan perisai mereka ⟨adalah⟩ Dia.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "berserahlah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pertolongan mereka"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "dan perisai mereka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:38.608948139Z",
+  "model": "glm-5.2"
+}

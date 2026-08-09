@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Untuk Dawid. Yahweh ⟨adalah⟩ terangku dan keselamatanku — dari siapa aku takut? Yahweh ⟨adalah⟩ perlindungan hidupku — dari siapa aku gentar?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "terangku"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "dan keselamatanku"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "dari siapa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hidupku"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "dari siapa"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "aku gentar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:39.643972900Z",
+  "model": "glm-5.2"
+}

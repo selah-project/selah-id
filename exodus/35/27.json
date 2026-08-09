@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Dan para pemimpin membawa ⟨את⟩ batu syoham dan ⟨את⟩ batu permata untuk efod dan untuk tutup dada.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "Dan para pemimpin"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu syoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "syoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "batu permata"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "permata"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "untuk efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "dan untuk tutup dada"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:44.746232937Z",
+  "model": "glm-5.2"
+}

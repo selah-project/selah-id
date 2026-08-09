@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan Elohim membuat ⟨את⟩ dua penerangan besar itu — ⟨את⟩ penerangan besar itu untuk memerintah hari itu, dan ⟨את⟩ penerangan kecil itu untuk memerintah malam itu — dan ⟨את⟩ bintang-bintang itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua penerangan besar itu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "penerangan"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "besar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penerangan besar itu"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "penerangan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "besar"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "untuk memerintah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penerangan kecil itu"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "penerangan"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kecil"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "untuk memerintah"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bintang-bintang itu"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "bintang-bintang"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:58.364187325Z",
+  "model": "glm-5.2"
+}

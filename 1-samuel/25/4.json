@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Maka mendengarlah Dawid di padang gurun bahwa Naval sedang menyukur ⟨את⟩ kawanan ternaknya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "maka mendengarlah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "sedang menyukur"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanan ternaknya"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "kawanan ternaknya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:09.035310855Z",
+  "model": "glm-5.2"
+}

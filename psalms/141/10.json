@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 141,
+  "translation": "Biarlah orang-orang fasik jatuh ke dalam jaring-jaring mereka sendiri bersama-sama; aku, sampai aku lewat.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "biarlah jatuh"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "ke dalam jaring-jaring mereka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "aku lewat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:29.301980312Z",
+  "model": "glm-5.2"
+}

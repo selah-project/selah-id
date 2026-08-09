@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lalu ⟨ia⟩ berkata, “Pergilah, Daniyel, sebab tertutup dan tersegellah perkataan-perkataan itu sampai waktu akhir.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "tertutup"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "dan tersegel"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "akhir"
+    }
+  ],
+  "timestamp": "2026-08-08T09:56:09.556145961Z",
+  "model": "glm-5.2"
+}

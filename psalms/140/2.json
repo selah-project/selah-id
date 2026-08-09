@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 140,
+  "translation": "Lepaskanlah aku, Yahweh, dari manusia jahat; dari laki-laki kekerasan jaga-lah aku.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Lepaskanlah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari manusia"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari laki-laki"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "jaga-lah aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:32.961001578Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Maka Dawid mengirim pengintai, dan ⟨ia⟩ mengetahui bahwa Shaul telah datang ke Nakon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Maka mengirim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "pengintai"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "dan mengetahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nakon"
+    }
+  ],
+  "timestamp": "2026-08-08T07:52:19.317839383Z",
+  "model": "glm-5.2"
+}

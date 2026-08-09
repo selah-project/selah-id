@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Tidak, ⟨Ia⟩ tidak melakukan demikian kepada setiap bangsa; dan ⟨mengenai⟩ peraturan-peraturan, sama sekali tidak mereka mengenalnya. Pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Ia⟩ melakukan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada setiap"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "dan peraturan-peraturan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sama sekali tidak"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "mereka mengenalnya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:36.357104913Z",
+  "model": "glm-5.2"
+}

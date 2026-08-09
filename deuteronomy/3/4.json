@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan kami merebut ⟨את⟩ seluruh kotanya pada waktu itu; tidak ada kota yang tidak kami ambil dari mereka: enam puluh kota, seluruh wilayah Argob, kerajaan Og di Bashan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "Dan kami merebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh kotanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "kotanya"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "kami ambil"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "dari mereka"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "enam puluh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "wilayah"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "di Bashan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:53.498851463Z",
+  "model": "glm-5.2"
+}

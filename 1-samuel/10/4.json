@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan mereka akan menanyakan kesejahteraanmu, dan memberikan kepadamu dua roti, dan engkau akan mengambilnya dari tangan mereka.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "Dan mereka akan menanyakan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kesejahteraanmu"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau akan mengambilnya"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "dari tangan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:47:22.290356226Z",
+  "model": "glm-5.2"
+}

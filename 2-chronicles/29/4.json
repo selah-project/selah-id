@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan ia membawa masuk ⟨את⟩ para imam dan ⟨את⟩ orang-orang Lewi, dan mengumpulkan mereka ke alun-alun sebelah timur.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dan ia membawa masuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orang Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "orang-orang Lewi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "dan mengumpulkan mereka"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "ke alun-alun"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "sebelah timur"
+    }
+  ],
+  "timestamp": "2026-08-08T12:07:40.096884851Z",
+  "model": "glm-5.2"
+}

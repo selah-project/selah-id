@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Angkatlah langkahmu menuju reruntuhan abadi! Segala kejahatan yang musuh lakukan di tempat kudus!",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Angkatlah"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "langkahmu"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "menuju reruntuhan"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "abadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tempat kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:13.081404942Z",
+  "model": "glm-5.2"
+}

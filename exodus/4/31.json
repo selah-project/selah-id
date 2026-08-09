@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu percayalah bangsa itu, dan mereka mendengar bahwa Yahweh telah mengingat ⟨את⟩ bani Yisra'el, dan bahwa ⟨dia⟩ telah melihat ⟨את⟩ penderitaan mereka; dan mereka menunduk dan sujud.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "Lalu percayalah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "dan mereka mendengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "telah mengingat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan bahwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penderitaan mereka"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "penderitaan mereka"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "dan mereka menunduk"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dan sujud"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:40.140415538Z",
+  "model": "glm-5.2"
+}

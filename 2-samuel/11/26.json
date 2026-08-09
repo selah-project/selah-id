@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Maka istri Uria mendengar bahwa Uria suaminya telah mati, lalu ia meratapi suaminya.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Maka mendengarlah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "suaminya"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "lalu meratapi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "suaminya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:56:12.794799582Z",
+  "model": "glm-5.2"
+}

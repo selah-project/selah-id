@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Tetapi jika imam melihat, dan lihat, pudarlah noda itu setelah dicuci, maka ia mengoyaknya dari pakaian, atau dari kulit, atau dari lungsin, atau dari pakan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "pudarlah"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "noda itu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "dicuci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (noda itu)"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "maka mengoyaknya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (bagian yang dinodai)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "lungsin"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "pakan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:25.932888734Z",
+  "model": "glm-5.2"
+}

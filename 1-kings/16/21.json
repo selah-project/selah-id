@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 16:21",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Maka terbagilah ⟨am⟩ Yisra'el menjadi dua: setengah dari ⟨am⟩ berada di belakang Tibni bin Ginat untuk mengangkatnya menjadi raja, dan setengah ⟨itu⟩ di belakang Omri.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "maka pada waktu itu"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "terbagilah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨am⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "menjadi dua"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dari ⟨am⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "berada"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginat"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "untuk mengangkatnya menjadi raja"
+    },
+    {
+      "surface": "והחצי",
+      "gloss": "dan setengah ⟨itu⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-08T08:06:17.593599922Z",
+  "model": "glm-5.2"
+}

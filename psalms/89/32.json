@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "jika mereka melanggar ketetapan-Ku, dan perintah-perintah-Ku tidak mereka jaga,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ketetapan-Ku"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "mereka melanggar"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dan perintah-perintah-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "mereka jaga"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:14.362462579Z",
+  "model": "glm-5.2"
+}

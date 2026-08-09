@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 51,
+  "translation": "Berilah kasih karunia kepadaku, hai Elohim, menurut hesed-Mu; menurut kelimpahan rahim-sayang-Mu hapuskanlah pelanggaranku.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Berilah kasih karunia kepadaku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "hai Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "menurut hesed-Mu"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "menurut kelimpahan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahim-sayang-Mu"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "hapuskanlah"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pelanggaranku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:14:51.840168666Z",
+  "model": "glm-5.2"
+}

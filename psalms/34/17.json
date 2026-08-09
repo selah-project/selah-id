@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Wajah Yahweh ⟨terhadap⟩ para pelaku kejahatan, untuk melenyapkan dari bumi peringatan mereka.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "Wajah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "terhadap para pelaku"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "untuk melenyapkan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "peringatan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:31.328817018Z",
+  "model": "glm-5.2"
+}

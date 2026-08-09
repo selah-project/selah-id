@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 131,
+  "translation": "Biarlah Yisra'el menanti-nantikan kepada Yahweh, dari sekarang dan sampai selamanya.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Biarlah menanti-nantikan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari sekarang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:56.731310482Z",
+  "model": "glm-5.2"
+}

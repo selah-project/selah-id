@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan Yisra'el melupakan ⟨את⟩ Pembuatnya, dan membangun istana-istana; sedang Yehuda memperbanyak kota-kota berkubu; tetapi Aku akan mengirim api ke kota-kotanya, dan api itu akan memakan benteng-bentengnya.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "Dan melupakan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pembuatnya"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Pembuatnya"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan membangun"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "istana-istana"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "sedang Yehuda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "memperbanyak"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "tetapi Aku akan mengirim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ke kota-kotanya"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dan api itu akan memakan"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "benteng-bentengnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:28:44.571765666Z",
+  "model": "glm-5.2"
+}

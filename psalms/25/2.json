@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Elohim-ku, pada-Mu aku percaya; janganlah aku mendapat malu; janganlah musuhku bersorak-sorai atas aku.",
+  "tokens": [
+    {
+      "surface": "אֱֽלֹהַ֗י",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "בְּךָ֣",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "בָ׭ַחְתִּי",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "אֵב֑וֹשָׁה",
+      "gloss": "aku mendapat malu"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יַֽעַלְצ֖וּ",
+      "gloss": "bersorak-sorai"
+    },
+    {
+      "surface": "אֹיְבַ֣י",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "atas aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:28.525529770Z",
+  "model": "glm-5.2"
+}

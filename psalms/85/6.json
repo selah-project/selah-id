@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 85,
+  "translation": "Untuk selamanyakah ⟨Engkau⟩ murka terhadap kami? ⟨Engkau⟩ memanjangkan murka-Mu dari keturunan ke keturunan?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Untuk selamanyakah"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "⟨Engkau⟩ murka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "terhadap kami"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "⟨Engkau⟩ memanjangkan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murka-Mu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dari keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ke keturunan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:35.564884146Z",
+  "model": "glm-5.2"
+}

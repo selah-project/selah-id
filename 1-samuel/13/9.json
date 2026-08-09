@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Lalu berkatalah Shaul: “Bawalah kepadaku ⟨את⟩ korban bakaran dan ⟨את⟩ korban keselamatan.” Dan ia mempersembahkan ⟨את⟩ korban bakaran itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "Bawalah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "dan korban keselamatan"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "Dan ia mempersembahkan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:43.438259189Z",
+  "model": "glm-5.2"
+}

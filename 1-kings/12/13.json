@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lalu raja menjawab ⟨את⟩ rakyat dengan keras, dan meninggalkan ⟨את⟩ nasihat para tetua yang telah mereka nasihatkan kepadanya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lalu menjawab"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakyat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "dengan keras"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "dan meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasihat"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para tetua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "mereka nasihatkan kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:05:40.154044189Z",
+  "model": "glm-5.2"
+}

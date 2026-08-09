@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 75,
+  "translation": "Apabila aku mengambil ⟨waktu⟩ pertemuan yang ditetapkan, aku, dengan keadilan, aku menghukum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "aku mengambil"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan yang ditetapkan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "dengan keadilan"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "aku menghukum"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:57.225933601Z",
+  "model": "glm-5.2"
+}

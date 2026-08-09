@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Jangan engkau memberi ⟨את⟩ mulutmu untuk membuat berdosa ⟨את⟩ tubuhmu, dan jangan engkau berkata di hadapan ha-mala'akh bahwa ⟨itu⟩ kelalaian — mengapakah Elohim akan murka atas suaramu dan merusakkan ⟨את⟩ perbuatan tanganmu?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulutmu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "untuk membuat berdosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tubuhmu"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "tubuhmu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "engkau berkata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ha-mala'akh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "kelalaian"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨itu⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "akan murka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "dan merusakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perbuatan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:13.524978581Z",
+  "model": "glm-5.2"
+}

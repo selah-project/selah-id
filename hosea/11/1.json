@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Ketika Israel ⟨belum dewasa⟩, Aku mencintai dia, dan dari Mitsrayim Aku memanggil anak-Ku.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "נַ֥עַר",
+      "gloss": "belum dewasa"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וָאֹהֲבֵ֑הוּ",
+      "gloss": "Aku mencintai dia"
+    },
+    {
+      "surface": "וּמִמִּצְרַ֖יִם",
+      "gloss": "dan dari Mitsrayim"
+    },
+    {
+      "surface": "קָרָ֥אתִי",
+      "gloss": "Aku memanggil"
+    },
+    {
+      "surface": "לִבְנִֽי",
+      "gloss": "anak-Ku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:42.127702224Z",
+  "model": "glm-5.2"
+}

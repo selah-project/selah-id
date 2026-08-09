@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Tetapi jika sungguh dicuri dari padanya, ia harus membayar ganti rugi kepada pemiliknya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tetapi jika"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "dicuri"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ia harus membayar ganti rugi"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "kepada pemiliknya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:09.550672750Z",
+  "model": "glm-5.2"
+}

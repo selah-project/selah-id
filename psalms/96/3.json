@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 96,
+  "translation": "Ceritakanlah di antara bangsa-bangsa kemuliaan-Nya, di antara segala kaum keajaiban-keajaiban-Nya.",
+  "tokens": [
+    {
+      "surface": "סַפְּר֣וּ",
+      "gloss": "ceritakanlah"
+    },
+    {
+      "surface": "בַגּוֹיִ֣ם",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "כְּבוֹד֑וֹ",
+      "gloss": "kemuliaan-Nya"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "di antara segala"
+    },
+    {
+      "surface": "הָֽ֝עַמִּ֗ים",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "נִפְלְאוֹתָֽיו",
+      "gloss": "keajaiban-keajaiban-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:28.065580468Z",
+  "model": "glm-5.2"
+}

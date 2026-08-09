@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 127,
+  "translation": "Sia-sialah bagi kamu, wahai orang-orang yang bangun pagi, yang bangun awal; yang menunda duduk, pemakan roti kesedihan; demikianlah ⟨Dialah⟩ memberikan kepada yang dikasihi-Nya tidur.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "sia-sialah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "yang bangun pagi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "yang bangun awal"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "yang menunda"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "pemakan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "kesedihan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "kepada yang dikasihi-Nya"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "tidur"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:26.055725444Z",
+  "model": "glm-5.2"
+}

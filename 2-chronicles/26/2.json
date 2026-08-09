@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Dialah yang membangun ⟨את⟩ Eilot, dan ⟨dia⟩ memulihkannya bagi Yehudah, setelah raja itu beristirahat bersama ⟨את⟩ nenek-moyangnya.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "dan memulihkannya"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "bagi Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "beristirahat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek-moyangnya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:07:22.427569863Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 89:43",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Engkau telah meninggikan tangan kanan para lawannya, Engkau telah menyukacitakan semua musuhnya.",
+  "tokens": [
+    {
+      "surface": "הרימות",
+      "gloss": "Engkau telah meninggikan"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan kanan"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "para lawannya"
+    },
+    {
+      "surface": "השמחת",
+      "gloss": "Engkau telah menyukacitakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "musuhnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:15.161767883Z",
+  "model": "glm-5.2"
+}

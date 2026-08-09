@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan imam itu akan mengoyak-goyangkan ⟨אתם⟩ di atas roti buah-buahan pertama, sebagai persembahan unjukan di hadapan Yahweh, bersama dua domba jantan itu — kudus ⟨mereka⟩ bagi Yahweh, bagi imam.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "dan ia akan mengoyak-goyangkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "mereka (roti buah-buahan pertama dan dua domba jantan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "buah-buahan pertama"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "persembahan unjukan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mereka akan menjadi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bagi imam"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:39.770573109Z",
+  "model": "glm-5.2"
+}

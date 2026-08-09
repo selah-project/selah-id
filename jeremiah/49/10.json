@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "Tetapi Akulah yang menelanjangi ⟨את⟩ Esav, Aku telah membongkar ⟨את⟩ persembunyiannya, dan ia tidak akan dapat bersembunyi; benihnya telah dijarah, dan saudara-saudaranya, dan tetangga-tetangganya, dan ia tidak ada lagi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "telah menelanjangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "telah membongkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembunyiannya"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "persembunyiannya"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "dan bersembunyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ia akan dapat"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "telah dijarah"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "benihnya"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "dan saudara-saudaranya"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "dan tetangga-tetangganya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan ia tidak ada lagi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:20:35.791327697Z",
+  "model": "glm-5.2"
+}

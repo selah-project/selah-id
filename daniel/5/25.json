@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan inilah tulisan yang dituliskan: MENE, MENE, TEKEL, UPHARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "Dan ini"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "tulisan"
+    },
+    {
+      "surface": "די",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "dituliskan"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "UPHARSIN"
+    }
+  ],
+  "timestamp": "2026-08-08T12:26:08.721376975Z",
+  "model": "glm-5.2"
+}

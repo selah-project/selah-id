@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Elohim mendengar ⟨את⟩ erangan mereka, dan Elohim mengingat ⟨את⟩ perjanjian-Nya, ⟨את⟩ Avraham, ⟨את⟩ Yitschaq, dan ⟨את⟩ Ya'aqov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dan mendengar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erangan mereka"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "erangan mereka"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "dan mengingat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Nya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjian-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Ya'aqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqov"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:29.603698333Z",
+  "model": "glm-5.2"
+}

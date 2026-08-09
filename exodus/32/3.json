@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Maka seluruh bangsa itu melepaskan ⟨את⟩ cincin-cincin emas yang ada di telinga mereka, dan mereka membawa kepada Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "Maka … melepaskan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cincin-cincin emas"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "cincin-cincin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "di telinga mereka"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dan mereka membawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:01.536592265Z",
+  "model": "glm-5.2"
+}

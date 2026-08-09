@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Maka Paroh Nekoh mengangkat ⟨את⟩ Elyakim bin Yoshiyahu menggantikan Yoshiyahu ayahnya, dan mengubah ⟨את⟩ namanya menjadi Yehoyakim; dan ⟨את⟩ Yehoachaz ia ambil, lalu dibawanya ke Mitsrayim, dan ia mati di sana.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "mengangkat menjadi raja"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "mengubah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ia ambil"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dibawanya ke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ia mati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:56.861427266Z",
+  "model": "glm-5.2"
+}

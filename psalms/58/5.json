@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 58,
+  "translation": "racun mereka seperti racun ular, seperti ular kobra yang tuli yang menutup telinganya",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "racun"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "racun"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ular"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ular kobra"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "yang tuli"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "yang menutup"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "telinganya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:27.677445597Z",
+  "model": "glm-5.2"
+}

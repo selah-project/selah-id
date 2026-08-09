@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "yang mulut mereka berbicara kekosongan, dan tangan kanan mereka ⟨adalah⟩ tangan kanan dusta.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "kekosongan"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "dan tangan kanan mereka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan kanan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:14.347935083Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Setiap orang yang berhati-hati bertindak dengan pengetahuan, tetapi orang bodoh menyebarkan kebodohan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Setiap"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "orang yang berhati-hati"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bertindak"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "dengan pengetahuan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "tetapi orang bodoh"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "menyebarkan"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kebodohan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:14.974584933Z",
+  "model": "glm-5.2"
+}

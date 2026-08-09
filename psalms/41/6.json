@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Musuhku berkata hal jahat terhadapku: “Kapan ia akan mati dan nama-nama itu binasa?”",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Musuhku"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kapan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ia akan mati"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "dan ⟨itu⟩ binasa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:17.243909175Z",
+  "model": "glm-5.2"
+}

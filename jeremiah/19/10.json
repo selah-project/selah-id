@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Maka engkau akan memecahkan ⟨את⟩ tempayan itu di depan mata orang-orang yang berjalan bersamamu.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "Maka engkau akan memecahkan"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "tempayan itu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di depan mata"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "bersamamu"
+    }
+  ],
+  "timestamp": "2026-08-09T01:41:45.646222384Z",
+  "model": "glm-5.2"
+}

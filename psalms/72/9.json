@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 72,
+  "translation": "Di hadapan-Nya ⟩para penghuni gurun⟨ akan bertelut, dan musuhnya akan menjilat debu.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "Di hadapan-Nya"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "akan bertelut"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "⟩para penghuni gurun⟨"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "dan musuhnya"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "akan menjilat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:24.596861638Z",
+  "model": "glm-5.2"
+}

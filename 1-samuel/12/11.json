@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Maka Yahweh mengutus ⟨את⟩ Yerubaal dan ⟨את⟩ Bedan dan ⟨את⟩ Yiftakh dan ⟨את⟩ Shemuel, dan ⟨ia⟩ menyelamatkan ⟨את⟩kamu dari tangan musuh-musuhmu yang di sekeliling, dan kamu diam dalam keamanan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Maka … mengutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yiftakh"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "dan menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamu",
+      "marks": "dari tangan musuh-musuhmu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuhmu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "yang di sekeliling"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "dan kamu diam"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "dalam keamanan"
+    }
+  ],
+  "timestamp": "2026-08-08T23:21:33.872115706Z",
+  "model": "glm-5.2"
+}

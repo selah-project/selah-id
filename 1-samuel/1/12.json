@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan terjadilah, ketika ⟨dia⟩ memperpanjang berdoa di hadapan Yahweh, bahwa Eli mengawasi ⟨את⟩ mulutnya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "⟨dia⟩ memperpanjang"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "berdoa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "bahwa Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mengawasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulutnya"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mulutnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:17.191708357Z",
+  "model": "glm-5.2"
+}

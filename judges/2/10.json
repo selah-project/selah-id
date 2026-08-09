@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan juga seluruh angkatan itu dikumpulkan kepada nenek moyangnya, dan bangkitlah angkatan lain sesudah mereka, yang tidak mengenal ⟨את⟩ Yahweh dan juga ⟨את⟩ perbuatan yang telah dilakukan-Nya bagi Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "angkatan itu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "dikumpulkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "nenek moyangnya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dan bangkitlah"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sesudah mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perbuatan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan-Nya"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bagi Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T10:51:36.441586777Z",
+  "model": "glm-5.2"
+}

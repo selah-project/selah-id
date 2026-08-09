@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan ⟨ia⟩ melahirkan seorang anak laki-laki, dan ⟨ia⟩ memanggil ⟨את⟩ namanya Gershom, karena ⟨ia⟩ berkata, “Orang asing aku telah menjadi di tanah asing.”",
+  "tokens": [
+    {
+      "surface": "וילד",
+      "gloss": "Dan melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak laki-laki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "גר",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku telah menjadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:29.603490816Z",
+  "model": "glm-5.2"
+}

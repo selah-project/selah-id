@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "dan sebab itu Aku telah bersumpah kepada rumah Eli: jika kesalahan rumah Eli akan dihapuskan dengan korban dan dengan persembahan, sampai selamanya — tidak.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "dan sebab itu"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Aku telah bersumpah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kepada rumah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "akan dihapuskan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "dengan korban"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "dan dengan persembahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:46:16.165564056Z",
+  "model": "glm-5.2"
+}

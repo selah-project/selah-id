@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 15:22",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 15,
+  "translation": "Dan setiap orang yang menyentuh segala perkakas yang ia duduki di atasnya harus mencuci pakiannya dan membasuh ⟨dirinya⟩ dengan air, dan ⟨ia⟩ tuma sampai waktu petang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ia duduki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "harus mencuci"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakiannya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan membasuh"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan tuma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "waktu petang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:09:50.414435746Z",
+  "model": "glm-5.2"
+}

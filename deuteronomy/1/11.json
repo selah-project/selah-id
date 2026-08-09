@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim nenek-moyang kalian, menambahkan atas kalian seperti kalian seribu kali lipat, dan memberkati ⟨את⟩ kalian seperti yang telah difirmankan kepada kalian!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "nenek-moyang kalian"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "menambahkan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "atas kalian"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "seperti kalian"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali lipat"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan memberkati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:13.065320668Z",
+  "model": "glm-5.2"
+}

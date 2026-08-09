@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu katanya, “Bukan aku yang mengganggu ⟨את⟩ Yisra'el, melainkan engkau dan keluarga ayahmu, karena kamu telah meninggalkan ⟨את⟩ mitzot Yahweh, dan kamu telah mengikuti ⟨את⟩ ha-Ba'alim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "aku yang mengganggu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אם",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dan keluarga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "kamu telah meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitzot"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mitzot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "dan kamu telah mengikuti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ha-Ba'alim"
+    }
+  ],
+  "timestamp": "2026-08-08T11:03:41.193702449Z",
+  "model": "glm-5.2"
+}

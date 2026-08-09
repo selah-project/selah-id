@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Dan berkelilinglah anak-anaknya, mengemislah dan mencarilah ⟨roti⟩ dari reruntuhan ⟨rumah⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "dan berkelilinglah"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "berkeliling"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "dan mengemislah"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "dan mencarilah"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "dari reruntuhan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:52.309141802Z",
+  "model": "glm-5.2"
+}

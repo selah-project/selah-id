@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan engkau ambil ⟨את⟩ domba jantan yang kedua, dan Aharon serta anak-anaknya meletakkan ⟨את⟩ tangan mereka di atas kepala domba jantan itu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau ambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba jantan yang kedua"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "dan menyokong"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:02:59.425595829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Lebih baik mendengar teguran orang bijaksana daripada ⟨seorang⟩ orang mendengarkan nyanyian orang-orang bodoh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijaksana"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "daripada ⟨seorang⟩ orang"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:25.611797172Z",
+  "model": "glm-5.2"
+}

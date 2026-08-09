@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Ada penyakit yang menyakitkan yang kulihat di bawah matahari: kekayaan yang disimpan untuk pemiliknya menjadi kerugiannya.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yang menyakitkan"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "penyakit"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "yang kulihat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "yang disimpan"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "untuk pemiliknya"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "menjadi kerugiannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:02.405642011Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 53,
+  "translation": "Sungguh, penyakit kami ⟨ialah⟩ yang dipikul-Nya, dan penderitaan kami ⟨ialah⟩ yang ditanggung-Nya; tetapi kita menganggapnya tertimpa, dipukul oleh Elohim, dan ditekan.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "penyakit kami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dipikul-Nya"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "dan penderitaan kami"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "ditanggung-Nya"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tetapi kita"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "menganggapnya"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "tertimpa"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "dipukul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oleh Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "dan ditekan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:11.556955085Z",
+  "model": "glm-5.2"
+}

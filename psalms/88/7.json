@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Engkau telah menempatkan aku di sumur yang paling bawah, di tempat-tempat gelap, di samudera-samudera.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Engkau telah menempatkan aku"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "di sumur"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "yang paling bawah"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "di tempat-tempat gelap"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "di samudera-samudera"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:32.967333061Z",
+  "model": "glm-5.2"
+}

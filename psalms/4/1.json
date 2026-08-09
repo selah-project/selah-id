@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Untuk dirigen, dengan permainan gesek, mizmor bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk dirigen"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "dengan permainan gesek"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:25.061986423Z",
+  "model": "glm-5.2"
+}

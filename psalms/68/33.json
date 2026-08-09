@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Kerajaan-kerajaan ⟨di⟩ bumi, nyanyikanlah bagi Elohim, mazmurkanlah bagi Adonai. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "kerajaan-kerajaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyanyikanlah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bagi Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mazmurkanlah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:51.513649279Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨את⟩ bangsa itu diperintahkan Yehoshua, berkata: “Janganlah kamu berteriak dan janganlah memperdengarkan ⟨את⟩ suaramu, dan janganlah keluar dari mulutmu sesuatu perkataan, sampai hari ⟨aku⟩ berkata kepadamu: Berteriaklah!” — maka kamu akan berteriak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "kamu berteriak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "memperdengarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaramu"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "dari mulutmu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sesuatu perkataan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "berteriaklah"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "maka kamu akan berteriak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:49:06.647597289Z",
+  "model": "glm-5.2"
+}

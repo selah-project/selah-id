@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Mazmur pengajaran oleh Asaf. Berikanlah telinga, umatku, kepada toratku, condongkanlah telingamu kepada ucapan mulutku.",
+  "tokens": [
+    {
+      "surface": "מַשְׂכִּיל",
+      "gloss": "mazmur pengajaran"
+    },
+    {
+      "surface": "לְאָ֫סָף",
+      "gloss": "oleh Asaf"
+    },
+    {
+      "surface": "הַאֲזִינָה",
+      "gloss": "berikanlah telinga"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "תּוֹרָתִי",
+      "gloss": "kepada toratku"
+    },
+    {
+      "surface": "הַטּוּ",
+      "gloss": "condongkanlah"
+    },
+    {
+      "surface": "אָזְנְכֶם",
+      "gloss": "telingamu"
+    },
+    {
+      "surface": "לְאִמְרֵי",
+      "gloss": "kepada ucapan"
+    },
+    {
+      "surface": "פִי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:32.727972927Z",
+  "model": "glm-5.2"
+}

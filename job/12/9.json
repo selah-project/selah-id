@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Siapa yang tidak mengetahui di antara semua ini, bahwa tangan Yahweh yang membuat ⟨זֹאת⟩ ini?",
+  "tokens": [
+    {
+      "surface": "מִ֭י",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יָדַ֣ע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "di antara semua"
+    },
+    {
+      "surface": "אֵ֑לֶּה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "יַד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עָ֣שְׂתָה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "זֹּֽאת",
+      "gloss": "⟨זֹאת⟩ ini",
+      "marks": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:12.106636449Z",
+  "model": "glm-5.2"
+}

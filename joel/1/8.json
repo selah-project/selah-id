@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Rataplah, seperti ⟨seorang⟩ gadis perawan berpinggangkan kain karung karena suami masa mudanya!",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "rataplah"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "seperti gadis perawan"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "berpinggangkan"
+    },
+    {
+      "surface": "שק",
+      "gloss": "kain karung"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "suami"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "masa mudanya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:57:49.483647117Z",
+  "model": "glm-5.2"
+}

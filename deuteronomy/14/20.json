@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "segala burung yang tahir boleh kamu makan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yang tahir"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:10.393651221Z",
+  "model": "glm-5.2"
+}

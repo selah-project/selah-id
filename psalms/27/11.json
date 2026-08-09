@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Ajarlah aku, Yahweh, jalan-Mu, dan tuntunlah aku di jalan kelurusan demi para lawanku.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ajarlah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "dan tuntunlah aku"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "kelurusan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "para lawanku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:19.935311387Z",
+  "model": "glm-5.2"
+}

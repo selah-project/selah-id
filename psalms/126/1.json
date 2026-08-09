@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 126,
+  "translation": "Nyanyian naungan. Ketika Yahweh mengembalikan ⟨את⟩ pemulangan Tzion, kami ⟨היינו⟩ seperti orang-orang yang bermimpi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naungan"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Ketika mengembalikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pemulangan"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "pemulangan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "seperti orang-orang yang bermimpi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:53.038259523Z",
+  "model": "glm-5.2"
+}

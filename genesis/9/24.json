@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lalu Noach terbangun dari anggurnya, dan mengetahui ⟨את⟩ apa yang telah diperbuat kepadanya putranya, si bungsu.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "Lalu terbangun"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "dari anggurnya"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "dan mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang telah diperbuat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah diperbuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putranya"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "si bungsu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:34.737304600Z",
+  "model": "glm-5.2"
+}

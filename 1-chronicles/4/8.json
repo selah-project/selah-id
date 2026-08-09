@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Qots memperanakkan ⟨את⟩ Anub dan ⟨את⟩ ha-Tzoveva; dan kaum-kaum Akharhel bin Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "dan Qots"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ha-Tzoveva"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "ha-Tzoveva"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "dan kaum-kaum"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Akharhel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-08-08T10:03:39.281722816Z",
+  "model": "glm-5.2"
+}

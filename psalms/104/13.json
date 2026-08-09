@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "⟨Yang⟩ menyirami gunung-gunung dari kamar-kamar atas-⟨Nya⟩; dari buah perbuatan-⟨Mu⟩ tanah ⟨ini⟩ dikenyangkan.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "menyirami"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "dari kamar-kamar atas-Nya"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "dari buah"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "dikenyangkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:46.153407918Z",
+  "model": "glm-5.2"
+}

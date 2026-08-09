@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Sebab Aku menuntun engkau keluar dari tanah Mitsrayim, dan dari rumah perbudakan Aku menebus engkau, dan Aku mengutus di depanmu ⟨את⟩ Moshe, ⟨את⟩ Aharon, dan ⟨את⟩ Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "Aku menuntun ... keluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "dan dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "perbudakan"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "Aku menebus ... engkau"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "dan Aku mengutus"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di depanmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "dan Miryam"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:52.510312473Z",
+  "model": "glm-5.2"
+}

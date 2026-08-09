@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Yahweh berfirman kepadaku, “Jangan takut kepadanya, sebab ke dalam tanganmu telah Kuserahkan ⟨את⟩ dia dan ⟨את⟩ seluruh rakyatnya dan ⟨את⟩ negerinya, dan engkau akan melakukan kepadanya seperti yang engkau lakukan kepada Sihon raja orang Amori, yang diam di Heshbon.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "engkau takut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ke dalam tanganmu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "telah Kuserahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh rakyatnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "rakyatnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "negerinya"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "negerinya"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan melakukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "engkau lakukan"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "kepada Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Amori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Heshbon"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:53.498162426Z",
+  "model": "glm-5.2"
+}

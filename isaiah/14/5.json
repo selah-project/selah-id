@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Yahweh telah mematahkan tongkat orang-orang fasik, ⟨dan⟩ tongkat pemerintah para penguasa.",
+  "tokens": [
+    {
+      "surface": "שָׁבַ֥ר",
+      "gloss": "telah mematahkan"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מַטֵּ֣ה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "רְשָׁעִ֑ים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "שֵׁ֖בֶט",
+      "gloss": "tongkat pemerintah"
+    },
+    {
+      "surface": "מֹשְׁלִֽים",
+      "gloss": "para penguasa"
+    }
+  ],
+  "timestamp": "2026-08-08T08:18:06.491172116Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 131,
+  "translation": "Nyanyian naik, bagi Dawid. Yahweh, tidak tinggi hatiku, dan tidak terangkat mataku, dan tidak aku berjalan dalam hal-hal yang besar dan dalam hal-hal yang terlalu ajaib bagiku.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "terangkat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "dalam hal-hal yang besar"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "dan dalam hal-hal yang ajaib"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:56.731028871Z",
+  "model": "glm-5.2"
+}

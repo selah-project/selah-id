@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 21:29",
+  "book": "job",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Bukankah kamu telah menanyai ⟨את⟩ orang-orang yang lewat di jalan, dan ⟨את⟩ tanda-tanda mereka tidakkah kamu kenali?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "kamu telah menanyai"
+    },
+    {
+      "surface": "עוברי",
+      "gloss": "orang-orang yang lewat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ואתתם",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanda-tanda mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תנכרו",
+      "gloss": "kamu kenali"
+    }
+  ],
+  "timestamp": "2026-08-08T09:40:59.892482177Z",
+  "model": "glm-5.2"
+}

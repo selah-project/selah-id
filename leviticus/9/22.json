@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Lalu Aharon mengangkat ⟨את⟩ tangannya ke arah bangsa itu dan memberkati mereka, lalu turun dari membuat persembahan dosa, dan persembahan bakaran, dan persembahan damai.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Lalu mengangkat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "dan memberkati mereka"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "lalu turun"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "dari membuat"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "persembahan dosa"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "dan persembahan bakaran"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "dan persembahan damai"
+    }
+  ],
+  "timestamp": "2026-08-08T07:08:10.715709722Z",
+  "model": "glm-5.2"
+}

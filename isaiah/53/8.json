@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 53,
+  "translation": "Dari penahanan dan dari penghakiman dia diambil, dan ⟨את⟩ zamannya siapa yang merenungkan? Sebab ia terputus dari tanah yang hidup; karena pelanggaran umatku, luka bagi mereka.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "dari penahanan"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "dan dari penghakiman"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zamannya"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "zamannya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "merenungkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "terputus"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "karena pelanggaran"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "luka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:31.986044199Z",
+  "model": "glm-5.2"
+}

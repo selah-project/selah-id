@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Engkau memberikan kepada mereka, mereka mengumpulkan; Engkau membuka tangan-Mu, mereka dipuaskan dengan kebaikan.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Engkau memberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "mereka mengumpulkan"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "Engkau membuka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "mereka dipuaskan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dengan kebaikan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:14.315063246Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Seperti seorang gembala kawanan-Nya ⟨ia⟩ akan menggembalakan; dengan lengan-Nya ⟨ia⟩ akan mengumpulkan domba-domba muda, dan dalam pelukan-Nya ⟨ia⟩ akan mengangkut; ⟨yang⟩ menyusui ⟨ia⟩ akan menuntun.",
+  "tokens": [
+    {
+      "surface": "כרעה",
+      "gloss": "seperti seorang gembala"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "kawanan-Nya"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "⟨ia⟩ akan menggembalakan"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "dengan lengan-Nya"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "⟨ia⟩ akan mengumpulkan"
+    },
+    {
+      "surface": "טלאים",
+      "gloss": "domba-domba muda"
+    },
+    {
+      "surface": "ובחיקו",
+      "gloss": "dan dalam pelukan-Nya"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "⟨ia⟩ akan mengangkut"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "⟨yang⟩ menyusui"
+    },
+    {
+      "surface": "ינהל",
+      "gloss": "⟨ia⟩ akan menuntun"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:29.271778423Z",
+  "model": "glm-5.2"
+}

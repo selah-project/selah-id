@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan engkau akan memakan ⟨את⟩ segala bangsa yang Yahweh, Elohimmu, berikan kepadamu; matamu tidak akan mengasihani mereka, dan engkau tidak akan menyembah ⟨את⟩ elohim mereka, karena itu perangkap bagimu.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "dan engkau akan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala bangsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "akan mengasihani"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "matamu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "engkau akan menyembah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elohim mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "elohim mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "perangkap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:39.286715427Z",
+  "model": "glm-5.2"
+}

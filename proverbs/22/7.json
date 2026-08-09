@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Orang kaya atas orang miskin berkuasa, dan peminjam ⟨adalah⟩ budak bagi orang yang meminjamkan.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Orang kaya"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "atas orang miskin"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "berkuasa"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "dan budak"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "peminjam"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bagi orang"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "yang meminjamkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:34:28.475747296Z",
+  "model": "glm-5.2"
+}

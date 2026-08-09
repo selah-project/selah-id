@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 47,
+  "translation": "Mazmurkanlah bagi Elohim, mazmurkanlah; mazmurkanlah bagi Raja kita, mazmurkanlah!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "mazmurkanlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mazmurkanlah"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mazmurkanlah"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "bagi Raja kita"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mazmurkanlah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:37:54.951958871Z",
+  "model": "glm-5.2"
+}

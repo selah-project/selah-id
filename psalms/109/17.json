@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Dan ia mencintai kutuk, maka itu mendatanginya, dan ia tidak berkenan akan berkat, maka itu menjauh daripadanya.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "dan ia mencintai"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "maka itu mendatanginya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ia berkenan"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "akan berkat"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "maka itu menjauh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:53.729228709Z",
+  "model": "glm-5.2"
+}

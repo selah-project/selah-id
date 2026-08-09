@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan Paroh berkata: “Siapa Yahweh, yang ⟨harus⟩ kudengarkan ⟨dalah⟩ suara-Nya untuk melepaskan ⟨את⟩ Yisra'el? Aku tidak mengenal ⟨את⟩ Yahweh, dan juga ⟨את⟩ Yisra'el tidak akan kulepaskan.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "kudengarkan"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "suaranya"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuk melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku mengenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "akan kulepaskan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:22.813302588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan segala darah jangan kamu makan, di seluruh tempat kediamanmu, ⟨baik⟩ ⟨dari⟩ unggas maupun ⟨dari⟩ hewan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan segala"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "tempat kediamanmu"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "unggas"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "maupun hewan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:21.119577919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Bahkan, Engkau telah memundurkan tajam pedangnya, dan tidak Engkau telah membimbingnya berdiri dalam pertempuran.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "Engkau telah memundurkan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "tajam"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedangnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "Engkau telah membimbingnya berdiri"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dalam pertempuran"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:15.161845525Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Jadilah anak-anaknya yatim, dan istrinya janda.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dan istrinya"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "janda"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:52.308958092Z",
+  "model": "glm-5.2"
+}

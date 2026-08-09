@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Topanglah aku, maka aku akan selamat, dan aku akan memperhatikan ketetapan-ketetapanmu senantiasa.",
+  "tokens": [
+    {
+      "surface": "סְעָדֵ֥נִי",
+      "gloss": "Topanglah aku"
+    },
+    {
+      "surface": "וְאִוָּשֵׁ֑עָה",
+      "gloss": "maka aku akan selamat"
+    },
+    {
+      "surface": "וְאֶשְׁעָ֖ה",
+      "gloss": "dan aku akan memperhatikan"
+    },
+    {
+      "surface": "בְחֻקֶּ֣יךָ",
+      "gloss": "pada ketetapan-ketetapanmu"
+    },
+    {
+      "surface": "תָמִֽיד",
+      "gloss": "senantiasa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:03.449630894Z",
+  "model": "glm-5.2"
+}

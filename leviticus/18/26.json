@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan kamu harus memelihara, kamu, ⟨את⟩ ketetapan-Ku dan ⟨את⟩ peraturan-Ku, dan jangan kamu lakukan dari semua ⟨itu⟩-kekejian ini: ⟨baik⟩ orang asli maupun orang asing yang tinggal di tengah-tengah kamu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dan kamu harus memelihara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-Ku"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ketetapan-Ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "peraturan-Ku"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "peraturan-Ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu lakukan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari semua"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "orang asli"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "dan orang asing"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yang tinggal"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tengah-tengah kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:14.231834279Z",
+  "model": "glm-5.2"
+}

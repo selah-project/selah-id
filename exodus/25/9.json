@@ -1,0 +1,71 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "exodus 25:9",
+ "book": "exodus",
+ "lang": "id",
+ "chapter": 25,
+ "translation": "Segala yang aku perlihatkan ⟨את⟩ kepadamu — ⟨את⟩ pola Mishkan dan ⟨את⟩ pola segala perlengkapannya — demikianlah kamu harus membuatnya.",
+ "tokens": [
+  {
+   "surface": "ככל",
+   "gloss": "segala"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "yang"
+  },
+  {
+   "surface": "אני",
+   "gloss": "aku"
+  },
+  {
+   "surface": "מראה",
+   "gloss": "perlihatkan"
+  },
+  {
+   "surface": "אותך",
+   "gloss": "⟨את⟩ kepadamu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "pola Mishkan"
+  },
+  {
+   "surface": "תבנית",
+   "gloss": "pola"
+  },
+  {
+   "surface": "המשכן",
+   "gloss": "Mishkan"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "dan ⟨את⟩",
+   "marks": "pola segala perlengkapannya"
+  },
+  {
+   "surface": "תבנית",
+   "gloss": "pola"
+  },
+  {
+   "surface": "כל",
+   "gloss": "segala"
+  },
+  {
+   "surface": "כליו",
+   "gloss": "perlengkapannya"
+  },
+  {
+   "surface": "וכן",
+   "gloss": "demikianlah"
+  },
+  {
+   "surface": "תעשו",
+   "gloss": "kamu harus membuat"
+  }
+ ],
+ "timestamp": "2026-08-09T01:37:53.115764510Z",
+ "model": "glm-5.2"
+}

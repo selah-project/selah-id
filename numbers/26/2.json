@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 26:2",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Angkatlah ⟨את⟩ kepala seluruh jemaat bnei Yisra'el, dari umur dua puluh tahun ke atas, menurut bait avot mereka, setiap orang yang keluar pasukan di Yisra'el.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Angkatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bnei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "dari umur"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "menurut bait"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "avot mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yang keluar"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T07:21:16.597642651Z",
+  "model": "glm-5.2"
+}

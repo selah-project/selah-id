@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "“Tuan-ku bertanya kepada hamba-hamba-mu, ⟨את⟩ perkataan: Apakah ada bagimu ayah atau saudara?”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "tuan-ku"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bertanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hamba-mu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hamba-mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "היש",
+      "gloss": "apakah ada"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "אח",
+      "gloss": "saudara"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:30.959910998Z",
+  "model": "glm-5.2"
+}

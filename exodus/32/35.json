@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Lalu menghantamlah Yahweh ⟨את⟩ bangsa itu, karena mereka membuat ⟨את⟩ anak lembu yang dibuat Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Lalu menghantamlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lembu"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "anak lembu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-08T07:03:42.727912007Z",
+  "model": "glm-5.2"
+}

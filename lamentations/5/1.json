@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Ingatlah, Yahweh, apa yang terjadi kepada kami — pandanglah dan lihatlah ⟨את⟩ aib kami!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "pandanglah"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aib kami"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "aib kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:06.775358518Z",
+  "model": "glm-5.2"
+}

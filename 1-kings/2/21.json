@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Lalu ia berkata, “Biarlah diberikan ⟨את⟩ Avishag ha-Shunamit kepada Adoniyah saudaramu menjadi istri.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lalu ia berkata"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Biarlah diberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "ha-Shunamit"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "kepada Adoniyah"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi istri"
+    }
+  ],
+  "timestamp": "2026-08-08T11:01:27.290381729Z",
+  "model": "glm-5.2"
+}

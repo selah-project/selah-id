@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Kepada-Mu aku dilemparkan dari rahim, dari kandungan ibuku El-ku Engkau ⟨lah⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Kepada-Mu"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "aku dilemparkan"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dari rahim"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dari kandungan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:02.089532092Z",
+  "model": "glm-5.2"
+}

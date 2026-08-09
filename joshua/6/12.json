@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu Yehosyua bangun pagi-pagi, dan para imam mengangkat ⟨את⟩ tabut Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "dan bangun pagi-pagi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi hari"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:49:07.833667905Z",
+  "model": "glm-5.2"
+}

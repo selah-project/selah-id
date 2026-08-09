@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan ⟨dia⟩ menunggangi kerub dan terbang; ya, ⟨dia⟩ melayang di atas sayap-sayap angin.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "dan ⟨dia⟩ menunggangi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "dan terbang"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ya, ⟨dia⟩ melayang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sayap-sayap"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:38.467154Z",
+  "model": "glm-5.2"
+}

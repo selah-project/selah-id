@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Jika kami telah melupakan nama Elohim kami, atau jika kami mengulurkan telapak tangan kami kepada el asing,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "kami telah melupakan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "atau kami mengulurkan"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "telapak tangan kami"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kepada el"
+    },
+    {
+      "surface": "זר",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:01.711057502Z",
+  "model": "glm-5.2"
+}

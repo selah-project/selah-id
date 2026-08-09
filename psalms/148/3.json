@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 148,
+  "translation": "Pujilah Dia, matahari dan bulan, pujilah Dia, segala bintang terang!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah Dia"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "dan bulan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah Dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "bintang"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:29.316366450Z",
+  "model": "glm-5.2"
+}

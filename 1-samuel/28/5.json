@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Lalu Shaul melihat ⟨את⟩ perkemahan Pelishtim, dan ⟨ia⟩ takut, dan hatinya sangat gemetar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lalu … melihat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkemahan Pelishtim"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "perkemahan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan … takut"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "dan … gemetar"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:57:35.263711797Z",
+  "model": "glm-5.2"
+}

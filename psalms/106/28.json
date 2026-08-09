@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Dan mereka mengikat diri kepada Baal-Peor, dan memakan korban-korban orang mati.",
+  "tokens": [
+    {
+      "surface": "וַ֭יִּצָּ֣מְדוּ",
+      "gloss": "dan mereka mengikat diri"
+    },
+    {
+      "surface": "לְבַ֣עַל",
+      "gloss": "kepada Baal"
+    },
+    {
+      "surface": "פְּע֑וֹר",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "וַ֝יֹּאכְל֗וּ",
+      "gloss": "dan memakan"
+    },
+    {
+      "surface": "זִבְחֵ֥י",
+      "gloss": "korban-korban"
+    },
+    {
+      "surface": "מֵתִֽים",
+      "gloss": "orang mati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:52.890540685Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Sebab bagi Yahweh ⟨adalah⟩ kerajaan, dan ⟨Ia⟩ memerintah di antara bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "dan memerintah"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:28.926477802Z",
+  "model": "glm-5.2"
+}

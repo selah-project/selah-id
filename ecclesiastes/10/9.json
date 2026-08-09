@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Yang memindahkan batu akan terluka olehnya; yang membelah kayu akan celaka karenanya.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "Yang memindahkan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "akan terluka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "olehnya"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "yang membelah"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "akan celaka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "karenanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:58.909093933Z",
+  "model": "glm-5.2"
+}

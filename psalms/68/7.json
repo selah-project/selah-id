@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 68,
+  "translation": "Elohim menempatkan ⟨yang⟩ tunggal di rumah-rumah; ⟨Ia⟩ mengeluarkan orang-orang yang terikat dalam kemakmuran; tetapi orang-orang pemberontak diam di tanah yang tandus.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "menempatkan"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "yang tunggal"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "di rumah-rumah"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "mengeluarkan"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "orang-orang yang terikat"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "dalam kemakmuran"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "orang-orang pemberontak"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "diam"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "tanah yang tandus"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:53.772227726Z",
+  "model": "glm-5.2"
+}

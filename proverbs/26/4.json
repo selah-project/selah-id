@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Jangan jawab orang bodoh sesuai kebodohannya, supaya engkau pun tidak sama seperti dia.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תען",
+      "gloss": "engkau jawab"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "sesuai kebodohannya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ... tidak"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "engkau menjadi sama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dengan dia"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:20.094713598Z",
+  "model": "glm-5.2"
+}

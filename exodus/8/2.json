@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Maka Aharon mengulurkan ⟨את⟩ tangannya atas perairan Mitsrayim, dan katak itu naik, dan menutupi ⟨את⟩ tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Maka mengulurkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "perairan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "dan naik"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "katak itu"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:07.446854265Z",
+  "model": "glm-5.2"
+}

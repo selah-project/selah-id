@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan engkau akan berbicara ⟨את⟩ perkataan-perkataanku kepada mereka, entah mereka mendengar atau entah mereka berhenti, sebab pemberontakan ⟨itulah⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "dan engkau akan berbicara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan-perkataanku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan-perkataanku"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "entah"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mereka mendengar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atau entah"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "mereka berhenti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "pemberontakan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:44:30.785421214Z",
+  "model": "glm-5.2"
+}

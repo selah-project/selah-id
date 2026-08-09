@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Dengan teguran atas kesalahan Engkau menghajar manusia; dan ⟨Engkau⟩ melarutkan seperti ngengat yang dikehendakinya — hanyalah kesia-siaanlah setiap manusia. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Dengan teguran"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "Engkau menghajar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "dan ⟨Engkau⟩ melarutkan"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "seperti ngengat"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "yang dikehendakinya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanyalah"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kesia-siaanlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:13.520461698Z",
+  "model": "glm-5.2"
+}

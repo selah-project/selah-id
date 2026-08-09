@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Maka raja Shelomoh mengirim melalui tangan Benayahu bin Yehoyada, dan ⟨ia⟩ menyerangnya sehingga ⟨ia⟩ mati.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "maka … mengirim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "melalui tangan"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "maka menyerang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ia"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maka mati"
+    }
+  ],
+  "timestamp": "2026-08-08T08:01:24.254182804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Hanya, dalam hari-harimu aku tidak akan melakukannya, oleh karena Dawid ayahmu; dari tangan anakmulah aku akan merobeknya.”",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "dalam hari-harimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "aku akan melakukannya"
+    },
+    {
+      "surface": "למען",
+      "gloss": "oleh karena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmulah"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "aku akan merobeknya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:43.298764274Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 45,
+  "translation": "Aku akan mengingatkan nama-Mu di setiap puak dan puak; karena itu bangsa-bangsa akan bersyukur kepada-Mu selama-lamanya dan selamanya.",
+  "tokens": [
+    {
+      "surface": "אַזְכִּ֣ירָה",
+      "gloss": "Aku akan mengingatkan"
+    },
+    {
+      "surface": "שִׁ֭מְךָ",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "di setiap"
+    },
+    {
+      "surface": "דֹּ֣ר",
+      "gloss": "puak"
+    },
+    {
+      "surface": "וָדֹ֑ר",
+      "gloss": "dan puak"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "karena"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "עַמִּ֥ים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יְ֝הוֹדֻ֗ךָ",
+      "gloss": "akan bersyukur kepada-Mu"
+    },
+    {
+      "surface": "לְעֹלָ֥ם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "וָעֶֽד",
+      "gloss": "dan selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:38:08.735562496Z",
+  "model": "glm-5.2"
+}

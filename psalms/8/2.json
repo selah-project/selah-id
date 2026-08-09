@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai kami, betapa mulia nama-Mu di seluruh bumi, yang Engkau taruh keagungan-Mu di atas langit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mulia"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Engkau taruh"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "keagungan-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:06.018541568Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Pada saat orang-orang fasik bertambah banyak, pelanggaran bertambah; tetapi orang-orang benar akan melihat kejatuhan mereka.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "pada saat ... bertambah banyak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "bertambah"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pelanggaran"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "tetapi orang-orang benar"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "pada kejatuhan mereka"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "akan melihat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:51:04.647172313Z",
+  "model": "glm-5.2"
+}

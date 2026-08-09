@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 81,
+  "translation": "Maka Aku membiarkan mereka peruai menurut kekerasan hati mereka; mereka berjalan menurut rencana-rencana mereka sendiri.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "maka Aku membiarkan mereka peruai"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "menurut kekerasan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "mereka berjalan"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "menurut rencana-rencana mereka sendiri"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:04.560344882Z",
+  "model": "glm-5.2"
+}

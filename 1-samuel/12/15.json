@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan jika tidak kamu dengarkan suara Yahweh, dan kamu memberontak ⟨את⟩ mulut Yahweh, maka akan ada tangan Yahweh terhadap kamu dan terhadap nenek moyangmu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamu dengarkan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "dan kamu memberontak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulut Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "maka akan ada"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "terhadap kamu"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "dan terhadap nenek moyangmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:55:14.626792990Z",
+  "model": "glm-5.2"
+}

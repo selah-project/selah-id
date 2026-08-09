@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "sebelum belum gelap matahari dan terang, dan bulan dan bintang-bintang, dan kembalilah awan-awan sesudah hujan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "belum"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "dan terang"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "dan bulan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "dan bintang-bintang"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dan kembalilah"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sesudah"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:57:14.394385556Z",
+  "model": "glm-5.2"
+}

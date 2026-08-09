@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Dan aku telah memimpin ⟨את⟩ kamu empat puluh tahun di padang gurun; pakaian kamu tidak usang dari padamu, dan kasutmu tidak usang dari kakimu.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "Dan aku telah memimpin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "usang"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "pakaian kamu"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "dari padamu"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "dan kasutmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "usang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kakimu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:43.345277353Z",
+  "model": "glm-5.2"
+}

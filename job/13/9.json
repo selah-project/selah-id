@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Apakah ⟨itu⟩ baik, bahwa Dia memeriksa ⟨את⟩ kalian? Atau sebagai orang yang mengejek manusia, kalian akan mengejek Dia?",
+  "tokens": [
+    {
+      "surface": "הֲ֭טוֹב",
+      "gloss": "Apakah baik"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "יַחְקֹ֣ר",
+      "gloss": "Dia memeriksa"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Atau"
+    },
+    {
+      "surface": "כְּהָתֵ֥ל",
+      "gloss": "sebagai orang yang mengejek"
+    },
+    {
+      "surface": "בֶּ֝אֱנ֗וֹשׁ",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "תְּהָתֵ֥לּוּ",
+      "gloss": "kalian akan mengejek"
+    },
+    {
+      "surface": "בֽוֹ",
+      "gloss": "Dia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:38.535499292Z",
+  "model": "glm-5.2"
+}

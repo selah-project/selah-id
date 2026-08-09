@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Lalu kutulis di dalam surat itu dan kusegel, dan kuperdsi ⟨saksi-saksi⟩, dan kutimbang uang itu di atas timbangan.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "lalu kutulis"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "di dalam surat"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "dan kusegel"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "dan kuperdsi"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "dan kutimbang"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "uang itu"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "di atas timbangan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:38:11.974832179Z",
+  "model": "glm-5.2"
+}

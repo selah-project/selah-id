@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Di tangan-Mu waktu-waktuku; lepaskanlah aku dari tangan musuh-musuhku dan dari pengejar-pengejarku.",
+  "tokens": [
+    {
+      "surface": "בְּיָדְךָ֥",
+      "gloss": "di tangan-Mu"
+    },
+    {
+      "surface": "עִתֹּתָ֑י",
+      "gloss": "waktu-waktuku"
+    },
+    {
+      "surface": "הַצִּ֘ילֵ֤נִי",
+      "gloss": "lepaskanlah aku"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "א֝וֹיְבַ֗י",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "וּמֵרֹדְפָֽי",
+      "gloss": "dan dari pengejar-pengejarku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:44.996717989Z",
+  "model": "glm-5.2"
+}

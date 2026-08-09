@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "yang dalam kerendahan kami mengingat kami, sebab selama-lamanya ⟨adalah⟩ hesed-⟨Nya⟩.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "yang dalam kerendahan kami"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mengingat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:41.511306460Z",
+  "model": "glm-5.2"
+}

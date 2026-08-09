@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Sedikit hambamu ini akan menyeberangi ⟨את⟩ haYarden, ⟨את⟩ sang raja, dan mengapakah sang raja membalas aku dengan balasan ini?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "akan menyeberangi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haYarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "haYarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "dan mengapakah"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "membalas aku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "balasan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T11:00:17.889914638Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 29,
+  "translation": "Orang bijak diadili bersama ⟨את⟩ orang bodoh — ⟨ia⟩ pun mengamuk atau tertawa, dan tidak ada ketenangan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "diadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang bodoh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "bodoh"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "dan mengamuk"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "atau tertawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ketenangan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:26.474429353Z",
+  "model": "glm-5.2"
+}

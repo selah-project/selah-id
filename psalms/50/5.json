@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Kumpulkanlah bagi-Ku ⟨orang-orang⟩ kesetia-Ku, orang-orang yang memotong perjanjian-Ku atas ⟨את⟩ korban.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "kumpulkanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "orang-orang kesetia-Ku"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "yang memotong"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:16.001438520Z",
+  "model": "glm-5.2"
+}

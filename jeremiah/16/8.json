@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan rumah perjamuan jangan engkau masuk untuk duduk bersama ⟨את⟩ mereka, untuk makan dan untuk minum.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Dan rumah"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "perjamuan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "engkau masuk"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuk duduk"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "bersama ⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk makan"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "dan untuk minum"
+    }
+  ],
+  "timestamp": "2026-08-08T08:33:46.022764642Z",
+  "model": "glm-5.2"
+}

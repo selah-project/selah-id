@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "sebab pada waktu ini besok aku akan mengirim ⟨את⟩ hamba-hambaku kepadamu, dan mereka akan mengintai ⟨את⟩ rumahmu dan ⟨את⟩ rumah-rumah hamba-hambamu, dan terjadilah segala yang dihasudkan matamu akan mereka letakkan di tangan mereka dan mereka akan mengambilnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "pada waktu ini"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "besok"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "aku akan mengirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambaku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hambaku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "dan mereka akan mengintai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumahmu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumahmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah-rumah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hambamu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "yang dihasudkan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matamu"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "akan mereka letakkan"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "di tangan mereka"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "dan mereka akan mengambilnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:07:27.893084140Z",
+  "model": "glm-5.2"
+}

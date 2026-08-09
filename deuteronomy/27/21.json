@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Terkutuk ⟨ia yang⟩ tidur dengan mana-mana hewan, dan seluruh ⟨ini⟩ bangsa ⟨itu⟩ berkata: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Terkutuk"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "tidur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mana-mana"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hewan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-08T07:31:44.631403707Z",
+  "model": "glm-5.2"
+}

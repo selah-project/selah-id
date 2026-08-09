@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Aku, aku berbaring dan aku tidur; aku terbangun, sebab Yahweh menopang aku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "aku berbaring"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "dan aku tidur"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "aku terbangun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "menopang aku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:06.283068397Z",
+  "model": "glm-5.2"
+}

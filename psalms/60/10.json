@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Moab ←adalah→ bejana pembasuhan-Ku, atas Edom Aku melemparkan sandal-Ku, atasku, Pelesyet, berserulah!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "bejana"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "pembasuhan-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "Aku melemparkan"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandal-Ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "berserulah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:58.382307982Z",
+  "model": "glm-5.2"
+}

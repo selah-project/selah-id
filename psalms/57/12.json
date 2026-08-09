@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 57,
+  "translation": "Tinggikanlah diri-Mu di atas langit, hai Elohim; di atas seluruh bumi ⟨ada⟩ kemuliaan-Mu!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Tinggikanlah diri-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kemuliaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:42.564237846Z",
+  "model": "glm-5.2"
+}

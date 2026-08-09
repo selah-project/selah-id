@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 34,
+  "translation": "Dan ia merobohkan ⟨את⟩ mezbah-mezbah itu dan ⟨את⟩ tiang-tiang asyera itu, dan patung-patung pahatan itu ia hancurkan menjadi debu, dan segala altar-altar dupa itu ia tebang di seluruh tanah Yisra'el, lalu ia kembali ke Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "dan ia merobohkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah-mezbah itu"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mezbah-mezbah itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tiang-tiang asyera itu"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "tiang-tiang asyera itu"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "dan patung-patung pahatan itu"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "ia hancurkan"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "menjadi debu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "altar-altar dupa itu"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "ia tebang"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu ia kembali"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ke Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T10:18:06.361334906Z",
+  "model": "glm-5.2"
+}

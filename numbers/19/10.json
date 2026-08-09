@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan mencuci pakaiannya orang yang mengumpulkan ⟨את⟩ abu lembu betina itu, ⟨את⟩ pakaiannya, dan ia menjadi najis sampai waktu senja; dan ⟨ketetapan ini⟩ menjadi bagi Bani Yisrael dan bagi orang asing yang tinggal di tengah-tengah mereka sebagai ketetapan untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "Dan mencuci"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "orang yang mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abu"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "lembu betina itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan ia menjadi najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "waktu senja"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dan ⟨ketetapan ini⟩ menjadi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi Bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "dan bagi orang asing"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yang tinggal"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di tengah-tengah mereka"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "sebagai ketetapan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:41:38.170739884Z",
+  "model": "glm-5.2"
+}

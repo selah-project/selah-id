@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 44,
+  "translation": "Karena bukan dalam busurku aku percaya, dan pedangku, bukan, ia tidak menyelamatkan aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "dalam busurku"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "dan pedangku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ia menyelamatkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:36.827034270Z",
+  "model": "glm-5.2"
+}

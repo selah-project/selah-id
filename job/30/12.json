@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "id",
+  "chapter": 30,
+  "translation": "Di sisi kananku ⟨si⟩ anak-anak liar berdiri; kakiku ⟨mereka⟩ seret pergi, dan terhadapku ⟨mereka⟩ timbunkan jalan-jalan bencana mereka.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Di"
+    },
+    {
+      "surface": "יָמִין",
+      "gloss": "sisi-kananku"
+    },
+    {
+      "surface": "פִּרְחַח",
+      "gloss": "anak-anak-liar"
+    },
+    {
+      "surface": "יָקוּמוּ",
+      "gloss": "(mereka)-berdiri"
+    },
+    {
+      "surface": "רַגְלַי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "שִׁלֵּחוּ",
+      "gloss": "(mereka)-seret-pergi"
+    },
+    {
+      "surface": "וַיָּסֹלּוּ",
+      "gloss": "dan-(mereka)-timbunkan"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "אָרְחוֹת",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "אֵידָם",
+      "gloss": "bencana-mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:54:03.378750313Z",
+  "model": "glm-5.2"
+}

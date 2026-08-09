@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Sungguh, sia-sialah aku menyucikan hatiku, dan aku mencuci tanganku dalam ketidakbersalahan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "aku menyucikan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "dan aku mencuci"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "dalam ketidakbersalahan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tanganku"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:22.852519703Z",
+  "model": "glm-5.2"
+}

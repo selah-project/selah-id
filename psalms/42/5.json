@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Hal-hal ini aku kenang, dan aku cucurkan ⟨ke dalam diriku⟩ napasku, ketika aku berjalan bersama kumpulan orang, membimbing mereka sampai ke bait Elohim, dengan suara sorak-sorai dan ucapan syukur ⟨sebuah⟩ kumpulan yang merayakan hari raya.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "hal-hal ini"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "aku kenang"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "dan aku cucurkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atas diriku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "bersama kumpulan"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "aku membimbing mereka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengan suara"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "dan ucapan syukur"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "yang merayakan hari raya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:39.410112531Z",
+  "model": "glm-5.2"
+}

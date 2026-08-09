@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Yahweh memberikan ⟨kepada⟩ kamu, danjumpailah kamu ⟨tempat⟩ perhentian, masing-masing ⟨sebagai⟩ wanita di rumah suaminya.” Lalu ia mencium mereka, dan mereka mengangkat suara mereka, lalu menangislah mereka.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "danjumpailah kamu"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "⟨tempat⟩ perhentian"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "masing-masing ⟨sebagai⟩ wanita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "suaminya"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "lalu ia mencium"
+    },
+    {
+      "surface": "להן",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "dan mereka mengangkat"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "suara mereka"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "lalu menangislah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T12:25:57.709218589Z",
+  "model": "glm-5.2"
+}

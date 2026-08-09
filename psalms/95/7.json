@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 95,
+  "translation": "Karena Dia ⟨adalah⟩ Elohim kita, dan kita ⟨adalah⟩ umat padang-Nya dan kawanan tangan-Nya. Hari ini, jika ke dalam suara-Nya kamu mendengar:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "ו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "padang-Nya"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "dan kawanan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan-Nya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Hari ini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ke dalam suara-Nya"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamu mendengar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:26.025763002Z",
+  "model": "glm-5.2"
+}

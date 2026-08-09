@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan raja dan seluruh rakyat itu menyembelih korban sembelihan di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Dan raja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "menyembelih"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban sembelihan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T10:11:54.276332711Z",
+  "model": "glm-5.2"
+}

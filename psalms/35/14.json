@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Seperti ⟨bagi⟩ sahabat, seperti saudara bagiku, aku berjalan mondar-mandir; seperti orang berkabung ⟨bagi⟩ ibu, aku berdukung menundukkan diri.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Seperti sahabat"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "seperti saudara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "aku berjalan mondar-mandir"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "seperti orang berkabung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "aku berdukung"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "menundukkan diri"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:34.025595410Z",
+  "model": "glm-5.2"
+}

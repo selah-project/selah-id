@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan bersenang-senanglah atas Yahweh, maka Ia akan memberikan kepadamu permintaan-permintaan hatimu.",
+  "tokens": [
+    {
+      "surface": "וְהִתְעַנַּ֥ג",
+      "gloss": "Dan bersenang-senanglah"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְיִֽתֶּן",
+      "gloss": "maka Ia akan memberikan"
+    },
+    {
+      "surface": "לְ֝ךָ֗",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "מִשְׁאֲלֹ֥ת",
+      "gloss": "permintaan-permintaan"
+    },
+    {
+      "surface": "לִבֶּֽךָ",
+      "gloss": "hatimu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:03.794311382Z",
+  "model": "glm-5.2"
+}

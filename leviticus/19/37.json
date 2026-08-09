@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan kamu harus memelihara ⟨את⟩ segala ketetapan-Ku dan ⟨את⟩ segala hukum-Ku, dan kamu harus melakukannya; aku ⟨is⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Dan kamu harus memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala ketetapan-Ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ketetapan-Ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala hukum-Ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-Ku"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dan kamu harus melakukannya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-09T01:38:39.766395232Z",
+  "model": "glm-5.2"
+}

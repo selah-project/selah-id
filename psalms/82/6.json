@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 82,
+  "translation": "Aku, aku telah berfirman: ⟨אֱלֹהִים⟩ kamu, dan anak-anak Elyon kamu semua.",
+  "tokens": [
+    {
+      "surface": "אֲֽנִי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אָ֭מַרְתִּי",
+      "gloss": "aku telah berfirman"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אַתֶּ֑ם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "עֶלְי֣וֹן",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כֻּלְּכֶֽם",
+      "gloss": "kamu semua"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:52.011628716Z",
+  "model": "glm-5.2"
+}

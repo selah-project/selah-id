@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 90,
+  "translation": "Siapa yang mengetahui kekuatan murka-Mu? Dan seperti ketakutan-Mu, ⟨demikianlah⟩ kegeraman-Mu.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yang mengetahui"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murka-Mu"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "Dan seperti ketakutan-Mu"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "kegeraman-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:01.093023832Z",
+  "model": "glm-5.2"
+}

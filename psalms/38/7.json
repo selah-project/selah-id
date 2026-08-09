@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Aku telah membungkuk, aku tertunduk sangat; sepanjang hari aku berjalan berkabung.",
+  "tokens": [
+    {
+      "surface": "נַעֲוֵ֣יתִי",
+      "gloss": "Aku telah membungkuk"
+    },
+    {
+      "surface": "שַׁחֹ֣תִי",
+      "gloss": "aku tertunduk"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "הַ֝יּ֗וֹם",
+      "gloss": "hari"
+    },
+    {
+      "surface": "קֹדֵ֥ר",
+      "gloss": "berkabung"
+    },
+    {
+      "surface": "הִלָּֽכְתִּי",
+      "gloss": "aku berjalan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:09.791652253Z",
+  "model": "glm-5.2"
+}

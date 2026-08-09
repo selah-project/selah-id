@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Dan langit akan bersyukur ⟨akan⟩ keajaibanmu, Yahweh; bahkan kesetiaanmu dalam jemaat ⟨orang-orang⟩ kudus.",
+  "tokens": [
+    {
+      "surface": "ושמים",
+      "gloss": "dan langit"
+    },
+    {
+      "surface": "ויהודו",
+      "gloss": "akan bersyukur"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "keajaibanmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kesetiaanmu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dalam jemaat"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:14.079577529Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan anak-anak Elpa'al: Ever dan Mish'am dan Syamad; ⟨dialah⟩ yang membangun ⟨את⟩ Ono dan ⟨את⟩ Lod serta anak-anak perempuannya.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "dan Mish'am"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "dan Syamad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "serta anak-anak perempuannya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:48.077682078Z",
+  "model": "glm-5.2"
+}

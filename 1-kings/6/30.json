@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan ⟨את⟩ lantai rumah disaluti emas, di bagian dalam dan di bagian luar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "lantai rumah"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "lantai"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "disaluti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "di bagian dalam"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "dan di bagian luar"
+    }
+  ],
+  "timestamp": "2026-08-08T11:01:58.125188843Z",
+  "model": "glm-5.2"
+}

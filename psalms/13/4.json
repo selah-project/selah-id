@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Perhatikanlah, jawablah aku, Yahweh Elohim-ku! Terangilah mataku, supaya-jangan aku tidur ⟨ke dalam⟩ maut,",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Perhatikanlah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "Terangilah"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya-jangan"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "aku tidur"
+    },
+    {
+      "surface": "המות",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:44.066549190Z",
+  "model": "glm-5.2"
+}

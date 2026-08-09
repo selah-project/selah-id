@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 92,
+  "translation": "Ditanam di rumah Yahweh, di pelataran Elohim kami mereka akan berbunga.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "Ditanam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di pelataran"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "mereka akan berbunga"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:55.895040472Z",
+  "model": "glm-5.2"
+}

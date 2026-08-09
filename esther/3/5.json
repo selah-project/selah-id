@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Haman melihat bahwa tidak ⟨ada⟩ Mordekhai membungkuk dan menyembah kepadanya, maka Haman pun penuh kegeraman.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "membungkuk"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "dan menyembah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "maka penuh"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kegeraman"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:57.201742543Z",
+  "model": "glm-5.2"
+}

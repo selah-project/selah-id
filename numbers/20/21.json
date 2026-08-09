@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Jadi Edom menolak memberi ⟨את⟩ Yisra'el lewat melalui wilayahnya, dan Yisra'el menyisih darinya.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "lewat"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "melalui wilayahnya"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "menyisih"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "darinya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:42:06.008367736Z",
+  "model": "glm-5.2"
+}

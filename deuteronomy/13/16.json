@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "pastilah engkau memukul penduduk kota itu dengan mata pedang; tumpaslah memusnahkan ⟨את⟩ nya dan ⟨את⟩ segala yang ada di dalamnya, bahkan ⟨את⟩ ternaknya, dengan mata pedang.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "pastilah memukul"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "engkau memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dengan mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tumpaslah memusnahkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ada di dalamnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "bahkan ⟨את⟩",
+      "marks": "ternaknya"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "ternaknya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dengan mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-08-08T07:27:17.935411319Z",
+  "model": "glm-5.2"
+}

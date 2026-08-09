@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Elohim hesed-ku akan mendahului aku; Elohim akan memperlihatkan kepadaku ⟨את⟩ musuh-musuhku.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-ku"
+    },
+    {
+      "surface": "יְקַדְּמֵ֑נִי",
+      "gloss": "akan mendahului aku"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יַרְאֵ֥נִי",
+      "gloss": "akan memperlihatkan kepadaku"
+    },
+    {
+      "surface": "בְשֹׁרְרָֽי",
+      "gloss": "⟨את⟩ musuh-musuhku",
+      "marks": "musuh-musuhku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:39:20.739513120Z",
+  "model": "glm-5.2"
+}

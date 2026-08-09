@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Lalu orang banyak itu berselisih dengan Mosheh, dan berkata, “Berilah kami air supaya kami minum.” Dan Mosheh berkata kepada mereka, “Mengapa kamu berselisih dengan aku? Mengapa kamu mencobai ⟨את⟩ Yahweh?”",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "Lalu berselisih"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang banyak itu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Berilah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "supaya kami minum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "kamu berselisih"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "dengan aku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "kamu mencobai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:09.127537086Z",
+  "model": "glm-5.2"
+}

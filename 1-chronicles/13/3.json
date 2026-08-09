@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "dan marilah kita membawa kembali ⟨את⟩ aron Elohim kita kepada kita, sebab tidaklah kita menanyakan-Nya pada hari-hari Sya'ul.”",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "dan marilah kita membawa kembali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kepada kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidaklah"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "kita menanyakan-Nya"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pada hari-hari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sya'ul"
+    }
+  ],
+  "timestamp": "2026-08-08T10:07:41.466843435Z",
+  "model": "glm-5.2"
+}

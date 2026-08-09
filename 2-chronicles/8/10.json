@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan inilah para kepala pengawas yang bagi raja Shelomoh: dua ratus lima puluh, yang berkuasa atas rakyat.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dan inilah"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para kepala"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "pengawas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bagi raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dan dua ratus"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "yang berkuasa"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "atas rakyat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:12:12.859447134Z",
+  "model": "glm-5.2"
+}

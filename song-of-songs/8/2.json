@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Aku menuntun engkau, aku membawa engkau ke rumah ibuku; engkau mengajar aku. Aku memberi engkau minum dari anggur berbumbu, dari sari delima milikku.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "aku menuntun engkau"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "aku membawa engkau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "engkau mengajar aku"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "aku memberi engkau minum"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "dari anggur"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "berbumbu"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "dari sari"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "delima milikku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:48.864294589Z",
+  "model": "glm-5.2"
+}

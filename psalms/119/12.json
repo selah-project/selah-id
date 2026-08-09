@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Teberkatlah Engkau, wahai Yahweh; ajarlah aku chukim-Mu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Teberkatlah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarlah aku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "chukim-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:04.408656970Z",
+  "model": "glm-5.2"
+}

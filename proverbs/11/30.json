@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Buah orang benar ⟨adalah⟩ pohon kehidupan, dan yang memenangkan ⟨את⟩ jiwa-jiwa ⟨adalah⟩ bijak.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "dan yang memenangkan"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "⟨את⟩ jiwa-jiwa",
+      "marks": "jiwa-jiwa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    }
+  ],
+  "timestamp": "2026-08-08T11:49:28.618654940Z",
+  "model": "glm-5.2"
+}

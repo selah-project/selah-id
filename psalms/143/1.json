@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 143,
+  "translation": "Mazmur bagi David. Yahweh, dengarkan doaku, berilah telinga kepada permohonanku; dalam kesetiaan-Mu jawablah aku, dalam kebenaran-Mu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarkan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "berilah telinga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "permohonanku"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "dalam kesetiaan-Mu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dalam kebenaran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:43.190655452Z",
+  "model": "glm-5.2"
+}

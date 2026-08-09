@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "dan ⟨aku⟩ akan diam di tengah-tengah bani Yisra'el, dan tidak akan meninggalkan ⟨את⟩ umat-Ku Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "dan aku akan diam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "akan meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T08:03:06.584769656Z",
+  "model": "glm-5.2"
+}

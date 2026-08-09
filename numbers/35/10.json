@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "“Berbicaralah kepada bani Yisra'el dan katakanlah kepada mereka: Apabila kalian menyeberangi ⟨את⟩ haYarden menuju negeri Kena'an,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Berbicaralah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dan katakanlah"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haYarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "haYarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "menuju negeri"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-08T07:23:43.269322932Z",
+  "model": "glm-5.2"
+}

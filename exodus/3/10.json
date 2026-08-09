@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan sekarang, pergilah, dan Aku akan mengutus engkau kepada Paroh, dan bawalah keluar ⟨את⟩ umat-Ku, beni-Yisra'el, dari Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "dan Aku akan mengutus engkau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "dan bawalah keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "beni-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:12.197463242Z",
+  "model": "glm-5.2"
+}

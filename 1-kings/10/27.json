@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan raja memberikan ⟨את⟩ perak di Yerushalayim ⟨senilai⟩ batu, dan ⟨את⟩ arazim diberikannya ⟨senilai⟩ sykomor yang di Shefelah, kelimpahan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan memberikan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "seperti batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "arazim"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "arazim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikannya"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "seperti sykomor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "di Shefelah"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kelimpahan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:02:48.819608567Z",
+  "model": "glm-5.2"
+}

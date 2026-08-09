@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan tidaklah ia bertanya kepada Yahweh, maka Ia membunuhnya dan memindahkan ⟨את⟩ kerajaan itu kepada Dawid bin Yishai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidaklah"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ia bertanya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "maka Ia membunuhnya"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "dan memindahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerajaan itu"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kerajaan itu"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kepada Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-08-08T10:05:26.123656357Z",
+  "model": "glm-5.2"
+}

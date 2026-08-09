@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Maka tangan Yahweh berat terhadap orang-orang Ashdod, dan ⟨dia⟩ membinasakan mereka, lalu memukul mereka ⟨את⟩ dengan ba'afelim — ⟨את⟩ Ashdod dan ⟨את⟩ wilayah-wilayahnya.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "Maka berat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "orang-orang Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "dan membinasakan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (objek: ba'afelim)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "dengan ba'afelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wilayah-wilayahnya"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "wilayah-wilayahnya"
+    }
+  ],
+  "timestamp": "2026-08-09T01:45:01.424866566Z",
+  "model": "glm-5.2"
+}

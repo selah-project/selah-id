@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Dan Yehudah berkata kepada Onan: “Masuklah kepada istri saudaramu dan lakukanlah yibum ⟨את⟩ padanya, dan tegakkanlah keturunan bagi saudaramu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "kepada Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "dan lakukanlah yibum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "padanya"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "dan tegakkanlah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "bagi saudaramu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:26.488077139Z",
+  "model": "glm-5.2"
+}

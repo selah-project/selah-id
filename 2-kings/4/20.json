@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Maka diangungnyalah dia dan dibawanyalah dia kepada ibunya; dann duduklah ia di atas pangkuannya sampai tengah hari danmeninggallah ia.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "maka diangungnyalah dia"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "dan dibawanyalah dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dann duduklah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "pangkuannya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tengah hari"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "danmeninggallah ia"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:11.379562645Z",
+  "model": "glm-5.2"
+}

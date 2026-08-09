@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 65,
+  "translation": "Dan akan terjadi: sebelum mereka memanggil, ⟨maka⟩ aku akan menjawab; saat mereka sedang berbicara, aku akan mendengar.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan akan terjadi"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "mereka memanggil"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maka aku"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "akan menjawab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "saat"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "sedang berbicara"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "akan mendengar"
+    }
+  ],
+  "timestamp": "2026-08-08T08:29:23.045499438Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Maka pergilah ⟨beliau⟩ bersama mereka, dan sampailah mereka ke sungai Yarden, dan menebanglah mereka kayu-kayu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "maka pergilah ⟨beliau⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bersama mereka"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan sampailah mereka"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ke sungai Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "dan menebanglah mereka"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:52.440417676Z",
+  "model": "glm-5.2"
+}

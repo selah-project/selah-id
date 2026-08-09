@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Lalu orang itu membawa ⟨את⟩ para laki-laki itu ke rumah Yosef, dan ia memberikan air; mereka membasuh kaki mereka, dan ia memberikan pakan untuk keledai-keledai mereka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu membawa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para laki-laki itu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "para laki-laki itu"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ke rumah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan ia memberikan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "merek membasuh"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kaki mereka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan ia memberikan"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "pakan"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "untuk keledai-keledai mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:39.818941548Z",
+  "model": "glm-5.2"
+}

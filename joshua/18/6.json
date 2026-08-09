@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 18:6",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan kamu akan menuliskan ⟨את⟩ tanah ⟨itu⟩ menjadi tujuh bagian, dan membawanya kepadaku kemari; maka aku akan melemparkan bagi kamu undi di sini, di hadapan Yahweh, Elohim kita.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "dan kamu"
+    },
+    {
+      "surface": "תכתבו",
+      "gloss": "akan menuliskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "dan kamu akan membawanya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kemari"
+    },
+    {
+      "surface": "ויריתי",
+      "gloss": "maka aku akan melemparkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "undi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    }
+  ],
+  "timestamp": "2026-08-08T10:50:12.741481276Z",
+  "model": "glm-5.2"
+}

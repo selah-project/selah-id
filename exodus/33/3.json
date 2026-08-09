@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Ke ⟨אֶרֶץ⟩ yang mengalir susu dan madu, sebab tidaklah Aku akan naik di tengah-tengahmu, sebab ⟨engkau⟩ bangsa tegar tengkuk, supaya jangan Aku menghabisimu di jalan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨אֶרֶץ⟩ tanah"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "mengalir"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dan madu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Aku akan naik"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di tengah-tengahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tegar"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "tengkuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "Aku menghabisimu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:29.877228848Z",
+  "model": "glm-5.2"
+}

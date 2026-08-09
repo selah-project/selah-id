@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan terjadilah, karena bani Yisrael telah berbuat dosa terhadap Yahweh, Elohim mereka, yang telah membuat naik ⟨את⟩ mereka dari tanah Mitsrayim, dari bawah tangan Paroh, raja Mitsrayim, sehingga mereka telah takut kepada elohim lain.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mereka telah berbuat dosa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "terhadap Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "yang telah membuat naik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "sehingga mereka telah takut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    }
+  ],
+  "timestamp": "2026-08-08T11:07:46.394314847Z",
+  "model": "glm-5.2"
+}

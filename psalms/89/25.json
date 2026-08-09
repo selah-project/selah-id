@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Dan kesetiaanku dan hesed-ku bersama dia, dan dalam nama-ku tanduknya akan ditinggikan.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Dan kesetiaanku"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "dan hesed-ku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama dia"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "dan dalam nama-ku"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "akan ditinggikan"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "tanduknya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:59.521362269Z",
+  "model": "glm-5.2"
+}

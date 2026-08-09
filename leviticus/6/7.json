@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan inilah torat persembahan: para anak Aharon ⟨harus⟩ mempersembahkannya, ⟨את⟩ dia, di hadapan Yahweh, di depan mezbah.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "dan ini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torat"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mempersembahkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "depan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:27.591750519Z",
+  "model": "glm-5.2"
+}

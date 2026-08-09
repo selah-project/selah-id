@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan berkatalah raja, “Dan di mana anak tuanmu?” Dan berkatalah Tsiba kepada raja, “Lihat, ia duduk di Yerushalayim, sebab ia berkata, Hari ini rumah Yisrael akan mengembalikan kepadaku ⟨את⟩ kerajaan ayahku.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "Dan di mana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ia duduk"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ia berkata"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Hari ini"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "akan mengembalikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerajaan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    }
+  ],
+  "timestamp": "2026-08-08T07:57:20.045297739Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 9,
+  "translation": "Maka akan binasalah seluruh keluarga Akhab, dan Aku akan mengeratkan dari Akhab ⟨yang⟩ kencing ⟨di⟩ tembok, baik ⟨yang⟩ terkurung maupun ⟨yang⟩ ditinggikan di Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "maka akan binasalah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "dan Aku akan mengeratkan"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "dari Akhab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "yang kencing"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "di tembok"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "baik yang terkurung"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "maupun yang ditinggikan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-08T11:06:18.065964698Z",
+  "model": "glm-5.2"
+}

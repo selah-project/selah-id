@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "dan sang 'anakah dan sang koach dan sang leta'ah dan sang chomet dan sang tinshemet —",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "dan sang 'anakah"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "dan sang koach"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "dan sang leta'ah"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "dan sang chomet"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "dan sang tinshemet"
+    }
+  ],
+  "timestamp": "2026-08-08T10:34:39.603357013Z",
+  "model": "glm-5.2"
+}

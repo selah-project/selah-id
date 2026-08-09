@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 78,
+  "translation": "Dan ⟨הוּא⟩ memukul musuh-musuhnya ke belakang; ⟨הוּא⟩ memberikan celaan kekal kepada mereka.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Dan memukul"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "musuh-musuhnya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "celaan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kekal"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:20.559707280Z",
+  "model": "glm-5.2"
+}

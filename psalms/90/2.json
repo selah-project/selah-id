@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 90,
+  "translation": "Sebelum pegunungan dilahirkan, dan ⟨Engkau⟩ melahirkan bumi dan dunia, dan dari selama-lamanya sampai selama-lamanya, Engkau ⟨adalah⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Sebelum"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pegunungan"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "dan dunia"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "dan dari selama-lamanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:15.326514663Z",
+  "model": "glm-5.2"
+}

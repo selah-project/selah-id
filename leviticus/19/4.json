@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Janganlah berpaling kepada ⟨אל⟩ para berhala, dan elohi tuangan-tuanangan janganlah kamu buat bagi kamu; aku ⟨adalah⟩ Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "para berhala"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan elohi"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "tuangan-tuanangan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:24.781624794Z",
+  "model": "glm-5.2"
+}

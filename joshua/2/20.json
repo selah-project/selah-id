@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Tetapi jika engkau memberitahukan ⟨את⟩ perkataan kami ini, maka kami akan bersih dari sumpahmu yang ⟨engkau⟩ telah bersumpahkan kepada kami.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tetapi jika"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "engkau memberitahukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan kami ini"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "perkataan kami"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "maka kami akan menjadi"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "bersih"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "dari sumpahmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "(engkau) telah bersumpahkan kepada kami"
+    }
+  ],
+  "timestamp": "2026-08-08T07:33:30.679767864Z",
+  "model": "glm-5.2"
+}

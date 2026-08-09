@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dan Aku akan menaruh ⟨את⟩ dagingmu di atas gunung-gunung, dan Aku akan memenuhi lembah-lembah dengan tumpukan bangkaimu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingmu"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "dagingmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "dan Aku akan memenuhi"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "lembah-lembah"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "tumpukan bangkaimu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:25:35.830833832Z",
+  "model": "glm-5.2"
+}

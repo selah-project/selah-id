@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Berilah kasih karunia kepada-Ku, Yahweh, sebab luluh aku; sembuhkanlah aku, Yahweh, sebab gemetar tulang-tulangku.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Berilah kasih karunia kepadaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "luluh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "sembuhkanlah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "gemetar"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang-tulangku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:07:06.085424360Z",
+  "model": "glm-5.2"
+}

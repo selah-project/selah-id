@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨את⟩ kandil-kandil itu dan lampu-lampunya untuk membakarnya menurut peraturan di hadapan debir itu — emas murni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "kandil-kandil itu"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "kandil-kandil itu"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "dan lampu-lampunya"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "untuk membakarnya"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "menurut peraturan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debir itu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "murni"
+    }
+  ],
+  "timestamp": "2026-08-08T12:04:41.339463148Z",
+  "model": "glm-5.2"
+}

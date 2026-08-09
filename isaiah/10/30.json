@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Berserulah dengan suaramu, putri Galim; pasang telinga, Layisah; ⟨hai⟩ yang malang, Anathot!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "berserulah"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Galim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "pasang telinga"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Layisah"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "yang malang"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathot"
+    }
+  ],
+  "timestamp": "2026-08-08T08:17:59.450271093Z",
+  "model": "glm-5.2"
+}

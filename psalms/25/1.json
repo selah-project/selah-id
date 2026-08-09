@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Untuk Dawid. Kepada-Mu, Yahweh, napasku aku angkat.",
+  "tokens": [
+    {
+      "surface": "לְדָוִ֡ד",
+      "gloss": "Untuk Dawid"
+    },
+    {
+      "surface": "אֵלֶ֥יךָ",
+      "gloss": "Kepada-Mu"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נַפְשִׁ֥י",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "אֶשָּֽׂא",
+      "gloss": "aku angkat"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:28.525349296Z",
+  "model": "glm-5.2"
+}

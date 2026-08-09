@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Pasanglah telinga dan dengarlah suaraku, titikkanlah telinga dan dengarlah perkataanku.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dan dengarlah"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "titikkanlah telinga"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dan dengarlah"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "perkataanku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:42.139165216Z",
+  "model": "glm-5.2"
+}

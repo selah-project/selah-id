@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Bahkan tetangganya sendiri membenci orang miskin, tetapi kekasih-kesayang orang kaya banyak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "tetangganya"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "membenci"
+    },
+    {
+      "surface": "רש",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "tetapi kekasih-kesayang"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:21.286857369Z",
+  "model": "glm-5.2"
+}

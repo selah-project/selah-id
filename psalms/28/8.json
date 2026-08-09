@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Yahweh ⟨adalah⟩ kekuatan bagi mereka, dan kubu keselamatan bagi Mashíac-Nya, ⟨Dialah⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "dan kubu"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashíac-Nya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Dialah⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:11.272423945Z",
+  "model": "glm-5.2"
+}

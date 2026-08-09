@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Zevulun tidak mendorong keluar ⟨את⟩ penduduk Kitron dan ⟨את⟩ penduduk Nahalol, dan orang Kenaan diam di tengah-tengahnya, dan mereka menjadi ⟨orang⟩ pajak.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "mendorong keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduk Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penduduk Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan diam"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kenaan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan mereka menjadi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "pajak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:50:57.806462165Z",
+  "model": "glm-5.2"
+}

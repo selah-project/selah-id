@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan ⟨mereka⟩ akan merumputi ⟨את⟩ negeri Ashur dengan pedang dan ⟨את⟩ negeri Nimrod di pintu-pintunya, dan ⟨ia⟩ akan menyelamatkan dari Ashur ketika ia masuk ke negeri kita dan ketika ia menginjak di perbatasan kita.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "dan ⟨mereka⟩ akan merumputi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dengan pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "negeri Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "di pintu-pintunya"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "dan ⟨ia⟩ akan menyelamatkan"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "dari Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ia masuk"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ke negeri kita"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan ketika"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ia menginjak"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "di perbatasan kita"
+    }
+  ],
+  "timestamp": "2026-08-08T09:01:26.459436781Z",
+  "model": "glm-5.2"
+}

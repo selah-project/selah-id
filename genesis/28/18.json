@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Lalu bangunlah Ya'akov pagi-pagi dan ia mengambil ⟨את⟩ batu yang ia taruh di kepala sandarannya, dan ia menegakkannya sebagai tugu, dan ia menuangkan minyak di atas kepala ⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Lalu bangunlah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan ia mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ia taruh"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "di kepala sandarannya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan ia menegakkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tugu"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "sebagai tugu"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "dan ia menuangkan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "kepala"
+    }
+  ],
+  "timestamp": "2026-08-08T06:50:06.293766199Z",
+  "model": "glm-5.2"
+}

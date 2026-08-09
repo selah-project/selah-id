@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Maka ⟨akan⟩ melompatlah seperti rusa ⟨orang⟩ yang pincang, dan ⟨akan⟩ bernyanyilah lidah ⟨orang⟩ bisu; sebab ⟨telah⟩ terbelah air di padang gurun, dan sungai-sungai di tanah kering.",
+  "tokens": [
+    {
+      "surface": "אָ֣ז",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "יְדַלֵּ֤ג",
+      "gloss": "melompatlah"
+    },
+    {
+      "surface": "כָּֽאַיָּל֙",
+      "gloss": "seperti rusa"
+    },
+    {
+      "surface": "פִּסֵּ֔חַ",
+      "gloss": "yang pincang"
+    },
+    {
+      "surface": "וְתָרֹ֖ן",
+      "gloss": "dan bernelah"
+    },
+    {
+      "surface": "לְשׁ֣וֹן",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "אִלֵּ֑ם",
+      "gloss": "bisu"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נִבְקְע֤וּ",
+      "gloss": "terbelah"
+    },
+    {
+      "surface": "בַמִּדְבָּר֙",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "מַ֔יִם",
+      "gloss": "air"
+    },
+    {
+      "surface": "וּנְחָלִ֖ים",
+      "gloss": "dan sungai-sungai"
+    },
+    {
+      "surface": "בָּעֲרָבָֽה",
+      "gloss": "di tanah kering"
+    }
+  ],
+  "timestamp": "2026-08-08T11:12:15.774355711Z",
+  "model": "glm-5.2"
+}

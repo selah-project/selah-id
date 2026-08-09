@@ -1,0 +1,113 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "joshua 4:3",
+ "book": "joshua",
+ "lang": "id",
+ "chapter": 4,
+ "translation": "dan perintahkanlah mereka, katakan: “Angkatlah bagi kamu dari sini, dari tengah-tengah sungai Yarden, dari tempat berdirinya kaki-kaki para kohen, dua belas batu, dan bawalah mereka bersama kamu, dan letakkanlah mereka di tempat penginapan yang akan kamu inapi malam ini.”",
+ "tokens": [
+  {
+   "surface": "וְצַוּ֣וּ",
+   "gloss": "dan perintahkanlah"
+  },
+  {
+   "surface": "אוֹתָם֮",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "לֵאמֹר֒",
+   "gloss": "katakan"
+  },
+  {
+   "surface": "שְׂאֽוּ",
+   "gloss": "angkatlah"
+  },
+  {
+   "surface": "לָכֶ֨ם",
+   "gloss": "bagi kamu"
+  },
+  {
+   "surface": "מִזֶּ֜ה",
+   "gloss": "dari sini"
+  },
+  {
+   "surface": "מִתּ֣וֹךְ",
+   "gloss": "dari tengah-tengah"
+  },
+  {
+   "surface": "הַיַּרְדֵּ֗ן",
+   "gloss": "sungai Yarden"
+  },
+  {
+   "surface": "מִמַּצַּב֙",
+   "gloss": "dari tempat berdiri"
+  },
+  {
+   "surface": "רַגְלֵ֣י",
+   "gloss": "kaki-kaki"
+  },
+  {
+   "surface": "הַכֹּהֲנִ֔ים",
+   "gloss": "para kohen"
+  },
+  {
+   "surface": "הָכִ֖ין",
+   "gloss": "teguh"
+  },
+  {
+   "surface": "שְׁתֵּים",
+   "gloss": "dua"
+  },
+  {
+   "surface": "עֶשְׂרֵ֣ה",
+   "gloss": "belas"
+  },
+  {
+   "surface": "אֲבָנִ֑ים",
+   "gloss": "batu"
+  },
+  {
+   "surface": "וְהַעֲבַרְתֶּ֤ם",
+   "gloss": "dan bawalah"
+  },
+  {
+   "surface": "אוֹתָם֙",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "עִמָּכֶ֔ם",
+   "gloss": "bersama kamu"
+  },
+  {
+   "surface": "וְהִנַּחְתֶּ֣ם",
+   "gloss": "dan letakkanlah"
+  },
+  {
+   "surface": "אוֹתָ֔ם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "בַּמָּל֕וֹן",
+   "gloss": "di tempat penginapan"
+  },
+  {
+   "surface": "אֲשֶׁר",
+   "gloss": "yang"
+  },
+  {
+   "surface": "תָּלִ֥ינוּ",
+   "gloss": "kamu inapi"
+  },
+  {
+   "surface": "ב֖וֹ",
+   "gloss": "di sana"
+  },
+  {
+   "surface": "הַלָּֽיְלָה",
+   "gloss": "malam ini"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:12.803034953Z",
+ "model": "glm-5.2"
+}

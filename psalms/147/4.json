@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "⟨Dia⟩ menentukan jumlah bintang-bintang; kepada semuanya nama-nama ⟨dia⟩ panggil.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "menentukan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "jumlah"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "bintang-bintang"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kepada semuanya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "panggil"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:17.031146129Z",
+  "model": "glm-5.2"
+}

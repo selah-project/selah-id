@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Oleh sebab itu tidak kami takut saat bumi berubah, dan saat gunung-gunung tergoyang di tengah laut-laut.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": " atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": " sebab itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": " tidak"
+    },
+    {
+      "surface": "נירא",
+      "gloss": " kami takut"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": " saat berubah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": " bumi"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": " dan saat tergoyang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": " gunung-gunung"
+    },
+    {
+      "surface": "בלב",
+      "gloss": " di tengah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": " laut-laut"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:00.863795212Z",
+  "model": "glm-5.2"
+}

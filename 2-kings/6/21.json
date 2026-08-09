@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan berkatalah raja Yisrael kepada Elisha, ketika ia melihat ⟨את⟩ mereka: “Apakah aku akan memukul, ayahku?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "ketika ia melihat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "apakah aku akan memukul"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    }
+  ],
+  "timestamp": "2026-08-08T08:09:37.769768816Z",
+  "model": "glm-5.2"
+}

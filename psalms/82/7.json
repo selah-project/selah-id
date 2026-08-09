@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 82,
+  "translation": "Akan tetapi seperti adam ⟨kamu⟩ akan mati, dan seperti salah satu ⟨dari⟩ para pangeran ⟨kamu⟩ akan jatuh.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "akan tetapi"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "seperti adam"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "kamu akan mati"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "dan seperti salah satu"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pangeran"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "kamu akan jatuh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:31.651579477Z",
+  "model": "glm-5.2"
+}

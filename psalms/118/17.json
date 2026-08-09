@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 118,
+  "translation": "Tidak aku akan mati, melainkan aku akan hidup, dan aku akan menceritakan perbuatan-perbuatan Yah.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "אָמ֥וּת",
+      "gloss": "aku akan mati"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אֶֽחְיֶ֑ה",
+      "gloss": "aku akan hidup"
+    },
+    {
+      "surface": "וַ֝אֲסַפֵּ֗ר",
+      "gloss": "dan aku akan menceritakan"
+    },
+    {
+      "surface": "מַֽעֲשֵׂ֥י",
+      "gloss": "perbuatan-perbuatan"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:42.254337160Z",
+  "model": "glm-5.2"
+}

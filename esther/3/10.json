@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu sang raja menanggalkan ⟨את⟩ cetermiliknya dari jarinya, dan memberikannya kepada Haman bin Hamdata sang Agagi, ⟨yang⟩ penindas orang-orang Yehudi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "lalu menanggalkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetermiliknya"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "cetermiliknya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jarinya"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "kepada Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "sang Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "penindas"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "orang-orang Yehudi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:37.098585028Z",
+  "model": "glm-5.2"
+}

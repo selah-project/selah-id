@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 16:8",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan berkatalah Mosheh: “Pada waktu Yahweh memberikan kepadamu pada waktu senja daging untuk dimakan dan roti pada pagi hari untuk kenyang, pada waktu Yahweh mendengar ⟨את⟩ gerutuan kamu yang kamu ucapkan terhadap-Nya — dan kami ⟨ini⟩ apa? Bukan terhadap kami gerutuan kamu, melainkan terhadap Yahweh!”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "pada waktu memberikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu senja"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk dimakan"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dan roti"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi hari"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "untuk kenyang"
+    },
+    {
+      "surface": "בשמע",
+      "gloss": "pada waktu mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerutuan kamu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "gerutuan kamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "מלינם",
+      "gloss": "ucapkan terhadap"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "dan kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "terhadap kami"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "gerutuan kamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:31.896966835Z",
+  "model": "glm-5.2"
+}

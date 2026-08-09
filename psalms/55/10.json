@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Telan, ya Adonai, pecahkan lidah mereka, sebab aku telah melihat kekerasan dan pertengkaran di kota.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "telan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ya Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "pecahkan"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "dan pertengkaran"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:12.416786737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Ke dalam tangan-Mu aku menitipkan rohku; Engkau telah menebus ⟨את⟩ aku, Yahweh, El kebenaran.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Ke dalam tangan-Mu"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "aku menitipkan"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohku"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "Engkau telah menebus"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:30.609190203Z",
+  "model": "glm-5.2"
+}

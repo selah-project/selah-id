@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Di atas tempat tidurku pada malam-malam aku mencari ⟨את⟩ yang dikasihi nefeshku; aku mencari dia tetapi tidak menemukan dia.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "tempat tidurku"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "pada malam-malam"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "aku mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang dikasihi nefeshku"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "yang dikasihi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshku"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "aku mencari dia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "menemukan dia"
+    }
+  ],
+  "timestamp": "2026-08-08T11:55:30.202298280Z",
+  "model": "glm-5.2"
+}

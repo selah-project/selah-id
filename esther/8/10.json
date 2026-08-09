@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 8:10",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ia menulis atas nama raja Achashverosh dan ia meteraikan dengan cincin raja, dan ia mengirim surat-surat dengan tangan para kurir berkuda, penunggang kuda pelari cepat dari kandang kuda kerajaan.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "dan ia menulis"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "atas nama"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ויחתם",
+      "gloss": "dan ia meteraikan"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "dengan cincin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan ia mengirim"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "surat-surat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "para kurir"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "berkuda"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "penunggang"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "kuda pelari cepat"
+    },
+    {
+      "surface": "האחשתרנים",
+      "gloss": "dari kandang kerajaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "הרמכים",
+      "gloss": "kuda induk"
+    }
+  ],
+  "timestamp": "2026-08-08T09:52:27.665331418Z",
+  "model": "glm-5.2"
+}

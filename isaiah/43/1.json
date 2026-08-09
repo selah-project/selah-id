@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 43:1",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Dan sekarang, begini bersabda Yahweh — yang menciptakan engkau, Yaakov, dan yang membentuk engkau, Yisrael: “Jangan takut, sebab Aku telah menebus engkau; Aku telah memanggil engkau dengan namamu — engkau milik-Ku.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "כה",
+      "gloss": "begini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bersabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בראך",
+      "gloss": "yang menciptakan engkau"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "dan yang membentuk engkau"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "Aku telah menebus engkau"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Aku telah memanggil"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "dengan namamu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "milik-Ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:19.714586921Z",
+  "model": "glm-5.2"
+}

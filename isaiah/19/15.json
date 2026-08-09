@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan tidak akan ada bagi Mitsrayim perbuatan yang dapat dilakukan — kepala dan ekor, pelepah pohon kurma dan buluh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "bagi Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dapat dilakukan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "dan ekor"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "pelepah pohon kurma"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "dan buluh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:10:19.134168027Z",
+  "model": "glm-5.2"
+}

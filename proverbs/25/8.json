@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Janganlah keluar untuk berbantahan terburu-buru, jangan sampai engkau tidak tahu apa yang akan kauperbuat pada akhirnya, ketika temanmu mempermalukan ⟨את⟩ engkau.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "untuk berbantahan"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "terburu-buru"
+    },
+    {
+      "surface": "פן",
+      "gloss": "jangan sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "akan kauperbuat"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "pada akhirnya"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "ketika mempermalukan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "temanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:20.445510461Z",
+  "model": "glm-5.2"
+}

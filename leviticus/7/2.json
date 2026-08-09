@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Di tempat yang disembelih ⟨את⟩ korban olah, di sana mereka menyembelih ⟨את⟩ korban asham, dan ⟨את⟩ darahnya disiramkan pada mizbeach sekelilingnya.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Di tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "disembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban olah"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "mereka menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "korban asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "darahnya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "disiramkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeach"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekelilingnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:15.038530701Z",
+  "model": "glm-5.2"
+}

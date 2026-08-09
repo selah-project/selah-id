@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 18:19",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dan bersabdalah Yahweh, “Siapa yang akan membujuk ⟨את⟩ Akhav raja Yisrael, supaya ia naik dan jatuh di Ramot-Gilad?” Dan ⟨ada yang⟩ berkata, yang satu mengatakan begini, dan yang lain mengatakan begitu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan bersabdalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "akan membujuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhav"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "supaya ia naik"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "di Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ⟨ada yang⟩ berkata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mengatakan"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "begini"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dan yang lain"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mengatakan"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "begitu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:05:49.599640522Z",
+  "model": "glm-5.2"
+}

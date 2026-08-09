@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Karena milik Yahweh perisai kami, dan milik Kudus Yisra'el raja kami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "milik Yahweh"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "perisai kami"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "dan milik Kudus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "raja kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:18.543359365Z",
+  "model": "glm-5.2"
+}

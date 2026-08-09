@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Biarkanlah aku lewat, sungguh, dan aku akan melihat ⟨את⟩ ⟨the⟩ negeri yang baik yang di seberang sungai Yarden, ⟨the⟩ gunung yang baik ini, dan ⟨the⟩ Levanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Biarkanlah aku lewat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dan aku akan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ negeri"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨the⟩ gunung"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "dan ⟨the⟩ Levanon"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:55.768716515Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Orang-orang bodoh, oleh karena jalan pelanggaran mereka, dan oleh karena kesalahan-kesalahan mereka, mereka ditindas.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "oleh karena jalan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "pelanggaran mereka"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "dan oleh karena kesalahan-kesalahan mereka"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "mereka ditindas"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:24.235443436Z",
+  "model": "glm-5.2"
+}

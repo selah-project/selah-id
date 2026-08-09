@@ -1,0 +1,63 @@
+{
+ "tier": "glm-5.2",
+ "verse": 28,
+ "ref": "exodus 25:28",
+ "book": "exodus",
+ "lang": "id",
+ "chapter": 25,
+ "translation": "Dan engkau akan membuat ⟨את⟩ tiang-tiang itu dari kayu shitim, dan engkau akan melapisinya dengan emas, dan ⟨mesa⟩ akan diangkut dengan ⟨את⟩ mereka ⟨את⟩ meja itu.",
+ "tokens": [
+  {
+   "surface": "ועשית",
+   "gloss": "Dan engkau akan membuat"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tiang-tiang"
+  },
+  {
+   "surface": "הבדים",
+   "gloss": "tiang-tiang"
+  },
+  {
+   "surface": "עצי",
+   "gloss": "kayu"
+  },
+  {
+   "surface": "שטים",
+   "gloss": "shitim"
+  },
+  {
+   "surface": "וצפית",
+   "gloss": "dan engkau akan melapisinya"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ mereka"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "emas"
+  },
+  {
+   "surface": "ונשא",
+   "gloss": "dan ⟨ia⟩ akan diangkut"
+  },
+  {
+   "surface": "בם",
+   "gloss": "dengan mereka"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "meja"
+  },
+  {
+   "surface": "השלחן",
+   "gloss": "meja"
+  }
+ ],
+ "timestamp": "2026-08-09T01:37:53.571978167Z",
+ "model": "glm-5.2"
+}

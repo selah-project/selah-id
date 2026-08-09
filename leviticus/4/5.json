@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan imam yang diurapi, ha-Mashíacḥ, mengambil dari darah lembu jantan itu dan membawanya ⟨את⟩ ke dalam Kemahi Pertemuan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "yang diurapi"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu jantan itu"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "dan membawanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:07:48.649908789Z",
+  "model": "glm-5.2"
+}

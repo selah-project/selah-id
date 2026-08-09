@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Lalu Yahweh menampakkan diri kepada Avram dan berfirman, 'Kepada keturunanmu Aku akan memberikan ⟨את⟩ negeri ini'; dan ia mendirikan di sana mezbah bagi Yahweh yang menampakkan diri kepadanya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lalu menampakkan diri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Kepada keturunanmu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Aku akan memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri ini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan ia mendirikan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "yang menampakkan diri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:29.936799582Z",
+  "model": "glm-5.2"
+}

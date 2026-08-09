@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Biarlah tangan-Mu ⟨bersama⟩ pria ⟨di⟩ tangan kanan-Mu, atas anak manusia yang Kaukuatkan bagi-Mu.",
+  "tokens": [
+    {
+      "surface": "תְּֽהִי",
+      "gloss": "biarlah"
+    },
+    {
+      "surface": "יָ֭דְךָ",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "pria"
+    },
+    {
+      "surface": "יְמִינֶ֑ךָ",
+      "gloss": "tangan kanan-Mu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אִמַּ֥צְתָּ",
+      "gloss": "Kaukuatkan"
+    },
+    {
+      "surface": "לָּֽךְ",
+      "gloss": "bagi-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:09.810434768Z",
+  "model": "glm-5.2"
+}

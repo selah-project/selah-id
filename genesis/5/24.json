@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Dan berjalanlah Chanok bersama ⟨את⟩ haElohim, dan ia tidak ada lagi, ki Elohim telah mengambil dia.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "dan berjalanlah"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "bersama ⟨את⟩",
+      "marks": "haElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "haElohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan ia tidak ada lagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "telah mengambil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:44:06.880074085Z",
+  "model": "glm-5.2"
+}

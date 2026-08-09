@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "⟨Ia⟩ akan sampai kepada angkatan bapak-bapaknya; sampai selama-lamanya mereka tidak akan melihat cahaya.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ia akan sampai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "bapak-bapaknya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mereka akan melihat"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:33.665663462Z",
+  "model": "glm-5.2"
+}

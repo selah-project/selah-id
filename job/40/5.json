@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Sekali aku telah berbicara dan tidak akan menjawab, bahkan dua kali dan tidak akan menambah lagi.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Sekali"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aku telah berbicara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "aku akan menjawab"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "bahkan dua kali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "aku akan menambah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:54:41.063879584Z",
+  "model": "glm-5.2"
+}

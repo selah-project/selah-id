@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 146,
+  "translation": "Pujilah Yah, pujilah ⟨oh⟩ nafasku, ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafasku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:35.707239441Z",
+  "model": "glm-5.2"
+}

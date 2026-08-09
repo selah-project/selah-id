@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Apakah burung akan jatuh ke atas jerat di bumi, sedang perangkap tidak ada baginya? Apakah jerat akan naik dari tanah dan menangkap—tidak akan menangkap?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "apakah akan jatuh"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "burung"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "dan perangkap"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "apakah akan naik"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "dan menangkap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "akan menangkap"
+    }
+  ],
+  "timestamp": "2026-08-08T08:58:59.183042797Z",
+  "model": "glm-5.2"
+}

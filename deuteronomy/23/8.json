@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Janganlah kaubenci ⟨seorang⟩ Edomi, se saudaramu dia; janganlah kaubenci ⟨seorang⟩ Mitsri, se orang asing engkau telah menjadi di tanahnya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "kaubenci"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "kaubenci"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "גר",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "היית",
+      "gloss": "engkau telah menjadi"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "di tanahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:26.085613804Z",
+  "model": "glm-5.2"
+}

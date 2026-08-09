@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Pada waktu ia dihakimi, biarlah keluar ⟨sebagai⟩ fasik, dan doanya menjadi dosa.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Pada waktu ia dihakimi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "biarlah keluar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨sebagai⟩ fasik"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "dan doanya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:43.529819480Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Lalu Mikhal menurunkan ⟨את⟩ Dawid melalui jendela, dan ia pergi, dan melarikan diri, dan terselamatkan.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Lalu menurunkan"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "melalui"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "jendela"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ia pergi"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "dan melarikan diri"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "dan terselamatkan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:49:50.002852922Z",
+  "model": "glm-5.2"
+}

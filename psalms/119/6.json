@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Maka aku tidak akan malu saat kupandang seluruh perintah-perintah-Mu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "akan malu"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "saat kupandang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-perintah-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:42.236210215Z",
+  "model": "glm-5.2"
+}

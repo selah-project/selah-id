@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Lalu mereka menaruh ⟨את⟩ perlengkapannya di bait Ashtarot, dan ⟨את⟩ mayatnya mereka pasang pada tembok Beit-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "dan mereka menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perlengkapannya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perlengkapannya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mayatnya"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "mayatnya"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "mereka pasang"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "pada tembok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:02.756805467Z",
+  "model": "glm-5.2"
+}

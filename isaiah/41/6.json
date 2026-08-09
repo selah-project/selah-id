@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 41,
+  "translation": "Setiap orang menolong ⟨את⟩ sesamanya, dan kepada saudaranya berkata, “Kuatkanlah!”",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesamanya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "menolong"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "dan kepada saudaranya"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Kuatkanlah!"
+    }
+  ],
+  "timestamp": "2026-08-08T08:24:36.089841157Z",
+  "model": "glm-5.2"
+}

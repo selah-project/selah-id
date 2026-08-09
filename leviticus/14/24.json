@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan sang imam mengambil ⟨את⟩ domba korban asham dan ⟨את⟩ log minyak itu, dan sang imam mengayun-ayunkan ⟨את⟩nya sebagai persembahan tenufah di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Dan mengambil"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba korban asham"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "domba"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "korban asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "log minyak itu"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "dan mengayun-ayunkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩nya",
+      "marks": "kedua-duanya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "persembahan tenufah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T23:15:28.819495562Z",
+  "model": "glm-5.2"
+}

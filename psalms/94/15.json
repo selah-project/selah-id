@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 94,
+  "translation": "Sebab hukum akan kembali kepada kebenaran, dan setelahnya semua orang tulus hati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akan kembali"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "dan setelahnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "orang tulus"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:18.740793751Z",
+  "model": "glm-5.2"
+}

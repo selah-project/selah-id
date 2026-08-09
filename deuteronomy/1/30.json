@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim kalian, ⟨dialah⟩ yang berjalan di depan kalian, ⟨dialah⟩ yang akan berperang untuk kalian, sesuai dengan segala yang dilakukan-Nya untuk kalian di Mitsrayim di depan mata kalian,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di depan kalian"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dialah⟩"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "yang akan berperang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuk kalian"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sesuai dengan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan-Nya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "untuk kalian"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "di depan mata kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:34.849404487Z",
+  "model": "glm-5.2"
+}

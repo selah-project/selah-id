@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Di sana burung-burung membuat sarang; bangau, ⟨di⟩ pohon-pohon sanobar ⟨adalah⟩ rumahnya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "burung-burung"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "membuat sarang"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "bangau"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "pohon-pohon sanobar"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:13.139519983Z",
+  "model": "glm-5.2"
+}

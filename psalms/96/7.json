@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 96,
+  "translation": "Berikanlah kepada Yahweh, hai mishpechot bangsa-bangsa, berikanlah kepada Yahweh kavod dan oz!",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "hai mishpechot"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "dan oz"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:17.504352919Z",
+  "model": "glm-5.2"
+}

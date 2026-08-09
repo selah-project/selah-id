@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 38,
+  "translation": "Sebab aku siap jatuh, dan rasa sakitku ⟨ada⟩ di hadapanku senantiasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "siap jatuh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "siap"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "dan rasa sakitku"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "senantiasa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:09.460248312Z",
+  "model": "glm-5.2"
+}

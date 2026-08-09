@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "‘Karena Yahweh tidak mampu membawa ⟨את⟩ bangsa ini ke negeri yang telah bersumpah kepada mereka, maka Ia menyembelih mereka di padang gurun.’",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "tidak mampu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa ini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "telah bersumpah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "maka Ia menyembelih mereka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-08T07:17:45.762052719Z",
+  "model": "glm-5.2"
+}

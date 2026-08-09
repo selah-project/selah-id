@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan ⟨את〕 penjara-penjara api dan ⟨את〕 bokor-bokor percikan, yang emas emas, dan yang perak perak, diambil kepala algojo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "penjara-penjara api"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "penjara-penjara api"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bokor-bokor percikan"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "bokor-bokor percikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambil"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "algojo"
+    }
+  ],
+  "timestamp": "2026-08-08T08:15:23.435610964Z",
+  "model": "glm-5.2"
+}

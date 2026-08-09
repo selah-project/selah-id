@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Untuk tertawa orang membuat perjamuan, dan anggur menyukakan kehidupan, tetapi perak ⟨את⟩ menjawab segala sesuatu.",
+  "tokens": [
+    {
+      "surface": "לִשְׂחוֹק֙",
+      "gloss": "Untuk tertawa"
+    },
+    {
+      "surface": "עֹשִׂ֣ים",
+      "gloss": "orang membuat"
+    },
+    {
+      "surface": "לֶ֔חֶם",
+      "gloss": "perjamuan"
+    },
+    {
+      "surface": "וְיַ֖יִן",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "יְשַׂמַּ֣ח",
+      "gloss": "menyukakan"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "וְהַכֶּ֖סֶף",
+      "gloss": "tetapi perak"
+    },
+    {
+      "surface": "יַעֲנֶ֥ה",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "segala sesuatu"
+    },
+    {
+      "surface": "הַכֹּֽל",
+      "gloss": "segala sesuatu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:08.301400089Z",
+  "model": "glm-5.2"
+}

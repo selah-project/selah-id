@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan kota-kota yang diberi Khuram kepada Shelomoh, dibangunlah Shelomoh ⟨את⟩-nya; dan ⟨ia⟩ menempatkan di sana ⟨את⟩ bani Yisrael.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "Dan kota-kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberi"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Khuram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kepada Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibangunlah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-nya",
+      "marks": "kota-kota"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-09T01:43:44.338336520Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 59,
+  "translation": "Sebab lihat, mereka mengintai napasku; orang-orang yang ganas berkumpul terhadap aku — bukan pelanggaranku dan bukan dosaku, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "mereka mengintai"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "mereka berkumpul"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "yang ganas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pelanggaranku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:15:16.816743774Z",
+  "model": "glm-5.2"
+}

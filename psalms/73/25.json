@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 73,
+  "translation": "Siapa ⟨bagi⟩-ku di langit? Dan bersama-Mu tidak aku berkehendak ⟨sesuatu pun⟩ di bumi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨bagi⟩-ku"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Dan bersama-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "aku berkehendak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:40:20.447792246Z",
+  "model": "glm-5.2"
+}

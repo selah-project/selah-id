@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Maka Yahweh mendengar ⟨את⟩ suara perkataan kamu, dan Ia murka, dan Ia bersumpah, dengan mengatakan:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Maka mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara perkataan kamu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "perkataan kamu"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "dan Ia murka"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "dan Ia bersumpah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan mengatakan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:24:45.570243042Z",
+  "model": "glm-5.2"
+}

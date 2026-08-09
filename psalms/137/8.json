@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 137,
+  "translation": "Putri Bavel, ⟨yang⟩ akan dirusakkan, berbahagialah dia yang akan membalas kepadamu ⟨את⟩ balasanmu yang engkau perbuat kepada kami.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Putri"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "yang akan dirusakkan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "berbahagialah"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "yang akan membalas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balasanmu"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "balasanmu"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "yang engkau perbuat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:27.841624055Z",
+  "model": "glm-5.2"
+}

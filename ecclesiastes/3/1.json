@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Untuk segala sesuatu ⟨ada⟩ musimnya, dan waktu untuk setiap keinginan di bawah langit.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "untuk segala sesuatu"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "musim"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuk setiap"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:06.224932522Z",
+  "model": "glm-5.2"
+}

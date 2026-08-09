@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan apabila dengan satu saja ditiup, maka berkumpullah kepadamu para nasi, kepala-kepala ribuan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "dengan satu saja"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "ditiup"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "maka berkumpullah"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "para nasi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ribuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-08T07:16:20.195963181Z",
+  "model": "glm-5.2"
+}

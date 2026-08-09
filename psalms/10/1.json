@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Mengapakah Engkau berdiri jauh, Yahweh, menyembunyikan ⟨diri-Mu⟩ pada waktu-waktu kesesakan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mengapakah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "Engkau berdiri"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "menyembunyikan"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pada waktu-waktu"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "kesesakan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:26.527971607Z",
+  "model": "glm-5.2"
+}

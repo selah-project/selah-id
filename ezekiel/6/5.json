@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "dan Aku akan meletakkan ⟨את⟩ mayat-mayat bani Yisrael di hadapan gilulim mereka, dan Aku akan menyerakkan ⟨את⟩ tulang-tulangmu di sekeliling mezbah-mezbahmu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayat-mayat"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "mayat-mayat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "gilulim mereka"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "dan Aku akan menyerakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulangmu"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "tulang-tulangmu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "di sekeliling"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "mezbah-mezbahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T12:20:00.620898207Z",
+  "model": "glm-5.2"
+}

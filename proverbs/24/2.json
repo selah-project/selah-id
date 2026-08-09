@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Karena kekerasan dihemat oleh hati mereka, dan kemalasan oleh bibir mereka berbicara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "שד",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "dihemat"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "oleh hati mereka"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "dan kemalasan"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "oleh bibir mereka"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "berbicara"
+    }
+  ],
+  "timestamp": "2026-08-08T09:35:04.515615076Z",
+  "model": "glm-5.2"
+}

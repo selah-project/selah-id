@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan mereka mengobati ⟨את⟩ patah hati putri umat-Ku secara dangkal, dengan mengatakan: 'Damai sejahtera, damai sejahtera,' padahal tidak ada damai sejahtera.",
+  "tokens": [
+    {
+      "surface": "וַיְרַפּ֞וּ",
+      "gloss": "dan mereka mengobati"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "patah hati"
+    },
+    {
+      "surface": "שֶׁ֤בֶר",
+      "gloss": "patah hati"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "עַמִּי֙",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "secara"
+    },
+    {
+      "surface": "נְקַלָּ֔ה",
+      "gloss": "dangkal"
+    },
+    {
+      "surface": "לֵאמֹ֖ר",
+      "gloss": "dengan mengatakan"
+    },
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "damai sejahtera"
+    },
+    {
+      "surface": "שָׁל֑וֹם",
+      "gloss": "damai sejahtera"
+    },
+    {
+      "surface": "וְאֵ֖ין",
+      "gloss": "padahal tidak ada"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "damai sejahtera"
+    }
+  ],
+  "timestamp": "2026-08-08T08:32:05.834824336Z",
+  "model": "glm-5.2"
+}

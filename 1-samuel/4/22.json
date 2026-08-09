@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨ia⟩ berkata: \"Telah pergi kemuliaan dari Yisrael, sebab telah ditawan aron ha-Elohim.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "telah pergi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "dari Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "telah ditawan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T07:45:29.602093487Z",
+  "model": "glm-5.2"
+}

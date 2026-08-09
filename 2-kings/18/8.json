@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Ia — ia memukul ⟨את⟩ Pelesyet sampai Azzah, dan ⟨את⟩ daerah-daerahnya, dari Migdal ha-Notsrim sampai kota berkubu.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ia memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesyet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "daerah-daerahnya"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "daerah-daerahnya"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "dari menara"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "para penjaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "berkubu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:12:44.628117196Z",
+  "model": "glm-5.2"
+}

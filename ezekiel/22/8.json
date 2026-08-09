@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Hal-hal kudus-Ku engkau hinakan, dan ⟨את⟩ hari-hari sabat-Ku engkau cemarkan.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Hal-hal kudus-Ku"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "engkau hinakan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hari-hari sabat-Ku"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "hari-hari sabat-Ku"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "engkau cemarkan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:49:16.368901649Z",
+  "model": "glm-5.2"
+}

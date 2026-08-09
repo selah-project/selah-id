@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Aku akan menjawab engkau dengan kata-kata, dan ⟨את⟩ sahabat-sahabatmu bersama-sama denganmu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "akan menjawab engkau"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "dengan kata-kata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sahabat-sahabatmu"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "sahabat-sahabatmu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersama-sama denganmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:43:29.722191551Z",
+  "model": "glm-5.2"
+}

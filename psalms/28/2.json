@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 28,
+  "translation": "Dengarkan suara permohonanku saat aku berteriak kepada-Mu, saat aku mengangkat tanganku ke ruang mahakudus-Mu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dengarkan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "permohonanku"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "saat aku berteriak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "saat aku mengangkat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ruang mahakudus"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "-Mu yang kudus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:38.493075135Z",
+  "model": "glm-5.2"
+}

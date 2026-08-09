@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "“Dan kami berkata kepadanya, ‘Jujur ⟨kami⟩; tidak ⟨kami⟩ menjadi mata-mata.’",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Dan kami berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "Jujur"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨kami⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "⟨kami⟩ menjadi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    }
+  ],
+  "timestamp": "2026-08-08T06:53:05.723537070Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 144,
+  "translation": "Yahweh, apakah ⟨manusia⟩ sehingga Engkau mengenalnya, anak ⟨manusia⟩ fana sehingga Engkau memperhitungkannya?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨manusia⟩"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "sehingga Engkau mengenalnya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨manusia⟩ fana"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "sehingga Engkau memperhitungkannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:51.101852659Z",
+  "model": "glm-5.2"
+}

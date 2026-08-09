@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 60,
+  "translation": "Sebab sesungguhnya, kegelapan akan menutupi bumi, dan kekelaman ⟨bagi⟩ bangsa-bangsa; tetapi atasmu akan terbit Yahweh, dan kemuliaan-Nya atasmu akan terlihat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "akan menutupi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "dan kekelaman"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "tetapi atasmu"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "akan terbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "dan kemuliaan-Nya"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akan terlihat"
+    }
+  ],
+  "timestamp": "2026-08-08T08:28:32.962462288Z",
+  "model": "glm-5.2"
+}

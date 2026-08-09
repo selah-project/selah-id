@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 105,
+  "translation": "Ia memberikan hujan mereka menjadi hujan es, api nyala-nyala di tanah mereka.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Ia memberikan"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "hujan mereka"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "menjadi hujan es"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "nyala-nyala"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di tanah mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:02.859799823Z",
+  "model": "glm-5.2"
+}

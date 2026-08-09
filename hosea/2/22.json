@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "dan Aku akan meminang engkau kepada-Ku dalam kesetiaan, dan engkau akan mengetahui ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "dan Aku akan meminang engkau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "dalam kesetiaan"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "dan engkau akan mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T12:22:11.056815605Z",
+  "model": "glm-5.2"
+}

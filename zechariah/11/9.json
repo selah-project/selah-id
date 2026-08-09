@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lalu kukatakan: Aku tidak akan menggembalakan ⟨את⟩ kalian. Yang mati, biarlah mati; dan yang dilenyapkan, biarlah dilenyapkan; dan yang tersisa, biarlah saling memakan, masing-masing daging ⟨את⟩ sesamanya.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Lalu kukatakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "akan menggembalakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "yang mati"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "biarlah mati"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "dan yang dilenyapkan"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "biarlah dilenyapkan"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "dan yang tersisa"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "biarlah saling memakan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "sesamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:06:15.990849808Z",
+  "model": "glm-5.2"
+}

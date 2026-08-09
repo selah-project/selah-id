@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan engkau, angkatlah ⟨את⟩ tongkatmu dan ulurkanlah ⟨את⟩ tanganmu ke atas laut itu dan belahlah dia, maka masuklah bani Yisra'el ke tengah-tengah laut itu di ⟨the⟩ tanah kering.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan engkau"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatmu"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tongkatmu"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "dan ulurkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut itu"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "dan belahlah dia"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "maka masuklah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ke tengah-tengah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut itu"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "di ⟨the⟩ tanah kering"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:57.414962663Z",
+  "model": "glm-5.2"
+}

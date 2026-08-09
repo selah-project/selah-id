@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Maka Ravshakeh kembali, dan ia mendapati ⟨את⟩ raja Ashur tengah berperang melawan Livnah, karena ia mendengar bahwa ⟨ia⟩ telah berangkat meninggalkan Lakhis.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Maka kembali"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "dan mendapati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "tengah berperang"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ia mendengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "telah berangkat"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakhis"
+    }
+  ],
+  "timestamp": "2026-08-08T11:11:49.026694931Z",
+  "model": "glm-5.2"
+}

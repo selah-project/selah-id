@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 91,
+  "translation": "dari penyakit sampar yang berjalan di kegelapan, dari pemusnahan yang mengganas di tengah hari.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "dari penyakit sampar"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "di kegelapan"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "dari pemusnahan"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "yang mengganas"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "di tengah hari"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:29.297331998Z",
+  "model": "glm-5.2"
+}

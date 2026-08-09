@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 80,
+  "translation": "Ia menyulur tunas-tunasnya sampai ke laut, dan sungai-sungai ⟨yang⟩ ia beri minum.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Ia menyulur"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "tunas-tunasnya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan sungai-sungai"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "yang ia beri minum"
+    }
+  ],
+  "timestamp": "2026-08-08T13:10:44.487128514Z",
+  "model": "glm-5.2"
+}

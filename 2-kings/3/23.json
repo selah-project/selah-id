@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan mereka berkata: “Darah ini! Pasti ⟨הָחֳרֵב⟩ mereka telah saling menghancurkan, raja-raja itu, dan mereka memukul, masing-masing ⟨את⟩ sesamanya. Maka sekarang, kepada jarahan, Moab!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pasti hancur"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "mereka telah dihancurkan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-rajamu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesamanya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "maka sekarang"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kepada jarahan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-08T11:05:29.340918784Z",
+  "model": "glm-5.2"
+}

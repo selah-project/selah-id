@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 54,
+  "translation": "Sebab yang mengimu adalah Pembuatmu — Yahweh Tsevaot nama-Nya, dan Penebusmu ⟨adalah⟩ Kudusnya Yisrael, Elohim seluruh bumi akan disebut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "yang mengimu"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "Pembuatmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "dan Penebusmu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kudusnya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akan disebut"
+    }
+  ],
+  "timestamp": "2026-08-08T08:27:14.312786947Z",
+  "model": "glm-5.2"
+}

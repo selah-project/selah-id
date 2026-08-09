@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 127,
+  "translation": "Berbahagialah ⟨the⟩ pahlawan yang telah memenuhi ⟨את⟩ tabung panahnya dengan mereka; mereka tidak akan mendapat malam, sebab mereka akan berbicara ⟨dengan⟩ ⟨את⟩ musuh-musuh di ⟨the⟩ gerbang.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֤י",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "הַגֶּ֗בֶר",
+      "gloss": "⟨the⟩ pahlawan"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מִלֵּ֥א",
+      "gloss": "telah memenuhi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tabung panahnya"
+    },
+    {
+      "surface": "אַשְׁפָּת֗וֹ",
+      "gloss": "tabung panahnya"
+    },
+    {
+      "surface": "מֵ֫הֶ֥ם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יֵבֹ֑שׁוּ",
+      "gloss": "akan mendapat malam"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יְדַבְּר֖וּ",
+      "gloss": "mereka akan berbicara"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "musuh-musuh"
+    },
+    {
+      "surface": "אוֹיְבִ֣ים",
+      "gloss": "musuh-musuh"
+    },
+    {
+      "surface": "בַּשָּֽׁעַר",
+      "gloss": "di ⟨the⟩ gerbang"
+    }
+  ],
+  "timestamp": "2026-08-08T23:17:36.560063677Z",
+  "model": "glm-5.2"
+}

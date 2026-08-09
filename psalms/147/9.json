@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Memberi kepada hewan makanannya, kepada anak-anak gagak yang memanggil.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "kepada hewan"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "makanannya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada anak-anak"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "memanggil"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:58.860456378Z",
+  "model": "glm-5.2"
+}

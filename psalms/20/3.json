@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Kiranya Ia mengirim pertolonganmu dari tempat kudus, dan dari Tziyon menopang engkau,",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Kiranya Ia mengirim"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "pertolonganmu"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "dari tempat kudus"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "dan dari Tziyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "menopang engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:45.050133026Z",
+  "model": "glm-5.2"
+}

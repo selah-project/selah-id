@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Tehom sebagai pakaian ⟨Ia⟩ tutupi ⟨את⟩nya — di atas gunung-gunung berdiri ⟨את⟩ air.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "sebagai pakaian"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "⟨Ia⟩ tutupi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:02.060037312Z",
+  "model": "glm-5.2"
+}

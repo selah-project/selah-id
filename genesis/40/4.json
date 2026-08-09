@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan atas penjaga jagawarga menugaskan ⟨את⟩ Yosef untuk bersama mereka, dan ⟨dia⟩ melayani ⟨את⟩ mereka; dan terjadilah hari-hari ⟨mereka⟩ dalam tahanan.",
+  "tokens": [
+    {
+      "surface": "וַ֠יִּפְקֹד",
+      "gloss": "Dan menugaskan"
+    },
+    {
+      "surface": "שַׂ֣ר",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הַטַּבָּחִ֧ים",
+      "gloss": "penjaga jagawarga"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוֹסֵ֛ף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אִתָּ֖ם",
+      "gloss": "bersama mereka"
+    },
+    {
+      "surface": "וַיְשָׁ֣רֶת",
+      "gloss": "dan melayani"
+    },
+    {
+      "surface": "אֹתָ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "וַיִּהְי֥וּ",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "יָמִ֖ים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "בְּמִשְׁמָֽר",
+      "gloss": "dalam tahanan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:32:42.845243391Z",
+  "model": "glm-5.2"
+}

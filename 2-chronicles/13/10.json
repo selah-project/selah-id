@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 13:10",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Tetapi kami — Yahweh ⟨adalah⟩ Elohim kami, dan kami tidak meninggalkan Dia; dan imam-imam yang melayani Yahweh, bani Aharon, dan orang-orang Lewi, dalam pekerjaan ⟨mereja⟩.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "tetapi kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "kami meninggalkan Dia"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "dan imam-imam"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "yang melayani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "dan orang-orang Lewi"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "dalam pekerjaan"
+    }
+  ],
+  "timestamp": "2026-08-08T10:13:55.210849399Z",
+  "model": "glm-5.2"
+}

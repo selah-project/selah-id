@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 74,
+  "translation": "Pembencimu mengaum di tengah perjumpaanmu; mereka menempatkan tanda-tanda mereka ⟨sebagai⟩ tanda.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "mengaum"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Pembencimu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "perjumpaanmu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mereka menempatkan"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "tanda-tanda mereka"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "⟨sebagai⟩ tanda"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:13.081484608Z",
+  "model": "glm-5.2"
+}

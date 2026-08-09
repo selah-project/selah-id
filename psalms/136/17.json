@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 136,
+  "translation": "Kepada ⟨Dia⟩ yang memukul raja-raja yang besar, karena untuk selama-lamanya hesed-⟨Nya⟩.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Kepada yang memukul"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:13.573573518Z",
+  "model": "glm-5.2"
+}

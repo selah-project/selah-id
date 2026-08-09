@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Setelah matahari terbenam ia menjadi tahor, dan sesudah itu ia boleh makan dari benda-benda kudus, karena itu makanannya.",
+  "tokens": [
+    {
+      "surface": "וּבָא",
+      "gloss": "setelah datang"
+    },
+    {
+      "surface": "הַשֶּׁמֶשׁ",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "וְטָהֵר",
+      "gloss": "menjadi tahor"
+    },
+    {
+      "surface": "וְאַחַר",
+      "gloss": "dan sesudah itu"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "boleh makan"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הַקֳּדָשִׁים",
+      "gloss": "benda-benda kudus"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "לַחְמוֹ",
+      "gloss": "makanannya"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:18.769235460Z",
+  "model": "glm-5.2"
+}

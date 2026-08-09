@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 31:6",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "Kuatkan dan teguhkanlah, jangan takut dan jangan gemetar karena mereka, sebab Yahweh Elohim-mu, Dialah yang berjalan bersamamu; Dia tidak akan melonggarkanmu dan tidak akan meninggalkanmu.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "kuatkanlah"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "dan teguhkanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamu takut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "kamu gemetar"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "karena mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "akan melonggarkanmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "akan meninggalkanmu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:33.239506690Z",
+  "model": "glm-5.2"
+}

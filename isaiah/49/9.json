@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 49,
+  "translation": "untuk berkata kepada ⟨orang-orang⟩ yang terikat: “Keluarlah!” dan kepada ⟨mereka⟩ yang dalam kegelapan: “Tampakkanlah dirimu!” Mereka akan ⟨merumput⟩ di sepanjang jalan-jalan dan di semua bukit-bukit gundul ⟨adalah⟩ padang penggembalaan mereka.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "untuk berkata"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "kepada ⟨orang-orang⟩ yang terikat"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "keluarlah!"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "dan kepada ⟨mereka⟩ yang"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "tampakkanlah dirimu!"
+    },
+    {
+      "surface": "על",
+      "gloss": "di sepanjang"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "mereka akan ⟨merumput⟩"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan di semua"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "bukit-bukit gundul"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "padang penggembalaan mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T08:26:06.997247707Z",
+  "model": "glm-5.2"
+}

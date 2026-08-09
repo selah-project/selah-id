@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan ⟨את⟩ sisa rakyat itu ia berikan ke dalam tangan Avishai saudaranya, dan ia menyusun ⟨mereka⟩ untuk melawan bani Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sisa rakyat itu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ia berikan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "dan ia menyusun"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "untuk melawan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:47.474191518Z",
+  "model": "glm-5.2"
+}

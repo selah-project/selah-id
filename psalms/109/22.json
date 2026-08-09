@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Karena sengsara dan papa aku, dan hatiku tertikam di dalam diriku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karena"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sengsara"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan papa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "dan hatiku"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "tertikam"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diriku"
+    }
+  ],
+  "timestamp": "2026-08-08T11:45:53.438424555Z",
+  "model": "glm-5.2"
+}

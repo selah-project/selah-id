@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 35,
+  "translation": "Dan ⟨את⟩ rempah-rempah dan ⟨את⟩ minyak untuk penerangan, dan untuk minyak urapan, dan untuk ukupan dari rempah-rempah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "rempah-rempah"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "rempah-rempah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "untuk penerangan"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "dan untuk minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "dan untuk ukupan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dari rempah-rempah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:04:44.746363242Z",
+  "model": "glm-5.2"
+}

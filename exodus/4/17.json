@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ⟨את⟩ tongkat ini ambillah di tanganmu, yang dengannya engkau akan melakukan ⟨את⟩ tanda-tanda itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat ini"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau akan mengambil"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tanganmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau akan melakukan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanda-tanda itu"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tanda-tanda itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:45.289502259Z",
+  "model": "glm-5.2"
+}

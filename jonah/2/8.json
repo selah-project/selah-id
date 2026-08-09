@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Ketika lemas di atasku napasku, ⟨את⟩ Yahweh aku ingat; dan masuk kepada-Mu doaku, ke bait suci-Mu.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Ketika lemas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atasku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "aku ingat"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "bait"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "suci-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:31:57.442306784Z",
+  "model": "glm-5.2"
+}

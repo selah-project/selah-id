@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 97,
+  "translation": "Kilat-Nya menyinari ⟨seluruh⟩ dunia, bumi melihat dan gemetar.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "menyinari"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "kilat-Nya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "dan gemetar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:31.069758127Z",
+  "model": "glm-5.2"
+}

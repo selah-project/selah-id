@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan jika seorang laki-laki meminjam dari sesamanya dan ⟨binatang⟩ itu patah atau matat, pemiliknya tidak bersama-sama dengannya, ia pasti membayar ganti rugi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "meminjam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "dan patah"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "pemiliknya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama-sama dengannya"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "membayar ganti rugi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:27.563815627Z",
+  "model": "glm-5.2"
+}

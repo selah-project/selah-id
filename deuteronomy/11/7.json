@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "karena mata kalian ⟨yang⟩ melihat ⟨את⟩ segala perbuatan Yahweh ⟨yang⟩ besar yang ⟨Ia⟩ lakukan",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mata kalian"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "⟨yang⟩ melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "⟨yang⟩ besar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Ia⟩ lakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:50.901122786Z",
+  "model": "glm-5.2"
+}

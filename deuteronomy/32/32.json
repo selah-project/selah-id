@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Karena dari pohon anggur Sedom ⟨adalah⟩ pohon anggur mereka, dan dari kebun-kebun Amorah; buah anggur mereka ⟨adalah⟩ buah anggur racun, tandan-tandannya ⟨adalah⟩ kepahitan, bagi mereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "dari pohon anggur"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "pohon anggur mereka"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "dan dari kebun-kebun"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "buah anggur mereka"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "buah anggur"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "racun"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "tandan-tandannya"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "kepahitan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T07:32:53.438096340Z",
+  "model": "glm-5.2"
+}

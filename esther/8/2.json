@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu raja menanggalkan cincin materainya, yang telah diambilnya dari Haman, dan memberikannya kepada Mordekhai. Dan Ester menempatkan Mordekhai ⟨את⟩ atas rumah Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Lalu menanggalkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cincin materainya"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "cincin materainya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "telah diambilnya"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "dari Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kepada Mordekhai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "Dan menempatkan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekhai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-08-08T12:26:09.863489259Z",
+  "model": "glm-5.2"
+}

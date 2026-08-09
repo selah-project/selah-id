@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 88,
+  "translation": "Apakah Engkau melakukan keajaiban bagi yang mati? Apakah refaim akan bangkit, memuji Engkau? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Apakah ... bagi yang mati"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "Engkau melakukan"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "keajaiban"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "akan bangkit"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "memuji Engkau"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-08T12:24:25.265343491Z",
+  "model": "glm-5.2"
+}

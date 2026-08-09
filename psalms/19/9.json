@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Pikukim ⟨milik⟩ Yahweh lurus, menyukakan hati; mitzvah ⟨milik⟩ Yahweh murni, menerangi mata.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Pikukim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "menyukakan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mitzvah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "murni"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "menerangi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:45.236713561Z",
+  "model": "glm-5.2"
+}

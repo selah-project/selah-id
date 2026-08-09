@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 104,
+  "translation": "Engkau menaruh kegelapan dan ⟩jadilah⟨ malam; di dalamnya merayap segala binatang hutan.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Engkau menaruh"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "merayap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "יער",
+      "gloss": "hutan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:22:13.140060913Z",
+  "model": "glm-5.2"
+}

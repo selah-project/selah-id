@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan orang-orang yang rendah hati akan mewarisi ⟨את⟩ negeri, dan ⟨mereka⟩bersukaria ⟨ atas ⟩ kelimpahan damai sejahtera.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "dan orang-orang yang rendah hati"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "akan mewarisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩ negeri"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "dan ⟨mereka⟩bersukaria"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ atas ⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kelimpahan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai sejahtera"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:59.100210528Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan ⟨raja⟩ Dawid mendengar ⟨את⟩ segala perkara ini, dan ⟨hal itu⟩ sangat panas hatinya ⟨baginya⟩.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Dan ⟨raja⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkara ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dan sangat panas hati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:29.219461716Z",
+  "model": "glm-5.2"
+}

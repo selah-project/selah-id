@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "karena dalam hebel ia datang dan dalam kegelapan ia pergi, dan dalam kegelapan namanya tertutup.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "dalam hebel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "dan dalam kegelapan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ia pergi"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "dan dalam kegelapan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "tertutup"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:27.292243543Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 147,
+  "translation": "Ia melemparkan es-Nya seperti potongan-potongan kecil; di hadapan dingin-Nya siapa ⟨dapat⟩ berdiri?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Ia melemparkan"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "es-Nya"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "seperti potongan-potongan kecil"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "dingin-Nya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "berdiri"
+    }
+  ],
+  "timestamp": "2026-08-08T09:29:36.356628069Z",
+  "model": "glm-5.2"
+}

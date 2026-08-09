@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Selama tujuh hari mereka akan menebus ⟨את⟩ mezbah itu dan menyucikan ⟨את⟩-nya, dan mereka akan melengkapi tangannya.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "mereka akan menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah itu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "dan menyucikan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "mezbah itu"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan mereka akan melengkapi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:55:58.977026843Z",
+  "model": "glm-5.2"
+}

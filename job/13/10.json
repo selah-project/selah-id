@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Teguran, sungguh ⟨Dia⟩ akan menegur ⟨את⟩ kalian, jika secara tersembunyi muka kalian angkat.",
+  "tokens": [
+    {
+      "surface": "הוֹכֵ֣חַ",
+      "gloss": "Teguran"
+    },
+    {
+      "surface": "יוֹכִ֣יחַ",
+      "gloss": "Dia akan menegur"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "בַּ֝סֵּ֗תֶר",
+      "gloss": "secara tersembunyi"
+    },
+    {
+      "surface": "פָּנִ֥ים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "תִּשָּׂאֽוּן",
+      "gloss": "kalian angkat"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:38.535679805Z",
+  "model": "glm-5.2"
+}

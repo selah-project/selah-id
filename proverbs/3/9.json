@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Muliakanlah ⟨את⟩ Yahweh dari kekayaanmu, dan dari buah pertama dari seluruh hasil panenmu.",
+  "tokens": [
+    {
+      "surface": "כַּבֵּ֣ד",
+      "gloss": "muliakanlah"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מֵהוֹנֶ֑ךָ",
+      "gloss": "dari kekayaanmu"
+    },
+    {
+      "surface": "וּ֝מֵרֵאשִׁ֗ית",
+      "gloss": "dan dari buah pertama"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "תְּבוּאָתֶֽךָ",
+      "gloss": "hasil panenmu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:06.649833504Z",
+  "model": "glm-5.2"
+}

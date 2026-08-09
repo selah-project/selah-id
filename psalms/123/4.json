@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 123,
+  "translation": "Betapa berlimpah telah tersatur kepada kita dengan ejekan ⟨dari⟩ orang-orang yang bermegah, ⟨dengan⟩ penghinaan ⟨dari⟩ orang-orang yang angkuh.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Betapa berlimpah"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "telah tersatur"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepada diri-nya"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "jiwa-kehidupan kami"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "dengan ejekan"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "orang-orang yang bermegah"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "dengan penghinaan"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "dari orang-orang yang angkuh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:44.055234172Z",
+  "model": "glm-5.2"
+}

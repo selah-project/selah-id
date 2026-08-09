@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Aku mewarisi עדותיך untuk selamanya, karena mereka ⟨adalah⟩ kegembiraan hatiku.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "aku mewarisi"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "edot-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kegembiraan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:26:53.693886488Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 33,
+  "translation": "Demikian berfirman Yahweh: Jika kamu dapat mengingkari ⟨את⟩ perjanjian-Ku siang hari dan ⟨את⟩ perjanjian-Ku malam hari, sehingga tidak ada siang dan malam pada waktunya,",
+  "tokens": [
+    {
+      "surface": "כֹּה",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תָּפֵרוּ",
+      "gloss": "kamu dapat mengingkari"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku siang hari"
+    },
+    {
+      "surface": "בְּרִיתִי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "siang hari"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perjanjian-Ku malam hari"
+    },
+    {
+      "surface": "בְּרִיתִי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "הַלַּיְלָה",
+      "gloss": "malam hari"
+    },
+    {
+      "surface": "וּלְבִלְתִּי",
+      "gloss": "sehingga tidak ada"
+    },
+    {
+      "surface": "הֱיוֹת",
+      "gloss": "adanya"
+    },
+    {
+      "surface": "יוֹמָם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "וָלַיְלָה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "בְּעִתָּם",
+      "gloss": "pada waktunya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:38:14.379452367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Engkau telah pasti memukul ⟨את⟩ Edom, dan hatimu telah meninggikan engkau — bergaullah dan duduklah di rumahmu; mengapa engkau menantang ⟨dalam⟩ bencana, bahwa engkau akan jatuh, engkau dan Yehuda bersama-engkau?”",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "pasti memukul"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "engkau telah memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "dan meninggikan engkau"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "bergaullah"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan duduklah"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di rumahmu"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "dan mengapa"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "engkau menantang"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "dalam bencana"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "dan engkau akan jatuh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersama-engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T08:12:02.904359616Z",
+  "model": "glm-5.2"
+}

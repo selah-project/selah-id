@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Perbuatan orang benar ⟨mengarah⟩ ke hidup; hasil orang fasik ⟨mengarah⟩ ke dosa.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ke hidup"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ke dosa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:48:59.831841231Z",
+  "model": "glm-5.2"
+}

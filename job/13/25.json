@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Apakah ⟨engkau⟩ menakuti daun yang terhanyut, dan ⟨את⟩ jerami kering ⟨kau⟩ kejar?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "Apakah ⟨engkau⟩ menakuti"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "yang terhanyut"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "daun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jerami kering"
+    },
+    {
+      "surface": "קש",
+      "gloss": "jerami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kering"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "⟨kau⟩ kejar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:39:07.307666759Z",
+  "model": "glm-5.2"
+}

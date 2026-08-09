@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "maka ia keluar dari rumahnya, lalu pergi dan menjadi istri seorang laki-laki lain.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "maka ia keluar"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "dari rumahnya"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "lalu pergi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "istri seorang laki-laki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    }
+  ],
+  "timestamp": "2026-08-08T07:30:53.423996548Z",
+  "model": "glm-5.2"
+}

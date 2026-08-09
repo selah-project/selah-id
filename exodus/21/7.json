@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan jika seorang laki-laki menjual ⟨את⟩ anak perempuannya menjadi amah, ia tidak akan keluar seperti keluarnya hamba-hamba laki-laki.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "menjual"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak perempuannya"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak perempuannya"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "menjadi amah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ia akan keluar"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "seperti keluarnya"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "hamba-hamba"
+    }
+  ],
+  "timestamp": "2026-08-08T07:00:51.957851253Z",
+  "model": "glm-5.2"
+}

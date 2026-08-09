@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Mataku tetap kepada Yahweh, sebab Dialah yang mengeluarkan dari jaring kaki-ku.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mata-ku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tetap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "yang mengeluarkan"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "dari jaring"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki-ku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:53.219114807Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 43,
+  "translation": "Sebab Aku ⟨adalah⟩ Yahweh, Elohim-mu, Kadosh Yisrael, yang menyelamatkan engkau. Aku telah memberikan tebusanmu — Mitsrayim, Kush dan Seva — gantimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kadosh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "yang menyelamatkan engkau"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku telah memberikan"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "tebusanmu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "dan Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "gantimu"
+    }
+  ],
+  "timestamp": "2026-08-08T08:25:19.715052916Z",
+  "model": "glm-5.2"
+}

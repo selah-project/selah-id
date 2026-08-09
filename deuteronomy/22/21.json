@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 22:21",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Maka mereka akan mengeluarkan ⟨את⟩ gadis itu ke pintu gerbang rumah ayahnya, dan orang-orang kotanya akan melemparinya dengan batu sehingga ⟨ia⟩ mati, karena ⟨ia⟩ telah berbuat kekejian di Yisrael dengan bersundal di rumah ayahnya; demikianlah engkau akan memberantas ⟨את⟩ kejahatan itu dari tengah-tengahmu.",
+  "tokens": [
+    {
+      "surface": "והוציאו",
+      "gloss": "dan mereka akan mengeluarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadis itu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gadis itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "וסקלוה",
+      "gloss": "dan mereka akan melemparinya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "עירה",
+      "gloss": "kotanya"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "dengan batu"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "dan ia mati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ia telah berbuat"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "dengan bersundal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "dan engkau akan memberantas"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan itu"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dari tengah-tengahmu"
+    }
+  ],
+  "timestamp": "2026-08-08T10:46:37.346261413Z",
+  "model": "glm-5.2"
+}

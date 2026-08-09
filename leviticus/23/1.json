@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu Yahweh berfirman kepada Mosheh, dengan berkata:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:37.114263005Z",
+  "model": "glm-5.2"
+}

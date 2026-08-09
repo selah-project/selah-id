@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Dari kilau di hadapan-Nya, awan-awan-Nya berlalu — hujan es dan bara api.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "dari kilau"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "awan-awan-Nya"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "berlalu"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hujan es"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "dan bara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:22.822375834Z",
+  "model": "glm-5.2"
+}

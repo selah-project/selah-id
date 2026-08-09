@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 141,
+  "translation": "Terlemparlah di sisi batu karang para hakim mereka, dan terdengarlah perkataanku, karena mereka menyenangkan.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "terlemparlah"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "para hakim mereka"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dan terdengarlah"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "perkataanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "mereka menyenangkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:49.286378700Z",
+  "model": "glm-5.2"
+}

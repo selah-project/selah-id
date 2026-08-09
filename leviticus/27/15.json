@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Dan jikaorang yang menguduskan itu menebus ⟨את⟩ rumahnya, maka ia harus menambah seperlima ⟨dari⟩ perak taksiranmu ke atasnya, maka ⟨itu⟩ akan menjadi miliknya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "orang yang menguduskan itu"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumahnya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "maka ia harus menambah"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "seperlima"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "taksiranmu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka akan menjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "miliknya"
+    }
+  ],
+  "timestamp": "2026-08-08T12:37:40.067730935Z",
+  "model": "glm-5.2"
+}

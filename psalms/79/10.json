@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 79,
+  "translation": "Mengapa bangsa-bangsa berkata, “Di mana Elohim mereka?” ⟨Hal itu⟩ diketahui di antara bangsa-bangsa di depan mata kami ⟨pembalasan⟩ darah hamba-hamba-Mu yang tercurahkan.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bangsa-bangsa berkata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "⟨hal itu⟩ diketahui"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "di depan mata kami"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "⟨pembalasan⟩"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba-Mu"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "yang tercurahkan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:19:44.062484493Z",
+  "model": "glm-5.2"
+}

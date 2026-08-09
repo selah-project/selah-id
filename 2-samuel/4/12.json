@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 4:12",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Lalu Dawid memberi perintah kepada ⟨את⟩ para bujang, dan mereka membunuh mereka; dan mereka memotong ⟨את⟩ tangan mereka dan ⟨את⟩ kaki mereka, dan menggantung mereka di atas kolam di Khevron; dan ⟨את⟩ kepala Ish-Bosyhet mereka ambil dan menguburnya di kubur Avner di Khevron.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu memberi perintah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "kepada ⟨את⟩",
+      "marks": "para bujang"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "para bujang"
+    },
+    {
+      "surface": "ויהרגום",
+      "gloss": "dan mereka membunuh mereka"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "dan mereka memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kaki mereka"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kaki mereka"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "dan menggantung"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "kolam"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Khevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kepala Ish-Bosyhet"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Bosyhet"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "mereka ambil"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan menguburnya"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "di kubur"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Khevron"
+    }
+  ],
+  "timestamp": "2026-08-08T07:54:00.050687252Z",
+  "model": "glm-5.2"
+}

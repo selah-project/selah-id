@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Baik sedikit bagi orang benar dari pada kekayaan banyak orang fasik.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "bagi orang benar"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "dari pada kekayaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    }
+  ],
+  "timestamp": "2026-08-08T12:23:32.276823765Z",
+  "model": "glm-5.2"
+}

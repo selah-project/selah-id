@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 107,
+  "translation": "Dan ⟨Ia⟩ berfirman, dan menaikkan angin badai, dan ⟨badai itu⟩ meninggikan gelombangnya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ⟨Ia⟩ berfirman"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dan menaikkan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "dan ⟨badai itu⟩ meninggikan"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "gelombangnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:42.592299489Z",
+  "model": "glm-5.2"
+}

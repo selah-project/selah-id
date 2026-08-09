@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 102,
+  "translation": "Maka bangsa-bangsa akan takut akan ⟨את⟩ nama Yahweh, dan segala raja-raja bumi ⟨akan takut akan⟩ ⟨את⟩ kemuliaan-Mu.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Maka bangsa-bangsa akan takut"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemuliaan-Mu"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kemuliaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:21:39.414484730Z",
+  "model": "glm-5.2"
+}

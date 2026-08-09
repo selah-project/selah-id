@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 5,
+  "translation": "Karena mimpi datang karena banyak kesibukan, dan suara orang bodoh karena banyak perkataan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "karena banyak"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "kesibukan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dan suara"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "karena banyak"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "perkataan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:30.592401175Z",
+  "model": "glm-5.2"
+}

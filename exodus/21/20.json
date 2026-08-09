@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Dan apabila ⟨seorang⟩ laki-laki memukul ⟨את⟩ budaknya laki-laki atau ⟨את⟩ budaknya perempuan dengan tongkat, dan ⟨budak itu⟩ mati di bawah tangannya, pasti dihukum.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budaknya laki-laki"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "budaknya laki-laki"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budaknya perempuan"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "budaknya perempuan"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "dengan tongkat"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "dihukum"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "pasti"
+    }
+  ],
+  "timestamp": "2026-08-08T07:01:09.325738699Z",
+  "model": "glm-5.2"
+}

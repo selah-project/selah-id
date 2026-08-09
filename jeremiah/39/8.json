@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Dan ⟨את⟩ rumah sang raja dan ⟨את⟩ rumah rakyat itu dibakar oleh orang Kasdim dengan api, dan ⟨את⟩ tembok-tembok Yerushalayim dibongkar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "dibakar"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "orang Kasdim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tembok-tembok"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "tembok-tembok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "dibongkar"
+    }
+  ],
+  "timestamp": "2026-08-08T11:19:41.302562439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ⟨את⟩ Ye'uts dan ⟨את⟩ Sakhya dan ⟨את⟩ Mirmah; inilah anak-anaknya, kepala-kepala bapa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Ye'uts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Ye'uts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Sakhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sakhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bapa"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:48.077406174Z",
+  "model": "glm-5.2"
+}

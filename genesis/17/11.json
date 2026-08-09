@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 17,
+  "translation": "Dan kalian harus disunat ⟨את⟩ daging kulup kalian, dan ⟨hal itu⟩ menjadi tanda perjanjian antara Aku dan kalian.”",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "dan kalian harus disunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "kulup kalian"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan ⟨hal itu⟩ menjadi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara Aku"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "dan antara kalian"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:53.516896970Z",
+  "model": "glm-5.2"
+}

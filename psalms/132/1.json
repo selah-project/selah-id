@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 132,
+  "translation": "Kidung naik. Ingatlah, wahai Yahweh, bagi Daud ⟨את⟩ segala kesengsaraannya —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naik"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kesengsaraannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "kesengsaraannya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:33.749561469Z",
+  "model": "glm-5.2"
+}

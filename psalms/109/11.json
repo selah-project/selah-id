@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Biarlah penagih utang menjebak segala yang ia punya, dan biarlah orang asing menjarah hasil jerih payahnya.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "biarlah menjebak"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "penagih utang"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ia punya"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "dan biarlah menjarah"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "hasil jerih payahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:52.309226167Z",
+  "model": "glm-5.2"
+}

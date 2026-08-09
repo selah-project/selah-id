@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan Aku akan mengeraskan ⟨את⟩ hati Paroh, dan Aku akan memperbanyak ⟨את⟩ tanda-tanda-Ku dan ⟨את⟩ mujizat-mujizat-Ku di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dan Aku"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "akan mengeraskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "dan Aku akan memperbanyak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanda-tanda-Ku"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tanda-tanda-Ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mujizat-mujizat-Ku"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mujizat-mujizat-Ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:13.516034841Z",
+  "model": "glm-5.2"
+}

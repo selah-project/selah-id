@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Dan Yoav mengutus utusan kepada Daud, dan berkata: “Aku telah berperang melawan Rabbah, juga aku telah merebut ⟨את⟩ kota air itu.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dan mengutus"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "aku telah berperang"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "melawan Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "aku telah merebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota air itu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:55:48.211236368Z",
+  "model": "glm-5.2"
+}

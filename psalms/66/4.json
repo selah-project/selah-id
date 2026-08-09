@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 66,
+  "translation": "Seluruh bumi akan sujud menyembah kepada-Mu, dan akan bermuzik bagi-Mu; mereka akan bermuzik bagi nama-Mu. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "akan sujud menyembah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "dan akan bermuzik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi-Mu"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "mereka akan bermuzik"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "bagi nama-Mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:16:35.140522199Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 133,
+  "translation": "Seperti embun Khermon yang mengalir turun di atas gunung-gunung Tziyon, sekarang di sana Yahweh memerintahkan ⟨את⟩ berkat itu: kehidupan sampai ⟨untuk⟩ selamanya.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "seperti embun"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Khermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "yang mengalir turun"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkat itu"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkat itu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "selamanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:44.055909094Z",
+  "model": "glm-5.2"
+}

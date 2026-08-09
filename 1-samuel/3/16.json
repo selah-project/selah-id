@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu Eli memanggil ⟨את⟩ Shemuël dan berkata, “Shemuël, anakku.” Dan ⟨ia⟩ berkata, “Betul, aku ini.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu memanggil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "betul, aku ini"
+    }
+  ],
+  "timestamp": "2026-08-08T07:46:16.166415462Z",
+  "model": "glm-5.2"
+}

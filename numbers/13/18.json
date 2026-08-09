@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan kamu akan melihat ⟨את⟩ tanah itu, apa ⟨dia⟩; dan ⟨את⟩ bangsa yang diam di atasnya, apakah kuat ⟨dia⟩, apakah lemah, apakah sedikit ⟨dia⟩ atau banyak?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Dan kamu akan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "apakah kuat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "apakah lemah"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "apakah sedikit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atau"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    }
+  ],
+  "timestamp": "2026-08-08T10:40:26.917104973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Karena pukulannya tidak dapat disembuhkan, karena ⟨ia⟩ telah datang sampai ke Yehudah, ⟨ia⟩ telah menyentuh sampai ke gerbang umat-Ku, sampai ke Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "tidak dapat disembuhkan"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "pukulannya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "באה",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "telah menyentuh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gerbang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:00:54.311781756Z",
+  "model": "glm-5.2"
+}

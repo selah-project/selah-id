@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dan ratu Syeba mendengar ⟨את⟩ kabar Shelomoh, ⟨tentang⟩ nama Yahweh, maka datanglah dia untuk menguji dia dengan teka-teki.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Dan ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kabar"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "⟨tentang⟩ nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "maka datanglah"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "untuk menguji dia"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "dengan teka-teki"
+    }
+  ],
+  "timestamp": "2026-08-08T08:04:26.602722897Z",
+  "model": "glm-5.2"
+}

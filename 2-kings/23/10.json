@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Dan ⟨ia⟩ menajiskan ⟨את⟩ ha-Tofet yang di lembah bin(-)Hinom, supaya jangan ada ⟨seorang⟩pun mempersembahkan ⟨את⟩ putranya dan ⟨את⟩ putrinya sebagai korban api bagi ha-Molekh.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Dan ⟨ia⟩ menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "ha-Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "di lembah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bin(-)"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "mempersembahkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨seorang⟩pun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putranya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putranya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "putrinya"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "putrinya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sebagai korban api"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bagi ha-Molekh"
+    }
+  ],
+  "timestamp": "2026-08-08T08:14:50.715319322Z",
+  "model": "glm-5.2"
+}

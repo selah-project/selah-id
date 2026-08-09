@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Dan ⟨ia⟩ berkata, “Bukalah jendela ke arah timur,” dan ⟨ia⟩ membukanya. Dan berkatalah Elisha, “Lemparkanlah!” dan ⟨ia⟩ melemparkan. Dan ⟨ia⟩ berkata, “Anak panah keselamatan bagi Yahweh, dan anak panah keselamatan terhadap Aram, dan engkau akan memukul ⟨את⟩ Aram di Afek sampai habis.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bukalah"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "jendela"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ke arah timur"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "dan ⟨ia⟩ membukanya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "lemparkanlah"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "dan ⟨ia⟩ melemparkan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ⟨ia⟩ berkata"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "anak panah"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "dan anak panah"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "terhadap Aram"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "dan engkau akan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "di Afek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "habis"
+    }
+  ],
+  "timestamp": "2026-08-08T12:16:50.482469114Z",
+  "model": "glm-5.2"
+}

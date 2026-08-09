@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 55,
+  "translation": "Sebab bukan pikiran-pikiran-Ku ⟨adalah⟩ pikiran-pikiran kalian, dan bukan jalan-jalan kalian ⟨adalah⟩ jalan-jalan-Ku, ⟨demikianlah⟩ firman Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "pikiran-pikiran-Ku"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "pikiran-pikiran kalian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jalan-jalan kalian"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan-Ku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T11:13:29.764486913Z",
+  "model": "glm-5.2"
+}

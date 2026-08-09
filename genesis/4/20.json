@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan Adah melahirkan ⟨את⟩ Yaval; ⟨dialah⟩ menjadi bapak dari pendiami kemah dan ternak.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "היה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapak dari"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "pendiami"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "dan ternak"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:37.742357090Z",
+  "model": "glm-5.2"
+}

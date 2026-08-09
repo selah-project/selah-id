@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan ⟨ia⟩ mengambil ⟨את⟩ segala lemak yang pada isi perut, dan ⟨את⟩ lobus hati, dan ⟨את⟩ kedua ginjal, dan ⟨את⟩ lemaknya, dan Mosheh membakar sebagai ukupan di atas mezbah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi perut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lobus"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "lobus"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kedua"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemaknya"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "lemaknya"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dan membakar sebagai ukupan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:54.592780428Z",
+  "model": "glm-5.2"
+}

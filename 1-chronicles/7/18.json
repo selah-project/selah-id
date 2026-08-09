@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "Dan saudara perempuannya, HaMolekhet, melahirkan ⟨את⟩ Ishod, dan ⟨את⟩ Avi-ezer, dan ⟨את⟩ Mahlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "dan saudara perempuannya"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "HaMolekhet"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Avi-ezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Avi-ezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Mahlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahlah"
+    }
+  ],
+  "timestamp": "2026-08-08T10:04:50.404350256Z",
+  "model": "glm-5.2"
+}

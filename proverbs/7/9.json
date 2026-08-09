@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "pada senja, pada malam hari, pada kelamnya malam dan kegelapan.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "pada senja"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada malam"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "pada kelamnya"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "dan kegelapan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:30:53.911035225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 77,
+  "translation": "Untuk Sang Pemimpin, atas Yedutun; mizmor bagi Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk Sang Pemimpin"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-08T09:18:38.413865995Z",
+  "model": "glm-5.2"
+}

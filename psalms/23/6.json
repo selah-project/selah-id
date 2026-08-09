@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Sungguh, kebaikan dan hesed akan mengejar aku segala hari kehidupanku, dan aku akan diam di rumah Yahweh sepanjang hari-hari.",
+  "tokens": [
+    {
+      "surface": "אַ֤ךְ",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "ט֤וֹב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "וָחֶ֣סֶד",
+      "gloss": "dan hesed"
+    },
+    {
+      "surface": "יִ֭רְדְּפוּנִי",
+      "gloss": "akan mengejar aku"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חַיָּ֑י",
+      "gloss": "kehidupanku"
+    },
+    {
+      "surface": "וְשַׁבְתִּ֥י",
+      "gloss": "dan aku akan diam"
+    },
+    {
+      "surface": "בְּבֵית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְאֹ֣רֶךְ",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "hari-hari"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:36.553603323Z",
+  "model": "glm-5.2"
+}

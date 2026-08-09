@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Lihatlah, aku menaruh di hadapan kalian hari ini berkat dan kutuk.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "menaruh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di hadapan kalian"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "dan kutuk"
+    }
+  ],
+  "timestamp": "2026-08-08T07:26:09.445915925Z",
+  "model": "glm-5.2"
+}

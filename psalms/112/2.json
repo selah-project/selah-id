@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 112,
+  "translation": "Benihnya ⟨akan⟩ menjadi pahlawan di bumi; angkatan ⟨orang-orang⟩ jujur akan diberkati.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "benihnya"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "orang-orang jujur"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "akan diberkati"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:59.971827270Z",
+  "model": "glm-5.2"
+}

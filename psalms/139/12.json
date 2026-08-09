@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 139,
+  "translation": "bahkan kegelapan pun tidak menggelapkan dari pada-Mu, dan malam bersinar seperti siang; seperti kegelapan, demikianlah terang.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יַחְשִׁיךְ",
+      "gloss": "menggelapkan"
+    },
+    {
+      "surface": "מִמֶּךָ",
+      "gloss": "dari pada-Mu"
+    },
+    {
+      "surface": "וְלַיְלָה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "כַּיּוֹם",
+      "gloss": "seperti siang"
+    },
+    {
+      "surface": "יָאִיר",
+      "gloss": "bersinar"
+    },
+    {
+      "surface": "כַּחֲשֵׁיכָה",
+      "gloss": "seperti kegelapan"
+    },
+    {
+      "surface": "כָּאוֹרָה",
+      "gloss": "demikianlah terang"
+    }
+  ],
+  "timestamp": "2026-08-08T09:28:20.958759833Z",
+  "model": "glm-5.2"
+}

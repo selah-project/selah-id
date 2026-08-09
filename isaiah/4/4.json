@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "jika Adonai membasuh ⟨את⟩ kotoran putri-putri Tziyon dan ⟨את⟩ darah Yerushalayim dibilas dari tengah-tengahnya — dengan roh penghukuman dan dengan roh pembakaran.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "membasuh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotoran putri-putri Tziyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kotoran"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "darah Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "dibilas"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "dari tengah-tengahnya"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "dengan roh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "penghukuman"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "dan dengan roh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "pembakaran"
+    }
+  ],
+  "timestamp": "2026-08-08T11:09:15.309215074Z",
+  "model": "glm-5.2"
+}

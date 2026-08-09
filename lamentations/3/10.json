@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Beruang yang mengintai, dialah bagiku; singa di tempat-tempat persembunyian.",
+  "tokens": [
+    {
+      "surface": "דֹּ֣ב",
+      "gloss": "beruang"
+    },
+    {
+      "surface": "אֹרֵ֥ב",
+      "gloss": "yang mengintai"
+    },
+    {
+      "surface": "הוּא֙",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "בְּמִסְתָּרִֽים",
+      "gloss": "di tempat-tempat persembunyian"
+    }
+  ],
+  "timestamp": "2026-08-08T11:56:42.065767279Z",
+  "model": "glm-5.2"
+}

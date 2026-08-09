@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Dari negeri itu keluar Ashur, dan ia membangun ⟨את⟩ Niniwe serta ⟨את⟩ Rekhobot-Ir dan ⟨את⟩ Kalakh.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan ia membangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Niniwe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "Rekhobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rekhobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kalakh"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:06.430213112Z",
+  "model": "glm-5.2"
+}

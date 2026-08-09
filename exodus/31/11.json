@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 31,
+  "translation": "dan ⟨את⟩ minyak urapan dan ⟨את⟩ ukupan rempah-rempah untuk tempat kudus; persis seperti semua yang telah Kuperintahkan kepadamu, haruslah mereka membuat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ukupan rempah-rempah"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ukupan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah-rempah"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "untuk tempat kudus"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "persis seperti semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "telah Kuperintahkan kepadamu"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "haruslah mereka membuat"
+    }
+  ],
+  "timestamp": "2026-08-08T10:32:07.284471612Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Yang melepaskan aku dari musuh-musuhku, bahkan dari yang bangkit menentang aku ⟨kau⟩ tinggikan aku; dari orang kekerasan Kau luputkan aku.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "yang melepaskan aku"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "dari musuh-musuhku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "yang bangkit menentang aku"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "kau tinggikan aku"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari orang"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "Kau luputkan aku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:08:52.115300008Z",
+  "model": "glm-5.2"
+}

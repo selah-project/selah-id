@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Dan ketika ben Sha'ul mendengar bahwa Avner telah mati di Chevron, maka tangan-tangannya menjadi lemas, dan seluruh Yisra'el menjadi terkejut.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dan ketika ... mendengar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Chevron"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "maka menjadi lemas"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan-tangannya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "menjadi terkejut"
+    }
+  ],
+  "timestamp": "2026-08-08T07:53:26.644130929Z",
+  "model": "glm-5.2"
+}

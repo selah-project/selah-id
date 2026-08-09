@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 22,
+  "translation": "Dan Engkau, Yahweh, janganlah jauh; kekuatanku, untuk pertolonganku bersegeralah!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dan Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "untuk pertolonganku"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "bersegeralah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:09:23.259850095Z",
+  "model": "glm-5.2"
+}

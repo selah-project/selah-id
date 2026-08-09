@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 119,
+  "translation": "Dalam chuqim-Mu aku akan bersukaria, tidak akan aku melupakan firman-Mu.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "Dalam chuqim-Mu"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "aku akan bersukaria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "akan aku melupakan"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firman-Mu"
+    }
+  ],
+  "timestamp": "2026-08-08T11:46:17.350676268Z",
+  "model": "glm-5.2"
+}

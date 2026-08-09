@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "orang Kanaan dari timur dan dari barat, dan orang Emori, dan orang Heti, dan orang Perizi, dan orang Yevusi, di pegunungan, dan orang Heti di bawah Chermon, di tanah Mitspah.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kanaan"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "dari timur"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan dari barat"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "dan orang Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dan orang Heti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan orang Perizi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan orang Yevusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "dan orang Heti"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspah"
+    }
+  ],
+  "timestamp": "2026-08-08T07:36:00.651950815Z",
+  "model": "glm-5.2"
+}

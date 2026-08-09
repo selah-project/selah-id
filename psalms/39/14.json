@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Palingkanlah ⟨pandangan-Mu⟩ daripadaku dan aku akan bersukaria, sebelum aku pergi dan aku tiada.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Palingkanlah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "dan aku akan bersukaria"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku pergi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "dan aku tiada"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:43.274196852Z",
+  "model": "glm-5.2"
+}

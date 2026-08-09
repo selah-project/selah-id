@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 23,
+  "translation": "Lalu Syaul memanggil ⟨את⟩ seluruh rakyat untuk berperang, untuk turun ke Qe'ilah, untuk mengepung Dawid dan orang-orangnya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lalu memanggil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh rakyat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "untuk turun"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ke Qe'ilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "untuk mengepung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "orang-orangnya"
+    }
+  ],
+  "timestamp": "2026-08-08T07:51:41.722571111Z",
+  "model": "glm-5.2"
+}

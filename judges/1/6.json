@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Adoni-Bezek melarikan diri, dan mereka mengejarnya, dan mereka menangkap dia, dan mereka memotong ⟨את⟩ jempol-jempol tangannya dan ⟨את⟩ jari-jari kakinya.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "Lalu melarikan diri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "dan mereka mengejar"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "dan mereka menangkap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "dan mereka memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jempol-jempol"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "jempol-jempol"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "dan kakinya"
+    }
+  ],
+  "timestamp": "2026-08-08T23:16:22.373652733Z",
+  "model": "glm-5.2"
+}

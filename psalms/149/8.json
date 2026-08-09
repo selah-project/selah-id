@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 149,
+  "translation": "untuk mengikat raja-raja mereka dengan rantai, dan para pembesar mereka dengan belenggu besi;",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "untuk mengikat"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "raja-raja mereka"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "dengan rantai"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "dan para pembesar mereka"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "dengan belenggu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "besi"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:53.448707331Z",
+  "model": "glm-5.2"
+}

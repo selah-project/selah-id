@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Demikianlah firman Yahweh: Beginilah Aku akan membinasakan ⟨את⟩ kebesaran Yehudah dan ⟨את⟩ kebesaran Yerushalayim yang besar ini.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Demikianlah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "Aku akan membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebesaran"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kebesaran"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kebesaran"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kebesaran"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "yang besar ini"
+    }
+  ],
+  "timestamp": "2026-08-08T08:33:43.190637189Z",
+  "model": "glm-5.2"
+}

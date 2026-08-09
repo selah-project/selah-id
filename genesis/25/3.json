@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 25,
+  "translation": "Dan Yoqsyan memperanakkan ⟨את⟩ Syeva dan ⟨את⟩ Dedan; dan bani-bani Dedan menjadi Asyurim dan Letusyim dan Leumim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "dan Yoqsyan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syeva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Syeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan bani-bani"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Asyurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "dan Letusyim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dan Leumim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:48:06.913594909Z",
+  "model": "glm-5.2"
+}

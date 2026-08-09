@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 89,
+  "translation": "Syair pengajaran, oleh Eitan ⟨sang⟩ Ezrahi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "syair pengajaran"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "oleh Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "⟨sang⟩ Ezrahi"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:38.026815283Z",
+  "model": "glm-5.2"
+}

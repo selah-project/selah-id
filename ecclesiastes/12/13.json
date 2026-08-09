@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Akhir dari segala perkata ⟨yang⟩ semuanya telah didengar: takutlah kepada ⟨את⟩ haElohim dan jaga ⟨את⟩ mitzvot-Nya, karena inilah seluruh manusia.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "akhir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkata"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "telah didengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "haElohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takutlah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mitzvot-Nya"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mitzvot-Nya"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "jaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-08-08T09:51:24.218558154Z",
+  "model": "glm-5.2"
+}

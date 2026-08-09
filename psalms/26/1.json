@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 26,
+  "translation": "Untuk Dawid. Hakimilah aku, Yahweh, sebab aku ⟨telah⟩ berjalan dalam integritasku, dan kepada Yahweh aku ⟨telah⟩ bertumpang, tidak aku akan goyah.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk Dawid"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Hakimilah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "dalam integritasku"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "dan kepada Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku bertumpang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "aku akan goyah"
+    }
+  ],
+  "timestamp": "2026-08-08T11:36:54.987438350Z",
+  "model": "glm-5.2"
+}

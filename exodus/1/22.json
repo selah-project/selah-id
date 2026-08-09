@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu Paroh memerintah kepada seluruh bangsanya, katanya: “Setiap anak laki-laki yang lahir, ke sungai itu lemparkanlah dia, dan setiap anak perempuan, biarkanlah hidup.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu memerintah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada seluruh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bangsanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "yang lahir"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "ke sungai itu"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "lemparkanlah dia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "biarkanlah hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T06:55:24.481211195Z",
+  "model": "glm-5.2"
+}

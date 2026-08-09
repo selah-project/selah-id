@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Dan berkatalah ⟨ia⟩ kepada mereka, “Orang Ibrani aku, dan ⟨את⟩ Yahweh, Elohim ⟨surga⟩, aku takuti, yang membuat ⟨את⟩ laut dan ⟨את⟩ ⟨yang⟩ kering.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Orang Ibrani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "surga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yang kering"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "kering"
+    }
+  ],
+  "timestamp": "2026-08-08T12:22:46.342437272Z",
+  "model": "glm-5.2"
+}

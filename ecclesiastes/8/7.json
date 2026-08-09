@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Karena tidaklah ia mengetahui apa yang akan terjadi, karena seperti apa yang akan terjadi, siapakah yang akan memberitahukan kepadanya?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tidaklah ia"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "yang akan terjadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti apa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yang akan terjadi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "akan memberitahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:18.726691905Z",
+  "model": "glm-5.2"
+}

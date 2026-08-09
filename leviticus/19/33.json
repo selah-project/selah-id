@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan apabila seorang ger menetap bersama kamu sebagai orang asing di tanahmu, janganlah kamu menindas dia.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "menetap"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersama kamu"
+    },
+    {
+      "surface": "גר",
+      "gloss": "seorang ger"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di tanahmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "kamu menindas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-08-08T07:11:31.374400162Z",
+  "model": "glm-5.2"
+}

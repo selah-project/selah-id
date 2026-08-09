@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Sebab Yahweh memulihkan ⟨את⟩ keagungan Ya'akov seperti keagungan Yisra'el; sebab yang mengosongkan telah mengosongkan mereka, dan cabang-cabang sulur mereka telah dirusakkan.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שָׁ֤ב",
+      "gloss": "memulihkan"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "keagungan"
+    },
+    {
+      "surface": "גְּא֣וֹן",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "יַעֲקֹ֔ב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "כִּגְא֖וֹן",
+      "gloss": "seperti keagungan"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בְקָקוּם֙",
+      "gloss": "yang mengosongkan"
+    },
+    {
+      "surface": "בֹּֽקְקִ֔ים",
+      "gloss": "telah mengosongkan"
+    },
+    {
+      "surface": "וּזְמֹרֵיהֶ֖ם",
+      "gloss": "dan cabang-cabang sulur mereka"
+    },
+    {
+      "surface": "שִׁחֵֽתוּ",
+      "gloss": "telah dirusakkan"
+    }
+  ],
+  "timestamp": "2026-08-08T11:33:22.886877616Z",
+  "model": "glm-5.2"
+}

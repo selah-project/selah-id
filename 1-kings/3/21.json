@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ketika aku bangun pagi untuk menyusui ⟨את⟩ putraku, sesungguhnya ⟨ia⟩ mati; tetapi ketika aku memperhatikannya di pagi hari, sesungguhnya bukan putraku yang telah kulahirkan.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "Dan aku bangun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "untuk menyusui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putraku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putraku"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "dan aku memperhatikannya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putraku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "kulahirkan"
+    }
+  ],
+  "timestamp": "2026-08-08T12:16:04.327372442Z",
+  "model": "glm-5.2"
+}

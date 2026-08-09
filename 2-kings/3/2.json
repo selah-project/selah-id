@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan ⟨ia⟩ melakukan yang jahat di mata Yahweh; hanya, tidak seperti ayahnya dan seperti ibunya; dan ia menyingkirkan ⟨את⟩ tugu ha-Baal yang dibuat ayahnya.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Dan melakukan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "seperti ayahnya"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "dan seperti ibunya"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "dan ia menyingkirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ha-Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T08:08:42.551439607Z",
+  "model": "glm-5.2"
+}

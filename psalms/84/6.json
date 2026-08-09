@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 84,
+  "translation": "Betapa berbahagianya manusia yang kekuatan ⟨ada⟩ padanya di dalam-Mu, jalan raya di dalam hati mereka.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "betapa berbahagianya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam-Mu"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "jalan raya"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "di dalam hati mereka"
+    }
+  ],
+  "timestamp": "2026-08-08T09:20:02.375151334Z",
+  "model": "glm-5.2"
+}

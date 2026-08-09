@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Kebun anggurku, milikku, ⟨berada⟩ di hadapanku; seribu bagian ⟨untuk⟩mu, wahai Shelomoh, dan dua ratus bagi penjaga-penjaga ⟨yang menjaga⟩ ⟨את⟩ buahnya.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "Kebun anggurku"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "milikku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "seribu bagian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untukmu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wahai Shelomoh"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dan dua ratus"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "bagi penjaga-penjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buahnya"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnya"
+    }
+  ],
+  "timestamp": "2026-08-08T11:55:28.805041427Z",
+  "model": "glm-5.2"
+}

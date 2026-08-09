@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 127,
+  "translation": "Lihat, suatu warisan dari Yahweh ⟨adalah⟩ anak-anak; upah ⟨adalah⟩ buah rahim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "rahim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:26.055815340Z",
+  "model": "glm-5.2"
+}

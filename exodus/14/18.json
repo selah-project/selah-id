@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Dan orang Mitsrayim akan tahu bahwa akulah Yahweh, ketika aku dipermuliakan di Paro, di keretanya dan di pasukan berkudanya.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Dan akan tahu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "ketika aku dipermuliakan"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "di Paro"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "di keretanya"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "dan di pasukan berkudanya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:37.423584607Z",
+  "model": "glm-5.2"
+}

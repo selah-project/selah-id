@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 145,
+  "translation": "⟨Engkau⟩ dipuji oleh segala perbuatan-Mu, Yahweh, dan orang-orang setia-Mu memberkati ⟨Engkau⟩.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "dipuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "dan orang-orang setia-Mu"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "memberkati"
+    }
+  ],
+  "timestamp": "2026-08-08T11:47:48.744540038Z",
+  "model": "glm-5.2"
+}

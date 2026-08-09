@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 91,
+  "translation": "Seribu akan jatuh dari sampingmu, dan sepuluh ribu dari tangan kananmu; ⟨bencana⟩ itu tidak akan mendekatimu.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "akan jatuh"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "dari sampingmu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "dan sepuluh ribu"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "dari tangan kananmu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "akan mendekati"
+    }
+  ],
+  "timestamp": "2026-08-08T11:42:51.403167054Z",
+  "model": "glm-5.2"
+}

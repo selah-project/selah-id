@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Lalu mereka menumpuk ⟨את⟩nya, tumpukan demi tumpukan, dan bauillah bumi itu.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "lalu mereka menumpuk"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mayat katak (sesudah חמרם)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "tumpukan-tumpukan"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "tumpukan-tumpukan"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "dan bauillah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:38.489363106Z",
+  "model": "glm-5.2"
+}

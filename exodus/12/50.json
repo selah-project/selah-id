@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Maka seluruh bani Yisra'el berbuat persis seperti yang diperintahkan Yahweh kepada Mosheh dan ⟨את⟩ Aharon; demikianlah mereka lakukan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Maka ... berbuat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "persis seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka lakukan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:14.456313973Z",
+  "model": "glm-5.2"
+}

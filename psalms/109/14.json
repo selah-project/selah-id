@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 109,
+  "translation": "Biarlah diingat pelanggaran nenek moyangnya kepada Yahweh, dan dosa ibunya jangan dihapus.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "biarlah diingat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pelanggaran"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek moyangnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "dan dosa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "dihapus"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:54.005673849Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Maka mengambilah ⟨mereka⟩ ⟨את⟩ segala harta milik Sedom dan Amorah dan ⟨את⟩ segala makanan mereka, lalu pergilah.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "maka mengambilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala harta milik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "harta milik"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "dan Amorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala makanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "makanan mereka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lalu pergilah"
+    }
+  ],
+  "timestamp": "2026-08-08T06:45:15.728189599Z",
+  "model": "glm-5.2"
+}

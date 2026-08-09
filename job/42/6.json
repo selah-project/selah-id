@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Oleh karena itu aku menolak ⟨dan⟩ aku bernapas keluh kesah, di atas debu dan abu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "oleh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "karena itu"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "aku menolak"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "dan aku bernapas keluh kesah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "dan abu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:46:23.811178761Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "dan janganlah bumi memuntahkan ⟨את⟩kamu ketika kamu menajiskannya, seperti yang ia memuntahkan ⟨את⟩ bangsa yang ⟨היה⟩ sebelum kamu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "memuntahkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "ketika kamu menajiskannya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩nya",
+      "marks": "nya (bumi)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "ia memuntahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sebelum kamu"
+    }
+  ],
+  "timestamp": "2026-08-09T01:43:58.399254742Z",
+  "model": "glm-5.2"
+}

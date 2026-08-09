@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Lebih baik sedikit dengan kebenaran, dari pada hasil berlimpah tanpa keadilan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Lebih baik"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "dengan kebenaran"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dari pada kelimpahan"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:32:55.738199648Z",
+  "model": "glm-5.2"
+}

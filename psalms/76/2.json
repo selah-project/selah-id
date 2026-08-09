@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 76,
+  "translation": "Dikenal di Yehudah ⟨⟨adalah⟩⟩ Elohim; di Yisrael besar nama-Nya.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "dikenal"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:55.038624006Z",
+  "model": "glm-5.2"
+}

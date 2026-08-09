@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Dan mereka melintasi ⟨את⟩ sungai Yarden, dan mereka berkemah di Aroer, di sebelah selatan kota yang ⟨berada⟩ di tengah wadi Gad, dan ke Yaazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "Dan mereka melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dan mereka berkemah"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "di Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "di sebelah selatan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "wadi"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    }
+  ],
+  "timestamp": "2026-08-08T07:59:19.726781646Z",
+  "model": "glm-5.2"
+}

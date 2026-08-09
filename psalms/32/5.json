@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 32,
+  "translation": "Dosa aku membuat-Engkau-tahu, dan pelanggaranku tidak aku tutupi; aku berkata, “Aku akan mengakui atas pelanggaranku kepada Yahweh,” dan Engkau, Engkau telah mengangkat ⟨kesalahan⟩ dosa saya. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "dosa saya"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "aku membuat-Engkau-tahu"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "dan pelanggaran saya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "aku tutupi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "aku akan mengakui"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pelanggaran saya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan Engkau"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "Engkau telah mengangkat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosa saya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:11:20.385201718Z",
+  "model": "glm-5.2"
+}

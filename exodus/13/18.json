@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 13,
+  "translation": "Lalu Elohim membelokkan ⟨את⟩ bangsa itu melalui jalan padang gurun, laut Teberau; dan dalam formasi tempur orang-orang Yisrael naik dari tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Lalu membelokkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "melalui jalan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Teberau"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dalam formasi tempur"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:58:38.354543178Z",
+  "model": "glm-5.2"
+}

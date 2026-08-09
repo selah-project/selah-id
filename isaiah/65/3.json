@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "id",
+  "chapter": 65,
+  "translation": "bangsa yang terus-menerus membangkitkan amarah-Ku di hadapan wajah-Ku, yang mempersembahkan korban di taman-taman dan membakar ukupan di atas batu-batu bata;",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "yang membangkitkan amarah"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ku",
+      "marks": "Aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan wajah-Ku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-menerus"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mempersembahkan korban"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "di taman-taman"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "dan membakar ukupan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "batu-batu bata"
+    }
+  ],
+  "timestamp": "2026-08-08T11:14:50.282554966Z",
+  "model": "glm-5.2"
+}

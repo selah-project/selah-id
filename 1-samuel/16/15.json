@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan berkatalah para hamba Shaul kepadanya, “Lihatlah, kami mohon, ruach Elohim yang jahat mengejutkan engkau.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para hamba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kami mohon"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "mengejutkan engkau"
+    }
+  ],
+  "timestamp": "2026-08-08T12:44:28.139609438Z",
+  "model": "glm-5.2"
+}

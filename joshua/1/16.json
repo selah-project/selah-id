@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Lalu mereka menjawab ⟨את⟩ Yehosua, perkataannya: Segala yang kauperintahkan kepada kami, kami akan lakukan, dan ke segala tempat yang kausuruh kami, kami akan pergi.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Lalu mereka menjawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "perkataannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "kau perintahkan kepada kami"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kami akan lakukan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tempat yang"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "kau suruh kami"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kami akan pergi"
+    }
+  ],
+  "timestamp": "2026-08-08T07:33:14.952731553Z",
+  "model": "glm-5.2"
+}

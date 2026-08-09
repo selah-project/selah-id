@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 14,
+  "translation": "Maka ia menyingkirkan dari seluruh kota-kota Yehuda ⟨את⟩ bukit-bukit pengorbunan dan ⟨את⟩ patung-patung matahari, dan kerajaan itu menjadi tenang di hadapan-nya.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "maka ia menyingkirkan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari seluruh"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukit-bukit pengorbunan"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bukit-bukit pengorbunan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "patung-patung matahari"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "patung-patung matahari"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "dan menjadi tenang"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan itu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-nya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:13:28.978825983Z",
+  "model": "glm-5.2"
+}

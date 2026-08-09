@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 42,
+  "translation": "Haus napasku kepada Elohim, kepada El yang hidup — kapan aku datang dan melihat wajah Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "haus"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kepada El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aku datang"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-08T09:12:34.520957770Z",
+  "model": "glm-5.2"
+}

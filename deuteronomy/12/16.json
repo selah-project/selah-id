@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "id",
+  "chapter": 12,
+  "translation": "Hanya saja darah itu tidak boleh kamu makan; di atas bumi engkau harus menuangkannya seperti air.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanya saja"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "engkau harus menuangkannya"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "seperti air"
+    }
+  ],
+  "timestamp": "2026-08-08T10:45:51.231373895Z",
+  "model": "glm-5.2"
+}

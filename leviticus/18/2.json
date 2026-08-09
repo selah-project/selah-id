@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "“Berbicaralah kepada bani Yisra'el, dan katakanlah kepada mereka: Aku ⟨adalah⟩ Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Berbicaralah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dan katakanlah"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:44.007373332Z",
+  "model": "glm-5.2"
+}

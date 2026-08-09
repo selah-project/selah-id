@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 132,
+  "translation": "Yahweh telah bersumpah kepada Dawid dengan kepastian, tidak akan Ia berpaling darinya: dari buah rahimmu Aku akan menempatkan untuk takhta bagimu.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "telah bersumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Dawid"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dengan kepastian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akan Ia berpaling"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "darinya"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "dari buah"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "rahimmu"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Aku akan menempatkan"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "untuk takhta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:19.654167461Z",
+  "model": "glm-5.2"
+}

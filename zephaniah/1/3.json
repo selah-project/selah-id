@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "id",
+  "chapter": 1,
+  "translation": "Aku akan mengumpulkan manusia dan binatang, Aku akan mengumpulkan burung langit dan ikan laut, dan juga barang-barang yang menjatuhkan ⟨את⟩ orang-orang fasik; dan Aku akan melenyapkan ⟨את⟩ manusia dari permukaan bumi, demikianlah firman Yahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Aku akan mengumpulkan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "dan binatang"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Aku akan mengumpulkan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "dan ikan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "dan juga barang-barang yang menjatuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang fasik"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "dan Aku akan melenyapkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari permukaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "demikianlah firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-08T09:04:04.957344218Z",
+  "model": "glm-5.2"
+}

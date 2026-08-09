@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 106,
+  "translation": "Nenek moyang kami di Mitsrayim tidak memahami ⟨את⟩ keajaiban-Mu, mereka tidak mengingat kelimpahan hesed-Mu, dan mereka memberontak di laut, di laut Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "nenek moyang kami"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "keajaiban-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelimpahan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kelimpahan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "dan memberontak"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-08T09:23:08.195873677Z",
+  "model": "glm-5.2"
+}

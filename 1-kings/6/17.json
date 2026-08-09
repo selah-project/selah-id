@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Dan empat puluh hasta ⟨adalah⟩ panjang ⟨rumah⟩ itu — yakni, ⟨heiḵal⟩ di depan ⟨nya⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "dan empat puluh"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yakni"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heiḵal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    }
+  ],
+  "timestamp": "2026-08-08T08:02:47.107000015Z",
+  "model": "glm-5.2"
+}

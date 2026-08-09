@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu air itu mengalir berkeliling mezbah itu, dan juga ⟨את⟩ parit itu ⟨ia⟩ penuhi air.",
+  "tokens": [
+    {
+      "surface": "וַיֵּלְכ֣וּ",
+      "gloss": "lalu mengalir"
+    },
+    {
+      "surface": "הַמַּ֔יִם",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "סָבִ֖יב",
+      "gloss": "berkeliling"
+    },
+    {
+      "surface": "לַמִּזְבֵּ֑חַ",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "וְגַ֥ם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "parit itu"
+    },
+    {
+      "surface": "הַתְּעָלָ֖ה",
+      "gloss": "parit itu"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "penuhi"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-08-08T08:07:05.603218933Z",
+  "model": "glm-5.2"
+}

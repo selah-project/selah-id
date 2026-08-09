@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "“Dan juga aku telah menegakkan ⟨את⟩ perjanjiku dengan mereka, untuk memberikan kepada mereka ⟨את⟩ tanah Kenaan, ⟨את⟩ tanah tempat mereka singgah, yang mereka diami di dalamnya.”",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "aku telah menegakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjiku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjiku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah tempat mereka singgah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "tempat mereka singgah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "mereka diami"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-08-08T06:56:25.598559313Z",
+  "model": "glm-5.2"
+}

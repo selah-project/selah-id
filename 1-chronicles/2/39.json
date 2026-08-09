@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan Azarya memperanakkan ⟨את⟩ Khelets, dan Khelets memperanakkan ⟨את⟩ El'asa.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Dan Azarya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Khelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "dan Khelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El'asa"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "El'asa"
+    }
+  ],
+  "timestamp": "2026-08-08T10:02:51.157951115Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 40:29",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 40,
+  "translation": "Dan ⟨את⟩ mezbah korban bakaran diletakkan di pintu mishkan, ohel moed, dan dipersembahkanlah di atasnya ⟨את⟩ korban bakaran dan ⟨את⟩ korban sereh, seperti yang diperintahkan Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah korban bakaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "שם",
+      "gloss": "diletakkan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moed"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan dipersembahkanlah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "korban sereh"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "korban sereh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-08T07:06:21.130474434Z",
+  "model": "glm-5.2"
+}

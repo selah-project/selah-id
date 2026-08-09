@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "id",
+  "chapter": 8,
+  "translation": "Dan Yahweh berfirman kepada Mosheh: \"Katakanlah kepada Aharon: Ulurkanlah ⟨את⟩ tanganmu dengan tongkatmu atas sungai-sungai, atas kanal-kanal, dan atas kolam-kolam, dan naikkanlah ⟨את⟩ katak-katak atas tanah Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ulurkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "dengan tongkatmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "kanal-kanal"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "kolam-kolam"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "dan naikkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katak-katak"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-08T06:57:07.446638071Z",
+  "model": "glm-5.2"
+}

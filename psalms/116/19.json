@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 116,
+  "translation": "Di pelataran bait Yahweh, di tengah-tengahmu, hai Yerushalayim. Haleluya!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Di pelataran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "di tengah-tengahmu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-08T09:25:28.936501810Z",
+  "model": "glm-5.2"
+}

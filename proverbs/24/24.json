@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 24,
+  "translation": "Orang yang berkata kepada yang fasik, “Engkau adil,” akan dia kutuk bangsa-bangsa, akan dia benci kelompok-kelompok bangsa.",
+  "tokens": [
+    {
+      "surface": "אֹ֤מֵ֨ר",
+      "gloss": "orang yang berkata"
+    },
+    {
+      "surface": "לְרָשָׁע֮",
+      "gloss": "kepada yang fasik"
+    },
+    {
+      "surface": "צַדִּ֪יק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "אָ֥תָּה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "יִקְּבֻ֥הוּ",
+      "gloss": "akan dia kutuk"
+    },
+    {
+      "surface": "עַמִּ֑ים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יִזְעָמ֥וּהוּ",
+      "gloss": "akan dia benci"
+    },
+    {
+      "surface": "לְאֻמִּֽים",
+      "gloss": "kelompok-kelompok bangsa"
+    }
+  ],
+  "timestamp": "2026-08-08T11:50:39.165116334Z",
+  "model": "glm-5.2"
+}

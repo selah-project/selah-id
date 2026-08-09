@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 27,
+  "translation": "Jangan menyerahkan aku kepada jiwa para lawanku, sebab telah bangkit menentang aku saksi-saksi kebohongan dan si peniup kekerasan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "menyerahkan aku"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kepada jiwa"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "para lawanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "telah bangkit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menentang aku"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "dan si peniup"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    }
+  ],
+  "timestamp": "2026-08-08T09:10:19.936152998Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 11:11",
+  "book": "2-samuel",
+  "lang": "id",
+  "chapter": 11,
+  "translation": "Dan berkatalah Urya kepada Dawid: ⟨Haaron⟩, dan Yisra'el, dan Yehuda, diam di dalam sukkot; dan tuanku Yoav dan hamba-hamba tuanku di padang berkemah — dan aku, masukkah aku ke rumahku untuk makan dan untuk minum dan untuk tidur dengan istriku? ⟨Demi hidupmu⟩ dan ⟨demi hidup⟩ napasmu, jika aku melakukan ⟨את⟩ perkara ini!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Haaron"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dan Yisra'el"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehuda"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "di dalam sukkot"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "dan tuanku"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "dan hamba-hamba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "berkemah"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "masukkah aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumahku"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk makan"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "dan untuk minum"
+    },
+    {
+      "surface": "ולשכב",
+      "gloss": "dan untuk tidur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "istriku"
+    },
+    {
+      "surface": "חיך",
+      "gloss": "⟨Demi⟩ hidupmu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dan ⟨demi⟩ hidup"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "napasmu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aku melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-08T10:58:55.024246233Z",
+  "model": "glm-5.2"
+}

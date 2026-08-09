@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 16,
+  "translation": "Dan Aharon akan mempersembahkan ⟨את⟩ lembu korban penghapus dosa yang miliknya, dan mengadakan pendamaian untuk dirinya sendiri dan untuk keluarganya.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dan ia akan mempersembahkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban penghapus dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "miliknya"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan mengadakan pendamaian"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "untuk dirinya sendiri"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dan untuk"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "keluarganya"
+    }
+  ],
+  "timestamp": "2026-08-08T10:37:10.949013616Z",
+  "model": "glm-5.2"
+}

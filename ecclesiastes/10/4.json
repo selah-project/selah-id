@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 10,
+  "translation": "Jika roh pemerintah naik ke atasmu, tempatmu — jangan tinggalkan! Karena ketenangan menenangkan dosa-dosa yang besar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "pemerintah"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ke atasmu"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "tempatmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "tinggalkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ketenangan"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "menenangkan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:50:45.489603674Z",
+  "model": "glm-5.2"
+}

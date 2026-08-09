@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 69,
+  "translation": "Engkau, Engkau telah mengetahui celaanku dan ⟨⟩rasa maluku dan kehinaanku; di hadapan-Mu segala penyerangku.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Engkau telah mengetahui"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "celaanku"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "dan rasa maluku"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "dan kehinaanku"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di hadapan-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "penyerangku"
+    }
+  ],
+  "timestamp": "2026-08-08T09:17:34.108372150Z",
+  "model": "glm-5.2"
+}

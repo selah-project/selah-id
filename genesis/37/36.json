@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 37,
+  "translation": "Dan orang-orang Midian menjual ⟨את⟩ dia ke Mitsrayim, kepada Potifar, sida-sida Paro, panglima pengawal.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "dan orang-orang Midian"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "menjual"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "kepada Potifar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "sida-sida"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "pengawal"
+    }
+  ],
+  "timestamp": "2026-08-08T06:52:11.842220408Z",
+  "model": "glm-5.2"
+}

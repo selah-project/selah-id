@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "“⟨את⟩ hukum-hukum-Ku kamu lakukan, dan ⟨את⟩ ketetapan-Ku kamu jaga, untuk berjalan di dalamnya; Aku ⟨adalah⟩ Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukum-hukum-Ku"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum-Ku"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu lakukan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ketetapan-Ku"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ketetapan-Ku"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kamu jaga"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuk berjalan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-08-08T07:10:44.007580829Z",
+  "model": "glm-5.2"
+}

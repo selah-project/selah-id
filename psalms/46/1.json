@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 46,
+  "translation": "Untuk pemimpin biduan, bagi bani Korach, menurut alamot — nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuk pemimpin biduan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": " bagi bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": " Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": " menurut"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": " alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": " — nyanyian"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:00.863460195Z",
+  "model": "glm-5.2"
+}

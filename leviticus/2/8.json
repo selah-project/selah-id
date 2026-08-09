@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 2,
+  "translation": "Dan engkau akan membawa ⟨את⟩ persembahan minchah yang akan dibuat dari hal-hal ini kepada Yahweh, dan engkau akan mendekatkannya kepada ha-kohen, dan ia akan menghadapkannya kepada mizbeach.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Dan engkau akan membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan minchah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahan minchah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan dibuat"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "dari hal-hal ini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "dan engkau akan mendekatkannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ha-kohen"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "dan ia akan menghadapkannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeach"
+    }
+  ],
+  "timestamp": "2026-08-08T10:33:52.984244924Z",
+  "model": "glm-5.2"
+}

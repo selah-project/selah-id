@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Dan Yahweh berkata kepadanya, “Pergilah, kembalilah ke jalanmu ke padang gurun Damsyik, dan engkau akan masuk, dan engkau akan mengurapi ⟨את⟩ Chazael menjadi raja atas Aram.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "ke jalanmu"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ke arah padang gurun"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damsyik"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "dan engkau akan masuk"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dan engkau akan mengurapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "menjadi raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-08T08:07:12.926342862Z",
+  "model": "glm-5.2"
+}

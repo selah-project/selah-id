@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Lalu berkatalah sang raja: “Ambillah untukku pedang.” Dan mereka membawa pedang itu ke hadapan sang raja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Ambillah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "Dan mereka membawa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-08T11:01:57.887021730Z",
+  "model": "glm-5.2"
+}

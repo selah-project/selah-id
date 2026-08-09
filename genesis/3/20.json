@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 3,
+  "translation": "Dan Adam memberi nama isterinya Chavvah, karena dia ⟨adalah⟩ ibu segala yang hidup.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Dan dipanggilnya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-08-08T06:43:37.182137905Z",
+  "model": "glm-5.2"
+}

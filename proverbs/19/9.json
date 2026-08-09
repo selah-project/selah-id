@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "id",
+  "chapter": 19,
+  "translation": "Saksi dusta tidak akan dibebaskan dari hukuman, dan ⟨yang⟩ menghembuskan kebohongan akan binasa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "akan dibebaskan dari hukuman"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "dan ⟨yang⟩ menghembuskan"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "akan binasa"
+    }
+  ],
+  "timestamp": "2026-08-08T09:33:50.483845361Z",
+  "model": "glm-5.2"
+}

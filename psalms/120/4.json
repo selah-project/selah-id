@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 120,
+  "translation": "Anak panah ⟨seorang⟩ pahlawan yang tajam, bersama bara dari arar.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Anak panah"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "⟨seorang⟩ pahlawan"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "yang tajam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "bara"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "dari arar"
+    }
+  ],
+  "timestamp": "2026-08-08T09:27:06.210852728Z",
+  "model": "glm-5.2"
+}

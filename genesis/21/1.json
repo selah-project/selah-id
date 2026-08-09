@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "id",
+  "chapter": 21,
+  "translation": "Maka Yahweh mengingat ⟨את⟩ Sarah seperti yang telah Ia katakan, dan Yahweh melakukan bagi Sarah seperti yang telah Ia firmankan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Maka Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah Ia katakan"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan melakukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "bagi Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah Ia firmankan"
+    }
+  ],
+  "timestamp": "2026-08-08T06:47:30.903193913Z",
+  "model": "glm-5.2"
+}

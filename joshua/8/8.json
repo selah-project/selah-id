@@ -1,0 +1,71 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "joshua 8:8",
+ "book": "joshua",
+ "lang": "id",
+ "chapter": 8,
+ "translation": "Dan terjadilah, ketika kamu merebut ⟨את⟩ kota itu, kamu akan membakar ⟨את⟩ kota itu dengan api; sesuai firman Yahweh kamu harus lakukan. Lihat, aku telah memerintahkan kamu.",
+ "tokens": [
+  {
+   "surface": "והיה",
+   "gloss": "Dan terjadilah"
+  },
+  {
+   "surface": "כתפשכם",
+   "gloss": "ketika kamu merebet"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kota itu"
+  },
+  {
+   "surface": "העיר",
+   "gloss": "kota itu"
+  },
+  {
+   "surface": "תציתו",
+   "gloss": "kamu akan membakar"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kota itu"
+  },
+  {
+   "surface": "העיר",
+   "gloss": "kota itu"
+  },
+  {
+   "surface": "באש",
+   "gloss": "dengan api"
+  },
+  {
+   "surface": "כדבר",
+   "gloss": "sesuai firman"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweh"
+  },
+  {
+   "surface": "תעשו",
+   "gloss": "kamu harus lakukan"
+  },
+  {
+   "surface": "ראו",
+   "gloss": "Lihat"
+  },
+  {
+   "surface": "צויתי",
+   "gloss": "aku telah memerintahkan"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ kamu"
+  }
+ ],
+ "timestamp": "2026-08-09T01:40:07.269000338Z",
+ "model": "glm-5.2"
+}

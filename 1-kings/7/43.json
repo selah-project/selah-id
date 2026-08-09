@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "id",
+  "chapter": 7,
+  "translation": "dan ⟨את⟩ sepuluh alas, dan ⟨את⟩ sepuluh bejana di atas alas itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "alas"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "alas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bejana"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "bejana"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "alas"
+    }
+  ],
+  "timestamp": "2026-08-08T11:02:44.615140170Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "id",
+  "chapter": 4,
+  "translation": "Aku telah melihat ⟨את⟩ semua orang hidup yang berjalan di bawah matahari, bersama anak yang kedua yang akan berdiri di tempatnya.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua orang hidup"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "orang hidup"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "di tempatnya"
+    }
+  ],
+  "timestamp": "2026-08-08T09:49:12.506105674Z",
+  "model": "glm-5.2"
+}

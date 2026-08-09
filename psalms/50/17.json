@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "id",
+  "chapter": 50,
+  "translation": "Padahal engkau membenci musaran, dan perkataanku kaulemparkan ke belakangmu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Padahal engkau"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "membenci"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "musaran"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "dan kaulemparkan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataanku"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ke belakangmu"
+    }
+  ],
+  "timestamp": "2026-08-08T09:13:28.614152191Z",
+  "model": "glm-5.2"
+}
