@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 7,
-  "translation": "Dan Shemuël berkata kepada seluruh beyit Yisra'el, katanya: Jika dengan segenap hatimu kalian berbalik kepada Yahweh, singkirkanlah ⟨את⟩ elohei orang asing dari tengah-tengahmu dan ⟨את⟩ Asytoret, dan siapkanlah hatimu kepada Yahweh, dan layanilah Dia semata-mata, maka Ia akan menyelamatkan ⟨אתכם⟩ dari tangan orang Pelesyet.",
+  "translation": "Lalu Shemuel berkata kepada seluruh umat Israel, katanya: Jika kamu berbalik kepada Yahweh dengan segenap hatimu, singkirkanlah ⟨את⟩ para elohim asing dari tengah-tengahmu, serta ⟨את⟩ para Asytoret, dan arahkan hatimu kepada Yahweh, serta layani Dia semata-mata, maka Ia akan melepaskan ⟨את⟩kamu dari tangan orang-orang Pelisyt.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkata"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuël"
+      "gloss": "Shemuel"
     },
     {
       "surface": "אל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "beyit"
+      "gloss": "umat (rumah tangga)"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "לאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "kalian"
+      "gloss": "kamu"
     },
     {
       "surface": "שבים",
@@ -70,15 +70,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "elohei orang asing"
+      "marks": "para elohim asing"
     },
     {
       "surface": "אלהי",
-      "gloss": "elohei"
+      "gloss": "para elohim"
     },
     {
       "surface": "הנכר",
-      "gloss": "orang asing"
+      "gloss": "asing"
     },
     {
       "surface": "מתוככם",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "והעשתרות",
-      "gloss": "dan Asytoret"
+      "gloss": "serta para Asytoret"
     },
     {
       "surface": "והכינו",
-      "gloss": "dan siapkanlah"
+      "gloss": "dan arahkanlah"
     },
     {
       "surface": "לבבכם",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "ועבדהו",
-      "gloss": "dan layanilah Dia"
+      "gloss": "dan layani Dia"
     },
     {
       "surface": "לבדו",
@@ -114,12 +114,12 @@
     },
     {
       "surface": "ויצל",
-      "gloss": "maka Ia akan menyelamatkan"
+      "gloss": "maka Ia akan melepaskan"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "kalian"
+      "gloss": "⟨את⟩kamu",
+      "marks": "kamu"
     },
     {
       "surface": "מיד",
@@ -127,9 +127,9 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "orang Pelesyet"
+      "gloss": "orang-orang Pelisyt"
     }
   ],
-  "timestamp": "2026-08-08T23:20:36.390725176Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:42.924034636Z",
+  "model": "glm-5.3"
 }

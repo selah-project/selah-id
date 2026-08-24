@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 9,
-  "translation": "“Dan aku, lihatlah, aku menegakkan ⟨את⟩ perjanjianku dengan kamu dan ⟨את⟩ benihmu sesudahmu,",
+  "translation": "“Dan aku, lihatlah, aku menegakkan ⟨את⟩ perjanjianku ⟨את⟩ dengan kamu dan ⟨את⟩ benihmu sesudahmu,",
   "tokens": [
     {
       "surface": "ואני",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "dengan kamu"
+      "gloss": "⟨את⟩ dengan kamu"
     },
     {
       "surface": "ואת",
@@ -45,6 +45,6 @@
       "gloss": "sesudahmu"
     }
   ],
-  "timestamp": "2026-08-08T06:44:22.381755228Z",
+  "timestamp": "2026-08-24T17:55:27.068796067Z",
   "model": "glm-5.2"
 }

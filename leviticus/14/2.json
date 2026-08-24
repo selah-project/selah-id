@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 14,
-  "translation": "Inilah torat ⟨ה⟩ orang yang ber-tsaraat, pada hari pentahirannya: ⟨ia⟩ harus dibawa kepada ha-kohen.",
+  "translation": "Inilah ⟨adalah⟩ torat bagi orang yang tsaraat, pada hari pentahirannya: ⟨dia⟩ harus dibawa kepada ⟨את⟩ sang kohen.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "Inilah"
+      "gloss": "inilah"
     },
     {
       "surface": "תהיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המצרע",
-      "gloss": "orang yang ber-tsaraat"
+      "gloss": "orang yang tsaraat"
     },
     {
       "surface": "ביום",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "והובא",
-      "gloss": "harus dibawa"
+      "gloss": "dan harus dibawa"
     },
     {
       "surface": "אל",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "ha-kohen"
+      "gloss": "sang kohen"
     }
   ],
-  "timestamp": "2026-08-08T07:09:26.493146090Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:40.683604320Z",
+  "model": "glm-5.3"
 }

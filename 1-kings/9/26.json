@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 9,
-  "translation": "Dan armada kapal dibuat oleh raja Shelomoh di Etsyon-Gever, yang ⟨dekat⟩ ⟨את⟩ Elot, di tepi laut teberau, di negeri Edom.",
+  "translation": "Dan armada kapal dibuat oleh raja Shelomoh di Etsyon-Gever, yang ⟨את⟩ ⟨dekat⟩ ⟨את⟩ Elot, di tepi laut teberau, di negeri Edom.",
   "tokens": [
     {
       "surface": "ואני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨dekat⟩"
+      "gloss": "⟨את⟩ ⟨dekat⟩"
     },
     {
       "surface": "אלות",
@@ -68,6 +68,6 @@
       "gloss": "Edom"
     }
   ],
-  "timestamp": "2026-08-08T11:03:05.774628905Z",
+  "timestamp": "2026-08-24T17:55:27.248853746Z",
   "model": "glm-5.2"
 }

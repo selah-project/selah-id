@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 110,
-  "translation": "Adonai di sebelah kananmu, ⟨⟨ia⟩⟩ menghantam raja-raja pada hari amarahnya.",
+  "translation": "Adonai di sebelah kananmu ⟨⟨menghancurkan⟩⟩ raja-raja pada hari murka-Nya.",
   "tokens": [
     {
-      "surface": "אֲדֹנָ֥י",
+      "surface": "אדני",
       "gloss": "Adonai"
     },
     {
-      "surface": "עַל",
-      "gloss": "di"
+      "surface": "על",
+      "gloss": "di sebelah"
     },
     {
-      "surface": "יְמִֽינְךָ֑",
+      "surface": "ימינך",
       "gloss": "kananmu"
     },
     {
-      "surface": "מָחַ֖ץ",
-      "gloss": "menghantam"
+      "surface": "מחץ",
+      "gloss": "⟨menghancurkan⟩"
     },
     {
-      "surface": "בְּיוֹם",
+      "surface": "ביום",
       "gloss": "pada hari"
     },
     {
-      "surface": "אַפּ֣וֹ",
-      "gloss": "amarahnya"
+      "surface": "אפו",
+      "gloss": "murka-Nya"
     },
     {
-      "surface": "מְלָכִֽים",
+      "surface": "מלכים",
       "gloss": "raja-raja"
     }
   ],
-  "timestamp": "2026-08-08T09:23:59.682213114Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:27.788938960Z",
+  "model": "glm-5.3"
 }

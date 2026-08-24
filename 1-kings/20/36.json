@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 20,
-  "translation": "Maka berkatalah ⟨nabi⟩ kepadanya, “Oleh karena engkau tidak mendengarkan suara Yahweh, sungguh, engkau berjalan dari padaku, dan singa akan memukul engkau.” Lalu ia pergi dari sisinya, dan singa itu menjumpainya dan memukulnya.",
+  "translation": "Maka berkatalah ⟨nabi⟩ kepadanya, “Oleh karena engkau tidak mendengarkan suara Yahweh, sungguh, engkau berjalan ⟨את⟩ dari padaku, dan singa akan memukul engkau.” Lalu ia pergi dari sisinya, dan singa itu menjumpainya dan memukulnya.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "dari padaku"
+      "gloss": "⟨את⟩ dari padaku"
     },
     {
       "surface": "והכך",
@@ -80,6 +80,6 @@
       "gloss": "dan memukulnya"
     }
   ],
-  "timestamp": "2026-08-08T08:07:23.004847383Z",
+  "timestamp": "2026-08-24T17:55:27.249498950Z",
   "model": "glm-5.2"
 }

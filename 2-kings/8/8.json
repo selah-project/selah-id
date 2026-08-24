@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 8,
-  "translation": "Lalu raja berkata kepada Chazael, “Ambillah persembahan di tanganmu dan pergilah menemui nabi Elohim, dan engkau akan menanyakan ⟨את⟩ Yahweh daripadanya, dengan berkata, 'Apakah aku akan hidup dari sakit ini?'”",
+  "translation": "Lalu raja berkata kepada Chazael, “Ambillah persembahan di tanganmu dan pergilah menemui nabi Elohim, dan engkau akan menanyakan ⟨את⟩ Yahweh ⟨את⟩ daripadanya, dengan berkata, 'Apakah aku akan hidup dari sakit ini?'”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "מאותו",
-      "gloss": "daripadanya"
+      "gloss": "⟨את⟩ daripadanya"
     },
     {
       "surface": "לאמר",
@@ -85,6 +85,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-09T01:44:18.716716379Z",
+  "timestamp": "2026-08-24T17:55:27.199949910Z",
   "model": "glm-5.2"
 }

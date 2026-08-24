@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan isinya dan betisnya dibasuh dalam air, dan sang imam membakar asap ⟨את⟩ semuanya di atas mezbah — korban ⟨עולה⟩, persembahan api — bau yang menenangkan bagi Yahweh.",
+  "translation": "Dan bagian dalamnya serta kakinya direbus — direndam — dicuci dalam air; dan sang imam membakar ⟨את⟩ segalanya di atas mezbah, korban olah, isyeh, aroma nikhoach bagi Yahweh.",
   "tokens": [
     {
       "surface": "וקרבו",
-      "gloss": "dan isinya"
+      "gloss": "dan bagian dalamnya"
     },
     {
       "surface": "וכרעיו",
-      "gloss": "dan betisnya"
+      "gloss": "serta kakinya"
     },
     {
       "surface": "ירחץ",
-      "gloss": "dibasuh"
+      "gloss": "dicuci"
     },
     {
       "surface": "במים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "והקטיר",
-      "gloss": "dan membakar asap"
+      "gloss": "dan membakar"
     },
     {
       "surface": "הכהן",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "semuanya"
+      "marks": "segalanya"
     },
     {
       "surface": "הכל",
-      "gloss": "semuanya"
+      "gloss": "segalanya"
     },
     {
       "surface": "המזבחה",
@@ -46,25 +46,25 @@
     },
     {
       "surface": "עלה",
-      "gloss": "korban ⟨עולה⟩"
+      "gloss": "korban olah"
     },
     {
       "surface": "אשה",
-      "gloss": "persembahan api"
+      "gloss": "isyeh (persembahan api)"
     },
     {
       "surface": "ריח",
-      "gloss": "bau"
+      "gloss": "aroma"
     },
     {
       "surface": "ניחוח",
-      "gloss": "yang menenangkan"
+      "gloss": "nikhoach (yang mendamaikan)"
     },
     {
       "surface": "ליהוה",
       "gloss": "bagi Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T18:24:09.942355774Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:44.520345288Z",
+  "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 14,
-  "translation": "Dan imam mengambil ⟨את⟩ domba yang satu itu dan mempersembahkannya ⟨אתו⟩ sebagai korban peneangan salah, dan ⟨את⟩ log minyak itu, dan ia mengunjukkan ⟨אתם⟩ sebagai perunjukan di hadapan Yahweh.",
+  "translation": "Lalu sang kohen mengambil ⟨את⟩ domba jantan yang satu, mempersembahkannya sebagai korban asham, beserta ⟨את⟩ satu log minyak, dan mengibaskannya sebagai tenufah di hadapan Yahweh.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "Dan imam mengambil"
+      "gloss": "Lalu … mengambil"
     },
     {
       "surface": "הכהן",
-      "gloss": "imam"
+      "gloss": "sang kohen"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "domba yang satu itu"
+      "marks": "domba jantan yang satu"
     },
     {
       "surface": "הכבש",
-      "gloss": "domba"
+      "gloss": "domba jantan"
     },
     {
       "surface": "האחד",
@@ -30,42 +30,42 @@
     },
     {
       "surface": "והקריב",
-      "gloss": "dan mempersembahkannya"
+      "gloss": "mempersembahkan"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩-nya",
-      "marks": "sebagai korban peneangan salah"
+      "marks": "sebagai korban asham"
     },
     {
       "surface": "לאשם",
-      "gloss": "sebagai korban peneangan salah"
+      "gloss": "sebagai korban asham"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "log minyak itu"
+      "gloss": "beserta ⟨את⟩",
+      "marks": "satu log minyak"
     },
     {
       "surface": "לג",
-      "gloss": "log"
+      "gloss": "satu log"
     },
     {
       "surface": "השמן",
-      "gloss": "minyak itu"
+      "gloss": "minyak"
     },
     {
       "surface": "והניף",
-      "gloss": "dan ia mengunjukkan"
+      "gloss": "mengibaskan"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ mereka",
-      "marks": "sebagai perunjukan"
+      "gloss": "⟨את⟩-nya (jamak)",
+      "marks": "tenufah"
     },
     {
       "surface": "תנופה",
-      "gloss": "sebagai perunjukan"
+      "gloss": "tenufah"
     },
     {
       "surface": "לפני",
@@ -76,6 +76,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T07:09:32.259025703Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:35.303530647Z",
+  "model": "glm-5.3"
 }

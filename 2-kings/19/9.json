@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan ⟨ia⟩ mendengar tentang Tirhakah raja Kush, yang mengatakan: “Lihat, ia telah keluar untuk berperang dengan engkau,” maka ⟨ia⟩ berbalik dan mengutus utusan kepada Hizkiyahu, yang mengatakan:",
+  "translation": "Dan ⟨ia⟩ mendengar tentang Tirhakah raja Kush, yang mengatakan: “Lihat, ia telah keluar untuk berperang ⟨את⟩ dengan engkau,” maka ⟨ia⟩ berbalik dan mengutus utusan kepada Hizkiyahu, yang mengatakan:",
   "tokens": [
     {
       "surface": "וישמע",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "dengan engkau"
+      "gloss": "⟨את⟩ dengan engkau"
     },
     {
       "surface": "וישב",
@@ -72,6 +72,6 @@
       "gloss": "yang mengatakan"
     }
   ],
-  "timestamp": "2026-08-08T08:12:52.038144787Z",
+  "timestamp": "2026-08-24T17:55:27.200649971Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 34,
-  "translation": "Dan terjadilah, ketika Mosheh turun dari gunung Sinai — dan kedua loh ⟨ה⟩ kesaksian di tangan Mosheh — saat turunnya dari ⟨ה⟩ gunung, bahwa kulit wajahnya menyinar tanduk karena ⟨dia⟩ berbicara dengan-Nya, dan Mosheh tidak tahu.",
+  "translation": "Dan terjadilah, ketika Moshe turun dari gunung Sinai — dan kedua loh ⟨את⟩ kesaksian itu di tangan Moshe pada waktu ia turun dari gunung itu — bahwa Moshe tidak tahu bahwa kulit wajahnya bermandikan sinar ketika Ia berbicara dengannya.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "dan terjadilah"
+      "gloss": "Dan terjadilah"
     },
     {
       "surface": "ברדת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Moshe"
     },
     {
       "surface": "מהר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "kesaksian"
+      "gloss": "kesaksian itu"
     },
     {
       "surface": "ביד",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Moshe"
     },
     {
       "surface": "ברדתו",
-      "gloss": "saat turunnya"
+      "gloss": "pada waktu ia turun"
     },
     {
       "surface": "מן",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ההר",
-      "gloss": "gunung"
+      "gloss": "gunung itu"
     },
     {
       "surface": "ומשה",
-      "gloss": "dan Mosheh"
+      "gloss": "dan Moshe"
     },
     {
       "surface": "לא",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "קרן",
-      "gloss": "menyinar tanduk"
+      "gloss": "bermandikan sinar"
     },
     {
       "surface": "עור",
@@ -89,13 +89,14 @@
     },
     {
       "surface": "בדברו",
-      "gloss": "karena berbicara"
+      "gloss": "ketika Ia berbicara"
     },
     {
       "surface": "אתו",
-      "gloss": "dengan-Nya"
+      "gloss": "⟨את⟩ dengannya",
+      "marks": "dengannya"
     }
   ],
-  "timestamp": "2026-08-08T07:04:02.827613029Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:09.249160988Z",
+  "model": "glm-5.3"
 }

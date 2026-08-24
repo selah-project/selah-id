@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan mereka akan mengambil kain tekhelet dan menutupi ⟨את⟩ kaki tempat penerang dan ⟨את⟩ lampu-lampunya dan ⟨את│ sepit-sepitnya dan ⟨את⟩ tempat abunya, dan ⟨את│ segala perkakas minyaknya yang dipakai untuk melayaninya padanya.",
+  "translation": "Dan mereka akan mengambil kain biru-techelet, dan menutupi ⟨את⟩ menora penerangan itu, dan ⟨את⟩ lampu-lampunya, dan ⟨את⟩ sepit-sepitnya, dan ⟨את⟩ tempat bara-bara arangnya, dan ⟨את⟩ semua perkakas minyaknya yang dipakai mereka untuk melayaninya,",
   "tokens": [
     {
       "surface": "ולקחו",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "תכלת",
-      "gloss": "tekhelet"
+      "gloss": "biru-techelet"
     },
     {
       "surface": "וכסו",
-      "gloss": "dan mereka akan menutupi"
+      "gloss": "dan menutupi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaki tempat penerang"
+      "marks": "menora penerangan itu"
     },
     {
       "surface": "מנרת",
-      "gloss": "kaki tempat"
+      "gloss": "menora"
     },
     {
       "surface": "המאור",
-      "gloss": "penerang"
+      "gloss": "penerangan itu"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lampu-lampunya"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sepit-sepitnya"
     },
     {
@@ -56,21 +56,21 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "tempat abunya"
+      "gloss": "⟨את⟩",
+      "marks": "tempat bara-bara arangnya"
     },
     {
       "surface": "מחתתיה",
-      "gloss": "tempat abunya"
+      "gloss": "tempat bara-bara arangnya"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "segala perkakas minyaknya"
+      "gloss": "⟨את⟩",
+      "marks": "semua perkakas minyaknya"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "semua"
     },
     {
       "surface": "כלי",
@@ -86,17 +86,17 @@
     },
     {
       "surface": "ישרתו",
-      "gloss": "dipakai untuk melayani"
+      "gloss": "mereka melayani"
     },
     {
       "surface": "לה",
-      "gloss": "padanya"
+      "gloss": "untuknya"
     },
     {
       "surface": "בהם",
       "gloss": "dengannya"
     }
   ],
-  "timestamp": "2026-08-08T07:14:28.990782399Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:34.629512274Z",
+  "model": "glm-5.3"
 }

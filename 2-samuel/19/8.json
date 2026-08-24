@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 19,
-  "translation": "Maka sekarang, bangunlah, keluarlah, dan berbicaralah kepada hati hamba-hambamu, karena demi Yahweh aku telah bersumpah: jika engkau tidak keluar, tidak akan bermalam seorang ⟨pun⟩ bersamamu malam ini, dan hal ini akan lebih buruk bagimu daripada segala kejahatan yang telah datang atasmu dari masa mudamu sampai sekarang.",
+  "translation": "Maka sekarang, bangunlah, keluarlah, dan berbicaralah kepada hati hamba-hambamu, karena demi Yahweh aku telah bersumpah: jika engkau tidak keluar, tidak akan bermalam seorang ⟨pun⟩ ⟨את⟩ bersamamu malam ini, dan hal ini akan lebih buruk bagimu daripada segala kejahatan yang telah datang atasmu dari masa mudamu sampai sekarang.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bersamamu"
+      "gloss": "⟨את⟩ bersamamu"
     },
     {
       "surface": "הלילה",
@@ -124,6 +124,6 @@
       "gloss": "sekarang"
     }
   ],
-  "timestamp": "2026-08-08T11:00:34.861581034Z",
+  "timestamp": "2026-08-24T17:55:27.058479682Z",
   "model": "glm-5.2"
 }

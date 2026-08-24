@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 39,
-  "translation": "Di atas pegunungan Yisra'el engkau akan jatuh, engkau dan semua pasukanmu dan bangsa-bangsa yang bersama denganmu; kepada burung pemakan bangkai, setiap sayap, dan binatang ladang Aku memberikan ⟨את⟩ engkau untuk dimakan.",
+  "translation": "Di atas pegunungan Yisra'el engkau akan jatuh, engkau dan semua pasukanmu dan bangsa-bangsa yang ⟨את⟩ bersama denganmu; kepada burung pemakan bangkai, setiap sayap, dan binatang ladang Aku memberikan ⟨את⟩ engkau untuk dimakan.",
   "tokens": [
     {
       "surface": "על",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bersama denganmu"
+      "gloss": "⟨את⟩ bersama denganmu"
     },
     {
       "surface": "לעיט",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "נתתיך",
-      "gloss": "Aku memberikan ⟨את⟩ engkau"
+      "gloss": "Aku memberikan engkau"
     },
     {
       "surface": "לאכלה",
       "gloss": "untuk dimakan"
     }
   ],
-  "timestamp": "2026-08-08T11:26:35.683463965Z",
+  "timestamp": "2026-08-24T17:55:27.185792879Z",
   "model": "glm-5.2"
 }

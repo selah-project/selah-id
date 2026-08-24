@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 1,
-  "translation": "Apakah dari tuanku sang raja hal ini terjadi, dan ⟨engkau⟩ tidak menyatakan ⟨את⟩ hambamu siapa yang akan duduk di atas takhta tuanku sang raja setelahnya?”",
+  "translation": "Apakah ⟨את⟩ dari tuanku sang raja hal ini terjadi, dan ⟨engkau⟩ tidak menyatakan ⟨את⟩ hambamu siapa yang akan duduk di atas takhta tuanku sang raja setelahnya?”",
   "tokens": [
     {
       "surface": "אם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩ dari"
     },
     {
       "surface": "אדני",
@@ -81,6 +81,6 @@
       "gloss": "setelahnya"
     }
   ],
-  "timestamp": "2026-08-08T08:00:31.058223421Z",
+  "timestamp": "2026-08-24T17:55:27.255936043Z",
   "model": "glm-5.2"
 }

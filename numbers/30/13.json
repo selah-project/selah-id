@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 30,
-  "translation": "Tetapi jika suaminya membatalkannya, ia membatalkan ⟨אתם⟩ pada hari mendengarnya, segala yang keluar dari bibirnya untuk nadar-nadarnya dan untuk ikatan nafshanya tidak akan berdiri — suaminya telah membatalkannya, dan Yahweh akan mengampuni dia.",
+  "translation": "Tetapi jika suaminya menghapuskan ⟨את⟩ semuanya pada hari ia mendengarnya, maka segala yang keluar dari bibirnya, baik nazar-nazarnya maupun ikatan ⟨את⟩ nafsyanya, tidak akan berdiri; suaminyalah yang menghapuskan semuanya itu, dan Yahweh akan mengampuni dia.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "tetapi jika"
+      "gloss": "Tetapi jika"
     },
     {
       "surface": "הפר",
-      "gloss": "membatalkan"
+      "gloss": "menghapuskan"
     },
     {
       "surface": "יפר",
-      "gloss": "ia membatalkan"
+      "gloss": "menghapuskan"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "mereka (nazar-nazar dan ikatannya)"
+      "marks": "nazar-nazarnya (semuanya)"
     },
     {
       "surface": "אישה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "mendengarnya"
+      "gloss": "ia mendengarnya"
     },
     {
       "surface": "כל",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "שפתיה",
-      "gloss": "dari bibirnya"
+      "gloss": "bibirnya"
     },
     {
       "surface": "לנדריה",
-      "gloss": "untuk nadar-nadarnya"
+      "gloss": "nazar-nazarnya"
     },
     {
       "surface": "ולאסר",
-      "gloss": "dan untuk ikatan"
+      "gloss": "maupun ikatan"
     },
     {
       "surface": "נפשה",
-      "gloss": "nafshanya"
+      "gloss": "nafsyanya"
     },
     {
       "surface": "לא",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הפרם",
-      "gloss": "telah membatalkannya"
+      "gloss": "menghapuskan semuanya itu"
     },
     {
       "surface": "ויהוה",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "לה",
-      "gloss": "kepadanya"
+      "gloss": "dia"
     }
   ],
-  "timestamp": "2026-08-08T07:22:47.471555291Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:10.928494333Z",
+  "model": "glm-5.3"
 }

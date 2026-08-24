@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan ⟨ia⟩ memercikkan dari padanya ke atas mezbah tujuh kali, lalu ⟨ia⟩ mengurapi ⟨את⟩ mezbah dan ⟨את⟩ segala perlengkapannya, dan ⟨את〕 bejana pembasuhan dan ⟨את⟩ alasnya, untuk menguduskan ⟨את⟩ semuanya.",
+  "translation": "Ia memercikkan dari padanya ke atas ⟨את⟩ mezbah tujuh kali, lalu mengurapi ⟨את⟩ mezbah dan ⟨את⟩ segala perlengkapannya, serta ⟨את⟩ bejana pembasuhan dan ⟨את⟩ alasnya, untuk menguduskan ⟨את⟩-nya.",
   "tokens": [
     {
       "surface": "ויז",
-      "gloss": "Dan ia memercikkan"
+      "gloss": "Ia memercikkan"
     },
     {
       "surface": "ממנו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וימשח",
-      "gloss": "lalu ia mengurapi"
+      "gloss": "lalu mengurapi"
     },
     {
       "surface": "את",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "segala perlengkapannya"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "bejana pembasuhan"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "alasnya"
     },
     {
@@ -77,9 +77,9 @@
     },
     {
       "surface": "לקדשם",
-      "gloss": "untuk menguduskan ⟨את⟩ semuanya"
+      "gloss": "untuk menguduskan -nya"
     }
   ],
-  "timestamp": "2026-08-08T12:36:25.162015583Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.211407120Z",
+  "model": "glm-5.3"
 }

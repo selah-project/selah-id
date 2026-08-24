@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan sesudah itu ⟨ה⟩ bangsa berangkat dari Kharot, dan mereka berkemah di padang gurun Paran.",
+  "translation": "Dan sesudah itu bangsa itu berangkat dari Khatserot, lalu berkemah di padang gurun Paran.",
   "tokens": [
     {
       "surface": "ואחר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨ה⟩ bangsa"
+      "gloss": "bangsa itu"
     },
     {
       "surface": "מחצרות",
-      "gloss": "dari Kharot"
+      "gloss": "dari Khatserot"
     },
     {
       "surface": "ויחנו",
-      "gloss": "dan mereka berkemah"
+      "gloss": "lalu berkemah"
     },
     {
       "surface": "במדבר",
@@ -36,6 +36,6 @@
       "gloss": "Paran"
     }
   ],
-  "timestamp": "2026-08-08T10:40:28.773835344Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:45.178972600Z",
+  "model": "glm-5.3"
 }

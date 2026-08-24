@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 13,
-  "translation": "Lalu raja itu berkata kepada abdi Elohim, “Marilah bersamaku ke rumah, dan perjamuanlah, dan aku akan memberikan kepadamu ⟨sebuah⟩ hadiah.”",
+  "translation": "Lalu raja itu berkata kepada abdi Elohim, “Marilah ⟨את⟩ bersamaku ke rumah, dan perjamuanlah, dan aku akan memberikan kepadamu ⟨sebuah⟩ hadiah.”",
   "tokens": [
     {
       "surface": "וידבר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "הביתה",
@@ -56,6 +56,6 @@
       "gloss": "hadiah"
     }
   ],
-  "timestamp": "2026-08-08T08:05:08.802602346Z",
+  "timestamp": "2026-08-24T17:55:27.258022562Z",
   "model": "glm-5.2"
 }

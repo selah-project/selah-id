@@ -5,12 +5,12 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 4,
-  "translation": "dan ⟨את⟩ delapan ratus delapan puluh delapan buah delima untuk dua jaring — dua baris delima untuk satu jaring — untuk menutupi ⟨את⟩ dua bola kepala kapitel yang di depan ⟨the⟩ tiang-tiang.",
+  "translation": "dan ⟨את⟩ empat ratus buah delima bagi kedua jala itu — dua baris delima bagi setiap jala — untuk menutupi ⟨את⟩ kedua bulatan mahkota yang di pada muka tiang-tiang itu.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "buah delima"
+      "marks": "empat ratus buah delima"
     },
     {
       "surface": "הרמונים",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "לשתי",
-      "gloss": "untuk dua"
+      "gloss": "bagi kedua"
     },
     {
       "surface": "השבכות",
-      "gloss": "jaring"
+      "gloss": "jala itu"
     },
     {
       "surface": "שנים",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "לשבכה",
-      "gloss": "untuk jaring"
+      "gloss": "bagi jala"
     },
     {
       "surface": "האחת",
-      "gloss": "satu"
+      "gloss": "setiap"
     },
     {
       "surface": "לכסות",
@@ -59,19 +59,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dua bola"
+      "marks": "kedua bulatan mahkota"
     },
     {
       "surface": "שתי",
-      "gloss": "dua"
+      "gloss": "kedua"
     },
     {
       "surface": "גלות",
-      "gloss": "bola"
+      "gloss": "bulatan"
     },
     {
       "surface": "הכתרות",
-      "gloss": "kepala kapitel"
+      "gloss": "mahkota"
     },
     {
       "surface": "אשר",
@@ -79,17 +79,17 @@
     },
     {
       "surface": "על",
-      "gloss": "di"
+      "gloss": "di pada"
     },
     {
       "surface": "פני",
-      "gloss": "depan"
+      "gloss": "muka"
     },
     {
       "surface": "העמודים",
-      "gloss": "tiang-tiang"
+      "gloss": "tiang-tiang itu"
     }
   ],
-  "timestamp": "2026-08-08T12:04:29.872233444Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:07.202271780Z",
+  "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 22,
-  "translation": "Jika dalam terowongan ⟨pembobolan⟩ itu ditemukan ⟨הגנב⟩ sang pencuri dan dipukul serta mati, tidak ada baginya ⟨דמים⟩ darah.",
+  "translation": "Jika pencuri itu tertangkap saat membongkar ⟨dinding⟩ dan dipukul sampai mati, ⟨baginya⟩ tidak ada ⟨tuntutan⟩ darah.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jika"
+      "gloss": "Jika"
     },
     {
       "surface": "במחתרת",
-      "gloss": "dalam terowongan ⟨pembobolan⟩"
+      "gloss": "saat membongkar ⟨dinding⟩"
     },
     {
       "surface": "ימצא",
-      "gloss": "ditemukan"
+      "gloss": "tertangkap"
     },
     {
       "surface": "הגנב",
-      "gloss": "sang pencuri"
+      "gloss": "pencuri itu"
     },
     {
       "surface": "והכה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ומת",
-      "gloss": "serta mati"
+      "gloss": "sampai mati"
     },
     {
       "surface": "אין",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "baginya"
+      "gloss": "⟨baginya⟩"
     },
     {
       "surface": "דמים",
-      "gloss": "darah"
+      "gloss": "⟨tuntutan⟩ darah"
     }
   ],
-  "timestamp": "2026-08-08T10:30:57.799843017Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:32.107166968Z",
+  "model": "glm-5.3"
 }

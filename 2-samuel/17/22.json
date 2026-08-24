@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 17,
-  "translation": "Maka bangunlah Dawid dan seluruh rakyat yang bersamanya, dan mereka menyeberangi ⟨את⟩ sungai Yarden — sampai terangnya pagi — tidak seorang pun yang tertinggal yang tidak menyeberangi ⟨את⟩ sungai Yarden.",
+  "translation": "Maka bangunlah Dawid dan seluruh rakyat yang ⟨את⟩ bersamanya, dan mereka menyeberangi ⟨את⟩ sungai Yarden — sampai terangnya pagi — tidak seorang pun yang tertinggal yang tidak menyeberangi ⟨את⟩ sungai Yarden.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "ויעברו",
@@ -94,6 +94,6 @@
       "gloss": "sungai Yarden"
     }
   ],
-  "timestamp": "2026-08-08T12:16:14.281800669Z",
+  "timestamp": "2026-08-24T17:55:27.056954794Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 29,
-  "translation": "Lalu Akhish memanggil Dawid dan berkata kepadanya: \"Demi hidup Yahweh, engkau lurus, dan keluar-masukmu bersamaku di perkemahan ⟨adalah⟩ baik di mataku, sebab aku tidak menemukan kejahatan dalam dirimu sejak hari engkau datang kepadanya sampai hari ini; tetapi di mata para panglima engkau tidak baik.",
+  "translation": "Lalu Akhish memanggil Dawid dan berkata kepadanya: \"Demi hidup Yahweh, engkau lurus, dan keluar-masukmu ⟨את⟩ bersamaku di perkemahan ⟨adalah⟩ baik di mataku, sebab aku tidak menemukan kejahatan dalam dirimu sejak hari engkau datang kepadanya sampai hari ini; tetapi di mata para panglima engkau tidak baik.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "במחנה",
@@ -140,6 +140,6 @@
       "gloss": "engkau"
     }
   ],
-  "timestamp": "2026-08-08T07:52:42.148397832Z",
+  "timestamp": "2026-08-24T17:55:27.169098838Z",
   "model": "glm-5.2"
 }

@@ -5,27 +5,27 @@
   "book": "song-of-songs",
   "lang": "id",
   "chapter": 4,
-  "translation": "Lihat, ⟨engkau⟩ cantik, wahai kekasihku, lihat, ⟨engkau⟩ cantik; matamu ⟨⟨adalah⟩⟩ merpati di balik cadarmu; rambutmu ⟨adalah⟩ seperti kawanan kambing yang terkulai dari Gunung Gilad.",
+  "translation": "Lihatlah, engkau indah, kasihku; lihatlah, engkau indah; matamu seperti burung dara di balik cadarmu; rambutmu seperti kawanan kambing yang turun mengalir dari Gunung Gilad.",
   "tokens": [
     {
       "surface": "הנך",
-      "gloss": "lihat"
+      "gloss": "lihatlah"
     },
     {
       "surface": "יפה",
-      "gloss": "cantik"
+      "gloss": "indah"
     },
     {
       "surface": "רעיתי",
-      "gloss": "wahai kekasihku"
+      "gloss": "kasihku"
     },
     {
       "surface": "הנך",
-      "gloss": "lihat"
+      "gloss": "lihatlah"
     },
     {
       "surface": "יפה",
-      "gloss": "cantik"
+      "gloss": "indah"
     },
     {
       "surface": "עיניך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יונים",
-      "gloss": "merpati"
+      "gloss": "burung dara"
     },
     {
       "surface": "מבעד",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "שגלשו",
-      "gloss": "yang terkulai"
+      "gloss": "yang turun mengalir"
     },
     {
       "surface": "מהר",
@@ -68,6 +68,6 @@
       "gloss": "Gilad"
     }
   ],
-  "timestamp": "2026-08-08T09:46:15.572869973Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:29.310741752Z",
+  "model": "glm-5.3"
 }

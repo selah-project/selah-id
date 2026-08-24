@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 26,
-  "translation": "Maka terjadilah kelaparan di ⟨the⟩ negeri itu, selain kelaparan yang pertama yang terjadi pada hari-hari Avraham; dan pergilah Yitskhak kepada Avimelekh, raja orang-orang Pelishti, ke Gerar.",
+  "translation": "Lalu terjadilah kelaparan di ⟨את⟩ negeri itu — selain kelaparan pertama yang terjadi pada hari-hari Avraham — dan Yitskhak pergi kepada Avimelekh, raja orang Peleshet, ke Gerar.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Maka terjadilah"
+      "gloss": "Lalu terjadilah"
     },
     {
       "surface": "רעב",
@@ -17,7 +17,8 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "di negeri"
+      "gloss": "di negeri itu",
+      "marks": "negeri itu"
     },
     {
       "surface": "מלבד",
@@ -29,7 +30,7 @@
     },
     {
       "surface": "הראשון",
-      "gloss": "yang pertama"
+      "gloss": "pertama"
     },
     {
       "surface": "אשר",
@@ -49,7 +50,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "dan pergilah"
+      "gloss": "dan pergi"
     },
     {
       "surface": "יצחק",
@@ -69,13 +70,13 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "orang-orang Pelishti"
+      "gloss": "orang Peleshet"
     },
     {
       "surface": "גררה",
       "gloss": "ke Gerar"
     }
   ],
-  "timestamp": "2026-08-08T06:48:52.466588733Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.076130268Z",
+  "model": "glm-5.3"
 }

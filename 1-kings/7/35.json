@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 7,
-  "translation": "Dan di kepala ⟨ה⟩ pendirian itu, setengah hasta tingginya, melingkar sekeliling; dan di atas kepala pendirian itu, penyangga-penyangganya dan bingkai-bingkainya, dari padanya.",
+  "translation": "Dan di kepala sangkar itu ada setengah hasta tingginya, melingkar sekeliling; dan di atas kepala sangkarnya ada penyangga-penyangganya dan lisnya — semuanya dari sangkar itu sendiri.",
   "tokens": [
     {
       "surface": "ובראש",
-      "gloss": "Dan di kepala"
+      "gloss": "dan di kepala"
     },
     {
       "surface": "המכונה",
-      "gloss": "⟨ה⟩ pendirian itu"
+      "gloss": "sangkar itu"
     },
     {
       "surface": "חצי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "האמה",
-      "gloss": "⟨ה⟩ hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "קומה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "המכנה",
-      "gloss": "⟨ה⟩ pendirian itu"
+      "gloss": "sangkarnya"
     },
     {
       "surface": "ידתיה",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "ומסגרתיה",
-      "gloss": "dan bingkai-bingkainya"
+      "gloss": "dan lisnya"
     },
     {
       "surface": "ממנה",
-      "gloss": "dari padanya"
+      "gloss": "darinya"
     }
   ],
-  "timestamp": "2026-08-08T11:02:23.252363650Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:11.007028356Z",
+  "model": "glm-5.3"
 }

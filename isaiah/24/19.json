@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 24,
-  "translation": "Hancur, hancurlah ⟨the⟩ bumi! Retak, retaklah bumi! Goyang, goyanglah bumi!",
+  "translation": "Dengan merusak hancur-rusaklah ⟨את⟩ bumi; dengan memecahkan remuk-terhamburlah bumi; dengan menggoyahkan goyang-titahlah bumi.",
   "tokens": [
     {
       "surface": "רעה",
-      "gloss": "hancur"
+      "gloss": "dengan merusak"
     },
     {
       "surface": "התרעעה",
-      "gloss": "hancurlah"
+      "gloss": "hancur-rusaklah"
     },
     {
       "surface": "הארץ",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "פור",
-      "gloss": "retak"
+      "gloss": "dengan memecahkan"
     },
     {
       "surface": "התפוררה",
-      "gloss": "retaklah"
+      "gloss": "remuk-terhamburlah"
     },
     {
       "surface": "ארץ",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "מוט",
-      "gloss": "goyang"
+      "gloss": "dengan menggoyahkan"
     },
     {
       "surface": "התמוטטה",
-      "gloss": "goyanglah"
+      "gloss": "goyang-titahlah"
     },
     {
       "surface": "ארץ",
       "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-08T11:11:10.259958643Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:14.967598420Z",
+  "model": "glm-5.3"
 }

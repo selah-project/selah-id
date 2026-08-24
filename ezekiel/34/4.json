@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 34,
-  "translation": "⟨את⟩ yang lemah kamu tidak kuatkan, dan ⟨את⟩ yang sakit kamu tidak sembuhkan, dan yang patah kamu tidak balut, dan ⟨את⟩ yang tersesat kamu tidak kembalikan, dan ⟨את⟩ yang hilang kamu tidak cari — tetapi dengan kekerasan kamu memerintah ⟨אתם⟩, dan dengan kejam.",
+  "translation": "⟨את⟩ yang lemah tidak kamu kuatkan, dan ⟨את⟩ yang sakit tidak kamu sembuhkan, dan yang patah tidak kamu bebat, dan ⟨את⟩ yang terhalau tidak kamu kembalikan, dan ⟨את⟩ yang hilang tidak kamu cari, dan dengan kekerasan kamu memerintah ⟨את⟩ ⟨אתם⟩ mereka, dan dengan kekejaman.",
   "tokens": [
     {
       "surface": "את",
@@ -51,16 +51,16 @@
     },
     {
       "surface": "חבשתם",
-      "gloss": "kamu balut"
+      "gloss": "kamu bebat"
     },
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "yang tersesat"
+      "marks": "yang terhalau"
     },
     {
       "surface": "הנדחת",
-      "gloss": "yang tersesat"
+      "gloss": "yang terhalau"
     },
     {
       "surface": "לא",
@@ -97,14 +97,14 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "mereka"
     },
     {
       "surface": "ובפרך",
-      "gloss": "dan dengan kejam"
+      "gloss": "dan dengan kekejaman"
     }
   ],
-  "timestamp": "2026-08-09T01:42:39.459231093Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.184366845Z",
+  "model": "glm-5.3"
 }

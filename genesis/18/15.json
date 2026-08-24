@@ -5,27 +5,31 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 18,
-  "translation": "Tetapi Sarah berdusta, berkata: “Aku tidak tertawa,” sebab ia takut. Dan ⟨⟨ia⟩⟩ berkata: “Tidak, tetapi engkau memang tertawa.”",
+  "translation": "Lalu Sarah menyangkal, katanya: “Tidak, aku tidak tertawa,” sebab ia takut. Dan ⟨dia⟩ berkata: “Tidak, sebab engkau memang tertawa.”",
   "tokens": [
     {
-      "surface": "ותכחש",
-      "gloss": "Tetapi berdustalah"
+      "surface": "ויאמר",
+      "gloss": "Lalu"
     },
     {
       "surface": "שרה",
       "gloss": "Sarah"
     },
     {
+      "surface": "ותכחש",
+      "gloss": "menyangkal"
+    },
+    {
       "surface": "לאמר",
-      "gloss": "berkata"
+      "gloss": "katanya"
     },
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "Tidak"
     },
     {
       "surface": "צחקתי",
-      "gloss": "aku tertawa"
+      "gloss": "aku tidak tertawa"
     },
     {
       "surface": "כי",
@@ -37,7 +41,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Dan dia berkata"
     },
     {
       "surface": "לא",
@@ -45,13 +49,13 @@
     },
     {
       "surface": "כי",
-      "gloss": "tetapi"
+      "gloss": "sebab"
     },
     {
       "surface": "צחקת",
-      "gloss": "engkau tertawa"
+      "gloss": "engkau memang tertawa"
     }
   ],
-  "timestamp": "2026-08-08T06:46:18.194674283Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:55.279336406Z",
+  "model": "glm-5.3"
 }

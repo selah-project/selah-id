@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 51,
-  "translation": "Hati yang murni ciptakanlah bagiku, ⟨אלהים⟩, dan roh yang teguh perbaruilah di dalam diriku.",
+  "translation": "Ciptakan bagiku hati yang murni, wahai Elohim, dan perbaruilah ⟨את⟩ roh yang tegak dalam batinku.",
   "tokens": [
     {
       "surface": "לב",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "טהור",
-      "gloss": "yang murni"
+      "gloss": "murni"
     },
     {
       "surface": "ברא",
-      "gloss": "ciptakanlah"
+      "gloss": "ciptakan"
     },
     {
       "surface": "לי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נכון",
-      "gloss": "yang teguh"
+      "gloss": "yang tegak"
     },
     {
       "surface": "חדש",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "בקרבי",
-      "gloss": "di dalam diriku"
+      "gloss": "dalam batinku"
     }
   ],
-  "timestamp": "2026-08-08T11:38:08.620026903Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:38.479060531Z",
+  "model": "glm-5.3"
 }

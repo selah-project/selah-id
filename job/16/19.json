@@ -5,37 +5,37 @@
   "book": "job",
   "lang": "id",
   "chapter": 16,
-  "translation": "Bahkan sekarang, lihat, saksiku ⟨⟨adalah⟩⟩ di langit, dan yang bersaksi atasku ⟨⟨adalah⟩⟩ di tempat-tempat tinggi.",
+  "translation": "Bahkan sekarang, lihatlah, saksiku ⟨ada⟩ di langit, dan yang bersaksi bagiku di tempat tinggi.",
   "tokens": [
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "Bahkan"
     },
     {
-      "surface": "עַ֭תָּה",
+      "surface": "עתה",
       "gloss": "sekarang"
     },
     {
-      "surface": "הִנֵּה",
-      "gloss": "lihat"
+      "surface": "הנה",
+      "gloss": "lihatlah"
     },
     {
-      "surface": "בַשָּׁמַ֣יִם",
+      "surface": "בשמים",
       "gloss": "di langit"
     },
     {
-      "surface": "עֵדִ֑י",
+      "surface": "עדי",
       "gloss": "saksiku"
     },
     {
-      "surface": "וְ֝שָׂהֲדִ֗י",
-      "gloss": "dan yang bersaksi atasku"
+      "surface": "ושהדי",
+      "gloss": "dan yang bersaksi bagiku"
     },
     {
-      "surface": "בַּמְּרוֹמִֽים",
-      "gloss": "di tempat-tempat tinggi"
+      "surface": "במרומים",
+      "gloss": "di tempat tinggi"
     }
   ],
-  "timestamp": "2026-08-08T11:53:00.959513026Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:15.857992160Z",
+  "model": "glm-5.3"
 }

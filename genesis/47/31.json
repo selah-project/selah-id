@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 47,
-  "translation": "Dan ⟨ia⟩ berkata, “Bersumpahlah kepadaku,” dan ⟨ia⟩ bersumpah kepadanya, dan Yisra'el tersungkur ke atas kepala ⟨the⟩ tempat tidur.",
+  "translation": "Lalu berkata: “Bersumpahlah kepadaku.” Maka bersumpahlah kepadanya, dan Yisrael sujud di kepala tempat tidur.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkata"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "השבעה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וישבע",
-      "gloss": "Dan bersumpah"
+      "gloss": "Maka bersumpahlah"
     },
     {
       "surface": "לו",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "וישתחו",
-      "gloss": "Dan tersungkur"
+      "gloss": "sujud"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "על",
-      "gloss": "ke atas"
+      "gloss": "di"
     },
     {
       "surface": "ראש",
@@ -48,6 +48,6 @@
       "gloss": "tempat tidur"
     }
   ],
-  "timestamp": "2026-08-08T10:27:53.234726561Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:36.771023001Z",
+  "model": "glm-5.3"
 }

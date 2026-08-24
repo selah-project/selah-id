@@ -5,51 +5,51 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 5,
-  "translation": "Dan jangan kauingini ⟨אֵשֶׁת⟩ istri rekanmu, dan jangan kaudambakan ⟨בֵּית⟩ rumah rekanmu, padangnya, dan hambanya, dan hambanya, lembunya, dan keledainya, dan segala sesuatu yang bagi rekanmu.",
+  "translation": "Janganlah kauhiraukan istri sesamamu, dan janganlah kauingini rumah sesamamu, ladangnya, hambanya, hambanya perempuan, lembunya, keledainya, dan segala apa pun yang milik sesamamu.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Dan jangan"
+      "gloss": "dan janganlah"
     },
     {
       "surface": "תחמד",
-      "gloss": "kauingini"
+      "gloss": "kauhiraukan"
     },
     {
       "surface": "אשת",
-      "gloss": "⟨את⟩ istri"
+      "gloss": "istri"
     },
     {
       "surface": "רעך",
-      "gloss": "rekanmu"
+      "gloss": "sesamamu"
     },
     {
       "surface": "ולא",
-      "gloss": "dan jangan"
+      "gloss": "dan janganlah"
     },
     {
       "surface": "תתאוה",
-      "gloss": "kaudambakan"
+      "gloss": "kauingini"
     },
     {
       "surface": "בית",
-      "gloss": "⟨את⟩ rumah"
+      "gloss": "rumah"
     },
     {
       "surface": "רעך",
-      "gloss": "rekanmu"
+      "gloss": "sesamamu"
     },
     {
       "surface": "שדהו",
-      "gloss": "padangnya"
+      "gloss": "ladangnya"
     },
     {
       "surface": "ועבדו",
-      "gloss": "dan hambanya"
+      "gloss": "hambanya"
     },
     {
       "surface": "ואמתו",
-      "gloss": "dan hambanya"
+      "gloss": "hambanya perempuan"
     },
     {
       "surface": "שורו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "וחמרו",
-      "gloss": "dan keledainya"
+      "gloss": "keledainya"
     },
     {
       "surface": "וכל",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sesuatu yang"
+      "gloss": "apa pun"
     },
     {
       "surface": "לרעך",
-      "gloss": "bagi rekanmu"
+      "gloss": "yang milik sesamamu"
     }
   ],
-  "timestamp": "2026-08-08T07:25:50.316326569Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:24.839857044Z",
+  "model": "glm-5.3"
 }

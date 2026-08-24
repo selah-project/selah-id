@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 88,
-  "translation": "Engkau telah menjauhkan dariku ⟨האת⟩ kekasih dan sahabat, kenalan-ku ⟨adalah⟩ kegelapan.",
+  "translation": "Engkau telah menjauhkan dari padaku ⟨si⟩ kekasih dan ⟨si⟩ sahabat; kegelapan ⟨ialah⟩ kenalan-kenalanku.",
   "tokens": [
     {
       "surface": "הרחקת",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ממני",
-      "gloss": "dariku"
+      "gloss": "dari padaku"
     },
     {
       "surface": "אהב",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "מידעי",
-      "gloss": "kenalan-ku"
+      "gloss": "kenalan-kenalanku"
     },
     {
       "surface": "מחשך",
       "gloss": "kegelapan"
     }
   ],
-  "timestamp": "2026-08-08T09:19:56.149966148Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:44.557699130Z",
+  "model": "glm-5.3"
 }

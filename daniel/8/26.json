@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan penglihatan ⟨את⟩ petang dan ⟨את⟩ pagi yang telah dikatakan ⟨⟨adalah⟩⟩ benar; dan engkau, sembunyikanlah penglihatan itu, karena untuk hari-hari yang banyak.",
+  "translation": "Dan penglihatan tentang petang dan pagi yang telah dikatakan itu benar; dan engkau, meteraikanlah penglihatan itu, sebab untuk hari-hari yang banyak.",
   "tokens": [
     {
       "surface": "ומראה",
-      "gloss": "dan penglihatan"
+      "gloss": "Dan penglihatan"
     },
     {
       "surface": "הערב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨adalah⟩"
+      "gloss": "itu"
     },
     {
       "surface": "ואתה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "סתם",
-      "gloss": "sembunyikanlah"
+      "gloss": "meteraikanlah"
     },
     {
       "surface": "החזון",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "לימים",
@@ -60,6 +60,6 @@
       "gloss": "yang banyak"
     }
   ],
-  "timestamp": "2026-08-08T09:54:58.295155609Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:38.552105905Z",
+  "model": "glm-5.3"
 }

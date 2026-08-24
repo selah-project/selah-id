@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 115,
-  "translation": "Tetapi Elohim kami ⟨⟨ada⟩⟩ di langit, segala yang berkehendak ⟨Ia⟩ lakukan.",
+  "translation": "Tetapi Elohim kami ⟨⟨adalah⟩⟩ di langit; segala yang Ia kehendaki telah Ia lakukan.",
   "tokens": [
     {
       "surface": "ואלהינו",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "berkehendak"
+      "gloss": "Ia kehendaki"
     },
     {
       "surface": "עשה",
-      "gloss": "lakukan"
+      "gloss": "telah Ia lakukan"
     }
   ],
-  "timestamp": "2026-08-08T11:45:52.822696805Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:27.131002723Z",
+  "model": "glm-5.3"
 }

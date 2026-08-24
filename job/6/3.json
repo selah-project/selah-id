@@ -5,45 +5,45 @@
   "book": "job",
   "lang": "id",
   "chapter": 6,
-  "translation": "Karena sekarang ⟨הוא⟩ lebih berat dari pasir laut; oleh sebab itu perkataanku terburu.",
+  "translation": "Sebab sekarang ⟨ini⟩ lebih berat dari pasir laut-lautan; karena itu kata-kataku terlanjur lalim.",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "Karena"
+      "surface": "כי",
+      "gloss": "Sebab"
     },
     {
-      "surface": "עַתָּ֗ה",
+      "surface": "עתה",
       "gloss": "sekarang"
     },
     {
-      "surface": "מֵח֣וֹל",
-      "gloss": "dari pasir"
+      "surface": "מחול",
+      "gloss": "pasir"
     },
     {
-      "surface": "יַמִּ֣ים",
-      "gloss": "laut"
+      "surface": "ימים",
+      "gloss": "laut-lautan"
     },
     {
-      "surface": "יִכְבָּ֑ד",
-      "gloss": "⟨הוא⟩ lebih berat"
+      "surface": "יכבד",
+      "gloss": "lebih berat"
     },
     {
-      "surface": "עַל",
-      "gloss": "oleh"
+      "surface": "על",
+      "gloss": "dari"
     },
     {
-      "surface": "כֵּ֝֗ן",
-      "gloss": "sebab itu"
+      "surface": "כן",
+      "gloss": "karena itu"
     },
     {
-      "surface": "דְּבָרַ֥י",
-      "gloss": "perkataanku"
+      "surface": "דברי",
+      "gloss": "kata-kataku"
     },
     {
-      "surface": "לָֽעוּ",
-      "gloss": "terburu"
+      "surface": "לעו",
+      "gloss": "terlanjur lalim"
     }
   ],
-  "timestamp": "2026-08-08T11:51:29.849125945Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:48.242520607Z",
+  "model": "glm-5.3"
 }

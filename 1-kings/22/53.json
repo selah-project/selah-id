@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 22,
-  "translation": "Dan ⟨ia⟩ melakukan ⟨ה⟩ jahat di mata Yahweh, dan ⟨ia⟩ berjalan di jalan ayahnya, dan di jalan ibunya, dan di jalan Yarav'am bin Nevat, yang membuat ⟨את⟩ Yisra'el berbuat dosa.",
+  "translation": "Dan ia melakukan yang jahat di mata Yahweh, dan ia berjalan di jalan ayahnya, di jalan ibunya, dan di jalan Yarovam bin Nevat, yang membuat Yisrael ⟨את⟩ berdosa.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "dan ia melakukan"
+      "gloss": "ia melakukan"
     },
     {
       "surface": "הרע",
-      "gloss": "⟨ה⟩ jahat"
+      "gloss": "yang jahat"
     },
     {
       "surface": "בעיני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "dan ia berjalan"
+      "gloss": "ia berjalan"
     },
     {
       "surface": "בדרך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ובדרך",
-      "gloss": "dan di jalan"
+      "gloss": "di jalan"
     },
     {
       "surface": "אמו",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ובדרך",
-      "gloss": "dan di jalan"
+      "gloss": "di jalan"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yarav'am"
+      "gloss": "Yarovam"
     },
     {
       "surface": "בן",
@@ -65,18 +65,18 @@
     },
     {
       "surface": "החטיא",
-      "gloss": "membuat berbuat dosa"
+      "gloss": "membuat berdosa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-08T08:07:55.929558883Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:00.631655906Z",
+  "model": "glm-5.3"
 }

@@ -5,49 +5,54 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 28,
-  "translation": "Juga hal ini, dari sisi Yahweh Tsevaot, telah keluar; ⟨⟨Ia⟩⟩ membuat persembunyian nasihat menjadi keajaiban, ⟨⟨Ia⟩⟩ membuat besar tushiyah.",
+  "translation": "Juga hal ini pun keluar dari Yahweh Tsevaot; ⟨Ia⟩ membuat ⟨את⟩ rencana-Nya ajaib, ⟨Ia⟩ membuat besar kebijaksanaan-Nya.",
   "tokens": [
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "Juga"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "hal ini"
     },
     {
-      "surface": "מֵעִם",
-      "gloss": "dari sisi"
+      "surface": "מעם",
+      "gloss": "dari"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "צְבָאוֹת",
+      "surface": "צבאות",
       "gloss": "Tsevaot"
     },
     {
-      "surface": "יָצָאָה",
-      "gloss": "telah keluar"
+      "surface": "יצאה",
+      "gloss": "keluar"
     },
     {
-      "surface": "הִפְלִיא",
-      "gloss": "membuat keajaiban"
+      "surface": "הפליא",
+      "gloss": "membuat ajaib"
     },
     {
-      "surface": "עֵצָה",
-      "gloss": "nasihat"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rencana-Nya"
     },
     {
-      "surface": "הִגְדִּיל",
+      "surface": "עצה",
+      "gloss": "rencana"
+    },
+    {
+      "surface": "הגדיל",
       "gloss": "membuat besar"
     },
     {
-      "surface": "תּוּשִׁיָּה",
-      "gloss": "tushiyah"
+      "surface": "תושיה",
+      "gloss": "kebijaksanaan"
     }
   ],
-  "timestamp": "2026-08-08T08:21:40.168577611Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:15.371722645Z",
+  "model": "glm-5.3"
 }

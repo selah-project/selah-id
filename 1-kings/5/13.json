@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 5,
-  "translation": "Dan ⟨ia⟩ berbicara tentang pohon-pohon, dari araz yang di Levanon sampai ezov yang tumbuh di dinding; dan ⟨ia⟩ berbicara tentang behemah dan tentang of dan tentang remes dan tentang ikan-ikan.",
+  "translation": "Ia berbicara tentang pohon-pohon, dari araz yang di Levanon sampai ezov yang tumbuh di tembok; ia berbicara juga tentang hewan, tentang burung, tentang binatang melata, dan tentang ikan.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "dan berbicara"
+      "gloss": "ia berbicara"
     },
     {
       "surface": "על",
@@ -36,28 +36,32 @@
       "gloss": "di Levanon"
     },
     {
-      "surface": "ועד",
+      "surface": "וידבר",
       "gloss": "sampai"
     },
     {
       "surface": "האזוב",
-      "gloss": "ezov"
+      "gloss": ""
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": "ezov"
     },
     {
       "surface": "יצא",
-      "gloss": "tumbuh"
+      "gloss": "yang"
     },
     {
       "surface": "בקיר",
-      "gloss": "di dinding"
+      "gloss": "tumbuh keluar"
     },
     {
-      "surface": "וידבר",
-      "gloss": "dan berbicara"
+      "surface": "ועד",
+      "gloss": "di tembok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ia berbicara juga"
     },
     {
       "surface": "על",
@@ -65,33 +69,33 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "behemah"
+      "gloss": "hewan"
     },
     {
       "surface": "ועל",
-      "gloss": "dan tentang"
+      "gloss": "tentang"
     },
     {
       "surface": "העוף",
-      "gloss": "of"
+      "gloss": "burung"
     },
     {
       "surface": "ועל",
-      "gloss": "dan tentang"
+      "gloss": "tentang"
     },
     {
       "surface": "הרמש",
-      "gloss": "remes"
+      "gloss": "binatang melata"
     },
     {
       "surface": "ועל",
-      "gloss": "dan tentang"
+      "gloss": "tentang"
     },
     {
       "surface": "הדגים",
-      "gloss": "ikan-ikan"
+      "gloss": "ikan"
     }
   ],
-  "timestamp": "2026-08-08T08:02:44.079954652Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:19.327423179Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 36,
-  "translation": "Panjang ⟨ו⟩ tirai yang satu tiga puluh hasta, dan lebar ⟨ו⟩ tirai yang satu empat hasta — satu ukuran untuk sebelas tirai.",
+  "translation": "Panjang tirai yang satu tiga puluh hasta, dan lebar tirai yang satu empat hasta — satu ukuran bagi kesebelas tirai itu.",
   "tokens": [
     {
       "surface": "ארך",
-      "gloss": "panjang"
+      "gloss": "Panjang"
     },
     {
       "surface": "היריעה",
-      "gloss": "tirai itu"
+      "gloss": "tirai"
     },
     {
       "surface": "האחת",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "היריעה",
-      "gloss": "tirai itu"
+      "gloss": "tirai"
     },
     {
       "surface": "האחת",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "לעשתי",
-      "gloss": "untuk sebelas"
+      "gloss": "bagi kesebelas"
     },
     {
       "surface": "עשרה",
-      "gloss": "←(gabungan dengan token sebelumnya)"
+      "gloss": ""
     },
     {
       "surface": "יריעת",
       "gloss": "tirai"
     }
   ],
-  "timestamp": "2026-08-08T10:32:08.821251230Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:27.594739093Z",
+  "model": "glm-5.3"
 }

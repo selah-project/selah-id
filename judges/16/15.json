@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "id",
   "chapter": 16,
-  "translation": "Lalu ⟨ia⟩ berkata kepadanya: “Bagaimana engkau berkata: ‘Aku mengasihi engkau,’ padahal hatimu tidak bersama aku? Sudah tiga kali engkau memperolok-olokkan aku, dan belum pun engkau beritahukan kepadaku dengan apa kekuatanmu begitu besar.”",
+  "translation": "Lalu ⟨ia⟩ berkata kepadanya: “Bagaimana engkau berkata: ‘Aku mengasihi engkau,’ padahal hatimu tidak ⟨את⟩ bersama aku? Sudah tiga kali engkau memperolok-olokkan aku, dan belum pun engkau beritahukan kepadaku dengan apa kekuatanmu begitu besar.”",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersama aku"
+      "gloss": "⟨את⟩ bersama aku"
     },
     {
       "surface": "זה",
@@ -84,6 +84,6 @@
       "gloss": "begitu besar"
     }
   ],
-  "timestamp": "2026-08-08T07:43:41.907697767Z",
+  "timestamp": "2026-08-24T17:55:27.106830454Z",
   "model": "glm-5.2"
 }

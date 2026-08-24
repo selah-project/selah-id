@@ -5,10 +5,10 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 8,
-  "translation": "Maka Aharon berbuat demikian; ke depan wajah kandil itu ia menaikkan pelita-pelitanya, seperti yang diperintahkan Yahweh ⟨את⟩ Mosheh.",
+  "translation": "Maka Aharon berbuat demikian; ke arah depan menorah itulah ia menaikkan lampu-lampunya, seperti yang diperintahkan Yahweh ⟨את⟩ Moshe.",
   "tokens": [
     {
-      "surface": "ויעש",
+      "surface": "ו יעש",
       "gloss": "Maka berbuat"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ke"
+      "gloss": "ke arah"
     },
     {
       "surface": "מול",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "wajah"
+      "gloss": "wajah\/depan"
     },
     {
-      "surface": "המנורה",
-      "gloss": "⟨the⟩ kandil"
+      "surface": "ה מנורה",
+      "gloss": "menorah itu"
     },
     {
       "surface": "העלה",
@@ -41,10 +41,10 @@
     },
     {
       "surface": "נרתיה",
-      "gloss": "pelita-pelitanya"
+      "gloss": "lampu-lampunya"
     },
     {
-      "surface": "כאשר",
+      "surface": "כ אשר",
       "gloss": "seperti yang"
     },
     {
@@ -58,13 +58,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mosheh"
+      "marks": "Moshe"
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-08T07:16:29.022032048Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:57.536443277Z",
+  "model": "glm-5.3"
 }

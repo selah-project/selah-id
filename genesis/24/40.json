@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 24,
-  "translation": "Maka katanya kepadaku: Yahweh, yang di hadapan-Nya aku telah hidup bertekun, akan mengutus ⟨את⟩ utusan-Nya beserta engkau, dan Ia akan membuat jalanmu berhasil, dan engkau akan mengambil ⟨את⟩ seorang istri untuk anakku dari kaum keluargaku dan dari rumah ayahku.",
+  "translation": "Maka katanya kepadaku: Yahweh, yang di hadapan-Nya aku telah hidup bertekun, akan mengutus ⟨את⟩ utusan-Nya ⟨את⟩ beserta engkau, dan Ia akan membuat jalanmu berhasil, dan engkau akan mengambil ⟨את⟩ seorang istri untuk anakku dari kaum keluargaku dan dari rumah ayahku.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "beserta engkau"
+      "gloss": "⟨את⟩ beserta engkau"
     },
     {
       "surface": "והצליח",
@@ -76,6 +76,6 @@
       "gloss": "ayahku"
     }
   ],
-  "timestamp": "2026-08-08T06:48:29.799017205Z",
+  "timestamp": "2026-08-24T17:55:27.089099290Z",
   "model": "glm-5.2"
 }

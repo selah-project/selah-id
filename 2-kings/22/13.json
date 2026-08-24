@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 22,
-  "translation": "Pergilah, carilah ⟨את⟩ Yahweh untukku dan untuk ⟨the⟩ bangsa ini dan untuk seluruh Yehudah, mengenai perkataan kitab yang ditemukan ini, sebab besar murka Yahweh yang menyala-nyala terhadap kita, oleh karena nenek moyang kita tidak mendengarkan perkataan kitab ini, untuk melakukan seluruh yang tertulis untuk kita.",
+  "translation": "“Pergilah, carilah Yahweh ⟨את⟩ untukku, untuk umat, dan untuk seluruh Yehudah, tentang perkata-perkata kitab yang ditemukan ini, sebab besar kemurkaan Yahweh yang menyala terhadap kami, karena bapa-bapa leluhur kami tidak mendengarkan perkata-perkata kitab ini, dengan melakukan segala yang tertulis tentang kami.”",
   "tokens": [
     {
       "surface": "לכו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ bangsa ini"
+      "gloss": "umat"
     },
     {
       "surface": "ובעד",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "על",
-      "gloss": "mengenai"
+      "gloss": "tentang"
     },
     {
       "surface": "דברי",
-      "gloss": "perkataan"
+      "gloss": "perkata-perkata"
     },
     {
       "surface": "הספר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "חמת",
-      "gloss": "murka"
+      "gloss": "kemurkaan"
     },
     {
       "surface": "יהוה",
@@ -90,23 +90,23 @@
     },
     {
       "surface": "היא",
-      "gloss": "ia"
+      "gloss": "⟨ia⟩"
     },
     {
       "surface": "נצתה",
-      "gloss": "menyala-nyala"
+      "gloss": "menyala"
     },
     {
       "surface": "בנו",
-      "gloss": "terhadap kita"
+      "gloss": "terhadap kami"
     },
     {
       "surface": "על",
-      "gloss": "oleh karena"
+      "gloss": "karena"
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": ""
     },
     {
       "surface": "לא",
@@ -118,7 +118,7 @@
     },
     {
       "surface": "אבתינו",
-      "gloss": "nenek moyang kita"
+      "gloss": "bapa-bapa leluhur kami"
     },
     {
       "surface": "על",
@@ -126,7 +126,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "perkataan"
+      "gloss": "perkata-perkata"
     },
     {
       "surface": "הספר",
@@ -138,21 +138,21 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "untuk melakukan"
+      "gloss": "dengan melakukan"
     },
     {
       "surface": "ככל",
-      "gloss": "seluruh"
+      "gloss": "segala yang"
     },
     {
       "surface": "הכתוב",
-      "gloss": "yang tertulis"
+      "gloss": "tertulis"
     },
     {
       "surface": "עלינו",
-      "gloss": "untuk kita"
+      "gloss": "tentang kami"
     }
   ],
-  "timestamp": "2026-08-08T08:14:42.588050389Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:27.244031043Z",
+  "model": "glm-5.3"
 }

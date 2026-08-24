@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 31,
-  "translation": "Dan seluruh emas persembahan yang mereka angkat untuk Yahweh ⟨adalah⟩ enam belas ribu tujuh ratus lima puluh syikel, dari para pemimpin ribuan dan dari para pemimpin ratusan.",
+  "translation": "Dan seluruh emas persembahan yang mereka angkat untuk Yahweh ⟨adalah⟩ enam belas ribu tujuh ratus lima puluh syikel, dari para pemimpin ribuan ⟨את⟩ dan dari para pemimpin ratusan.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩ dari"
     },
     {
       "surface": "שרי",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "ומאת",
-      "gloss": "dan dari"
+      "gloss": "⟨את⟩ dan dari"
     },
     {
       "surface": "שרי",
@@ -88,6 +88,6 @@
       "gloss": "ratusan"
     }
   ],
-  "timestamp": "2026-08-08T07:23:10.395025735Z",
+  "timestamp": "2026-08-24T17:55:27.236480260Z",
   "model": "glm-5.2"
 }

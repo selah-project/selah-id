@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 3,
-  "translation": "Lalu Yehoshafat berkata, “Tidak adakah di sini nabi bagi Yahweh, dan kita akan menanyakan ⟨את⟩ Yahweh melalui dia?” Lalu menjawablah satu dari hamba-hamba raja Yisra'el dan berkata, “Di sini ⟨ada⟩ Elisha ben Shafat yang mencurahkan air ke atas tangan Elyahu.”",
+  "translation": "Lalu Yehoshafat berkata, “Tidak adakah di sini nabi bagi Yahweh, dan kita akan menanyakan ⟨את⟩ Yahweh ⟨את⟩ melalui dia?” Lalu menjawablah satu dari hamba-hamba raja Yisra'el dan berkata, “Di sini ⟨ada⟩ Elisha ben Shafat yang mencurahkan air ke atas tangan Elyahu.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מאותו",
-      "gloss": "melalui dia"
+      "gloss": "⟨את⟩ melalui dia"
     },
     {
       "surface": "ויען",
@@ -113,6 +113,6 @@
       "gloss": "Elyahu"
     }
   ],
-  "timestamp": "2026-08-08T11:06:03.028030580Z",
+  "timestamp": "2026-08-24T17:55:27.193321431Z",
   "model": "glm-5.2"
 }

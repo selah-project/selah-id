@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 8,
-  "translation": "Tidak ada di dalam ⟨ה⟩ aron, hanya dua loh batu yang ditaruh Mosheh di sana di Khorayv, yang dipotong Yahweh bersama bani Yisraél ketika mereka keluar dari tanah Mitsrayim.",
+  "translation": "Tidak ada apa-apa di dalam Aron itu, hanya dua loh batu yang diletakkan Moshe di sana di Khorèv, yang diikat Yahweh dengan bani Israel ketika mereka keluar dari tanah Mitsrayim (Mesir).",
   "tokens": [
     {
       "surface": "אין",
-      "gloss": "Tidak ada"
+      "gloss": "tidak ada apa-apa"
     },
     {
       "surface": "בארון",
-      "gloss": "di dalam aron"
+      "gloss": "di dalam Aron"
     },
     {
       "surface": "רק",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הנח",
-      "gloss": "ditaruh"
+      "gloss": "diletakkan"
     },
     {
       "surface": "שם",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Moshe"
     },
     {
       "surface": "בחרב",
-      "gloss": "di Khorayv"
+      "gloss": "di Khorèv"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "כרת",
-      "gloss": "dipotong"
+      "gloss": "diikat (perjanjian)"
     },
     {
       "surface": "יהוה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "bersama"
+      "gloss": "dengan"
     },
     {
       "surface": "בני",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraél"
+      "gloss": "Israel"
     },
     {
       "surface": "בצאתם",
@@ -88,6 +88,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-08T08:03:38.924586901Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:34.156858974Z",
+  "model": "glm-5.3"
 }

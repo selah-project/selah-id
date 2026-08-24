@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 47,
-  "translation": "Dan Yosef menetapkan ⟨את⟩-nya menjadi ketetapan sampai hari ini atas tanah Mitsrayim bagi Paroh ⟨yaitu⟩ seperlima; hanya tanah ⟨ה⟩ imam-imam saja tidak menjadi milik Paroh.",
+  "translation": "Dan Yosef menetapkannya ⟨את⟩ menjadi ketetapan sampai hari ini atas tanah Mitsrayim, bagi Paro seperlima; hanya tanah para imam milik mereka sendiri, tidaklah menjadi milik Paro.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "Dan menetapkan"
+      "gloss": "dan menetapkannya"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "Yosef"
+      "marks": "Yosef (objek: ketetapan itu)"
     },
     {
       "surface": "יוסף",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "לפרעה",
-      "gloss": "bagi Paroh"
+      "gloss": "bagi Paro"
     },
     {
       "surface": "לחמש",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "imam-imam"
+      "gloss": "para imam"
     },
     {
       "surface": "לבדם",
-      "gloss": "saja"
+      "gloss": "milik mereka sendiri"
     },
     {
       "surface": "לא",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "היתה",
-      "gloss": "menjadi milik"
+      "gloss": "menjadi"
     },
     {
       "surface": "לפרעה",
-      "gloss": "bagi Paroh"
+      "gloss": "milik Paro"
     }
   ],
-  "timestamp": "2026-08-08T06:54:22.472249661Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:30.495095109Z",
+  "model": "glm-5.3"
 }

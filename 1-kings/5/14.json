@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 5,
-  "translation": "Dan datang dari segala bangsa-bangsa untuk mendengar ⟨את⟩ hikmat Shelomoh, dari sisi segala raja-raja bumi yang telah mendengar ⟨את⟩ hikmatnya.",
+  "translation": "Dan datang dari segala bangsa-bangsa untuk mendengar ⟨את⟩ hikmat Shelomoh, ⟨את⟩ dari sisi segala raja-raja bumi yang telah mendengar ⟨את⟩ hikmatnya.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari sisi"
+      "gloss": "⟨את⟩ dari sisi"
     },
     {
       "surface": "כל",
@@ -70,6 +70,6 @@
       "gloss": "hikmatnya"
     }
   ],
-  "timestamp": "2026-08-08T08:02:44.080240583Z",
+  "timestamp": "2026-08-24T17:55:27.248185416Z",
   "model": "glm-5.2"
 }

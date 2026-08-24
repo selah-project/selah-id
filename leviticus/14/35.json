@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 14,
-  "translation": "maka pemilik rumah itu datang dan memberitahukan kepada imam, dengan mengatakan: ‘Seperti suatu נגע telah terlihat olehku di rumah.’",
+  "translation": "Maka datanglah pemilik ⟨את⟩-rumah itu dan memberitahukan kepada ⟨את⟩-sang kohen, katanya: “Seperti נגע tampak kepadaku di ⟨את⟩-rumah itu.”",
   "tokens": [
     {
       "surface": "ובא",
-      "gloss": "maka datang"
+      "gloss": "Maka datanglah"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "baginya"
+      "gloss": "baginya (miliknya)"
     },
     {
       "surface": "הבית",
@@ -29,29 +29,29 @@
     },
     {
       "surface": "לכהן",
-      "gloss": "kepada imam"
+      "gloss": "kepada sang kohen"
     },
     {
       "surface": "לאמר",
-      "gloss": "dengan mengatakan"
+      "gloss": "katanya"
     },
     {
       "surface": "כנגע",
-      "gloss": "seperti suatu נגע"
+      "gloss": "seperti נגע"
     },
     {
       "surface": "נראה",
-      "gloss": "telah terlihat"
+      "gloss": "tampak"
     },
     {
       "surface": "לי",
-      "gloss": "olehku"
+      "gloss": "kepadaku"
     },
     {
       "surface": "בבית",
-      "gloss": "di rumah"
+      "gloss": "di rumah itu"
     }
   ],
-  "timestamp": "2026-08-08T07:09:33.323913707Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:34.079848413Z",
+  "model": "glm-5.3"
 }

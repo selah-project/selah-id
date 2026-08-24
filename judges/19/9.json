@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "id",
   "chapter": 19,
-  "translation": "Lalu bangunlah ⟨האיש⟩ itu untuk berjalan, dia dan pilagesy-nya dan na'ar-nya; dan berkatalah kepada-nya mertua-nya, ayah dari ⟨הנערה⟩ itu: “Lihatlah, kiranya mereda hari ini menjelang senja; bermalamlah kiranya; lihatlah, hari ini semakin condong; bermalamlah di sini, dan baiklah hati-mu, dan pagi-pagi berangkatlah kalian besok menuju perjalanan-mu, dan berjalanlah ke kemah-mu.”",
+  "translation": "Lalu bangunlah laki-laki itu untuk berangkat, ia serta pilagesnya dan bujangnya; namun mertuanya, ayah si gadis itu, berkata kepadanya, “Lihatlah, kiranya hari sudah lengang, menjelang senja; bermalamlah, kiranya; lihatlah, matahari telah condong — bermalamlah di sini, supaya hatimu ditenangkan, dan pagi-pagi besok kamu bangkit menuju jalanmu, lalu engkau pulang ke kemahmu.”",
   "tokens": [
     {
       "surface": "ויקם",
@@ -13,35 +13,35 @@
     },
     {
       "surface": "האיש",
-      "gloss": "⟨האיש⟩ itu"
+      "gloss": "laki-laki itu"
     },
     {
       "surface": "ללכת",
-      "gloss": "untuk berjalan"
+      "gloss": "untuk berangkat"
     },
     {
       "surface": "הוא",
-      "gloss": "dia"
+      "gloss": "ia"
     },
     {
       "surface": "ופילגשו",
-      "gloss": "dan pilagesy-nya"
+      "gloss": "serta pilagesnya"
     },
     {
       "surface": "ונערו",
-      "gloss": "dan na'ar-nya"
+      "gloss": "dan bujangnya"
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan berkatalah"
+      "gloss": "namun berkatalah"
     },
     {
       "surface": "לו",
-      "gloss": "kepada-nya"
+      "gloss": "kepadanya"
     },
     {
       "surface": "חתנו",
-      "gloss": "mertua-nya"
+      "gloss": "mertuanya"
     },
     {
       "surface": "אבי",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הנערה",
-      "gloss": "dari ⟨הנערה⟩ itu"
+      "gloss": "si gadis itu"
     },
     {
       "surface": "הנה",
-      "gloss": "lihatlah"
+      "gloss": "Lihatlah"
     },
     {
       "surface": "נא",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "רפה",
-      "gloss": "mereda"
+      "gloss": "sudah lengang"
     },
     {
       "surface": "היום",
-      "gloss": "hari ini"
+      "gloss": "hari"
     },
     {
       "surface": "לערב",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "חנות",
-      "gloss": "semakin condong"
+      "gloss": "telah condong"
     },
     {
       "surface": "היום",
-      "gloss": "hari ini"
+      "gloss": "matahari\/hari"
     },
     {
       "surface": "לין",
@@ -101,15 +101,15 @@
     },
     {
       "surface": "וייטב",
-      "gloss": "dan baiklah"
+      "gloss": "supaya ditenangkan"
     },
     {
       "surface": "לבבך",
-      "gloss": "hati-mu"
+      "gloss": "hatimu"
     },
     {
       "surface": "והשכמתם",
-      "gloss": "dan pagi-pagi berangkatlah kalian"
+      "gloss": "dan kamu bangkit pagi-pagi"
     },
     {
       "surface": "מחר",
@@ -117,17 +117,17 @@
     },
     {
       "surface": "לדרככם",
-      "gloss": "menuju perjalanan-mu"
+      "gloss": "menuju jalanmu"
     },
     {
       "surface": "והלכת",
-      "gloss": "dan berjalanlah"
+      "gloss": "lalu engkau pergi"
     },
     {
       "surface": "לאהלך",
-      "gloss": "ke kemah-mu"
+      "gloss": "ke kemahmu"
     }
   ],
-  "timestamp": "2026-08-08T07:44:11.967967764Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:19.806187530Z",
+  "model": "glm-5.3"
 }

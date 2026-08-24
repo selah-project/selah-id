@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 28,
-  "translation": "Inilah perkata-perkataan ⟨את⟩ berit yang diperintahkan Yahweh kepada Mosheh untuk mengikat ⟨את⟩ bani Yisra'el di tanah Moav, selain ⟨את⟩ berit yang telah diikat-Nya dengan mereka di Horev.",
+  "translation": "Inilah perkata-perkataan ⟨את⟩ berit yang diperintahkan Yahweh kepada Mosheh untuk mengikat ⟨את⟩ bani Yisra'el di tanah Moav, selain ⟨את⟩ berit yang telah diikat-Nya ⟨את⟩ dengan mereka di Horev.",
   "tokens": [
     {
       "surface": "אֵלֶּה",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "אִתָּם",
-      "gloss": "dengan mereka"
+      "gloss": "⟨את⟩ dengan mereka"
     },
     {
       "surface": "בְּחֹרֵב",
       "gloss": "di Horev"
     }
   ],
-  "timestamp": "2026-08-08T07:31:02.164287037Z",
+  "timestamp": "2026-08-24T17:55:27.176628722Z",
   "model": "glm-5.2"
 }

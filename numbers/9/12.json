@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 9,
-  "translation": "Mereka tidak akan menyisakan daripadanya sampai pagi, dan tulang tidak akan mereka patahkan padanya; menurut seluruh ketetapan ⟨ה⟩ Paskah mereka akan membuatnya ⟨את⟩.",
+  "translation": "Janganlah mereka meninggalkan sesuatu daripadanya sampai pagi, dan tulang tidaklah mereka patahkan padanya; menurut segala ketetapan Pesakh mereka harus merayakannya ⟨את⟩.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "Janganlah"
     },
     {
       "surface": "ישאירו",
-      "gloss": "mereka akan menyisakan"
+      "gloss": "mereka meninggalkan"
     },
     {
       "surface": "ממנו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ישברו",
-      "gloss": "mereka akan patahkan"
+      "gloss": "mereka patahkan"
     },
     {
       "surface": "בו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ככל",
-      "gloss": "menurut seluruh"
+      "gloss": "menurut segala"
     },
     {
       "surface": "חקת",
@@ -53,18 +53,18 @@
     },
     {
       "surface": "הפסח",
-      "gloss": "Paskah"
+      "gloss": "Pesakh"
     },
     {
       "surface": "יעשו",
-      "gloss": "mereka akan membuat"
+      "gloss": "mereka harus merayakannya"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dia (Paskah)"
+      "marks": "merayakannya (Pesakh)"
     }
   ],
-  "timestamp": "2026-08-08T10:41:01.568272316Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:26.279985867Z",
+  "model": "glm-5.3"
 }

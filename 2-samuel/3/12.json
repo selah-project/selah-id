@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 3,
-  "translation": "Lalu Avner mengirim utusan kepada David atas namanya, mengatakan: “Kepada siapa ⟨milik⟩ negeri ini?” — mengatakan: “Potonglah ⟨suatu⟩ perjanjianmu dengan saya, dan lihat, tangan saya bersama dengan engkau, untuk mempertemukan kepadamu ⟨את⟩ seluruh Yisra'el.”",
+  "translation": "Lalu Avner mengirim utusan kepada David atas namanya, mengatakan: “Kepada siapa ⟨milik⟩ negeri ini?” — mengatakan: “Potonglah ⟨suatu⟩ perjanjianmu ⟨את⟩ dengan saya, dan lihat, tangan saya bersama dengan engkau, untuk mempertemukan kepadamu ⟨את⟩ seluruh Yisra'el.”",
   "tokens": [
     {
       "surface": "וישלח",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "dengan saya"
+      "gloss": "⟨את⟩ dengan saya"
     },
     {
       "surface": "והנה",
@@ -93,6 +93,6 @@
       "gloss": "Yisra'el"
     }
   ],
-  "timestamp": "2026-08-08T07:52:47.247025356Z",
+  "timestamp": "2026-08-24T17:55:27.051288511Z",
   "model": "glm-5.2"
 }

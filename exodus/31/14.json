@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 31,
-  "translation": "Dan kamu harus menjaga ⟨את⟩ hari-Sabat, sebab kudus ⟨itu⟩ bagimu; siapa yang menajiskannya — maut akan dipakaikan maut, sebarang siapa yang melakukan di dalamnya pekerjaan, dan terpenggalah ⟨הנפש⟩ diri itu dari tengah kaumnya.",
+  "translation": "Dan kamu harus memelihara ⟨את⟩ shabbat, sebab kudus ⟨ia⟩ bagi kamu; para pelanggarnya pasti dihukum mati, sebab setiap orang yang melakukan pekerjaan padanya, ⟨nafsho⟩ itu akan dipunahkan dari tengah bangsanya.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Dan kamu harus menjaga"
+      "gloss": "dan kamu harus memelihara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hari-Sabat"
+      "marks": "shabbat"
     },
     {
       "surface": "השבת",
-      "gloss": "hari-Sabat"
+      "gloss": "shabbat"
     },
     {
       "surface": "כי",
@@ -30,31 +30,31 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨itu⟩"
+      "gloss": "ia"
     },
     {
       "surface": "לכם",
-      "gloss": "bagimu"
+      "gloss": "bagi kamu"
     },
     {
       "surface": "מחלליה",
-      "gloss": "siapa yang menajiskannya"
+      "gloss": "para pelanggarnya"
     },
     {
       "surface": "מות",
-      "gloss": "maut"
+      "gloss": "hukuman mati"
     },
     {
       "surface": "יומת",
-      "gloss": "akan dipakaikan maut"
+      "gloss": "pasti dihukum mati"
     },
     {
       "surface": "כי",
-      "gloss": "sebarang"
+      "gloss": "sebab"
     },
     {
       "surface": "כל",
-      "gloss": "siapa"
+      "gloss": "setiap"
     },
     {
       "surface": "העשה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "di dalamnya"
+      "gloss": "padanya"
     },
     {
       "surface": "מלאכה",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "ונכרתה",
-      "gloss": "dan terpenggalah"
+      "gloss": "akan dipunahkan"
     },
     {
       "surface": "הנפש",
-      "gloss": "diri"
+      "gloss": "nafsho (orang) itu"
     },
     {
       "surface": "ההוא",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "עמיה",
-      "gloss": "kaumnya"
+      "gloss": "bangsanya"
     }
   ],
-  "timestamp": "2026-08-08T07:03:17.091189435Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:03.115171401Z",
+  "model": "glm-5.3"
 }

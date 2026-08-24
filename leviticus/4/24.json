@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 4,
-  "translation": "dan ia harus meletakkan tangannya di atas kepala kambing itu, dan menyembelihnya di tempat di mana ⟨הוא⟩ menyembelih ⟨את⟩ korban bakaran di hadapan Yahweh — ⟨ini⟩ korban dosa ⟨itu⟩.",
+  "translation": "Dan ia akan meletakkan tangannya di atas kepala ⟨השעיר⟩ si kambing jantan itu, dan menyembelihnya ⟨את⟩ ⟨אתו⟩ di tempat où ⟨tempat⟩ ia menyembelih ⟨את⟩ korban bakaran di hadapan Yahweh; ⟨ini⟩ korban penghapus dosa ⟨itu⟩.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "dan ia harus meletakkan"
+      "gloss": "Dan ia akan meletakkan"
     },
     {
       "surface": "ידו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "השעיר",
-      "gloss": "kambing itu"
+      "gloss": "si kambing jantan itu"
     },
     {
       "surface": "ושחט",
@@ -33,8 +33,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩nya",
-      "marks": "kambing itu"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "ia (si kambing jantan)"
     },
     {
       "surface": "במקום",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "di mana"
+      "gloss": "yang"
     },
     {
       "surface": "ישחט",
-      "gloss": "⟨dia⟩ menyembelih"
+      "gloss": "ia menyembelih"
     },
     {
       "surface": "את",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "חטאת",
-      "gloss": "korban dosa"
+      "gloss": "korban penghapus dosa"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨itu⟩"
+      "gloss": "itu"
     }
   ],
-  "timestamp": "2026-08-08T10:33:52.344903623Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.206949104Z",
+  "model": "glm-5.3"
 }

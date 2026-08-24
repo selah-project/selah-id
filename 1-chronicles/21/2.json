@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 21,
-  "translation": "Lalu berkatalah Dawid kepada Yoav dan kepada para panglima ⟨ה⟩ rakyat, “Pergilah, hitunglah ⟨את⟩ Yisra'el dari Be'er-Sheva sampai ke Dan, dan bawalah ⟨hasilnya⟩ kepadaku, supaya aku mengetahui ⟨את⟩ jumlah mereka.”",
+  "translation": "Lalu Dawid berkata kepada Yoab dan kepada para pemimpin ⟨ה⟩ orang banyak itu: “Pergilah, hitunglah ⟨את⟩ Yisrael dari Beer-Sheba sampai ke Dan, dan bawalah kepadaku, supaya aku mengetahui ⟨את⟩ jumlah mereka.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "lalu berkatalah"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "דויד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Yoav"
+      "gloss": "Yoab"
     },
     {
       "surface": "ואל",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "שרי",
-      "gloss": "para panglima"
+      "gloss": "para pemimpin"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ rakyat"
+      "gloss": "⟨ה⟩ orang banyak itu"
     },
     {
       "surface": "לכו",
-      "gloss": "pergilah"
+      "gloss": "Pergilah"
     },
     {
       "surface": "ספרו",
@@ -46,19 +46,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Yisrael"
     },
     {
-      "surface": "י�שראל",
-      "gloss": "Yisra'el"
+      "surface": "ישראל",
+      "gloss": "Yisrael"
     },
     {
       "surface": "מבאר",
-      "gloss": "dari Be'er"
+      "gloss": "dari Beer-"
     },
     {
       "surface": "שבע",
-      "gloss": "Sheva"
+      "gloss": "-Sheba"
     },
     {
       "surface": "ועד",
@@ -90,6 +90,6 @@
       "gloss": "jumlah mereka"
     }
   ],
-  "timestamp": "2026-08-08T10:08:26.014575880Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:28.421596160Z",
+  "model": "glm-5.3"
 }

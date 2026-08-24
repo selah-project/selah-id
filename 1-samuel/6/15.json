@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 6,
-  "translation": "Dan orang-orang Levi menurunkan ⟨את⟩ aron Yahweh dan ⟨את⟩ ha-argaz yang besertanya, yang di dalamnya ada perlengkapan emas, dan meletakkannya ke atas ha-even ha-gedolah itu; dan orang-orang Beit-Shemesh menaikkan olot dan menyembelih zevachim pada hari itu bagi Yahweh.",
+  "translation": "Dan orang-orang Levi menurunkan ⟨את⟩ aron Yahweh dan ⟨את⟩ ha-argaz yang ⟨את⟩ besertanya, yang di dalamnya ada perlengkapan emas, dan meletakkannya ke atas ha-even ha-gedolah itu; dan orang-orang Beit-Shemesh menaikkan olot dan menyembelih zevachim pada hari itu bagi Yahweh.",
   "tokens": [
     {
       "surface": "והלוים",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "besertanya"
+      "gloss": "⟨את⟩ besertanya"
     },
     {
       "surface": "אשר",
@@ -118,6 +118,6 @@
       "gloss": "bagi Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T07:46:24.236896464Z",
+  "timestamp": "2026-08-24T17:55:27.175305008Z",
   "model": "glm-5.2"
 }

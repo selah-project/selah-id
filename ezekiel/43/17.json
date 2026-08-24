@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 43,
-  "translation": "Dan ⟨the⟩ pelana empat belas hasta panjangnya, dan empat belas hasta lebarnya, pada empat sisi-sudutnya; dan batas sekelilingnya ⟨adalah⟩ setengah hasta, dan ⟨the⟩ cucuran baginya satu hasta sekeliling, dan anak tangga ⟨its⟩ menghadap ke timur.",
+  "translation": "Dan ⟨sisi⟩ ⟨itu⟩ empat belas hasta panjangnya, empat belas hasta lebarnya, pada ⟨empat⟩ sisinya; dan batas sekelilingnya setengah hasta, dan paritnya satu hasta sekeliling; dan anak tangganya menghadap ke timur.",
   "tokens": [
     {
       "surface": "והעזרה",
-      "gloss": "dan ⟨the⟩ pelana"
+      "gloss": "dan sisi"
     },
     {
       "surface": "ארבע",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "רבעיה",
-      "gloss": "sisi-sudutnya"
+      "gloss": "sisinya"
     },
     {
       "surface": "והגבול",
@@ -58,7 +58,7 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "sekelilingnya"
+      "marks": "setengah hasta"
     },
     {
       "surface": "חצי",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "והחיק",
-      "gloss": "dan ⟨the⟩ cucuran"
+      "gloss": "dan paritnya"
     },
     {
       "surface": "לה",
-      "gloss": "baginya"
+      "gloss": "untuknya"
     },
     {
       "surface": "אמה",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "ומעלתהו",
-      "gloss": "dan anak tangga ⟨its⟩"
+      "gloss": "dan anak tangganya"
     },
     {
       "surface": "פנות",
@@ -97,6 +97,6 @@
       "gloss": "ke timur"
     }
   ],
-  "timestamp": "2026-08-08T08:55:41.373589175Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:28.833789Z",
+  "model": "glm-5.3"
 }

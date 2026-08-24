@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 22,
-  "translation": "Maka orang laki-laki yang telentang bersamanya akan memberikan kepada ayah ⟨הנער⟩ sang gadis lima puluh syekel perak, dan bagi dia ⟨היא⟩ akan menjadi istrinya, sebagai ganti karena dia telah merendahkan dia; dia tidak akan dapat mengirim dia pergilah segala hari-hari hidupnya.",
+  "translation": "Maka orang laki-laki yang berbaring bersamanya itu harus memberikan kepada ayah ⟨הנער⟩ sang gadis itu lima puluh ⟨syikal⟩ perak, dan perempuan itu akan menjadi istrinya, karena ia telah menghinakannya; ia tidak boleh menceraikannya sepanjang umurnya.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "dan memberikan"
+      "gloss": "harus memberikan"
     },
     {
       "surface": "האיש",
-      "gloss": "orang laki-laki"
+      "gloss": "orang laki-laki itu"
     },
     {
       "surface": "השכב",
-      "gloss": "yang telentang"
+      "gloss": "yang berbaring"
     },
     {
       "surface": "עמה",
@@ -41,27 +41,27 @@
     },
     {
       "surface": "ולו",
-      "gloss": "dan bagi dia"
+      "gloss": "dan kepadanya"
     },
     {
       "surface": "תהיה",
-      "gloss": "dia akan menjadi"
+      "gloss": "akan menjadi"
     },
     {
       "surface": "לאשה",
-      "gloss": "menjadi istrinya"
+      "gloss": "istrinya"
     },
     {
       "surface": "תחת",
-      "gloss": "sebagai ganti"
-    },
-    {
-      "surface": "אשר",
       "gloss": "karena"
     },
     {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
       "surface": "ענה",
-      "gloss": "dia telah merendahkan"
+      "gloss": "telah menghinakannya"
     },
     {
       "surface": "לא",
@@ -69,21 +69,21 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "dia akan dapat"
+      "gloss": "boleh"
     },
     {
       "surface": "שלחה",
-      "gloss": "mengirim dia pergi"
+      "gloss": "menceraikannya"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "sepanjang"
     },
     {
       "surface": "ימיו",
-      "gloss": "hari-hari hidupnya"
+      "gloss": "umurnya"
     }
   ],
-  "timestamp": "2026-08-09T01:39:28.311584813Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:57.488746838Z",
+  "model": "glm-5.3"
 }

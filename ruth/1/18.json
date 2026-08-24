@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "id",
   "chapter": 1,
-  "translation": "Maka ⟨ia⟩ melihat bahwa teguh ⟨sahaja⟩ ia untuk berjalan bersama-sama dia, dan ia berhenti berbicara kepadanya.",
+  "translation": "Maka ⟨ia⟩ melihat bahwa teguh ⟨sahaja⟩ ia untuk berjalan ⟨את⟩ bersama-sama dia, dan ia berhenti berbicara kepadanya.",
   "tokens": [
     {
       "surface": "ותרא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "bersama-sama dia"
+      "gloss": "⟨את⟩ bersama-sama dia"
     },
     {
       "surface": "ותחדל",
@@ -44,6 +44,6 @@
       "gloss": "kepadanya"
     }
   ],
-  "timestamp": "2026-08-08T09:47:06.271439699Z",
+  "timestamp": "2026-08-24T17:55:27.155031653Z",
   "model": "glm-5.2"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 141,
-  "translation": "Karena kepada-Mulah, Yahweh, Adonai, mataku; pada-Mu aku berlindung; jangan kaukosongkan ⟨the⟩ napasku.",
+  "translation": "Sebab kepada-Mu, Yahweh, Adonai, mataku ⟨tertuju⟩; kepada-Mu aku berlindung; jangan Kautelanjangkan ⟨את⟩ nafasku.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "Sebab"
     },
     {
       "surface": "אליך",
-      "gloss": "kepada-Mulah"
+      "gloss": "kepada-Mu"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בכה",
-      "gloss": "pada-Mu"
+      "gloss": "kepada-Mu"
     },
     {
       "surface": "חסיתי",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "תער",
-      "gloss": "kaukosongkan"
+      "gloss": "Kautelanjangkan"
     },
     {
       "surface": "נפשי",
-      "gloss": "napasku"
+      "gloss": "nafasku"
     }
   ],
-  "timestamp": "2026-08-08T09:28:49.286588922Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:27.332002384Z",
+  "model": "glm-5.3"
 }

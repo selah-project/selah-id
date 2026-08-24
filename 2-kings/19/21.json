@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 19,
-  "translation": "Inilah ⟨the⟩ firman yang difirmankan Yahweh tentang dia: “Engkau dihina, engkau diejek, hai gadis perawan bat Tziyon! ⟨Di⟩ belakangmu ⟨ia⟩ menggerakkan kepala, hai bat Yerushalayim!”",
+  "translation": "Inilah perkataan yang telah difirmankan Yahweh tentang dia: mempermainkan engkau, mengolok-olok engkau, ⟨adalah⟩ si dara, bati Tsiyon; menggelengkan kepala di belakangmu, bati Yerushalayim.",
   "tokens": [
     {
       "surface": "זה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "firman"
+      "gloss": "perkataan"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "difikirkan"
+      "gloss": "telah difirmankan"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בזה",
-      "gloss": "dihina"
+      "gloss": "mempermainkan"
     },
     {
       "surface": "לך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לעגה",
-      "gloss": "diejek"
+      "gloss": "mengolok-olok"
     },
     {
       "surface": "לך",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "בתולת",
-      "gloss": "gadis perawan"
+      "gloss": "si dara"
     },
     {
       "surface": "בת",
-      "gloss": "bat"
+      "gloss": "bati"
     },
     {
       "surface": "ציון",
-      "gloss": "Tziyon"
+      "gloss": "Tsiyon"
     },
     {
       "surface": "אחריך",
-      "gloss": "belakangmu"
+      "gloss": "di belakangmu"
     },
     {
       "surface": "ראש",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "הניעה",
-      "gloss": "menggerakkan"
+      "gloss": "menggelengkan"
     },
     {
       "surface": "בת",
-      "gloss": "bat"
+      "gloss": "bati"
     },
     {
       "surface": "ירושלם",
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-08T08:14:31.066215913Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:53.139973259Z",
+  "model": "glm-5.3"
 }

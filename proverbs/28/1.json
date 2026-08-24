@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 28,
-  "translation": "Orang fasik melarikan diri padahal tidak ada pengejar, tetapi orang-orang benar ⟨⟨adalah⟩⟩ percaya diri seperti singa muda.",
+  "translation": "Orang fasik kabur meski tidak ada pengejar, tetapi orang-orang benar ⟨⟨adalah⟩⟩ berani seperti singa muda.",
   "tokens": [
     {
-      "surface": "נָ֣סוּ",
-      "gloss": "melarikan diri"
+      "surface": "נסו",
+      "gloss": "kabur"
     },
     {
-      "surface": "וְאֵין",
-      "gloss": "padahal tidak ada"
+      "surface": "ואין",
+      "gloss": "meski tidak ada"
     },
     {
-      "surface": "רֹדֵ֣ף",
+      "surface": "רדף",
       "gloss": "pengejar"
     },
     {
-      "surface": "רָשָׁ֑ע",
+      "surface": "רשע",
       "gloss": "orang fasik"
     },
     {
-      "surface": "וְ֝צַדִּיקִ֗ים",
-      "gloss": "tetapi orang-orang benar"
+      "surface": "וצדיקים",
+      "gloss": "orang-orang benar"
     },
     {
-      "surface": "כִּכְפִ֥יר",
+      "surface": "ככפיר",
       "gloss": "seperti singa muda"
     },
     {
-      "surface": "יִבְטָֽח",
-      "gloss": "percaya diri"
+      "surface": "יבטח",
+      "gloss": "berani"
     }
   ],
-  "timestamp": "2026-08-08T09:36:15.111466708Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:59.219849815Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "id",
   "chapter": 1,
-  "translation": "Sebab ⟨ia⟩ merana menanti kebaikan, ⟨oh⟩ penduduk Marot; sebab kejahatan telah turun dari sisi Yahweh, sampai ke gerbang Yerushalayim.",
+  "translation": "Sebab ⟨ia⟩ merana menanti kebaikan, ⟨oh⟩ penduduk Marot; sebab kejahatan telah turun ⟨את⟩ dari sisi Yahweh, sampai ke gerbang Yerushalayim.",
   "tokens": [
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari sisi"
+      "gloss": "⟨את⟩ dari sisi"
     },
     {
       "surface": "יהוה",
@@ -56,6 +56,6 @@
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-08T09:00:54.312401225Z",
+  "timestamp": "2026-08-24T17:55:27.131430608Z",
   "model": "glm-5.2"
 }

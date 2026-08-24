@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 22,
-  "translation": "Mereka telah makan dan sujud, semua yang gemuk di bumi; di hadapan-Nya berlutut semua yang turun ke debu — dan ⟨יש⟩ yang napasnya tidak ⟨Ia⟩ hidupkan.",
+  "translation": "Telah makan dan telah sujud semua yang gemuk di bumi; di hadapan-Nya berlutut semua yang turun ke debu, dan ⟨dia yang⟩ napasnya tidak dihidupkan kembali.",
   "tokens": [
     {
       "surface": "אכלו",
-      "gloss": "Mereka telah makan"
+      "gloss": "Telah makan"
     },
     {
       "surface": "וישתחוו",
-      "gloss": "dan sujud"
+      "gloss": "dan telah sujud"
     },
     {
       "surface": "כל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ונפשו",
-      "gloss": "dan yang napasnya"
+      "gloss": "dan napasnya"
     },
     {
       "surface": "לא",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "חיה",
-      "gloss": "⟨Ia⟩ hidupkan"
+      "gloss": "dihidupkan kembali"
     }
   ],
-  "timestamp": "2026-08-08T11:36:28.926684056Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:24.925529977Z",
+  "model": "glm-5.3"
 }

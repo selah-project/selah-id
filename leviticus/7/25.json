@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 7,
-  "translation": "Sebab setiap ⟨orang⟩ yang memakan lemak dari ⟨ה⟩ewan yang dari padanya dipersembahkan persembahan api kepada Yahweh — maka ⟨אִשָּׁה itu⟩ akan dilenyapkan, ⟨אֶת⟩ nefesh yang memakan itu, dari tengah-tengah umatnya.",
+  "translation": "Sebab setiap orang yang memakan lemak dari hewan yang dari padanya dipersembahkan korban api-apian kepada Yahweh, maka ⟨ia⟩ akan dilenyapkan — ⟨yaitu⟩ nefesy orang yang memakannya — dari tengah umatnya.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "⟨ה⟩ewan"
+      "gloss": "hewan"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "persembahan api"
+      "gloss": "korban api-apian"
     },
     {
       "surface": "ליהוה",
@@ -57,18 +57,17 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "⟨אֶת⟩ nefesh",
-      "marks": "nefesh yang memakan"
+      "gloss": "nefesy (orang)"
     },
     {
       "surface": "האכלת",
-      "gloss": "yang memakan"
+      "gloss": "yang memakannya"
     },
     {
       "surface": "מעמיה",
-      "gloss": "dari tengah-tengah umatnya"
+      "gloss": "dari tengah umatnya"
     }
   ],
-  "timestamp": "2026-08-08T07:07:21.119334152Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:41.365563618Z",
+  "model": "glm-5.3"
 }

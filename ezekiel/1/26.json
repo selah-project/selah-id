@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan dari atas ⟨ה⟩ cakrawala yang di atas kepala mereka, seperti rupa batu safir, ⟨adalah⟩ rupa suatu takhta; dan di atas rupa takhta itu, ⟨adalah⟩ rupa seperti rupa seorang manusia di atasnya dari atas.",
+  "translation": "Dan dari atas rakia yang di atas kepala mereka ⟨יש⟩ seperti rupa permata safir ⟨היא⟩ sesuatu menyerupai takhta; dan di atas sesuatu yang menyerupai takhta itu ⟨יש⟩ sesuatu menyerupai rupa seorang manusia di atasnya, dari sebelah atas.",
   "tokens": [
     {
       "surface": "וממעל",
-      "gloss": "dan dari atas"
+      "gloss": "Dan dari atas"
     },
     {
       "surface": "לרקיע",
-      "gloss": "cakrawala"
+      "gloss": "rakia"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אבן",
-      "gloss": "batu"
+      "gloss": "permata"
     },
     {
       "surface": "ספיר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "דמות",
-      "gloss": "rupa"
+      "gloss": "sesuatu menyerupai"
     },
     {
       "surface": "כסא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "דמות",
-      "gloss": "rupa"
+      "gloss": "sesuatu yang menyerupai"
     },
     {
       "surface": "הכסא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "דמות",
-      "gloss": "rupa"
+      "gloss": "sesuatu menyerupai"
     },
     {
       "surface": "כמראה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "manusia"
+      "gloss": "seorang manusia"
     },
     {
       "surface": "עליו",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "מלמעלה",
-      "gloss": "dari atas"
+      "gloss": "dari sebelah atas"
     }
   ],
-  "timestamp": "2026-08-08T08:44:32.004514776Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:13.295727547Z",
+  "model": "glm-5.3"
 }

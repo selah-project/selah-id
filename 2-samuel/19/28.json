@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan ia telah memfitnah hambamu kepada Adonai sang raja, tetapi Adonai sang raja ⟨adalah⟩ seperti malaikat ⟨ה⟩Elohim — dan perbuatlah apa yang baik di matamu.",
+  "translation": "Sebab ia telah memfitnah hambamu kepada tuanku raja; namun tuanku raja ⟨adalah⟩ seperti malaikat ⟨dari⟩ haElohim, maka lakukanlah apa yang baik di matamu.",
   "tokens": [
     {
       "surface": "וירגל",
-      "gloss": "Dan ia telah memfitnah"
+      "gloss": "karena ia telah memfitnah"
     },
     {
       "surface": "בעבדך",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "tuanku"
     },
     {
       "surface": "המלך",
-      "gloss": "sang raja"
+      "gloss": "raja"
     },
     {
       "surface": "ואדני",
-      "gloss": "tetapi Adonai"
+      "gloss": "namun tuanku"
     },
     {
       "surface": "המלך",
-      "gloss": "sang raja"
+      "gloss": "raja"
     },
     {
       "surface": "כמלאך",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨ה⟩Elohim"
+      "gloss": "haElohim"
     },
     {
       "surface": "ועשה",
-      "gloss": "dan perbuatlah"
+      "gloss": "maka lakukanlah"
     },
     {
       "surface": "הטוב",
@@ -56,6 +56,6 @@
       "gloss": "di matamu"
     }
   ],
-  "timestamp": "2026-08-08T07:58:10.797214169Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:14.828367304Z",
+  "model": "glm-5.3"
 }

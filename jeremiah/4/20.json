@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 4,
-  "translation": "Bencana demi bencana diteriakkan, sebab diratakan seluruh ⟨the⟩ bumi; seketika dihancurkan kemah-kemahku, sedini kelip mata tirai-tiraiku.",
+  "translation": "Kebinasaan demi kebinasaan dikerumahkan, sebab dirusakkan seluruh negeri itu; seketika kemah-kemahku dirusakkan, dalam sekejap mata kelambu-kelambuku.",
   "tokens": [
     {
       "surface": "שבר",
-      "gloss": "bencana"
+      "gloss": "Kebinasaan"
     },
     {
       "surface": "על",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שבר",
-      "gloss": "bencana"
+      "gloss": "kebinasaan"
     },
     {
       "surface": "נקרא",
-      "gloss": "diteriakkan"
+      "gloss": "dikerumahkan"
     },
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שדדה",
-      "gloss": "diratakan"
+      "gloss": "dirusakkan"
     },
     {
       "surface": "כל",
@@ -37,7 +37,8 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "negeri itu",
+      "marks": "negeri itu"
     },
     {
       "surface": "פתאם",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "שדדו",
-      "gloss": "dihancurkan"
+      "gloss": "dirusakkan"
     },
     {
       "surface": "אהלי",
@@ -53,13 +54,13 @@
     },
     {
       "surface": "רגע",
-      "gloss": "sedini kelip mata"
+      "gloss": "dalam sekejap mata"
     },
     {
       "surface": "יריעתי",
-      "gloss": "tirai-tiraiku"
+      "gloss": "kelambu-kelambuku"
     }
   ],
-  "timestamp": "2026-08-08T08:30:58.252801631Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.119962727Z",
+  "model": "glm-5.3"
 }

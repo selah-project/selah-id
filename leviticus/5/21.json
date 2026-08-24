@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 5,
-  "translation": "Seorang נפשׁ apabila ia berbuat dosa dan berkhianat secara khianat terhadap Yahweh, dan berdusta kepada sesamanya mengenai titipan atau mengenai pinjaman tangan atau mengenai perampasan, atau ia menindas ⟨את⟩ sesamanya,",
+  "translation": "Apabila seorang נפש berdosa dan berkhianat dalam khianat terhadap Yahweh, dan berdusta kepada sesamanya mengenai titipan, atau barang gadaian, atau perampasan, atau ia menindas ⟨את⟩ sesamanya,",
   "tokens": [
     {
       "surface": "נפש",
-      "gloss": "napas"
+      "gloss": "seorang נפש"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תחטא",
-      "gloss": "berbuat dosa"
+      "gloss": "berdosa"
     },
     {
       "surface": "ומעלה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מעל",
-      "gloss": "khianat"
+      "gloss": "dalam khianat"
     },
     {
       "surface": "ביהוה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "בתשומת",
-      "gloss": "mengenai penyerahan"
+      "gloss": "barang gadaian"
     },
     {
       "surface": "יד",
-      "gloss": "tangan"
+      "gloss": "tangan (penyerahan)"
     },
     {
       "surface": "או",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "בגזל",
-      "gloss": "mengenai perampasan"
+      "gloss": "perampasan"
     },
     {
       "surface": "או",
@@ -81,6 +81,6 @@
       "gloss": "sesamanya"
     }
   ],
-  "timestamp": "2026-08-08T07:07:12.008873716Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:52.866220692Z",
+  "model": "glm-5.3"
 }

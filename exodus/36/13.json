@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 36,
-  "translation": "Dan ⟨ia⟩ membuat lima puluh kait emas, dan ⟨ia⟩ menghubungkan ⟨את⟩ tirai-tirai itu yang satu kepada yang lain dengan kait-kait itu, maka jadilah ⟨ה⟩ kemah itu satu.",
+  "translation": "Lalu dibuatnya lima puluh kait dari emas, dan dihubungkannya ⟨את⟩ tirai yang satu kepada yang lain dengan kait-kait itu, sehingga kemah itu menjadi satu.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "dan ⟨ia⟩ membuat"
+      "gloss": "Lalu dibuatnya"
     },
     {
       "surface": "חמשים",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "זהב",
-      "gloss": "emas"
+      "gloss": "dari emas"
     },
     {
       "surface": "ויחבר",
-      "gloss": "dan ⟨ia⟩ menghubungkan"
+      "gloss": "dihubungkannya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tirai-tirai itu"
+      "marks": "tirai"
     },
     {
       "surface": "הירעת",
-      "gloss": "tirai-tirai itu"
+      "gloss": "tirai"
     },
     {
       "surface": "אחת",
-      "gloss": "satu"
+      "gloss": "yang satu"
     },
     {
       "surface": "אל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אחת",
-      "gloss": "lain"
+      "gloss": "yang lain"
     },
     {
       "surface": "בקרסים",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "maka jadilah"
+      "gloss": "sehingga menjadi"
     },
     {
       "surface": "המשכן",
@@ -65,6 +65,6 @@
       "gloss": "satu"
     }
   ],
-  "timestamp": "2026-08-08T12:11:08.175426082Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:27.594246770Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 10,
-  "translation": "Dan ia berkata kepada mereka, “Begitulah Yahweh menyertai kamu, seperti aku membiarkan pergi ⟨את⟩ kamu dan ⟨את⟩ anak-anakmu! Lihatlah, bahwa kejahatan ⟨הִיא⟩ di depan muka kamu.”",
+  "translation": "Lalu berkatalah ia kepada mereka: Kiranya Yahweh menyertai kamu, sebagaimana aku membiarkan pergi ⟨את⟩ kamu dan ⟨את⟩ anak-anak kecilmu; lihatlah, sebab yang jahat ⟨adalah⟩ di hadapan wajahmu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan ia berkata"
+      "gloss": "Lalu berkatalah ia"
     },
     {
       "surface": "אלהם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהי",
-      "gloss": "begitulah"
+      "gloss": "kiranya ... jadi"
     },
     {
       "surface": "כן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "seperti"
+      "gloss": "sebagaimana"
     },
     {
       "surface": "אשלח",
@@ -41,16 +41,17 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamu"
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
     },
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "anak-anakmu"
+      "marks": "anak-anak kecilmu"
     },
     {
       "surface": "טפכם",
-      "gloss": "anak-anakmu"
+      "gloss": "anak-anak kecilmu"
     },
     {
       "surface": "ראו",
@@ -58,21 +59,21 @@
     },
     {
       "surface": "כי",
-      "gloss": "bahwa"
+      "gloss": "sebab"
     },
     {
       "surface": "רעה",
-      "gloss": "kejahatan"
+      "gloss": "yang jahat"
     },
     {
       "surface": "נגד",
-      "gloss": "di depan"
+      "gloss": "di hadapan"
     },
     {
       "surface": "פניכם",
-      "gloss": "muka kamu"
+      "gloss": "wajahmu"
     }
   ],
-  "timestamp": "2026-08-09T01:38:13.982894272Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:42.550605658Z",
+  "model": "glm-5.3"
 }

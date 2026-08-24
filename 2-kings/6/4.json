@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Maka pergilah ⟨beliau⟩ bersama mereka, dan sampailah mereka ke sungai Yarden, dan menebanglah mereka kayu-kayu.",
+  "translation": "Maka pergilah ⟨beliau⟩ ⟨את⟩ bersama mereka, dan sampailah mereka ke sungai Yarden, dan menebanglah mereka kayu-kayu.",
   "tokens": [
     {
       "surface": "וילך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "bersama mereka"
+      "gloss": "⟨את⟩ bersama mereka"
     },
     {
       "surface": "ויבאו",
@@ -32,6 +32,6 @@
       "gloss": "kayu-kayu"
     }
   ],
-  "timestamp": "2026-08-08T08:09:52.440417676Z",
+  "timestamp": "2026-08-24T17:55:27.202305906Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 4,
-  "translation": "dan supaya jangan engkau mengangkat matamu ke langit, dan engkau melihat ⟨את⟩ matahari dan ⟨את⟩ bulan dan ⟨את⟩ bintang-bintang, seluruh pasukan langit, dan engkau terdorong dan engkau bersujud kepada mereka dan engkau menyembah mereka — yang telah Yahweh, Elohim-mu, membagikan ⟨אתם⟩ kepada segala bangsa di bawah seluruh langit.",
+  "translation": "Dan supaya jangan engkau mengangkat matamu ke langit, dan engkau melihat ⟨את⟩ matahari dan ⟨את⟩ bulan dan ⟨את⟩ bintang-bintang, segenap tentara langit, lalu engkau tertarik dan sujud menyembah kepada mereka dan beribadah kepada mereka — yang telah dibagikan Yahweh, Elohimmu, kepada segala bangsa di bawah seluruh langit.",
   "tokens": [
     {
       "surface": "ופן",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "bulan"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "bintang-bintang"
     },
     {
@@ -56,11 +56,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "seluruh"
+      "gloss": "segenap"
     },
     {
       "surface": "צבא",
-      "gloss": "pasukan"
+      "gloss": "tentara"
     },
     {
       "surface": "השמים",
@@ -68,11 +68,11 @@
     },
     {
       "surface": "ונדחת",
-      "gloss": "dan engkau terdorong"
+      "gloss": "lalu engkau tertarik"
     },
     {
       "surface": "והשתחוית",
-      "gloss": "dan engkau bersujud"
+      "gloss": "dan sujud menyembah"
     },
     {
       "surface": "להם",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "dan engkau menyembah mereka"
+      "gloss": "dan beribadah kepada mereka"
     },
     {
       "surface": "אשר",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "חלק",
-      "gloss": "telah membagikan"
+      "gloss": "telah dibagikan"
     },
     {
       "surface": "יהוה",
@@ -96,12 +96,12 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim-mu"
+      "gloss": "Elohimmu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kepada segala bangsa"
+      "gloss": "⟨את⟩ mereka",
+      "marks": "segala bangsa"
     },
     {
       "surface": "לכל",
@@ -124,6 +124,6 @@
       "gloss": "langit"
     }
   ],
-  "timestamp": "2026-08-09T01:39:53.582955982Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:31.073130911Z",
+  "model": "glm-5.3"
 }

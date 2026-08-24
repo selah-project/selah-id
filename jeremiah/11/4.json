@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 11,
-  "translation": "yang kupamerintahkan kepada ⟨את⟩ bapa leluhur kamu pada hari aku mengeluarkan ⟨אתם⟩ mereka dari tanah Mitsrayim, dari tanur besi, dengan mengatakan: Dengarkanlah suaraku dan kamu harus melakukan ⟨אתם⟩ semuanya sesuai dengan yang kuperintahkan ⟨אתכם⟩ kamu, maka kamu akan menjadi bagiku menjadi umat dan aku akan menjadi bagimu menjadi Elohim.",
+  "translation": "yang Kuperintahkan kepada bapak-bapakmu ⟨את⟩ pada hari Aku membawa mereka keluar dari tanah Mitsrayim (Mesir), dari tanur besi, dengan berkata: Dengarlah suara-Ku dan lakukanlah semuanya yang Kuperintahkan kepadamu, maka kamu akan menjadi umat bagi-Ku dan Aku akan menjadi Elohim bagimu.",
   "tokens": [
     {
       "surface": "אשר",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "kupamerintahkan"
+      "gloss": "Kuperintahkan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bapa leluhur kamu"
+      "marks": "bapak-bapakmu"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "bapa leluhur kamu"
+      "gloss": "bapak-bapakmu"
     },
     {
       "surface": "ביום",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "הוציאי",
-      "gloss": "aku mengeluarkan"
+      "gloss": "Aku membawa keluar"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mereka"
+      "gloss": "⟨את⟩",
+      "marks": "mereka (bawa keluar)"
     },
     {
       "surface": "מארץ",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "מכור",
-      "gloss": "tanur"
+      "gloss": "dari tanur"
     },
     {
       "surface": "הברזל",
@@ -55,24 +55,24 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "dengan mengatakan"
+      "gloss": "dengan berkata"
     },
     {
       "surface": "שמעו",
-      "gloss": "dengarkanlah"
+      "gloss": "Dengarlah"
     },
     {
       "surface": "בקולי",
-      "gloss": "suaraku"
+      "gloss": "suara-Ku"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "dan kamu harus melakukan"
+      "gloss": "dan lakukanlah"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "semuanya"
+      "gloss": "⟨את⟩",
+      "marks": "semuanya (yang Kuperintahkan)"
     },
     {
       "surface": "ככל",
@@ -84,28 +84,28 @@
     },
     {
       "surface": "אצוה",
-      "gloss": "kuperintahkan"
+      "gloss": "Kuperintahkan"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "kamu"
+      "gloss": "⟨את⟩",
+      "marks": "kepadamu"
     },
     {
       "surface": "והייתם",
-      "gloss": "maka kamu akan menjadi"
+      "gloss": "kamu akan menjadi"
     },
     {
       "surface": "לי",
-      "gloss": "bagiku"
+      "gloss": "bagi-Ku"
     },
     {
       "surface": "לעם",
-      "gloss": "menjadi umat"
+      "gloss": "umat"
     },
     {
       "surface": "ואנכי",
-      "gloss": "dan aku"
+      "gloss": "dan Aku"
     },
     {
       "surface": "אהיה",
@@ -117,9 +117,9 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "menjadi Elohim"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-09T01:42:10.398836533Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:23.441899832Z",
+  "model": "glm-5.3"
 }

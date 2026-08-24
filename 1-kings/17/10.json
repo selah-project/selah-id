@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 17,
-  "translation": "Lalu bangunlah ia dan pergilah ke Tsarefatah, dan sampailah ia ke pintu gerbang ⟨ה⟩ kota, dan lihatlah, di sana seorang perempuan janda mengumpulkan kayu, dan berserulah ia kepadanya, lalu berkatalah: ambillah kiranya bagiku sedikit air dalam bejana, supaya aku minum.",
+  "translation": "Lalu ia bangkit dan pergi ke Tsarefata, dan ia sampai ke pintu gerbang ⟨the⟩ kota, dan lihatlah, di sana seorang perempuan janda sedang mengumpulkan kayu, dan ia memanggil ⟨dia⟩ serta berkata, “Ambillah kiranya bagiku sedikit air dalam sebuah bekas, supaya aku minum.”",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "lalu bangunlah ia"
+      "gloss": "lalu ia bangkit"
     },
     {
       "surface": "וילך",
-      "gloss": "dan pergilah"
+      "gloss": "dan pergi"
     },
     {
       "surface": "צרפתה",
-      "gloss": "ke Tsarefatah"
+      "gloss": "ke Tsarefata"
     },
     {
       "surface": "ויבא",
-      "gloss": "dan sampailah ia"
+      "gloss": "dan ia sampai"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "⟨ה⟩ kota"
+      "gloss": "kota itu"
     },
     {
       "surface": "והנה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מקששת",
-      "gloss": "mengumpulkan"
+      "gloss": "sedang mengumpulkan"
     },
     {
       "surface": "עצים",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "dan berserulah ia"
+      "gloss": "dan ia memanggil"
     },
     {
       "surface": "אליה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "lalu berkatalah"
+      "gloss": "serta berkata"
     },
     {
       "surface": "קחי",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "בכלי",
-      "gloss": "dalam bejana"
+      "gloss": "dalam sebuah bekas"
     },
     {
       "surface": "ואשתה",
       "gloss": "supaya aku minum"
     }
   ],
-  "timestamp": "2026-08-08T12:16:37.337750361Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:36.873132026Z",
+  "model": "glm-5.3"
 }

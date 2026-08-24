@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 4,
-  "translation": "Lalu ⟨ia⟩ berkata, “Ambillah tepung,” dan ⟨ia⟩ melemparkannya ke dalam kuali, lalu berkata, “Tuangkan untuk ⟨the⟩ orang banyak dan biarkan mereka makan.” Maka tidak ada lagi benda berbahaya dalam kuali itu.",
+  "translation": "Lalu ia berkata, “Ambillah tepung.” Dan ia melemparkannya ke dalam periuk, lalu berkata, “Tuangkanlah untuk kaum itu supaya mereka makan.” Dan tidak ada lagi benda buruk di dalam periuk itu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lalu berkata"
+      "gloss": "Lalu ia berkata"
     },
     {
       "surface": "וקחו",
-      "gloss": "ambillah"
+      "gloss": "Ambillah"
     },
     {
       "surface": "קמח",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "dan ⟨ia⟩ melemparkannya"
+      "gloss": "dan ia melemparkannya"
     },
     {
       "surface": "אל",
-      "gloss": "ke"
+      "gloss": "ke dalam"
     },
     {
       "surface": "הסיר",
-      "gloss": "dalam kuali"
+      "gloss": "periuk itu"
     },
     {
       "surface": "ויאמר",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "צק",
-      "gloss": "tuangkan"
+      "gloss": "Tuangkanlah"
     },
     {
       "surface": "לעם",
-      "gloss": "untuk orang banyak"
+      "gloss": "untuk kaum itu"
     },
     {
       "surface": "ויאכלו",
-      "gloss": "dan biarkan mereka makan"
+      "gloss": "supaya mereka makan"
     },
     {
       "surface": "ולא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "ada lagi"
+      "gloss": "ada"
     },
     {
       "surface": "דבר",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "רע",
-      "gloss": "berbahaya"
+      "gloss": "buruk"
     },
     {
       "surface": "בסיר",
-      "gloss": "dalam kuali itu"
+      "gloss": "di dalam periuk"
     }
   ],
-  "timestamp": "2026-08-08T08:09:16.618176767Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:13.507677667Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Tingkat bawah ⟨יצוע⟩ lebar lima hasta, tingkat tengah lebar enam hasta, dan tingkat ketiga lebar tujuh hasta — sebab ia membuat ⟨מגרעות⟩ penanjakan pada rumah itu sekeliling, di bagian luar, supaya ⟨אֹחֵז⟩ tidak mencengkeram dinding-dinding rumah itu.",
+  "translation": "Tingkat bawahnya lima hasta lebarnya, tingkat tengahnya enam hasta lebarnya, dan tingkat ketiganya tujuh hasta lebarnya; sebab dibuatnyalah tempat-tumpuan menjorok keluar pada ⟨את⟩ rumah itu mengelilingi, di bagian luar, supaya tidak berpegangan pada dinding-dinding rumah itu.",
   "tokens": [
     {
       "surface": "היצוע",
-      "gloss": "Tingkat"
+      "gloss": "tingkat bawahnya"
     },
     {
       "surface": "התחתנה",
-      "gloss": "bawah"
+      "gloss": "bawahnya"
     },
     {
       "surface": "חמש",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "רחבה",
-      "gloss": "lebar"
+      "gloss": "lebarnya"
     },
     {
       "surface": "והתיכנה",
-      "gloss": "tingkat tengah"
+      "gloss": "tingkat tengahnya"
     },
     {
       "surface": "שש",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "רחבה",
-      "gloss": "lebar"
+      "gloss": "lebarnya"
     },
     {
       "surface": "והשלישית",
-      "gloss": "dan tingkat ketiga"
+      "gloss": "tingkat ketiganya"
     },
     {
       "surface": "שבע",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "רחבה",
-      "gloss": "lebar"
+      "gloss": "lebarnya"
     },
     {
       "surface": "כי",
@@ -65,19 +65,24 @@
     },
     {
       "surface": "מגרעות",
-      "gloss": "⟨מגרעות⟩ penanjakan"
+      "gloss": "tempat-tumpuan menjorok"
     },
     {
       "surface": "נתן",
-      "gloss": "ia membuat"
+      "gloss": "dibuatnyalah"
     },
     {
       "surface": "לבית",
-      "gloss": "pada rumah itu"
+      "gloss": "pada rumah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
     },
     {
       "surface": "סביב",
-      "gloss": "sekeliling"
+      "gloss": "mengelilingi"
     },
     {
       "surface": "חוצה",
@@ -89,17 +94,17 @@
     },
     {
       "surface": "אחז",
-      "gloss": "⟨אֹחֵז⟩ mencengkeram"
+      "gloss": "berpegangan"
     },
     {
       "surface": "בקירות",
-      "gloss": "dinding-dinding"
+      "gloss": "pada dinding-dinding"
     },
     {
       "surface": "הבית",
       "gloss": "rumah itu"
     }
   ],
-  "timestamp": "2026-08-08T12:16:44.242196417Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:59.076130938Z",
+  "model": "glm-5.3"
 }

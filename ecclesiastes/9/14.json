@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "id",
   "chapter": 9,
-  "translation": "Kota kecil, dan orang-orang di dalamnya sedikit, dan datang kepadanya raja besar, dan mengepung ⟨אתה⟩, dan mendirikan terhadapnya benteng-benteng pengepungan besar.",
+  "translation": "Ada sebuah kota kecil, dan di dalamnya sedikit orang; lalu datang kepadanya seorang raja besar, dan ia mengepung ⟨את⟩-nya, serta mendirikan terhadapnya benteng-benteng pengepungan yang besar-besar.",
   "tokens": [
     {
       "surface": "עיר",
-      "gloss": "kota"
+      "gloss": "sebuah kota"
     },
     {
       "surface": "קטנה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ואנשים",
-      "gloss": "dan orang-orang"
+      "gloss": "dan orang"
     },
     {
       "surface": "בה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ובא",
-      "gloss": "dan datang"
+      "gloss": "lalu datang"
     },
     {
       "surface": "אליה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "raja"
+      "gloss": "seorang raja"
     },
     {
       "surface": "גדול",
@@ -49,12 +49,12 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "kota kecil"
+      "gloss": "⟨את⟩-nya",
+      "marks": "kota kecil itu"
     },
     {
       "surface": "ובנה",
-      "gloss": "dan mendirikan"
+      "gloss": "serta mendirikan"
     },
     {
       "surface": "עליה",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "גדלים",
-      "gloss": "besar"
+      "gloss": "yang besar-besar"
     }
   ],
-  "timestamp": "2026-08-08T09:50:47.435791760Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:38.830800865Z",
+  "model": "glm-5.3"
 }

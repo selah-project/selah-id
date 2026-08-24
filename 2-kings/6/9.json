@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Dan ⟨ioi⟩ orang Elohim itu mengirim ⟨⟨pesan⟩⟩ kepada raja Yisra'el, yang berbunyi: “Berhati-hatilah jangan lewat tempat ini, sebab di sana Aram sedang turun.”",
+  "translation": "Lalu abdi Elohim mengirim pesan kepada raja Israel, katanya: “Berhati-hatilah jangan melintasi tempat ini, sebab ke sanalah Aram menurun.”",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Dan mengirim"
+      "gloss": "Lalu mengirim pesan"
     },
     {
       "surface": "איש",
-      "gloss": "orang"
+      "gloss": "abdi"
     },
     {
       "surface": "האלהים",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "לאמר",
-      "gloss": "yang berbunyi"
+      "gloss": "katanya"
     },
     {
       "surface": "השמר",
-      "gloss": "berhati-hatilah"
+      "gloss": "Berhati-hatilah"
     },
     {
       "surface": "מעבר",
-      "gloss": "jangan lewat"
+      "gloss": "melintasi"
     },
     {
       "surface": "המקום",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "di sana"
+      "gloss": "ke sana"
     },
     {
       "surface": "ארם",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "נחתים",
-      "gloss": "sedang turun"
+      "gloss": "menurun"
     }
   ],
-  "timestamp": "2026-08-08T08:09:40.800369749Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:01.574578893Z",
+  "model": "glm-5.3"
 }

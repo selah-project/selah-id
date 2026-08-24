@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 10,
-  "translation": "Lalu memanggillah Mosheh kepada Mishael dan kepada Elitsafan, bani Uziyel, paman Aharon, dan berkatalah kepada mereka: “Mendekatlah, angkatlah ⟨את⟩ saudara-saudaramu dari hadapan tempat kudus itu ke luar perkemahan.”",
+  "translation": "Lalu memanggillah Mosheh kepada Mishael dan kepada Elitsafan, bani Uziyel, paman Aharon, dan berkatalah kepada mereka: “Mendekatlah, angkatlah ⟨את⟩ saudara-saudaramu ⟨את⟩ dari hadapan tempat kudus itu ke luar perkemahan.”",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari hadapan"
+      "gloss": "⟨את⟩ dari hadapan"
     },
     {
       "surface": "פני",
@@ -97,6 +97,6 @@
       "gloss": "perkemahan"
     }
   ],
-  "timestamp": "2026-08-08T07:08:37.809958788Z",
+  "timestamp": "2026-08-24T17:55:27.204605813Z",
   "model": "glm-5.2"
 }

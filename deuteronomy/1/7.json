@@ -5,101 +5,101 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 1,
-  "translation": "Berlahlah dan berangkatlah bagi kamu, dan masuklah ke gunung ha-Emori dan ke semua tetangganya: di ⟨ה⟩ Araba, di gunung, di ⟨ה⟩ Shefela, di ⟨ה⟩ Negev, dan di pantai laut — tanah ha-Kenaani dan ha-Levanon, sampai ke sungai ⟨itu⟩, sungai ⟨itu⟩ yang besar, sungai Perat.",
+  "translation": "Berbaliklah, berangkatlah kamu, dan masuklah ke pegunungan ha-Emori dan ke semua tetangganya: di Araba, di pegunungan, di Shefela, di Negév, dan di pantai laut — tanah ha-Kenaani, dan ha-Levanon, sampai ke sungai yang besar, sungai Perat.",
   "tokens": [
     {
-      "surface": "פְּנ֣וּ",
-      "gloss": "berlahlah"
+      "surface": "פנו",
+      "gloss": "Berbaliklah"
     },
     {
-      "surface": "וּסְע֣וּ",
-      "gloss": "dan berangkatlah"
+      "surface": "וסעו",
+      "gloss": "berangkatlah"
     },
     {
-      "surface": "לָכֶ֗ם",
-      "gloss": "bagi kamu"
+      "surface": "לכם",
+      "gloss": "kamu"
     },
     {
-      "surface": "וּבֹ֨אוּ",
+      "surface": "ובאו",
       "gloss": "dan masuklah"
     },
     {
-      "surface": "הַ֥ר",
-      "gloss": "gunung"
+      "surface": "הר",
+      "gloss": "pegunungan"
     },
     {
-      "surface": "הָֽאֱמֹרִי֮",
+      "surface": "האמרי",
       "gloss": "ha-Emori"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "dan ke"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "semua"
     },
     {
-      "surface": "שְׁכֵנָיו֒",
+      "surface": "שכניו",
       "gloss": "tetangganya"
     },
     {
-      "surface": "בָּעֲרָבָ֥ה",
-      "gloss": "di ⟨ha⟩ Araba"
+      "surface": "בערבה",
+      "gloss": "di Araba"
     },
     {
-      "surface": "בָהָ֛ר",
-      "gloss": "di gunung"
+      "surface": "בהר",
+      "gloss": "di pegunungan"
     },
     {
-      "surface": "וּבַשְּׁפֵלָ֥ה",
-      "gloss": "di ⟨ha⟩ Shefela"
+      "surface": "ובשפלה",
+      "gloss": "di Shefela"
     },
     {
-      "surface": "וּבַנֶּ֖גֶב",
-      "gloss": "di ⟨ha⟩ Negev"
+      "surface": "ובנגב",
+      "gloss": "di Negév"
     },
     {
-      "surface": "וּבְח֣וֹף",
-      "gloss": "dan di pantai"
+      "surface": "ובחוף",
+      "gloss": "di pantai"
     },
     {
-      "surface": "הַיָּ֑ם",
+      "surface": "הים",
       "gloss": "laut"
     },
     {
-      "surface": "אֶ֤רֶץ",
+      "surface": "ארץ",
       "gloss": "tanah"
     },
     {
-      "surface": "הַֽכְּנַעֲנִי֙",
+      "surface": "הכנעני",
       "gloss": "ha-Kenaani"
     },
     {
-      "surface": "וְהַלְּבָנ֔וֹן",
+      "surface": "והלבנון",
       "gloss": "dan ha-Levanon"
     },
     {
-      "surface": "עַד",
-      "gloss": "sampai"
+      "surface": "עד",
+      "gloss": "sampai ke"
     },
     {
-      "surface": "הַנָּהָ֥ר",
-      "gloss": "sungai ⟨itu⟩"
-    },
-    {
-      "surface": "הַגָּדֹ֖ל",
-      "gloss": "yang besar"
-    },
-    {
-      "surface": "נְהַר",
+      "surface": "הנהר",
       "gloss": "sungai"
     },
     {
-      "surface": "פְּרָֽת",
+      "surface": "הגדל",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "פרת",
       "gloss": "Perat"
     }
   ],
-  "timestamp": "2026-08-08T10:44:02.700188026Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:22.698108410Z",
+  "model": "glm-5.3"
 }

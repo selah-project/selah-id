@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 28,
-  "translation": "⟨ה⟩ orang asing yang di tengah-tengahmu akan naik di atasmu semakin tinggi semakin tinggi, dan engkau akan turun semakin rendah semakin rendah.",
+  "translation": "Orang asing yang di tengah-tengahmu akan naik atas kamu semakin tinggi, dan kamu akan turun semakin rendah.",
   "tokens": [
     {
       "surface": "הגר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עליך",
-      "gloss": "di atasmu"
+      "gloss": "atas kamu"
     },
     {
       "surface": "מעלה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "dan engkau"
+      "gloss": "dan kamu"
     },
     {
       "surface": "תרד",
@@ -52,6 +52,6 @@
       "gloss": "semakin rendah"
     }
   ],
-  "timestamp": "2026-08-08T07:31:12.059956266Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:00.307935181Z",
+  "model": "glm-5.3"
 }

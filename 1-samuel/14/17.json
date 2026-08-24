@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 14,
-  "translation": "Lalu berkatalah Shaul kepada ⟨rakyat⟩ yang bersama dia: \"Periksalah ⟨sekarang⟩ dan lihatlah siapa yang pergi dari antara kita.\" Lalu mereka memeriksa, dan lihatlah, Yonatan tidak ⟨ada⟩ dan pembawa senjatanya ⟨juga tidak ada⟩.",
+  "translation": "Lalu berkatalah Shaul kepada ⟨rakyat⟩ yang ⟨את⟩ bersama dia: \"Periksalah ⟨sekarang⟩ dan lihatlah siapa yang pergi dari antara kita.\" Lalu mereka memeriksa, dan lihatlah, Yonatan tidak ⟨ada⟩ dan pembawa senjatanya ⟨juga tidak ada⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersama dia"
+      "gloss": "⟨את⟩ bersama dia"
     },
     {
       "surface": "פקדו",
@@ -76,6 +76,6 @@
       "gloss": "senjatanya"
     }
   ],
-  "timestamp": "2026-08-08T07:48:28.215807234Z",
+  "timestamp": "2026-08-24T17:55:27.173566752Z",
   "model": "glm-5.2"
 }

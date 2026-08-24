@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 5,
-  "translation": "Dan setelah mereka mengelilingkannya, maka tangan Yahweh ⟨הָיְתָ⟩ di kota itu ⟨dengan⟩ kekacauan yang sangat besar, dan ⟨הוּא⟩ memukul ⟨את⟩ penduduk kota itu, dari yang kecil sampai yang besar, dan timbullah kepada mereka tumor-tumor.",
+  "translation": "Setelah mereka memindahkan ⟨את⟩-nya itu, maka jadilah tangan Yahweh menimpa kota itu dengan kekacauan yang sangat besar, dan Ia menghantam ⟨את⟩ orang-orang kota itu, dari yang kecil sampai yang besar, dan timbullah pada mereka tumor-tumor (עפלים).",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Dan terjadilah"
+      "gloss": "maka jadilah"
     },
     {
       "surface": "אחרי",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "הסבו",
-      "gloss": "mereka mengelilingkan"
+      "gloss": "mereka memindahkan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ dia",
-      "marks": "dia (tabut)"
+      "gloss": "⟨את⟩",
+      "marks": "-nya itu (tabut)"
     },
     {
       "surface": "ותהי",
-      "gloss": "maka menjadi"
+      "gloss": "lalu menimpa"
     },
     {
       "surface": "יד",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "di kota itu"
+      "gloss": "pada kota itu"
     },
     {
       "surface": "מהומה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "גדולה",
-      "gloss": "besar"
+      "gloss": "yang besar"
     },
     {
       "surface": "מאד",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "ויך",
-      "gloss": "dan memukul(lah)"
+      "gloss": "dan Ia menghantam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "penduduk kota itu"
+      "marks": "orang-orang kota itu"
     },
     {
       "surface": "אנשי",
-      "gloss": "penduduk"
+      "gloss": "orang-orang"
     },
     {
       "surface": "העיר",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "להם",
-      "gloss": "kepada mereka"
+      "gloss": "pada mereka"
     },
     {
       "surface": "עפלים",
       "gloss": "tumor-tumor"
     }
   ],
-  "timestamp": "2026-08-08T10:54:40.990303443Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:18.327933146Z",
+  "model": "glm-5.3"
 }

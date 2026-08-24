@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 28,
-  "translation": "Dan engkau akan meletakkan ⟨את⟩ kedua batu itu di atas bahu-bahu ⟨ה⟩ efod — batu peringatan bagi bani Yisra'el — dan Aharon akan mengangkat ⟨את⟩ nama-nama mereka di hadapan Yahweh di atas kedua bahunya, untuk peringatan.",
+  "translation": "Dan engkau akan menaruh ⟨את⟩ kedua batu itu pada bahu-bahu ⟨ה⟩efod sebagai batu peringatan bagi bani Israel; dan Aharon akan membawa ⟨את⟩ nama-nama mereka di hadapan Yahweh di atas kedua bahunya, untuk peringatan.",
   "tokens": [
     {
       "surface": "ושמת",
-      "gloss": "Dan engkau akan meletakkan"
+      "gloss": "dan engkau akan menaruh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kedua batu"
+      "marks": "kedua batu itu"
     },
     {
       "surface": "שתי",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "האבנים",
-      "gloss": "batu"
+      "gloss": "batu itu"
     },
     {
       "surface": "על",
-      "gloss": "di atas"
+      "gloss": "pada"
     },
     {
       "surface": "כתפת",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "ונשא",
-      "gloss": "dan akan mengangkat"
+      "gloss": "dan akan membawa"
     },
     {
       "surface": "אהרן",
@@ -94,6 +94,6 @@
       "gloss": "untuk peringatan"
     }
   ],
-  "timestamp": "2026-08-08T07:02:01.361759643Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:16.992931781Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 5,
-  "translation": "Maka terjadilah, apabila ia berbuat dosa dan menjadi bersalah, bahwa ia mengembalikan ⟨את⟩ barang rampasan yang dirampasnya, atau ⟨את⟩ barang yang ditindasnya, atau ⟨את⟩ titipan yang dititipkan kepadanya, atau ⟨את⟩ barang yang hilang yang ditemukannya,",
+  "translation": "Maka terjadilah, apabila ia berbuat dosa dan menjadi bersalah, bahwa ia mengembalikan ⟨את⟩ barang rampasan yang dirampasnya, atau ⟨את⟩ barang yang ditindasnya, atau ⟨את⟩ titipan yang dititipkan ⟨את⟩ kepadanya, atau ⟨את⟩ barang yang hilang yang ditemukannya,",
   "tokens": [
     {
       "surface": "והיה",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "kepadanya"
+      "gloss": "⟨את⟩ kepadanya"
     },
     {
       "surface": "או",
@@ -112,6 +112,6 @@
       "gloss": "ditemukannya"
     }
   ],
-  "timestamp": "2026-08-08T07:07:12.009172742Z",
+  "timestamp": "2026-08-24T17:55:27.204944396Z",
   "model": "glm-5.2"
 }

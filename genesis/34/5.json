@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 34,
-  "translation": "Maka Ya'akov mendengar bahwa ⟨dia⟩ telah menajiskan ⟨את⟩ Dinah anak perempuannya, dan anak-anak lelakinya sedang bersama ternaknya di padang, dan Ya'akov berdiam diri sampai mereka datang.",
+  "translation": "Maka Ya'akov mendengar bahwa ⟨dia⟩ telah menajiskan ⟨את⟩ Dinah anak perempuannya, dan anak-anak lelakinya sedang ⟨את⟩ bersama ternaknya di padang, dan Ya'akov berdiam diri sampai mereka datang.",
   "tokens": [
     {
       "surface": "ויעקב",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "את",
-      "gloss": "bersama"
+      "gloss": "⟨את⟩ bersama"
     },
     {
       "surface": "מקנהו",
@@ -73,6 +73,6 @@
       "gloss": "mereka datang"
     }
   ],
-  "timestamp": "2026-08-08T06:51:18.583946271Z",
+  "timestamp": "2026-08-24T17:55:27.071523511Z",
   "model": "glm-5.2"
 }

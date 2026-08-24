@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 20,
-  "translation": "Ambillah ⟨את⟩ Aharon dan ⟨את⟩ Elazar anaknya, dan naikkan ⟨את⟩ mereka ke gunung Hor, ⟨ה⟩ gunung itu.",
+  "translation": "Bawalah ⟨את⟩ Aharon dan ⟨את⟩ Elazar anaknya, dan naikkan ⟨את⟩ mereka ke gunung Hor;",
   "tokens": [
     {
       "surface": "קח",
-      "gloss": "ambillah"
+      "gloss": "Bawalah"
     },
     {
       "surface": "את",
@@ -40,17 +40,17 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ mereka",
-      "marks": "mereka"
+      "marks": "הור ההר (gunung Hor)"
     },
     {
       "surface": "הר",
-      "gloss": "ke gunung"
+      "gloss": "Hor"
     },
     {
       "surface": "ההר",
       "gloss": "gunung itu"
     }
   ],
-  "timestamp": "2026-08-08T10:42:07.349750583Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:54.447224525Z",
+  "model": "glm-5.3"
 }

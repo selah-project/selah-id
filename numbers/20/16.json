@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 20,
-  "translation": "Lalu kami berseru kepada Yahweh, dan ⟨ה⟩ mendengar suara kami, dan ⟨ה⟩ mengutus seorang malakh, dan mengeluarkan kami dari Mitsrayim; dan lihat, kami berada di Qadesh, kota di ujung batas daerahmu.",
+  "translation": "Lalu kami berteriak kepada Yahweh, dan ⟨Ia⟩ mendengar suara kami, serta mengutus seorang utusan yang membawa kami keluar dari Mitsrayim (Mesir); dan sungguh, kami berada di Kadesh, kota di ujung batas daerahmu.",
   "tokens": [
     {
       "surface": "ונצעק",
-      "gloss": "lalu kami berseru"
+      "gloss": "Lalu kami berteriak"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "dan ⟨ה⟩ mendengar"
+      "gloss": "dan ⟨Ia⟩ mendengar"
     },
     {
       "surface": "קלנו",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "dan ⟨ה⟩ mengutus"
+      "gloss": "serta mengutus"
     },
     {
       "surface": "מלאך",
-      "gloss": "seorang malakh"
+      "gloss": "seorang utusan"
     },
     {
       "surface": "ויצאנו",
-      "gloss": "dan mengeluarkan kami"
+      "gloss": "yang membawa kami keluar"
     },
     {
       "surface": "ממצרים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "dan lihat"
+      "gloss": "dan sungguh"
     },
     {
       "surface": "אנחנו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בקדש",
-      "gloss": "berada di Qadesh"
+      "gloss": "berada di Kadesh"
     },
     {
       "surface": "עיר",
@@ -68,6 +68,6 @@
       "gloss": "batas daerahmu"
     }
   ],
-  "timestamp": "2026-08-08T10:42:11.209901128Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:06.437397888Z",
+  "model": "glm-5.3"
 }

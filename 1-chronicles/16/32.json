@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 16,
-  "translation": "Biarkanlah ⟨הַיָּם⟩ bergemuruh dan segala kepenuhannya; biarkanlah ⟨הַשָּׂדֶה⟩ berpekik dan segala yang ada di dalamnya.",
+  "translation": "Bergemurahlah laut dan segala kepenuhannya, beria-rialah padang dan segala yang ada di dalamnya.",
   "tokens": [
     {
       "surface": "ירעם",
-      "gloss": "bergemuruh"
+      "gloss": "bergemurahlah"
     },
     {
       "surface": "הים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ומלואו",
-      "gloss": "dan kepenuhannya"
+      "gloss": "dan segala kepenuhannya"
     },
     {
       "surface": "יעלץ",
-      "gloss": "berpekik"
+      "gloss": "beria-rialah"
     },
     {
       "surface": "השדה",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "di dalamnya"
+      "gloss": "ada di dalamnya"
     }
   ],
-  "timestamp": "2026-08-08T10:08:02.457689115Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:14.581715072Z",
+  "model": "glm-5.3"
 }

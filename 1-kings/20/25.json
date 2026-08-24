@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan engkau, hitunglah bagimu pasukan seperti pasukan yang telah gugur dari padamu, dan kuda demi kuda, dan kereta demi kereta, dan biarlah kita berperang melawan mereka di dataran; jika tidak, bukankah kita lebih kuat dari mereka? Dan ⟨dia⟩ mendengarkan suara mereka dan melakukan demikian.",
+  "translation": "Dan engkau, hitunglah bagimu pasukan seperti pasukan yang telah gugur ⟨את⟩ dari padamu, dan kuda demi kuda, dan kereta demi kereta, dan biarlah kita berperang melawan mereka di dataran; jika tidak, bukankah kita lebih kuat dari mereka? Dan ⟨dia⟩ mendengarkan suara mereka dan melakukan demikian.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאותך",
-      "gloss": "dari padamu"
+      "gloss": "⟨את⟩ dari padamu"
     },
     {
       "surface": "וסוס",
@@ -97,6 +97,6 @@
       "gloss": "demikian"
     }
   ],
-  "timestamp": "2026-08-08T08:07:39.139074009Z",
+  "timestamp": "2026-08-24T17:55:27.249844667Z",
   "model": "glm-5.2"
 }

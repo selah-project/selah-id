@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 9,
-  "translation": "Mereka turun dari bamah ke kota, dan ⟨ia⟩ berbicara dengan Sha'ul di atas ⟨⟨the⟩⟩ gag.",
+  "translation": "Lalu mereka turun dari bamot ⟨ke⟩ kota itu, dan ⟨Samuel⟩ berbicara dengan Shaul di atas gag (atap).",
   "tokens": [
     {
       "surface": "וירדו",
-      "gloss": "dan mereka turun"
+      "gloss": "Lalu mereka turun"
     },
     {
       "surface": "מהבמה",
-      "gloss": "dari bamah"
+      "gloss": "dari bamot (tempat tinggi)"
     },
     {
       "surface": "העיר",
-      "gloss": "ke kota"
+      "gloss": "kota itu"
     },
     {
       "surface": "וידבר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Sha'ul"
+      "gloss": "Shaul"
     },
     {
       "surface": "על",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "הגג",
-      "gloss": "gag"
+      "gloss": "gag (atap)"
     }
   ],
-  "timestamp": "2026-08-08T07:46:59.035980303Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:31.334511654Z",
+  "model": "glm-5.3"
 }

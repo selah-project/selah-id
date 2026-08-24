@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 2,
-  "translation": "Maka terjadilah, setiap orang yang keluar dari pintu-pintu rumahmu ke luar, darahnya ⟨adalah⟩ di atas kepalanya, dan kami bersih; tetapi setiap orang yang bersama dengan engkau di dalam rumah, darahnya ⟨adalah⟩ di atas kepala kami, jika tangan ⟨menimpa⟩ dia.",
+  "translation": "Maka terjadilah, setiap orang yang keluar dari pintu-pintu rumahmu ke luar, darahnya ⟨adalah⟩ di atas kepalanya, dan kami bersih; tetapi setiap orang yang ⟨את⟩ bersama dengan engkau di dalam rumah, darahnya ⟨adalah⟩ di atas kepala kami, jika tangan ⟨menimpa⟩ dia.",
   "tokens": [
     {
       "surface": "והיה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bersama dengan engkau"
+      "gloss": "⟨את⟩ bersama dengan engkau"
     },
     {
       "surface": "בבית",
@@ -96,6 +96,6 @@
       "gloss": "dia"
     }
   ],
-  "timestamp": "2026-08-08T07:33:30.679665845Z",
+  "timestamp": "2026-08-24T17:55:27.244775264Z",
   "model": "glm-5.2"
 }

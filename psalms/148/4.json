@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 148,
-  "translation": "Pujilah Dia, ⟨hai⟩ langit dari langit, dan ⟨hai⟩ ⟨the⟩ air yang di atas langit!",
+  "translation": "Pujilah Dia, hai langit dari langit, dan hai air yang di atas langit.",
   "tokens": [
     {
       "surface": "הללוהו",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שמי",
-      "gloss": "langit"
+      "gloss": "langit dari"
     },
     {
       "surface": "השמים",
-      "gloss": "dari langit"
+      "gloss": "langit"
     },
     {
       "surface": "והמים",
@@ -36,6 +36,6 @@
       "gloss": "langit"
     }
   ],
-  "timestamp": "2026-08-08T09:29:29.316443591Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:51.439449894Z",
+  "model": "glm-5.3"
 }

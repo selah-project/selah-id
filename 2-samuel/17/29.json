@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 17,
-  "translation": "dan madu, dan mentega, dan kambing domba, dan keju sapi, ⟨mereka⟩ mendekatkan kepada David dan kepada rakyat yang bersama dia untuk dimakan, sebab kata mereka, “Rakyat itu lapar dan letih dan haus di padang gurun.”",
+  "translation": "dan madu, dan mentega, dan kambing domba, dan keju sapi, ⟨mereka⟩ mendekatkan kepada David dan kepada rakyat yang ⟨את⟩ bersama dia untuk dimakan, sebab kata mereka, “Rakyat itu lapar dan letih dan haus di padang gurun.”",
   "tokens": [
     {
       "surface": "וּדְבַ֣שׁ",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אִתּ֖וֹ",
-      "gloss": "bersama dia"
+      "gloss": "⟨את⟩ bersama dia"
     },
     {
       "surface": "לֶאֱכ֑וֹל",
@@ -80,6 +80,6 @@
       "gloss": "di padang gurun"
     }
   ],
-  "timestamp": "2026-08-08T07:56:28.022014716Z",
+  "timestamp": "2026-08-24T17:55:27.056318768Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 41,
-  "translation": "Dari tanah sampai di atas ambang pintu, kerub-kerub dan pohon-pohon palem ⟨yang⟩ dibuat, ⟨demikian pula⟩ dinding ⟨ה⟩ heikhal.",
+  "translation": "Dari lantai sampai di atas pintu, keruvim dan pohon timur dibuat, dan pada dinding ⟨ה⟩ heikhal.",
   "tokens": [
     {
       "surface": "מהארץ",
-      "gloss": "dari tanah"
+      "gloss": "dari lantai"
     },
     {
       "surface": "עד",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הפתח",
-      "gloss": "ambang pintu"
+      "gloss": "pintu"
     },
     {
       "surface": "הכרובים",
-      "gloss": "kerub-kerub"
+      "gloss": "keruvim"
     },
     {
       "surface": "והתמרים",
-      "gloss": "dan pohon-pohon palem"
+      "gloss": "dan pohon timur"
     },
     {
       "surface": "עשוים",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "וקיר",
-      "gloss": "dan dinding"
+      "gloss": "dan pada dinding"
     },
     {
       "surface": "ההיכל",
       "gloss": "heikhal"
     }
   ],
-  "timestamp": "2026-08-08T08:54:42.814420711Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:19.659179159Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "lamentations",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan terbuang dari shalom ⟨⟨adalah⟩⟩ napasku, aku telah melupakan kebaikan.",
+  "translation": "Engkau telah mencampakkan ⟨את⟩ jauh dari shalom napisku; aku telah melupakan kebaikan.",
   "tokens": [
     {
       "surface": "ותזנח",
-      "gloss": "dan terbuang"
+      "gloss": "Engkau telah mencampakkan"
     },
     {
       "surface": "משלום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "napasku"
+      "gloss": "napisku"
     },
     {
       "surface": "נשיתי",
@@ -28,6 +28,6 @@
       "gloss": "kebaikan"
     }
   ],
-  "timestamp": "2026-08-08T09:47:35.183619183Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:20.692487681Z",
+  "model": "glm-5.3"
 }

@@ -5,33 +5,33 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 25,
-  "translation": "Pisahkanlah ⟨the⟩ ketidakmurnian dari perak, maka keluarlah bejana bagi sang penapis.",
+  "translation": "Hilangkan ⟨הגו⟩ ⟪tanpa—lihat catatan⟫ semburitan dari perak, maka keluarlah ⟨הוּא⟩ bejana bagi penulisir.",
   "tokens": [
     {
-      "surface": "הָג֣וֹ",
-      "gloss": "Pisahkanlah"
+      "surface": "הגו",
+      "gloss": "hilangkan"
     },
     {
-      "surface": "סִיגִ֣ים",
-      "gloss": "ketidakmurnian"
+      "surface": "סיגים",
+      "gloss": "semburitan"
     },
     {
-      "surface": "מִכָּ֑סֶף",
+      "surface": "מכסף",
       "gloss": "dari perak"
     },
     {
-      "surface": "וַיֵּצֵ֖א",
+      "surface": "ויצא",
       "gloss": "maka keluarlah"
     },
     {
-      "surface": "לַצֹּרֵ֣ף",
-      "gloss": "bagi sang penapis"
+      "surface": "לצרף",
+      "gloss": "bagi penulisir"
     },
     {
-      "surface": "כֶּֽלִי",
+      "surface": "כלי",
       "gloss": "bejana"
     }
   ],
-  "timestamp": "2026-08-08T23:19:23.130145029Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:59.194094916Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 28,
-  "translation": "Dan mereka berkata kepada mereka: “Janganlah kamu bawa ⟨את⟩ tawanan ke sini, karena untuk kesalahan terhadap Yahweh ⟨ה⟩ atas kita, kamu bermaksud menambah atas dosa-dosa kita dan atas kesalahan kita; karena besar ⟨adalah⟩ kesalahan kita, dan ⟨ada⟩ nyala murka atas Yisrael.”",
+  "translation": "Dan mereka berkata kepada mereka: “Janganlah kamu membawa masuk ke sini ⟨את⟩ para tawanan, sebab untuk menanggung kesalahan terhadap Yahweh atas kami, kamu bermaksud menambah atas dosa-dosa kami dan atas kesalahan kami; sebab besar sudah kesalahan kami, dan menyala murka atas Israel.”",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "Janganlah"
     },
     {
       "surface": "תביאו",
-      "gloss": "kamu membawa"
+      "gloss": "kamu membawa masuk"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tawanan"
+      "marks": "para tawanan"
     },
     {
       "surface": "השביה",
-      "gloss": "tawanan"
+      "gloss": "para tawanan"
     },
     {
       "surface": "הנה",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "לאשמת",
-      "gloss": "untuk kesalahan"
+      "gloss": "untuk menanggung kesalahan terhadap"
     },
     {
       "surface": "יהוה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "עלינו",
-      "gloss": "atas kita"
+      "gloss": "atas kami"
     },
     {
       "surface": "אתם",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "חטאתינו",
-      "gloss": "dosa-dosa kita"
+      "gloss": "dosa-dosa kami"
     },
     {
       "surface": "ועל",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "אשמתינו",
-      "gloss": "kesalahan kita"
+      "gloss": "kesalahan kami"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "רבה",
@@ -94,15 +94,15 @@
     },
     {
       "surface": "לנו",
-      "gloss": "kita"
+      "gloss": "kami"
     },
     {
       "surface": "וחרון",
-      "gloss": "dan nyala murka"
+      "gloss": "dan menyala"
     },
     {
       "surface": "אף",
-      "gloss": "hidung\/murka"
+      "gloss": "murka"
     },
     {
       "surface": "על",
@@ -110,9 +110,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     }
   ],
-  "timestamp": "2026-08-08T10:16:34.068802698Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:23.380393223Z",
+  "model": "glm-5.3"
 }

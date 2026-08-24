@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 116,
-  "translation": "placeholder",
-  "tokens": [],
-  "timestamp": "2026-08-08T09:25:32.251051121Z",
-  "model": "glm-5.2"
+  "translation": "Aku berkata dalam kecusanku, “Setiap manusia ⟨adalah⟩ pendusta.”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "dalam kecusanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "pendusta"
+    }
+  ],
+  "timestamp": "2026-08-24T17:30:09.439435004Z",
+  "model": "glm-5.3"
 }

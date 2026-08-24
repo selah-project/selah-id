@@ -5,23 +5,23 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 23,
-  "translation": "Janganlah tahan dari ⟨ה⟩ anak ⟨את⟩ didikan, sebab engkau memukul dia dengan tongkat — tidak akan ia mati.",
+  "translation": "Janganlah menahan disiplin dari si anak, sebab bila engkau menghantamnya dengan tongkat, ia tidak akan mati.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "janganlah"
+      "gloss": "Janganlah"
     },
     {
       "surface": "תמנע",
-      "gloss": "tahan"
+      "gloss": "menahan"
     },
     {
       "surface": "מנער",
-      "gloss": "dari anak"
+      "gloss": "dari si anak"
     },
     {
       "surface": "מוסר",
-      "gloss": "didikan"
+      "gloss": "disiplin"
     },
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תכנו",
-      "gloss": "engkau memukul dia"
+      "gloss": "engkau menghantamnya"
     },
     {
       "surface": "בשבט",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "ימות",
-      "gloss": "ia mati"
+      "gloss": "akan mati"
     }
   ],
-  "timestamp": "2026-08-08T09:34:58.639428572Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:41.719482314Z",
+  "model": "glm-5.3"
 }

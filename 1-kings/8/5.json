@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan raja Shelomoh dan seluruh jemaat Yisra'el yang berhimpun kepadanya, ⟨berada⟩ bersamanya di depan ⟨הארון⟩ aron, mempersembahkan kambing domba dan lembu sapi yang tidak dapat dihitung dan tidak dapat dinomorkan karena banyaknya.",
+  "translation": "Dan raja Shelomoh serta seluruh jemaat Yisrael yang berkumpul kepadanya ⟨adalah⟩ bersama dia di depan ⟨את⟩-peti itu, mempersembahkan ⟨את⟩-kambing domba dan ⟨את⟩-lembu yang tidak dapat dihitung dan tidak dapat dibilang karena banyaknya.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomah"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "וכל",
-      "gloss": "dan seluruh"
+      "gloss": "serta seluruh"
     },
     {
       "surface": "עדת",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "הנועדים",
-      "gloss": "yang berhimpun"
+      "gloss": "yang berkumpul"
     },
     {
       "surface": "עליו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersama dia"
     },
     {
       "surface": "לפני",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הארון",
-      "gloss": "aron"
+      "gloss": "peti itu"
     },
     {
       "surface": "מזבחים",
-      "gloss": "mempersembahkan"
+      "gloss": "mempersembahkan korban"
     },
     {
       "surface": "צאן",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ובקר",
-      "gloss": "dan lembu sapi"
+      "gloss": "dan lembu"
     },
     {
       "surface": "אשר",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "ימנו",
-      "gloss": "dapat dinomorkan"
+      "gloss": "dapat dibilang"
     },
     {
       "surface": "מרב",
       "gloss": "karena banyaknya"
     }
   ],
-  "timestamp": "2026-08-08T08:03:49.068000568Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:45.463977580Z",
+  "model": "glm-5.3"
 }

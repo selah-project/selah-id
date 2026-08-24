@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 40,
-  "translation": "Lalu diukurnya ⟨את⟩ pelataran itu: seratus hasta panjang dan seratus hasta lebar, empat persegi; dan mezbah itu di depan ⟨the⟩ bait.",
+  "translation": "Lalu ia mengukur ⟨את⟩ pelataran itu: panjangnya seratus hasta dan lebarnya seratus hasta, empat persegi; dan ⟨⟨ada⟩⟩ mezbah itu di depan ⟨⟨rumah⟩⟩ itu.",
   "tokens": [
     {
       "surface": "וימד",
-      "gloss": "Lalu diukurnya"
+      "gloss": "Lalu ia mengukur"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ארך",
-      "gloss": "panjang"
+      "gloss": "panjangnya"
     },
     {
       "surface": "מאה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ורחב",
-      "gloss": "dan lebar"
+      "gloss": "dan lebarnya"
     },
     {
       "surface": "מאה",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "הבית",
-      "gloss": "bait"
+      "gloss": "rumah itu"
     }
   ],
-  "timestamp": "2026-08-08T12:22:01.773054942Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:26.023770123Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 46,
-  "translation": "Yahweh Tsevaot ⟨⟨ada⟩⟩ bersama kita, perlindungan bagi kita ⟨⟨adalah⟩⟩ Elohim Yaakob. Sela.",
+  "translation": "Yahweh Tsevaot beserta kita, tempat tinggi yang kukuh bagi kita Elohim Yaakov. Selah.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "עמנו",
-      "gloss": "bersama kita"
+      "gloss": "beserta kita"
     },
     {
       "surface": "משגב",
-      "gloss": "perlindungan"
+      "gloss": "tempat tinggi yang kukuh"
     },
     {
       "surface": "לנו",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakob"
+      "gloss": "Yaakov"
     },
     {
       "surface": "סלה",
-      "gloss": "Sela"
+      "gloss": "Selah"
     }
   ],
-  "timestamp": "2026-08-08T12:23:57.670904226Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:59.430428813Z",
+  "model": "glm-5.3"
 }

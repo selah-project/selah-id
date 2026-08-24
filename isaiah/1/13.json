@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 1,
-  "translation": "Jangan lagi membawa persembahan sia-sia, dupa ⟨⟨itu⟩⟩ kekejian bagi-Ku; bulan baru dan shabat, memanggil pertemuan kudus — aku tidak tahan kesia-siaan dan perhimpunan meriah.",
+  "translation": "Jangan lagi membawa persembahan ⟨yang⟩ sia-sia; ukupan ⟨⟨adalah⟩⟩ kekejian bagi-Ku. Bulan baru dan Shabbat, pemanggilan perkumpulan kudus — Aku tidak sanggup ⟨menanggung⟩ kesia-siaan dan perhimpunan.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "Jangan"
     },
     {
       "surface": "תוסיפו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "קטרת",
-      "gloss": "dupa"
+      "gloss": "ukupan"
     },
     {
       "surface": "תועבה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨itu⟩"
+      "gloss": "⟨adalah⟩"
     },
     {
       "surface": "לי",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "ושבת",
-      "gloss": "dan shabat"
+      "gloss": "dan Shabbat"
     },
     {
       "surface": "קרא",
-      "gloss": "memanggil"
+      "gloss": "pemanggilan"
     },
     {
       "surface": "מקרא",
-      "gloss": "pertemuan kudus"
+      "gloss": "perkumpulan kudus"
     },
     {
       "surface": "לא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "tahan"
+      "gloss": "sanggup"
     },
     {
       "surface": "און",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "ועצרה",
-      "gloss": "dan perhimpunan meriah"
+      "gloss": "dan perhimpunan"
     }
   ],
-  "timestamp": "2026-08-08T11:08:00.596296721Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:39.204313256Z",
+  "model": "glm-5.3"
 }

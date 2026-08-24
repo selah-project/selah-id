@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 4,
-  "translation": "Lalu ⟨ia⟩ berkata pelayannya, “Bagaimana aku memberikan ini kepada seratus orang?” Tetapi ⟨ia⟩ berkata, “Berikanlah kepada ⟨the⟩ orang banyak dan biarkan mereka makan, sebab beginilah firman Yahweh: Mereka akan makan dan ada sisanya.”",
+  "translation": "Tetapi pelayannya berkata, “Bagaimana aku menyajikan ini di depan seratus ⟨laki-laki⟩?” Lalu ia berkata, “Berikanlah kepada kaum itu supaya mereka makan, sebab beginilah firman Yahweh: ‘Mereka akan makan dan akan bersisa.’”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lalu berkata"
+      "gloss": "Tetapi berkata"
     },
     {
       "surface": "משרתו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתן",
-      "gloss": "aku memberikan"
+      "gloss": "aku menyajikan"
     },
     {
       "surface": "זה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "kepada"
+      "gloss": "di depan"
     },
     {
       "surface": "מאה",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "איש",
-      "gloss": "orang"
+      "gloss": "laki-laki"
     },
     {
       "surface": "ויאמר",
-      "gloss": "Tetapi berkata"
+      "gloss": "Lalu ia berkata"
     },
     {
       "surface": "תן",
-      "gloss": "berikanlah"
+      "gloss": "Berikanlah"
     },
     {
       "surface": "לעם",
-      "gloss": "kepada orang banyak"
+      "gloss": "kepada kaum itu"
     },
     {
       "surface": "ויאכלו",
-      "gloss": "dan biarkan mereka makan"
+      "gloss": "supaya mereka makan"
     },
     {
       "surface": "כי",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "אכל",
-      "gloss": "Mereka akan makan"
+      "gloss": "akan makan"
     },
     {
       "surface": "והותר",
-      "gloss": "dan ada sisanya"
+      "gloss": "dan akan bersisa"
     }
   ],
-  "timestamp": "2026-08-08T08:09:16.618503146Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:13.508218535Z",
+  "model": "glm-5.3"
 }

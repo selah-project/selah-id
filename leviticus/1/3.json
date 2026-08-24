@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 1,
-  "translation": "Jika korban bakarannya ⟨יהוה⟩ dari ternak sapi, jantan tanpa cacat, ia harus mempersembahkannya; ke pintu masuk Kemah Pertemuan ia harus mempersembahkannya ⟨את⟩-nya untuk berkenan baginya di hadapan Yahweh.",
+  "translation": "Jika korban bakarannya ⟨adalah⟩ dari lembu sapi, jantan yang tak bercacat, ia harus mempersembahkannya di pintu Kemah Pertemuan; ia harus mempersembahkannya ⟨את⟩ untuk diterima baginya di hadapan Yahweh.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עלה",
-      "gloss": "korban bakar"
+      "gloss": "korban bakaran"
     },
     {
       "surface": "קרבנו",
-      "gloss": "korbanannya"
+      "gloss": "korban bakarannya"
     },
     {
       "surface": "מן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "ternak sapi"
+      "gloss": "lembu sapi"
     },
     {
       "surface": "זכר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "תמים",
-      "gloss": "tanpa cacat"
+      "gloss": "yang tak bercacat"
     },
     {
       "surface": "יקריבנו",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ke"
+      "gloss": "di"
     },
     {
       "surface": "פתח",
-      "gloss": "pintu masuk"
+      "gloss": "pintu"
     },
     {
       "surface": "אהל",
@@ -62,11 +62,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dia (korban itu)"
+      "marks": "korban itu (ia harus mempersembahkannya)"
     },
     {
       "surface": "לרצנו",
-      "gloss": "untuk berkenan baginya"
+      "gloss": "untuk diterima baginya"
     },
     {
       "surface": "לפני",
@@ -77,6 +77,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T12:11:17.818702688Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:13.683097096Z",
+  "model": "glm-5.3"
 }

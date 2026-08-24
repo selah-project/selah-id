@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 26,
-  "translation": "Lalu Yahweh menampakkan diri kepadanya pada malam itu, dan berfirman, “Aku ini Elohim av Avraham avimu. Jangan takut, sebab ⟨אנכי⟩ ⟨את⟩ engkau, dan aku akan memberkati engkau dan membuat banyak ⟨את⟩ benihmu demi Avraham hambaku.”",
+  "translation": "Lalu Yahweh menampakkan diri kepadanya pada malam itu dan berfirman: Aku ⟨ini⟩ Elohim Avraham, ayahmu; janganlah takut, sebab ⟨את⟩-bersamamu Aku ⟨ini⟩; Aku akan memberkati engkau dan Aku akan membuat ⟨את⟩ keturunanmu banyak, demi Avraham, hamba-Ku.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Lalu menampakkan diri"
+      "gloss": "menampakkan diri"
     },
     {
       "surface": "אליו",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "אברהם",
-      "gloss": "av Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "אביך",
-      "gloss": "avimu"
+      "gloss": "ayahmu"
     },
     {
       "surface": "אל",
-      "gloss": "Jangan"
+      "gloss": "janganlah"
     },
     {
       "surface": "תירא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨bersama⟩ engkau"
+      "gloss": "⟨את⟩-bersamamu"
     },
     {
       "surface": "אנכי",
@@ -69,20 +69,20 @@
     },
     {
       "surface": "וברכתיך",
-      "gloss": "dan aku akan memberkati engkau"
+      "gloss": "dan Aku akan memberkati engkau"
     },
     {
       "surface": "והרביתי",
-      "gloss": "dan aku akan membuat banyak"
+      "gloss": "dan Aku akan membuat banyak"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "benihmu"
+      "marks": "keturunanmu"
     },
     {
       "surface": "זרעך",
-      "gloss": "benihmu"
+      "gloss": "keturunanmu"
     },
     {
       "surface": "בעבור",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "hambaku"
+      "gloss": "hamba-Ku"
     }
   ],
-  "timestamp": "2026-08-08T12:09:22.453398552Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:01.434915757Z",
+  "model": "glm-5.3"
 }

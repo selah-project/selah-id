@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 14,
-  "translation": "Hanya, jangan memberontak terhadap Yahweh, dan kamu, jangan takut kepada ⟨את⟩ umat negeri itu, sebab roti kami ⟨adalah⟩ mereka — telah sirna naungan mereka dari atas mereka, dan Yahweh ⟨ada⟩ bersama kita, jangan takut kepada mereka.",
+  "translation": "Hanya, jangan memberontak terhadap Yahweh, dan kamu, jangan takut kepada ⟨את⟩ umat negeri itu, sebab roti kami ⟨adalah⟩ mereka — telah sirna naungan mereka dari atas mereka, dan Yahweh ⟨ada⟩ ⟨את⟩ bersama kita, jangan takut kepada mereka.",
   "tokens": [
     {
       "surface": "אך",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "bersama kita"
+      "gloss": "⟨את⟩ bersama kita"
     },
     {
       "surface": "אל",
@@ -89,6 +89,6 @@
       "gloss": "takut kepada mereka"
     }
   ],
-  "timestamp": "2026-08-08T07:17:44.865714335Z",
+  "timestamp": "2026-08-24T17:55:27.236114784Z",
   "model": "glm-5.2"
 }

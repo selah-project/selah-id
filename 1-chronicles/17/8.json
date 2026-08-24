@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 17,
-  "translation": "Dan Aku telah menyertai engkau di segala tempat yang engkau jalani, dan Aku melenyapkan ⟨את⟩ segala musuhmu dari hadapanmu, dan Aku akan membuat bagimu nama seperti nama ⟨ה⟩ orang-orang besar yang di bumi.",
+  "translation": "dan Aku telah menyertai engkau di segala tempat yang kaulalui, dan Aku melenyapkan ⟨את⟩ semua musuhmu dari hadapanmu, dan Aku akan menjadikan bagimu suatu nama, seperti nama orang-orang besar yang ada di bumi.",
   "tokens": [
     {
       "surface": "ואהיה",
-      "gloss": "Dan Aku telah menyertai"
+      "gloss": "dan Aku telah menyertai"
     },
     {
       "surface": "עמך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הלכת",
-      "gloss": "engkau jalani"
+      "gloss": "kaulalui"
     },
     {
       "surface": "ואכרית",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "segala musuhmu"
+      "marks": "semua musuhmu"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "semua"
     },
     {
       "surface": "אויביך",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ועשיתי",
-      "gloss": "dan Aku akan membuat"
+      "gloss": "dan Aku akan menjadikan"
     },
     {
       "surface": "לך",
@@ -77,6 +77,6 @@
       "gloss": "di bumi"
     }
   ],
-  "timestamp": "2026-08-08T12:03:18.237484932Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:28.353726789Z",
+  "model": "glm-5.3"
 }

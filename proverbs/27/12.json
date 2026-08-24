@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 27,
-  "translation": "Orang yang cerdas melihat ⟨the⟩ kejahatan, ia bersembunyi; tetapi orang-orang sederhana berjalan terus, dan mereka dihukum.",
+  "translation": "Orang berakal melihat ⟨את⟩ bahaya dan bersembunyi; orang-orang sederhana melintas dan dihukum.",
   "tokens": [
     {
       "surface": "ערום",
-      "gloss": "orang yang cerdas"
+      "gloss": "orang berakal"
     },
     {
       "surface": "ראה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "רעה",
-      "gloss": "kejahatan"
+      "gloss": "bahaya"
     },
     {
       "surface": "נסתר",
-      "gloss": "ia bersembunyi"
+      "gloss": "bersembunyi"
     },
     {
       "surface": "פתאים",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "עברו",
-      "gloss": "berjalan terus"
+      "gloss": "melintas"
     },
     {
       "surface": "נענשו",
-      "gloss": "dan mereka dihukum"
+      "gloss": "dihukum"
     }
   ],
-  "timestamp": "2026-08-08T09:35:39.496272860Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:02.739912747Z",
+  "model": "glm-5.3"
 }

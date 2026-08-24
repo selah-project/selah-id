@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 37,
-  "translation": "Dan ⟨הוּא⟩ bersabda kepadaku, “Bernubuatlah atas tulang-tulang ini, dan engkau akan berkata kepada mereka: Tulang-tulang yang kering, dengarkanlah firman Yahweh.”",
+  "translation": "Dan ⟨ia⟩ berkata kepadaku, “Bernubuatlah atas tulang-tulang ini, dan engkau akan berkata kepada mereka: Tulang-tulang yang kering, dengarlah firman Yahweh.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dan bersabda"
+      "gloss": "dan berkata"
     },
     {
       "surface": "אלי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "העצמות",
-      "gloss": "tulang-tulang"
+      "gloss": "Tulang-tulang"
     },
     {
       "surface": "היבשות",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "dengarkanlah"
+      "gloss": "dengarlah"
     },
     {
       "surface": "דבר",
@@ -60,6 +60,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T08:53:27.487675808Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:06.494758167Z",
+  "model": "glm-5.3"
 }

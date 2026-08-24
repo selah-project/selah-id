@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 15,
-  "translation": "maka jika dari mata ⟨ה⟩ jemaah ⟨hal itu⟩ telah dilakukan tanpa sengaja, maka seluruh jemaah harus mempersembahkan satu lembu jantan muda sebagai persembahan bakaran, menjadi aroma yang menyenangkan bagi Yahweh, dengan persembahan biji-bijian dan persembahan curahannya menurut peraturan, dan satu kambing jantan sebagai persembahan dosa.",
+  "translation": "Maka haruskah, jika dari mata ⟨ה⟩ jemaah itu tersembunyi dan dibuat tanpa sengaja, maka seluruh jemaah itu harus mengolah seekor lembu muda, seekor anak lembu, sebagai korban bakaran, sebagai bau yang menenangkan bagi Yahweh, dengan korban sajiannya dan curahannya menurut peraturan, dan seekor kambing jantan dari kambing-kambing itu sebagai korban penghapus dosa.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "maka jika"
+      "gloss": "maka haruskah"
     },
     {
       "surface": "אם",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "העדה",
-      "gloss": "jemaah"
+      "gloss": "jemaah itu"
     },
     {
       "surface": "נעשתה",
-      "gloss": "telah dilakukan"
+      "gloss": "tersembunyi dan dibuat"
     },
     {
       "surface": "לשגגה",
       "gloss": "tanpa sengaja"
     },
     {
-      "surface": "ועשו",
-      "gloss": "maka harus mempersembahkan"
+      "surface": "וועשו",
+      "gloss": "harus mengolah"
     },
     {
       "surface": "כל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "העדה",
-      "gloss": "jemaah"
+      "gloss": "jemaah itu"
     },
     {
       "surface": "פר",
-      "gloss": "lembu jantan"
+      "gloss": "lembu muda"
     },
     {
       "surface": "בן",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "אחד",
-      "gloss": "satu"
+      "gloss": "seekor"
     },
     {
       "surface": "לעלה",
-      "gloss": "sebagai persembahan bakaran"
+      "gloss": "sebagai korban bakaran"
     },
     {
       "surface": "לריח",
-      "gloss": "menjadi aroma"
+      "gloss": "sebagai bau"
     },
     {
       "surface": "ניחח",
-      "gloss": "yang menyenangkan"
+      "gloss": "yang menenangkan"
     },
     {
       "surface": "ליהוה",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "ומנחתו",
-      "gloss": "dengan persembahan biji-bijian"
+      "gloss": "dengan korban sajiannya"
     },
     {
       "surface": "ונסכו",
-      "gloss": "dan persembahan curahannya"
+      "gloss": "dan curahannya"
     },
     {
       "surface": "כמשפט",
@@ -93,17 +93,17 @@
     },
     {
       "surface": "עזים",
-      "gloss": "kambing"
+      "gloss": "dari kambing-kambing itu"
     },
     {
       "surface": "אחד",
-      "gloss": "satu"
+      "gloss": "seekor"
     },
     {
-      "surface": "לחטת",
-      "gloss": "sebagai persembahan dosa"
+      "surface": "לחטאת",
+      "gloss": "sebagai korban penghapus dosa"
     }
   ],
-  "timestamp": "2026-08-08T10:41:52.894870825Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:38.336332355Z",
+  "model": "glm-5.3"
 }

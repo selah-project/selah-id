@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 28,
-  "translation": "Dan bani Yisra'el menawan dari saudara-saudara mereka dua ratus ribu perempuan, anak laki-laki dan anak perempuan, dan juga jarahan banyak mereka rampas dari mereka, dan mereka membawa ⟨את⟩ ⟨ה־⟩ jarahan itu ke Shomron.",
+  "translation": "Dan bani Yisrael menawan dari antara saudara-saudara mereka dua ratus ribu: perempuan-perempuan, anak-anak lelaki dan anak-anak perempuan; juga rampasan besar mereka rampas dari mereka, lalu mereka membawa ⟨את⟩ rampasan itu ke Shomron.",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "dan mereka menawan"
+      "gloss": "menawan"
     },
     {
       "surface": "בני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מאחיהם",
-      "gloss": "dari saudara-saudara mereka"
+      "gloss": "dari antara saudara-saudara mereka"
     },
     {
       "surface": "מאתים",
@@ -33,27 +33,27 @@
     },
     {
       "surface": "נשים",
-      "gloss": "perempuan"
+      "gloss": "perempuan-perempuan"
     },
     {
       "surface": "בנים",
-      "gloss": "anak laki-laki"
+      "gloss": "anak-anak lelaki"
     },
     {
       "surface": "ובנות",
-      "gloss": "dan anak perempuan"
+      "gloss": "dan anak-anak perempuan"
     },
     {
       "surface": "וגם",
-      "gloss": "dan juga"
+      "gloss": "juga"
     },
     {
       "surface": "שלל",
-      "gloss": "jarahan"
+      "gloss": "rampasan"
     },
     {
       "surface": "רב",
-      "gloss": "banyak"
+      "gloss": "besar"
     },
     {
       "surface": "בזזו",
@@ -65,22 +65,22 @@
     },
     {
       "surface": "ויביאו",
-      "gloss": "dan mereka membawa"
+      "gloss": "mereka membawa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jarahan itu"
+      "marks": "rampasan itu"
     },
     {
       "surface": "השלל",
-      "gloss": "⟨ה־⟩ jarahan itu"
+      "gloss": "rampasan itu"
     },
     {
       "surface": "לשמרון",
       "gloss": "ke Shomron"
     }
   ],
-  "timestamp": "2026-08-08T10:16:34.672789300Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:48.330708688Z",
+  "model": "glm-5.3"
 }

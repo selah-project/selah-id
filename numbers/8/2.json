@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 8,
-  "translation": "“Berbicaralah kepada Aharon dan katakan kepadanya: Ketika engkau menaikkan ⟨את⟩ pelita-pelita, ke depan ⟨front⟩ wajah kandil itu tujuh pelita harus bercahaya.”",
+  "translation": "“Berbicaralah kepada Aharon dan katakanlah kepadanya: Apabila engkau menaikkan ⟨את⟩ lampu-lampu itu, ke arah depan menorah itulah ketujuh lampu harus bercahaya.”",
   "tokens": [
     {
       "surface": "דבר",
@@ -20,7 +20,7 @@
       "gloss": "Aharon"
     },
     {
-      "surface": "ואמרת",
+      "surface": "ו אמרת",
       "gloss": "dan katakanlah"
     },
     {
@@ -28,21 +28,21 @@
       "gloss": "kepadanya"
     },
     {
-      "surface": "בהעלתך",
-      "gloss": "ketika engkau menaikkan"
+      "surface": "ב העלתך",
+      "gloss": "apabila engkau menaikkan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pelita-pelita"
+      "marks": "lampu-lampu itu"
     },
     {
-      "surface": "הנרת",
-      "gloss": "⟨the⟩ pelita-pelita"
+      "surface": "ה נרת",
+      "gloss": "lampu-lampu itu"
     },
     {
       "surface": "אל",
-      "gloss": "ke"
+      "gloss": "ke arah"
     },
     {
       "surface": "מול",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "wajah"
+      "gloss": "wajah\/depan"
     },
     {
-      "surface": "המנורה",
-      "gloss": "⟨the⟩ kandil"
+      "surface": "ה מנורה",
+      "gloss": "menorah itu"
     },
     {
       "surface": "יאירו",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "tujuh"
+      "gloss": "ketujuh"
     },
     {
-      "surface": "הנרות",
-      "gloss": "⟨the⟩ pelita"
+      "surface": "ה נרות",
+      "gloss": "lampu"
     }
   ],
-  "timestamp": "2026-08-08T07:16:29.021819904Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:57.536237184Z",
+  "model": "glm-5.3"
 }

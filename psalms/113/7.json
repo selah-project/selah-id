@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 113,
-  "translation": "⟨yang⟩ membangkitkan ⟨האת⟩ orang lemah dari debu, dari timbunan sampah ⟨dia⟩ mengangkat orang miskin —",
+  "translation": "Ia yang membangkitkan ⟨את⟩ orang lemah dari debu, dari timbunan abu ia mengangkat ⟨את⟩ si miskin,",
   "tokens": [
     {
       "surface": "מקימי",
-      "gloss": "⟨yang⟩ membangkitkan"
+      "gloss": "membangkitkan"
     },
     {
       "surface": "מעפר",
@@ -21,17 +21,17 @@
     },
     {
       "surface": "מאשפת",
-      "gloss": "dari timbunan sampah"
+      "gloss": "dari timbunan abu"
     },
     {
       "surface": "ירים",
-      "gloss": "⟨dia⟩ mengangkat"
+      "gloss": "mengangkat"
     },
     {
       "surface": "אביון",
-      "gloss": "orang miskin"
+      "gloss": "si miskin"
     }
   ],
-  "timestamp": "2026-08-08T09:24:35.011800524Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:26.403536569Z",
+  "model": "glm-5.3"
 }

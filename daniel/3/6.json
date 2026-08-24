@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan barangsiapa yang tidak tersungkur dan menyembah, pada saat itu ia akan dilemparkan ke tengah ⟨אתון⟩ perapian api yang menyala-nyala:",
+  "translation": "Dan siapa yang tidak jatuh tersungkur dan menyembah, pada saat itu juga ia akan dilemparkan ke dalam ⟨את⟩-tungku api yang menyala-nyala.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "dan barangsiapa"
+      "gloss": "dan siapa"
     },
     {
       "surface": "די",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יפל",
-      "gloss": "tersungkur"
+      "gloss": "jatuh tersungkur"
     },
     {
       "surface": "ויסגד",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לגוא",
-      "gloss": "ke tengah"
+      "gloss": "ke dalam"
     },
     {
       "surface": "אתון",
-      "gloss": "⟨אתון⟩ perapian"
+      "gloss": "tungku"
     },
     {
       "surface": "נורא",
@@ -56,6 +56,6 @@
       "gloss": "yang menyala-nyala"
     }
   ],
-  "timestamp": "2026-08-08T11:59:08.424878790Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:51.502389485Z",
+  "model": "glm-5.3"
 }

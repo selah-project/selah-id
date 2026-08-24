@@ -1,94 +1,95 @@
 {
- "tier": "glm-5.2",
- "verse": 14,
- "ref": "jeremiah 39:14",
- "book": "jeremiah",
- "lang": "id",
- "chapter": 39,
- "translation": "Lalu mereka menyuruh mengambil ⟨את⟩ YirmeYahu dari pelataran penjagaan, dan mereka menyerahkan ⟨את⟩ dia kepada Gedalyahu bin Achikam bin Shafan, untuk mengeluarkannya ke ⟨the⟩ rumah; dan ⟨ia⟩ diam di tengah-tengah bangsa itu.",
- "tokens": [
-  {
-   "surface": "וישלחו",
-   "gloss": "Lalu mereka menyuruh"
-  },
-  {
-   "surface": "ויקחו",
-   "gloss": "mengambil"
-  },
-  {
-   "surface": "את",
-   "gloss": "⟨את⟩",
-   "marks": "YirmeYahu"
-  },
-  {
-   "surface": "ירמיהו",
-   "gloss": "YirmeYahu"
-  },
-  {
-   "surface": "מחצר",
-   "gloss": "dari pelataran"
-  },
-  {
-   "surface": "המטרה",
-   "gloss": "penjagaan"
-  },
-  {
-   "surface": "ויתנו",
-   "gloss": "dan mereka menyerahkan"
-  },
-  {
-   "surface": "אתו",
-   "gloss": "⟨את⟩ dia"
-  },
-  {
-   "surface": "אל",
-   "gloss": "kepada"
-  },
-  {
-   "surface": "גדליהו",
-   "gloss": "Gedalyahu"
-  },
-  {
-   "surface": "בן",
-   "gloss": "bin"
-  },
-  {
-   "surface": "אחיקם",
-   "gloss": "Achikam"
-  },
-  {
-   "surface": "בן",
-   "gloss": "bin"
-  },
-  {
-   "surface": "שפן",
-   "gloss": "Shafan"
-  },
-  {
-   "surface": "להוצאהו",
-   "gloss": "untuk mengeluarkannya"
-  },
-  {
-   "surface": "אל",
-   "gloss": "ke"
-  },
-  {
-   "surface": "הבית",
-   "gloss": "rumah"
-  },
-  {
-   "surface": "וישב",
-   "gloss": "dan diam"
-  },
-  {
-   "surface": "בתוך",
-   "gloss": "di tengah-tengah"
-  },
-  {
-   "surface": "העם",
-   "gloss": "bangsa itu"
-  }
- ],
- "timestamp": "2026-08-09T01:42:25.302616365Z",
- "model": "glm-5.2"
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 39:14",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 39,
+  "translation": "Lalu mereka menyuruh mengambil Yirmeyahu dari pelataran penjara, dan menyerahkan dia kepada Gedalyahu bin Ahikam bin Shafan, untuk membawanya pulang ke rumah; maka ia tinggal di tengah-tengah bangsa itu.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "lalu mereka menyuruh"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "dari pelataran"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "penjara"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dan menyerahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "kepada Gedalyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "להוצאהו",
+      "gloss": "untuk membawanya keluar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maka ia tinggal"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    }
+  ],
+  "timestamp": "2026-08-24T17:27:53.137077779Z",
+  "model": "glm-5.3"
 }

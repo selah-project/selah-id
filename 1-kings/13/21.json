@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 13,
-  "translation": "Dan berserulah ⟨dia⟩ kepada ⟨אישׁ⟩ Elohim yang datang dari Yehudah, berkata: “Beginilah kata Yahweh: oleh karena engkau telah memberontak terhadap firman Yahweh, dan tidak engkau pelihara ⟨את⟩ perintah yang diperintahkan kepadamu oleh Yahweh, Elohim-μυ:",
+  "translation": "Lalu berserulah ia kepada abdi Elohim yang datang dari Yehudah, katanya: Beginilah firman Yahweh: oleh karena engkau mendurhakai ⟨פי⟩ perkataan Yahweh dan tidak memelihara ⟨את⟩ perintah yang diperintahkan kepadamu oleh Yahweh, Elohim-mu —",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "dan berserulah"
+      "gloss": "berserulah ia"
     },
     {
       "surface": "אל",
       "gloss": "kepada"
     },
     {
-      "surface": "אישׁ",
-      "gloss": "⟨אישׁ⟩"
+      "surface": "איש",
+      "gloss": "abdi"
     },
     {
       "surface": "האלהים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "berkata"
+      "gloss": "katanya"
     },
     {
       "surface": "כה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "kata"
+      "gloss": "firman"
     },
     {
       "surface": "יהוה",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "bahwa"
     },
     {
       "surface": "מרית",
-      "gloss": "engkau telah memberontak"
+      "gloss": "engkau mendurhakai"
     },
     {
       "surface": "פי",
-      "gloss": "terhadap firman"
+      "gloss": "⟨פי⟩ perkataan"
     },
     {
       "surface": "יהוה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "שמרת",
-      "gloss": "engkau pelihara"
+      "gloss": "engkau memelihara"
     },
     {
       "surface": "את",
@@ -105,6 +105,6 @@
       "gloss": "Elohim-mu"
     }
   ],
-  "timestamp": "2026-08-09T01:44:47.618606407Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:37.990803378Z",
+  "model": "glm-5.3"
 }

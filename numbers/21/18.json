@@ -5,49 +5,49 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 21,
-  "translation": "“Sumur yang digali oleh para pemimpin, yang dikeruk oleh para pembesar ⟨העם⟩, dengan tongkat hakim, dengan tongkat-tongkat mereka.” Dan dari padang gurun ⟨mereka pergi⟩ ke Mattanah.",
+  "translation": "Sumur yang digali oleh para pembesar, yang dikikis oleh para bangsawan ⟨dari⟩ umat itu, dengan tongkat kenegaraan, dengan tongkat-tongkat mereka; dan dari padang gurun ⟨ke⟩ Mattanah (pemberian).",
   "tokens": [
     {
-      "surface": "בְּאֵ֞ר",
-      "gloss": "Sumur"
+      "surface": "באר",
+      "gloss": "sumur"
     },
     {
-      "surface": "חֲפָר֣וּהָ",
+      "surface": "חפרוה",
       "gloss": "yang digali oleh mereka"
     },
     {
-      "surface": "שָׂרִ֗ים",
-      "gloss": "para pemimpin"
-    },
-    {
-      "surface": "כָּר֨וּהָ֙",
-      "gloss": "yang dikeruk oleh mereka"
-    },
-    {
-      "surface": "נְדִיבֵ֣י",
+      "surface": "שרים",
       "gloss": "para pembesar"
     },
     {
-      "surface": "הָעָ֔ם",
-      "gloss": "rakyat"
+      "surface": "כרוה",
+      "gloss": "yang dikikis oleh mereka"
     },
     {
-      "surface": "בִּמְחֹקֵ֖ק",
-      "gloss": "dengan pemberi hukum"
+      "surface": "נדיבי",
+      "gloss": "para bangsawan"
     },
     {
-      "surface": "בְּמִשְׁעֲנֹתָ֑ם",
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "במחקק",
+      "gloss": "dengan tongkat kenegaraan"
+    },
+    {
+      "surface": "במשענתם",
       "gloss": "dengan tongkat-tongkat mereka"
     },
     {
-      "surface": "וּמִמִּדְבָּ֖ר",
-      "gloss": "Dan dari padang gurun"
+      "surface": "וממדבר",
+      "gloss": "dan dari padang gurun"
     },
     {
-      "surface": "מַתָּנָֽה",
-      "gloss": "ke Mattanah"
+      "surface": "מתנה",
+      "gloss": "Mattanah"
     }
   ],
-  "timestamp": "2026-08-08T07:20:06.193376998Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:01.085026115Z",
+  "model": "glm-5.3"
 }

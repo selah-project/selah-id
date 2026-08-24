@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan ia harus meletakkan tangannya atas kepala ⟨הָ⟩ korban bakaran itu, maka ia diterima baginya untuk menebus dia.",
+  "translation": "Lalu ia harus meletakkan tangannya ke atas kepala korban bakaran itu, maka ⟨hal itu⟩ akan diterima baginya untuk mengadakan pendamaian baginya.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "Dan ia harus meletakkan"
+      "gloss": "Lalu ia harus meletakkan"
     },
     {
       "surface": "ידו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "על",
-      "gloss": "atas"
+      "gloss": "ke atas"
     },
     {
       "surface": "ראש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ונרצה",
-      "gloss": "maka ia diterima"
+      "gloss": "maka akan diterima"
     },
     {
       "surface": "לו",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "untuk menebus"
+      "gloss": "untuk mengadakan pendamaian"
     },
     {
       "surface": "עליו",
-      "gloss": "dia"
+      "gloss": "baginya"
     }
   ],
-  "timestamp": "2026-08-08T12:11:17.819002725Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:13.683356514Z",
+  "model": "glm-5.3"
 }

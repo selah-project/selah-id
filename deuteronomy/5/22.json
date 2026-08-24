@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 5,
-  "translation": "⟨את⟩ Perkataan-perkataan ini difirmankan oleh Yahweh kepada seluruh jemaahmu di gunung, dari tengah-tengah api, awan, dan kegelapan, dengan suara besar, dan ⟨ה⟩ tidak bertambah lagi; lalu ditulisnya-Nya di atas dua loh batu, dan diberikan-Nya kepadaku.",
+  "translation": "⟨את⟩ kata-kata ini Yahweh ucapkan kepada seluruh jemaahmu di gunung, dari tengah api, awan, dan kegelapan-gelapan, dengan suara besar, dan tidak ditambahi lagi; lalu Ia menuliskannya di atas dua loh batu dan memberikannya kepadaku.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perkataan-perkataan"
+      "marks": "kata-kata ini"
     },
     {
       "surface": "הדברים",
-      "gloss": "perkataan-perkataan"
+      "gloss": "kata-kata"
     },
     {
       "surface": "האלה",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "difirmankan"
+      "gloss": "ucapkan"
     },
     {
       "surface": "יהוה",
-      "gloss": "oleh Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מתוך",
-      "gloss": "dari tengah-tengah"
+      "gloss": "dari tengah"
     },
     {
       "surface": "האש",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "והערפל",
-      "gloss": "dan kegelapan"
+      "gloss": "dan kegelapan-gelapan"
     },
     {
       "surface": "קול",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "dan ⟨tidak⟩"
+      "gloss": "dan tidak"
     },
     {
       "surface": "יסף",
-      "gloss": "bertambah lagi"
+      "gloss": "ditambahi lagi"
     },
     {
       "surface": "ויכתבם",
-      "gloss": "lalu ditulisnya-Nya"
+      "gloss": "lalu Ia menuliskannya"
     },
     {
       "surface": "על",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "ויתנם",
-      "gloss": "dan diberikan-Nya"
+      "gloss": "dan memberikannya"
     },
     {
       "surface": "אלי",
       "gloss": "kepadaku"
     }
   ],
-  "timestamp": "2026-08-08T07:25:50.316526359Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:24.840167988Z",
+  "model": "glm-5.3"
 }

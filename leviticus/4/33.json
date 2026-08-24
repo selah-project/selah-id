@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan ia harus meletakkan ⟨את⟩ tangannya ke atas kepama ⟨הַ⟩ korban penghapus dosa, dan menyembelihnya sebagai korban penghapus dosa di tempat di mana ⟨ia⟩ menyembelih ⟨את⟩ korban bakaran.",
+  "translation": "Dan ia harus meletakkan tangannya ke atas kepala korban Chattat itu, lalu menyembelihnya sebagai Chattat di tempat where ia menyembelih ⟨את⟩ korban Olah.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "Dan ia harus meletakkan"
+      "gloss": "dan ia harus meletakkan"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "korban penghapus dosa"
+      "gloss": "korban Chattat itu"
     },
     {
       "surface": "ושחט",
@@ -38,12 +38,12 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "korban penghapus dosa"
+      "gloss": "⟨את⟩-nya",
+      "marks": "sebagai Chattat"
     },
     {
       "surface": "לחטאת",
-      "gloss": "sebagai korban penghapus dosa"
+      "gloss": "sebagai Chattat"
     },
     {
       "surface": "במקום",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "di mana"
+      "gloss": "yang"
     },
     {
       "surface": "ישחט",
@@ -60,13 +60,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "korban bakaran"
+      "marks": "korban Olah"
     },
     {
       "surface": "העלה",
-      "gloss": "korban bakaran"
+      "gloss": "korban Olah"
     }
   ],
-  "timestamp": "2026-08-08T07:06:49.446386819Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:16.651843511Z",
+  "model": "glm-5.3"
 }

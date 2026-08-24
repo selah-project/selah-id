@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 42,
-  "translation": "Dan berkatalah kepada kami sang laki-laki, Adonai negeri itu, “Dengan ini aku akan mengetahui bahwa jujur kalian: saudara kalian yang satu tinggalkanlah bersamaku, dan ⟨את⟩ makanan untuk kelaparan keluarga kalian ambillah dan pergilah.",
+  "translation": "Dan berkatalah kepada kami sang laki-laki, Adonai negeri itu, “Dengan ini aku akan mengetahui bahwa jujur kalian: saudara kalian yang satu tinggalkanlah ⟨את⟩ bersamaku, dan ⟨את⟩ makanan untuk kelaparan keluarga kalian ambillah dan pergilah.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "ואת",
@@ -85,6 +85,6 @@
       "gloss": "dan pergilah"
     }
   ],
-  "timestamp": "2026-08-08T06:53:12.585867048Z",
+  "timestamp": "2026-08-24T17:55:27.072157844Z",
   "model": "glm-5.2"
 }

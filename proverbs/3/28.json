@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 3,
-  "translation": "Jangan katakan kepada sesamamu, “Pergilah dan kembalilah, dan besok aku akan memberi,” padahal ⟨ada⟩ padamu.",
+  "translation": "Jangan katakan kepada sesamamu, “Pergilah dan kembalilah, dan besok aku akan memberi,” padahal ⟨ada⟩ ⟨את⟩ padamu.",
   "tokens": [
     {
       "surface": "אל",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אתך",
-      "gloss": "padamu"
+      "gloss": "⟨את⟩ padamu"
     }
   ],
-  "timestamp": "2026-08-08T09:30:17.806695974Z",
+  "timestamp": "2026-08-24T17:55:27.094839278Z",
   "model": "glm-5.2"
 }

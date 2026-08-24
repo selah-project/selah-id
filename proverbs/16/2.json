@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 16,
-  "translation": "Segala jalan ⟨איש⟩ murni di matanya sendiri, tetapi Yahweh menimbang roh-roh.",
+  "translation": "Segala jalan seorang laki-laki bersih di mata ⟨dirinya sendiri⟩, tetapi Yahweh menimbang roh-roh.",
   "tokens": [
     {
       "surface": "כל",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "manusia"
+      "gloss": "seorang laki-laki"
     },
     {
       "surface": "זך",
-      "gloss": "murni"
+      "gloss": "bersih"
     },
     {
       "surface": "בעיניו",
-      "gloss": "di matanya"
+      "gloss": "di mata dirinya sendiri"
     },
     {
       "surface": "ותכן",
@@ -40,6 +40,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T09:33:11.010650328Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:03.959306945Z",
+  "model": "glm-5.3"
 }

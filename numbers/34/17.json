@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 34,
-  "translation": "Inilah nama-nama ⟨האנשים⟩ orang-orang yang akan membagikan-wariskan kepadamu ⟨את⟩ tanah itu: Elazar sang imam dan Yehoshua bin Nun.",
+  "translation": "Inilah nama-nama orang-orang yang akan membagikan kepada kalian ⟨את⟩ tanah itu sebagai warisan: Elazar sang imam, dan Yehosyua bin Nun.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ini"
+      "gloss": "Inilah"
     },
     {
       "surface": "שמות",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ינחלו",
-      "gloss": "akan membagikan-wariskan"
+      "gloss": "akan membagikan sebagai warisan"
     },
     {
       "surface": "לכם",
-      "gloss": "kepadamu"
+      "gloss": "kepada kalian"
     },
     {
       "surface": "את",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ויהושע",
-      "gloss": "dan Yehoshua"
+      "gloss": "dan Yehosyua"
     },
     {
       "surface": "בן",
@@ -61,6 +61,6 @@
       "gloss": "Nun"
     }
   ],
-  "timestamp": "2026-08-08T07:23:29.312781663Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:54.068424638Z",
+  "model": "glm-5.3"
 }

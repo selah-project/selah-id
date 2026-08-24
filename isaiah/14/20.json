@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 14,
-  "translation": "Tidaklah engkau bersatu dengan mereka dalam pekuburan, karena ⟨engkau⟩ telah membinasakan tanahmu, ⟨dan⟩ kaummu telah engkau bunuh; tidak akan disebut untuk selama-lamanya keturunan para pelaku kejahatan.",
+  "translation": "Tidaklah engkau bersatu ⟨את⟩ dengan mereka dalam pekuburan, karena ⟨engkau⟩ telah membinasakan tanahmu, ⟨dan⟩ kaummu telah engkau bunuh; tidak akan disebut untuk selama-lamanya keturunan para pelaku kejahatan.",
   "tokens": [
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "dengan mereka"
+      "gloss": "⟨את⟩ dengan mereka"
     },
     {
       "surface": "בקבורה",
@@ -64,6 +64,6 @@
       "gloss": "para pelaku kejahatan"
     }
   ],
-  "timestamp": "2026-08-08T08:18:00.957606695Z",
+  "timestamp": "2026-08-24T17:55:27.223466370Z",
   "model": "glm-5.2"
 }

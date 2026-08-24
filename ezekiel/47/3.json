@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 47,
-  "translation": "Pada keluarnya ⟨האישׁ⟩ ke arah timur, dan tali ukur di tangannya, maka diukurnya seribu hasta, dan disuruhnya aku melintas di air — air sampai pergelangan kaki.",
+  "translation": "Ketika ⟨האיש⟩ itu berjalan ke arah timur dengan tali ukur di tangannya, ia mengukur seribu hasta dan menuntun aku melintasi air — air sampai ⟨sampai⟩ pergelangan kaki.",
   "tokens": [
     {
       "surface": "בצאת",
-      "gloss": "pada keluarnya"
+      "gloss": "Ketika ... berjalan keluar"
     },
     {
       "surface": "האיש",
-      "gloss": "sang laki-laki"
+      "gloss": "⟨האיש⟩ itu"
     },
     {
       "surface": "קדים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וקו",
-      "gloss": "dan tali ukur"
+      "gloss": "dengan tali ukur"
     },
     {
       "surface": "בידו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וימד",
-      "gloss": "maka diukurnya"
+      "gloss": "ia mengukur"
     },
     {
       "surface": "אלף",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ויעברני",
-      "gloss": "dan disuruhnya aku melintas"
+      "gloss": "menuntun aku melintasi"
     },
     {
       "surface": "במים",
-      "gloss": "di air"
+      "gloss": "air"
     },
     {
       "surface": "מי",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "אפסים",
-      "gloss": "sampai pergelangan kaki"
+      "gloss": "pergelangan kaki"
     }
   ],
-  "timestamp": "2026-08-08T11:27:35.820455546Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:26.234749571Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan ia datang dan memberitahukan kepada ⟨אִישׁ הָאֱלֹהִים⟩, dan ⟨הוּא⟩ berkata, “Pergilah, juallah ⟨את⟩ minyak itu dan bayarlah hutangmu, dan ⟨אַתְּ⟩ serta anak-anakmu dapat hidup dari sisanya.”",
+  "translation": "Lalu datanglah ia dan memberitahukan kepada ⟨איש⟩ Elohim, dan ia berkata: “Pergilah, juallah ⟨את⟩ minyak itu dan bayarlah hutangmu, dan engkau serta anak-anakmu dapat hidup dari sisanya.”",
   "tokens": [
     {
       "surface": "ותבא",
-      "gloss": "Dan ia datang"
+      "gloss": "Lalu datanglah ia"
     },
     {
       "surface": "ותגד",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "kepada"
+      "gloss": "kepada ⟨איש⟩"
     },
     {
       "surface": "האלהים",
-      "gloss": "ha-Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan ⟨ia⟩ berkata"
+      "gloss": "dan ia berkata"
     },
     {
       "surface": "לכי",
-      "gloss": "pergilah"
+      "gloss": "Pergilah"
     },
     {
       "surface": "מכרי",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨engkau⟩"
+      "gloss": "dan engkau"
     },
     {
       "surface": "בניכי",
@@ -74,6 +74,6 @@
       "gloss": "dari sisanya"
     }
   ],
-  "timestamp": "2026-08-08T11:06:06.515722693Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:57.927630777Z",
+  "model": "glm-5.3"
 }

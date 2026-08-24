@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 3,
-  "translation": "Naiklah ke puncak ⟨the⟩ Pisga, dan angkatlah matamu ke barat, dan ke utara, dan ke selatan, dan ke timur, dan lihatlah dengan matamu sendiri, sebab engkau tidak akan menyeberangi ⟨את⟩ sungai Yarden ini.",
+  "translation": "Naiklah ke puncak HaPisgah, dan angkatlah matamu ke arah barat, dan ke utara, dan ke selatan, dan ke timur, dan pandanglah dengan matamu sendiri, sebab engkau tidak akan menyeberangi ⟨את⟩ Yarden ini.",
   "tokens": [
     {
       "surface": "עלה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ראש",
-      "gloss": "ke puncak"
+      "gloss": "puncak"
     },
     {
       "surface": "הפסגה",
-      "gloss": "⟨the⟩ Pisga"
+      "gloss": "HaPisgah"
     },
     {
       "surface": "ושא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ימה",
-      "gloss": "ke barat"
+      "gloss": "ke arah barat"
     },
     {
       "surface": "וצפנה",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "וראה",
-      "gloss": "dan lihatlah"
+      "gloss": "dan pandanglah"
     },
     {
       "surface": "בעיניך",
-      "gloss": "dengan matamu sendiri"
+      "gloss": "dengan matamu"
     },
     {
       "surface": "כי",
@@ -66,17 +66,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sungai Yarden"
+      "marks": "Yarden ini"
     },
     {
       "surface": "הירדן",
-      "gloss": "sungai Yarden"
+      "gloss": "Yarden"
     },
     {
       "surface": "הזה",
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T07:24:55.769173879Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:15.346405292Z",
+  "model": "glm-5.3"
 }

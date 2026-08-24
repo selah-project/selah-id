@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 2,
-  "translation": "Lalu ia berkata, “Satu permintaan kecil aku minta daripadamu — janganlah engkau menolak ⟨את⟩ wajahku.” Dan berkitalah raja kepadanya, “Mintalah, ibuku, sebab aku tidak akan menolak ⟨את⟩ wajahmu.”",
+  "translation": "Lalu ia berkata, “Satu permintaan kecil aku minta ⟨את⟩ daripadamu — janganlah engkau menolak ⟨את⟩ wajahku.” Dan berkitalah raja kepadanya, “Mintalah, ibuku, sebab aku tidak akan menolak ⟨את⟩ wajahmu.”",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "daripadamu"
+      "gloss": "⟨את⟩ daripadamu"
     },
     {
       "surface": "אל",
@@ -94,6 +94,6 @@
       "gloss": "wajahmu"
     }
   ],
-  "timestamp": "2026-08-08T11:01:26.859909322Z",
+  "timestamp": "2026-08-24T17:55:27.255265580Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 9,
-  "translation": "Dan kemuliaan Elohim Yisra'el naik dari atas kerub tempat ⟨ia⟩ berada, ke ambang pintu ⟨הבית⟩ bait itu; dan ⟨ia⟩ berseru kepada ⟨את⟩ orang itu, yang berpakaian kain lenan, yang mempunyai tinta pena pada pinggangnya.",
+  "translation": "Lalu kemuliaan Elohim Israel naik dari atas kerub tempat ⟨ia⟩ berada, ke ambang pintu ⟨rumah⟩ itu, dan ⟨ia⟩ memanggil ⟨kepada⟩ orang yang berpakaian kain lenan yang mempunyai tempat tinta sang juru tulis di pinggangnya.",
   "tokens": [
     {
       "surface": "וכבוד",
-      "gloss": "Dan kemuliaan"
+      "gloss": "Lalu kemuliaan"
     },
     {
       "surface": "אלהי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "נעלה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": "tempat"
     },
     {
       "surface": "היה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "di atasnya"
+      "gloss": "ia"
     },
     {
       "surface": "אל",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הבית",
-      "gloss": "bait itu"
+      "gloss": "rumah itu"
     },
     {
       "surface": "ויקרא",
-      "gloss": "dan berseru"
+      "gloss": "dan ia memanggil"
     },
     {
       "surface": "אל",
@@ -65,12 +65,11 @@
     },
     {
       "surface": "האיש",
-      "gloss": "⟨את⟩",
-      "marks": "orang itu"
+      "gloss": "orang"
     },
     {
       "surface": "הלבש",
-      "gloss": "yang berpakaian"
+      "gloss": "berpakaian"
     },
     {
       "surface": "הבדים",
@@ -82,17 +81,17 @@
     },
     {
       "surface": "קסת",
-      "gloss": "tinta"
+      "gloss": "tempat tinta"
     },
     {
       "surface": "הספר",
-      "gloss": "pena"
+      "gloss": "sang juru tulis"
     },
     {
       "surface": "במתניו",
-      "gloss": "pada pinggangnya"
+      "gloss": "di pinggangnya"
     }
   ],
-  "timestamp": "2026-08-08T11:22:36.522591134Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:46.239908127Z",
+  "model": "glm-5.3"
 }

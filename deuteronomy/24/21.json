@@ -5,52 +5,49 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 24,
-  "translation": "Ketika engkau memetik kebun anggurmu, engkau tidak akan memungut sisa bersisa di belakangmu; bagi ⟨הגר⟩, bagi ⟨היתום⟩, dan bagi ⟨האלמנה⟩ ia akan menjadi miliknya.",
+  "translation": "Apabila engkau memetik buah kebun anggurmu, janganlah engkau memungut sisinya: bagi pendatang, bagi anak yatim, dan bagi janda ⟨ialah⟩ miliknya.",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": "Ketika"
+      "surface": "כי",
+      "gloss": "apabila"
     },
     {
-      "surface": "תִבְצֹר֙",
-      "gloss": "engkau memetik"
+      "surface": "תבצר",
+      "gloss": "engkau memetik buah"
     },
     {
-      "surface": "כַּרְמְךָ֔",
+      "surface": "כרמך",
       "gloss": "kebun anggurmu"
     },
     {
-      "surface": "לֹ֥א",
-      "gloss": "tidak"
+      "surface": "לא",
+      "gloss": "janganlah"
     },
     {
-      "surface": "תְעוֹלֵ֖ל",
-      "gloss": "engkau akan memungut sisa"
+      "surface": "תעולל",
+      "gloss": "engkau memungut"
     },
     {
-      "surface": "אַחֲרֶ֑יךָ",
-      "gloss": "di belakangmu"
+      "surface": "אחריך",
+      "gloss": "sisinya"
     },
     {
-      "surface": "לַגֵּ֛ר",
-      "gloss": "bagi si ger",
-      "marks": "הגר"
+      "surface": "לגר",
+      "gloss": "bagi pendatang"
     },
     {
-      "surface": "לַיָּת֥וֹם",
-      "gloss": "bagi anak yatim",
-      "marks": "היתום"
+      "surface": "ליתום",
+      "gloss": "bagi anak yatim"
     },
     {
-      "surface": "וְלָאַלְמָנָ֖ה",
-      "gloss": "dan bagi janda",
-      "marks": "האלמנה"
+      "surface": "ולאלמנה",
+      "gloss": "dan bagi janda"
     },
     {
-      "surface": "יִהְיֶֽה",
-      "gloss": "ia akan menjadi miliknya"
+      "surface": "יהיה",
+      "gloss": "⟨ialah⟩ miliknya"
     }
   ],
-  "timestamp": "2026-08-08T07:30:03.125092309Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:01.225745037Z",
+  "model": "glm-5.3"
 }

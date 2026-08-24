@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 17,
-  "translation": "Jika ia sanggup berperang bersamaku dan memukulku, maka kami akan menjadi budakbagimu; tetapi jika aku sanggup terhadapnya dan aku memukulnya, maka kamu akan menjadi budak bagi kami dan kamu akan melayani ⟨את⟩ kami.”",
+  "translation": "Jika ia sanggup berperang ⟨את⟩ bersamaku dan memukulku, maka kami akan menjadi budakbagimu; tetapi jika aku sanggup terhadapnya dan aku memukulnya, maka kamu akan menjadi budak bagi kami dan kamu akan melayani ⟨את⟩ kami.”",
   "tokens": [
     {
       "surface": "אִם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אִתִּי֙",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "וְהִכָּ֔נִי",
@@ -81,6 +81,6 @@
       "marks": "kami"
     }
   ],
-  "timestamp": "2026-08-08T18:30:57.196248337Z",
+  "timestamp": "2026-08-24T17:55:27.171727058Z",
   "model": "glm-5.2"
 }

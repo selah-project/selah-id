@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan aku melihat seperti warna ⟨ה⟩ khashmal, seperti rupa api dengan ⟨sebuah⟩ rumah baginya sekeliling; dari rupa pinggangnya dan ke atas, dan dari rupa pinggangnya dan ke bawah, aku melihat seperti rupa api, dan ⟨ada⟩ cahaya baginya sekeliling.",
+  "translation": "Dan aku melihat seperti warna hashmal, seperti rupa api bersarang di sekelilingnya, dari rupa pinggangnya ke atas; dan dari rupa pinggangnya ke bawah aku melihat seperti rupa api, dan ⟨יש⟩ cahaya kilau bagi-Nya di sekeliling.",
   "tokens": [
     {
       "surface": "וארא",
-      "gloss": "dan aku melihat"
+      "gloss": "Dan aku melihat"
     },
     {
       "surface": "כעין",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חשמל",
-      "gloss": "khashmal"
+      "gloss": "hashmal"
     },
     {
       "surface": "כמראה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "rumah"
+      "gloss": "bersarang"
     },
     {
       "surface": "לה",
-      "gloss": "baginya"
+      "gloss": "di dalamnya"
     },
     {
       "surface": "סביב",
-      "gloss": "sekeliling"
+      "gloss": "di sekeliling"
     },
     {
       "surface": "ממראה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ולמעלה",
-      "gloss": "dan ke atas"
+      "gloss": "ke atas"
     },
     {
       "surface": "וממראה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ולמטה",
-      "gloss": "dan ke bawah"
+      "gloss": "ke bawah"
     },
     {
       "surface": "ראיתי",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "ונגה",
-      "gloss": "dan cahaya"
+      "gloss": "dan cahaya kilau"
     },
     {
       "surface": "לו",
-      "gloss": "baginya"
+      "gloss": "bagi-Nya"
     },
     {
       "surface": "סביב",
-      "gloss": "sekeliling"
+      "gloss": "di sekeliling"
     }
   ],
-  "timestamp": "2026-08-08T08:44:32.004611295Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:13.295919863Z",
+  "model": "glm-5.3"
 }

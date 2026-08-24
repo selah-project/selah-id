@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 12,
-  "translation": "yang berkata, “Dengan lidah kami kami akan berkuasa; bibir kami bersama kami: siapa ⟨yang menjadi⟩ tuan atas kami?”",
+  "translation": "yang berkata, “Dengan lidah kami kami akan berkuasa; bibir kami ⟨את⟩ bersama kami: siapa ⟨yang menjadi⟩ tuan atas kami?”",
   "tokens": [
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "bersama kami"
+      "gloss": "⟨את⟩ bersama kami"
     },
     {
       "surface": "מי",
@@ -44,6 +44,6 @@
       "gloss": "atas kami"
     }
   ],
-  "timestamp": "2026-08-08T12:24:00.201299055Z",
+  "timestamp": "2026-08-24T17:55:27.138008908Z",
   "model": "glm-5.2"
 }

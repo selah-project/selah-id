@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 24,
-  "translation": "Maka masuklah ⟨האישׁ⟩ laki-laki itu ke ⟨הביתה⟩ rumah, dan ⟨ia⟩ membongkar muatan ⟨הגמלים⟩ unta-unta itu, dan memberi jerami dan makanan bagi ⟨לגמלים⟩ unta-unta, serta air untuk membasuh kaki ⟨רגליו⟩-nya dan kaki ⟨האנשים⟩ orang-orang yang bersama dia.",
+  "translation": "Lalu masuklah ⟨את⟩ orang itu ke dalam rumah, dan ditanggalkanlah unta-unta itu, diberikannya jerami dan makanan ternak untuk unta-unta itu, serta air untuk membasuh kakinya dan kaki orang-orang yang ⟨את⟩ bersamanya.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Maka masuklah"
+      "gloss": "masuklah"
     },
     {
       "surface": "האיש",
-      "gloss": "laki-laki itu"
+      "gloss": "orang itu"
     },
     {
       "surface": "הביתה",
-      "gloss": "ke rumah"
+      "gloss": "ke dalam rumah"
     },
     {
       "surface": "ויפתח",
-      "gloss": "dan membongkar muatan"
+      "gloss": "ditanggalkanlah"
     },
     {
       "surface": "הגמלים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "dan memberi"
+      "gloss": "diberikannya"
     },
     {
       "surface": "תבן",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ומספוא",
-      "gloss": "dan makanan"
+      "gloss": "dan makanan ternak"
     },
     {
       "surface": "לגמלים",
-      "gloss": "bagi unta-unta"
+      "gloss": "untuk unta-unta itu"
     },
     {
       "surface": "ומים",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "רגליו",
-      "gloss": "kaki"
+      "gloss": "kakinya"
     },
     {
       "surface": "ורגלי",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersama dia"
+      "gloss": "⟨את⟩ bersamanya"
     }
   ],
-  "timestamp": "2026-08-08T10:22:10.018516899Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:57.481471213Z",
+  "model": "glm-5.3"
 }

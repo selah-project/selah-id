@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 13,
-  "translation": "Dan tidak sanggup ⟨the⟩ bumi menanggung mereka untuk diam bersama-sama, sebab ada harta mereka banyak, dan tidak mampu mereka diam bersama-sama.",
+  "translation": "Tetapi tanah itu tidak sanggup memikul ⟨את⟩ ⟨אתם⟩ mereka untuk tinggal bersama-sama, sebab harta milik mereka banyak dan mereka tidak dapat tinggal bersama-sama.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Dan tidak"
+      "gloss": "Tetapi tidak"
     },
     {
       "surface": "נשא",
-      "gloss": "sanggup menanggung"
+      "gloss": "sanggup memikul"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "bumi"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mereka"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "tanah itu"
     },
     {
       "surface": "לשבת",
-      "gloss": "untuk diam"
+      "gloss": "untuk tinggal"
     },
     {
       "surface": "יחדו",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "ada"
+      "gloss": "adalah"
     },
     {
       "surface": "רכושם",
-      "gloss": "harta mereka"
+      "gloss": "harta milik mereka"
     },
     {
       "surface": "רב",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "יכלו",
-      "gloss": "mampu mereka"
+      "gloss": "dapat"
     },
     {
       "surface": "לשבת",
-      "gloss": "diam"
+      "gloss": "tinggal"
     },
     {
       "surface": "יחדו",
       "gloss": "bersama-sama"
     }
   ],
-  "timestamp": "2026-08-08T12:09:02.835360383Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.087953225Z",
+  "model": "glm-5.3"
 }

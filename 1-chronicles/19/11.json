@@ -5,12 +5,12 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan ⟨את⟩ sisa ⟨the⟩ rakyat ia berikan ke dalam tangan Avshai saudaranya, dan mereka menyusun barisan untuk melawan bani Ammon.",
+  "translation": "Dan ⟨את⟩ sisa tentak itu diserahkannya ke dalam tangan Avishai, saudaranya, lalu mereka mengatur barisan untuk berhadapan dengan bani Ammon.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Dan ⟨את⟩",
-      "marks": "sisa"
+      "gloss": "⟨את⟩",
+      "marks": "sisa tentak itu"
     },
     {
       "surface": "יתר",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "rakyat"
+      "gloss": "tentak itu"
     },
     {
       "surface": "נתן",
-      "gloss": "ia berikan"
+      "gloss": "diserahkannya"
     },
     {
       "surface": "ביד",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אבשי",
-      "gloss": "Avshai"
+      "gloss": "Avishai"
     },
     {
       "surface": "אחיו",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "ויערכו",
-      "gloss": "dan mereka menyusun barisan"
+      "gloss": "lalu mereka mengatur barisan"
     },
     {
       "surface": "לקראת",
-      "gloss": "untuk melawan"
+      "gloss": "untuk berhadapan dengan"
     },
     {
       "surface": "בני",
@@ -53,6 +53,6 @@
       "gloss": "Ammon"
     }
   ],
-  "timestamp": "2026-08-08T12:03:43.155876345Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:11.769107289Z",
+  "model": "glm-5.3"
 }

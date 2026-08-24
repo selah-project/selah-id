@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan engkau akan memberikan ⟨את⟩ orang-orang Lewi kepada Aharon dan kepada anak-anaknya; diberikan, diberikanlah mereka kepadanya dari antara bani Yisrael.",
+  "translation": "Dan engkau akan memberikan ⟨את⟩ orang-orang Lewi kepada Aharon dan kepada anak-anaknya; diberikan, diberikanlah mereka kepadanya ⟨את⟩ dari antara bani Yisrael.",
   "tokens": [
     {
       "surface": "ונתתה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari antara"
+      "gloss": "⟨את⟩ dari antara"
     },
     {
       "surface": "בני",
@@ -57,6 +57,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-08T07:14:11.895584774Z",
+  "timestamp": "2026-08-24T17:55:27.228069830Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 1,
-  "translation": "Lalu Eliyahu menjawab dan berbicara kepada panglima ⟨ה⟩ lima puluh itu: “Jika aku ⟨ini⟩ orang Elohim, biarlah turun api dari ⟨ה⟩ langit dan memakan engkau serta lima puluh orangmu.” Lalu turunlah api dari ⟨ה⟩ langit dan memakan dia serta lima puluh orangnya.",
+  "translation": "Dan Eliyahu menjawab dan berbicara kepada panglima lima puluhan itu: “Jika aku seorang איש Elohim, biarlah turun api dari langit dan memakan ⟨את⟩ engkau dan ⟨את⟩ lima puluh orangmu.” Lalu turunlah api dari langit dan memakan ⟨את⟩ dia dan ⟨את⟩ lima puluh orangnya.",
   "tokens": [
     {
       "surface": "ויענה",
-      "gloss": "Lalu ... menjawab"
+      "gloss": "menjawab"
     },
     {
       "surface": "אליהו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "החמשים",
-      "gloss": "⟨ה⟩ lima puluh itu"
+      "gloss": "lima puluhan itu"
     },
     {
       "surface": "ואם",
-      "gloss": "Jika"
+      "gloss": "jika"
     },
     {
       "surface": "איש",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "תרד",
-      "gloss": "biarlah turun"
+      "gloss": "turun"
     },
     {
       "surface": "אש",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "⟨ה⟩ langit"
+      "gloss": "langit"
     },
     {
       "surface": "ותאכל",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "serta ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lima puluh orangmu"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ותרד",
-      "gloss": "Lalu turunlah"
+      "gloss": "lalu turunlah"
     },
     {
       "surface": "אש",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "⟨ה⟩ langit"
+      "gloss": "langit"
     },
     {
       "surface": "ותאכל",
@@ -108,7 +108,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "serta ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lima puluh orangnya"
     },
     {
@@ -116,6 +116,6 @@
       "gloss": "lima puluh orangnya"
     }
   ],
-  "timestamp": "2026-08-08T08:08:19.035821934Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:17.800707092Z",
+  "model": "glm-5.3"
 }

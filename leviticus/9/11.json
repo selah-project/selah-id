@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 9,
-  "translation": "Dan ⟨את⟩ daging dan ⟨את⟩ kulit ia bakar dengan api di luar ⟨ן⟩ perkemahan.",
+  "translation": "Dan ⟨את⟩ daging serta ⟨את⟩ kulitnya ia bakar dalam api di luar tempat perkemahan.",
   "tokens": [
     {
       "surface": "ואת",
@@ -19,11 +19,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kulit"
+      "marks": "kulitnya"
     },
     {
       "surface": "העור",
-      "gloss": "kulit"
+      "gloss": "kulitnya"
     },
     {
       "surface": "שרף",
@@ -31,7 +31,7 @@
     },
     {
       "surface": "באש",
-      "gloss": "dengan api"
+      "gloss": "dalam api"
     },
     {
       "surface": "מחוץ",
@@ -39,9 +39,9 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "perkemahan"
+      "gloss": "tempat perkemahan"
     }
   ],
-  "timestamp": "2026-08-08T12:36:34.393807315Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:31.753546650Z",
+  "model": "glm-5.3"
 }

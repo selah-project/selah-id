@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 28,
-  "translation": "Dan Zikhri, seorang pahlawan dari Efrayim, membunuh ⟨את⟩ Ma'aseyahu bin ⟨ה־⟩ raja, dan ⟨את⟩ Azriqam, pembesar ⟨ה־⟩ istana, dan ⟨את⟩ Elqanah, orang kedua ⟨setelah⟩ ⟨ה־⟩ raja.",
+  "translation": "Dan Zikhri, seorang pahlawan dari Efrayim, membunuh ⟨את⟩ Maaseyahu anak raja, dan ⟨את⟩ Azrikam, penguasa ⟨rumah⟩ istana, dan ⟨את⟩ Elkana, orang kedua sesudah raja.",
   "tokens": [
     {
       "surface": "ויהרג",
-      "gloss": "dan ... membunuh"
+      "gloss": "membunuh"
     },
     {
       "surface": "זכרי",
@@ -17,54 +17,54 @@
     },
     {
       "surface": "גבור",
-      "gloss": "seorang pahlawan"
+      "gloss": "pahlawan"
     },
     {
       "surface": "אפרים",
-      "gloss": "dari Efrayim"
+      "gloss": "Efrayim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ma'aseyahu"
+      "marks": "Maaseyahu"
     },
     {
       "surface": "מעשיהו",
-      "gloss": "Ma'aseyahu"
+      "gloss": "Maaseyahu"
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "anak"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨ה־⟩ raja"
+      "gloss": "raja"
     },
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "Azriqam"
+      "marks": "Azrikam"
     },
     {
       "surface": "עזריקם",
-      "gloss": "Azriqam"
+      "gloss": "Azrikam"
     },
     {
       "surface": "נגיד",
-      "gloss": "pembesar"
+      "gloss": "penguasa"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨ה־⟩ istana"
+      "gloss": "istana"
     },
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "Elqanah"
+      "marks": "Elkana"
     },
     {
       "surface": "אלקנה",
-      "gloss": "Elqanah"
+      "gloss": "Elkana"
     },
     {
       "surface": "משנה",
@@ -72,9 +72,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨setelah⟩ ⟨ה־⟩ raja"
+      "gloss": "raja"
     }
   ],
-  "timestamp": "2026-08-08T10:16:34.672675176Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:48.330446611Z",
+  "model": "glm-5.3"
 }

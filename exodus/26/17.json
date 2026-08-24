@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 26,
-  "translation": "Dua pasak ⟨untuk⟩ papan yang satu, saling sambung-menyambung yang satu kepada yang lain; demikianlah kaubuat untuk semua papan ⟨ה⟩ mishkan.",
+  "translation": "Dua pasak sepatu pada satu papan, bertaut satu dengan yang lain; demikianlah engkau buat untuk semua papan ⟨את⟩ Mishkan itu.",
   "tokens": [
     {
       "surface": "שתי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ידות",
-      "gloss": "pasak"
+      "gloss": "pasak sepatu (tenon)"
     },
     {
       "surface": "לקרש",
-      "gloss": "untuk papan"
+      "gloss": "pada papan"
     },
     {
       "surface": "האחד",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "משלבת",
-      "gloss": "saling sambung-menyambung"
+      "gloss": "bertaut\/tersambung"
     },
     {
       "surface": "אשה",
-      "gloss": "yang satu"
+      "gloss": "satu (harfiah: perempuan)"
     },
     {
       "surface": "אל",
-      "gloss": "kepada"
+      "gloss": "dengan"
     },
     {
       "surface": "אחתה",
-      "gloss": "yang lain"
+      "gloss": "yang lain (harfiah: saudarinya)"
     },
     {
       "surface": "כן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "kaubuat"
+      "gloss": "engkau buat"
     },
     {
       "surface": "לכל",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "קרשי",
-      "gloss": "papan"
+      "gloss": "papan-papan"
     },
     {
       "surface": "המשכן",
-      "gloss": "⟨ה⟩ mishkan"
+      "gloss": "Mishkan itu"
     }
   ],
-  "timestamp": "2026-08-08T07:02:26.586903057Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:01.801459840Z",
+  "model": "glm-5.3"
 }

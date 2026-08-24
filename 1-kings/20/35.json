@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan seorang ⟨אישׁ⟩ dari antara bani nabi-nabi berkata kepada sesamanya, “Pada firman Yahweh, pukullah aku, aku minta.” Tetapi orang itu menolak memukulnya.",
+  "translation": "Lalu seorang dari bani para nabi berkata kepada rekannya, atas firman Yahweh: “Pukullah aku, kiranya.” Tetapi orang itu menolak memukul dia.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Dan seorang"
+      "gloss": "Lalu seorang"
     },
     {
       "surface": "אחד",
-      "gloss": "satu"
+      "gloss": "seorang"
     },
     {
       "surface": "מבני",
-      "gloss": "dari antara bani"
+      "gloss": "dari bani"
     },
     {
       "surface": "הנביאים",
-      "gloss": "nabi-nabi"
+      "gloss": "para nabi"
     },
     {
       "surface": "אמר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "sesamanya"
+      "gloss": "rekannya"
     },
     {
       "surface": "בדבר",
-      "gloss": "Pada firman"
+      "gloss": "atas firman"
     },
     {
       "surface": "יהוה",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "הכיני",
-      "gloss": "pukullah aku"
+      "gloss": "Pukullah aku"
     },
     {
       "surface": "נא",
-      "gloss": "aku minta"
+      "gloss": "kiranya"
     },
     {
       "surface": "וימאן",
-      "gloss": "dan menolak"
+      "gloss": "Tetapi menolak"
     },
     {
       "surface": "האיש",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "להכתו",
-      "gloss": "memukulnya"
+      "gloss": "memukul dia"
     }
   ],
-  "timestamp": "2026-08-08T08:07:23.004730283Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:44.922534563Z",
+  "model": "glm-5.3"
 }

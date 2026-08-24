@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 6,
-  "translation": "Dan pada hari kedelapan ia membawa dua burung tekukur atau dua anak merpati kepada ⟨ה⟩ kohen, kepada pintu ⟨ה⟩ kemah pertemuan.",
+  "translation": "Pada hari kedelapan ia membawa dua burung tekukur atau dua anak burung merpati kepada imam, ke pintu Kemah Pertemuan.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "dan pada hari"
+      "gloss": "Pada hari"
     },
     {
       "surface": "השמיני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יונה",
-      "gloss": "merpati"
+      "gloss": "burung merpati"
     },
     {
       "surface": "אל",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "⟨ה⟩ kohen"
+      "gloss": "imam"
     },
     {
       "surface": "אל",
-      "gloss": "kepada"
+      "gloss": "ke"
     },
     {
       "surface": "פתח",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "אהל",
-      "gloss": "kemah"
+      "gloss": "Kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "pertemuan"
+      "gloss": "Pertemuan"
     }
   ],
-  "timestamp": "2026-08-08T07:15:12.030757078Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:44.535858225Z",
+  "model": "glm-5.3"
 }

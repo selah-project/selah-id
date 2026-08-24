@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 50,
-  "translation": "Dan sekarang, jangan takut, aku ini akan menanggung ⟨אתכם⟩ kalian dan ⟨את⟩ anak-anak kalian yang kecil.” Dan ia menghibur ⟨אותם⟩ mereka, dan berbicara atas hati mereka.",
+  "translation": "Dan sekarang, janganlah takut; aku ini akan menanggung kamu dan ⟨את⟩ anak-anak kecilmu.” Lalu ia menghibur mereka dan berbicara ke atas hati mereka.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "jangan"
+      "gloss": "janganlah"
     },
     {
       "surface": "תיראו",
@@ -29,26 +29,24 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "kalian"
+      "gloss": "⟨את⟩ kamu"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "anak-anak kalian yang kecil"
+      "marks": "anak-anak kecilmu"
     },
     {
       "surface": "טפכם",
-      "gloss": "dan anak-anak kalian yang kecil"
+      "gloss": "anak-anak kecilmu"
     },
     {
       "surface": "וינחם",
-      "gloss": "Dan ia menghibur"
+      "gloss": "Lalu ia menghibur"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "mereka"
+      "gloss": "⟨את⟩ mereka"
     },
     {
       "surface": "וידבר",
@@ -56,13 +54,13 @@
     },
     {
       "surface": "על",
-      "gloss": "atas"
+      "gloss": "ke atas"
     },
     {
       "surface": "לבם",
       "gloss": "hati mereka"
     }
   ],
-  "timestamp": "2026-08-09T01:37:54.229507703Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:30.752562181Z",
+  "model": "glm-5.3"
 }

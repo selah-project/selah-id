@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 18,
-  "translation": "Jawablah aku, Yahweh, jawablah aku, dan tahulah bangsa ini bahwa Engkaulah Yahweh, ⟨האלהים⟩ Elohim, dan Engkaulah yang telah membalikkan ⟨את⟩ hati mereka ke belakang.",
+  "translation": "Jawablah aku, Yahweh, jawablah aku, dan biarlah bangsa ini tahu bahwa Engkaulah Yahweh, ⟨את⟩ Elohim yang sejati, dan bahwa Engkaulah yang membalikkan hati mereka ke belakang.",
   "tokens": [
     {
       "surface": "ענני",
-      "gloss": "jawablah aku"
+      "gloss": "Jawablah aku"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "dan tahulah"
+      "gloss": "dan biarlah … tahu"
     },
     {
       "surface": "העם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohim yang sejati"
     },
     {
       "surface": "ואתה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הסבת",
-      "gloss": "yang telah membalikkan"
+      "gloss": "yang membalikkan"
     },
     {
       "surface": "את",
@@ -69,6 +69,6 @@
       "gloss": "ke belakang"
     }
   ],
-  "timestamp": "2026-08-08T08:07:02.157155503Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:52.309159982Z",
+  "model": "glm-5.3"
 }

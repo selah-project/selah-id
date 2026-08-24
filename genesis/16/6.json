@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 16,
-  "translation": "Maka berkatalah Avram kepada Sarai: “Lihat, budakmu ⟨⟨adalah⟩⟩ di tanganmu; perbuatlah kepadanya ⟨apa yang⟩ baik di matamu.” Maka Sarai menindasnya, dan ia melarikan diri dari hadapannya.",
+  "translation": "Lalu Avram berkata kepada Sarai, “Lihat, hambamu perempuan ⟨ini⟩ ada di tanganmu; perbuatlah kepadanya apa yang baik di matamu.” Maka Sarai menindas dia, dan ⟨Hagar⟩ melarikan diri dari hadapannya.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "maka berkatalah"
+      "gloss": "berkata"
     },
     {
       "surface": "אברם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "lihat"
+      "gloss": "Lihat"
     },
     {
       "surface": "שפחתך",
-      "gloss": "budakmu"
+      "gloss": "hambamu perempuan"
     },
     {
       "surface": "בידך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הטוב",
-      "gloss": "yang baik"
+      "gloss": "apa yang baik"
     },
     {
       "surface": "בעיניך",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ותענה",
-      "gloss": "maka menindas"
+      "gloss": "menindas"
     },
     {
       "surface": "שרי",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "ותברח",
-      "gloss": "dan melarikan diri"
+      "gloss": "melarikan diri"
     },
     {
       "surface": "מפניה",
       "gloss": "dari hadapannya"
     }
   ],
-  "timestamp": "2026-08-08T12:30:14.284019935Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:43.882011979Z",
+  "model": "glm-5.3"
 }

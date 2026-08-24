@@ -5,20 +5,20 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 25,
-  "translation": "dan ⟨את⟩ segala raja-raja Tsor dan ⟨את⟩ segala raja-raja Tsidon dan ⟨את⟩ raja-raja ⟨ה⟩pulau yang di seberang laut",
+  "translation": "dan ⟨את⟩ semua raja Tsor, dan ⟨את⟩ semua raja Tsidon, dan ⟨את⟩ raja-raja pulau yang di seberang laut;",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "segala raja-raja Tsor"
+      "gloss": "⟨את⟩",
+      "marks": "semua raja Tsor"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "semua"
     },
     {
       "surface": "מלכי",
-      "gloss": "raja-raja"
+      "gloss": "raja"
     },
     {
       "surface": "צר",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "segala raja-raja Tsidon"
+      "gloss": "⟨את⟩",
+      "marks": "semua raja Tsidon"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "semua"
     },
     {
       "surface": "מלכי",
-      "gloss": "raja-raja"
+      "gloss": "raja"
     },
     {
       "surface": "צידון",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "raja-raja pulau"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "surface": "האי",
-      "gloss": "⟨ה⟩pulau"
+      "gloss": "pulau"
     },
     {
       "surface": "אשר",
@@ -67,6 +67,6 @@
       "gloss": "laut"
     }
   ],
-  "timestamp": "2026-08-08T08:35:27.080777497Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:22.245473390Z",
+  "model": "glm-5.3"
 }

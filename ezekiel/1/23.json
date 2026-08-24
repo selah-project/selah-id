@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan di bawah ⟨ה⟩ cakrawala sayap-sayap mereka ⟨yang⟩ lurus, ⟨yang〉 satu kepada saudari⟨nya⟩; bagi masing-masing dua sayap menutupi ⟨diri⟩ mereka, dan bagi masing-masing dua sayap menutupi ⟨diri⟩ mereka, ⟨את⟩ tubuh-tubuh mereka.",
+  "translation": "Dan di bawah ⟨the⟩ raqia, sayap-sayap mereka lurus, yang satu menuju ⟨saudara perempuannya⟩; bagi setiap ⟨satu⟩ ada dua sayap menyelubungi dirinya, dan bagi setiap ⟨satu⟩ ada dua sayap menyelubungi dirinya — ⟨את⟩ tubuh-tubuh mereka.",
   "tokens": [
     {
       "surface": "ותחת",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הרקיע",
-      "gloss": "cakrawala"
+      "gloss": "⟨the⟩ raqia"
     },
     {
       "surface": "כנפיהם",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "אשה",
-      "gloss": "satu"
+      "gloss": "yang satu"
     },
     {
       "surface": "אל",
-      "gloss": "kepada"
+      "gloss": "menuju"
     },
     {
       "surface": "אחותה",
-      "gloss": "saudari⟨nya⟩"
+      "gloss": "saudara perempuannya"
     },
     {
       "surface": "לאיש",
-      "gloss": "bagi masing-masing"
+      "gloss": "bagi setiap ⟨satu⟩"
     },
     {
       "surface": "שתים",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "מכסות",
-      "gloss": "menutupi"
+      "gloss": "menyelubungi"
     },
     {
       "surface": "להנה",
-      "gloss": "mereka"
+      "gloss": "dirinya"
     },
     {
       "surface": "ולאיש",
-      "gloss": "dan bagi masing-masing"
+      "gloss": "dan bagi setiap ⟨satu⟩"
     },
     {
       "surface": "שתים",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "מכסות",
-      "gloss": "menutupi"
+      "gloss": "menyelubungi"
     },
     {
       "surface": "להנה",
-      "gloss": "mereka"
+      "gloss": "dirinya"
     },
     {
       "surface": "את",
@@ -77,6 +77,6 @@
       "gloss": "tubuh-tubuh mereka"
     }
   ],
-  "timestamp": "2026-08-08T11:22:07.231077374Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:36.672232146Z",
+  "model": "glm-5.3"
 }

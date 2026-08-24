@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 28,
-  "translation": "Dan engkau, dekatkanlah kepadamu ⟨את⟩ Aharon saudaramu dan ⟨את⟩ anak-anaknya bersamanya, dari tengah-tengah bani Yisrael, untuk membiharakannya sebagai imam bagi-Ku: Aharon, Nadav dan Avihu, Elazar dan Itamar, anak-anak Aharon.",
+  "translation": "Dan engkau, dekatkanlah kepadamu ⟨את⟩ Aharon saudaramu dan ⟨את⟩ anak-anaknya ⟨את⟩ bersamanya, dari tengah-tengah bani Yisrael, untuk membiharakannya sebagai imam bagi-Ku: Aharon, Nadav dan Avihu, Elazar dan Itamar, anak-anak Aharon.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "מתוך",
@@ -94,6 +94,6 @@
       "gloss": "Aharon"
     }
   ],
-  "timestamp": "2026-08-08T07:02:22.004953630Z",
+  "timestamp": "2026-08-24T17:55:27.143167897Z",
   "model": "glm-5.2"
 }

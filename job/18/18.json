@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "id",
   "chapter": 18,
-  "translation": "Mereka menolak dia dari ⟨the⟩ terang ke ⟨the⟩ kegelapan, dan dari ⟨the⟩ dunia mereka mengusir dia.",
+  "translation": "Ia dihalau dari terang ⟨ke⟩ gelap, dan dari bumi ⟨yang didiami⟩ ia diusir.",
   "tokens": [
     {
       "surface": "יהדפהו",
-      "gloss": "mereka menolak dia"
+      "gloss": "dihalau"
     },
     {
       "surface": "מאור",
@@ -21,17 +21,17 @@
     },
     {
       "surface": "חשך",
-      "gloss": "kegelapan"
+      "gloss": "gelap"
     },
     {
       "surface": "ומתבל",
-      "gloss": "dan dari dunia"
+      "gloss": "dari bumi yang didiami"
     },
     {
       "surface": "ינדהו",
-      "gloss": "mereka mengusir dia"
+      "gloss": "ia diusir"
     }
   ],
-  "timestamp": "2026-08-08T09:40:25.497410166Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:13.509297099Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 6,
-  "translation": "Lalu ⟨ia⟩ berkata, “Yahweh, Elohim ⟨dari⟩ Yisra'el, tidak ada seperti-Mu Elohim di langit dan di bumi, yang menjaga ⟨ה⟩ berit dan ⟨ה⟩ hesed bagi hamba-hamba-Mu yang berjalan di hadapan-Mu dengan segenap hati mereka.",
+  "translation": "Ia berkata: “Yahweh, Elohim Yisrael, tidak ada seperti-Mu, Elohim, di langit dan di bumi — yang memelihara berjanji dan hesed bagi hamba-hamba-Mu yang berjalan di hadapan-Mu dengan segenap hati mereka.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "lalu berkata"
+      "gloss": "Ia berkata"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אין",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "שמר",
-      "gloss": "yang menjaga"
+      "gloss": "memelihara"
     },
     {
       "surface": "הברית",
-      "gloss": "berit"
+      "gloss": "berjanji"
     },
     {
       "surface": "והחסד",
@@ -76,6 +76,6 @@
       "gloss": "hati mereka"
     }
   ],
-  "timestamp": "2026-08-08T10:11:50.113930253Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:54.364077931Z",
+  "model": "glm-5.3"
 }

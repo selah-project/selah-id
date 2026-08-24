@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 1,
-  "translation": "Lalu ⟨ia⟩ mengirim kepadanya seorang panglima lima puluh beserta lima puluh orangnya, dan ⟨ia⟩ naik kepadanya, dan lihat, ⟨ia⟩ duduk di atas puncak ⟨ה⟩ gunung itu, dan ⟨ia⟩ berbicara kepadanya: “Wahai orang ⟨ה⟩ Elohim, ⟨raja⟩ telah berfirman: Turunlah!”",
+  "translation": "Lalu raja mengirim kepadanya seorang panglima lima puluhan beserta lima puluh orangnya, dan ia naik mendapatkannya, dan lihat, ia duduk di puncak gunung itu, dan ia berbicara kepadanya: “Hai orang ⟨dari⟩ Elohim, beginilah kata raja: Turunlah!”",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Lalu ⟨ia⟩ mengirim"
+      "gloss": "mengirim"
     },
     {
       "surface": "אליו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "seorang panglima"
+      "gloss": "panglima"
     },
     {
       "surface": "חמשים",
-      "gloss": "lima puluh"
+      "gloss": "lima puluhan"
     },
     {
       "surface": "וחמשיו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "dan ⟨ia⟩ naik"
+      "gloss": "dan ia naik"
     },
     {
       "surface": "אליו",
-      "gloss": "kepadanya"
+      "gloss": "mendapatkannya"
     },
     {
       "surface": "והנה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ישב",
-      "gloss": "⟨ia⟩ duduk"
+      "gloss": "duduk"
     },
     {
       "surface": "על",
-      "gloss": "di atas"
+      "gloss": "di"
     },
     {
       "surface": "ראש",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ההר",
-      "gloss": "⟨ה⟩ gunung itu"
+      "gloss": "gunung itu"
     },
     {
       "surface": "וידבר",
-      "gloss": "dan ⟨ia⟩ berbicara"
+      "gloss": "dan ia berbicara"
     },
     {
       "surface": "אליו",
@@ -65,25 +65,25 @@
     },
     {
       "surface": "איש",
-      "gloss": "Wahai orang"
+      "gloss": "orang"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨ה⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨raja⟩"
+      "gloss": "raja"
     },
     {
       "surface": "דבר",
-      "gloss": "telah berfirman"
+      "gloss": "berkata"
     },
     {
       "surface": "רדה",
       "gloss": "Turunlah"
     }
   ],
-  "timestamp": "2026-08-08T08:08:19.035611582Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:17.800394220Z",
+  "model": "glm-5.3"
 }

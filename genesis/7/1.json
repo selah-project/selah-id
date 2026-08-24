@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 7,
-  "translation": "Lalu berkatalah Yahweh kepada Noakh: “Masuklah engkau dan seluruh keluargamu ke dalam ⟨ה⟩ tabut, karena engkau telah kulihat ⟨את⟩ benar di hadapan-Ku dalam angkatan ini.”",
+  "translation": "Lalu Yahweh berfirman kepada Noakh: “Masuklah ⟨את⟩ engkau dan seluruh rumah tanggamu ke dalam ⟨את⟩ bahtera itu, sebab engkaulah yang Kulihat sebagai orang benar di hadapan-Ku dalam angkatan ini.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lalu berkatalah"
+      "gloss": "Lalu berfirman"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ביתך",
-      "gloss": "keluargamu"
+      "gloss": "rumah tanggamu"
     },
     {
       "surface": "אל",
@@ -41,20 +41,19 @@
     },
     {
       "surface": "התבה",
-      "gloss": "⟨ה⟩ tabut"
+      "gloss": "bahtera itu"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "engkau"
+      "gloss": "⟨את⟩ engkau"
     },
     {
       "surface": "ראיתי",
-      "gloss": "telah kulihat"
+      "gloss": "Kulihat"
     },
     {
       "surface": "צדיק",
@@ -73,6 +72,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T10:19:10.475486112Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:50.825525180Z",
+  "model": "glm-5.3"
 }

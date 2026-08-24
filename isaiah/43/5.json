@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 43,
-  "translation": "Jangan takut, sebab Aku ⟨bersama⟩ engkau; dari timur Aku akan membawa keturunanmu, dan dari barat Aku akan mengumpulkan engkau.",
+  "translation": "Jangan takut, sebab Aku ⟨את⟩ ⟨bersama⟩ engkau; dari timur Aku akan membawa keturunanmu, dan dari barat Aku akan mengumpulkan engkau.",
   "tokens": [
     {
       "surface": "אַל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אִתְּךָ",
-      "gloss": "⟨bersama⟩ engkau"
+      "gloss": "⟨את⟩ ⟨bersama⟩ engkau"
     },
     {
       "surface": "אָנִי",
@@ -48,6 +48,6 @@
       "gloss": "Aku akan mengumpulkan engkau"
     }
   ],
-  "timestamp": "2026-08-08T11:12:43.164746277Z",
+  "timestamp": "2026-08-24T17:55:27.224431631Z",
   "model": "glm-5.2"
 }

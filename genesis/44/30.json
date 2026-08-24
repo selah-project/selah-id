@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 44,
-  "translation": "Dan sekarang, ketika aku datang kepada hambamu ayahku, dan ⟨ה⟩ remaja itu tidak ada bersama kita, dan nyawa-nya terikat pada nyawa-nya —",
+  "translation": "Dan sekarang, ketika aku datang kepada hambamu ayahku, dan anak itu tidak ada bersama kita — dan jiwanya terikat pada jiwa ⟨את⟩-nya —",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "dan sekarang"
+      "gloss": "Dan sekarang"
     },
     {
       "surface": "כבאי",
-      "gloss": "ketika datang-ku"
+      "gloss": "ketika aku datang"
     },
     {
       "surface": "אל",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "hamba-mu"
+      "gloss": "hambamu"
     },
     {
       "surface": "אבי",
-      "gloss": "ayah-ku"
+      "gloss": "ayahku"
     },
     {
       "surface": "והנער",
-      "gloss": "dan ⟨ה⟩ remaja itu"
+      "gloss": "dan anak itu"
     },
     {
       "surface": "איננו",
@@ -37,11 +37,12 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "bersama kita"
+      "gloss": "⟨את⟩",
+      "marks": "bersama kita"
     },
     {
       "surface": "ונפשו",
-      "gloss": "dan nyawa-nya"
+      "gloss": "dan jiwanya"
     },
     {
       "surface": "קשורה",
@@ -49,9 +50,9 @@
     },
     {
       "surface": "בנפשו",
-      "gloss": "pada nyawa-nya"
+      "gloss": "pada jiwanya"
     }
   ],
-  "timestamp": "2026-08-08T10:25:03.964722698Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:22.986220708Z",
+  "model": "glm-5.3"
 }

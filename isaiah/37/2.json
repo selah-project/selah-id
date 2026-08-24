@@ -5,20 +5,20 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 37,
-  "translation": "Lalu ⟨הוא⟩ mengirim ⟨את⟩ Elyaqim yang atas ⟨ה⟩ bait dan ⟨את⟩ Shevna sang juru tulis dan ⟨את⟩ para tetua imam, yang menutupi diri dengan kain sak, kepada Yeshayahu ben Amots sang nabi.",
+  "translation": "Lalu ia mengutus ⟨את⟩ Elyakim yang ⟨⟨berkuasa⟩⟩ atas ⟨⟨istana⟩⟩ itu, dan ⟨את⟩ Shevna sang juru tulis, dan ⟨את⟩ para tua-tua imam, berselimut kain karung, kepada Yesha'yahu bin Amots sang nabi.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "lalu mengirim"
+      "gloss": "Lalu ia mengutus"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elyaqim"
+      "marks": "Elyakim"
     },
     {
       "surface": "אליקים",
-      "gloss": "Elyaqim"
+      "gloss": "Elyakim"
     },
     {
       "surface": "אשר",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "bait"
+      "gloss": "rumah itu"
     },
     {
       "surface": "ואת",
@@ -48,23 +48,23 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "para tetua"
+      "marks": "para tua-tua imam"
     },
     {
       "surface": "זקני",
-      "gloss": "para tetua"
+      "gloss": "para tua-tua"
     },
     {
       "surface": "הכהנים",
-      "gloss": "imam"
+      "gloss": "para imam"
     },
     {
       "surface": "מתכסים",
-      "gloss": "yang menutupi diri"
+      "gloss": "berselimut"
     },
     {
       "surface": "בשקים",
-      "gloss": "dengan kain sak"
+      "gloss": "kain karung"
     },
     {
       "surface": "אל",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "ישעיהו",
-      "gloss": "Yeshayahu"
+      "gloss": "Yesha'yahu"
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "bin"
     },
     {
       "surface": "אמוץ",
@@ -87,6 +87,6 @@
       "gloss": "sang nabi"
     }
   ],
-  "timestamp": "2026-08-08T08:24:03.235850100Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:40.073806245Z",
+  "model": "glm-5.3"
 }

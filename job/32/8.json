@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "id",
   "chapter": 32,
-  "translation": "Sungguh, roh ⟨⟨adalah⟩⟩ dalam manusia, dan napas Shaddai yang memberi mereka pengertian.",
+  "translation": "Tetapi roh ⟨⟨adalah⟩⟩ yang ⟨berada⟩ dalam manusia, dan nafas Shaddai yang memberi mereka pengertian.",
   "tokens": [
     {
       "surface": "אכן",
-      "gloss": "sungguh"
+      "gloss": "Tetapi"
     },
     {
       "surface": "רוח",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ונשמת",
-      "gloss": "dan napas"
+      "gloss": "dan nafas"
     },
     {
       "surface": "שדי",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "תבינם",
-      "gloss": "memberi mereka pengertian"
+      "gloss": "yang memberi mereka pengertian"
     }
   ],
-  "timestamp": "2026-08-08T09:42:47.515544020Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:28.893522848Z",
+  "model": "glm-5.3"
 }

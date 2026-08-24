@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "id",
   "chapter": 13,
-  "translation": "Lalu bangunlah Manoach dan pergi mengikuti istrinya, dan datang kepada ⟨ה⟩ laki-laki itu, lalu berkata kepadanya, “Apakah engkau ⟨ה⟩ laki-laki yang berbicara kepada ⟨ה⟩ perempuan itu?” Dan ia berkata, “Aku.”",
+  "translation": "Lalu bangunlah Manoah dan mengikuti istrinya, dan datanglah kepada ⟨את⟩ sang laki-laki itu, dan berkatalah kepadanya: “Apakah engkau ⟨adalah⟩ ⟨הָאִישׁ⟩ laki-laki itu yang berbicara kepada ⟨את⟩ perempuan itu?” Dan ia berkata: “Aku ini.”",
   "tokens": [
     {
       "surface": "ויקם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "וילך",
-      "gloss": "dan pergi"
+      "gloss": "dan mengikuti"
     },
     {
       "surface": "מנוח",
-      "gloss": "Manoach"
+      "gloss": "Manoah"
     },
     {
       "surface": "אחרי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "dan datang"
+      "gloss": "dan datanglah"
     },
     {
       "surface": "אל",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "האיש",
-      "gloss": "⟨ה⟩ laki-laki itu"
+      "gloss": "sang laki-laki itu"
     },
     {
       "surface": "ויאמר",
-      "gloss": "lalu berkata"
+      "gloss": "dan berkatalah"
     },
     {
       "surface": "לו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "⟨ה⟩ laki-laki"
+      "gloss": "laki-laki itu"
     },
     {
       "surface": "אשר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "האשה",
-      "gloss": "⟨ה⟩ perempuan itu"
+      "gloss": "perempuan itu"
     },
     {
       "surface": "ויאמר",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "אני",
-      "gloss": "Aku"
+      "gloss": "Aku ini"
     }
   ],
-  "timestamp": "2026-08-08T10:53:21.962535177Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:47.444081791Z",
+  "model": "glm-5.3"
 }

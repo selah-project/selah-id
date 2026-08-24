@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 29,
-  "translation": "Dan bukan dengan kamu sendirian aku memotong ⟨את⟩ perjanjian ini dan ⟨את⟩ sumpah kutuk ini;",
+  "translation": "Dan bukan ⟨את⟩ dengan kamu sendirian aku memotong ⟨את⟩ perjanjian ini dan ⟨את⟩ sumpah kutuk ini;",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "dengan kamu"
+      "gloss": "⟨את⟩ dengan kamu"
     },
     {
       "surface": "לבדכם",
@@ -54,6 +54,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T10:47:32.275347326Z",
+  "timestamp": "2026-08-24T17:55:27.177560929Z",
   "model": "glm-5.2"
 }

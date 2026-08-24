@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 2,
-  "translation": "Dan imam akan membakar作为 asap ⟨את⟩ bahagiannya yang menjadi peringatan, dari butir gandanya dan dari minyaknya, di atas seluruh kemenyannya — persembahan api bagi Yahweh.",
+  "translation": "Dan imam itu akan membakar sebagai ukupan ⟨את⟩ bagian peringkatannya — dari gilingannya dan dari minyaknya — beserta seluruh kemenyanannya; persembahan api bagi Yahweh.",
   "tokens": [
     {
       "surface": "והקטיר",
-      "gloss": "Dan imam akan membakar sebagai asap"
+      "gloss": "akan membakar sebagai ukupan"
     },
     {
       "surface": "הכהן",
-      "gloss": "imam"
+      "gloss": "imam itu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bahagiannya yang menjadi peringatan"
+      "marks": "bagian peringkatannya"
     },
     {
       "surface": "אזכרתה",
-      "gloss": "bahagiannya yang menjadi peringatan"
+      "gloss": "bagian peringkatannya"
     },
     {
       "surface": "מגרשה",
-      "gloss": "dari butir gandanya"
+      "gloss": "dari gilingannya"
     },
     {
       "surface": "ומשמנה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "על",
-      "gloss": "di atas"
+      "gloss": "beserta"
     },
     {
       "surface": "כל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "לבנתה",
-      "gloss": "kemenyannya"
+      "gloss": "kemenyanannya"
     },
     {
       "surface": "אשה",
@@ -53,6 +53,6 @@
       "gloss": "bagi Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T12:10:54.987723131Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:06.141940482Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 32,
-  "translation": "Maka Yahweh terhiburlah dari ⟨the⟩ bencana yang Ia firmankan untuk dilakukan kepada umat-Nya.",
+  "translation": "Maka Yahweh menyesali ⟨ה⟩ kejahatan yang telah Ia firmankan untuk dilakukan kepada umat-Nya.",
   "tokens": [
     {
       "surface": "וינחם",
-      "gloss": "maka terhiburlah"
+      "gloss": "menyesali"
     },
     {
       "surface": "יהוה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": "dari"
+      "gloss": "terhadap"
     },
     {
       "surface": "הרעה",
-      "gloss": "bencana"
+      "gloss": "kejahatan"
     },
     {
       "surface": "אשר",
@@ -40,6 +40,6 @@
       "gloss": "kepada umat-Nya"
     }
   ],
-  "timestamp": "2026-08-08T10:32:47.857906071Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:39.211967604Z",
+  "model": "glm-5.3"
 }

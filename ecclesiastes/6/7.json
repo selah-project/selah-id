@@ -5,41 +5,41 @@
   "book": "ecclesiastes",
   "lang": "id",
   "chapter": 6,
-  "translation": "Segala jerih payah manusia ⟨adalah⟩ untuk mulutnya, tetapi juga ⟨ד״ — נפש⟩ itu tidak dikenyangkan.",
+  "translation": "Segenap jerih lelah manusia ⟨adalah⟩ untuk mulutnya, namun ⟨bahkan⟩ nefesy takkan kenyang.",
   "tokens": [
     {
-      "surface": "כָּל",
-      "gloss": "segala"
+      "surface": "כל",
+      "gloss": "Segenap"
     },
     {
-      "surface": "עֲמַ֥ל",
-      "gloss": "jerih payah"
+      "surface": "עמל",
+      "gloss": "jerih lelah"
     },
     {
-      "surface": "הָאָדָ֖ם",
+      "surface": "האדם",
       "gloss": "manusia"
     },
     {
-      "surface": "לְפִ֑יהוּ",
+      "surface": "לפיהו",
       "gloss": "untuk mulutnya"
     },
     {
-      "surface": "וְגַם",
-      "gloss": "tetapi juga"
+      "surface": "וגם",
+      "gloss": "namun ⟨bahkan⟩"
     },
     {
-      "surface": "הַנֶּ֖פֶשׁ",
-      "gloss": "⟨נפש⟩ itu"
+      "surface": "הנפש",
+      "gloss": "nefesy"
     },
     {
-      "surface": "לֹ֥א",
-      "gloss": "tidak"
+      "surface": "לא",
+      "gloss": "takkan"
     },
     {
-      "surface": "תִמָּלֵֽא",
-      "gloss": "dikenyangkan"
+      "surface": "תמלא",
+      "gloss": "kenyang"
     }
   ],
-  "timestamp": "2026-08-08T09:50:19.965609308Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:16.628610849Z",
+  "model": "glm-5.3"
 }

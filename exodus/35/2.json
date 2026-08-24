@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 35,
-  "translation": "Enam hari pekerjaan dilakukan, tetapi pada hari ketujuh ⟨⟨ada⟩⟩ bagimu ⟨sesuatu⟩ kudus, sabat, hari istirahat penuh bagi Yahweh; setiap orang yang melakukan pekerjaan padanya akan dihukum mati.",
+  "translation": "Enam hari pekerjaan dikerjakan, dan pada hari ketujuh akan ada bagimu kudus, syabbat, syabbaton bagi Yahweh; setiap orang yang melakukan pekerjaan padanya akan dihukum mati.",
   "tokens": [
     {
       "surface": "ששת",
-      "gloss": "Enam"
+      "gloss": "enam"
     },
     {
       "surface": "ימים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "dilakukan"
+      "gloss": "dikerjakan"
     },
     {
       "surface": "מלאכה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וביום",
-      "gloss": "tetapi pada hari"
+      "gloss": "dan pada hari"
     },
     {
       "surface": "השביעי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "ada"
+      "gloss": "akan ada"
     },
     {
       "surface": "לכם",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "שבת",
-      "gloss": "sabat"
+      "gloss": "syabbat"
     },
     {
       "surface": "שבתון",
-      "gloss": "hari istirahat penuh"
+      "gloss": "syabbaton"
     },
     {
       "surface": "ליהוה",
@@ -76,6 +76,6 @@
       "gloss": "akan dihukum mati"
     }
   ],
-  "timestamp": "2026-08-08T07:04:12.830992435Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:12.853626530Z",
+  "model": "glm-5.3"
 }

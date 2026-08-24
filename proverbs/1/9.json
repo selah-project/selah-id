@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 1,
-  "translation": "Karena ⟨itu⟩ karangan kesukaan ⟨הם⟩ bagi kepalamu, dan kalung-kalung bagi tengkukmu.",
+  "translation": "Sebab mereka ⟨adalah⟩ untaian Chen untuk kepalamu, dan kalung untuk lehermu.",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": "Karena"
+      "surface": "כי",
+      "gloss": "Sebab"
     },
     {
-      "surface": "לִוְיַ֤ת",
-      "gloss": "karangan"
+      "surface": "לוית",
+      "gloss": "untaian"
     },
     {
-      "surface": "חֵ֓ן",
-      "gloss": "kesukaan"
+      "surface": "חן",
+      "gloss": "Chen"
     },
     {
-      "surface": "הֵ֬ם",
-      "gloss": "⟨הם⟩"
+      "surface": "הם",
+      "gloss": "mereka"
     },
     {
-      "surface": "לְרֹאשֶׁ֑ךָ",
-      "gloss": "bagi kepalamu"
+      "surface": "לראשך",
+      "gloss": "untuk kepalamu"
     },
     {
-      "surface": "וַ֝עֲנָקִ֗ים",
-      "gloss": "dan kalung-kalung"
+      "surface": "וענקים",
+      "gloss": "dan kalung"
     },
     {
-      "surface": "לְגַרְגְּרֹתֶֽיךָ",
-      "gloss": "bagi tengkukmu"
+      "surface": "לגרגרתיך",
+      "gloss": "untuk lehermu"
     }
   ],
-  "timestamp": "2026-08-08T11:47:18.752467742Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:04.915410056Z",
+  "model": "glm-5.3"
 }

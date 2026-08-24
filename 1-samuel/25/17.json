@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 25,
-  "translation": "Dan sekarang, ketahuilah dan lihatlah apa yang akan kauperbuat, sebab telah dipastikan ⟨the⟩ bencana terhadap tuan kami dan terhadap segenap rumahnya, dan dia ⟨adalah⟩ seorang anak kebinasaan — terlalu ⟨sulit⟩ untuk berbicara kepadanya.",
+  "translation": "Dan sekarang, ketahuilah dan lihatlah apa yang akan kauperbuat, sebab telah ditetapkan malapetaka atas tuan kita dan atas seluruh rumah tangganya; dan dia ⟨adalah⟩ anak kebejian, terlalu untuk diajak bicara.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -33,31 +33,31 @@
     },
     {
       "surface": "כלתה",
-      "gloss": "telah dipastikan"
+      "gloss": "telah ditetapkan"
     },
     {
       "surface": "הרעה",
-      "gloss": "bencana"
+      "gloss": "malapetaka"
     },
     {
       "surface": "אל",
-      "gloss": "terhadap"
+      "gloss": "atas"
     },
     {
       "surface": "אדנינו",
-      "gloss": "tuan kami"
+      "gloss": "tuan kita"
     },
     {
       "surface": "ועל",
-      "gloss": "dan terhadap"
+      "gloss": "dan atas"
     },
     {
       "surface": "כל",
-      "gloss": "segenap"
+      "gloss": "seluruh"
     },
     {
       "surface": "ביתו",
-      "gloss": "rumahnya"
+      "gloss": "rumah tangganya"
     },
     {
       "surface": "והוא",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "בליעל",
-      "gloss": "kebinasaan"
+      "gloss": "kebejian"
     },
     {
       "surface": "מדבר",
-      "gloss": "untuk berbicara"
+      "gloss": "untuk diajak bicara"
     },
     {
       "surface": "אליו",
       "gloss": "kepadanya"
     }
   ],
-  "timestamp": "2026-08-08T07:51:10.084976838Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:19.370530505Z",
+  "model": "glm-5.3"
 }

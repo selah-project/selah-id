@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan ia meletakkan ⟨את⟩ ⟨the⟩ menorah di dalam kemah pertemuan, di depan ⟨the⟩ meja, pada sisi ⟨the⟩ mishkan ke arah selatan.",
+  "translation": "Dan ia menaruh ⟨את⟩ menora itu di dalam Ohel Moed, di depan meja, di sisi selatan ⟨the⟩ Mishkan.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "Dan ia meletakkan"
+      "gloss": "dan ia menaruh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "menorah"
+      "marks": "menora"
     },
     {
       "surface": "המנרה",
-      "gloss": "menorah"
+      "gloss": "menora"
     },
     {
       "surface": "באהל",
-      "gloss": "di dalam kemah"
+      "gloss": "di dalam Ohel"
     },
     {
       "surface": "מועד",
-      "gloss": "pertemuan"
+      "gloss": "Moed"
     },
     {
       "surface": "נכח",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "על",
-      "gloss": "pada"
+      "gloss": "di sisi"
     },
     {
       "surface": "ירך",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "mishkan"
+      "gloss": "Mishkan"
     },
     {
       "surface": "נגבה",
       "gloss": "ke arah selatan"
     }
   ],
-  "timestamp": "2026-08-08T10:33:20.545047465Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:59.393300701Z",
+  "model": "glm-5.3"
 }

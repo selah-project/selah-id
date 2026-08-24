@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 24,
-  "translation": "Maka aku berbicara kepada ⟨ה⟩ rakyat pada pagi hari, dan istriku mati pada waktu senja, dan aku melakukan pada pagi hari seperti yang diperintahkan kepadaku.",
+  "translation": "Maka aku berbicara kepada ⟨the⟩ kaum itu pada waktu pagi, dan pada waktu petang isteriku mati; lalu aku melakukan pada waktu pagi seperti yang diperintahkan kepadaku.",
   "tokens": [
     {
       "surface": "ואדבר",
-      "gloss": "Maka aku berbicara"
+      "gloss": "maka aku berbicara"
     },
     {
       "surface": "אל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨ה⟩ rakyat"
+      "gloss": "⟨the⟩ kaum itu"
     },
     {
       "surface": "בבקר",
-      "gloss": "pada pagi hari"
+      "gloss": "pada waktu pagi"
     },
     {
       "surface": "ותמת",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "אשתי",
-      "gloss": "istriku"
+      "gloss": "isteriku"
     },
     {
       "surface": "בערב",
-      "gloss": "pada waktu senja"
+      "gloss": "pada waktu petang"
     },
     {
       "surface": "ואעש",
-      "gloss": "dan aku melakukan"
+      "gloss": "lalu aku melakukan"
     },
     {
       "surface": "בבקר",
-      "gloss": "pada pagi hari"
+      "gloss": "pada waktu pagi"
     },
     {
       "surface": "כאשר",
@@ -52,6 +52,6 @@
       "gloss": "diperintahkan kepadaku"
     }
   ],
-  "timestamp": "2026-08-08T08:50:11.693514050Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:36.651121281Z",
+  "model": "glm-5.3"
 }

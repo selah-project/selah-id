@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 11,
-  "translation": "Dan Yahweh memberi ⟨את⟩ kasih karunia ⟨the⟩ bangsa itu di mata ⟨the⟩ orang Mitsrayim; juga ⟨the⟩ laki-laki Mosheh sangat besar di tanah Mitsrayim, di mata hamba-hamba Paroh dan di mata ⟨the⟩ bangsa itu.",
+  "translation": "Dan Yahweh memberikan ⟨את⟩ anugerah umat itu di mata orang Mitsrayim; juga Moshe, sang laki-laki itu, sangat besar di tanah Mitsrayim, di mata hamba-hamba Paroh dan di mata umat itu.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Dan memberi"
+      "gloss": "dan memberikan"
     },
     {
       "surface": "יהוה",
@@ -18,22 +18,22 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kasih karunia"
+      "marks": "anugerah"
     },
     {
       "surface": "חן",
-      "gloss": "kasih karunia"
+      "gloss": "anugerah"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa itu"
+      "gloss": "umat itu"
     },
     {
       "surface": "בעיני",
       "gloss": "di mata"
     },
     {
-      "surface": "מצרים",
+      "surface": "mצרים",
       "gloss": "orang Mitsrayim"
     },
     {
@@ -42,15 +42,15 @@
     },
     {
       "surface": "האיש",
-      "gloss": "laki-laki itu"
+      "gloss": "sang laki-laki itu"
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Moshe"
     },
     {
       "surface": "גדול",
-      "gloss": "besar"
+      "gloss": "sangat besar"
     },
     {
       "surface": "מאד",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "העם",
-      "gloss": "bangsa itu"
+      "gloss": "umat itu"
     }
   ],
-  "timestamp": "2026-08-08T06:57:18.048547323Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:48.505019121Z",
+  "model": "glm-5.3"
 }

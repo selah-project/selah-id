@@ -5,16 +5,16 @@
   "book": "song-of-songs",
   "lang": "id",
   "chapter": 5,
-  "translation": "Aku bersumpah kepadamu ⟨אתכם⟩, putri-putri Yerushalayim: jika kamu menemukan ⟨את⟩ dodyku, apa yang akan kamu katakan kepadanya? Bahwa aku sakit karena cinta.",
+  "translation": "Aku mengikat sumpah ⟨את⟩ kalian, hai putri-putri Yerushalayim: jika kalian menemukan ⟨את⟩ kekasihku, apakah yang akan kalian sampaikan kepadanya? Bahwa ⟨aku⟩ sakit karena cinta ⟨aku⟩.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "Aku bersumpah"
+      "gloss": "Aku mengikat sumpah"
     },
     {
       "surface": "אתכם",
-      "gloss": "kepadamu ⟨אתכם⟩",
-      "marks": "kamu"
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
     },
     {
       "surface": "בנות",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "תמצאו",
-      "gloss": "kamu menemukan"
+      "gloss": "kalian menemukan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dodyku"
+      "marks": "kekasihku"
     },
     {
       "surface": "דודי",
-      "gloss": "dodyku"
+      "gloss": "kekasihku"
     },
     {
       "surface": "מה",
-      "gloss": "apa"
+      "gloss": "apakah"
     },
     {
       "surface": "תגידו",
-      "gloss": "kamu katakan"
+      "gloss": "akan kalian sampaikan"
     },
     {
       "surface": "לו",
@@ -66,6 +66,6 @@
       "gloss": "aku"
     }
   ],
-  "timestamp": "2026-08-08T09:46:41.182844182Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:28.252397223Z",
+  "model": "glm-5.3"
 }

@@ -5,58 +5,57 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 22,
-  "translation": "Ia menghukum hukuman ⟨untuk⟩ orang miskin dan orang membutuhkan; maka ⟨ada⟩ kebaikan. Bukankah itu pengenalan akan Daku? — suatu pernyataan נְאֻם Yahweh.",
+  "translation": "Ia mengadili perkara ⟨את⟩ orang miskin dan orang papa; saat itu keadaannya baik. Bukankah itulah mengenal ⟨את⟩ Aku? — neum Yahweh.",
   "tokens": [
     {
-      "surface": "דָּ֛ן",
-      "gloss": "Ia menghukum"
+      "surface": "דן",
+      "gloss": "Ia mengadili"
     },
     {
-      "surface": "דִּין",
-      "gloss": "hukuman"
+      "surface": "דין",
+      "gloss": "perkara"
     },
     {
-      "surface": "עָנִ֥י",
+      "surface": "עני",
       "gloss": "orang miskin"
     },
     {
-      "surface": "וְאֶבְי֖וֹן",
-      "gloss": "dan orang membutuhkan"
+      "surface": "ואביון",
+      "gloss": "dan orang papa"
     },
     {
-      "surface": "אָ֣ז",
-      "gloss": "maka"
+      "surface": "אז",
+      "gloss": "saat itu"
     },
     {
-      "surface": "ט֑וֹב",
-      "gloss": "kebaikan"
+      "surface": "טוב",
+      "gloss": "keadaannya baik"
     },
     {
-      "surface": "הֲלוֹא",
-      "gloss": "bukankah"
+      "surface": "הלוא",
+      "gloss": "Bukankah"
     },
     {
-      "surface": "הִ֛יא",
-      "gloss": "itu"
+      "surface": "היא",
+      "gloss": "itulah"
     },
     {
-      "surface": "הַדַּ֥עַת",
-      "gloss": "pengenalan"
+      "surface": "הדעת",
+      "gloss": "mengenal"
     },
     {
-      "surface": "אֹתִ֖י",
-      "gloss": "⟨את⟩",
-      "marks": "Daku"
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Aku"
     },
     {
-      "surface": "נְאֻם",
-      "gloss": "suatu pernyataan נְאֻם"
+      "surface": "נאם",
+      "gloss": "neum"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T18:33:52.162639442Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:16.126482152Z",
+  "model": "glm-5.3"
 }

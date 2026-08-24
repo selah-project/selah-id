@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 27,
-  "translation": "Tidak boleh menukarnya dan tidak boleh menggantikannya, ⟨את⟩ yang baik dengan yang jahat atau yang jahat dengan yang baik; tetapi jika ia sungguh-sungguh menggantikan binatang dengan binatang, maka ⟨ ⟨את⟩ ia dan ⟨את⟩ gantinya akan menjadi kudus.",
+  "translation": "Tidak boleh menukarnya dan tidak boleh menggantikannya, ⟨את⟩ yang baik dengan yang jahat atau yang jahat dengan yang baik; tetapi jika ia sungguh-sungguh menggantikan binatang dengan binatang, maka ⟨ ia dan gantinya akan menjadi kudus.",
   "tokens": [
     {
       "surface": "לא",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨את⟩ ia"
+      "gloss": "ia"
     },
     {
       "surface": "ותמורתו",
-      "gloss": "⟨את⟩ gantinya"
+      "gloss": "gantinya"
     },
     {
       "surface": "יהיה",
@@ -89,6 +89,6 @@
       "gloss": "kudus"
     }
   ],
-  "timestamp": "2026-08-08T07:13:07.837870542Z",
+  "timestamp": "2026-08-24T17:55:27.209848506Z",
   "model": "glm-5.2"
 }

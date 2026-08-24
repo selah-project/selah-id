@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan siapa pun yang menyentuh, di permukaan padang, ⟨את⟩ orang yang tewas oleh pedang, atau ⟨את⟩ mayat, atau ⟨את⟩ tulang manusia, atau ⟨את⟩ kuburan — najis tujuh hari.",
+  "translation": "Dan siapa pun yang menyentuh, di permukaan padang, orang yang tewas oleh pedang, atau mayat, atau tulang manusia, atau kuburan — najis tujuh hari.",
   "tokens": [
     {
       "surface": "וכל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בחלל",
-      "gloss": "⟨את⟩ orang yang tewas oleh"
+      "gloss": "orang yang tewas oleh"
     },
     {
       "surface": "חרב",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "במת",
-      "gloss": "⟨את⟩ mayat"
+      "gloss": "mayat"
     },
     {
       "surface": "או",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בעצם",
-      "gloss": "⟨את⟩ tulang"
+      "gloss": "tulang"
     },
     {
       "surface": "אדם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "בקבר",
-      "gloss": "⟨את⟩ kuburan"
+      "gloss": "kuburan"
     },
     {
       "surface": "יטמא",
@@ -80,6 +80,6 @@
       "gloss": "hari"
     }
   ],
-  "timestamp": "2026-08-08T10:41:28.918164074Z",
+  "timestamp": "2026-08-24T17:55:27.235128942Z",
   "model": "glm-5.2"
 }

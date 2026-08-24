@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 2,
-  "translation": "Lalu kata mereka kepadanya, “Lihatlah ini, ada bersama hamba-hambamu lima puluh orang, anak-anak yang gagah perkasa; biarlah mereka pergi, kami mohon, dan mencari ⟨את⟩ tuanmu, supaya jangan roh Yahweh mengangkatnya dan melemparkannya di salah satu gunung-gunung atau di salah satu lembah-lembah.” Tetapi jawabnya, “Tidak usah kalian menyuruh.”",
+  "translation": "Lalu kata mereka kepadanya, “Lihatlah ini, ada ⟨את⟩ bersama hamba-hambamu lima puluh orang, anak-anak yang gagah perkasa; biarlah mereka pergi, kami mohon, dan mencari ⟨את⟩ tuanmu, supaya jangan roh Yahweh mengangkatnya dan melemparkannya di salah satu gunung-gunung atau di salah satu lembah-lembah.” Tetapi jawabnya, “Tidak usah kalian menyuruh.”",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "את",
-      "gloss": "bersama"
+      "gloss": "⟨את⟩ bersama"
     },
     {
       "surface": "עבדיך",
@@ -125,6 +125,6 @@
       "gloss": "kalian menyuruh"
     }
   ],
-  "timestamp": "2026-08-08T08:08:50.562453366Z",
+  "timestamp": "2026-08-24T17:55:27.197424030Z",
   "model": "glm-5.2"
 }

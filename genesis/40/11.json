@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan gelas Paroh di tanganku, maka kuambil ⟨את⟩ anggur-anggur itu dan kuperas ⟨את־mereka⟩ ke dalam gelas Paroh, dan kuberikan ⟨את⟩ gelas itu ke atas telapak Paroh.",
+  "translation": "Dan gelas Paroh ada di tanganku, maka aku mengambil ⟨את⟩ anggur-anggur itu dan memerahnya ke dalam gelas Paroh, dan kuberikan ⟨את⟩ gelas itu ke telapak tangan Paroh.",
   "tokens": [
     {
       "surface": "וכוס",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ואקח",
-      "gloss": "maka kuambil"
+      "gloss": "maka aku mengambil"
     },
     {
       "surface": "את",
@@ -34,12 +34,12 @@
     },
     {
       "surface": "ואשחט",
-      "gloss": "dan kuperas"
+      "gloss": "dan memerahnya"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את־mereka⟩",
-      "marks": "mereka (anggur-anggur itu)"
+      "gloss": "⟨את⟩",
+      "marks": "memerahnya (objek: anggur-anggur)"
     },
     {
       "surface": "אל",
@@ -68,17 +68,17 @@
     },
     {
       "surface": "על",
-      "gloss": "ke atas"
+      "gloss": "ke"
     },
     {
       "surface": "כף",
-      "gloss": "telapak"
+      "gloss": "telapak tangan"
     },
     {
       "surface": "פרעה",
       "gloss": "Paroh"
     }
   ],
-  "timestamp": "2026-08-08T18:21:45.149506991Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:02.683821591Z",
+  "model": "glm-5.3"
 }

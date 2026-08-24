@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 16,
-  "translation": "Dan ia mengambil ⟨את⟩ dua kambing jantan itu, dan ia mendirikan ⟨את־mereka⟩ di hadapan Yahweh, di pintu kemah pertemuan.",
+  "translation": "Lalu ia akan mengambil ⟨את⟩ kedua kambing jantan itu dan menghadapkan ⟨את⟩ ⟨אתם⟩ ke hadapan Yahweh, di pintu Kemah Pertemuan.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "Dan ia mengambil"
+      "gloss": "Lalu ia akan mengambil"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dua kambing jantan itu"
+      "marks": "kedua kambing jantan itu"
     },
     {
       "surface": "שני",
-      "gloss": "dua"
+      "gloss": "kedua"
     },
     {
       "surface": "השעירם",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "והעמיד",
-      "gloss": "dan ia mendirikan"
+      "gloss": "menghadapkan"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את־mereka⟩",
-      "marks": "di hadapan Yahweh"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mereka (kedua kambing itu)"
     },
     {
       "surface": "לפני",
-      "gloss": "di hadapan"
+      "gloss": "ke hadapan"
     },
     {
       "surface": "יהוה",
@@ -47,13 +47,13 @@
     },
     {
       "surface": "אהל",
-      "gloss": "kemah"
+      "gloss": "Kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "pertemuan"
+      "gloss": "Pertemuan"
     }
   ],
-  "timestamp": "2026-08-09T01:38:00.106726116Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.213339617Z",
+  "model": "glm-5.3"
 }

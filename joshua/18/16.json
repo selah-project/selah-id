@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 18,
-  "translation": "Dan turunlah batas itu ke ujung gunung yang di depan Ге ben-Hinom, yang di lembah Refa'im ke utara, dan turunlah Ge-Hinom ke bahu orang Yevusi ke selatan, dan turunlah ke Ein Rogel.",
+  "translation": "Lalu turunlah batas itu ke ujung gunung yang di depan ⟨את⟩ lembah Ben-Hinom, yang di lembah Refaim di sebelah utara, dan turunlah ⟨את⟩ lembah Hinom ke bahu orang Yebusi di sebelah selatan, dan turunlah ke Ein Rogel.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "Dan turunlah"
+      "gloss": "turunlah"
     },
     {
       "surface": "הגבול",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ההר",
-      "gloss": "gunung"
+      "gloss": "gunung itu"
     },
     {
       "surface": "אשר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "גי",
-      "gloss": "Ge"
+      "gloss": "lembah"
     },
     {
       "surface": "בן",
-      "gloss": "ben-"
+      "gloss": "Ben (anak)"
     },
     {
       "surface": "הנם",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "רפאים",
-      "gloss": "Refa'im"
+      "gloss": "Refaim (para raksasa)"
     },
     {
       "surface": "צפונה",
-      "gloss": "ke utara"
+      "gloss": "di sebelah utara"
     },
     {
       "surface": "וירד",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "גי",
-      "gloss": "Ge-"
+      "gloss": "lembah"
     },
     {
       "surface": "הנם",
@@ -89,11 +89,11 @@
     },
     {
       "surface": "היבוסי",
-      "gloss": "orang Yevusi"
+      "gloss": "orang Yebusi"
     },
     {
       "surface": "נגבה",
-      "gloss": "ke selatan"
+      "gloss": "di sebelah selatan"
     },
     {
       "surface": "וירד",
@@ -108,6 +108,6 @@
       "gloss": "Rogel"
     }
   ],
-  "timestamp": "2026-08-08T10:50:21.447908246Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:35.630074885Z",
+  "model": "glm-5.3"
 }

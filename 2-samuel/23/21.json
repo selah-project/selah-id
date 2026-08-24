@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 23,
-  "translation": "Dan dia memukul ⟨את⟩ seorang Mitsri yang ⟨⟨berwajah⟩ menakjubkan, dan di tangan ⟨si⟩ Mitsri itu ⟨ada⟩ tombak, lalu ia turun mendapatkannya dengan tongkat, dan merampas ⟨את⟩ tombak itu dari tangan ⟨si⟩ Mitsri, dan membunuhnya dengan tombaknya.",
+  "translation": "Dan ia memukul ⟨את⟩ seorang Mitsri, seorang yang tampak gagah, dan di tangan orang Mitsri itu ada tombak; maka turunlah ia mendekatinya dengan tongkat, lalu merampas ⟨את⟩ tombak itu dari tangan orang Mitsri itu dan membunuhnya dengan tombaknya sendiri.",
   "tokens": [
     {
       "surface": "והוא",
-      "gloss": "dan dia"
+      "gloss": "Dan ia"
     },
     {
       "surface": "הכה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מראה",
-      "gloss": "penampakan"
+      "gloss": "tampak gagah"
     },
     {
       "surface": "וביד",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "המצרי",
-      "gloss": "⟨si⟩ Mitsri"
+      "gloss": "orang Mitsri itu"
     },
     {
       "surface": "חנית",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "וירד",
-      "gloss": "lalu ia turun"
+      "gloss": "maka turunlah ia"
     },
     {
       "surface": "אליו",
-      "gloss": "mendapatkannya"
+      "gloss": "mendekatinya"
     },
     {
       "surface": "בשבט",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ויגזל",
-      "gloss": "dan merampas"
+      "gloss": "lalu merampas"
     },
     {
       "surface": "את",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "המצרי",
-      "gloss": "⟨si⟩ Mitsri"
+      "gloss": "orang Mitsri itu"
     },
     {
       "surface": "ויהרגהו",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "בחניתו",
-      "gloss": "dengan tombaknya"
+      "gloss": "dengan tombaknya sendiri"
     }
   ],
-  "timestamp": "2026-08-08T07:59:16.445704112Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:58.738561187Z",
+  "model": "glm-5.3"
 }

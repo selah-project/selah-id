@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 11,
-  "translation": "Tetapi segala makhluk yang merayap yang ⟨milik⟩ ⟨העוף⟩ bersayap, yang mempunyai empat kaki, ⟨הוא⟩ merupakan benda menjijikkan bagi kalian.",
+  "translation": "Tetapi semua yang merayap ⟨yang⟩ bersayap yang mempunyai empat kaki ⟨adalah⟩ sesuatu yang menjijikkan bagimu.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "tetapi segala"
+      "gloss": "tetapi semua"
     },
     {
       "surface": "שרץ",
-      "gloss": "makhluk yang merayap"
+      "gloss": "yang merayap"
     },
     {
       "surface": "העוף",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": "⟨yang⟩"
     },
     {
       "surface": "לו",
-      "gloss": "baginya"
+      "gloss": "yang mempunyai"
     },
     {
       "surface": "ארבע",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "שקץ",
-      "gloss": "benda menjijikkan"
+      "gloss": "sesuatu yang menjijikkan"
     },
     {
       "surface": "הוא",
-      "gloss": "ia"
+      "gloss": "⟨adalah⟩"
     },
     {
       "surface": "לכם",
-      "gloss": "bagi kalian"
+      "gloss": "bagimu"
     }
   ],
-  "timestamp": "2026-08-08T12:11:40.245324496Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:44.445534534Z",
+  "model": "glm-5.3"
 }

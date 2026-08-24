@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 30,
-  "translation": "Tetapi jika ia membatalkan, membatalkan ⟨אתם⟩ setelah mendengarnya, maka ia akan menanggung ⟨את⟩ kesalahannya.",
+  "translation": "Tetapi jika ia membatalkannya setelah ia mendengarnya, maka ia akan menanggung ⟨את⟩ kesalahannya.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "tetapi jika"
+      "gloss": "Tetapi jika"
     },
     {
       "surface": "הפר",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "יפר",
-      "gloss": "ia membatalkan"
+      "gloss": "ia membatalkannya"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "mereka (nazar-nazar dan ikatan)"
+      "marks": "mereka (nazar dan ikatan itu)"
     },
     {
       "surface": "אחרי",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "mendengarnya"
+      "gloss": "ia mendengarnya"
     },
     {
       "surface": "ונשא",
@@ -46,6 +46,6 @@
       "gloss": "kesalahannya"
     }
   ],
-  "timestamp": "2026-08-08T07:22:47.472103742Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:26.233983488Z",
+  "model": "glm-5.3"
 }

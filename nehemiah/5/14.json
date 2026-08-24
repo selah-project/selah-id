@@ -5,15 +5,15 @@
   "book": "nehemiah",
   "lang": "id",
   "chapter": 5,
-  "translation": "Juga dari hari ketika ⟨הוא⟩ menitahkan ⟨את⟩ aku untuk menjadi pejabat di tanah Yehudah, dari tahun kedua puluh sampai tahun ketiga puluh dua Artahshashta sang raja — dua belas tahun — aku dan saudara-saudaraku tidak memakan roti sang pejabat.",
+  "translation": "Juga sejak hari ketika ia menunjuk ⟨את⟩ aku untuk menjadi pejabat di tanah Yehudah, dari tahun kedua puluh sampai tahun ketiga puluh dua Artakhshasta sang raja — dua belas tahun — aku dan saudara-saudaraku tidak memakan roti sang pejabat.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "juga"
+      "gloss": "Juga"
     },
     {
       "surface": "מיום",
-      "gloss": "dari hari"
+      "gloss": "sejak hari"
     },
     {
       "surface": "אשר",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "צוה",
-      "gloss": "⟨dia⟩ menitahkan"
+      "gloss": "ia menunjuk"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ aku",
-      "marks": "untuk menjadi pejabat"
+      "gloss": "⟨את⟩",
+      "marks": "aku"
     },
     {
       "surface": "להיות",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לארתחשסתא",
-      "gloss": "Artahshashta"
+      "gloss": "Artakhshasta"
     },
     {
       "surface": "המלך",
@@ -113,6 +113,6 @@
       "gloss": "memakan"
     }
   ],
-  "timestamp": "2026-08-08T10:00:10.554738044Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:00.211472932Z",
+  "model": "glm-5.3"
 }

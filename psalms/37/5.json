@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 37,
-  "translation": "Gulungkanlah jalanmu kepada Yahweh, dan percayalah kepada-Nya, dan ⟨dialah⟩ yang akan melakukan ⟨הוא⟩.",
+  "translation": "Gulirkanlah jalanmu kepada Yahweh, dan bertawakallah kepada-Nya, dan ⟨dia⟩ yang akan melakukannya.",
   "tokens": [
     {
       "surface": "גול",
-      "gloss": "gulungkanlah"
+      "gloss": "Gulirkanlah"
     },
     {
       "surface": "על",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ובטח",
-      "gloss": "dan percayalah"
+      "gloss": "dan bertawakallah"
     },
     {
       "surface": "עליו",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "והוא",
-      "gloss": "dan ⟨dialah⟩"
+      "gloss": "dan ⟨dia⟩"
     },
     {
       "surface": "יעשה",
-      "gloss": "yang akan melakukan"
+      "gloss": "yang akan melakukannya"
     }
   ],
-  "timestamp": "2026-08-08T11:37:07.379637497Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:33.414514947Z",
+  "model": "glm-5.3"
 }

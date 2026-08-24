@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 23,
-  "translation": "Lalu raja naik ke bait Yahweh, dan setiap orang Yehudah serta semua penduduk Yerushalayim bersamanya, dan ⟨para imam⟩ serta ⟨para nabi⟩, dan seluruh rakyat dari yang kecil sampai yang besar; dan ia membacakan di telinga mereka ⟨את⟩ segala perkataan kitab perjanjian yang ditemukan di bait Yahweh.",
+  "translation": "Lalu raja naik ke bait Yahweh, dan setiap orang Yehudah serta semua penduduk Yerushalayim ⟨את⟩ bersamanya, dan ⟨para imam⟩ serta ⟨para nabi⟩, dan seluruh rakyat dari yang kecil sampai yang besar; dan ia membacakan di telinga mereka ⟨את⟩ segala perkataan kitab perjanjian yang ditemukan di bait Yahweh.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "והכהנים",
@@ -121,6 +121,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T08:14:59.897246509Z",
+  "timestamp": "2026-08-24T17:55:27.195472717Z",
   "model": "glm-5.2"
 }

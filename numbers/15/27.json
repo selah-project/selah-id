@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 15,
-  "translation": "Dan jika satu נפש berdosa karena kelalaian, maka ⟨ia⟩ harus mempersembahkan seekor betina kambing berumur satu tahun sebagai korban penghapus dosa.",
+  "translation": "Dan jika satu נפש berdosa karena tersesat, maka ⟨ia⟩ akan mempersembahkan seekor kambing betina berumur satu tahun sebagai korban penghapus dosa.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "נפש"
+      "gloss": "satu נפש"
     },
     {
       "surface": "אחת",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "בשגגה",
-      "gloss": "karena kelalaian"
+      "gloss": "karena tersesat"
     },
     {
       "surface": "והקריבה",
-      "gloss": "maka ⟨ia⟩ harus mempersembahkan"
+      "gloss": "maka ia akan mempersembahkan"
     },
     {
       "surface": "עז",
-      "gloss": "seekor betina kambing"
+      "gloss": "kambing betina"
     },
     {
       "surface": "בת",
-      "gloss": "anak"
+      "gloss": "seekor (anak)"
     },
     {
       "surface": "שנתה",
@@ -48,6 +48,6 @@
       "gloss": "sebagai korban penghapus dosa"
     }
   ],
-  "timestamp": "2026-08-09T01:38:58.378877922Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:49.122411817Z",
+  "model": "glm-5.3"
 }

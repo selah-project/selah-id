@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 16,
-  "translation": "Aku menempatkan Yahweh senantiasa di hadapanku; karena dari sebelah kananku ⟨⟨adalah⟩⟩, tidaklah aku akan tergoyahkan.",
+  "translation": "Aku senantiasa menaruh Yahweh di hadapanku; karena ⟨Dia⟩ di sebelah kananku, aku tidak akan goyah.",
   "tokens": [
     {
       "surface": "שויתי",
-      "gloss": "Aku menempatkan"
+      "gloss": "aku menaruh"
     },
     {
       "surface": "יהוה",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "מימיני",
-      "gloss": "dari sebelah kananku"
+      "gloss": "di sebelah kananku"
     },
     {
       "surface": "בל",
-      "gloss": "tidaklah"
+      "gloss": "tidak"
     },
     {
       "surface": "אמוט",
-      "gloss": "aku akan tergoyahkan"
+      "gloss": "akan goyah"
     }
   ],
-  "timestamp": "2026-08-08T09:08:02.589854540Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:52.081925382Z",
+  "model": "glm-5.3"
 }

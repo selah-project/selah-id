@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 30,
-  "translation": "Lalu pergilah Dawid, dia dan enam ratus orang yang bersama dia, dan mereka sampai ke sungai HaBesor, dan ⟨yang⟩ tersisa berdiri ⟨tinggal⟩.",
+  "translation": "Lalu pergilah Dawid, dia dan enam ratus orang yang ⟨את⟩ bersama dia, dan mereka sampai ke sungai HaBesor, dan ⟨yang⟩ tersisa berdiri ⟨tinggal⟩.",
   "tokens": [
     {
       "surface": "וילך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersama dia"
+      "gloss": "⟨את⟩ bersama dia"
     },
     {
       "surface": "ויבאו",
@@ -64,6 +64,6 @@
       "gloss": "berdiri"
     }
   ],
-  "timestamp": "2026-08-08T07:52:16.551074856Z",
+  "timestamp": "2026-08-24T17:55:27.164573901Z",
   "model": "glm-5.2"
 }

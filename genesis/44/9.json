@@ -5,49 +5,50 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 44,
-  "translation": "Siapa yang padanya ⟨הוא⟩ ditemukan dari hamba-hambamu, maka ⟨ia⟩ mati, dan juga kami akan menjadi bagi tuanku sebagai hamba-hamba.",
+  "translation": "Siapa di antara hamba-hambamu yang mendapatinya bersamanya ⟨את⟩, biarlah ia mati, dan juga kami akan menjadi hamba bagi tuanku.",
   "tokens": [
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "yang"
     },
     {
-      "surface": "יִמָּצֵ֥א",
+      "surface": "ימצא",
       "gloss": "ditemukan"
     },
     {
-      "surface": "אִתּ֛וֹ",
-      "gloss": "padanya"
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bersamanya",
+      "marks": "gelas perak — benda yang dicari"
     },
     {
-      "surface": "מֵעֲבָדֶ֖יךָ",
-      "gloss": "dari hamba-hambamu"
+      "surface": "מעבדיך",
+      "gloss": "di antara hamba-hambamu"
     },
     {
-      "surface": "וָמֵ֑ת",
+      "surface": "ומת",
       "gloss": "dan mati"
     },
     {
-      "surface": "וְגַם",
+      "surface": "וגם",
       "gloss": "dan juga"
     },
     {
-      "surface": "אֲנַ֕חְנוּ",
+      "surface": "אנחנו",
       "gloss": "kami"
     },
     {
-      "surface": "נִֽהְיֶ֥ה",
+      "surface": "נהיה",
       "gloss": "akan menjadi"
     },
     {
-      "surface": "לַֽאדֹנִ֖י",
+      "surface": "לאדני",
       "gloss": "bagi tuanku"
     },
     {
-      "surface": "לַעֲבָדִֽים",
-      "gloss": "sebagai hamba-hamba"
+      "surface": "לעבדים",
+      "gloss": "menjadi hamba-hamba"
     }
   ],
-  "timestamp": "2026-08-08T06:53:35.767338057Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:24.440285060Z",
+  "model": "glm-5.3"
 }

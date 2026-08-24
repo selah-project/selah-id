@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 9,
-  "translation": "Siapakah ⟨yang⟩ memberikan diri-Ku di padang gurun, persinggahan para pengembara, maka aku akan meninggalkan ⟨את⟩ umat-Ku dan aku akan pergi dari antara mereka? Sebab mereka semua ⟨adalah⟩ penzinah, kumpulan pengkhianat.",
+  "translation": "Siapakah ⟨yang⟩ memberikan diri-Ku di padang gurun, persinggahan para pengembara, maka aku akan meninggalkan ⟨את⟩ umat-Ku dan aku akan pergi ⟨את⟩ dari antara mereka? Sebab mereka semua ⟨adalah⟩ penzinah, kumpulan pengkhianat.",
   "tokens": [
     {
       "surface": "מִֽי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מֵֽאִתָּ֑ם",
-      "gloss": "dari antara mereka"
+      "gloss": "⟨את⟩ dari antara mereka"
     },
     {
       "surface": "כִּ֤י",
@@ -69,6 +69,6 @@
       "gloss": "pengkhianat"
     }
   ],
-  "timestamp": "2026-08-08T08:32:36.592254486Z",
+  "timestamp": "2026-08-24T17:55:27.115598776Z",
   "model": "glm-5.2"
 }

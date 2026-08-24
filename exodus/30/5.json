@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 30,
-  "translation": "Dan engkau akan membuat ⟨את⟩ tiang-tiang itu dari kayu sitim, dan engkau akan menyelaputi ⟨אתם⟩ emas.",
+  "translation": "Dan engkau akan membuat ⟨את⟩ tiang-tiang itu dari kayu shittim, dan engkau akan menyadapnya dengan emas.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tiang-tiang"
+      "marks": "tiang-tiang itu"
     },
     {
       "surface": "הבדים",
-      "gloss": "tiang-tiang"
+      "gloss": "tiang-tiang itu"
     },
     {
       "surface": "עצי",
@@ -26,22 +26,22 @@
     },
     {
       "surface": "שטים",
-      "gloss": "sitim"
+      "gloss": "shittim (akasia)"
     },
     {
       "surface": "וצפית",
-      "gloss": "dan engkau akan menyelaputi"
+      "gloss": "dan engkau akan menyadapnya"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "emas"
+      "marks": "emas (objek: tiang-tiang)"
     },
     {
       "surface": "זהב",
-      "gloss": "emas"
+      "gloss": "dengan emas"
     }
   ],
-  "timestamp": "2026-08-08T18:23:11.800972216Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:23.402454523Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 4,
-  "translation": "Lalu katanya, “Apakah aku meminta seorang anak dari pada tuanku? Bukankah aku berkata, ‘Jangan menyesatkan aku’?”",
+  "translation": "Lalu katanya, “Apakah aku meminta seorang anak ⟨את⟩ dari pada tuanku? Bukankah aku berkata, ‘Jangan menyesatkan aku’?”",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari pada"
+      "gloss": "⟨את⟩ dari pada"
     },
     {
       "surface": "אדני",
@@ -49,6 +49,6 @@
       "marks": "aku"
     }
   ],
-  "timestamp": "2026-08-08T11:05:28.191093197Z",
+  "timestamp": "2026-08-24T17:55:27.194248227Z",
   "model": "glm-5.2"
 }

@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 6,
-  "translation": "Dan engkau akan melakukan ⟨yang⟩ benar dan ⟨yang⟩ baik di mata Yahweh, supaya baik bagimu, dan engkau akan masuk dan menduduki ⟨את⟩ ⟨the⟩ negeri ⟨yang⟩ baik yang dijanjikan Yahweh kepada nenek moyangmu,",
+  "translation": "Engkau akan melakukan yang lurus dan yang baik di mata Yahweh, supaya baik keadaanmu, dan engkau masuk serta menduduki ⟨את⟩ tanah yang baik yang telah diikrarkan Yahweh kepada nenek moyangmu,",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "dan engkau akan melakukan"
+      "gloss": "engkau akan melakukan"
     },
     {
       "surface": "הישר",
-      "gloss": "yang benar"
+      "gloss": "yang lurus"
     },
     {
       "surface": "והטוב",
@@ -33,28 +33,28 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "baik"
+      "gloss": "baik keadaan"
     },
     {
       "surface": "לך",
-      "gloss": "bagimu"
+      "gloss": "kepadamu"
     },
     {
       "surface": "ובאת",
-      "gloss": "dan engkau akan masuk"
+      "gloss": "dan engkau masuk"
     },
     {
       "surface": "וירשת",
-      "gloss": "dan menduduki"
+      "gloss": "serta menduduki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "negeri yang baik"
+      "marks": "tanah"
     },
     {
       "surface": "הארץ",
-      "gloss": "negeri"
+      "gloss": "tanah"
     },
     {
       "surface": "הטבה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "dijanjikan"
+      "gloss": "telah diikrarkan"
     },
     {
       "surface": "יהוה",
@@ -77,6 +77,6 @@
       "gloss": "kepada nenek moyangmu"
     }
   ],
-  "timestamp": "2026-08-08T07:25:10.027790700Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:33.191613018Z",
+  "model": "glm-5.3"
 }

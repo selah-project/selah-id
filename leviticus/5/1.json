@@ -5,35 +5,35 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 5,
-  "translation": "Dan apabila ⟨seorang⟩ נפש berdosa, dan ⟨ia⟩ mendengar suara kutuk, dan ⟨ia⟩ ⟨adalah⟩ saksi — atau ⟨ia⟩ telah melihat, atau ⟨ia⟩ telah mengetahui — jika ⟨ia⟩ tidak menyatakannya, maka ⟨ia⟩ akan menanggung kesalahannya.",
+  "translation": "Jika ⟨seorang⟩ nefesh berbuat dosa, yakni ia mendengar suatu suara sumpah kutuk, dan ia ⟨adalah⟩ saksi — atau ia telah melihat, atau ia telah mengetahui — jika ia tidak menyatakannya, maka ia akan menanggung kesalahannya.",
   "tokens": [
     {
       "surface": "ונפש",
-      "gloss": "Dan ⟨seorang⟩ נפש"
+      "gloss": "Jika ⟨seorang⟩ nefesh"
     },
     {
       "surface": "כי",
-      "gloss": "apabila"
+      "gloss": "yakni"
     },
     {
       "surface": "תחטא",
-      "gloss": "berdosa"
+      "gloss": "berbuat dosa"
     },
     {
       "surface": "ושמעה",
-      "gloss": "dan ⟨ia⟩ mendengar"
+      "gloss": "ia mendengar"
     },
     {
       "surface": "קול",
-      "gloss": "suara"
+      "gloss": "suatu suara"
     },
     {
       "surface": "אלה",
-      "gloss": "kutuk"
+      "gloss": "sumpah kutuk"
     },
     {
       "surface": "והוא",
-      "gloss": "dan ⟨ia⟩"
+      "gloss": "dan ia"
     },
     {
       "surface": "עד",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "⟨ia⟩ telah melihat"
+      "gloss": "ia telah melihat"
     },
     {
       "surface": "או",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ידע",
-      "gloss": "⟨ia⟩ telah mengetahui"
+      "gloss": "ia telah mengetahui"
     },
     {
       "surface": "אם",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "יגיד",
-      "gloss": "⟨ia⟩ menyatakannya"
+      "gloss": "ia menyatakannya"
     },
     {
       "surface": "ונשא",
-      "gloss": "maka ⟨ia⟩ akan menanggung"
+      "gloss": "maka ia akan menanggung"
     },
     {
       "surface": "עונו",
       "gloss": "kesalahannya"
     }
   ],
-  "timestamp": "2026-08-08T10:34:06.064447008Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:19.284643830Z",
+  "model": "glm-5.3"
 }

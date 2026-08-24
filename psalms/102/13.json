@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 102,
-  "translation": "Tetapi Engkau, Yahweh, untuk selamanya ⟨⟨duduk bertakhta⟩⟩, dan ⟨orang⟩ mengingat Engkau untuk generasi dan generasi.",
+  "translation": "Tetapi Engkau, Yahweh, bersemayam ⟨untuk⟩ selamanya, dan zikir-Mu ⟨untuk⟩ turun-temurun.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "Dan Engkau"
+      "gloss": "Tetapi Engkau"
     },
     {
       "surface": "יהוה",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "untuk selamanya"
+      "gloss": "selamanya"
     },
     {
       "surface": "תשב",
-      "gloss": "⟨duduk bertakhta⟩"
+      "gloss": "bersemayam"
     },
     {
       "surface": "וזכרך",
-      "gloss": "dan mengingat Engkau"
+      "gloss": "dan zikir-Mu"
     },
     {
       "surface": "לדר",
-      "gloss": "untuk generasi"
+      "gloss": "turun-temurun"
     },
     {
       "surface": "ודר",
-      "gloss": "dan generasi"
+      "gloss": "turun-temurun"
     }
   ],
-  "timestamp": "2026-08-08T09:21:39.414178420Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:36.312014633Z",
+  "model": "glm-5.3"
 }

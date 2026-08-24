@@ -5,45 +5,46 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Demikian juga dibuatnya untuk pintu ⟨ה⟩ hall: ambang pintu kayu minyak, dari seperempat ⟨dinding⟩.",
+  "translation": "Dan demikian pula dibuatnya bagi pintu ⟨את⟩ heikal itu tiang-tiang pintu dari kayu zaitun, seperempat ⟨dari dinding⟩.",
   "tokens": [
     {
-      "surface": "וְכֵ֥ן",
-      "gloss": "demikian juga"
+      "surface": "וכן",
+      "gloss": "Dan demikian pula"
     },
     {
-      "surface": "עָשָׂ֛ה",
+      "surface": "עשה",
       "gloss": "dibuatnya"
     },
     {
-      "surface": "לְפֶ֥תַח",
-      "gloss": "untuk pintu"
+      "surface": "לפתח",
+      "gloss": "bagi pintu"
     },
     {
-      "surface": "הַֽהֵיכָ֖ל",
-      "gloss": "⟨ה⟩ hall"
+      "surface": "ההיכל",
+      "gloss": "heikal"
     },
     {
-      "surface": "מְזוּז֣וֹת",
-      "gloss": "ambang pintu"
+      "surface": "מזוזות",
+      "gloss": "tiang-tiang pintu"
     },
     {
-      "surface": "עֲצֵ֣י",
+      "surface": "עצי",
       "gloss": "kayu"
     },
     {
-      "surface": "שָׁ֑מֶן",
-      "gloss": "minyak"
+      "surface": "שמן",
+      "gloss": "zaitun"
     },
     {
-      "surface": "מֵאֵ֖ת",
-      "gloss": "dari"
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "seperempat"
     },
     {
-      "surface": "רְבִעִֽית",
+      "surface": "רבעית",
       "gloss": "seperempat"
     }
   ],
-  "timestamp": "2026-08-08T08:02:48.695372655Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:34.898242281Z",
+  "model": "glm-5.3"
 }

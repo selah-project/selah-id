@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 39,
-  "translation": "Tetapi ia menolak, dan berkata kepada isteri tuannya, “Ingatlah, tuanku tidak mengetahui bersamaku apa-apa di ⟨the⟩ rumah, dan segala yang ia miliki telah diberikan ke dalam tanganku.",
+  "translation": "Tetapi ia menolak dan berkata kepada istri tuannya: “Ingat, tuanku tidak mengetahui ⟨את⟩ apa pun yang ada padaku di rumah ini, dan segala yang ada padanya telah diberikannya ke dalam tanganku.”",
   "tokens": [
     {
       "surface": "וימאן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשת",
-      "gloss": "isteri"
+      "gloss": "istri"
     },
     {
       "surface": "אדניו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הן",
-      "gloss": "ingatlah"
+      "gloss": "ingat"
     },
     {
       "surface": "אדני",
@@ -45,11 +45,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩",
+      "marks": "apa pun yang ada padaku di rumah ini"
     },
     {
       "surface": "מה",
-      "gloss": "apa-apa"
+      "gloss": "apa"
     },
     {
       "surface": "בבית",
@@ -69,17 +70,17 @@
     },
     {
       "surface": "לו",
-      "gloss": "ia miliki"
+      "gloss": "padanya"
     },
     {
       "surface": "נתן",
-      "gloss": "telah diberikan"
+      "gloss": "telah diberikannya"
     },
     {
       "surface": "בידי",
       "gloss": "ke dalam tanganku"
     }
   ],
-  "timestamp": "2026-08-08T06:52:16.594903603Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:59.503885513Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 11,
-  "translation": "Dan ia ⟨berada⟩ bersamanya di rumah Yahweh, bersembunyi, enam tahun lamanya; dan Atalya memerintah atas negeri itu.",
+  "translation": "Dan ia ⟨berada⟩ ⟨את⟩ bersamanya di rumah Yahweh, bersembunyi, enam tahun lamanya; dan Atalya memerintah atas negeri itu.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "בית",
@@ -52,6 +52,6 @@
       "gloss": "negeri itu"
     }
   ],
-  "timestamp": "2026-08-08T08:11:15.711132086Z",
+  "timestamp": "2026-08-24T17:55:27.194539258Z",
   "model": "glm-5.2"
 }

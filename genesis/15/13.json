@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 15,
-  "translation": "Dan ⟨ia⟩ berfirman kepada Avram: “Tahu pastilah engkau, bahwa benihmu akan menjadi orang asing di ⟨suatu⟩ negeri yang bukan milik mereka, dan mereka akan memperbudikannya, dan mereka akan menindas ⟨אתם⟩ — empat ratus tahun.",
+  "translation": "Dan Ia berkata kepada Avram: “Tahu-tahu-ketahuilah bahwa keturunanmu akan menjadi pendatang di sebuah negeri yang bukan milik mereka, dan mereka akan memperbudak mereka, dan mereka akan menindas ⟨את⟩ mereka, empat ratus tahun.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dan ⟨ia⟩ berfirman"
+      "gloss": "Dan Ia berkata"
     },
     {
       "surface": "לאברם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ידע",
-      "gloss": "tahu"
+      "gloss": "Tahu"
     },
     {
       "surface": "תדע",
-      "gloss": "pastilah engkau tahu"
+      "gloss": "ketahuilah"
     },
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "גר",
-      "gloss": "orang asing"
+      "gloss": "pendatang"
     },
     {
       "surface": "יהיה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "benihmu"
+      "gloss": "keturunanmu"
     },
     {
       "surface": "בארץ",
-      "gloss": "di negeri"
+      "gloss": "di sebuah negeri"
     },
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "bukan"
     },
     {
       "surface": "להם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ועבדום",
-      "gloss": "dan mereka akan memperbudikannya"
+      "gloss": "dan mereka akan memperbudak mereka"
     },
     {
       "surface": "וענו",
@@ -62,7 +62,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "mereka"
+      "marks": "mereka (objek: keturunan Avram)"
     },
     {
       "surface": "ארבע",
@@ -77,6 +77,6 @@
       "gloss": "tahun"
     }
   ],
-  "timestamp": "2026-08-08T06:45:49.134323933Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:40.544495790Z",
+  "model": "glm-5.3"
 }

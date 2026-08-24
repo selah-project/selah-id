@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "id",
   "chapter": 30,
-  "translation": "Teror berbalik menyerangku, ⟨⟨mereka⟩⟩ memburu kemuliaanku seperti angin, dan seperti awan ⟨telah⟩ berlalu keselamatanku.",
+  "translation": "Kegerunan berbalik melawan aku; ⟨ia⟩ mengejar kemuliaanku seperti angin, dan seperti awan ⟨yang⟩ berlalu ⟨lah⟩ keselamatanku.",
   "tokens": [
     {
       "surface": "ההפך",
@@ -13,22 +13,22 @@
     },
     {
       "surface": "עלי",
-      "gloss": "menyerangku"
+      "gloss": "melawan aku"
     },
     {
       "surface": "בלהות",
-      "gloss": "teror"
+      "gloss": "kegerunan"
     },
     {
       "surface": "תרדף",
-      "gloss": "memburu"
+      "gloss": "mengejar"
     },
     {
       "surface": "כרוח",
       "gloss": "seperti angin"
     },
     {
-      "surface": "נדיבתי",
+      "surface": "נדבתי",
       "gloss": "kemuliaanku"
     },
     {
@@ -44,6 +44,6 @@
       "gloss": "keselamatanku"
     }
   ],
-  "timestamp": "2026-08-08T11:54:06.020365480Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:27.313453978Z",
+  "model": "glm-5.3"
 }

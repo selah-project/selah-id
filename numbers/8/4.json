@@ -5,10 +5,10 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan inilah pekerjaan kandil itu: emas tempaan, sampai ke pangkalnya, sampai ke bunga-bunganya, tempaanlah ia; sesuai ⟨the⟩ rupa yang ditunjukkan Yahweh ⟨את⟩ Mosheh, demikianlah dibuatnya ⟨את⟩ kandil itu.",
+  "translation": "Dan inilah pekerjaan menorah itu: tempaan emas, sampai ke pangkalnya, sampai ke bunga-bunganya, tempaanlah ia; menurut rupa yang diperlihatkan Yahweh ⟨את⟩ Moshe, demikianlah ia membuat ⟨את⟩ menorah itu.",
   "tokens": [
     {
-      "surface": "וזה",
+      "surface": "ו זה",
       "gloss": "Dan ini"
     },
     {
@@ -16,8 +16,8 @@
       "gloss": "pekerjaan"
     },
     {
-      "surface": "המנרה",
-      "gloss": "⟨the⟩ kandil"
+      "surface": "ה מנרה",
+      "gloss": "menorah itu"
     },
     {
       "surface": "מקשה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "sampai"
+      "gloss": "sampai ke"
     },
     {
       "surface": "ירכה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "sampai"
+      "gloss": "sampai ke"
     },
     {
       "surface": "פרחה",
@@ -52,8 +52,8 @@
       "gloss": "ia"
     },
     {
-      "surface": "כמראה",
-      "gloss": "sesuai rupa"
+      "surface": "כ מראה",
+      "gloss": "menurut rupa"
     },
     {
       "surface": "אשר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "הראה",
-      "gloss": "ditunjukkan"
+      "gloss": "diperlihatkan"
     },
     {
       "surface": "יהוה",
@@ -70,11 +70,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mosheh"
+      "marks": "Moshe"
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Moshe"
     },
     {
       "surface": "כן",
@@ -82,18 +82,18 @@
     },
     {
       "surface": "עשה",
-      "gloss": "dibuatnya"
+      "gloss": "ia membuat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kandil itu"
+      "marks": "menorah itu"
     },
     {
-      "surface": "המנרה",
-      "gloss": "⟨the⟩ kandil"
+      "surface": "ה מנרה",
+      "gloss": "menorah itu"
     }
   ],
-  "timestamp": "2026-08-08T07:16:29.022214223Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:57.536652366Z",
+  "model": "glm-5.3"
 }

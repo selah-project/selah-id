@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 13,
-  "translation": "Tetapi Avshalom mendesak dia, maka ⟨ia⟩ menyuruh pergi bersamanya ⟨את⟩ Amnon dan ⟨את⟩ semua anak raja.",
+  "translation": "Tetapi Avshalom mendesak dia, maka ⟨ia⟩ menyuruh pergi ⟨את⟩ bersamanya ⟨את⟩ Amnon dan ⟨את⟩ semua anak raja.",
   "tokens": [
     {
       "surface": "ויפרץ",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "את",
@@ -54,6 +54,6 @@
       "gloss": "raja"
     }
   ],
-  "timestamp": "2026-08-08T07:55:56.284578452Z",
+  "timestamp": "2026-08-24T17:55:27.061207557Z",
   "model": "glm-5.2"
 }

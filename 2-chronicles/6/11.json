@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 6,
-  "translation": "Dan aku telah menempatkan di sana ⟨את⟩ tabut itu, di mana ⟨ada⟩ berkat Yahweh, yang Ia割製 dengan bani Yisra'el.",
+  "translation": "Dan kubuat tempat di sana bagi ⟨את⟩ tabut, tempat berlakunya perjanjian Yahweh yang dipotong-Nya dengan bani Israel.",
   "tokens": [
     {
       "surface": "ואשים",
-      "gloss": "dan aku telah menempatkan"
+      "gloss": "kubuat tempat"
     },
     {
       "surface": "שם",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tabut itu"
+      "marks": "tabut"
     },
     {
       "surface": "הארון",
-      "gloss": "tabut itu"
+      "gloss": "tabut"
     },
     {
       "surface": "אשר",
-      "gloss": "di mana"
+      "gloss": "yang"
     },
     {
       "surface": "שם",
-      "gloss": "⟨ada⟩"
+      "gloss": "berada"
     },
     {
       "surface": "ברית",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "כרת",
-      "gloss": "Ia mengikat"
+      "gloss": "dipotong-Nya"
     },
     {
       "surface": "עם",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     }
   ],
-  "timestamp": "2026-08-08T10:11:36.080220434Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:11.894035463Z",
+  "model": "glm-5.3"
 }

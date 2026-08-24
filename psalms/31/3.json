@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 31,
-  "translation": "Condongkanlah telinga-Mu kepadaku, segeralah, luputkanlah aku; jadilah bagiku ⟨untuk⟩ batu kubu, ⟨⟨sebagai⟩⟩ rumah benteng untuk menyelamatkan aku.",
+  "translation": "Condongkanlah telinga-Mu kepadaku, segeralah, luputkanlah aku; jadilah bagiku batu karang perlindungan, benteng kubu untuk menyelamatkan aku.",
   "tokens": [
     {
       "surface": "הטה",
-      "gloss": "condongkanlah"
+      "gloss": "Condongkanlah"
     },
     {
       "surface": "אלי",
@@ -37,25 +37,25 @@
     },
     {
       "surface": "לצור",
-      "gloss": "untuk batu"
+      "gloss": "batu karang"
     },
     {
       "surface": "מעוז",
-      "gloss": "kubu"
+      "gloss": "perlindungan"
     },
     {
       "surface": "לבית",
-      "gloss": "rumah"
+      "gloss": "benteng"
     },
     {
       "surface": "מצודות",
-      "gloss": "benteng"
+      "gloss": "kubu"
     },
     {
       "surface": "להושיעני",
       "gloss": "untuk menyelamatkan aku"
     }
   ],
-  "timestamp": "2026-08-08T12:23:42.124234619Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:05.297542153Z",
+  "model": "glm-5.3"
 }

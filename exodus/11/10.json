@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 11,
-  "translation": "Dan Mosheh dan Aharon melakukan ⟨את⟩ segala mujizat-mujizat ini di hadapan Paroh, dan Yahweh meneguhkan ⟨את⟩ hati Paroh, sehingga ⟨הוא⟩ tidak menyurutkan ⟨את⟩ bani Yisrael keluar dari negerinya.",
+  "translation": "Dan Moshe dan Aharon melakukan ⟨את⟩ semua keajaiban-keajaiban ini di hadapan Paroh; dan Yahweh menguatkan hati Paroh, sehingga ia tidak melepaskan ⟨את⟩ bani Yisrael dari negerinya.",
   "tokens": [
     {
       "surface": "ומשה",
-      "gloss": "Dan Mosheh"
+      "gloss": "Dan Moshe"
     },
     {
       "surface": "ואהרן",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "segala mujizat-mujizat ini"
+      "marks": "semua keajaiban-keajaiban ini"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "semua"
     },
     {
       "surface": "המפתים",
-      "gloss": "mujizat-mujizat"
+      "gloss": "keajaiban-keajaiban"
     },
     {
       "surface": "האלה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ויחזק",
-      "gloss": "dan meneguhkan"
+      "gloss": "dan menguatkan"
     },
     {
       "surface": "יהוה",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "dan tidak"
+      "gloss": "sehingga tidak"
     },
     {
       "surface": "שלח",
-      "gloss": "menyurutkan"
+      "gloss": "melepaskan"
     },
     {
       "surface": "את",
@@ -91,6 +91,6 @@
       "gloss": "dari negerinya"
     }
   ],
-  "timestamp": "2026-08-08T06:56:55.079992797Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:32.987893986Z",
+  "model": "glm-5.3"
 }

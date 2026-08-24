@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 8,
-  "translation": "Semuanya ⟨⟨adalah⟩⟩ lugas bagi yang berpengertian, dan lurus bagi para penemu pengetahuan.",
+  "translation": "Semuanya lugas bagi yang berakal budi, dan lurus bagi para penemu pengetahuan.",
   "tokens": [
     {
       "surface": "כלם",
-      "gloss": "semuanya"
+      "gloss": "Semuanya"
     },
     {
       "surface": "נכחים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "למבין",
-      "gloss": "bagi yang berpengertian"
+      "gloss": "bagi yang berakal budi"
     },
     {
       "surface": "וישרים",
@@ -32,6 +32,6 @@
       "gloss": "pengetahuan"
     }
   ],
-  "timestamp": "2026-08-08T09:30:52.289956908Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:40.227930968Z",
+  "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 23,
-  "translation": "Dan ketika kamu menuai hasil tuaian tanahmu, janganlah kauselesaikan ⟨sampai ke⟩ pojok ladangmu dalam penuaianmu, dan sisa-sisa tuainmu janganlah kaupilah; untuk orang miskin dan untuk orang asing tinggalkanlah ⟨אתם⟩; Akulah Yahweh, Elohim kamu.",
+  "translation": "Dan apabila kamu menuai hasil panen tanahmu, janganlah kauhabiskan pinggiran ladangmu ketika ka menuai, dan janganlah ka kumpulkan sisa-sisa panenmu; bagi si miskin dan bagi orang asing haruslah ka tinggalkan ⟨את⟩ semuanya itu; Akulah Yahweh, Elohimmu.",
   "tokens": [
     {
       "surface": "ובקצרכם",
-      "gloss": "Dan ketika kamu menuai"
+      "gloss": "Dan apabila kamu menuai"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hasil tuaian"
+      "marks": "hasil panen"
     },
     {
       "surface": "קציר",
-      "gloss": "hasil tuaian"
+      "gloss": "hasil panen"
     },
     {
       "surface": "ארצכם",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "janganlah"
+      "gloss": "jangan"
     },
     {
       "surface": "תכלה",
-      "gloss": "kauselesaikan"
+      "gloss": "kauhabiskan"
     },
     {
       "surface": "פאת",
-      "gloss": "pojok"
+      "gloss": "pinggiran"
     },
     {
       "surface": "שדך",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "בקצרך",
-      "gloss": "dalam penuaianmu"
+      "gloss": "ketika ka menuai"
     },
     {
       "surface": "ולקט",
@@ -50,32 +50,32 @@
     },
     {
       "surface": "קצירך",
-      "gloss": "tuainmu"
+      "gloss": "panenmu"
     },
     {
       "surface": "לא",
-      "gloss": "janganlah"
+      "gloss": "jangan"
     },
     {
       "surface": "תלקט",
-      "gloss": "kaupilah"
+      "gloss": "ka kumpulkan"
     },
     {
       "surface": "לעני",
-      "gloss": "untuk orang miskin"
+      "gloss": "bagi si miskin"
     },
     {
-      "surface": "ולגר",
-      "gloss": "dan untuk orang asing"
+      "surface": "ו לגר",
+      "gloss": "dan bagi orang asing"
     },
     {
       "surface": "תעזב",
-      "gloss": "tinggalkanlah"
+      "gloss": "haruslah ka tinggalkan"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mereka"
+      "gloss": "⟨את⟩",
+      "marks": "semuanya itu (sisa-sisa panen)"
     },
     {
       "surface": "אני",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim kamu"
+      "gloss": "Elohimmu"
     }
   ],
-  "timestamp": "2026-08-09T01:38:49.844861290Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:50:25.798212054Z",
+  "model": "glm-5.3"
 }

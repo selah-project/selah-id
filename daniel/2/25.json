@@ -5,23 +5,23 @@
   "book": "daniel",
   "lang": "id",
   "chapter": 2,
-  "translation": "Kemudian Ariokh dengan tergesa-gesa membawa masuk Daniel ke hadapan raja, dan demikian ia berkata kepadanya: bahwa aku telah menemukan seorang laki-laki dari keturunan orang-orang buangan dari Yehud yang dapat memberitahukan kepada raja ⟨the⟩ tafsirannya.",
+  "translation": "Kemudian Aryokh dengan bergegas menghadapkan Daniel ke hadapan raja, dan berkata demikian kepadanya: Aku telah menemukan seorang dari orang-orang buangan Yehuda yang akan memberitahukan kepada raja maknanya.",
   "tokens": [
     {
       "surface": "אדין",
-      "gloss": "kemudian"
+      "gloss": "Kemudian"
     },
     {
       "surface": "אריוך",
-      "gloss": "Ariokh"
+      "gloss": "Aryokh"
     },
     {
       "surface": "בהתבהלה",
-      "gloss": "dengan tergesa-gesa"
+      "gloss": "dengan bergegas"
     },
     {
       "surface": "הנעל",
-      "gloss": "membawa masuk"
+      "gloss": "menghadapkan"
     },
     {
       "surface": "לדניאל",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "וכן",
-      "gloss": "dan demikian"
+      "gloss": "dan berkata demikian"
     },
     {
       "surface": "אמר",
-      "gloss": "ia berkata"
+      "gloss": "berkata"
     },
     {
       "surface": "לה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "גבר",
-      "gloss": "seorang laki-laki"
+      "gloss": "seorang"
     },
     {
       "surface": "מן",
@@ -65,19 +65,19 @@
     },
     {
       "surface": "בני",
-      "gloss": "keturunan"
+      "gloss": "orang-orang"
     },
     {
       "surface": "גלותא",
-      "gloss": "orang-orang buangan"
+      "gloss": "buangan"
     },
     {
       "surface": "די",
-      "gloss": "dari"
+      "gloss": "yang"
     },
     {
       "surface": "יהוד",
-      "gloss": "Yehud"
+      "gloss": "Yehuda"
     },
     {
       "surface": "די",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "פשרא",
-      "gloss": "tafsirannya"
+      "gloss": "maknanya"
     },
     {
       "surface": "למלכא",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "יהודע",
-      "gloss": "dapat memberitahukan"
+      "gloss": "akan memberitahukan"
     }
   ],
-  "timestamp": "2026-08-08T09:53:14.713317900Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:45.022651347Z",
+  "model": "glm-5.3"
 }

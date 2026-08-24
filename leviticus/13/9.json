@@ -5,41 +5,41 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 13,
-  "translation": "当一个患有 tzaraat 的 neg'a 出现在 manusia身上, maka orang itu harus dibawa kepada ha-kohen.",
+  "translation": "Apabila suatu negá tsaraat ada pada seseorang, maka ia dibawa menghadap ⟨את⟩ sang kohen;",
   "tokens": [
     {
       "surface": "נגע",
-      "gloss": "neg'a"
+      "gloss": "suatu negá"
     },
     {
       "surface": "צרעת",
-      "gloss": "tzaraat"
+      "gloss": "tsaraat"
     },
     {
       "surface": "כי",
-      "gloss": "ketika"
+      "gloss": "apabila"
     },
     {
       "surface": "תהיה",
-      "gloss": "terjadi"
+      "gloss": "ada"
     },
     {
       "surface": "באדם",
-      "gloss": "pada manusia"
+      "gloss": "pada seseorang"
     },
     {
       "surface": "והובא",
-      "gloss": "maka ia harus dibawa"
+      "gloss": "maka ia dibawa"
     },
     {
       "surface": "אל",
-      "gloss": "kepada"
+      "gloss": "menghadap"
     },
     {
       "surface": "הכהן",
-      "gloss": "ha-kohen"
+      "gloss": "sang kohen"
     }
   ],
-  "timestamp": "2026-08-08T10:34:42.360863912Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:34.558797154Z",
+  "model": "glm-5.3"
 }

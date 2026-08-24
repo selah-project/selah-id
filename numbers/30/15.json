@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 30,
-  "translation": "Tetapi jika suaminya berdiam, diam kepadanya dari hari ke hari, maka ia menegakkan ⟨את⟩ segala nadar-nadarnya atau ⟨את⟩ segala ikatan-ikatannya yang ada padanya — ia telah menegakkan ⟨אתם⟩, karena ia berdiam kepadanya pada hari mendengarnya.",
+  "translation": "Tetapi jika suaminya sungguh berdiam diri terhadapnya dari hari ke hari, maka ia menegakkan semua nazar-nazarnya atau semua ikatan-ikatannya yang ada padanya; ia telah menegakkannya, karena ia berdiam diri terhadapnya pada hari ia mendengarnya.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "tetapi jika"
+      "gloss": "Tetapi jika"
     },
     {
       "surface": "החרש",
-      "gloss": "berdiam"
+      "gloss": "berdiam diri"
     },
     {
       "surface": "יחריש",
-      "gloss": "diam"
+      "gloss": "sungguh berdiam diri"
     },
     {
       "surface": "לה",
-      "gloss": "kepadanya"
+      "gloss": "terhadapnya"
     },
     {
       "surface": "אישה",
@@ -46,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "segala nadar-nadarnya"
+      "marks": "semua nazar-nazarnya"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "semua"
     },
     {
       "surface": "נדריה",
-      "gloss": "nadar-nadarnya"
+      "gloss": "nazar-nazarnya"
     },
     {
       "surface": "או",
@@ -63,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "segala ikatan-ikatannya"
+      "marks": "semua ikatan-ikatannya"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "semua"
     },
     {
       "surface": "אסריה",
@@ -79,16 +79,16 @@
     },
     {
       "surface": "עליה",
-      "gloss": "ada padanya"
+      "gloss": "padanya"
     },
     {
       "surface": "הקים",
-      "gloss": "ia telah menegakkan"
+      "gloss": "ia telah menegakkannya"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "mereka (nadar-nadar dan ikatan-ikatan)"
+      "marks": "mereka (nazar dan ikatan itu)"
     },
     {
       "surface": "כי",
@@ -96,11 +96,11 @@
     },
     {
       "surface": "החרש",
-      "gloss": "ia berdiam"
+      "gloss": "ia berdiam diri"
     },
     {
       "surface": "לה",
-      "gloss": "kepadanya"
+      "gloss": "terhadapnya"
     },
     {
       "surface": "ביום",
@@ -108,9 +108,9 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "mendengarnya"
+      "gloss": "ia mendengarnya"
     }
   ],
-  "timestamp": "2026-08-08T07:22:47.471946705Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:26.233707839Z",
+  "model": "glm-5.3"
 }

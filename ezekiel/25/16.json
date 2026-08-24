@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 25,
-  "translation": "Sebab itu demikianlah firman Adonai Yahweh: Lihatlah, Aku mengulurkan tanganku terhadap orang Pelishti, dan akan kupunahkan ⟨את⟩ orang Kereti, dan akan kubinasakan ⟨את⟩ sisa pantai ⟨ה⟩ laut.",
+  "translation": "Sebab itu, demikianlah berkata Adonai Yahweh: Lihat, Aku mengulurkan tangan-Ku terhadap orang Pelesyit (Filistin), dan Aku melenyapkan ⟨את⟩ orang Kereti, dan Aku membinasakan ⟨את⟩ sisa penduduk tepi pantai laut.",
   "tokens": [
     {
       "surface": "לכן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "firman"
+      "gloss": "berkata"
     },
     {
       "surface": "אדני",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Lihatlah"
+      "gloss": "Lihat"
     },
     {
       "surface": "נוטה",
-      "gloss": "Aku mengulurkan"
+      "gloss": "mengulurkan"
     },
     {
       "surface": "ידי",
-      "gloss": "tanganku"
+      "gloss": "tangan-Ku"
     },
     {
       "surface": "על",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "orang Pelishti"
+      "gloss": "orang Pelesyit"
     },
     {
       "surface": "והכרתי",
-      "gloss": "dan akan kupunahkan"
+      "gloss": "dan Aku melenyapkan"
     },
     {
       "surface": "את",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "והאבדתי",
-      "gloss": "dan akan kubinasakan"
+      "gloss": "dan Aku membinasakan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sisa pantai"
+      "marks": "sisa penduduk tepi pantai laut"
     },
     {
       "surface": "שארית",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "חוף",
-      "gloss": "pantai"
+      "gloss": "tepi pantai"
     },
     {
       "surface": "הים",
       "gloss": "laut"
     }
   ],
-  "timestamp": "2026-08-08T08:50:51.903124589Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:51.013947740Z",
+  "model": "glm-5.3"
 }

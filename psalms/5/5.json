@@ -5,45 +5,45 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 5,
-  "translation": "Sebab bukan ⟨⟨Engkau⟩⟩ El yang berkenan kepada kefasikan, kejahatan tidak tinggal bersama-Mu.",
+  "translation": "Sebab bukan El yang berkenan kepada kejahatan ⟨engkau⟩; kejahatan tidak akan tinggal bersama ⟨engkau⟩.",
   "tokens": [
     {
-      "surface": "כִּ֤י",
+      "surface": "כי",
       "gloss": "Sebab"
     },
     {
-      "surface": "לֹ֤א",
+      "surface": "לא",
       "gloss": "bukan"
     },
     {
-      "surface": "אֵֽל",
+      "surface": "אל",
       "gloss": "El"
     },
     {
-      "surface": "חָפֵ֘ץ",
-      "gloss": "yang berkenan"
+      "surface": "חפץ",
+      "gloss": "yang berkenan kepada"
     },
     {
-      "surface": "רֶ֥שַׁע",
-      "gloss": "kepada kefasikan"
+      "surface": "רשע",
+      "gloss": "kejahatan"
     },
     {
-      "surface": "אָ֑תָּה",
-      "gloss": "⟨Engkau⟩"
+      "surface": "אתה",
+      "gloss": "⟨engkau⟩"
     },
     {
-      "surface": "לֹ֖א",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "יְגֻרְךָ֣",
-      "gloss": "tinggal bersama-Mu"
+      "surface": "יגרך",
+      "gloss": "akan tinggal bersama"
     },
     {
-      "surface": "רָֽע",
+      "surface": "רע",
       "gloss": "kejahatan"
     }
   ],
-  "timestamp": "2026-08-08T11:35:33.408162836Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:17.295894600Z",
+  "model": "glm-5.3"
 }

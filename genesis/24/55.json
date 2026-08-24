@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 24,
-  "translation": "Maka berkatalah saudaranya laki-laki dan ibunya, “Biarkanlah ⟨gadis⟩ itu tinggal bersama kami beberapa hari atau sepuluh hari; kemudian boleh ia pergi.”",
+  "translation": "Maka berkatalah saudaranya laki-laki dan ibunya, “Biarkanlah ⟨gadis⟩ itu tinggal ⟨את⟩ bersama kami beberapa hari atau sepuluh hari; kemudian boleh ia pergi.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "bersama kami"
+      "gloss": "⟨את⟩ bersama kami"
     },
     {
       "surface": "ימים",
@@ -52,6 +52,6 @@
       "gloss": "boleh ia pergi"
     }
   ],
-  "timestamp": "2026-08-08T06:48:11.030914477Z",
+  "timestamp": "2026-08-24T17:55:27.088803050Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan ⟨ada⟩ batas di depan ⟨the⟩ ruang-ruang: satu hasta, dan satu hasta batas di sisi ini; dan ⟨the⟩ ruang ⟨itu⟩ enam hasta dari sisi ini, dan enam hasta dari sisi itu.",
+  "translation": "Dan batas di depan bilik-bilik itu satu hasta, dan satu hasta batasnya di sisi sebelah sini; dan bilik itu enam hasta dari sisi sebelah sini, dan enam hasta dari sisi sebelah sana.",
   "tokens": [
     {
       "surface": "וגבול",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "התאות",
-      "gloss": "⟨the⟩ ruang-ruang"
+      "gloss": "bilik-bilik itu"
     },
     {
       "surface": "אמה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ואמה",
-      "gloss": "dan ⟨satu⟩ hasta"
+      "gloss": "dan satu hasta"
     },
     {
       "surface": "אחת",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "מפה",
-      "gloss": "dari sisi ini"
+      "gloss": "dari sisi sebelah sini"
     },
     {
       "surface": "והתא",
-      "gloss": "dan ⟨the⟩ ruang"
+      "gloss": "dan bilik itu"
     },
     {
       "surface": "שש",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מפו",
-      "gloss": "dari sisi itu"
+      "gloss": "dari sisi sebelah sini"
     },
     {
       "surface": "ושש",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "מפו",
-      "gloss": "dari sisi itu"
+      "gloss": "dari sisi sebelah sana"
     }
   ],
-  "timestamp": "2026-08-08T11:26:37.783583033Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:46.059814405Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 7,
-  "translation": "Dan yang masuk, jantan dan betina dari segala daging, masih sebagaimana perintah ⟨אלהים⟩ kepadanya; dan Yahweh menutup dia dari luar.",
+  "translation": "Dan yang masuk itu, jantan dan betina dari segala daging, masuklah sebagaimana diperintahkan Elohim ⟨את⟩ kepadanya; dan Yahweh menutupnya di belakangnya.",
   "tokens": [
     {
       "surface": "והבאים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "masuk"
+      "gloss": "masuklah"
     },
     {
       "surface": "כאשר",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "צוה",
-      "gloss": "perintah"
+      "gloss": "diperintahkan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "Elohim"
+      "gloss": "⟨את⟩ kepadanya",
+      "marks": "אתו = את + pronomina, menandai objek perintah"
     },
     {
       "surface": "אלהים",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "בעדו",
-      "gloss": "dia dari luar"
+      "gloss": "di belakangnya"
     }
   ],
-  "timestamp": "2026-08-08T06:44:00.574997892Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:44.908363244Z",
+  "model": "glm-5.3"
 }

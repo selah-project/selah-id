@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 31,
-  "translation": "Dan kami mendekatkan ⟨את⟩ persembahan Yahweh, setiap orang yang mendapati ⟨א⟩ bejana emas — gelang kaki dan gelang lengan, cincin meterai, anting-anting, dan kuteks — untuk menebus atas napas kami di hadapan Yahweh.",
+  "translation": "Kami membawakan persembahan bagi Yahweh — masing-masing apa yang ditemuinya: benda-benda dari emas, gelang kaki, dan gelang lengan, cincin meterai, anting-anting, dan kumaz — untuk mengadakan pendamaian atas diri kami di hadapan Yahweh.",
   "tokens": [
     {
       "surface": "ונקרב",
-      "gloss": "dan kami mendekatkan"
+      "gloss": "Kami membawakan"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "setiap orang"
+      "gloss": "masing-masing"
     },
     {
       "surface": "אשר",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "מצא",
-      "gloss": "mendapati"
+      "gloss": "ditemuinya"
     },
     {
       "surface": "כלי",
-      "gloss": "bejana"
+      "gloss": "benda-benda"
     },
     {
       "surface": "זהב",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "וכומז",
-      "gloss": "dan kuteks"
+      "gloss": "dan kumaz"
     },
     {
       "surface": "לכפר",
-      "gloss": "untuk menebus"
+      "gloss": "untuk mengadakan pendamaian"
     },
     {
       "surface": "על",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "נפשתינו",
-      "gloss": "napas kami"
+      "gloss": "diri kami"
     },
     {
       "surface": "לפני",
@@ -85,6 +85,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T07:23:10.394786187Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:18.559569180Z",
+  "model": "glm-5.3"
 }

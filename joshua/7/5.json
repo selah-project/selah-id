@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 7,
-  "translation": "Dan orang-orang ⟨העי⟩ memukul dari mereka kira-kira tiga puluh enam orang, dan mereka mengejar mereka di depan pintu gerbang sampai ke ⟨השברים⟩, dan memukul mereka di turunan; dan hati bangsa itu meleleh, dan menjadi seperti air.",
+  "translation": "Orang-orang Ai memukul mundur dari antara mereka kira-kira tiga puluh enam orang, dan mereka memburu mereka dari depan pintu gerbang sampai ke ha-Shebarim, dan memukul mereka di turunan; maka melelehlah hati bangsa itu dan menjadi seperti air.",
   "tokens": [
     {
       "surface": "ויכו",
-      "gloss": "dan memukul"
+      "gloss": "memukul"
     },
     {
       "surface": "מהם",
-      "gloss": "dari mereka"
+      "gloss": "dari antara mereka"
     },
     {
       "surface": "אנשי",
@@ -21,8 +21,7 @@
     },
     {
       "surface": "העי",
-      "gloss": "Ha-Ay",
-      "marks": "orang-orang Ai"
+      "gloss": "Ai"
     },
     {
       "surface": "כשלשים",
@@ -38,11 +37,11 @@
     },
     {
       "surface": "וירדפום",
-      "gloss": "dan mereka mengejar mereka"
+      "gloss": "dan mereka memburu mereka"
     },
     {
       "surface": "לפני",
-      "gloss": "di depan"
+      "gloss": "dari depan"
     },
     {
       "surface": "השער",
@@ -50,12 +49,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "sampai"
+      "gloss": "sampai ke"
     },
     {
       "surface": "השברים",
-      "gloss": "Ha-Shebarim",
-      "marks": "Shebarim"
+      "gloss": "ha-Shebarim"
     },
     {
       "surface": "ויכום",
@@ -67,7 +65,7 @@
     },
     {
       "surface": "וימס",
-      "gloss": "dan meleleh"
+      "gloss": "maka melelehlah"
     },
     {
       "surface": "לבב",
@@ -86,6 +84,6 @@
       "gloss": "seperti air"
     }
   ],
-  "timestamp": "2026-08-08T10:49:01.824855017Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:35.435110260Z",
+  "model": "glm-5.3"
 }

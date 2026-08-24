@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 19,
-  "translation": "Seperti orang asli di antara kamu baginyalah ⟨hari⟩ ger yang menetap bersama kamu, dan engkau akan mengasihi dia seperti dirimu sendiri, karena ger-ger kamu telah menjadi di tanah Mitsrayim; Akulah Yahweh Elohim kamu.",
+  "translation": "Seperti orang asli di antara kamu baginyalah ⟨hari⟩ ger yang menetap ⟨את⟩ bersama kamu, dan engkau akan mengasihi dia seperti dirimu sendiri, karena ger-ger kamu telah menjadi di tanah Mitsrayim; Akulah Yahweh Elohim kamu.",
   "tokens": [
     {
       "surface": "כאזרח",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "bersama kamu"
+      "gloss": "⟨את⟩ bersama kamu"
     },
     {
       "surface": "ואהבת",
@@ -80,6 +80,6 @@
       "gloss": "Elohim kamu"
     }
   ],
-  "timestamp": "2026-08-08T07:11:31.374591417Z",
+  "timestamp": "2026-08-24T17:55:27.212698390Z",
   "model": "glm-5.2"
 }

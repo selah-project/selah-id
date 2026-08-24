@@ -5,66 +5,66 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 24,
-  "translation": "Dan engkau harus mengingat bahwa engkau ⟨היית⟩ seorang hamba di tanah Mitsrayim; oleh sebab itu aku, Yakwe, menyuruhmu untuk melakukan ⟨את⟩ perkara ini.",
+  "translation": "Dan engkau akan mengingat bahwa hamba ⟨kaulah⟩ engkau di tanah Mitsrayim (Mesir); itulah sebabnya aku, Aku memerintahkan engkau melakukan ⟨את⟩ perkara ini.",
   "tokens": [
     {
-      "surface": "וְזָ֣כַרְתָּ֔",
-      "gloss": "Dan engkau harus mengingat"
+      "surface": "וזכרת",
+      "gloss": "dan engkau akan mengingat"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "bahwa"
     },
     {
-      "surface": "עֶ֥בֶד",
-      "gloss": "seorang hamba"
+      "surface": "עבד",
+      "gloss": "hamba"
     },
     {
-      "surface": "הָיִ֖יתָ",
+      "surface": "היית",
       "gloss": "engkau adalah"
     },
     {
-      "surface": "בְּאֶ֣רֶץ",
+      "surface": "בארץ",
       "gloss": "di tanah"
     },
     {
-      "surface": "מִצְרָ֑יִם",
-      "gloss": "Mitsrayim"
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Mesir)"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "atas"
     },
     {
-      "surface": "כֵּן",
-      "gloss": "sebab itu"
+      "surface": "כן",
+      "gloss": "karena itu"
     },
     {
-      "surface": "אָנֹכִ֤י",
-      "gloss": "akulah"
+      "surface": "אנכי",
+      "gloss": "aku"
     },
     {
-      "surface": "מְצַוְּךָ֙",
-      "gloss": "menyuruhmu"
+      "surface": "מצוך",
+      "gloss": "memerintahkan engkau"
     },
     {
-      "surface": "לַעֲשׂ֔וֹת",
-      "gloss": "untuk melakukan"
+      "surface": "לעשות",
+      "gloss": "melakukan"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perkara"
+      "marks": "perkara ini"
     },
     {
-      "surface": "הַדָּבָ֖ר",
+      "surface": "הדבר",
       "gloss": "perkara"
     },
     {
-      "surface": "הַזֶּֽה",
+      "surface": "הזה",
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T07:30:03.125284966Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:01.225967281Z",
+  "model": "glm-5.3"
 }

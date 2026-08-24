@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 38,
-  "translation": "Dan Aku akan menghukum dia ⟨bersama⟩ dengan penyakit dan dengan darah; dan hujan yang meluap, dan batu-batu elgabis, api dan belerang, akan Aku hujankan ke atasnya dan ke atas pasukannya dan ke atas bangsa-bangsa banyak yang bersama dia.",
+  "translation": "Dan Aku akan menghukum dia ⟨bersama⟩ dengan penyakit dan dengan darah; dan hujan yang meluap, dan batu-batu elgabis, api dan belerang, akan Aku hujankan ke atasnya dan ke atas pasukannya dan ke atas bangsa-bangsa banyak yang ⟨את⟩ bersama dia.",
   "tokens": [
     {
       "surface": "ונשפטתי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨bersama⟩ dia"
+      "gloss": "⟨את⟩ ⟨bersama⟩ dia"
     },
     {
       "surface": "בדבר",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersama dia"
+      "gloss": "⟨את⟩ bersama dia"
     }
   ],
-  "timestamp": "2026-08-08T08:53:24.511861766Z",
+  "timestamp": "2026-08-24T17:55:27.188012909Z",
   "model": "glm-5.2"
 }

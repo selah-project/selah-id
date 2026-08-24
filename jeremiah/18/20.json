@@ -5,27 +5,27 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 18,
-  "translation": "Apakah jahat dibalas untuk baik? Karena mereka telah menggali lubang untuk ⟨נפש⟩-ku. Ingatlah ⟨bahwa⟩ aku berdiri di hadapan-Mu untuk berbicara kebaikan untuk mereka, untuk mengembalikan ⟨את⟩ murka-Mu dari mereka.",
+  "translation": "Apakah kejahatan dibalas ⟨sebagai ganti⟩ kebaikan? Sebab mereka telah menggali lubang untuk ⟨נפש⟩-ku — bagi nyawaku. Ingatlah bahwa aku berdiri di hadapan-Mu untuk berbicara membela mereka dengan baik, untuk mengembalikan ⟨את⟩ murka-Mu dari mereka.",
   "tokens": [
     {
       "surface": "הישלם",
-      "gloss": "Apakah dibalas"
+      "gloss": "dibalas"
     },
     {
       "surface": "תחת",
-      "gloss": "untuk"
+      "gloss": "sebagai ganti"
     },
     {
       "surface": "טובה",
-      "gloss": "baik"
+      "gloss": "kebaikan"
     },
     {
       "surface": "רעה",
-      "gloss": "jahat"
+      "gloss": "kejahatan"
     },
     {
       "surface": "כי",
-      "gloss": "Karena"
+      "gloss": "sebab"
     },
     {
       "surface": "כרו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לנפשי",
-      "gloss": "untuk ⟨נפש⟩-ku"
+      "gloss": "untuk nyawaku"
     },
     {
       "surface": "זכר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "עמדי",
-      "gloss": "⟨bahwa⟩ aku berdiri"
+      "gloss": "aku berdiri"
     },
     {
       "surface": "לפניך",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "untuk mereka"
+      "gloss": "membela mereka"
     },
     {
       "surface": "טובה",
-      "gloss": "kebaikan"
+      "gloss": "dengan baik"
     },
     {
       "surface": "להשיב",
@@ -81,6 +81,6 @@
       "gloss": "dari mereka"
     }
   ],
-  "timestamp": "2026-08-08T08:34:11.402121151Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:56.467059734Z",
+  "model": "glm-5.3"
 }

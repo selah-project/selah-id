@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 23,
-  "translation": "Dan datanglah kepadanya bani Bavel ke ⟨the⟩ tempat tidur ⟨of⟩ kekasih, dan mereka menajiskan dia dalam perzinaan mereka, dan ⟨ia⟩ ditajiskan oleh mereka, dan jiwa ⟨nya⟩ menjauh dari mereka.",
+  "translation": "Lalu orang-orang Babel datang kepadanya ke tempat perbaringan cinta-dodim, dan mereka menajiskannya dalam perzinaan-tzenut mereka, maka ia menjadi tajis oleh mereka, dan ⟨ה⟩napas-jiwanya menjijikkan terhadap mereka.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "dan datanglah"
+      "gloss": "Lalu … datang"
     },
     {
       "surface": "אליה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בני",
-      "gloss": "bani"
+      "gloss": "orang-orang"
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babel"
     },
     {
       "surface": "למשכב",
-      "gloss": "ke tempat tidur"
+      "gloss": "ke tempat perbaringan"
     },
     {
       "surface": "דדים",
-      "gloss": "kekasih"
+      "gloss": "cinta-dodim"
     },
     {
       "surface": "ויטמאו",
@@ -38,15 +38,15 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "dia"
+      "marks": "ia (objek: orang Babel menajiskannya)"
     },
     {
       "surface": "בתזנותם",
-      "gloss": "dalam perzinaan mereka"
+      "gloss": "dalam perzinaan-tzenut mereka"
     },
     {
       "surface": "ותטמא",
-      "gloss": "dan ditajiskan"
+      "gloss": "maka ia menjadi tajis"
     },
     {
       "surface": "בם",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "ותקע",
-      "gloss": "dan menjauh"
+      "gloss": "dan menjijikkan"
     },
     {
       "surface": "נפשה",
-      "gloss": "jiwa"
+      "gloss": "napas-jiwanya"
     },
     {
       "surface": "מהם",
-      "gloss": "dari mereka"
+      "gloss": "terhadap mereka"
     }
   ],
-  "timestamp": "2026-08-08T08:50:07.527662010Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:35.335521880Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 55,
-  "translation": "Lemparkanlah kebebananmu atas Yahweh, dan Dia akan menopangmu; tidak akan Dia biarkan ⟨ אֵת \u0000 ⟩ untuk selamanya goyang orang benar.",
+  "translation": "Gulingkanlah kepada Yahweh bagianmu, dan ⟨dialah⟩ yang akan menopangmu; tidak akan dibiarkan-Nya untuk selamanya ⟨orang⟩ benar tergoncang.",
   "tokens": [
     {
       "surface": "השלך",
-      "gloss": "Lemparkanlah"
+      "gloss": "gulingkanlah"
     },
     {
       "surface": "על",
-      "gloss": "atas"
+      "gloss": "kepada"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "יהבך",
-      "gloss": "kebebananmu"
+      "gloss": "bagianmu"
     },
     {
       "surface": "והוא",
-      "gloss": "dan Dia"
+      "gloss": "dan dialah"
     },
     {
       "surface": "יכלכלך",
-      "gloss": "akan menopangmu"
+      "gloss": "yang akan menopangmu"
     },
     {
       "surface": "לא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "akan Dia biarkan"
+      "gloss": "akan dibiarkan-Nya"
     },
     {
       "surface": "לעולם",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "מוט",
-      "gloss": "goyang"
+      "gloss": "tergoncang"
     },
     {
       "surface": "לצדיק",
       "gloss": "orang benar"
     }
   ],
-  "timestamp": "2026-08-08T09:14:53.607527203Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:05.228719749Z",
+  "model": "glm-5.3"
 }

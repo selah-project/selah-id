@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 35,
-  "translation": "Dan ⟨הוא⟩ berfirman kepadanya, Elohim, “Akulah El Shaddai; berbuahlah dan bertambahlah; bangsa dan qahal bangsa-bangsa akan ada dari padamu, dan raja-raja dari pinggangmu akan keluar.”",
+  "translation": "Dan Elohim berkata kepadanya, “Akulah El Shaddai; berbuahlah dan bertambah banyak; suatu bangsa, bahkan kumpulan bangsa-bangsa, akan ada dari padamu, dan raja-raja akan keluar dari pinggangmu.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berfirman"
+      "gloss": "Dan … berkata"
     },
     {
       "surface": "לו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "Akulah"
+      "gloss": "Aku"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ורבה",
-      "gloss": "dan bertambahlah"
+      "gloss": "dan bertambah banyak"
     },
     {
       "surface": "גוי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וקהל",
-      "gloss": "dan qahal"
+      "gloss": "bahkan kumpulan"
     },
     {
       "surface": "גוים",
@@ -72,6 +72,6 @@
       "gloss": "akan keluar"
     }
   ],
-  "timestamp": "2026-08-08T10:24:26.831187131Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:41.711821012Z",
+  "model": "glm-5.3"
 }

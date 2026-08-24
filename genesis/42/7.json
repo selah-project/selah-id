@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 42,
-  "translation": "Maka Yosef melihat ⟨את⟩ saudara-saudaranya dan mengenal mereka, tetapi ia berlaku sebagai orang asing terhadap mereka dan berbicara dengan mereka dengan keras, lalu berkata kepada mereka: “Dari mana kalian datang?” Mereka menjawab: “Dari tanah Kenaan, untuk membeli makanan.”",
+  "translation": "Maka Yosef melihat ⟨את⟩ saudara-saudaranya dan mengenal mereka, tetapi ia berlaku sebagai orang asing terhadap mereka dan berbicara ⟨את⟩ dengan mereka dengan keras, lalu berkata kepada mereka: “Dari mana kalian datang?” Mereka menjawab: “Dari tanah Kenaan, untuk membeli makanan.”",
   "tokens": [
     {
       "surface": "וירא",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "dengan mereka"
+      "gloss": "⟨את⟩ dengan mereka"
     },
     {
       "surface": "קשות",
@@ -85,6 +85,6 @@
       "gloss": "makanan"
     }
   ],
-  "timestamp": "2026-08-08T06:53:43.746628652Z",
+  "timestamp": "2026-08-24T17:55:27.072782137Z",
   "model": "glm-5.2"
 }

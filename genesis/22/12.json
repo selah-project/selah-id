@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 22,
-  "translation": "Dan ⟨ia⟩ berkata: “Jangan ulurkan tanganmu kepada sang na'ar, dan jangan lakukan apa pun kepadanya, sebab sekarang aku tahu bahwa engkau ⟨⟨adalah⟩⟩ penakut akan Elohim, dan engkau tidak menahan ⟨את⟩ putramu, ⟨את⟩ anak tunggalmu, dari pada-Ku.”",
+  "translation": "Dan ia berkata: “Jangan kauluruskan tanganmu kepada ⟨ה⟩ pemuda itu, dan jangan kaulakukan sesuatu pun kepadanya, sebab sekarang aku tahu bahwa engkau takut akan Elohim, dan engkau tidak menahan ⟨את⟩ anakmu, ⟨את⟩ anakmu yang tunggal, dari padaku.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkata"
+      "gloss": "Dan ia berkata"
     },
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תשלח",
-      "gloss": "ulurkan"
+      "gloss": "kauluruskan"
     },
     {
       "surface": "ידך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנער",
-      "gloss": "sang na'ar"
+      "gloss": "pemuda itu"
     },
     {
       "surface": "ואל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "תעש",
-      "gloss": "lakukan"
+      "gloss": "kaulakukan"
     },
     {
       "surface": "לו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "apa pun"
+      "gloss": "sesuatu pun"
     },
     {
       "surface": "כי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ירא",
-      "gloss": "penakut akan"
+      "gloss": "takut"
     },
     {
       "surface": "אלהים",
@@ -86,26 +86,26 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "putramu"
+      "marks": "anakmu"
     },
     {
       "surface": "בנך",
-      "gloss": "putramu"
+      "gloss": "anakmu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "anak tunggalmu"
+      "marks": "anakmu yang tunggal"
     },
     {
       "surface": "יחידך",
-      "gloss": "anak tunggalmu"
+      "gloss": "anakmu yang tunggal"
     },
     {
       "surface": "ממני",
-      "gloss": "dari pada-Ku"
+      "gloss": "dari padaku"
     }
   ],
-  "timestamp": "2026-08-08T10:21:20.201758116Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:48.675275316Z",
+  "model": "glm-5.3"
 }

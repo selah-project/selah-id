@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 21,
-  "translation": "Hai ⟨yang⟩ yang diinjak-injakku, dan anak pengirikanku, yang kudengar dari יהוה Tsevaot, Elohim Yisra'el, telah kuberitahukan kepadamu.",
+  "translation": "Hai yang kutampi, hai anak lantai pengirikanku! Apa yang kudengar dari ⟨את⟩ Yahweh Tsevaot, Elohim Israel, telah kunyatakan kepada kamu.",
   "tokens": [
     {
       "surface": "מדשתי",
-      "gloss": "hai yang diinjak-injakku"
+      "gloss": "yang kutampi"
     },
     {
       "surface": "ובן",
-      "gloss": "dan anak"
+      "gloss": "hai anak"
     },
     {
       "surface": "גרני",
-      "gloss": "pengirikanku"
+      "gloss": "lantai pengirikanku"
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": "apa yang"
     },
     {
       "surface": "שמעתי",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsevaot, Elohim Israel"
     },
     {
       "surface": "יהוה",
@@ -45,17 +46,17 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "הגדתי",
-      "gloss": "telah kuberitahukan"
+      "gloss": "telah kunyatakan"
     },
     {
       "surface": "לכם",
-      "gloss": "kepadamu"
+      "gloss": "kepada kamu"
     }
   ],
-  "timestamp": "2026-08-08T11:11:18.083817179Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:19.038132817Z",
+  "model": "glm-5.3"
 }

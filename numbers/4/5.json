@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan Aharon serta anak-anaknya datang ketika ⟨ה⟩ perkemahan berangkat, dan mereka menurunkan ⟨את⟩ tirai ⟨ה⟩ penutup, dan menutupi dengannya ⟨את⟩ aron kesaksuhan:",
+  "translation": "Kemudian Aharon dan anak-anaknya masuk ketika hati ⟨⟨⟨the⟩⟩⟩ kampung berangkat, dan mereka menurunkan ⟨את⟩ tirai pembatas itu, dan menutup dengannya ⟨את⟩ Aron ⟨the⟩ Kesaksian itu.",
   "tokens": [
     {
       "surface": "ובא",
-      "gloss": "dan datang"
+      "gloss": "masuk"
     },
     {
       "surface": "אהרן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "⟨ה⟩ perkemahan"
+      "gloss": "kampung itu"
     },
     {
       "surface": "והורדו",
@@ -34,19 +34,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tirai"
+      "marks": "tirai pembatas"
     },
     {
       "surface": "פרכת",
-      "gloss": "tirai"
+      "gloss": "tirai pembatas"
     },
     {
       "surface": "המסך",
-      "gloss": "⟨ה⟩ penutup"
+      "gloss": "kelambu itu"
     },
     {
       "surface": "וכסו",
-      "gloss": "dan menutupi"
+      "gloss": "dan menutup"
     },
     {
       "surface": "בה",
@@ -55,17 +55,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aron"
+      "marks": "Aron Kesaksian"
     },
     {
       "surface": "ארן",
-      "gloss": "aron"
+      "gloss": "Aron"
     },
     {
       "surface": "העדת",
-      "gloss": "kesaksuhan"
+      "gloss": "Kesaksian itu"
     }
   ],
-  "timestamp": "2026-08-08T07:14:52.251600705Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:34.147937439Z",
+  "model": "glm-5.3"
 }

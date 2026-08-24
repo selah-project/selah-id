@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 6,
-  "translation": "Lalu Mosheh berbicara demikian kepada bani Yisra'el, tetapi mereka tidak mendengarkan Mosheh, karena pendek ⟨הוּא⟩ roh dan karena perbudakan yang keras.",
+  "translation": "Dan Mosheh berbicara demikian kepada bani Yisra'el, tetapi mereka tidak mendengarkan Mosheh karena penyesakan roh dan karena perbudakan yang keras.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Lalu berbicara"
+      "gloss": "dan berbicara"
     },
     {
       "surface": "משה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מקצר",
-      "gloss": "karena pendek"
+      "gloss": "karena penyesakan"
     },
     {
       "surface": "רוח",
@@ -64,6 +64,6 @@
       "gloss": "yang keras"
     }
   ],
-  "timestamp": "2026-08-08T06:55:53.400406415Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:36.554684472Z",
+  "model": "glm-5.3"
 }

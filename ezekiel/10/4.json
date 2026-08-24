@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 10,
-  "translation": "Maka terangkatlah kemuliaan Yahweh dari atas ⟨הכרוב⟩ ke ambang ⟨הבית⟩, dan ⟨הבית⟩ itu dipenuhi oleh ⟨את⟩ awan itu, sedang halaman itu penuh ⟨את⟩ cahaya kemuliaan Yahweh.",
+  "translation": "Lalu kemuliaan Yahweh naik dari atas kerub itu ke ambang rumah, dan rumah itu dipenuhi ⟨את⟩ awan itu, dan pelataran itu penuh ⟨את⟩ cahaya kemuliaan Yahweh.",
   "tokens": [
     {
       "surface": "וירם",
-      "gloss": "Maka terangkatlah"
+      "gloss": "naik"
     },
     {
       "surface": "כבוד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הכרוב",
-      "gloss": "keruv itu"
+      "gloss": "kerub itu"
     },
     {
       "surface": "על",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "bait itu"
+      "gloss": "rumah"
     },
     {
       "surface": "וימלא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "bait itu"
+      "gloss": "rumah itu"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "והחצר",
-      "gloss": "dan halaman itu"
+      "gloss": "dan pelataran itu"
     },
     {
       "surface": "מלאה",
@@ -82,6 +82,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T12:20:56.882729469Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:10.477321020Z",
+  "model": "glm-5.3"
 }

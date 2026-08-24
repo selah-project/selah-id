@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 16,
-  "translation": "Dan aku akan menegakkan ⟨את⟩ perjanjian-Ku dengan engkau, dan engkau akan mengetahui bahwa aku ⟨adalah⟩ Yahweh.",
+  "translation": "Dan aku akan menegakkan ⟨את⟩ perjanjian-Ku ⟨את⟩ dengan engkau, dan engkau akan mengetahui bahwa aku ⟨adalah⟩ Yahweh.",
   "tokens": [
     {
       "surface": "והקימותי",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "dengan engkau"
+      "gloss": "⟨את⟩ dengan engkau"
     },
     {
       "surface": "וידעת",
@@ -45,6 +45,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T08:47:28.563885990Z",
+  "timestamp": "2026-08-24T17:55:27.188891180Z",
   "model": "glm-5.2"
 }

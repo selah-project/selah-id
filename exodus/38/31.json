@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 38,
-  "translation": "dan ⟨את⟩ alas-alas ⟨ה⟩ pelataran sekelilingnya, dan ⟨את⟩ alas-alas pintu gerbang ⟨ה⟩ pelataran, dan ⟨את⟩ segala pasak-pasak ⟨ה⟩ mishkan, dan ⟨את⟩ segala pasak-pasak ⟨ה⟩ pelataran sekelilingnya.",
+  "translation": "dan ⟨את⟩ alas-alas pelataran sekeliling, dan ⟨את⟩ alas-alas pintu gerbang pelataran, dan ⟨את⟩ segala patok Mishkan, dan ⟨את⟩ segala patok pelataran sekeliling.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "alas-alas"
+      "marks": "alas-alas pelataran sekeliling"
     },
     {
       "surface": "אדני",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "סביב",
-      "gloss": "sekelilingnya"
+      "gloss": "sekeliling"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "alas-alas"
+      "marks": "alas-alas pintu gerbang pelataran"
     },
     {
       "surface": "אדני",
@@ -44,7 +44,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "segala pasak-pasak"
+      "marks": "segala patok Mishkan"
     },
     {
       "surface": "כל",
@@ -52,16 +52,16 @@
     },
     {
       "surface": "יתדת",
-      "gloss": "pasak-pasak"
+      "gloss": "patok"
     },
     {
       "surface": "המשכן",
-      "gloss": "mishkan"
+      "gloss": "Mishkan"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "segala pasak-pasak"
+      "marks": "segala patok pelataran sekeliling"
     },
     {
       "surface": "כל",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "יתדת",
-      "gloss": "pasak-pasak"
+      "gloss": "patok"
     },
     {
       "surface": "החצר",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "סביב",
-      "gloss": "sekelilingnya"
+      "gloss": "sekeliling"
     }
   ],
-  "timestamp": "2026-08-08T10:32:56.227540388Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:50.492496785Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 17,
-  "translation": "Dan engkau akan meletakkannya di Kemoh Pertemuan, di hadapan ⟨הָעֵדוּת⟩, di mana Aku berjanji bertemu dengan kamu di sana.",
+  "translation": "Dan kauletakkan mereka di Kemah Pertemuan, di hadapan HaEdut, tempat Aku berjumpa dengan kamu di sana.",
   "tokens": [
     {
       "surface": "והנחתם",
-      "gloss": "Dan engkau akan meletakkannya"
+      "gloss": "Dan kauletakkan mereka"
     },
     {
       "surface": "באהל",
-      "gloss": "di Kemoh"
+      "gloss": "di Kemah"
     },
     {
       "surface": "מועד",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "di mana"
+      "gloss": "tempat"
     },
     {
       "surface": "אועד",
-      "gloss": "Aku berjanji bertemu"
+      "gloss": "Aku berjumpa"
     },
     {
       "surface": "לכם",
@@ -44,6 +44,6 @@
       "gloss": "di sana"
     }
   ],
-  "timestamp": "2026-08-08T12:12:09.080184415Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:58.150466697Z",
+  "model": "glm-5.3"
 }

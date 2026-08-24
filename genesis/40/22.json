@@ -5,12 +5,12 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan ⟨את⟩ sar ha-ofim ⟨הוא⟩ menggantung, seperti yang ditafsirkan bagi mereka Yosef.",
+  "translation": "Tetapi ⟨את⟩ kepala pembuat roti itu ia gantungkan, sesuai seperti yang ditafsirkan kepada mereka oleh Yosef.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "sar ha-ofim"
+      "gloss": "Tetapi ⟨את⟩",
+      "marks": "kepala pembuat roti itu"
     },
     {
       "surface": "שר",
@@ -18,15 +18,15 @@
     },
     {
       "surface": "האפים",
-      "gloss": "ha-ofim"
+      "gloss": "pembuat roti itu"
     },
     {
       "surface": "תלה",
-      "gloss": "menggantung"
+      "gloss": "ia gantungkan"
     },
     {
       "surface": "כאשר",
-      "gloss": "seperti yang"
+      "gloss": "sesuai seperti"
     },
     {
       "surface": "פתר",
@@ -34,13 +34,13 @@
     },
     {
       "surface": "להם",
-      "gloss": "bagi mereka"
+      "gloss": "kepada mereka"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "oleh Yosef"
     }
   ],
-  "timestamp": "2026-08-08T10:25:01.035761252Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:43.682991036Z",
+  "model": "glm-5.3"
 }

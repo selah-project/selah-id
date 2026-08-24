@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "id",
   "chapter": 6,
-  "translation": "Ambillah dari pembuangan — dari Heldai, dari ⟨את⟩ Toviyya, dan dari ⟨את⟩ Yedaya — dan engkau, masuklah pada hari itu, dan masuklah ke rumah Yosia bin Tsefanya, yang telah datang dari Bavel.",
+  "translation": "Ambillah dari pembuangan — dari Heldai, dari ⟨את⟩ Toviyya, ⟨את⟩ dan dari ⟨את⟩ Yedaya — dan engkau, masuklah pada hari itu, dan masuklah ke rumah Yosia bin Tsefanya, yang telah datang dari Bavel.",
   "tokens": [
     {
       "surface": "לקוח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩ dari"
     },
     {
       "surface": "הגולה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ומאת",
-      "gloss": "dan dari",
+      "gloss": "⟨את⟩ dan dari",
       "marks": "Toviyya"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ומאת",
-      "gloss": "dan dari",
+      "gloss": "⟨את⟩ dan dari",
       "marks": "Yedaya"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "dari Bavel"
     }
   ],
-  "timestamp": "2026-08-08T09:04:28.886140388Z",
+  "timestamp": "2026-08-24T17:55:27.108848548Z",
   "model": "glm-5.2"
 }

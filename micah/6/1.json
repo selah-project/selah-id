@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "id",
   "chapter": 6,
-  "translation": "Dengarlah na, ⟨את⟩ apa yang Yahweh katakan: Bangunlah, berperanglah terhadap pegunungan, dan biarlah bukit-bukit mendengar suaramu.",
+  "translation": "Dengarlah na, ⟨את⟩ apa yang Yahweh katakan: Bangunlah, berperanglah ⟨את⟩ terhadap pegunungan, dan biarlah bukit-bukit mendengar suaramu.",
   "tokens": [
     {
       "surface": "שמעו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "את",
-      "gloss": "terhadap"
+      "gloss": "⟨את⟩ terhadap"
     },
     {
       "surface": "ההרים",
@@ -61,6 +61,6 @@
       "gloss": "suaramu"
     }
   ],
-  "timestamp": "2026-08-08T09:01:52.509918468Z",
+  "timestamp": "2026-08-24T17:55:27.131752348Z",
   "model": "glm-5.2"
 }

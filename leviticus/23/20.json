@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 23,
-  "translation": "Dan imam itu akan mengoyak-goyangkan ⟨אתם⟩ di atas roti buah-buahan pertama, sebagai persembahan unjukan di hadapan Yahweh, bersama dua domba jantan itu — kudus ⟨mereka⟩ bagi Yahweh, bagi imam.",
+  "translation": "Dan imam akan mengunjak ⟨את⟩ ⟨אתם⟩ bersama roti buah sulung sebagai persembahan diunjak di hadapan Yahweh, bersama kedua domba itu — ⟨itu⟩ kudus bagi Yahweh, bagi imam itu.",
   "tokens": [
     {
       "surface": "והניף",
-      "gloss": "dan ia akan mengoyak-goyangkan"
+      "gloss": "dan akan mengunjak"
     },
     {
       "surface": "הכהן",
@@ -17,12 +17,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mereka (roti buah-buahan pertama dan dua domba jantan)"
+      "gloss": "⟨את⟩ ⟨אתם⟩"
     },
     {
       "surface": "על",
-      "gloss": "di atas"
+      "gloss": "bersama"
     },
     {
       "surface": "לחם",
@@ -30,11 +29,11 @@
     },
     {
       "surface": "הבכורים",
-      "gloss": "buah-buahan pertama"
+      "gloss": "buah sulung"
     },
     {
       "surface": "תנופה",
-      "gloss": "persembahan unjukan"
+      "gloss": "persembahan diunjak"
     },
     {
       "surface": "לפני",
@@ -50,11 +49,11 @@
     },
     {
       "surface": "שני",
-      "gloss": "dua"
+      "gloss": "kedua"
     },
     {
       "surface": "כבשים",
-      "gloss": "domba jantan"
+      "gloss": "domba"
     },
     {
       "surface": "קדש",
@@ -62,7 +61,7 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "mereka akan menjadi"
+      "gloss": "adalah"
     },
     {
       "surface": "ליהוה",
@@ -73,6 +72,6 @@
       "gloss": "bagi imam"
     }
   ],
-  "timestamp": "2026-08-09T01:38:39.770573109Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.209205265Z",
+  "model": "glm-5.3"
 }

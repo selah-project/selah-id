@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 7,
-  "translation": "Dari ⟨ha⟩-behemah yang tahir dan dari ⟨ha⟩-behemah yang tidak tahir dan dari ⟨ha⟩-of dan segala yang merayap di atas ⟨ha⟩-adamah",
+  "translation": "Dari hewan yang tahir dan dari hewan yang tidak tahir, dan dari unggas, dan dari segala yang merayap di atas tanah,",
   "tokens": [
     {
       "surface": "מן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "⟨ha⟩-behemah"
+      "gloss": "hewan"
     },
     {
       "surface": "הטהורה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "⟨ha⟩-behemah"
+      "gloss": "hewan"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "העוף",
-      "gloss": "⟨ha⟩-of"
+      "gloss": "unggas"
     },
     {
       "surface": "וכל",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "⟨ha⟩-adamah"
+      "gloss": "tanah"
     }
   ],
-  "timestamp": "2026-08-08T10:19:09.589902868Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:38.693034986Z",
+  "model": "glm-5.3"
 }

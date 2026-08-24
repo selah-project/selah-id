@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 118,
-  "translation": "Dari ⟨the⟩ kesempitan aku berseru, Yah; ⟨dia⟩ menjawabku di ⟨the⟩ kelapangan, Yah.",
+  "translation": "Dari tempat sempit aku berseru kepada Yah; Yah menjawab aku di tempat luas.",
   "tokens": [
     {
       "surface": "מן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המצר",
-      "gloss": "⟨the⟩ kesempitan"
+      "gloss": "tempat sempit"
     },
     {
       "surface": "קראתי",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "ענני",
-      "gloss": "⟨dia⟩ menjawabku"
+      "gloss": "menjawab aku"
     },
     {
       "surface": "במרחב",
-      "gloss": "di ⟨the⟩ kelapangan"
+      "gloss": "di tempat luas"
     },
     {
       "surface": "יה",
       "gloss": "Yah"
     }
   ],
-  "timestamp": "2026-08-08T09:25:33.994719433Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:36.423016482Z",
+  "model": "glm-5.3"
 }

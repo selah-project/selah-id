@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 31,
-  "translation": "Dari suara kejatuhannya Aku menggoyangkan bangsa-bangsa, ketika Aku menurunkan dia ⟨אתו⟩ ke Sheol ⟨את⟩ orang-orang yang turun ke liang kubur, dan terhiburlah di bumi yang paling bawah segala pohon Eden, yang terpilih dan yang terbaik di Lebano, segala yang meminum air.",
+  "translation": "Pada suara kejatuhannya Aku menggemparkan bangsa-bangsa, ketika Kuturunkan ⟨את⟩ ⟨אתו⟩ dia ke Sheol ⟨את⟩ para penurun ke liang; dan terhiburlah di bumi yang terbawah segala pohon Eden, pilihan dan terbaik Levanon, segala peminum air.",
   "tokens": [
     {
       "surface": "מקול",
-      "gloss": "Dari suara"
+      "gloss": "pada suara"
     },
     {
       "surface": "מפלתו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הרעשתי",
-      "gloss": "Aku menggoyangkan"
+      "gloss": "Aku menggemparkan"
     },
     {
       "surface": "גוים",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "בהורדי",
-      "gloss": "ketika Aku menurunkan"
+      "gloss": "ketika Kuturunkan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "dia ke Sheol"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "dia (ke Sheol)"
     },
     {
       "surface": "שאולה",
@@ -39,15 +39,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "orang-orang yang turun ke liang kubur"
+      "marks": "para penurun ke liang"
     },
     {
       "surface": "יורדי",
-      "gloss": "orang-orang yang turun"
+      "gloss": "para penurun"
     },
     {
       "surface": "בור",
-      "gloss": "ke liang kubur"
+      "gloss": "ke liang"
     },
     {
       "surface": "וינחמו",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "תחתית",
-      "gloss": "yang paling bawah"
+      "gloss": "yang terbawah"
     },
     {
       "surface": "כל",
@@ -75,15 +75,15 @@
     },
     {
       "surface": "מבחר",
-      "gloss": "yang terpilih"
+      "gloss": "pilihan"
     },
     {
       "surface": "וטוב",
-      "gloss": "dan yang terbaik"
+      "gloss": "dan terbaik"
     },
     {
       "surface": "לבנון",
-      "gloss": "di Lebano"
+      "gloss": "Levanon"
     },
     {
       "surface": "כל",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "שתי",
-      "gloss": "yang meminum"
+      "gloss": "peminum"
     },
     {
       "surface": "מים",
       "gloss": "air"
     }
   ],
-  "timestamp": "2026-08-09T01:42:49.453477764Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.189487579Z",
+  "model": "glm-5.3"
 }

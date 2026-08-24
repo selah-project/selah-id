@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "id",
   "chapter": 15,
-  "translation": "Segala hari orang fasik ⟨הוא⟩ ⟨dia⟩ meronta-ronta, dan hitungan tahun-tahun tersimpan bagi sang penindas:",
+  "translation": "Segala hari orang fasik ⟨ia⟩ meronta-ronta, dan bilangan tahun yang tersimpan bagi si penganiaya.",
   "tokens": [
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨dia⟩"
+      "gloss": "⟨ia⟩"
     },
     {
       "surface": "מתחולל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ומספר",
-      "gloss": "dan hitungan"
+      "gloss": "dan bilangan"
     },
     {
       "surface": "שנים",
-      "gloss": "tahun-tahun"
+      "gloss": "tahun"
     },
     {
       "surface": "נצפנו",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "לעריץ",
-      "gloss": "bagi sang penindas"
+      "gloss": "bagi si penganiaya"
     }
   ],
-  "timestamp": "2026-08-08T09:40:21.260192079Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:16.725023231Z",
+  "model": "glm-5.3"
 }

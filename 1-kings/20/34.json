@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan berkatalah ⟨Ben-Hadad⟩ kepadanya, “Kota-kota yang diambil ayahku dari pada ayahmu aku akan kembalikan, dan ⟨engkau⟩ boleh menempatkan pasar-pasar bagimu di Damsyik, sebagaimana ayahku menempatkan ⟨mereka⟩ di Shomron. Dan aku, ⟨dengan⟩ berkat aku akan melepaskan engkau.” Maka ⟨raja⟩ mengikat berkat dengannya, dan melepaskannya.",
+  "translation": "Dan berkatalah ⟨Ben-Hadad⟩ kepadanya, “Kota-kota yang diambil ayahku ⟨את⟩ dari pada ayahmu aku akan kembalikan, dan ⟨engkau⟩ boleh menempatkan pasar-pasar bagimu di Damsyik, sebagaimana ayahku menempatkan ⟨mereka⟩ di Shomron. Dan aku, ⟨dengan⟩ berkat aku akan melepaskan engkau.” Maka ⟨raja⟩ mengikat berkat dengannya, dan melepaskannya.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari pada"
+      "gloss": "⟨את⟩ dari pada"
     },
     {
       "surface": "אביך",
@@ -104,6 +104,6 @@
       "gloss": "dan melepaskannya"
     }
   ],
-  "timestamp": "2026-08-08T08:07:23.004598926Z",
+  "timestamp": "2026-08-24T17:55:27.250874265Z",
   "model": "glm-5.2"
 }

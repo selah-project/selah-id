@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "id",
   "chapter": 29,
-  "translation": "Kemuliaanku baru ⟨יהיה⟩ bersamaku, dan busurku di tanganku ⟨יהיה⟩ diperbarui.”",
+  "translation": "Kemuliaanku ⟨adalah⟩ baru pada diriku, dan busurku di tanganku diubah menjadi baru.",
   "tokens": [
     {
       "surface": "כבודי",
-      "gloss": "kemuliaanku"
+      "gloss": "Kemuliaanku"
     },
     {
       "surface": "חדש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עמדי",
-      "gloss": "bersamaku"
+      "gloss": "pada diriku"
     },
     {
       "surface": "וקשתי",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "תחליף",
-      "gloss": "diperbarui"
+      "gloss": "diubah menjadi baru"
     }
   ],
-  "timestamp": "2026-08-08T09:42:28.857530463Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:14.586384185Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "id",
   "chapter": 4,
-  "translation": "Lebih baik segenap ⟨ה⟩ telapak ⟨dengan⟩ ketenangan daripada penuh dua kepalan ⟨dengan⟩ jerih payah dan penggembalaan ⟨ה⟩ angin.",
+  "translation": "Lebih baik segenggam ketenangan daripada dua genggam penuh kerja keras dan pengejaran angin.",
   "tokens": [
     {
       "surface": "טוב",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מלא",
-      "gloss": "segenap"
+      "gloss": "seisi"
     },
     {
       "surface": "כף",
-      "gloss": "telapak"
+      "gloss": "segenggam (telapak tangan)"
     },
     {
       "surface": "נחת",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "ממלא",
-      "gloss": "daripada penuh"
+      "gloss": "daripada seisi"
     },
     {
       "surface": "חפנים",
-      "gloss": "dua kepalan"
+      "gloss": "dua genggam (kepalan tangan)"
     },
     {
       "surface": "עמל",
-      "gloss": "jerih payah"
+      "gloss": "kerja keras"
     },
     {
       "surface": "ורעות",
-      "gloss": "dan penggembalaan"
+      "gloss": "dan pengejaran"
     },
     {
       "surface": "רוח",
       "gloss": "angin"
     }
   ],
-  "timestamp": "2026-08-08T09:49:30.991950915Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:27.198401437Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 25,
-  "translation": "Lalu mereka menangkap ⟨את⟩ raja itu dan membawanya kepada raja Bavel, di Rivlah, dan mereka berbicara ⟨dengannya⟩ hukum.",
+  "translation": "Lalu mereka menangkap ⟨את⟩ raja itu dan membawanya kepada raja Bavel, di Rivlah, dan mereka berbicara ⟨את⟩ ⟨dengannya⟩ hukum.",
   "tokens": [
     {
       "surface": "ויתפשו",
@@ -51,13 +51,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨dengannya⟩"
+      "gloss": "⟨את⟩ ⟨dengannya⟩"
     },
     {
       "surface": "משפט",
       "gloss": "hukum"
     }
   ],
-  "timestamp": "2026-08-08T08:15:00.999071606Z",
+  "timestamp": "2026-08-24T17:55:27.198687716Z",
   "model": "glm-5.2"
 }

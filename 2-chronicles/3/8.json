@@ -5,16 +5,16 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan ⟨ia⟩ membuat ⟨את⟩ ruang ⟨the⟩ kekudusan ⟨dari⟩ tempat-tempat kudus; panjangnya pada permukaan lebar ⟨the⟩ rumah dua puluh hasta, dan lebarnya dua puluh hasta; dan ⟨ia⟩ melapisi ⟨את⟩nya emas yang baik seberat enam ratus talenta.",
+  "translation": "Dan ia membuat ⟨את⟩ ruang Mahakudus: panjangnya, di sebelah depan lebar rumah itu, dua puluh hasta, dan lebarnya dua puluh hasta; dan ia menyelubunginya dengan emas yang baik seharga enam ratus talenta.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "dan membuat"
+      "gloss": "dan ia membuat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ruang"
+      "marks": "ruang Mahakudus"
     },
     {
       "surface": "בית",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "קדש",
-      "gloss": "kekudusan"
+      "gloss": "kudus"
     },
     {
       "surface": "הקדשים",
-      "gloss": "tempat-tempat kudus"
+      "gloss": "Mahakudus"
     },
     {
       "surface": "ארכו",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "על",
-      "gloss": "pada"
+      "gloss": "di sebelah"
     },
     {
       "surface": "פני",
-      "gloss": "permukaan"
+      "gloss": "depan"
     },
     {
       "surface": "רחב",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "rumah"
+      "gloss": "rumah itu"
     },
     {
       "surface": "אמות",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "ויחפהו",
-      "gloss": "dan melapisi"
+      "gloss": "dan ia menyelubunginya"
     },
     {
       "surface": "זהב",
-      "gloss": "emas"
+      "gloss": "dengan emas"
     },
     {
       "surface": "טוב",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "לככרים",
-      "gloss": "seberat talenta"
+      "gloss": "seharga talenta-talenta"
     },
     {
       "surface": "שש",
@@ -93,6 +93,6 @@
       "gloss": "ratus"
     }
   ],
-  "timestamp": "2026-08-08T12:27:43.366609552Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:51.046801844Z",
+  "model": "glm-5.3"
 }

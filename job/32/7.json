@@ -5,19 +5,19 @@
   "book": "job",
   "lang": "id",
   "chapter": 32,
-  "translation": "Aku berkata: ⟨⟨Hari-hari⟩⟩ akan berbicara, dan kebanyakan tahun akan mengajarkan hikmat.",
+  "translation": "Aku berkata, hari-harilah yang berbicara, dan kebanyakan tahun-tahunlah yang menyatakan hikmat.",
   "tokens": [
     {
       "surface": "אמרתי",
-      "gloss": "aku berkata"
+      "gloss": "Aku berkata"
     },
     {
       "surface": "ימים",
-      "gloss": "hari-hari"
+      "gloss": "hari-harilah"
     },
     {
       "surface": "ידברו",
-      "gloss": "akan berbicara"
+      "gloss": "yang berbicara"
     },
     {
       "surface": "ורב",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "שנים",
-      "gloss": "tahun"
+      "gloss": "tahun-tahunlah"
     },
     {
       "surface": "ידיעו",
-      "gloss": "akan mengajarkan"
+      "gloss": "yang menyatakan"
     },
     {
       "surface": "חכמה",
       "gloss": "hikmat"
     }
   ],
-  "timestamp": "2026-08-08T09:42:47.515447601Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:28.893294457Z",
+  "model": "glm-5.3"
 }

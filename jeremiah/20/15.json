@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 20,
-  "translation": "Terkutuklah ⟨האישׁ⟩ orang yang memberitahukan ⟨את⟩ ayahku, dengan mengatakan, “Telah lahir bagimu anak laki-laki,” menyenangkan ⟨dia⟩ dengan sukacita besar.",
+  "translation": "Terkutuklah orang yang membawa kabar kepada ayahku, yang berkata, “Telah lahir bagimu anak laki-laki,” dan membuatnya bersukacita.",
   "tokens": [
     {
       "surface": "ארור",
-      "gloss": "terkutuklah"
+      "gloss": "Terkutuklah"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨האישׁ⟩ orang"
+      "gloss": "orang"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בשר",
-      "gloss": "memberitahukan"
+      "gloss": "membawa kabar"
     },
     {
       "surface": "את",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "dengan mengatakan"
+      "gloss": "yang berkata"
     },
     {
       "surface": "ילד",
-      "gloss": "telah lahir"
+      "gloss": "Telah lahir"
     },
     {
       "surface": "לך",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "שמח",
-      "gloss": "menyenangkan"
+      "gloss": "membuatnya bersukacita"
     },
     {
       "surface": "שמחהו",
-      "gloss": "dengan sukacita besar"
+      "gloss": "bersukacita"
     }
   ],
-  "timestamp": "2026-08-08T08:34:36.179183563Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:58.838050028Z",
+  "model": "glm-5.3"
 }

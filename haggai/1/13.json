@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "id",
   "chapter": 1,
-  "translation": "Lalu berkatalah Chaggai, utusan Yahweh, dalam utusan Yahweh kepada bangsa itu, dengan berkata: “Aku ⟨bersama⟩ kamu,” demikianlah titah Yahweh.",
+  "translation": "Lalu berkatalah Chaggai, utusan Yahweh, dalam utusan Yahweh kepada bangsa itu, dengan berkata: “Aku ⟨את⟩ ⟨bersama⟩ kamu,” demikianlah titah Yahweh.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨bersama⟩ kamu"
+      "gloss": "⟨את⟩ ⟨bersama⟩ kamu"
     },
     {
       "surface": "נאם",
@@ -56,6 +56,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T09:03:28.761932621Z",
+  "timestamp": "2026-08-24T17:55:27.099193049Z",
   "model": "glm-5.2"
 }

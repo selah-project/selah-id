@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 8,
-  "translation": "Maka pergilah ia dari bersama Elisha, lalu datang kepada tuannya, dan berkatalah kepadanya, “Apa yang dikatakan Elisha kepadamu?” Dan berkatalah ia, “Ia berkata kepadaku, ⟨engkau⟩ pasti akan hidup.”",
+  "translation": "Maka pergilah ia ⟨את⟩ dari bersama Elisha, lalu datang kepada tuannya, dan berkatalah kepadanya, “Apa yang dikatakan Elisha kepadamu?” Dan berkatalah ia, “Ia berkata kepadaku, ⟨engkau⟩ pasti akan hidup.”",
   "tokens": [
     {
       "surface": "וילך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari bersama"
+      "gloss": "⟨את⟩ dari bersama"
     },
     {
       "surface": "אלישע",
@@ -76,6 +76,6 @@
       "gloss": "hidup"
     }
   ],
-  "timestamp": "2026-08-08T08:10:23.948631315Z",
+  "timestamp": "2026-08-24T17:55:27.200271500Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 27,
-  "translation": "Tetapi jika mereka nabi, dan jika ada firman Yahweh bersama mereka, baiklah mereka memohon kepada Yahweh Tzevaot, supaya ⟨tidak⟩ pergi ⟨הכלים⟩ alat-alat yang tersisa di rumah Yahweh, dan di rumah raja Yehudah, dan di Yerushalayim, ke Bavel.",
+  "translation": "Tetapi jika mereka nabi, dan jika ada firman Yahweh ⟨את⟩ mereka, biarlah mereka memohon kepada Yahweh Tsevaot supaya perkakas-perkakas yang tersisa di rumah Yahweh, di rumah raja Yehuda, dan di Yerushalayim tidak dibawa ke Bavel.",
   "tokens": [
     {
       "surface": "ואם",
@@ -37,15 +37,16 @@
     },
     {
       "surface": "אתם",
-      "gloss": "bersama mereka"
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (para nabi)"
     },
     {
       "surface": "יפגעו",
-      "gloss": "memohon"
+      "gloss": "biarlah mereka memohon"
     },
     {
       "surface": "נא",
-      "gloss": "baiklah"
+      "gloss": "sekarang"
     },
     {
       "surface": "ביהוה",
@@ -53,19 +54,19 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tzevaot"
+      "gloss": "Tsevaot"
     },
     {
       "surface": "לבלתי",
-      "gloss": "supaya ⟨tidak⟩"
+      "gloss": "supaya tidak"
     },
     {
       "surface": "באו",
-      "gloss": "pergi"
+      "gloss": "dibawa"
     },
     {
       "surface": "הכלים",
-      "gloss": "alat-alat"
+      "gloss": "perkakas-perkakas"
     },
     {
       "surface": "הנותרים",
@@ -81,7 +82,7 @@
     },
     {
       "surface": "ובית",
-      "gloss": "dan di rumah"
+      "gloss": "di rumah"
     },
     {
       "surface": "מלך",
@@ -89,7 +90,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "Yehuda"
     },
     {
       "surface": "ובירושלם",
@@ -100,6 +101,6 @@
       "gloss": "ke Bavel"
     }
   ],
-  "timestamp": "2026-08-08T11:18:09.431453514Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:51.971012142Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 25,
-  "translation": "Dan terjadilah pada pagi hari, ketika keluar anggur dari Nabal, bahwa istrinya memberitahukan kepadanya ⟨את⟩ perkara-perkara ini, dan matilah hatinya di dalam dirinya, dan ia ⟨היה⟩ menjadi seperti batu.",
+  "translation": "Dan terjadilah pada waktu pagi, ketika keluar anggur dari Nabal, istrinya memberitahukan kepadanya ⟨את⟩ perkataan-perkataan ini, maka matilah hatinya di dalam dirinya, dan ia menjadi seperti batu.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "pada pagi hari"
+      "gloss": "pada waktu pagi"
     },
     {
       "surface": "בצאת",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ותגד",
-      "gloss": "bahwa ia memberitahukan"
+      "gloss": "maka ia memberitahukan"
     },
     {
       "surface": "לו",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perkara-perkara ini"
+      "marks": "perkataan-perkataan ini"
     },
     {
       "surface": "הדברים",
-      "gloss": "perkara-perkara"
+      "gloss": "perkataan-perkataan"
     },
     {
       "surface": "האלה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "וימת",
-      "gloss": "dan matilah"
+      "gloss": "maka matilah"
     },
     {
       "surface": "לבו",
@@ -77,6 +77,6 @@
       "gloss": "seperti batu"
     }
   ],
-  "timestamp": "2026-08-08T07:52:04.813266430Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:06.029679004Z",
+  "model": "glm-5.3"
 }

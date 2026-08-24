@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 32,
-  "translation": "Maka takutlah Yakov sangat, dan ⟨itu⟩ menyusahkan dia; dan ia membagi ⟨את⟩ orang yang bersamanya, dan ⟨את⟩ kambing-domba, dan ⟨את⟩ lembu, dan unta, menjadi dua kemah.",
+  "translation": "Maka takutlah Yakov sangat, dan ⟨itu⟩ menyusahkan dia; dan ia membagi ⟨את⟩ orang yang ⟨את⟩ bersamanya, dan ⟨את⟩ kambing-domba, dan ⟨את⟩ lembu, dan unta, menjadi dua kemah.",
   "tokens": [
     {
       "surface": "ויירא",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "ואת",
@@ -79,6 +79,6 @@
       "gloss": "kemah"
     }
   ],
-  "timestamp": "2026-08-08T06:50:36.509374242Z",
+  "timestamp": "2026-08-24T17:55:27.067917685Z",
   "model": "glm-5.2"
 }

@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 12,
-  "translation": "Maka Yahoiada sang imam mengambil satu peti, dan melubangi tutupnya, dan menaruhnya dekat mezbah, di sebelah kanan, ketika seseorang masuk ke ⟨the⟩ bait Yahweh; dan para imam penjaga ambang pintu menaruh di sana ⟨את⟩ seluruh uang yang dibawa ke bait Yahweh.",
+  "translation": "Lalu Yehoyada sang kohen mengambil satu peti, dan melubangi tutupnya, dan menaruhnya ⟨את⟩ di samping mezbah, di sebelah kanan saat seseorang masuk ke rumah Yahweh; maka para kohen, penjaga ambang pintu, menaruh di sana ⟨את⟩ seluruh uang yang dibawa masuk ke rumah Yahweh.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Maka mengambil"
+      "gloss": "lalu mengambil"
     },
     {
       "surface": "יהוידע",
-      "gloss": "Yahoiada"
+      "gloss": "Yehoyada"
     },
     {
       "surface": "הכהן",
-      "gloss": "sang imam"
+      "gloss": "sang kohen"
     },
     {
       "surface": "ארון",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "בדלתו",
-      "gloss": "di tutupnya"
+      "gloss": "tutupnya"
     },
     {
       "surface": "ויתן",
-      "gloss": "dan menaruhnya"
+      "gloss": "dan menaruh"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ia ( peti itu )"
+      "marks": "itu (petinya)"
     },
     {
       "surface": "אצל",
-      "gloss": "dekat"
+      "gloss": "di samping"
     },
     {
       "surface": "המזבח",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "בבוא",
-      "gloss": "ketika masuk"
+      "gloss": "saat masuk"
     },
     {
       "surface": "איש",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "bait"
+      "gloss": "rumah"
     },
     {
       "surface": "יהוה",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "dan menaruh"
+      "gloss": "maka menaruh"
     },
     {
       "surface": "שמה",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "para imam"
+      "gloss": "para kohen"
     },
     {
       "surface": "שמרי",
@@ -111,17 +111,17 @@
     },
     {
       "surface": "המובא",
-      "gloss": "yang dibawa"
+      "gloss": "yang dibawa masuk"
     },
     {
       "surface": "בית",
-      "gloss": "bait"
+      "gloss": "rumah"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T23:16:53.303614922Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:39.200045968Z",
+  "model": "glm-5.3"
 }

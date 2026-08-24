@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 26,
-  "translation": "dan engkau datang kepada ⟨הכהן⟩ yang akan ada pada hari-hari itu, dan engkau berkata kepadanya, 'Aku telah memberitahukan hari ini kepada Yahweh Elohim-mu bahwa aku telah datang ke tanah yang telah disumpah Yahweh kepada nenek moyang kami untuk diberikan kepada kami,'",
+  "translation": "Dan engkau akan datang kepada ⟨את⟩ kohen yang akan ada pada hari-hari itu, dan engkau akan berkata kepadanya: Aku menyatakan hari ini kepada Yahweh, Elohimmu, bahwa aku telah masuk ke ⟨את⟩ negeri yang dijanjikan Yahweh dengan sumpah kepada bapak-bapak kita untuk diberikan kepada kita.",
   "tokens": [
     {
       "surface": "ובאת",
-      "gloss": "dan engkau datang"
+      "gloss": "Dan engkau akan datang"
     },
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "⟨sang imam⟩"
+      "gloss": "kohen"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "dan engkau berkata"
+      "gloss": "dan engkau akan berkata"
     },
     {
       "surface": "אליו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הגדתי",
-      "gloss": "aku telah memberitahukan"
+      "gloss": "Aku menyatakan"
     },
     {
       "surface": "היום",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim-mu"
+      "gloss": "Elohimmu"
     },
     {
       "surface": "כי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "באתי",
-      "gloss": "aku telah datang"
+      "gloss": "aku telah masuk"
     },
     {
       "surface": "אל",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah"
+      "gloss": "negeri"
     },
     {
       "surface": "אשר",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "telah disumpah"
+      "gloss": "dijanjikan dengan sumpah"
     },
     {
       "surface": "יהוה",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "לאבתינו",
-      "gloss": "kepada nenek moyang kami"
+      "gloss": "kepada bapak-bapak kita"
     },
     {
       "surface": "לתת",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "לנו",
-      "gloss": "kepada kami"
+      "gloss": "kepada kita"
     }
   ],
-  "timestamp": "2026-08-08T07:30:31.529279463Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:48.501673243Z",
+  "model": "glm-5.3"
 }

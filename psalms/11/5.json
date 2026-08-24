@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 11,
-  "translation": "Yahweh menguji ⟨yang⟩ adil, dan ⟨yang⟩ fasik, dan ⟨yang⟩ pencinta kekerasan — membenci ⟨ה⟩ napas-Nya.",
+  "translation": "Yahweh menguji ⟨את⟩ orang benar, tetapi orang fasik dan pencinta kekerasan, dibenci hatinya.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "adil"
+      "gloss": "orang benar"
     },
     {
       "surface": "יבחן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ורשע",
-      "gloss": "dan fasik"
+      "gloss": "orang fasik"
     },
     {
       "surface": "ואהב",
-      "gloss": "dan pencinta"
+      "gloss": "pencinta"
     },
     {
       "surface": "חמס",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "שנאה",
-      "gloss": "membenci"
+      "gloss": "dibenci"
     },
     {
       "surface": "נפשו",
-      "gloss": "napas-Nya"
+      "gloss": "hatinya"
     }
   ],
-  "timestamp": "2026-08-08T09:07:56.397802639Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:12.090837643Z",
+  "model": "glm-5.3"
 }

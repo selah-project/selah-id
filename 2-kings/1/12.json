@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 1,
-  "translation": "Lalu Eliyahu menjawab dan berbicara kepada mereka: “Jika aku ⟨ini⟩ orang ⟨ה⟩ Elohim, biarlah turun api dari ⟨ה⟩ langit dan memakan engkau serta lima puluh orangmu.” Lalu turunlah api Elohim dari ⟨ה⟩ langit dan memakan dia serta lima puluh orangnya.",
+  "translation": "Lalu Eliyahu menjawab dan berkata kepada mereka: Jika aku seorang ⟨dari⟩ Elohim, biarlah turun api dari langit dan memakan habis engkau dan lima puluh orangmu. Maka turunlah api ⟨dari⟩ Elohim dari langit, dan memakan habis dia dan lima puluh orangnya.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Lalu ... menjawab"
+      "gloss": "Lalu menjawab"
     },
     {
       "surface": "אליה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "dan berbicara"
+      "gloss": "dan berkata"
     },
     {
       "surface": "אליהם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "orang"
+      "gloss": "seorang"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨ה⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אני",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "השמים",
-      "gloss": "⟨ה⟩ langit"
+      "gloss": "langit"
     },
     {
       "surface": "ותאכל",
-      "gloss": "dan memakan"
+      "gloss": "dan memakan habis"
     },
     {
       "surface": "אתך",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "serta ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lima puluh orangmu"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ותרד",
-      "gloss": "Lalu turunlah"
+      "gloss": "Maka turunlah"
     },
     {
       "surface": "אש",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "השמים",
-      "gloss": "⟨ה⟩ langit"
+      "gloss": "langit"
     },
     {
       "surface": "ותאכל",
-      "gloss": "dan memakan"
+      "gloss": "dan memakan habis"
     },
     {
       "surface": "אתו",
@@ -104,7 +104,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "serta ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lima puluh orangnya"
     },
     {
@@ -112,6 +112,6 @@
       "gloss": "lima puluh orangnya"
     }
   ],
-  "timestamp": "2026-08-08T08:08:19.036195606Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:25.486608138Z",
+  "model": "glm-5.3"
 }

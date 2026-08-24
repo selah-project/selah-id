@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan terjadilah, ketika Eliyahu mendengarnya, ia membungkus wajahnya dengan jubahnya, lalu keluar dan berdiri di pintu ⟨ה⟩ gua. Dan sungguh, kepadanya ⟨datang⟩ suara, dan ia berkata, “Apa ⟨urusan⟩-mu di sini, Eliyahu?”",
+  "translation": "Dan terjadilah, ketika Eliyahu mendengarnya, maka ia menyelubungi wajahnya dengan jubahnya, lalu keluar dan berdiri di mulut gua; dan lihat, ⟨kepadanya⟩ datang suara, dan berkata: “Apa maksudmu di sini, Eliyahu?”",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "dan terjadilah"
+      "gloss": "Dan terjadilah"
     },
     {
       "surface": "כשמע",
-      "gloss": "ketika mendengar"
+      "gloss": "ketika mendengarnya"
     },
     {
       "surface": "אליהו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וילט",
-      "gloss": "dan ia membungkus"
+      "gloss": "maka ia menyelubungi"
     },
     {
       "surface": "פניו",
@@ -33,27 +33,27 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "dan ia keluar"
+      "gloss": "lalu keluar"
     },
     {
       "surface": "ויעמד",
-      "gloss": "dan ia berdiri"
+      "gloss": "dan berdiri"
     },
     {
       "surface": "פתח",
-      "gloss": "di pintu"
+      "gloss": "di mulut"
     },
     {
       "surface": "המערה",
-      "gloss": "gua"
+      "gloss": "gua itu"
     },
     {
       "surface": "והנה",
-      "gloss": "dan sungguh"
+      "gloss": "dan lihat"
     },
     {
       "surface": "אליו",
-      "gloss": "kepadanya"
+      "gloss": "⟨kepadanya⟩"
     },
     {
       "surface": "קול",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan ia berkata"
+      "gloss": "dan berkata"
     },
     {
       "surface": "מה",
-      "gloss": "apa"
+      "gloss": "Apa"
     },
     {
       "surface": "לך",
-      "gloss": "(-mu)"
+      "gloss": "maksudmu"
     },
     {
       "surface": "פה",
@@ -80,6 +80,6 @@
       "gloss": "Eliyahu"
     }
   ],
-  "timestamp": "2026-08-08T08:07:12.926032684Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:57.343142619Z",
+  "model": "glm-5.3"
 }

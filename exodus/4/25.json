@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 4,
-  "translation": "Maka Tsipporah mengambil sebuah batu pipih, dan memotong ⟨את⟩ kulup putranya, dan menyentuhkannya kepada kakinya, lalu berkata, “Sungguh, engkau ⟨⟨seorang⟩⟩ mertua darah bagiku.”",
+  "translation": "Lalu Tsipporah mengambil sebuah batu api, memotong kulup anaknya, dan menyentuhkannya ke kaki suaminya, lalu berkata, “Sungguh, enggau adalah pengantin darah bagiku.”",
   "tokens": [
     {
       "surface": "ותקח",
-      "gloss": "Maka … mengambil"
+      "gloss": "Lalu … mengambil"
     },
     {
       "surface": "צפרה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "צר",
-      "gloss": "batu pipih"
+      "gloss": "batu api"
     },
     {
       "surface": "ותכרת",
-      "gloss": "dan memotong"
+      "gloss": "memotong"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kulup putranya"
+      "marks": "kulup anaknya"
     },
     {
       "surface": "ערלת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "בנה",
-      "gloss": "putranya"
+      "gloss": "anaknya"
     },
     {
       "surface": "ותגע",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "לרגליו",
-      "gloss": "kepada kakinya"
+      "gloss": "ke kaki suaminya"
     },
     {
       "surface": "ותאמר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "חתן",
-      "gloss": "mertua"
+      "gloss": "pengantin"
     },
     {
       "surface": "דמים",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "אתה",
-      "gloss": "engkau"
+      "gloss": "enggau"
     },
     {
       "surface": "לי",
       "gloss": "bagiku"
     }
   ],
-  "timestamp": "2026-08-08T10:28:53.936455339Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:35.338931479Z",
+  "model": "glm-5.3"
 }

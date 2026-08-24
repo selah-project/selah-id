@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 14,
-  "translation": "Sebab Yahweh melihat ⟨את⟩ penderitaan Yisrael, bahwa ⟨הֵֽנָּה⟩ sangat pahit; dan tidak ada yang terkurung dan tidak ada yang ditinggalkan, dan tidak ada penolong bagi Yisrael.",
+  "translation": "Sebab Yahweh telah melihat ⟨את⟩ penderitaan Israel, sangat pahit, dan tidak ada yang tertahan, dan tidak ada yang ditinggalkan, dan tiada penolong bagi Israel.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "melihat"
+      "gloss": "telah melihat"
     },
     {
       "surface": "יהוה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     },
     {
       "surface": "מרה",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "ואפס",
-      "gloss": "dan tidak ada"
+      "gloss": "dan tidak ada yang"
     },
     {
       "surface": "עצור",
-      "gloss": "terkurung"
+      "gloss": "tertahan"
     },
     {
       "surface": "ואפס",
-      "gloss": "dan tidak ada"
+      "gloss": "dan tidak ada yang"
     },
     {
       "surface": "עזוב",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "dan tidak ada"
+      "gloss": "dan tiada"
     },
     {
       "surface": "עזר",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "לישראל",
-      "gloss": "bagi Yisrael"
+      "gloss": "bagi Israel"
     }
   ],
-  "timestamp": "2026-08-08T08:11:39.991471769Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:29.158903699Z",
+  "model": "glm-5.3"
 }

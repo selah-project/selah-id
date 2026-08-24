@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 14,
-  "translation": "Yahweh panjang sabar dan besar hesed-Nya, mengangkat עון dan פשע; tetapi tidaklah membebaskan sepenuhnya — Ia memperhitungkan עון bapa-bapa atas anak-anak, atas keturunan ketiga dan atas keturunan keempat.",
+  "translation": "Yahweh, lambat untuk marah, dan besar hesed-⟨nya⟩, mengangkat kesalahan dan pelanggaran, dan tidak membebaskan ⟨dari hukuman⟩; yang tidak membebaskan, Ia membebankan kesalahan para bapa atas anak-anak, atas keturunan ketiga dan atas keturunan keempat.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ארך",
-      "gloss": "panjang"
+      "gloss": "lambat"
     },
     {
       "surface": "אפים",
-      "gloss": "sabar"
+      "gloss": "untuk marah"
     },
     {
       "surface": "ורב",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ונקה",
-      "gloss": "dan membebaskan"
+      "gloss": "dan tidak membebaskan"
     },
     {
       "surface": "לא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "פקד",
-      "gloss": "Ia memperhitungkan"
+      "gloss": "membebankan"
     },
     {
       "surface": "עון",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אבות",
-      "gloss": "bapa-bapa"
+      "gloss": "para bapa"
     },
     {
       "surface": "על",
@@ -88,6 +88,6 @@
       "gloss": "keturunan keempat"
     }
   ],
-  "timestamp": "2026-08-08T07:17:22.151802068Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:23.714524862Z",
+  "model": "glm-5.3"
 }

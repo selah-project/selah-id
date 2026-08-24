@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 10,
-  "translation": "Dan suara sayap-sayap ⟨הַ⟩ kerubim itu terdengar sampai ke ⟨הַ⟩ pelataran ⟨הַ⟩ bagian luar, seperti suara El Shaddai ketika ⟨הוּא⟩ berbicara.",
+  "translation": "Dan bunyi sayap para kerub terdengar sampai ke pelataran bagian luar, seperti suara El Shaddai ketika ⟨Ia⟩ berbicara.",
   "tokens": [
     {
       "surface": "וקול",
-      "gloss": "Dan suara"
+      "gloss": "dan bunyi"
     },
     {
       "surface": "כנפי",
-      "gloss": "sayap-sayap"
+      "gloss": "sayap"
     },
     {
       "surface": "הכרובים",
-      "gloss": "kerubim itu"
+      "gloss": "para kerub"
     },
     {
       "surface": "נשמע",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "החצר",
-      "gloss": "⟨הַ⟩ pelataran"
+      "gloss": "pelataran"
     },
     {
       "surface": "החיצנה",
-      "gloss": "⟨הַ⟩ bagian luar"
+      "gloss": "bagian luar"
     },
     {
       "surface": "כקול",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "בדברו",
-      "gloss": "ketika ia berbicara"
+      "gloss": "ketika berbicara"
     }
   ],
-  "timestamp": "2026-08-08T11:22:31.858286692Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:10.477466855Z",
+  "model": "glm-5.3"
 }

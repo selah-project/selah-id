@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 31,
-  "translation": "Banyak anak perempuan telah berbuat חיל, tetapi engkau, engkau telah naik di atas semuanya.",
+  "translation": "Banyak anak perempuan telah melakukan ⟨חיל⟩ keperkasaan, tetapi engkau melebihi mereka semua.",
   "tokens": [
     {
       "surface": "רבות",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "עשו",
-      "gloss": "telah berbuat"
+      "gloss": "telah melakukan"
     },
     {
       "surface": "חיל",
-      "gloss": "חיל"
+      "gloss": "keperkasaan"
     },
     {
       "surface": "ואת",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "עלית",
-      "gloss": "engkau telah naik"
+      "gloss": "melebihi"
     },
     {
       "surface": "על",
-      "gloss": "di atas"
+      "gloss": "atas"
     },
     {
       "surface": "כלנה",
-      "gloss": "semuanya"
+      "gloss": "mereka semua"
     }
   ],
-  "timestamp": "2026-08-09T01:43:25.774361427Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:51.694524739Z",
+  "model": "glm-5.3"
 }

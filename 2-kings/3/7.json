@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 3,
-  "translation": "Lalu ⟨ia⟩ pergi dan mengirim ⟨surat⟩ kepada Yehoshafat raja Yehudah, untuk mengatakan: \"Raja Moab telah memberontak terhadapku. Apakah engkau akan pergi bersamaku ke Moab untuk berperang?\" Dan ⟨ia⟩ berkata: \"Aku akan naik; seperti aku, seperti engkau; seperti umatku, seperti umatmu; seperti kudaku, seperti kudamu.\"",
+  "translation": "Lalu ⟨ia⟩ pergi dan mengirim ⟨surat⟩ kepada Yehoshafat raja Yehudah, untuk mengatakan: \"Raja Moab telah memberontak terhadapku. Apakah engkau akan pergi ⟨את⟩ bersamaku ke Moab untuk berperang?\" Dan ⟨ia⟩ berkata: \"Aku akan naik; seperti aku, seperti engkau; seperti umatku, seperti umatmu; seperti kudaku, seperti kudamu.\"",
   "tokens": [
     {
       "surface": "וילך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "אל",
@@ -104,6 +104,6 @@
       "gloss": "seperti kudamu"
     }
   ],
-  "timestamp": "2026-08-08T11:05:00.457460196Z",
+  "timestamp": "2026-08-24T17:55:27.192978890Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 10,
-  "translation": "Lalu Yahweh membalikkan angin laut ⟨⟨yang⟩ sangat kuat⟩, dan diangkatnya ⟨את⟩ belalang itu, dan dilemparkannya ke laut teberau. Tidak tersisa satu belalang pun di seluruh wilayah Mitsrayim.",
+  "translation": "Lalu Yahweh membalikkan angin laut ⟨yang⟩ sangat kencang, dan angin itu mengangkat ⟨את⟩ belalang itu serta melemparkannya ke Laut Teberau; tidak tinggal satu belalang pun di seluruh wilayah Mitsrayim.",
   "tokens": [
     {
       "surface": "ויהפך",
-      "gloss": "dan membalikkan"
+      "gloss": "membalikkan"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "חזק",
-      "gloss": "kuat"
+      "gloss": "kencang"
     },
     {
       "surface": "מאד",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "וישא",
-      "gloss": "dan diangkatnya"
+      "gloss": "mengangkat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "belalang"
+      "marks": "belalang itu"
     },
     {
       "surface": "הארבה",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "ויתקעהו",
-      "gloss": "dan dilemparkannya"
+      "gloss": "melemparkannya"
     },
     {
       "surface": "ימה",
-      "gloss": "laut"
+      "gloss": "ke laut"
     },
     {
       "surface": "סוף",
-      "gloss": "teberau"
+      "gloss": "Teberau"
     },
     {
       "surface": "לא",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "נשאר",
-      "gloss": "tersisa"
+      "gloss": "tinggal"
     },
     {
       "surface": "ארבה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "satu pun"
+      "gloss": "satu"
     },
     {
       "surface": "בכל",
@@ -85,6 +85,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-08T06:57:40.031731564Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:34.658447621Z",
+  "model": "glm-5.3"
 }

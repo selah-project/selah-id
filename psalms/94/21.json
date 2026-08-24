@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 94,
-  "translation": "Mereka berkerumun melawan nefesh ⟨ה⟩ orang benar, dan ⟨את⟩ darah yang tidak bersalah mereka nyatakan bersalah.",
+  "translation": "Mereka bergerombol melawan ⟨את⟩ jiwa orang benar, dan ⟨את⟩ darah orang tak bersalah mereka nyatakan bersalah.",
   "tokens": [
     {
       "surface": "יגודו",
-      "gloss": "Mereka berkerumun"
+      "gloss": "Mereka bergerombol"
     },
     {
       "surface": "על",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "nefesh"
+      "gloss": "jiwa"
     },
     {
       "surface": "צדיק",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "נקי",
-      "gloss": "yang tidak bersalah"
+      "gloss": "orang tak bersalah"
     },
     {
       "surface": "ירשיעו",
       "gloss": "mereka nyatakan bersalah"
     }
   ],
-  "timestamp": "2026-08-08T09:21:29.169108637Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:33.216687017Z",
+  "model": "glm-5.3"
 }

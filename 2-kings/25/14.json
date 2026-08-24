@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 25,
-  "translation": "Dan ⟨את⟩ periuk-periuk, dan ⟨את⟩ penyapu-penyapu, dan ⟨את⟩ gunting-gunting, dan ⟨את〕 cawan-cawan, dan ⟨את⟩ segala perkakas tembaga yang mereka layani dengannya, diambil mereka.",
+  "translation": "Dan ⟨את⟩ periuk-periuk, dan ⟨את⟩ sekop-sekop, dan ⟨את⟩ pemetik-pemetik sumbu, dan ⟨את⟩ cawan-cawan, dan ⟨את⟩ segala perkakas tembaga yang dipakai mereka untuk melayani — semuanya dibawa mereka pergi.",
   "tokens": [
     {
       "surface": "ואת",
@@ -19,20 +19,20 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "penyapu-penyapu"
+      "marks": "sekop-sekop"
     },
     {
       "surface": "היעים",
-      "gloss": "penyapu-penyapu"
+      "gloss": "sekop-sekop"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "gunting-gunting"
+      "marks": "pemetik-pemetik sumbu"
     },
     {
       "surface": "המזמרות",
-      "gloss": "gunting-gunting"
+      "gloss": "pemetik-pemetik sumbu"
     },
     {
       "surface": "ואת",
@@ -46,7 +46,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "segala"
+      "marks": "segala perkakas tembaga"
     },
     {
       "surface": "כל",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "ישרתו",
-      "gloss": "mereka layani"
+      "gloss": "dipakai mereka untuk melayani"
     },
     {
       "surface": "בם",
-      "gloss": "dengannya"
+      "gloss": "dengan itu"
     },
     {
       "surface": "לקחו",
-      "gloss": "diambil"
+      "gloss": "mereka bawa pergi"
     }
   ],
-  "timestamp": "2026-08-08T08:15:23.435502221Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:49.466991250Z",
+  "model": "glm-5.3"
 }

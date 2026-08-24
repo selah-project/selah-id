@@ -5,31 +5,31 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 11,
-  "translation": "Tidak akan bertahan satu orang pun di hadapan kalian; kegentaran kalian dan ketakutan kalian akan diberikan Yahweh Elohim kalian ke atas seluruh permukaan seluruh ⟨the⟩ tanah yang kalian pijak di atasnya, seperti yang telah Ia firmankan kepada kalian.",
+  "translation": "Tidak ada seorang ⟨pun⟩ yang dapat berdiri menghadapi kamu; kegentaran terhadapmu dan ketakutan terhadapmu akan diberikan Yahweh, Elohim kamu, atas seluruh muka bumi yang kamu injak di sana, seperti yang telah Ia firmankan kepadamu.",
   "tokens": [
     {
       "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "יתיצב",
-      "gloss": "akan bertahan"
+      "surface": "ייצב",
+      "gloss": "berdiri menghadapi"
     },
     {
       "surface": "איש",
-      "gloss": "satu orang pun"
+      "gloss": "seorang"
     },
     {
       "surface": "בפניכם",
-      "gloss": "di hadapan kalian"
+      "gloss": "menghadapi kamu"
     },
     {
       "surface": "פחדכם",
-      "gloss": "kegentaran kalian"
+      "gloss": "kegentaran terhadapmu"
     },
     {
       "surface": "ומוראכם",
-      "gloss": "dan ketakutan kalian"
+      "gloss": "dan ketakutan terhadapmu"
     },
     {
       "surface": "יתן",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim kalian"
+      "gloss": "Elohim kamu"
     },
     {
       "surface": "על",
-      "gloss": "ke atas"
+      "gloss": "atas"
     },
     {
       "surface": "פני",
-      "gloss": "permukaan"
+      "gloss": "muka"
     },
     {
       "surface": "כל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah"
+      "gloss": "bumi"
     },
     {
       "surface": "אשר",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "תדרכו",
-      "gloss": "kalian pijak"
+      "gloss": "kamu injak"
     },
     {
       "surface": "בה",
-      "gloss": "di atasnya"
+      "gloss": "di sana"
     },
     {
       "surface": "כאשר",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "לכם",
-      "gloss": "kepada kalian"
+      "gloss": "kepadamu"
     }
   ],
-  "timestamp": "2026-08-08T07:26:09.445190437Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:53.856761463Z",
+  "model": "glm-5.3"
 }

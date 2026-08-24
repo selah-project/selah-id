@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 42,
-  "translation": "Pada siang hari Yahweh akan memerintah hesed-⟨נּ֗וֹ⟩-Nya, dan pada malam hari nyanyian beserta aku — doa kepada El kehidupanku.",
+  "translation": "Pada siang hari Yahweh akan memerintahkan hesed-Nya, dan pada malam hari ⟨adalah⟩ nyanyian-Nya ⟨bersamaku⟩, suatu doa kepada El yang menghidupi aku.",
   "tokens": [
     {
       "surface": "יומם",
-      "gloss": "pada siang hari"
+      "gloss": "Pada siang hari"
     },
     {
       "surface": "יצוה",
-      "gloss": "akan memerintah"
+      "gloss": "akan memerintahkan"
     },
     {
       "surface": "יהוה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "שירה",
-      "gloss": "nyanyian"
+      "gloss": "nyanyian-Nya"
     },
     {
       "surface": "עמי",
-      "gloss": "beserta aku"
+      "gloss": "bersamaku"
     },
     {
       "surface": "תפלה",
-      "gloss": "doa"
+      "gloss": "suatu doa"
     },
     {
       "surface": "לאל",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "חיי",
-      "gloss": "kehidupanku"
+      "gloss": "yang menghidupi aku"
     }
   ],
-  "timestamp": "2026-08-08T09:12:24.637194250Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:55.941952597Z",
+  "model": "glm-5.3"
 }

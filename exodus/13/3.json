@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 13,
-  "translation": "Dan berkatalah Mosheh kepada ⟨the⟩ bangsa: \"Ingatlah ⟨את⟩ hari ini, yang ⟨kamu⟩ keluar dari Mitsrayim, dari rumah perbudakan, karena dengan kekuatan tangan Yahweh mengeluarkan ⟨את⟩kamu dari sini; dan tidak boleh dimakan apa yang beragi.\"",
+  "translation": "Lalu Mosheh berkata kepada bangsa itu: “Ingatlah hari ini, ketika kamu keluar dari Mitsrayim (Mesir), dari rumah perbudakan, sebab dengan tangan yang kuat Yahweh membawa ⟨את⟩ kamu keluar dari sini; dan tidak boleh dimakan apa yang beragi.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ bangsa"
+      "gloss": "bangsa itu"
     },
     {
       "surface": "זכור",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "hari"
+      "gloss": "hari ini"
     },
     {
       "surface": "הזה",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": "ketika"
     },
     {
       "surface": "יצאתם",
-      "gloss": "⟨kamu⟩ keluar"
+      "gloss": "kamu keluar"
     },
     {
       "surface": "ממצרים",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "בחזק",
-      "gloss": "dengan kekuatan"
+      "gloss": "dengan kuat"
     },
     {
       "surface": "יד",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "mengeluarkan"
+      "gloss": "membawa keluar"
     },
     {
       "surface": "יהוה",
@@ -82,8 +82,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kamu",
-      "marks": "dari sini"
+      "gloss": "⟨את⟩ kamu"
     },
     {
       "surface": "מזה",
@@ -95,13 +94,13 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "boleh dimakan"
+      "gloss": "dimakan"
     },
     {
       "surface": "חמץ",
       "gloss": "apa yang beragi"
     }
   ],
-  "timestamp": "2026-08-08T06:58:16.074833895Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:30.257551805Z",
+  "model": "glm-5.3"
 }

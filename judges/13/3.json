@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "id",
   "chapter": 13,
-  "translation": "Lalu malaikat Yahweh menampakkan diri kepada ⟨ה⟩ wanita itu, dan berkata kepadanya, “Lihatlah na, engkau mandul dan tidak melahirkan, tetapi engkau akan mengandung dan melahirkan seorang anak laki-laki.”",
+  "translation": "Lalu malaikat Yahweh menampakkan diri kepada perempuan itu, dan berkata kepadanya, “Sesungguhnya, sekarangpun engkau ⟨את⟩ mandul dan tidak pernah melahirkan, tetapi engkau akan mengandung dan melahirkan seorang anak laki-laki.”",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Lalu menampakkan diri"
+      "gloss": "Lalu … menampakkan diri"
     },
     {
       "surface": "מלאך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האשה",
-      "gloss": "wanita itu"
+      "gloss": "perempuan itu"
     },
     {
       "surface": "ויאמר",
@@ -37,23 +37,24 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Lihatlah"
+      "gloss": "Sesungguhnya"
     },
     {
       "surface": "נא",
-      "gloss": "na"
+      "gloss": "sekarangpun"
     },
     {
       "surface": "את",
-      "gloss": "engkau"
+      "gloss": "⟨את⟩",
+      "marks": "engkau (mandul)"
     },
     {
       "surface": "עקרה",
       "gloss": "mandul"
     },
     {
-      "surface": "ולא",
-      "gloss": "dan tidak"
+      "surface": "ו לא",
+      "gloss": "dan tidak pernah"
     },
     {
       "surface": "ילדת",
@@ -61,17 +62,17 @@
     },
     {
       "surface": "והרית",
-      "gloss": "dan engkau akan mengandung"
+      "gloss": "tetapi engkau akan mengandung"
     },
     {
       "surface": "וילדת",
-      "gloss": "dan engkau akan melahirkan"
+      "gloss": "dan melahirkan"
     },
     {
       "surface": "בן",
-      "gloss": "anak laki-laki"
+      "gloss": "seorang anak laki-laki"
     }
   ],
-  "timestamp": "2026-08-08T10:52:33.621569505Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:18.899910573Z",
+  "model": "glm-5.3"
 }

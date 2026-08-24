@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 19,
-  "translation": "Janganlah berpaling kepada ⟨אל⟩ para berhala, dan elohi tuangan-tuanangan janganlah kamu buat bagi kamu; aku ⟨adalah⟩ Yahweh, Elohim kamu.",
+  "translation": "Janganlah berpaling kepada para elil, dan elohi massekah janganlah kamu buat bagi dirimu; Akulah Yahweh, Elohim kamu.",
   "tokens": [
     {
       "surface": "אל",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "תפנו",
-      "gloss": "berpaling"
+      "gloss": "kamu berpaling"
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩"
+      "gloss": "kepada"
     },
     {
       "surface": "האלילים",
-      "gloss": "para berhala"
+      "gloss": "para elil"
     },
     {
       "surface": "ואלהי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מסכה",
-      "gloss": "tuangan-tuanangan"
+      "gloss": "massekah"
     },
     {
       "surface": "לא",
-      "gloss": "janganlah"
+      "gloss": "jangan"
     },
     {
       "surface": "תעשו",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לכם",
-      "gloss": "bagi kamu"
+      "gloss": "bagi dirimu"
     },
     {
       "surface": "אני",
-      "gloss": "aku"
+      "gloss": "Akulah"
     },
     {
       "surface": "יהוה",
@@ -56,6 +56,6 @@
       "gloss": "Elohim kamu"
     }
   ],
-  "timestamp": "2026-08-08T07:10:24.781624794Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:49.245077501Z",
+  "model": "glm-5.3"
 }

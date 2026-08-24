@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 21,
-  "translation": "Dan Levi dan Binyamin tidak ia daftarkan di tengah mereka, karena perkataan ⟨ה⟩ raja itu menjijikkan bagi Yoav.",
+  "translation": "Tetapi Levi dan Benyamin tidaklah dihitung di tengah-tengah mereka, sebab perintah raja itu adalah kekejian bagi Yoab.",
   "tokens": [
     {
       "surface": "ולוי",
-      "gloss": "dan Levi"
+      "gloss": "Tetapi Levi"
     },
     {
       "surface": "ובנימן",
-      "gloss": "dan Binyamin"
+      "gloss": "dan Benyamin"
     },
     {
       "surface": "לא",
@@ -21,38 +21,38 @@
     },
     {
       "surface": "פקד",
-      "gloss": "ia daftarkan"
+      "gloss": "dihitung"
     },
     {
       "surface": "בתוכם",
-      "gloss": "di tengah mereka"
+      "gloss": "di tengah-tengah mereka"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "נתעב",
-      "gloss": "menjijikkan"
+      "gloss": "adalah kekejian"
     },
     {
       "surface": "דבר",
-      "gloss": "perkataan"
+      "gloss": "perintah"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨ה⟩ raja itu"
+      "gloss": "raja itu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yoav"
+      "marks": "Yoab"
     },
     {
       "surface": "יואב",
-      "gloss": "Yoav"
+      "gloss": "Yoab"
     }
   ],
-  "timestamp": "2026-08-08T10:08:26.898704746Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:19.964369314Z",
+  "model": "glm-5.3"
 }

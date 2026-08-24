@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan di atas meja ⟨ה⟩ hadapan mereka membentangkan kain biru, dan menaruh di atasnya ⟨את⟩ piring-piring dan ⟨את⟩ cawan-cawan dan ⟨את⟩ tempayan-tempayan dan ⟨את⟩ pasu-pasu tuangan, dan roti ⟨ה⟩ tamid di atasnya haruslah ada.",
+  "translation": "Dan di atas meja penghadapan mereka akan membentangkan kain tekelet, dan menaruh di atasnya ⟨את⟩ pinggan-pinggan, ⟨את⟩ cawan-cawan, ⟨את⟩ sampolet-sampolet, dan ⟨את⟩ kendi-kendi tuangan; dan roti yang tetap ada di atasnya akan tetap di sana.",
   "tokens": [
     {
       "surface": "ועל",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "הפנים",
-      "gloss": "⟨ה⟩ hadapan"
+      "gloss": "penghadapan"
     },
     {
       "surface": "יפרשו",
-      "gloss": "mereka membentangkan"
+      "gloss": "mereka akan membentangkan"
     },
     {
       "surface": "בגד",
       "gloss": "kain"
     },
     {
-      "surface": "תכלת",
-      "gloss": "biru"
+      "surface": "תכלpt",
+      "gloss": "tekelet (kain biru)"
     },
     {
       "surface": "ונתנו",
-      "gloss": "dan menaruh"
+      "gloss": "dan mereka akan menaruh"
     },
     {
       "surface": "עליו",
@@ -42,15 +42,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "piring-piring"
+      "marks": "pinggan-pinggan"
     },
     {
       "surface": "הקערת",
-      "gloss": "piring-piring"
+      "gloss": "pinggan-pinggan"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "cawan-cawan"
     },
     {
@@ -59,25 +59,25 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "tempayan-tempayan"
+      "gloss": "⟨את⟩",
+      "marks": "sampolet-sampolet"
     },
     {
       "surface": "המנקית",
-      "gloss": "tempayan-tempayan"
+      "gloss": "sampolet-sampolet"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "pasu-pasu tuangan"
+      "gloss": "⟨את⟩",
+      "marks": "kendi-kendi tuangan"
     },
     {
       "surface": "קשות",
-      "gloss": "pasu-pasu"
+      "gloss": "kendi-kendi"
     },
     {
       "surface": "הנסך",
-      "gloss": "tuangan"
+      "gloss": "tuungan"
     },
     {
       "surface": "ולחם",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "התמיד",
-      "gloss": "⟨ה⟩ tamid"
+      "gloss": "yang tetap"
     },
     {
       "surface": "עליו",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "haruslah ada"
+      "gloss": "akan tetap ada"
     }
   ],
-  "timestamp": "2026-08-08T07:14:52.252631323Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:34.498417037Z",
+  "model": "glm-5.3"
 }

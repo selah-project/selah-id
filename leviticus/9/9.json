@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 9,
-  "translation": "Dan带来了 bnei Aharon ⟨את⟩ darah itu kepadanya, lalu ia mencelupkan jarinya ke dalam darah dan memberikannya pada tanduk-tanduk mezbah itu, dan ⟨את⟩ darah itu dituangkannya ke dasar mezbah itu.",
+  "translation": "Lalu anak-anak Aharon menghadapkan ⟨את⟩ darah itu kepadanya, dan ia mencelupkan jarinya ke dalam darah itu, lalu mengenakannya pada tanduk-tanduk mezbah, dan ⟨את⟩ darah sisanya dituangkannya ke pondasi mezbah.",
   "tokens": [
     {
       "surface": "ויקרבו",
-      "gloss": "Dan mereka membawa dekat"
+      "gloss": "Lalu menghadapkan"
     },
     {
       "surface": "בני",
-      "gloss": "putra-putra"
+      "gloss": "anak-anak"
     },
     {
       "surface": "אהרן",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ויטבל",
-      "gloss": "lalu ia mencelupkan"
+      "gloss": "dan ia mencelupkan"
     },
     {
       "surface": "אצבעו",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "בדם",
-      "gloss": "ke dalam darah"
+      "gloss": "ke dalam darah itu"
     },
     {
       "surface": "ויתן",
-      "gloss": "dan ia memberikannya"
+      "gloss": "lalu mengenakannya"
     },
     {
       "surface": "על",
@@ -58,20 +58,20 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "mezbah itu"
+      "gloss": "mezbah"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "darah itu"
+      "gloss": "⟨את⟩",
+      "marks": "darah sisanya"
     },
     {
       "surface": "הדם",
-      "gloss": "darah itu"
+      "gloss": "darah"
     },
     {
       "surface": "יצק",
-      "gloss": "ia menuangkan"
+      "gloss": "dituangkannya"
     },
     {
       "surface": "אל",
@@ -79,13 +79,13 @@
     },
     {
       "surface": "יסוד",
-      "gloss": "dasar"
+      "gloss": "pondasi"
     },
     {
       "surface": "המזבח",
-      "gloss": "mezbah itu"
+      "gloss": "mezbah"
     }
   ],
-  "timestamp": "2026-08-08T10:35:33.742063469Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:41.152255639Z",
+  "model": "glm-5.3"
 }

@@ -5,32 +5,32 @@
   "book": "judges",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan setelahnya ⟨הוא⟩ menghakimi ⟨את⟩ Yisra'el, 'Abdon ben Hillel ha-Pir'atoniy.",
+  "translation": "Setelahnya Abdon bin Hillel orang Piraton memimpin sebagai hakim ⟨את⟩ Israel.",
   "tokens": [
     {
       "surface": "וישפט",
-      "gloss": "dan menghakimi"
+      "gloss": "memimpin sebagai hakim"
     },
     {
       "surface": "אחריו",
-      "gloss": "setelahnya"
+      "gloss": "Setelahnya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Israel"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "עבדון",
-      "gloss": "'Abdon"
+      "gloss": "Abdon"
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "bin"
     },
     {
       "surface": "הלל",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "הפרעתוני",
-      "gloss": "ha-Pir'atoniy"
+      "gloss": "orang Piraton"
     }
   ],
-  "timestamp": "2026-08-08T07:42:06.609818695Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:42.750729577Z",
+  "model": "glm-5.3"
 }

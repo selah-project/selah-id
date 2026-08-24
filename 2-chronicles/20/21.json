@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 20,
-  "translation": "Lalu ia mengambil musyawarah dengan ⟨the⟩ rakyat, dan ia menempatkan para penyanyi bagi Yahweh, dan para pemuji bagi ⟨the⟩ kemegahan ⟨the⟩ kesucian, pada keluarnya ⟨mereka⟩ di depan ⟨the⟩ pasukan yang bersenjata, dan berkata: \"Berilah syukur kepada Yahweh, karena untuk selamanya hesed-Nya.\"",
+  "translation": "Lalu ia mengambil nasihat dengan ⟨את⟩ umat itu, dan menempatkan penyanyi-penyanyi bagi Yahweh, dan pemuji-pemuji bagi keindahan ⟨dari⟩ kekudusan, untuk berangkat di depan pasukan yang bersenjata, sambil berkata: “Bersyukurlah kepada Yahweh, sebab untuk selamanya hesed-Nya.”",
   "tokens": [
     {
       "surface": "ויועץ",
-      "gloss": "Lalu ia mengambil musyawarah"
+      "gloss": "Lalu ia mengambil nasihat"
     },
     {
       "surface": "אל",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "rakyat"
+      "gloss": "umat itu"
     },
     {
       "surface": "ויעמד",
-      "gloss": "dan ia menempatkan"
+      "gloss": "dan menempatkan"
     },
     {
       "surface": "משררים",
-      "gloss": "para penyanyi"
+      "gloss": "penyanyi-penyanyi"
     },
     {
       "surface": "ליהוה",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "ומהללים",
-      "gloss": "dan para pemuji"
+      "gloss": "dan pemuji-pemuji"
     },
     {
       "surface": "להדרת",
-      "gloss": "bagi kemegahan"
+      "gloss": "bagi keindahan ⟨dari⟩"
     },
     {
       "surface": "קדש",
-      "gloss": "kesucian"
+      "gloss": "kekudusan"
     },
     {
       "surface": "בצאת",
-      "gloss": "pada keluarnya"
+      "gloss": "untuk berangkat"
     },
     {
       "surface": "לפני",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ואמרים",
-      "gloss": "dan berkata"
+      "gloss": "sambil berkata"
     },
     {
       "surface": "הודו",
-      "gloss": "Berilah syukur"
+      "gloss": "Bersyukurlah"
     },
     {
       "surface": "ליהוה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "לעולם",
@@ -80,6 +80,6 @@
       "gloss": "hesed-Nya"
     }
   ],
-  "timestamp": "2026-08-08T10:14:56.547954694Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:42.641302881Z",
+  "model": "glm-5.3"
 }

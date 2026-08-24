@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 23,
-  "translation": "Sampai dari hari sesudah ⟨ה⟩ shabbat ⟨ה⟩ ketujuh kamu akan menghitung lima puluh hari, dan kamu akan mempersembahkan persembahan biji-bijian yang baru bagi Yahweh.",
+  "translation": "Sampai keesokan harinya setelah shabbat ketujuh kamu akan menghitung lima puluh hari, lalu kamu akan mempersembahkan persembahan minhah yang baru bagi Yahweh.",
   "tokens": [
     {
       "surface": "עד",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ממחרת",
-      "gloss": "dari hari sesudah"
+      "gloss": "keesokan harinya"
     },
     {
       "surface": "השבת",
-      "gloss": "⟨ה⟩ shabbat"
+      "gloss": "setelah shabbat"
     },
     {
       "surface": "השביעת",
-      "gloss": "⟨ה⟩ ketujuh"
+      "gloss": "ketujuh"
     },
     {
       "surface": "תספרו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "והקרבתם",
-      "gloss": "dan kamu akan mempersembahkan"
+      "gloss": "lalu kamu akan mempersembahkan"
     },
     {
       "surface": "מנחה",
-      "gloss": "persembahan biji-bijian"
+      "gloss": "persembahan minhah"
     },
     {
       "surface": "חדשה",
@@ -52,6 +52,6 @@
       "gloss": "bagi Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T10:38:25.517610206Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:07.067006876Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 101,
-  "translation": "Tidak aku taruh di depan mataku ⟨⟨hal⟩⟩ perkara beliyaal; perbuatan pembelokan aku benci, tidak akan melekat padaku.",
+  "translation": "Tidak kuletakkan di depan mataku hal belial, perbuatan orang yang menyimpang — telah aku benci, tidak akan melekat padaku.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אשית",
-      "gloss": "aku taruh"
+      "gloss": "kuletakkan"
     },
     {
       "surface": "לנגד",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "perkara"
+      "gloss": "hal"
     },
     {
       "surface": "בליעל",
-      "gloss": "beliyaal"
+      "gloss": "belial"
     },
     {
       "surface": "עשה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "סטים",
-      "gloss": "pembelokan"
+      "gloss": "orang yang menyimpang"
     },
     {
       "surface": "שנאתי",
-      "gloss": "aku benci"
+      "gloss": "telah aku benci"
     },
     {
       "surface": "לא",
@@ -56,6 +56,6 @@
       "gloss": "padaku"
     }
   ],
-  "timestamp": "2026-08-08T09:22:22.737432559Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:33.569232065Z",
+  "model": "glm-5.3"
 }

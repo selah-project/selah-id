@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan ia berkata untuk mengajarkan bani-Yehudah ⟨את⟩ qeshet; lihat, tertulis atas sefer ha-yashar.",
+  "translation": "Dan ia berkata untuk mengajarkan bani-Yehudah qeshet; lihat, tertulis atas sefer ha-yashar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "קשת",
-      "gloss": "⟨את⟩ qeshet"
+      "gloss": "qeshet"
     },
     {
       "surface": "הנה",
@@ -48,6 +48,6 @@
       "gloss": "ha-yashar"
     }
   ],
-  "timestamp": "2026-08-08T07:52:44.462123038Z",
+  "timestamp": "2026-08-24T17:55:27.057906509Z",
   "model": "glm-5.2"
 }

@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 119,
-  "translation": "Aku mewarisi עדותיך untuk selamanya, karena mereka ⟨adalah⟩ kegembiraan hatiku.",
+  "translation": "Aku mewarisi ⟨את⟩ perjanjian-Mu untuk selama-lamanya, sebab ⟨mereka adalah⟩ kegembiraan hatiku — ya, mereka itu.",
   "tokens": [
     {
       "surface": "נחלתי",
-      "gloss": "aku mewarisi"
+      "gloss": "Aku mewarisi"
     },
     {
       "surface": "עדותיך",
-      "gloss": "edot-Mu"
+      "gloss": "perjanjian-Mu"
     },
     {
       "surface": "לעולם",
-      "gloss": "untuk selamanya"
+      "gloss": "untuk selama-lamanya"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "ששון",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "המה",
-      "gloss": "mereka"
+      "gloss": "mereka itu"
     }
   ],
-  "timestamp": "2026-08-08T09:26:53.693886488Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:36.275327620Z",
+  "model": "glm-5.3"
 }

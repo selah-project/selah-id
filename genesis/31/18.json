@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 31,
-  "translation": "dan ⟨⟨dia⟩⟩ menggiring ⟨את⟩ segala ternaknya dan ⟨את⟩ segala harta miliknya yang telah diperolehnya — ternak dari kepemilikan yang telah diperolehnya di Padan-Aram — untuk pergi kepada Yitskhak ayahnya, ke tanah Kenaan.",
+  "translation": "dan ia menggiring ⟨את⟩ segala ternaknya dan ⟨את⟩ segala harta miliknya yang telah dikumpulkannya, ternak kepunyaannya yang telah dikumpulkannya di Padan-Aram, untuk pergi mendapatkan Yitschak, ayahnya, ke bumi Kenaan.",
   "tokens": [
     {
       "surface": "וינהג",
-      "gloss": "dan menggiring"
+      "gloss": "dan ia menggiring"
     },
     {
       "surface": "את",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "רכש",
-      "gloss": "diperolehnya"
+      "gloss": "dikumpulkannya"
     },
     {
       "surface": "מקנה",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "קנינו",
-      "gloss": "dari kepemilikan"
+      "gloss": "kepunyaannya"
     },
     {
       "surface": "אשר",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "רכש",
-      "gloss": "diperolehnya"
+      "gloss": "dikumpulkannya"
     },
     {
       "surface": "בפדן",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "ארם",
-      "gloss": "Aram"
+      "gloss": "-Aram"
     },
     {
       "surface": "לבוא",
-      "gloss": "untuk pergi"
+      "gloss": "untuk pergi mendapatkan"
     },
     {
       "surface": "אל",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "יצחק",
-      "gloss": "Yitskhak"
+      "gloss": "Yitschak"
     },
     {
       "surface": "אביו",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "ke tanah"
+      "gloss": "ke bumi"
     },
     {
       "surface": "כנען",
       "gloss": "Kenaan"
     }
   ],
-  "timestamp": "2026-08-08T06:50:31.247108372Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:15.214789258Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 11,
-  "translation": "Dan engkau berkata kepada mereka: Demikian berkata Yahweh, Elohim Yisrael: Terkutuklah ⟨האישׁ⟩ laki-laki yang tidak mendengarkan ⟨את⟩ perkataan perjanjian ini,",
+  "translation": "Dan kaukatakan kepada mereka: Beginilah firman Yahweh, Elohim Israel: Terkutuklah orang yang tidak mendengar ⟨את⟩ perkataan perjanjian ini.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "dan engkau berkata"
+      "gloss": "Dan kaukatakan"
     },
     {
       "surface": "אליהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "demikian"
+      "gloss": "Beginilah"
     },
     {
       "surface": "אמר",
-      "gloss": "berkata"
+      "gloss": "firman"
     },
     {
       "surface": "יהוה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     },
     {
       "surface": "ארור",
-      "gloss": "terkutuk"
+      "gloss": "Terkutuklah"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨האישׁ⟩ laki-laki"
+      "gloss": "orang"
     },
     {
       "surface": "אשר",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "ישמע",
-      "gloss": "mendengarkan"
+      "gloss": "mendengar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perkataan perjanjian ini"
+      "marks": "perkataan"
     },
     {
       "surface": "דברי",
@@ -73,6 +73,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-09T01:42:10.398620201Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:23.441534728Z",
+  "model": "glm-5.3"
 }

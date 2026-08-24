@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 86,
-  "translation": "Tetapi Engkau, Adonai, ⟨⟨adalah⟩⟩ El yang penuh rahim dan penuh kasih, lambat marah, dan berlimpah hesed dan kebenaran.",
+  "translation": "Tetapi Engkau, Adonai, ⟨adalah⟩ El yang rahim dan hanun, panjang-lereng-amarah (lambat marah), dan besar hesed dan emet.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "רחום",
-      "gloss": "yang penuh rahim"
+      "gloss": "yang rahim (penuh belas kasihan)"
     },
     {
       "surface": "וחנון",
-      "gloss": "dan penuh kasih"
+      "gloss": "dan hanun (penuh anugerah)"
     },
     {
       "surface": "ארך",
-      "gloss": "lambat"
+      "gloss": "panjang"
     },
     {
       "surface": "אפים",
-      "gloss": "marah"
+      "gloss": "lereng-amarah (hidung\/kemarahan)"
     },
     {
       "surface": "ורב",
-      "gloss": "dan berlimpah"
+      "gloss": "dan besar"
     },
     {
       "surface": "חסד",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "ואמת",
-      "gloss": "dan kebenaran"
+      "gloss": "dan emet (kesetiaan)"
     }
   ],
-  "timestamp": "2026-08-08T11:43:11.021695542Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:52.771393980Z",
+  "model": "glm-5.3"
 }

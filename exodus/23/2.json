@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 23,
-  "translation": "Janganlah engkau mengikuti ⟨⟨⟩⟩ orang banyak untuk berbuat jahat, dan janganlah engkau bersaksi dalam perkara dengan miring mengikuti orang banyak untuk memperkosa ⟨keadilan⟩.",
+  "translation": "Janganlah engkau mengikuti ⟨para⟩ banyak orang untuk berbuat jahat, dan janganlah engkau bersaksi dalam suatu perkara dengan memihak setelah banyak orang untuk memutarbalikkan ⟨keadilan⟩.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "engkau mengikuti"
+      "gloss": "engkau menjadi"
     },
     {
       "surface": "אחרי",
-      "gloss": "setelah"
+      "gloss": "mengikuti"
     },
     {
       "surface": "רבים",
-      "gloss": "orang banyak"
+      "gloss": "banyak orang"
     },
     {
       "surface": "לרעת",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "לנטת",
-      "gloss": "dengan miring"
+      "gloss": "memihak"
     },
     {
       "surface": "אחרי",
-      "gloss": "mengikuti"
+      "gloss": "setelah"
     },
     {
       "surface": "רבים",
-      "gloss": "orang banyak"
+      "gloss": "banyak orang"
     },
     {
       "surface": "להטת",
-      "gloss": "untuk memperkosa"
+      "gloss": "memutarbalikkan"
     }
   ],
-  "timestamp": "2026-08-08T07:01:18.072460480Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:14.145539249Z",
+  "model": "glm-5.3"
 }

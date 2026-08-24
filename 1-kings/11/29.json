@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 11,
-  "translation": "Dan ⟨terjadilah⟩ pada waktu itu, ketika Yarav'am keluar dari Yerushalayim, bahwa Achiya orang Shilo, nabi itu, menjumpai ⟨את⟩nya di jalan; dan dia sedang menyelimuti dirinya dengan ‏שלמה‏ baru, dan mereka berdua sendirian di padang.",
+  "translation": "Pada waktu itu terjadilah, ketika Yarovam keluar dari Yerushalayim, nabi Ajiyah orang Shilo menemui dia ⟨את⟩ di jalan, dan dia berselubung dengan mantel baru, dan mereka berdua sendirian di padang.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Dan terjadilah"
+      "gloss": "terjadilah"
     },
     {
       "surface": "בעת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וירבעם",
-      "gloss": "ketika Yarav'am"
+      "gloss": "Yarovam"
     },
     {
       "surface": "יצא",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "וימצא",
-      "gloss": "bahwa ... menjumpai"
+      "gloss": "menemui"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩nya",
-      "marks": "Yarav'am"
+      "gloss": "⟨את⟩",
+      "marks": "dia (Yarovam)"
     },
     {
       "surface": "אחיה",
-      "gloss": "Achiya"
+      "gloss": "Ajiyah"
     },
     {
       "surface": "השילני",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "nabi itu"
+      "gloss": "nabi"
     },
     {
       "surface": "בדרך",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "מתכסה",
-      "gloss": "sedang menyelimuti dirinya"
+      "gloss": "berselubung"
     },
     {
       "surface": "בשלמה",
-      "gloss": "dengan ‏שלמה‏"
+      "gloss": "dengan mantel"
     },
     {
       "surface": "חדשה",
@@ -85,6 +85,6 @@
       "gloss": "di padang"
     }
   ],
-  "timestamp": "2026-08-08T08:04:47.545204213Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:35.173347556Z",
+  "model": "glm-5.3"
 }

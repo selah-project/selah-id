@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 2,
-  "translation": "Dan Eli sangat tua, dan ia mendengar ⟨את⟩ semua yang dilakukan anak-anaknya kepada seluruh Yisra'el, dan ⟨את⟩ bahwa mereka bersetubuh dengan perempuan-perempuan yang bertugas di pintu kemah pertemuan.",
+  "translation": "Dan Eli sangat tua, dan ia mendengar ⟨את⟩ semua yang dilakukan anak-anaknya kepada seluruh Yisra'el, dan ⟨את⟩ bahwa mereka bersetubuh ⟨את⟩ dengan perempuan-perempuan yang bertugas di pintu kemah pertemuan.",
   "tokens": [
     {
       "surface": "וְעֵלִ֖י",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "אֶת",
-      "gloss": "dengan"
+      "gloss": "⟨את⟩ dengan"
     },
     {
       "surface": "הַנָּשִׁ֔ים",
@@ -90,6 +90,6 @@
       "gloss": "pertemuan"
     }
   ],
-  "timestamp": "2026-08-08T12:41:56.518321855Z",
+  "timestamp": "2026-08-24T17:55:27.171085450Z",
   "model": "glm-5.2"
 }

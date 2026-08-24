@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 26,
-  "translation": "וַיִּהְיוּ בְּנֵי יְהוּדָה לְמִשְׁפְּחֹתָם לְשֵׁלָה מִשְׁפַּחַת הַשֵּׁלָנִי לְפֶרֶץ מִשְׁפַּחַת הַפַּרְצִי לְזֶרַח מִשְׁפַּחַת הַזַּרְחִי",
+  "translation": "Dan bani Yehudah menurut marga-marga mereka ⟨adalah⟩: dari Shelah, marga orang Shelani; dari Perets, marga orang Partsi; dari Zerah, marga orang Zarhi.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "Va-yihyu"
+      "gloss": "dan mereka adalah"
     },
     {
       "surface": "בני",
-      "gloss": "bnei"
+      "gloss": "bani"
     },
     {
       "surface": "יהודה",
@@ -21,45 +21,45 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "le-mishpeḥotam"
+      "gloss": "menurut marga-marga mereka"
     },
     {
       "surface": "לשלה",
-      "gloss": "le-Shelah"
+      "gloss": "dari Shelah"
     },
     {
       "surface": "משפחת",
-      "gloss": "mishpaḥat"
+      "gloss": "marga"
     },
     {
       "surface": "השלני",
-      "gloss": "ha-Shelani"
+      "gloss": "orang Shelani"
     },
     {
       "surface": "לפרץ",
-      "gloss": "le-Perets"
+      "gloss": "dari Perets"
     },
     {
       "surface": "משפחת",
-      "gloss": "mishpaḥat"
+      "gloss": "marga"
     },
     {
       "surface": "הפרצי",
-      "gloss": "ha-Partsi"
+      "gloss": "orang Partsi"
     },
     {
       "surface": "לזרח",
-      "gloss": "le-Zeraḥ"
+      "gloss": "dari Zerah"
     },
     {
       "surface": "משפחת",
-      "gloss": "mishpaḥat"
+      "gloss": "marga"
     },
     {
       "surface": "הזרחי",
-      "gloss": "ha-Zarḥi"
+      "gloss": "orang Zarhi"
     }
   ],
-  "timestamp": "2026-08-08T07:21:09.568652027Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:26.458388086Z",
+  "model": "glm-5.3"
 }

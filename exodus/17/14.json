@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 17,
-  "translation": "Lalu berkatalah Yahweh kepada Mosheh: “Tuliskan ini sebagai peringatan dalam ⟨ה⟩ kitab, dan letakkanlah di telinga Yehosua, bahwa sungguh Aku akan menghapus ⟨את⟩ ingatan akan Amalek dari bawah langit.”",
+  "translation": "Lalu Yahweh berkata kepada Musy: “Tuliskan ini sebagai peringatan dalam ⟨the⟩ kitab, dan letakkan di telinga Yehosyua, se sungguhnya Aku akan menghapus ⟨את⟩ ingatan tentang Amalek dari bawah langit.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lalu berkatalah"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Musy"
     },
     {
       "surface": "כתב",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בספר",
-      "gloss": "dalam ⟨ה⟩ kitab"
+      "gloss": "dalam kitab"
     },
     {
       "surface": "ושים",
-      "gloss": "dan letakkanlah"
+      "gloss": "dan letakkan"
     },
     {
       "surface": "באזני",
@@ -49,24 +49,24 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehosua"
+      "gloss": "Yehosyua"
     },
     {
       "surface": "כי",
-      "gloss": "bahwa"
+      "gloss": "se"
     },
     {
       "surface": "מחה",
-      "gloss": "Aku akan menghapus"
+      "gloss": "menghapus"
     },
     {
       "surface": "אמחה",
-      "gloss": "sungguh Aku menghapus"
+      "gloss": "Aku akan menghapus"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ingatan"
+      "marks": "ingatan (tentang Amalek)"
     },
     {
       "surface": "זכר",
@@ -85,6 +85,6 @@
       "gloss": "langit"
     }
   ],
-  "timestamp": "2026-08-08T06:59:43.017405418Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:24.488499791Z",
+  "model": "glm-5.3"
 }

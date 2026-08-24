@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan Shemuël mendengar ⟨את⟩ segala perkataan ⟨ה⟩ bangsa itu, dan ⟨ia⟩ mengatakannya di telinga Yahweh.",
+  "translation": "Lalu Shemuël mendengar ⟨את⟩ segala perkataan itu orang, dan ia mengucapkannya di telinga Yahweh.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Dan mendengar"
+      "gloss": "Lalu … mendengar"
     },
     {
       "surface": "שמואל",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "segala perkataan bangsa itu"
+      "marks": "segala perkataan itu orang"
     },
     {
       "surface": "כל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "bangsa itu"
+      "gloss": "itu orang"
     },
     {
       "surface": "וידברם",
-      "gloss": "dan mengatakannya"
+      "gloss": "dan ia mengucapkannya"
     },
     {
       "surface": "באזני",
@@ -45,6 +45,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T07:45:29.184153072Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:33.083028680Z",
+  "model": "glm-5.3"
 }

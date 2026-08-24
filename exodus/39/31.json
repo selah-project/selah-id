@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 39,
-  "translation": "Dan mereka mengikatkan padanya tali biru langit, untuk memasangnya di atas ⟨המצנפת⟩ serban, dari atas, sesuai dengan yang diperintahkan Yahweh ⟨את⟩ Moshe.",
+  "translation": "Dan mereka mengikatkan padanya tali pilin biru tua (tekhelet), untuk memasangnya di atas destar (mitznefet) bagian atasnya, seperti yang diperintahkan Yahweh kepada Moshe.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "dan mereka mengikatkan"
+      "gloss": "Dan mereka mengikatkan"
     },
     {
       "surface": "עליו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "פתיל",
-      "gloss": "tali"
+      "gloss": "tali pilin"
     },
     {
       "surface": "תכלת",
-      "gloss": "biru langit"
+      "gloss": "biru tua (tekhelet)"
     },
     {
       "surface": "לתת",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "על",
-      "gloss": "di atas"
+      "gloss": "di"
     },
     {
       "surface": "המצנפת",
-      "gloss": "⟨serban⟩"
+      "gloss": "destar (mitznefet)"
     },
     {
       "surface": "מלמעלה",
-      "gloss": "dari atas"
+      "gloss": "bagian atasnya"
     },
     {
       "surface": "כאשר",
-      "gloss": "sesuai dengan"
+      "gloss": "seperti yang"
     },
     {
       "surface": "צוה",
-      "gloss": "yang diperintahkan"
+      "gloss": "diperintahkan"
     },
     {
       "surface": "יהוה",
@@ -61,6 +61,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-08T10:33:36.910461862Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:11.340803087Z",
+  "model": "glm-5.3"
 }

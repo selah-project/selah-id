@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 22,
-  "translation": "Jika ternyata ditemukan ⟨⟨hal itu⟩⟩ di tangannya, barang curian ⟨itu⟩, dari sapi sampai keledai sampai domba — ⟨yang⟩ hidup — dua kali lipat ia ⟨harus⟩ membayar ganti rugi.",
+  "translation": "Jika binatang curian itu benar-benar ditemukan di tangannya, dari lembu sampai keledai sampai domba, dalam keadaan hidup, ia harus mengganti dua kali lipat.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המצא",
-      "gloss": "ternyata"
+      "gloss": "benar-benar"
     },
     {
       "surface": "תמצא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הגנבה",
-      "gloss": "barang curian"
+      "gloss": "binatang curian itu"
     },
     {
       "surface": "משור",
-      "gloss": "dari sapi"
+      "gloss": "dari lembu"
     },
     {
       "surface": "עד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "חיים",
-      "gloss": "hidup"
+      "gloss": "dalam keadaan hidup"
     },
     {
       "surface": "שנים",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "ישלם",
-      "gloss": "ia membayar ganti rugi"
+      "gloss": "ia harus mengganti"
     }
   ],
-  "timestamp": "2026-08-08T10:30:46.060839772Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:32.107582731Z",
+  "model": "glm-5.3"
 }

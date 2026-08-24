@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan setelah itu orang-orang Lewi akan masuk untuk melayani ⟨את⟩ kemah pertemuan, dan engkau akan menyucikan ⟨אתם⟩, dan engkau akan mengayunkan ⟨אתם⟩ sebagai persembahan ayunan.",
+  "translation": "Setelah itu orang-orang Lewi masuk untuk melakukan pekerjaan di Kemah Pertemuan, dan engkau akan mentahirkan ⟨אתם⟩ dan mengambarkan ⟨אתם⟩ sebagai persembahan tenufah.",
   "tokens": [
     {
       "surface": "ואחרי",
-      "gloss": "Dan setelah"
+      "gloss": "Setelah itu"
     },
     {
       "surface": "כן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יבאו",
-      "gloss": "akan masuk"
+      "gloss": "masuk"
     },
     {
       "surface": "הלוים",
@@ -25,44 +25,44 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "untuk melayani"
+      "gloss": "untuk melakukan pekerjaan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kemah pertemuan"
+      "marks": "Kemah Pertemuan"
     },
     {
       "surface": "אהל",
-      "gloss": "kemah"
+      "gloss": "Kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "pertemuan"
+      "gloss": "Pertemuan"
     },
     {
       "surface": "וטהרת",
-      "gloss": "dan engkau akan menyucikan"
+      "gloss": "dan engkau akan mentahirkan"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mereka"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mereka (para Lewi)"
     },
     {
       "surface": "והנפת",
-      "gloss": "dan engkau akan mengayunkan"
+      "gloss": "dan mengambarkan"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mereka"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mereka (para Lewi)"
     },
     {
       "surface": "תנופה",
-      "gloss": "sebagai persembahan ayunan"
+      "gloss": "persembahan tenufah"
     }
   ],
-  "timestamp": "2026-08-09T01:39:02.677650002Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.234393371Z",
+  "model": "glm-5.3"
 }

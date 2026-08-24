@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 16,
-  "translation": "Lalu Ahitofel berkata kepada Avshalom: \"Masuklah kepada gundik-gundik ayahmu yang ditinggalkannya untuk menjaga ⟨the⟩ rumah, dan seluruh Yisra'el akan mendengar bahwa engkau telah membuat ayahmu muak; maka ⟨akan⟩ diperkuat tangan semua yang bersama-sama dengan engkau.\"",
+  "translation": "Lalu berkatalah Akitofel kepada Avshalom: “Masuklah kepada gundik-gundik ayahmu, yang ditinggalkannya untuk menjaga ⟨את⟩ rumah itu, supaya seluruh Yisrael mendengar bahwa engkau telah menjadi kekejian bagi ayahmu; maka kuatlah tangan semua orang yang bersama ⟨את⟩ engkau.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lalu berkata"
+      "gloss": "Lalu berkatalah"
     },
     {
       "surface": "אחיתפל",
-      "gloss": "Ahitofel"
+      "gloss": "Akitofel"
     },
     {
       "surface": "אל",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הבית",
-      "gloss": "rumah"
+      "gloss": "rumah itu"
     },
     {
       "surface": "ושמע",
-      "gloss": "dan akan mendengar"
+      "gloss": "supaya ... mendengar"
     },
     {
       "surface": "כל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "נבאשת",
-      "gloss": "engkau telah membuat muak"
+      "gloss": "engkau telah menjadi kekejian"
     },
     {
       "surface": "את",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "אביך",
-      "gloss": "ayahmu"
+      "gloss": "bagi ayahmu"
     },
     {
       "surface": "וחזקו",
-      "gloss": "maka diperkuat"
+      "gloss": "maka kuatlah"
     },
     {
       "surface": "ידי",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": "orang yang"
     },
     {
       "surface": "אתך",
-      "gloss": "bersama-sama dengan engkau"
+      "gloss": "bersama ⟨את⟩ engkau"
     }
   ],
-  "timestamp": "2026-08-08T07:56:35.668020222Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:03.112676062Z",
+  "model": "glm-5.3"
 }

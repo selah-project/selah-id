@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 10,
-  "translation": "Tidak begitu! Pergilah sekarang, hai orang-orang laki-laki, dan beribadahlah kepada ⟨את⟩ Yahweh, karena itulah yang kamu cari.” Dan ia mengusir ⟨את⟩ mereka dari hadapan Paroh.",
+  "translation": "Tidak begitu! Pergilah sekarang, hai orang-orang laki-laki, dan beribadahlah kepada ⟨את⟩ Yahweh, karena itulah yang kamu cari.” Dan ia mengusir ⟨את⟩ mereka ⟨את⟩ dari hadapan Paroh.",
   "tokens": [
     {
       "surface": "לא",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari hadapan"
+      "gloss": "⟨את⟩ dari hadapan"
     },
     {
       "surface": "פני",
@@ -79,6 +79,6 @@
       "gloss": "Paroh"
     }
   ],
-  "timestamp": "2026-08-09T01:38:13.983106035Z",
+  "timestamp": "2026-08-24T17:55:27.141841377Z",
   "model": "glm-5.2"
 }

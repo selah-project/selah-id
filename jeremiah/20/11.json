@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 20,
-  "translation": "Tetapi Yahweh ⟨היה⟩ bersamaku seperti pahlawan yang perkasa; sebab itu para pengikutku akan tersandung dan tidak akan sanggup; mereka akan mendapat malu besar, sebab mereka tidak berpikir bijaksana — aib untuk selamanya tidak akan dilupakan.",
+  "translation": "Tetapi Yahweh ⟨את⟩ ⟨bersama saya⟩ seperti pahlawan yang perkasa; sebab itu para pengejar saya akan tergelincir dan tidak akan mampu; mereka akan mendapat malu yang sangat besar, sebab mereka tidak berlaku bijaksana; noda yang kekal itu tidak akan dilupakan.",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -13,12 +13,11 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
-      "marks": "bersamaku"
+      "gloss": "⟨את⟩ ⟨bersama saya⟩"
     },
     {
       "surface": "כגבור",
-      "gloss": "seperti pahlawan"
+      "gloss": "seperti pahlawan yang perkasa"
     },
     {
       "surface": "עריץ",
@@ -30,15 +29,15 @@
     },
     {
       "surface": "כן",
-      "gloss": "⟨demikian⟩"
+      "gloss": "sebab itu"
     },
     {
       "surface": "רדפי",
-      "gloss": "para pengikutku"
+      "gloss": "para pengejar saya"
     },
     {
       "surface": "יכשלו",
-      "gloss": "akan tersandung"
+      "gloss": "akan tergelincir"
     },
     {
       "surface": "ולא",
@@ -46,7 +45,7 @@
     },
     {
       "surface": "יכלו",
-      "gloss": "akan sanggup"
+      "gloss": "akan mampu"
     },
     {
       "surface": "בשו",
@@ -54,7 +53,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "besar"
+      "gloss": "yang sangat besar"
     },
     {
       "surface": "כי",
@@ -66,15 +65,15 @@
     },
     {
       "surface": "השכילו",
-      "gloss": "mereka berpikir bijaksana"
+      "gloss": "mereka berlaku bijaksana"
     },
     {
       "surface": "כלמת",
-      "gloss": "aib"
+      "gloss": "noda"
     },
     {
       "surface": "עולם",
-      "gloss": "untuk selamanya"
+      "gloss": "yang kekal"
     },
     {
       "surface": "לא",
@@ -85,6 +84,6 @@
       "gloss": "akan dilupakan"
     }
   ],
-  "timestamp": "2026-08-08T08:34:55.638536553Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:06.122134014Z",
+  "model": "glm-5.3"
 }

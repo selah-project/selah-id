@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 14,
-  "translation": "Dan jika kembali ⟨nכנגע⟩ itu dan merebak di rumah setelah pencabutan ⟨את⟩ batu-batu itu dan setelah pengerokan ⟨את⟩ rumah itu dan setelah pendempulan,",
+  "translation": "Dan jika kerusakan itu kembali dan menjalar di rumah itu setelah pencabutan ⟨את⟩ batu-batu itu, dan setelah pengikisan ⟨את⟩ rumah itu, dan setelah pendempulan —",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Dan jika"
+      "gloss": "dan jika"
     },
     {
       "surface": "ישוב",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "⟨הנגע⟩ itu"
+      "gloss": "kerusakan itu"
     },
     {
       "surface": "ופרח",
-      "gloss": "dan merebak"
+      "gloss": "dan menjalar"
     },
     {
       "surface": "בבית",
-      "gloss": "di rumah"
+      "gloss": "di rumah itu"
     },
     {
       "surface": "אחר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הקצות",
-      "gloss": "pengerokan"
+      "gloss": "pengikisan"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "pendempulan"
     }
   ],
-  "timestamp": "2026-08-08T23:15:25.844477778Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:02.496757398Z",
+  "model": "glm-5.3"
 }

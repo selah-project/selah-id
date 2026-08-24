@@ -5,11 +5,11 @@
   "book": "ruth",
   "lang": "id",
   "chapter": 2,
-  "translation": "Lalu berkatalah kepadanya mertua perempuannya, “Di manakah ⟨kau⟩ memungut hari ini, dan di manakah ⟨kau⟩ bekerja?” Terjadilah ⟨bahwa⟩ diberkatah Yang Mengenalimu. Dan ⟨ia⟩ memberitahukan kepada mertua perempuannya ⟨את⟩ yang telah diperbuatnya bersama dia; dan ⟨ia⟩ berkata, “Nama ⟨אישׁ⟩ laki-laki yang beperbuatku bersama dia hari ini ⟨ialah⟩ Boaz.”",
+  "translation": "Lalu berkatalah ibu mertuanya kepadanya, “Di mana engkau memungut hari ini, dan di mana engkau bekerja? Kiranya yang mengenalimu diberkahi.” Dan diceritakannya kepada ibu mertuanya ⟨את⟩ apa yang telah dilakukannya bersamanya, dan katanya, “Nama laki-laki yang padanya aku bekerja hari ini ⟨adalah⟩ Boaz.”",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "lalu berkatalah"
+      "gloss": "Lalu berkatalah"
     },
     {
       "surface": "לה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "חמותה",
-      "gloss": "mertua perempuannya"
+      "gloss": "ibu mertuanya"
     },
     {
       "surface": "איפה",
-      "gloss": "di mana"
+      "gloss": "Di mana"
     },
     {
       "surface": "לקטת",
-      "gloss": "memungut"
+      "gloss": "engkau memungut"
     },
     {
       "surface": "היום",
@@ -37,56 +37,56 @@
     },
     {
       "surface": "עשית",
-      "gloss": "bekerja"
+      "gloss": "engkau bekerja"
     },
     {
       "surface": "יהי",
-      "gloss": "terjadilah"
+      "gloss": "Kiranya…diberkahi"
     },
     {
       "surface": "מכירך",
-      "gloss": "Yang Mengenalimu"
+      "gloss": "yang mengenalimu"
     },
     {
       "surface": "ברוך",
-      "gloss": "diberkatah"
+      "gloss": "diberkahi"
     },
     {
       "surface": "ותגד",
-      "gloss": "dan memberitahukan"
+      "gloss": "Dan diceritakannya"
     },
     {
       "surface": "לחמותה",
-      "gloss": "kepada mertua perempuannya"
+      "gloss": "kepada ibu mertuanya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yang telah diperbuatnya"
+      "marks": "apa yang telah dilakukannya bersamanya"
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": "apa yang"
     },
     {
       "surface": "עשתה",
-      "gloss": "diperbuatnya"
+      "gloss": "telah dilakukannya"
     },
     {
       "surface": "עמו",
-      "gloss": "bersama dia"
+      "gloss": "bersamanya"
     },
     {
       "surface": "ותאמר",
-      "gloss": "dan berkata"
+      "gloss": "dan katanya"
     },
     {
       "surface": "שם",
-      "gloss": "nama"
+      "gloss": "Nama"
     },
     {
       "surface": "האיש",
-      "gloss": "laki-laki"
+      "gloss": "laki-laki itu"
     },
     {
       "surface": "אשר",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "beperbuatku"
+      "gloss": "aku bekerja"
     },
     {
       "surface": "עמו",
-      "gloss": "bersama dia"
+      "gloss": "padanya"
     },
     {
       "surface": "היום",
@@ -109,6 +109,6 @@
       "gloss": "Boaz"
     }
   ],
-  "timestamp": "2026-08-08T09:46:58.616515377Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:38.020603389Z",
+  "model": "glm-5.3"
 }

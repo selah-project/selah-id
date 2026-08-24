@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 32,
-  "translation": "Karena bani Yisrael dan bani Yehudah sungguh hanya melakukan yang jahat di mata-Ku sejak masa muda mereka; karena bani Yisrael sungguh hanya membangkitkan amarah-Ku dengan perbuatan tangan mereka, ⟨נאם יהוה⟩.",
+  "translation": "Sebab bani Yisrael dan bani Yehudah hanya melakukan yang jahat di mata-Ku sejak masa muda mereka; sebab bani Yisral hanyalah terus membangkitkan kegeraman ⟨את⟩-Ku dengan perbuatan tangan mereka — naas Yahweh.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "Sebab"
     },
     {
       "surface": "היו",
-      "gloss": "mereka telah"
+      "gloss": "telah"
     },
     {
       "surface": "בני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אך",
-      "gloss": "sungguh hanya"
+      "gloss": "hanya"
     },
     {
       "surface": "עשים",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "בני",
@@ -65,16 +65,16 @@
     },
     {
       "surface": "אך",
-      "gloss": "sungguh hanya"
+      "gloss": "hanyalah"
     },
     {
       "surface": "מכעסים",
-      "gloss": "membangkitkan amarah"
+      "gloss": "terus membangkitkan kegeraman"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩-Ku",
-      "marks": "perbuatan"
+      "gloss": "⟨את⟩",
+      "marks": "Aku (objek kausatif dari מכעיס)"
     },
     {
       "surface": "במעשה",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "נאם",
-      "gloss": "ucapan"
+      "gloss": "naas"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T08:38:22.825584526Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:19.585787567Z",
+  "model": "glm-5.3"
 }

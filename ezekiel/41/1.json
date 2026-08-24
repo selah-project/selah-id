@@ -5,32 +5,32 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 41,
-  "translation": "Lalu ⟨ia⟩ membawaku ke ⟨ה⟩ bait suci, dan ⟨ia⟩ mengukur ⟨את⟩ tiang-tiang ⟨ה⟩ — enam hasta lebarnya dari sisi sebelah sini, dan enam hasta lebarnya dari sisi sebelah sana — lebar kemah.",
+  "translation": "Dan ia membawaku ke dalam ⟨ha-heikhal⟩ itu, lalu ia mengukur ⟨את⟩ tiang-tiang itu: enam hasta lebarnya dari sisi yang satu, dan enam hasta lebarnya dari sisi yang lain — ⟨yaitu⟩ lebar kemah itu.",
   "tokens": [
     {
       "surface": "ויביאני",
-      "gloss": "dan dibawanya aku"
+      "gloss": "dan ia membawaku"
     },
     {
       "surface": "אל",
-      "gloss": "ke"
+      "gloss": "ke dalam"
     },
     {
       "surface": "ההיכל",
-      "gloss": "bait suci"
+      "gloss": "ha-heikhal"
     },
     {
       "surface": "וימד",
-      "gloss": "dan diukurnya"
+      "gloss": "lalu ia mengukur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tiang-tiang"
+      "marks": "tiang-tiang itu"
     },
     {
       "surface": "האילים",
-      "gloss": "tiang-tiang"
+      "gloss": "tiang-tiang itu"
     },
     {
       "surface": "שש",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "רחב",
-      "gloss": "lebar"
+      "gloss": "lebarnya"
     },
     {
       "surface": "מפו",
-      "gloss": "dari sisi sebelah sini"
+      "gloss": "dari sisi yang satu"
     },
     {
       "surface": "ושש",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "רחב",
-      "gloss": "lebar"
+      "gloss": "lebarnya"
     },
     {
       "surface": "מפו",
-      "gloss": "dari sisi sebelah sana"
+      "gloss": "dari sisi yang lain"
     },
     {
       "surface": "רחב",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "האהל",
-      "gloss": "kemah"
+      "gloss": "kemah itu"
     }
   ],
-  "timestamp": "2026-08-08T23:17:28.233857363Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:35.871974875Z",
+  "model": "glm-5.3"
 }

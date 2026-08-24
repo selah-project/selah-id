@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 11,
-  "translation": "Maka Aku akan turun dan berbicara dengan engkau di sana, dan Aku akan mengambil dari roh yang ada atasmu dan menaruhnya atas mereka, dan mereka akan memikul bersama engkau beban ⟨ה⟩ bangsa itu, dan engkau tidak akan memikulnya sendirian.",
+  "translation": "Maka Aku akan turun dan berbicara dengan engkau di sana, dan Aku akan mengambil dari roh yang ada padamu, dan menaruhkannya atas mereka, dan mereka akan memikul bersama engkau beban umat itu, sehingga engkau tidak memikulnya ⟨את⟩ seorang diri.",
   "tokens": [
     {
-      "surface": "ואל",
-      "gloss": "Maka Aku akan turun"
+      "surface": "וירדתי",
+      "gloss": "dan Aku akan turun"
     },
     {
       "surface": "ודברתי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הרוח",
-      "gloss": "roh"
+      "gloss": "roh itu"
     },
     {
       "surface": "אשר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "עליך",
-      "gloss": "atasmu"
+      "gloss": "atas engkau"
     },
     {
       "surface": "ושמתי",
-      "gloss": "dan menaruhnya"
+      "gloss": "dan Aku akan menaruh"
     },
     {
       "surface": "עליהם",
@@ -57,15 +57,16 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bersama engkau"
+      "gloss": "⟨את⟩ bersama engkau",
+      "marks": "bersama engkau"
     },
     {
       "surface": "במשא",
-      "gloss": "beban"
+      "gloss": "dalam memikul beban"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa itu"
+      "gloss": "umat itu"
     },
     {
       "surface": "ולא",
@@ -73,7 +74,7 @@
     },
     {
       "surface": "תשא",
-      "gloss": "engkau akan memikulnya"
+      "gloss": "engkau memikul"
     },
     {
       "surface": "אתה",
@@ -81,9 +82,9 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "sendirian"
+      "gloss": "seorang diri"
     }
   ],
-  "timestamp": "2026-08-08T07:17:48.289309441Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:24.040198675Z",
+  "model": "glm-5.3"
 }

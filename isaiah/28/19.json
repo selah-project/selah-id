@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 28,
-  "translation": "Setiap kali ia lewat, ia akan menangkap ⟨אתכם⟩ kamu, sebab pagi demi pagi ia akan lewat, di siang hari dan di malam hari, dan ⟨adalah⟩ hanya kedahyatan untuk memahami berita yang didengar.",
+  "translation": "Setiap kali ia melintas, ia akan mengambil ⟨את⟩ kalian; sebab pagi demi pagi ia akan melintas, pada siang hari dan pada malam hari; dan hanya akan ada ⟨adalah⟩ kegentaran untuk memahami kabar itu.",
   "tokens": [
     {
       "surface": "מדי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "עברו",
-      "gloss": "lewatnya"
+      "gloss": "ia melintas"
     },
     {
       "surface": "יקח",
-      "gloss": "ia akan menangkap"
+      "gloss": "ia akan mengambil"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩ kamu",
-      "marks": "kamu"
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
     },
     {
       "surface": "כי",
@@ -30,27 +30,27 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "di pagi"
+      "gloss": "pagi demi"
     },
     {
       "surface": "בבקר",
-      "gloss": "demi pagi"
+      "gloss": "pagi"
     },
     {
       "surface": "יעבר",
-      "gloss": "ia akan lewat"
+      "gloss": "ia akan melintas"
     },
     {
       "surface": "ביום",
-      "gloss": "di siang hari"
+      "gloss": "pada siang hari"
     },
     {
       "surface": "ובלילה",
-      "gloss": "dan di malam hari"
+      "gloss": "dan pada malam hari"
     },
     {
       "surface": "והיה",
-      "gloss": "dan ⟨adalah⟩"
+      "gloss": "dan hanya akan ada"
     },
     {
       "surface": "רק",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "זועה",
-      "gloss": "kedahyatan"
+      "gloss": "kegentaran"
     },
     {
       "surface": "הבין",
-      "gloss": "untuk memahami"
+      "gloss": "memahami"
     },
     {
       "surface": "שמועה",
-      "gloss": "berita yang didengar"
+      "gloss": "kabar itu"
     }
   ],
-  "timestamp": "2026-08-08T08:21:24.847382355Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:29.286598332Z",
+  "model": "glm-5.3"
 }

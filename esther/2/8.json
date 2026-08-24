@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "id",
   "chapter": 2,
-  "translation": "Dan terjadilah pada waktu terdengar ⟨⟨⟩⟩ firman raja dan undang-undangnya, dan pada waktu dikumpulkannya banyak gadis ke Shushan benteng, ke tangan Hegai, maka Esther dibawa ke rumah raja, ke tangan Hegai, penjaga ⟨para⟩ wanita.",
+  "translation": "Maka jadilah, ketika firman raja dan undang-undangnya terdengar, dan ketika banyak gadis dikumpulkan ke Shushan ⟨si⟩ benting itu, ke tangan Hegai, maka Ester pun dibawa ke istana raja, ke tangan Hegai, penjaga para perempuan.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Dan terjadilah"
+      "gloss": "jadilah"
     },
     {
       "surface": "בהשמע",
-      "gloss": "pada waktu terdengar"
+      "gloss": "ketika terdengar"
     },
     {
       "surface": "דבר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ובהקבץ",
-      "gloss": "dan pada waktu dikumpulkannya"
+      "gloss": "dan ketika dikumpulkan"
     },
     {
       "surface": "נערות",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הבירה",
-      "gloss": "benteng"
+      "gloss": "benting itu"
     },
     {
       "surface": "אל",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "rumah"
+      "gloss": "istana"
     },
     {
       "surface": "המלך",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "הנשים",
-      "gloss": "para wanita"
+      "gloss": "para perempuan"
     }
   ],
-  "timestamp": "2026-08-08T09:51:54.776779358Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:37.955759753Z",
+  "model": "glm-5.3"
 }

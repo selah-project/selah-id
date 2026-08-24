@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 4,
-  "translation": "Aku melihat, dan lihat, tidak ada ⟨the⟩ manusia, dan segala burung langit telah melarikan diri.",
+  "translation": "Aku melihat, dan lihatlah, tiada ⟨ה⟩ manusia, dan segala burung ⟨ה⟩ langit telah menghilang.",
   "tokens": [
     {
       "surface": "ראיתי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "והנה",
-      "gloss": "dan lihat"
+      "gloss": "dan lihatlah"
     },
     {
       "surface": "אין",
-      "gloss": "tidak ada"
+      "gloss": "tiada"
     },
     {
       "surface": "האדם",
-      "gloss": "manusia"
+      "gloss": "⟨ה⟩ manusia"
     },
     {
       "surface": "וכל",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "השמים",
-      "gloss": "langit"
+      "gloss": "⟨ה⟩ langit"
     },
     {
       "surface": "נדדו",
-      "gloss": "telah melarikan diri"
+      "gloss": "telah menghilang"
     }
   ],
-  "timestamp": "2026-08-08T08:30:55.372129288Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:51.886201901Z",
+  "model": "glm-5.3"
 }

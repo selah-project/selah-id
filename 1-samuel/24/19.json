@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 24,
-  "translation": "Dan ⟨bahwa⟩ engkau telah memberitahukan hari ini ⟨את⟩ apa yang telah engkau lakukan kepadaku dengan baik — ⟨את⟩ bahwa Yahweh telah menyerahkan aku ke dalam tanganmu, namun engkau tidak membunuh aku.",
+  "translation": "Dan ⟨bahwa⟩ engkau telah memberitahukan hari ini ⟨את⟩ apa yang telah engkau lakukan ⟨את⟩ kepadaku dengan baik — ⟨את⟩ bahwa Yahweh telah menyerahkan aku ke dalam tanganmu, namun engkau tidak membunuh aku.",
   "tokens": [
     {
       "surface": "ואת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "kepadaku"
+      "gloss": "⟨את⟩ kepadaku"
     },
     {
       "surface": "טובה",
@@ -70,6 +70,6 @@
       "gloss": "engkau membunuh aku"
     }
   ],
-  "timestamp": "2026-08-08T07:51:06.803939736Z",
+  "timestamp": "2026-08-24T17:55:27.174949332Z",
   "model": "glm-5.2"
 }

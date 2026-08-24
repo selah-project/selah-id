@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 32,
-  "translation": "Dan Mosheh berkata kepada mereka: “Jika bani Gad dan bani Reuwen menyeberang bersama kamu ⟨את⟩ Yarden, setiap orang yang bersiap untuk peperangan di hadapan Yahweh, dan negeri itu ditaklukkan di hadapan kamu, maka kamu memberikan kepada mereka ⟨את⟩ negeri Gilad menjadi milik.”\n",
+  "translation": "Dan Mosheh berkata kepada mereka: “Jika bani Gad dan bani Reuwen menyeberang ⟨את⟩ bersama kamu ⟨את⟩ Yarden, setiap orang yang bersiap untuk peperangan di hadapan Yahweh, dan negeri itu ditaklukkan di hadapan kamu, maka kamu memberikan kepada mereka ⟨את⟩ negeri Gilad menjadi milik.”\n",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "bersama kamu"
+      "gloss": "⟨את⟩ bersama kamu"
     },
     {
       "surface": "את",
@@ -114,6 +114,6 @@
       "gloss": "menjadi milik"
     }
   ],
-  "timestamp": "2026-08-08T07:23:15.457117887Z",
+  "timestamp": "2026-08-24T17:55:27.225849810Z",
   "model": "glm-5.2"
 }

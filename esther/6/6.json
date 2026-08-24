@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "id",
   "chapter": 6,
-  "translation": "Maka masuklah Haman, dan berkatalah raja kepadanya, “Apakah yang harus dilakukan kepada ⟨האישׁ⟩ seorang yang raja berkenan memuliakannya?” Lalu berkatalah Haman dalam hatinya, “Kepada siapakah raja berkenan melakukan kemuliaan lebih daripada kepadaku?”",
+  "translation": "Lalu Haman masuk, dan berkatalah ⟨kepadanya⟩ raja, “Apa yang harus dilakukan kepada ⟨את⟩ orang yang raja berkenan menghormatinya?” Lalu berkatalah Haman dalam hatinya, “Kepada siapakah raja berkenan berbuat kehormatan lebih daripada kepadaku?”",
   "tokens": [
     {
       "surface": "ויבוא",
-      "gloss": "maka masuklah"
+      "gloss": "Lalu … masuk"
     },
     {
       "surface": "המן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan berkatalah"
+      "gloss": "berkatalah"
     },
     {
       "surface": "לו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "apakah"
+      "gloss": "Apa"
     },
     {
       "surface": "לעשות",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "באיש",
-      "gloss": "kepada seorang"
+      "gloss": "kepada orang"
     },
     {
       "surface": "אשר",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ביקרו",
-      "gloss": "memuliakannya"
+      "gloss": "menghormatinya"
     },
     {
       "surface": "ויאמר",
-      "gloss": "lalu berkatalah"
+      "gloss": "Lalu berkatalah"
     },
     {
       "surface": "המן",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "למי",
-      "gloss": "kepada siapakah"
+      "gloss": "Kepada siapakah"
     },
     {
       "surface": "יחפץ",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "melakukan"
+      "gloss": "berbuat"
     },
     {
       "surface": "יקר",
-      "gloss": "kemuliaan"
+      "gloss": "kehormatan"
     },
     {
       "surface": "יותר",
@@ -96,6 +96,6 @@
       "gloss": "daripada kepadaku"
     }
   ],
-  "timestamp": "2026-08-08T09:52:07.803222980Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:58.681618105Z",
+  "model": "glm-5.3"
 }

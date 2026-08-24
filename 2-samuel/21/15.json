@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 21,
-  "translation": "Dan terjadi lagi peperangan orang Pelishti dengan ⟨את⟩ Yisra'el; dan Dawid turun, dan hamba-hambanya bersamanya, dan mereka berperang melawan ⟨את⟩ orang Pelishti; dan Dawid lesu.",
+  "translation": "Dan terjadi lagi peperangan orang Pelishti ⟨את⟩ dengan ⟨את⟩ Yisra'el; dan Dawid turun, dan hamba-hambanya bersamanya, dan mereka berperang ⟨את⟩ melawan ⟨את⟩ orang Pelishti; dan Dawid lesu.",
   "tokens": [
     {
       "surface": "ותהי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "את",
-      "gloss": "dengan",
+      "gloss": "⟨את⟩ dengan",
       "marks": "Yisra'el"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "surface": "את",
-      "gloss": "melawan",
+      "gloss": "⟨את⟩ melawan",
       "marks": "orang Pelishti"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "Dawid"
     }
   ],
-  "timestamp": "2026-08-08T07:58:38.026835864Z",
+  "timestamp": "2026-08-24T17:55:27.050015677Z",
   "model": "glm-5.2"
 }

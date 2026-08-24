@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 42,
-  "translation": "“Berbicara laki-laki itu, tuan negeri itu, dengan kami secara keras, dan ia memperlakukan kami sebagai mata-mata ⟨את⟩ negeri itu.",
+  "translation": "“Berbicara laki-laki itu, tuan negeri itu, ⟨את⟩ dengan kami secara keras, dan ia memperlakukan kami sebagai mata-mata ⟨את⟩ negeri itu.",
   "tokens": [
     {
       "surface": "דבר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "dengan kami"
+      "gloss": "⟨את⟩ dengan kami"
     },
     {
       "surface": "קשות",
@@ -54,6 +54,6 @@
       "gloss": "negeri itu"
     }
   ],
-  "timestamp": "2026-08-08T06:53:05.723408898Z",
+  "timestamp": "2026-08-24T17:55:27.073400800Z",
   "model": "glm-5.2"
 }

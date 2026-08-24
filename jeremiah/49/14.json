@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 49,
-  "translation": "Sebuah kabar telah kudengar dari sisi יהוה, dan seorang utusan telah diutus ke tengah bangsa-bangsa: “Berkumpullah dan datanglah menyerangnya, dan bangunlah untuk peperangan.”",
+  "translation": "Kabar telah kudengar dari hadirat ⟨את⟩ Yahweh, dan seorang utusan diutus ke antara bangsa-bangsa: “Berkumpullah dan marilah melawan dia, dan bangkitlah untuk berperang.”",
   "tokens": [
     {
       "surface": "שמועה",
-      "gloss": "Sebuah kabar"
+      "gloss": "Kabar"
     },
     {
       "surface": "שמעתי",
@@ -17,7 +17,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari sisi"
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -29,11 +30,11 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "ke tengah bangsa-bangsa"
+      "gloss": "ke antara bangsa-bangsa"
     },
     {
       "surface": "שלוח",
-      "gloss": "telah diutus"
+      "gloss": "diutus"
     },
     {
       "surface": "התקבצו",
@@ -41,21 +42,21 @@
     },
     {
       "surface": "ובאו",
-      "gloss": "dan datanglah"
+      "gloss": "dan marilah"
     },
     {
       "surface": "עליה",
-      "gloss": "menyerangnya"
+      "gloss": "melawan dia"
     },
     {
       "surface": "וקומו",
-      "gloss": "dan bangunlah"
+      "gloss": "dan bangkitlah"
     },
     {
       "surface": "למלחמה",
-      "gloss": "untuk peperangan"
+      "gloss": "untuk berperang"
     }
   ],
-  "timestamp": "2026-08-08T11:20:33.893629462Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:57.530808248Z",
+  "model": "glm-5.3"
 }

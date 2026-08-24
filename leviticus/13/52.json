@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 13,
-  "translation": "Dan ia membakar ⟨את⟩ pakaian, atau ⟨את⟩ lungsin, atau ⟨את⟩ pakan, dalam wol atau dalam rami, atau ⟨את⟩ segala perkakas kulit yang ada padanya ⟨the⟩ tuaan: karena ⟨it is⟩ tsara'at yang menggerogoti, itu — dengan api dibakar.",
+  "translation": "Maka ia harus membakar ⟨את⟩ pakaian itu, atau ⟨את⟩ lungsin, atau ⟨את⟩ pakan, baik dari wol maupun dari rami, atau ⟨את⟩ segala perkakas dari kulit yang ada padanya itu noda, sebab itu tsaraat yang menjalar gerogoh; dalam api ia harus dibakar.",
   "tokens": [
     {
       "surface": "ושרף",
-      "gloss": "dan ia membakar"
+      "gloss": "maka ia harus membakar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pakaian"
+      "marks": "pakaian itu"
     },
     {
       "surface": "הבגד",
-      "gloss": "pakaian"
+      "gloss": "pakaian itu"
     },
     {
       "surface": "או",
@@ -27,11 +27,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lungsin"
+      "marks": "lungsin itu"
     },
     {
       "surface": "השתי",
-      "gloss": "lungsin"
+      "gloss": "lungsin itu"
     },
     {
       "surface": "או",
@@ -40,15 +40,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pakan"
+      "marks": "pakan itu"
     },
     {
       "surface": "הערב",
-      "gloss": "pakan"
+      "gloss": "pakan itu"
     },
     {
       "surface": "בצמר",
-      "gloss": "dalam wol"
+      "gloss": "dari wol"
     },
     {
       "surface": "או",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "בפשתים",
-      "gloss": "dalam rami"
+      "gloss": "dari rami"
     },
     {
       "surface": "או",
@@ -65,7 +65,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "segala perkakas kulit"
+      "marks": "segala perkakas dari kulit"
     },
     {
       "surface": "כל",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "העור",
-      "gloss": "kulit"
+      "gloss": "dari kulit"
     },
     {
       "surface": "אשר",
@@ -93,19 +93,19 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "tuaan"
+      "gloss": "itu noda"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "צרעת",
-      "gloss": "tsara'at"
+      "gloss": "tsaraat"
     },
     {
       "surface": "ממארת",
-      "gloss": "yang menggerogoti"
+      "gloss": "yang menjalar gerogoh"
     },
     {
       "surface": "הוא",
@@ -113,13 +113,13 @@
     },
     {
       "surface": "באש",
-      "gloss": "dengan api"
+      "gloss": "dalam api"
     },
     {
       "surface": "תשרף",
-      "gloss": "dibakar"
+      "gloss": "ia harus dibakar"
     }
   ],
-  "timestamp": "2026-08-08T12:12:23.695484718Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:07.699356404Z",
+  "model": "glm-5.3"
 }

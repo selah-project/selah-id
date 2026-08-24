@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "id",
   "chapter": 1,
-  "translation": "Lalu raja berbicara dengan mereka, dan tidak ditemukan ⟨di⟩ antara mereka semua ⟨yang setara⟩ dengan Daniyel, Chananyah, Misha'el, dan Azaryah; maka mereka berdiri di hadapan raja.",
+  "translation": "Lalu raja berbicara ⟨את⟩ dengan mereka, dan tidak ditemukan ⟨di⟩ antara mereka semua ⟨yang setara⟩ dengan Daniyel, Chananyah, Misha'el, dan Azaryah; maka mereka berdiri di hadapan raja.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "dengan mereka"
+      "gloss": "⟨את⟩ dengan mereka"
     },
     {
       "surface": "המלך",
@@ -60,6 +60,6 @@
       "gloss": "raja"
     }
   ],
-  "timestamp": "2026-08-08T11:57:55.894543249Z",
+  "timestamp": "2026-08-24T17:55:27.158736363Z",
   "model": "glm-5.2"
 }

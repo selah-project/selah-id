@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 1,
-  "translation": "Tetapi para bidan takut kepada ⟨האלהים⟩ Elohim, dan tidak melakukan seperti yang telah dikatakan raja Mitsrayim kepada mereka, tetapi mereka membiarkan hidup ⟨את⟩ anak-anak lelaki itu.",
+  "translation": "Tetapi para bidan takut akan Elohim, dan tidak melakukan seperti yang dikatakan raja Mitsrayim kepada mereka, melainkan membiarkan hidup ⟨את⟩ anak-anak laki-laki itu.",
   "tokens": [
     {
       "surface": "ותיראן",
-      "gloss": "tetapi mereka takut"
+      "gloss": "takut"
     },
     {
       "surface": "המילדת",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "mereka melakukan"
+      "gloss": "melakukan"
     },
     {
       "surface": "כאשר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "telah dikatakan"
+      "gloss": "dikatakan"
     },
     {
       "surface": "אליהן",
@@ -54,18 +54,18 @@
     },
     {
       "surface": "ותחיין",
-      "gloss": "tetapi mereka membiarkan hidup"
+      "gloss": "membiarkan hidup"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "anak-anak lelaki itu"
+      "marks": "anak-anak laki-laki itu"
     },
     {
       "surface": "הילדים",
-      "gloss": "anak-anak lelaki itu"
+      "gloss": "anak-anak laki-laki itu"
     }
   ],
-  "timestamp": "2026-08-08T10:28:49.719620321Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:21.387163023Z",
+  "model": "glm-5.3"
 }

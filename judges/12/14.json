@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan baginya ⟨ada⟩ empat puluh anak laki-laki dan tiga puluh cucu, yang menunggangi tujuh puluh keledai muda; dan ⟨הוא⟩ menghakimi ⟨את⟩ Yisra'el delapan tahun.",
+  "translation": "Ia memiliki empat puluh anak laki-laki dan tiga puluh cucu, yang mengendarai tujuh puluh keledai muda; ia memimpin sebagai hakim ⟨את⟩ Israel delapan tahun.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "dan bagiannya"
+      "gloss": "Ia memiliki"
     },
     {
       "surface": "לו",
-      "gloss": "kepadanya"
+      "gloss": "baginya"
     },
     {
       "surface": "ארבעים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בנים",
-      "gloss": "anak-anak laki-laki"
+      "gloss": "anak laki-laki"
     },
     {
       "surface": "ושלשים",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "בני",
-      "gloss": "anak-anak dari"
+      "gloss": "cucu"
     },
     {
       "surface": "בנים",
-      "gloss": "anak-anak laki-laki"
+      "gloss": "…anak"
     },
     {
       "surface": "רכבים",
-      "gloss": "yang menunggangi"
+      "gloss": "yang mengendarai"
     },
     {
       "surface": "על",
-      "gloss": "atas"
+      "gloss": "di atas"
     },
     {
       "surface": "שבעים",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "עירם",
-      "gloss": "keledai muda mereka"
+      "gloss": "keledai muda"
     },
     {
       "surface": "וישפט",
-      "gloss": "dan menghakimi"
+      "gloss": "ia memimpin sebagai hakim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Israel"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "שמנה",
@@ -73,6 +73,6 @@
       "gloss": "tahun"
     }
   ],
-  "timestamp": "2026-08-08T07:42:06.610067743Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:42.750936962Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 24,
-  "translation": "Maka Dawid membelah ⟨את⟩ orang-orangnya dengan perkataan dan tidak membiarkan mereka bangkit terhadap Syaul; dan Syaul bangkit dari ⟨ה⟩ gua itu, lalu pergi di ⟨ה⟩ jalan itu.",
+  "translation": "Lalu Dawid menahan ⟨את⟩ orang-orangnya dengan perkataan dan tidak membiarkan mereka bangun terhadap Shaúl; lalu Shaúl bangun dari gua itu dan berjalan di ⟨the⟩ jalan.",
   "tokens": [
     {
       "surface": "וישסע",
-      "gloss": "Maka membelah"
+      "gloss": "Lalu … menahan"
     },
     {
       "surface": "דוד",
@@ -29,7 +29,7 @@
       "gloss": "dengan perkataan"
     },
     {
-      "surface": "ולא",
+      "surface": "ו לא",
       "gloss": "dan tidak"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לקום",
-      "gloss": "bangkit"
+      "gloss": "bangun"
     },
     {
       "surface": "אל",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Syaul"
+      "gloss": "Shaúl"
     },
     {
       "surface": "ושאול",
-      "gloss": "dan Syaul"
+      "gloss": "lalu Shaúl"
     },
     {
       "surface": "קם",
-      "gloss": "bangkit"
+      "gloss": "bangun"
     },
     {
       "surface": "מהמערה",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "וילך",
-      "gloss": "lalu pergi"
+      "gloss": "dan berjalan"
     },
     {
       "surface": "בדרך",
-      "gloss": "di jalan itu"
+      "gloss": "di jalan"
     }
   ],
-  "timestamp": "2026-08-08T10:57:25.648706097Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:13.804490171Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 22,
-  "translation": "Lalu pergilah Dawid dari sana ke Mitspeh Moab, dan berkatalah kepada raja Moab, “Biarkanlah kiranya ayahku dan ibuku keluar ⟨dan tinggal⟩ bersama kamu sampai aku tahu apa yang akan Elohim perbuat kepadaku.”",
+  "translation": "Lalu pergilah Dawid dari sana ke Mitspeh Moab, dan berkatalah kepada raja Moab, “Biarkanlah kiranya ayahku dan ibuku keluar ⟨dan tinggal⟩ ⟨את⟩ bersama kamu sampai aku tahu apa yang akan Elohim perbuat kepadaku.”",
   "tokens": [
     {
       "surface": "וילך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "bersama kamu"
+      "gloss": "⟨את⟩ bersama kamu"
     },
     {
       "surface": "עד",
@@ -92,6 +92,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-08T07:50:48.205675519Z",
+  "timestamp": "2026-08-24T17:55:27.167767629Z",
   "model": "glm-5.2"
 }

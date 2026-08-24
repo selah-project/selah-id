@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 37,
-  "translation": "Lalu Sanherib king of Ashshur berangkat, pergi, dan kembali, dan diam di Ninewe.",
+  "translation": "Lalu berangkatlah Sancherib, raja ⟨את⟩ Ashshur, pergi dan pulang, serta diam di Ninewe.",
   "tokens": [
     {
       "surface": "ויסע",
-      "gloss": "maka berangkatlah"
+      "gloss": "berangkatlah"
     },
     {
       "surface": "וילך",
-      "gloss": "dan pergi"
+      "gloss": "pergi"
     },
     {
       "surface": "וישב",
-      "gloss": "dan kembali"
+      "gloss": "pulang"
     },
     {
       "surface": "סנחריב",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "וישב",
-      "gloss": "dan diam"
+      "gloss": "diam"
     },
     {
       "surface": "בנינוה",
       "gloss": "di Ninewe"
     }
   ],
-  "timestamp": "2026-08-08T08:23:20.374776561Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:19.202831612Z",
+  "model": "glm-5.3"
 }

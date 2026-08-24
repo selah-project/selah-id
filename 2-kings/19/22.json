@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 19,
-  "translation": "⟨את⟩ Siapa yang kauhina, dan siapa yang kautajuki? Dan terhadap siapa kauangkat ⟨your⟩ suara, dan kauangkat tinggi matamu? ⟨Terhadap⟩ ⟨the⟩ Kudusnya Yisra'el!”",
+  "translation": "⟨את⟩ siapa yang kaucela dan kauhina? dan terhadap siapa kaunggalkan suaramu dan kaangkatkan matamu ke tempat tinggi? Terhadap Kadosh Israel!",
   "tokens": [
     {
       "surface": "את",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "חרפת",
-      "gloss": "kauhina"
+      "gloss": "kaucela"
     },
     {
       "surface": "וגדפת",
-      "gloss": "dan kautajuki"
+      "gloss": "kauhina"
     },
     {
       "surface": "ועל",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "הרימות",
-      "gloss": "kauangkat"
+      "gloss": "kaunggalkan"
     },
     {
       "surface": "קול",
-      "gloss": "suara"
+      "gloss": "suaramu"
     },
     {
       "surface": "ותשא",
-      "gloss": "dan kauangkat"
+      "gloss": "kaangkatkan"
     },
     {
       "surface": "מרום",
-      "gloss": "tinggi"
+      "gloss": "ke tempat tinggi"
     },
     {
       "surface": "עיניך",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "קדוש",
-      "gloss": "Kudusnya"
+      "gloss": "Kadosh"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     }
   ],
-  "timestamp": "2026-08-08T08:14:31.066404953Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:53.140243217Z",
+  "model": "glm-5.3"
 }

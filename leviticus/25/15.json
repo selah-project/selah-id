@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 25,
-  "translation": "Berdasarkan jumlah tahun sesudah yobel engkau membeli dari saudaramu sebangsa; berdasarkan jumlah tahun hasil panen ia menjual kepadamu.",
+  "translation": "Berdasarkan jumlah tahun sesudah yobel engkau membeli ⟨את⟩ dari saudaramu sebangsa; berdasarkan jumlah tahun hasil panen ia menjual kepadamu.",
   "tokens": [
     {
       "surface": "במספר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩ dari"
     },
     {
       "surface": "עמיתך",
@@ -56,6 +56,6 @@
       "gloss": "kepadamu"
     }
   ],
-  "timestamp": "2026-08-08T10:38:12.144772861Z",
+  "timestamp": "2026-08-24T17:55:27.210158463Z",
   "model": "glm-5.2"
 }

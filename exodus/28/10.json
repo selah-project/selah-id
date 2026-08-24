@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 28,
-  "translation": "enam dari nama mereka di atas ⟨ה⟩ batu yang satu, dan ⟨את⟩ nama-nama ⟨dari⟩ enam yang tersisa di atas ⟨ה⟩ batu yang kedua, sesuai kelahiran mereka.",
+  "translation": "enam dari nama mereka di atas batu yang satu, dan ⟨את⟩ nama enam yang tersisa di atas batu yang kedua, menurut kelahiran mereka.",
   "tokens": [
     {
       "surface": "ששה",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "nama-nama"
+      "gloss": "⟨את⟩",
+      "marks": "nama enam yang tersisa"
     },
     {
       "surface": "שמות",
-      "gloss": "nama-nama"
+      "gloss": "nama"
     },
     {
       "surface": "הששה",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "כתולדתם",
-      "gloss": "sesuai kelahiran mereka"
+      "gloss": "menurut kelahiran mereka"
     }
   ],
-  "timestamp": "2026-08-08T07:02:01.361530153Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:51.778352819Z",
+  "model": "glm-5.3"
 }

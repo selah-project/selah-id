@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 35,
-  "translation": "Segala kota yang kamu berikan kepada orang Lewi: empat puluh delapan kota, ⟨יהן⟩ dan ⟨את⟩ padang-padang mereka.",
+  "translation": "Segenap kota yang kamu berikan kepada orang Lewi ⟨adalah⟩ empat puluh delapan kota — ⟨את⟩-nya itu beserta ⟨את⟩ tanah lapangnya.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "Segenap"
     },
     {
       "surface": "הערים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ושמנה",
-      "gloss": "dan delapan"
+      "gloss": "delapan"
     },
     {
       "surface": "עיר",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "אתהן",
-      "gloss": "⟨את⟩-mereka",
-      "marks": "mereka (kota-kota)"
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota itu"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "padang-padang mereka"
+      "gloss": "⟨את⟩",
+      "marks": "tanah lapangnya"
     },
     {
       "surface": "מגרשיהן",
-      "gloss": "padang-padang mereka"
+      "gloss": "tanah lapangnya"
     }
   ],
-  "timestamp": "2026-08-08T07:23:54.475039785Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:16.627397656Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 40,
-  "translation": "Pada hari bulan pertama, pada hari pertama ⟨dari⟩ bulan itu, engkau akan mendirikan ⟨את⟩ Mishkan ⟨ה⟩ Ohel Moed.",
+  "translation": "Pada hari pertama dari bulan pertama, pada hari pertama ⟨dari⟩ bulan itu, engkau akan mendirikan ⟨את⟩ Mishkan, Kemah Pertemuan.",
   "tokens": [
     {
       "surface": "ביום",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "החדש",
-      "gloss": "bulan"
+      "gloss": "dari bulan"
     },
     {
       "surface": "הראשון",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "באחד",
-      "gloss": "pada satu"
+      "gloss": "pada hari pertama"
     },
     {
       "surface": "לחדש",
-      "gloss": "bagi bulan"
+      "gloss": "dari bulan itu"
     },
     {
       "surface": "תקים",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "אהל",
-      "gloss": "Ohel"
+      "gloss": "Kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "Moed"
+      "gloss": "Pertemuan"
     }
   ],
-  "timestamp": "2026-08-08T12:11:16.791629170Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:43.251402779Z",
+  "model": "glm-5.3"
 }

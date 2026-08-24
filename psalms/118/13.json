@@ -5,29 +5,29 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 118,
-  "translation": "׀ Menyudut aku ⟨kau⟩ sudut untuk jatuh, tetapi Yahweh menolong aku.",
+  "translation": "Dorongan — engkau mendorong aku untuk jatuh, tetapi Yahweh menolong aku.",
   "tokens": [
     {
-      "surface": "דַּחֹ֣ה",
-      "gloss": "menyudut"
+      "surface": "דחה",
+      "gloss": "dorongan"
     },
     {
-      "surface": "דְחִיתַ֣נִי",
-      "gloss": "kau sudut aku"
+      "surface": "דחיתני",
+      "gloss": "engkau mendorong aku"
     },
     {
-      "surface": "לִנְפֹּ֑ל",
+      "surface": "לנפל",
       "gloss": "untuk jatuh"
     },
     {
-      "surface": "וַ֖יהוָ֣ה",
+      "surface": "ויהוה",
       "gloss": "tetapi Yahweh"
     },
     {
-      "surface": "עֲזָרָֽנִי",
+      "surface": "עזרני",
       "gloss": "menolong aku"
     }
   ],
-  "timestamp": "2026-08-08T09:25:33.994719393Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:16.858945404Z",
+  "model": "glm-5.3"
 }

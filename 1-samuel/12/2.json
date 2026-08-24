@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan sekarang, lihat, sang raja berjalan di depan kalian, dan saya telah menua dan memutih, dan lihat, anak-anak saya ⟨ada⟩ bersama kalian; dan saya telah berjalan di depan kalian dari masa mudaku sampai hari ini.",
+  "translation": "Dan sekarang, lihat, sang raja berjalan di depan kalian, dan saya telah menua dan memutih, dan lihat, anak-anak saya ⟨ada⟩ ⟨את⟩ bersama kalian; dan saya telah berjalan di depan kalian dari masa mudaku sampai hari ini.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "bersama kalian"
+      "gloss": "⟨את⟩ bersama kalian"
     },
     {
       "surface": "ואני",
@@ -80,6 +80,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T07:47:10.215314901Z",
+  "timestamp": "2026-08-24T17:55:27.170259262Z",
   "model": "glm-5.2"
 }

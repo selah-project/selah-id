@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 26,
-  "translation": "Menurut ⟨π之中的⟩ undian ⟨הגורל ⟩ warisannya akan dipisahkan antara yang banyak ⟨sampai⟩ yang sedikit.”",
+  "translation": "Menurut mulut goral-nyalah warisannya akan dibagi, antara yang banyak dan yang sedikit.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Menurut"
+      "gloss": "menurut"
     },
     {
       "surface": "פי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הגורל",
-      "gloss": "undian itu"
+      "gloss": "goral itu"
     },
     {
       "surface": "תחלק",
-      "gloss": "akan dipisahkan"
+      "gloss": "akan dibagi"
     },
     {
       "surface": "נחלתו",
@@ -40,6 +40,6 @@
       "gloss": "yang sedikit"
     }
   ],
-  "timestamp": "2026-08-08T10:42:57.357402324Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:58.616353456Z",
+  "model": "glm-5.3"
 }

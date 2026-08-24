@@ -5,90 +5,90 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan terjadilah pada keesokan harinya, maka Pashchur mengeluarkan ⟨את⟩ Yirmeyahu dari ⟨ה⟩ mahpekhet. Lalu berkatalah Yirmeyahu kepadanya: bukan Pashchur yang dipanggil Yahweh sebagai namamu, melainkan Magor Missabib.",
+  "translation": "Dan terjadilah pada besok paginya, Pashchur mengeluarkan ⟨את⟩ Yirmeyahu dari penjara-bantalan. Lalu berkatalah Yirmeyahu kepadanya: bukan Pashchur nama yang dipanggil Yahweh atasmu, melainkan Magor-Missaviv (Kegenangan di Sekeliling).",
   "tokens": [
     {
-      "surface": "וַֽיְהִי֙",
+      "surface": "ויהי",
       "gloss": "Dan terjadilah"
     },
     {
-      "surface": "מִֽמָּחֳרָ֔ת",
-      "gloss": "pada keesokan harinya"
+      "surface": "ממחרת",
+      "gloss": "pada besok paginya"
     },
     {
-      "surface": "וַיֹּצֵ֥א",
-      "gloss": "maka mengeluarkan"
+      "surface": "ויצא",
+      "gloss": "mengeluarkan"
     },
     {
-      "surface": "פַשְׁח֛וּר",
+      "surface": "פשחור",
       "gloss": "Pashchur"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Yirmeyahu"
     },
     {
-      "surface": "יִרְמְיָ֖הוּ",
+      "surface": "ירמיהו",
       "gloss": "Yirmeyahu"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "dari"
     },
     {
-      "surface": "הַמַּהְפָּ֑כֶת",
-      "gloss": "⟨ה⟩ mahpekhet"
+      "surface": "המהפכת",
+      "gloss": "penjara-bantalan"
     },
     {
-      "surface": "וַיֹּ֨אמֶר",
+      "surface": "ויאמר",
       "gloss": "Lalu berkatalah"
     },
     {
-      "surface": "אֵלָ֜יו",
+      "surface": "אליו",
       "gloss": "kepadanya"
     },
     {
-      "surface": "יִרְמְיָ֗הוּ",
+      "surface": "ירמיהו",
       "gloss": "Yirmeyahu"
     },
     {
-      "surface": "לֹ֤א",
+      "surface": "לא",
       "gloss": "bukan"
     },
     {
-      "surface": "פַשְׁחוּר֙",
+      "surface": "פשחור",
       "gloss": "Pashchur"
     },
     {
-      "surface": "קָרָ֤א",
+      "surface": "קרא",
       "gloss": "yang dipanggil"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "שְׁמֶ֔ךָ",
-      "gloss": "sebagai namamu"
+      "surface": "שמך",
+      "gloss": "namamu"
     },
     {
-      "surface": "כִּ֖י",
-      "gloss": "karena"
-    },
-    {
-      "surface": "אִם",
+      "surface": "כי",
       "gloss": "melainkan"
     },
     {
-      "surface": "מָג֥וֹר",
-      "gloss": "Magor"
+      "surface": "אם",
+      "gloss": "melainkan"
     },
     {
-      "surface": "מִסָּבִֽיב",
-      "gloss": "Missabib"
+      "surface": "מגור",
+      "gloss": "Magor (Kegenangan)"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "Missaviv (di Sekeliling)"
     }
   ],
-  "timestamp": "2026-08-08T13:21:55.672068278Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:05.047128935Z",
+  "model": "glm-5.3"
 }

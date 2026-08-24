@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan seorang laki-laki yang bersetubuh dengan seorang perempuan yang sedang sakit, dan dinyatakannya ⟨את⟩ telanjangnya — ⟨את⟩ sumbernya telah ditarahkan, dan ia telah menyatakan ⟨את⟩ sumber darahnya, maka keduanya akan dipotong dari tengah umat mereka.",
+  "translation": "Dan seorang laki-laki yang bersetubuh ⟨את⟩ dengan seorang perempuan yang sedang sakit, dan dinyatakannya ⟨את⟩ telanjangnya — ⟨את⟩ sumbernya telah ditarahkan, dan ia telah menyatakan ⟨את⟩ sumber darahnya, maka keduanya akan dipotong dari tengah umat mereka.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "dengan",
+      "gloss": "⟨את⟩ dengan",
       "marks": "seorang perempuan"
     },
     {
@@ -96,6 +96,6 @@
       "gloss": "umat mereka"
     }
   ],
-  "timestamp": "2026-08-08T10:38:05.084795865Z",
+  "timestamp": "2026-08-24T17:55:27.205981458Z",
   "model": "glm-5.2"
 }

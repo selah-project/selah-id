@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 21,
-  "translation": "Siapkan ⟨the⟩ meja, pasang ⟨the⟩ pengintai, makan, minum — bersiaplah, ⟨hai⟩ para pembesar, olesi ⟨the⟩ perisai!",
+  "translation": "Menghiaslah ⟨di⟩ meja, mengintailah si penjaga ⟨di⟩ tempat pengintaiannya; makanlah, minumlah; bangkitlah, hai para pemuka, olesilah perisai!",
   "tokens": [
     {
       "surface": "ערך",
-      "gloss": "siapkan"
+      "gloss": "Menghiaslah"
     },
     {
       "surface": "השלחן",
@@ -17,37 +17,37 @@
     },
     {
       "surface": "צפה",
-      "gloss": "pasang"
+      "gloss": "mengintailah"
     },
     {
       "surface": "הצפית",
-      "gloss": "pengintai"
+      "gloss": "si penjaga"
     },
     {
       "surface": "אכול",
-      "gloss": "makan"
+      "gloss": "makanlah"
     },
     {
       "surface": "שתה",
-      "gloss": "minum"
+      "gloss": "minumlah"
     },
     {
       "surface": "קומו",
-      "gloss": "bersiaplah"
+      "gloss": "bangkitlah"
     },
     {
       "surface": "השרים",
-      "gloss": "para pembesar"
+      "gloss": "para pemuka"
     },
     {
       "surface": "משחו",
-      "gloss": "olesi"
+      "gloss": "olesilah"
     },
     {
       "surface": "מגן",
       "gloss": "perisai"
     }
   ],
-  "timestamp": "2026-08-08T08:19:32.397569809Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:48.946967945Z",
+  "model": "glm-5.3"
 }

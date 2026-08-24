@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 35,
-  "translation": "Lalu Mushe mengumpulkan ⟨את⟩ seluruh jemaat bani Yisra'el, dan berkata kepada mereka, “Inilah perkataan yang diperintahkan Yahweh untuk dilakukan ⟨אתם⟩.”",
+  "translation": "Lalu Musa menghimpun ⟨את⟩ seluruh jemaat Bani Israel, dan berkata kepada mereka: Inilah perkataan yang diperintahkan Yahweh untuk dilakukan ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ויקהל",
-      "gloss": "Lalu mengumpulkan"
+      "gloss": "menghimpun"
     },
     {
       "surface": "משה",
-      "gloss": "Mushe"
+      "gloss": "Musa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seluruh jemaat bani Yisra'el"
+      "marks": "seluruh jemaat Bani Israel"
     },
     {
       "surface": "כל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "bani"
+      "gloss": "Bani"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "ויאמר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "Inilah"
+      "gloss": "ini"
     },
     {
       "surface": "הדברים",
@@ -70,10 +70,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": ""
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "perkataan itu"
     }
   ],
-  "timestamp": "2026-08-09T01:38:30.733328215Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.144891825Z",
+  "model": "glm-5.3"
 }

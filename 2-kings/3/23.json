@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan mereka berkata: “Darah ini! Pasti ⟨הָחֳרֵב⟩ mereka telah saling menghancurkan, raja-raja itu, dan mereka memukul, masing-masing ⟨את⟩ sesamanya. Maka sekarang, kepada jarahan, Moab!”",
+  "translation": "Dan mereka berkata: “Darah ini! Para raja pasti telah saling membunuh, masing-masing mengalahkan ⟨את⟩ temannya. Maka sekarang, rampaslah, Moab!”",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "dan mereka berkata"
+      "gloss": "Dan mereka berkata"
     },
     {
       "surface": "דם",
-      "gloss": "darah"
+      "gloss": "Darah"
     },
     {
       "surface": "זה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "החרב",
-      "gloss": "pasti hancur"
+      "gloss": "pasti telah"
     },
     {
       "surface": "נחרבו",
-      "gloss": "mereka telah dihancurkan"
+      "gloss": "saling membunuh"
     },
     {
       "surface": "המלכים",
-      "gloss": "raja-rajamu"
+      "gloss": "para raja"
     },
     {
       "surface": "ויכו",
-      "gloss": "dan mereka memukul"
+      "gloss": "masing-masing mengalahkan"
     },
     {
       "surface": "איש",
@@ -42,25 +42,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sesamanya"
+      "marks": "temannya"
     },
     {
       "surface": "רעהו",
-      "gloss": "sesamanya"
+      "gloss": "temannya"
     },
     {
       "surface": "ועתה",
-      "gloss": "maka sekarang"
+      "gloss": "Maka sekarang"
     },
     {
       "surface": "לשלל",
-      "gloss": "kepada jarahan"
+      "gloss": "rampaslah"
     },
     {
       "surface": "מואב",
       "gloss": "Moab"
     }
   ],
-  "timestamp": "2026-08-08T11:05:29.340918784Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:41.629187458Z",
+  "model": "glm-5.3"
 }

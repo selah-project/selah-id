@@ -5,65 +5,65 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 21,
-  "translation": "Perempuan pelacur dan perempuan ternajis tidak boleh mereka ambil, dan perempuan yang diceraikan dari suaminya tidak boleh mereka ambil, sebab kudus ⟨הוא⟩ bagi Elohim-nya.",
+  "translation": "Perempuan pelacur dan perempuan yang dinajiskan tidak boleh mereka ambil, dan perempuan yang diceraikan dari suaminya tidak boleh mereka ambil, sebab kudus ⟨adalah⟩ ia bagi Elohim-nya.",
   "tokens": [
     {
-      "surface": "אִשָּׁ֨ה",
+      "surface": "אשה",
       "gloss": "perempuan"
     },
     {
-      "surface": "זֹנָ֤ה",
+      "surface": "זנה",
       "gloss": "pelacur"
     },
     {
-      "surface": "וַחֲלָלָה֙",
-      "gloss": "dan perempuan ternajis"
+      "surface": "וחללה",
+      "gloss": "dan yang dinajiskan"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "יִקָּ֔חוּ",
-      "gloss": "mereka boleh mengambil"
+      "surface": "יקחו",
+      "gloss": "boleh mereka ambil"
     },
     {
-      "surface": "וְאִשָּׁ֛ה",
+      "surface": "ואשה",
       "gloss": "dan perempuan"
     },
     {
-      "surface": "גְּרוּשָׁ֥ה",
+      "surface": "גרושה",
       "gloss": "yang diceraikan"
     },
     {
-      "surface": "מֵאִישָׁ֖הּ",
+      "surface": "מאישה",
       "gloss": "dari suaminya"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "יִקָּ֑חוּ",
-      "gloss": "mereka boleh mengambil"
+      "surface": "יקחו",
+      "gloss": "boleh mereka ambil"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "sebab"
     },
     {
-      "surface": "קָדֹ֥שׁ",
+      "surface": "קדש",
       "gloss": "kudus"
     },
     {
-      "surface": "ה֖וּא",
-      "gloss": "dia"
+      "surface": "הוא",
+      "gloss": "ia"
     },
     {
-      "surface": "לֵאלֹהָֽיו",
+      "surface": "לאלהיו",
       "gloss": "bagi Elohim-nya"
     }
   ],
-  "timestamp": "2026-08-08T07:11:12.185427543Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:52.720608537Z",
+  "model": "glm-5.3"
 }

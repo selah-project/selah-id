@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan ⟨ia⟩ mengukur ⟨את⟩ lebar bukaan ⟨the⟩ pintu gerbang: sepuluh hasta; panjang ⟨the⟩ pintu gerbang: tiga-belas hasta.",
+  "translation": "Dan ia mengukur ⟨את⟩ lebar bukaan pintu gerbang itu: sepuluh hasta; panjang pintu gerbang itu tiga belas hasta.",
   "tokens": [
     {
       "surface": "וימד",
-      "gloss": "Dan ⟨ia⟩ mengukur"
+      "gloss": "Dan ia mengukur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lebar"
+      "marks": "lebar bukaan pintu gerbang itu"
     },
     {
       "surface": "רחב",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "bukaan"
+      "gloss": "bukaan pintu"
     },
     {
       "surface": "השער",
-      "gloss": "⟨the⟩ pintu gerbang"
+      "gloss": "pintu gerbang itu"
     },
     {
       "surface": "עשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "השער",
-      "gloss": "⟨the⟩ pintu gerbang"
+      "gloss": "pintu gerbang itu"
     },
     {
       "surface": "שלוש",
@@ -57,6 +57,6 @@
       "gloss": "hasta"
     }
   ],
-  "timestamp": "2026-08-08T11:26:37.783405826Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:46.059519699Z",
+  "model": "glm-5.3"
 }

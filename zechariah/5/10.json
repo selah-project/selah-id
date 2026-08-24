@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "id",
   "chapter": 5,
-  "translation": "Lalu kataku kepada ⟨ה⟩ malakh yang berbicara di dalam diriku, “Ke mana mereka sedang membawa ⟨את⟩ ⟨ה⟩ efa itu?”",
+  "translation": "Maka berkatalah aku kepada malakh yang berbicara padaku, Ke mana mereka membawa ⟨את⟩ eifah itu?",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "dan kataku"
+      "gloss": "Maka berkatalah aku"
     },
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המלאך",
-      "gloss": "⟨ה⟩ malakh"
+      "gloss": "malakh itu"
     },
     {
       "surface": "הדבר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בי",
-      "gloss": "di dalam diriku"
+      "gloss": "padaku"
     },
     {
       "surface": "אנה",
-      "gloss": "ke mana"
+      "gloss": "Ke mana"
     },
     {
       "surface": "המה",
@@ -37,18 +37,18 @@
     },
     {
       "surface": "מולכות",
-      "gloss": "sedang membawa"
+      "gloss": "membawa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "efa"
+      "marks": "eifah itu"
     },
     {
       "surface": "האיפה",
-      "gloss": "⟨ה⟩ efa itu"
+      "gloss": "eifah itu"
     }
   ],
-  "timestamp": "2026-08-08T11:34:32.820192014Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:27.608317717Z",
+  "model": "glm-5.3"
 }

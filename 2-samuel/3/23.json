@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 3,
-  "translation": "Maka Yoav dan seluruh pasukan yang bersamanya datang, dan mereka memberitahukan kepada Yoav, katanya: Avner bin Ner telah datang kepada raja, lalu ia menyuruhnya pergi dan ia berjalan dalam shalom.",
+  "translation": "Maka Yoav dan seluruh pasukan yang ⟨את⟩ bersamanya datang, dan mereka memberitahukan kepada Yoav, katanya: Avner bin Ner telah datang kepada raja, lalu ia menyuruhnya pergi dan ia berjalan dalam shalom.",
   "tokens": [
     {
       "surface": "ויואב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "באו",
@@ -80,6 +80,6 @@
       "gloss": "dalam shalom"
     }
   ],
-  "timestamp": "2026-08-08T10:58:29.539380899Z",
+  "timestamp": "2026-08-24T17:55:27.051989575Z",
   "model": "glm-5.2"
 }

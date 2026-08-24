@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan mereka memanggil kepada Lot, dan berkata kepadanya, “Di mana ⟨the⟩ laki-laki yang datang kepadamu malam ini? Bawalah mereka keluar kepada kami, dan kami akan mengenal ⟨את⟩ mereka.”",
+  "translation": "Mereka memanggil Lot dan berkata kepadanya, “Di mana ⟨את⟩ orang-orang yang datang kepadamu malam ini? Keluarkanlah mereka kepada kami, supaya kami mengenal ⟨את⟩ mereka.”",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "dan mereka memanggil"
+      "gloss": "Mereka memanggil"
     },
     {
       "surface": "אל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "איה",
-      "gloss": "di mana"
+      "gloss": "Di mana"
     },
     {
       "surface": "האנשים",
-      "gloss": "laki-laki"
+      "gloss": "orang-orang"
     },
     {
       "surface": "אשר",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "הוציאם",
-      "gloss": "bawalah mereka keluar"
+      "gloss": "Keluarkanlah mereka"
     },
     {
       "surface": "אלינו",
       "gloss": "kepada kami"
     },
     {
-      "surface": "ונדעה",
-      "gloss": "dan kami akan mengenal"
+      "surface": "וידעה",
+      "gloss": "supaya kami mengenal"
     },
     {
       "surface": "אתם",
@@ -69,6 +69,6 @@
       "marks": "mereka"
     }
   ],
-  "timestamp": "2026-08-08T10:21:04.277723242Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:11.294704844Z",
+  "model": "glm-5.3"
 }

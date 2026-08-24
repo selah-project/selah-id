@@ -5,50 +5,50 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan ⟨ia⟩ membuat ⟨את⟩ tabir itu dari kain biru-gelap dan ungu dan merah-bениям dan lenan halus, dan ia membuat naung kerub-kerub di atasnya.",
+  "translation": "Dan ia membuat ⟨את⟩ tabir itu dari kain biru-ungu, kain merah-ungu, kain kirmizi, dan lenan halus, dan ia menggariskan kerub-kerub di atasnya.",
   "tokens": [
     {
-      "surface": "וַיַּ֨עַשׂ֙",
+      "surface": "ויעש",
       "gloss": "Dan ia membuat"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "tabir itu"
     },
     {
-      "surface": "הַפָּרֹ֔כֶת",
+      "surface": "הפרכת",
       "gloss": "tabir itu"
     },
     {
-      "surface": "תְּכֵ֥לֶת",
-      "gloss": "kain biru-gelap"
+      "surface": "תכלת",
+      "gloss": "kain biru-ungu"
     },
     {
-      "surface": "וְאַרְגָּמָ֖ן",
-      "gloss": "dan ungu"
+      "surface": "וארגמן",
+      "gloss": "kain merah-ungu"
     },
     {
-      "surface": "וְכַרְמִ֣יל",
-      "gloss": "dan merah-bениям"
+      "surface": "וכרמיל",
+      "gloss": "kain kirmizi"
     },
     {
-      "surface": "וּב֑וּץ",
-      "gloss": "dan lenan halus"
+      "surface": "ובוץ",
+      "gloss": "lenan halus"
     },
     {
-      "surface": "וַיַּ֥עַל",
-      "gloss": "dan ia membuat naung"
+      "surface": "ויעל",
+      "gloss": "dan ia menggariskan"
     },
     {
-      "surface": "עָלָ֖יו",
+      "surface": "עליו",
       "gloss": "di atasnya"
     },
     {
-      "surface": "כְּרוּבִֽים",
+      "surface": "כרובים",
       "gloss": "kerub-kerub"
     }
   ],
-  "timestamp": "2026-08-08T12:04:35.705664685Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:32.243099222Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 2,
-  "translation": "Dan jika persembahan minchah di atas ⟨ה⟩ panggangan ⟨adalah⟩ qorbanmu — semolina tercampur dengan minyak, roti tak beragi ⟨ialah⟩ ia.",
+  "translation": "Dan jika persembahanmu ⟨⟨adalah⟩⟩ minchah di atas ⟨⟨wajan⟩⟩ pemanggang, korbanmu: tepung terbaik yang dicampur dengan minyak, roti tanpa ragi ⟨⟨haruslah⟩⟩ itu.",
   "tokens": [
     {
       "surface": "ואם",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "המחבת",
-      "gloss": "⟨ה⟩ panggangan"
+      "gloss": "wajan pemanggang"
     },
     {
       "surface": "קרבנך",
-      "gloss": "qorbanmu"
+      "gloss": "korbanmu"
     },
     {
       "surface": "סלת",
-      "gloss": "semolina"
+      "gloss": "tepung terbaik"
     },
     {
       "surface": "בלולה",
-      "gloss": "tercampur"
+      "gloss": "yang dicampur"
     },
     {
       "surface": "בשמן",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "מצה",
-      "gloss": "roti tak beragi"
+      "gloss": "roti tanpa ragi (matzah)"
     },
     {
       "surface": "תהיה",
-      "gloss": "⟨ialah⟩"
+      "gloss": "haruslah itu"
     }
   ],
-  "timestamp": "2026-08-08T10:33:50.989350546Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:48.416066966Z",
+  "model": "glm-5.3"
 }

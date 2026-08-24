@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 30,
-  "translation": "Karena sesaat ⟨⟨adalah⟩⟩ murka-Nya, seumur hidup ⟨adalah⟩ kerelaan-Nya; pada waktu senja bermalam tangisan, tetapi pada waktu pagi bersorak-sorai.",
+  "translation": "Sebab sesaat saja ⟨adalah⟩ murka-Nya, kehidupan ⟨adalah⟩ dalam kerelaan-Nya; pada waktu senja bersediamalah tangisan, tetapi pada waktu pagi sorak-sorai.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Karena"
+      "gloss": "Sebab"
     },
     {
       "surface": "רגע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "באפו",
-      "gloss": "dalam murka-Nya"
+      "gloss": "murka-Nya"
     },
     {
       "surface": "חיים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ילין",
-      "gloss": "bermalam"
+      "gloss": "bersediamalah"
     },
     {
       "surface": "בכי",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "רנה",
-      "gloss": "bersorak-sorai"
+      "gloss": "sorak-sorai"
     }
   ],
-  "timestamp": "2026-08-08T09:10:11.164091582Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:54.697283659Z",
+  "model": "glm-5.3"
 }

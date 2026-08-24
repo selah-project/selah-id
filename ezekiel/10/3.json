@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 10,
-  "translation": "Dan ⟨הכרובים⟩ berdiri di sebelah selatan ⟨הבית⟩ ketika ⟨האיש⟩ itu masuk, dan awan itu memenuhi ⟨את⟩ halaman dalam.",
+  "translation": "Para kerub berdiri di sisi selatan ⟨(the)⟩ rumah itu ketika orang itu masuk, dan awan itu memenuhi ⟨את⟩ pelataran bagian dalam.",
   "tokens": [
     {
       "surface": "והכרבים",
-      "gloss": "Dan para keruv"
+      "gloss": "para kerub"
     },
     {
       "surface": "עמדים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מימין",
-      "gloss": "di sebelah selatan"
+      "gloss": "di sisi selatan"
     },
     {
       "surface": "לבית",
-      "gloss": "⟨di sisi⟩ bait"
+      "gloss": "rumah itu"
     },
     {
       "surface": "בבאו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "sang laki-laki itu"
+      "gloss": "orang itu"
     },
     {
       "surface": "והענן",
@@ -42,17 +42,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "halaman dalam"
+      "marks": "pelataran bagian dalam"
     },
     {
       "surface": "החצר",
-      "gloss": "halaman"
+      "gloss": "pelataran"
     },
     {
       "surface": "הפנימית",
       "gloss": "bagian dalam"
     }
   ],
-  "timestamp": "2026-08-08T12:20:56.882574977Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:10.477103644Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 20,
-  "translation": "Ven-Hadad raja Aram mengumpulkan ⟨את⟩ segenap pasukannya, dan tiga puluh dua raja bersamanya, serta kuda dan kereta perang; ia maju dan mengepung Shomeron, lalu berperang melawannya.",
+  "translation": "Ven-Hadad raja Aram mengumpulkan ⟨את⟩ segenap pasukannya, dan tiga puluh dua raja ⟨את⟩ bersamanya, serta kuda dan kereta perang; ia maju dan mengepung Shomeron, lalu berperang melawannya.",
   "tokens": [
     {
       "surface": "ובן",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "וסוס",
@@ -89,6 +89,6 @@
       "gloss": "melawannya"
     }
   ],
-  "timestamp": "2026-08-08T08:07:35.897917391Z",
+  "timestamp": "2026-08-24T17:55:27.250532956Z",
   "model": "glm-5.2"
 }

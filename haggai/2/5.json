@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "id",
   "chapter": 2,
-  "translation": "⟨את⟩ firman yang kukatih ⟨bersama⟩ kamu ketika kamu keluar dari Mitsrayim, dan roh-Ku berdiri di tengah-tengahmu — janganlah takut!",
+  "translation": "⟨את⟩ firman yang kukatih ⟨את⟩ ⟨bersama⟩ kamu ketika kamu keluar dari Mitsrayim, dan roh-Ku berdiri di tengah-tengahmu — janganlah takut!",
   "tokens": [
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨bersama⟩ kamu"
+      "gloss": "⟨את⟩ ⟨bersama⟩ kamu"
     },
     {
       "surface": "בצאתכם",
@@ -57,6 +57,6 @@
       "gloss": "takut"
     }
   ],
-  "timestamp": "2026-08-08T11:34:25.966658674Z",
+  "timestamp": "2026-08-24T17:55:27.098536953Z",
   "model": "glm-5.2"
 }

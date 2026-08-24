@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 5,
-  "translation": "Bukan ⟨את⟩ nenek moyang kita Yahweh mengikat ⟨את⟩ perjanjian ini, melainkan bersama kita — kita, inilah yang ada di sini pada hari ini, kita semua yang hidup.",
+  "translation": "Bukan ⟨את⟩ nenek moyang kita Yahweh mengikat ⟨את⟩ perjanjian ini, melainkan ⟨את⟩ bersama kita — kita, inilah yang ada di sini pada hari ini, kita semua yang hidup.",
   "tokens": [
     {
       "surface": "לא",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "bersama kita"
+      "gloss": "⟨את⟩ bersama kita"
     },
     {
       "surface": "אנחנו",
@@ -74,6 +74,6 @@
       "gloss": "yang hidup"
     }
   ],
-  "timestamp": "2026-08-08T07:26:01.033315198Z",
+  "timestamp": "2026-08-24T17:55:27.175992546Z",
   "model": "glm-5.2"
 }

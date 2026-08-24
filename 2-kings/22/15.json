@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 22,
-  "translation": "Dan ⟨ia⟩ berkata kepada mereka: Beginilah firman Yahweh, Elohim Israel: Katakanlah kepada ⟨the⟩ laki-laki yang menyuruh ⟨את⟩ kalian kepada saya:",
+  "translation": "Dan ia berkata kepada mereka: Demikianlah kata Yahweh, Elohim Israel: Katakanlah kepada ⟨את⟩ orang yang mengutus kamu itu kepadaku",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "Dan ⟨ia⟩ berkata"
+      "gloss": "Dan ia berkata"
     },
     {
       "surface": "אליהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "Beginilah"
+      "gloss": "Demikianlah"
     },
     {
       "surface": "אמר",
-      "gloss": "firman"
+      "gloss": "kata"
     },
     {
       "surface": "יהוה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "kepada ⟨the⟩ laki-laki"
+      "gloss": "kepada orang"
     },
     {
       "surface": "אשר",
@@ -49,18 +49,18 @@
     },
     {
       "surface": "שלח",
-      "gloss": "menyuruh"
+      "gloss": "mengutus"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "kalian"
+      "marks": "kamu"
     },
     {
       "surface": "אלי",
-      "gloss": "kepada saya"
+      "gloss": "kepadaku"
     }
   ],
-  "timestamp": "2026-08-08T18:32:42.413145298Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:36.858633802Z",
+  "model": "glm-5.3"
 }

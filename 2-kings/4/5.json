@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 4,
-  "translation": "Maka pergilah dia dari padanya, lalu dikuncinya pintu di belakang dirinya dan di belakang anak-anaknya; mereka-mereka menghulurkan ⟨wadah⟩ kepadanya, dan dia menuang.",
+  "translation": "Maka pergilah dia ⟨את⟩ dari padanya, lalu dikuncinya pintu di belakang dirinya dan di belakang anak-anaknya; mereka-mereka menghulurkan ⟨wadah⟩ kepadanya, dan dia menuang.",
   "tokens": [
     {
       "surface": "ותלך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "dari padanya"
+      "gloss": "⟨את⟩ dari padanya"
     },
     {
       "surface": "ותסגר",
@@ -56,6 +56,6 @@
       "gloss": "menuang"
     }
   ],
-  "timestamp": "2026-08-08T12:16:48.861558348Z",
+  "timestamp": "2026-08-24T17:55:27.193952678Z",
   "model": "glm-5.2"
 }

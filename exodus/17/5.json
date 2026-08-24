@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 17,
-  "translation": "Lalu bersabda Yahweh kepada Mosheh: “Berjalanlah di depan ⟨the⟩ bangsa itu, dan bawalah bersama-sama engkau dari ⟨para⟩ tetua Yisra'el, dan tongkatmu yang dengan-engkau-memukul ⟨את⟩ sungai itu, ambillah di tanganmu, dan pergilah.”",
+  "translation": "Lalu Yahweh berfirman kepada Mosheh: “Berjalanlah di depan umat itu, dan bawalah bersamamu ⟨את⟩ beberapa dari para tua-tua Yisra'el, serta tongkatmu yang kau pukulkan ⟨את⟩ sungai itu — ambillah di tanganmu, dan pergilah.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lalu bersabda"
+      "gloss": "Lalu berfirman"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עבר",
-      "gloss": "berjalanlah"
+      "gloss": "Berjalanlah"
     },
     {
       "surface": "לפני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "bangsa itu"
+      "gloss": "umat itu"
     },
     {
       "surface": "וקח",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bersama-sama engkau"
+      "gloss": "⟨את⟩ bersamamu"
     },
     {
       "surface": "מזקני",
-      "gloss": "dari tetua"
+      "gloss": "beberapa dari para tua-tua"
     },
     {
       "surface": "ישראל",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "הכית",
-      "gloss": "engkau memukul"
+      "gloss": "kau pukulkan"
     },
     {
       "surface": "בו",
-      "gloss": "dengan-nya"
+      "gloss": "dengannya"
     },
     {
       "surface": "את",
@@ -89,6 +89,6 @@
       "gloss": "dan pergilah"
     }
   ],
-  "timestamp": "2026-08-08T10:31:06.352618938Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:01.241221447Z",
+  "model": "glm-5.3"
 }

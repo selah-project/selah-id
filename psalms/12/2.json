@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 12,
-  "translation": "Selamatkanlah, Yahweh, se orang חסיד telah berakhir, se yang setia telah lenyap dari antara anak-anak manusia.",
+  "translation": "Tolonglah, wahai Yahweh, sebab telah habislah ⟨orang⟩ yang hesed, sebab telah lenyap orang-orang setia dari antara anak-anak manusia.",
   "tokens": [
     {
       "surface": "הושיעה",
-      "gloss": "selamatkanlah"
+      "gloss": "Tolonglah"
     },
     {
       "surface": "יהוה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "se"
+      "gloss": "sebab"
     },
     {
       "surface": "גמר",
-      "gloss": "telah berakhir"
+      "gloss": "telah habislah"
     },
     {
       "surface": "חסיד",
-      "gloss": "orang חסיד"
+      "gloss": "yang hesed"
     },
     {
       "surface": "כי",
-      "gloss": "se"
+      "gloss": "sebab"
     },
     {
       "surface": "פסו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אמונים",
-      "gloss": "yang setia"
+      "gloss": "orang-orang setia"
     },
     {
       "surface": "מבני",
@@ -48,6 +48,6 @@
       "gloss": "manusia"
     }
   ],
-  "timestamp": "2026-08-08T11:35:46.260300947Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:10.882676149Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 126,
-  "translation": "Nyanyian naungan. Ketika Yahweh mengembalikan ⟨את⟩ pemulangan Tzion, kami ⟨היינו⟩ seperti orang-orang yang bermimpi.",
+  "translation": "Nyanyian Ascent. Ketika Yahweh memulihkan ⟨את⟩ keadaan kembalinya Tzion, kami menjadi seperti orang-orang yang bermimpi.",
   "tokens": [
     {
       "surface": "שיר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "המעלות",
-      "gloss": "naungan"
+      "gloss": "Ascent"
     },
     {
       "surface": "בשוב",
-      "gloss": "Ketika mengembalikan"
+      "gloss": "Ketika memulihkan"
     },
     {
       "surface": "יהוה",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pemulangan"
+      "marks": "keadaan kembalinya Tzion"
     },
     {
       "surface": "שיבת",
-      "gloss": "pemulangan"
+      "gloss": "keadaan kembalinya"
     },
     {
       "surface": "ציון",
@@ -38,13 +38,13 @@
     },
     {
       "surface": "היינו",
-      "gloss": "kami"
+      "gloss": "kami menjadi"
     },
     {
       "surface": "כחלמים",
       "gloss": "seperti orang-orang yang bermimpi"
     }
   ],
-  "timestamp": "2026-08-08T09:27:53.038259523Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:45.428720550Z",
+  "model": "glm-5.3"
 }

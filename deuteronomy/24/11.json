@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 24,
-  "translation": "Di luar engkau berdiri, dan ⟨ה⟩ orang yang kepadanya engkau meminjamkan akan mengeluarkan ⟨את⟩ jaminan itu ke luar kepadamu.",
+  "translation": "Di luar engkau berdiri, dan ⟨האישׁ⟩ laki-laki yang ◄אתה► engkau ◄נשה► meminjami dia akan membawa keluar kepadamu ⟨את⟩ barang gadaian itu ke luar.",
   "tokens": [
     {
       "surface": "בחוץ",
-      "gloss": "Di luar"
+      "gloss": "di luar"
     },
     {
       "surface": "תעמד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "והאיש",
-      "gloss": "dan ⟨ה⟩ orang"
+      "gloss": "dan laki-laki itu"
     },
     {
       "surface": "אשר",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "אתה",
-      "gloss": "kepadanya engkau"
+      "gloss": "engkau"
     },
     {
       "surface": "נשה",
-      "gloss": "meminjamkan"
+      "gloss": "meminjami"
     },
     {
       "surface": "בו",
-      "gloss": "kepadanya"
+      "gloss": "dia"
     },
     {
       "surface": "יוציא",
-      "gloss": "akan mengeluarkan"
+      "gloss": "akan membawa keluar"
     },
     {
       "surface": "אליך",
@@ -46,17 +46,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jaminan itu"
+      "marks": "barang gadaian itu"
     },
     {
       "surface": "העבוט",
-      "gloss": "jaminan itu"
+      "gloss": "barang gadaian itu"
     },
     {
       "surface": "החוצה",
       "gloss": "ke luar"
     }
   ],
-  "timestamp": "2026-08-08T07:30:01.683446151Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:36.530318967Z",
+  "model": "glm-5.3"
 }

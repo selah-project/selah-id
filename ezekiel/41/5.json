@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 41,
-  "translation": "Dan ⟨ia⟩ mengukur dinding ⟨the⟩ bait: enam hasta; dan lebar ⟨the⟩ ruang samping empat hasta, sekeliling sekeliling ⟨the⟩ bait sekeliling.",
+  "translation": "Lalu ia mengukur ⟨את⟩ dinding rumah itu: enam hasta, dan lebar ruang samping itu empat hasta, berkeliling berkeliling mengelilingi rumah itu berkeliling.",
   "tokens": [
     {
       "surface": "וימד",
-      "gloss": "dan mengukur"
+      "gloss": "Lalu ia mengukur"
     },
     {
       "surface": "קיר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "bait"
+      "gloss": "rumah itu"
     },
     {
       "surface": "שש",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הצלע",
-      "gloss": "ruang samping"
+      "gloss": "ruang samping itu"
     },
     {
       "surface": "ארבע",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "סביב",
-      "gloss": "sekeliling"
+      "gloss": "berkeliling"
     },
     {
       "surface": "סביב",
-      "gloss": "sekeliling"
+      "gloss": "berkeliling"
     },
     {
       "surface": "לבית",
-      "gloss": "bait"
+      "gloss": "mengelilingi rumah itu"
     },
     {
       "surface": "סביב",
-      "gloss": "sekeliling"
+      "gloss": "berkeliling"
     }
   ],
-  "timestamp": "2026-08-08T08:54:51.926401618Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:21.104034355Z",
+  "model": "glm-5.3"
 }

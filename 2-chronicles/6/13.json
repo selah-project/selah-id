@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 6,
-  "translation": "Karena Shelomoh telah membuat ⟨sebuah⟩ kiyor tembaga dan menempatkannya di tengah ⟨ה⟩ azarah, lima hasta panjangnya dan lima hasta lebarnya dan tiga hasta tingginya; lalu ⟨ia⟩ berdiri di atasnya dan berlutut di atas kedua lututnya di depan seluruh qahal Yisra'el, dan menyebarkan kedua telapak tangannya ke arah langit.",
+  "translation": "Sebab Shelomah telah membuat sebuah panggung tembaga dan menaruhnya di tengah ⟨ה⟩ pelataran: lima hasta panjangnya, lima hasta lebarnya, dan tiga hastanya tingginya; ia berdiri di atasnya, berlutut di atas kedua lututnya di hadapan seluruh jemaah Yisrael, lalu mengulurkan kedua telapak tangannya ke arah langit.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "Sebab"
     },
     {
       "surface": "עשה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Shelomah"
     },
     {
       "surface": "כיור",
-      "gloss": "kiyor"
+      "gloss": "sebuah panggung"
     },
     {
       "surface": "נחשת",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויתנהו",
-      "gloss": "dan menempatkannya"
+      "gloss": "dan menaruhnya"
     },
     {
       "surface": "בתוך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "העזרה",
-      "gloss": "azarah"
+      "gloss": "pelataran"
     },
     {
       "surface": "חמש",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ואמות",
-      "gloss": "dan hasta"
+      "gloss": "dan hastanya"
     },
     {
       "surface": "שלוש",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "ויעמד",
-      "gloss": "lalu berdiri"
+      "gloss": "dan ia berdiri"
     },
     {
       "surface": "עליו",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "ויברך",
-      "gloss": "dan berlutut"
+      "gloss": "dan berlutut (memberkak)"
     },
     {
       "surface": "על",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "נגד",
-      "gloss": "di depan"
+      "gloss": "di hadapan"
     },
     {
       "surface": "כל",
@@ -105,15 +105,15 @@
     },
     {
       "surface": "קהל",
-      "gloss": "qahal"
+      "gloss": "jemaah"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ויפרש",
-      "gloss": "dan menyebarkan"
+      "gloss": "lalu mengulurkan"
     },
     {
       "surface": "כפיו",
@@ -124,6 +124,6 @@
       "gloss": "ke arah langit"
     }
   ],
-  "timestamp": "2026-08-08T10:11:50.113690943Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:54.363809511Z",
+  "model": "glm-5.3"
 }

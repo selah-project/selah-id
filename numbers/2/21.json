@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 2,
-  "translation": "dan pasukannya ⟨⟨dan⟩⟩ yang terhitung dari mereka ⟨adalah⟩ dua dan tiga puluh ribu dan dua ratus.",
+  "translation": "dan pasukannya, dan yang terdaftar dari mereka, dua ribu tiga puluh ribu — dua dan tiga puluh ribu serta dua ratus.",
   "tokens": [
     {
       "surface": "וצבאו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ופקדיהם",
-      "gloss": "dan yang terhitung dari mereka"
+      "gloss": "dan yang terdaftar dari mereka"
     },
     {
       "surface": "שנים",
@@ -32,6 +32,6 @@
       "gloss": "dan dua ratus"
     }
   ],
-  "timestamp": "2026-08-08T07:14:07.842913803Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:31.706315311Z",
+  "model": "glm-5.3"
 }

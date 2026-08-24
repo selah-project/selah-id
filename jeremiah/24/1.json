@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 24,
-  "translation": "Yahweh memperlihatkan kepadaku, dan lihat, dua keranjang ara yang ditaruh di depan ⟨היכל⟩ Yahweh, setelah pengasingan oleh Nevukhadretstsar raja Bavel — ⟨את⟩ Yekhonyahu ben Yehoyakim raja Yehudah, dan ⟨את⟩ para pembesar Yehudah, dan ⟨את⟩ para tukang, dan ⟨את⟩ para pandai logam — dari Yerushalayim, dan ia membawa mereka ke Bavel.",
+  "translation": "Yahweh memperlihatkan kepadaku, dan lihatlah, dua bakul ara diletakkan di depan ⟨ה⟩ istana Yahweh, setelah Nevukhadretsar, raja Bavel, mengasingkan ⟨את⟩ Yekhanyahu bin Yehoyakim, raja Yehudah, dan ⟨את⟩ para pemimpin Yehudah, dan ⟨את⟩ para tukang dan ⟨את⟩ para pandai besi dari Yerushalayim, lalu membawa mereka ke Bavel.",
   "tokens": [
     {
       "surface": "הראני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "dan lihat"
+      "gloss": "dan lihatlah"
     },
     {
       "surface": "שני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "דודאי",
-      "gloss": "keranjang"
+      "gloss": "bakul"
     },
     {
       "surface": "תאנים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מועדים",
-      "gloss": "yang ditaruh"
+      "gloss": "diletakkan"
     },
     {
       "surface": "לפני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "היכל",
-      "gloss": "⟨hai̇khal⟩"
+      "gloss": "istana"
     },
     {
       "surface": "יהוה",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הגלות",
-      "gloss": "pengasingan"
+      "gloss": "mengasingkan"
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "Nevukhadretstsar"
+      "gloss": "Nevukhadretsar"
     },
     {
       "surface": "מלך",
@@ -70,15 +70,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yekhonyahu"
+      "marks": "Yekhanyahu"
     },
     {
       "surface": "יכניהו",
-      "gloss": "Yekhonyahu"
+      "gloss": "Yekhanyahu"
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "bin"
     },
     {
       "surface": "יהויקים",
@@ -95,11 +95,11 @@
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "para pembesar"
+      "marks": "para pemimpin"
     },
     {
       "surface": "שרי",
-      "gloss": "para pembesar"
+      "gloss": "para pemimpin"
     },
     {
       "surface": "יהודה",
@@ -117,11 +117,11 @@
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "para pandai logam"
+      "marks": "para pandai besi"
     },
     {
       "surface": "המסגר",
-      "gloss": "para pandai logam"
+      "gloss": "para pandai besi"
     },
     {
       "surface": "מירושלם",
@@ -129,13 +129,13 @@
     },
     {
       "surface": "ויבאם",
-      "gloss": "dan ia membawa mereka"
+      "gloss": "lalu membawa mereka"
     },
     {
       "surface": "בבל",
       "gloss": "ke Bavel"
     }
   ],
-  "timestamp": "2026-08-09T01:41:54.424191277Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:09.833870626Z",
+  "model": "glm-5.3"
 }

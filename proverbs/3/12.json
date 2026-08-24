@@ -5,16 +5,16 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 3,
-  "translation": "כי ⟨את⟩ אשר יאהב יהוה, יוכיח; וכאב ⟨את⟩ בן ירצה.",
+  "translation": "Sebab ⟨את⟩ yang dikasihi Yahweh, ⟨dia⟩ ditegurnya, dan seperti seorang bapa ⟨את⟩ anak yang dikenannya.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "Sebab"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dia yang"
+      "marks": "yang dikasihi Yahweh"
     },
     {
       "surface": "אשר",
@@ -30,26 +30,26 @@
     },
     {
       "surface": "יוכיח",
-      "gloss": "ditegur-Nya"
+      "gloss": "ditegurnya"
     },
     {
       "surface": "וכאב",
-      "gloss": "dan seperti seorang ayah"
+      "gloss": "dan seperti seorang bapa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "putra"
+      "marks": "anak"
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "anak"
     },
     {
       "surface": "ירצה",
-      "gloss": "Ia berkenan"
+      "gloss": "yang dikenannya"
     }
   ],
-  "timestamp": "2026-08-08T11:48:41.525887192Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:02.801597747Z",
+  "model": "glm-5.3"
 }

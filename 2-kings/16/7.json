@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 16,
-  "translation": "Maka Aḥaz mengirim utusan kepada Tiglat-Pileser melekat אשור, mengatakan: „Hamba-Mu dan ben-Mu ⟨adalah⟩ aku; naiklah dan selamatkanlah aku dari tangan raja Aram dan dari tangan raja Yisra'el, yang bangkit melawan aku.”",
+  "translation": "Lalu Ahas mengirim utusan kepada Tiglat-Pileser melekin Ashur, kataannya: “Hambamu dan anakmu aku ini; naiklah dan selamatkanlah aku dari tangan melekin Aram dan dari tangan melekin Yisrael yang bangkit melawan aku.”",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Maka mengirim"
+      "gloss": "Lalu ... mengirim"
     },
     {
       "surface": "אחז",
-      "gloss": "Aḥaz"
+      "gloss": "Ahas"
     },
     {
       "surface": "מלאכים",
-      "gloss": "utusan-utusan"
+      "gloss": "utusan"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תגלת",
-      "gloss": "Tiglat"
+      "gloss": "Tiglat-"
     },
     {
       "surface": "פלסר",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "מלך",
-      "gloss": "raja"
+      "gloss": "melekin"
     },
     {
       "surface": "אשור",
-      "gloss": "Asyur"
+      "gloss": "Ashur"
     },
     {
       "surface": "לאמר",
-      "gloss": "mengatakan"
+      "gloss": "kataannya"
     },
     {
       "surface": "עבדך",
-      "gloss": "hamba-Mu"
+      "gloss": "Hambamu"
     },
     {
       "surface": "ובנך",
-      "gloss": "dan ben-Mu"
+      "gloss": "dan anakmu"
     },
     {
       "surface": "אני",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "raja"
+      "gloss": "melekin"
     },
     {
       "surface": "ארם",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "raja"
+      "gloss": "melekin"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "הקומים",
@@ -96,6 +96,6 @@
       "gloss": "melawan aku"
     }
   ],
-  "timestamp": "2026-08-08T08:13:13.194653129Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:03.422642324Z",
+  "model": "glm-5.3"
 }

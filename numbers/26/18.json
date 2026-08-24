@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 26,
-  "translation": "אֵלֶּה מִשְׁפְּחֹת בְּנֵי-גָד לִפְקֻדֵיהֶם אַרְבָּעִים אֶלֶף וַחֲמֵשׁ מֵאוֹת",
+  "translation": "Inilah marga-marga bani Gad menurut jumlah pendaftaran mereka: empat puluh ribu lima ratus.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Ini"
+      "gloss": "inilah"
     },
     {
       "surface": "משפחת",
-      "gloss": "mishpaḥot"
+      "gloss": "marga-marga"
     },
     {
       "surface": "בני",
-      "gloss": "bnei"
+      "gloss": "bani"
     },
     {
       "surface": "גד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לפקדיהם",
-      "gloss": "lipkudeihem"
+      "gloss": "menurut jumlah pendaftaran mereka"
     },
     {
       "surface": "ארבעים",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "וחמש",
-      "gloss": "ve-ḥamesh"
+      "gloss": "lima"
     },
     {
       "surface": "מאות",
-      "gloss": "me'ot"
+      "gloss": "ratus"
     }
   ],
-  "timestamp": "2026-08-08T07:21:09.568489610Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:26.458131775Z",
+  "model": "glm-5.3"
 }

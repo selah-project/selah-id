@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 34,
-  "translation": "Dan mendengarkan semua para pembesar dan semua ⟨the⟩ rakyat yang telah masuk ke dalam perjanjian untuk memerdekakan setiap orang ⟨את⟩ budak laki-lakinya dan setiap orang ⟨את⟩ budak perempuannya sebagai orang-orang merdeka, supaya jangan ada perhambaan atas mereka lagi; dan mereka mendengarkan dan memerdekakan mereka.",
+  "translation": "Lalu mendengarlah semua para pemimpin dan seluruh rakyat yang telah masuk ke dalam berit untuk melepaskan setiap orang hamba laki-lakinya dan setiap orang hamba perempuannya ⟨sebagai⟩ orang-orang merdeka, supaya tidak ada lagi perhambaan atas mereka; dan mereka mendengar, lalu melepaskan mereka.",
   "tokens": [
     {
       "surface": "וישמעו",
-      "gloss": "Dan mendengarkan"
+      "gloss": "Lalu mendengarlah"
     },
     {
       "surface": "כל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "השרים",
-      "gloss": "para pembesar"
+      "gloss": "para pemimpin"
     },
     {
       "surface": "וכל",
-      "gloss": "dan semua"
+      "gloss": "dan seluruh"
     },
     {
       "surface": "העם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בברית",
-      "gloss": "ke dalam perjanjian"
+      "gloss": "ke dalam berit"
     },
     {
       "surface": "לשלח",
-      "gloss": "untuk memerdekakan"
+      "gloss": "untuk melepaskan"
     },
     {
       "surface": "איש",
@@ -50,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "budak laki-lakinya"
+      "marks": "hamba laki-lakinya"
     },
     {
       "surface": "עבדו",
-      "gloss": "budak laki-lakinya"
+      "gloss": "hamba laki-lakinya"
     },
     {
       "surface": "ואיש",
@@ -63,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "budak perempuannya"
+      "marks": "hamba perempuannya"
     },
     {
       "surface": "שפחתו",
-      "gloss": "budak perempuannya"
+      "gloss": "hamba perempuannya"
     },
     {
       "surface": "חפשים",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "supaya jangan"
+      "gloss": "supaya tidak"
     },
     {
       "surface": "עבד",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "וישמעו",
-      "gloss": "dan mereka mendengarkan"
+      "gloss": "dan mereka mendengar"
     },
     {
       "surface": "וישלחו",
-      "gloss": "dan memerdekakan mereka"
+      "gloss": "lalu melepaskan mereka"
     }
   ],
-  "timestamp": "2026-08-08T08:38:42.998082067Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:44.863895013Z",
+  "model": "glm-5.3"
 }

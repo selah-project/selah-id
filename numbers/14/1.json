@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 14,
-  "translation": "Lalu berserulah seluruh ⟨ה⟩ jemaah itu, dan mereka memperdengarkan ⟨את⟩ suara mereka, dan ⟨ה⟩ bangsa itu menangis pada malam itu.",
+  "translation": "Lalu seluruh jemaah itu mengangkat suaranya, dan mereka berseru; dan bangsa itu menangis pada malam itu.",
   "tokens": [
     {
       "surface": "ותשא",
-      "gloss": "lalu berserulah"
+      "gloss": "Lalu ... mengangkat"
     },
     {
       "surface": "כל",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "ויתנו",
-      "gloss": "dan mereka memperdengarkan"
+      "gloss": "dan mereka berseru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "suara mereka"
+      "marks": "suaranya"
     },
     {
       "surface": "קולם",
-      "gloss": "suara mereka"
+      "gloss": "suaranya"
     },
     {
       "surface": "ויבכו",
-      "gloss": "dan menangis"
+      "gloss": "dan bangsa itu menangis"
     },
     {
       "surface": "העם",
@@ -49,6 +49,6 @@
       "gloss": "itu"
     }
   ],
-  "timestamp": "2026-08-08T10:40:42.252554185Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:44.932151866Z",
+  "model": "glm-5.3"
 }

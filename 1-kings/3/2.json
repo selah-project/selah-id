@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 3,
-  "translation": "Hanya ⟨the⟩ ruma⟨t⟩ itu mempersembahkan korban di bukit-bukit pengorbanan, karena belum dibangun ⟨sebuah⟩ rumah bagi nama Yahweh sampai hari-hari itu.",
+  "translation": "Hanya saja, ⟨ummat⟩ bangsa itu mempersembahkan kurban di tempat-tempat tinggi, karena belum dibangun ⟨⟨rumah⟩⟩ ⟨bait⟩ untuk ⟨shem⟩ Nama Yahweh sampai hari-hari itu.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "hanya"
+      "gloss": "hanya saja"
     },
     {
       "surface": "העם",
-      "gloss": "rakyat"
+      "gloss": "bangsa itu"
     },
     {
       "surface": "מזבחים",
-      "gloss": "mempersembahkan korban"
+      "gloss": "mempersembahkan kurban"
     },
     {
       "surface": "בבמות",
-      "gloss": "di bukit-bukit pengorbanan"
+      "gloss": "di tempat-tempat tinggi"
     },
     {
       "surface": "כי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "rumah"
+      "gloss": "bait"
     },
     {
       "surface": "לשם",
-      "gloss": "bagi nama"
+      "gloss": "untuk Nama"
     },
     {
       "surface": "יהוה",
@@ -60,6 +60,6 @@
       "gloss": "itu"
     }
   ],
-  "timestamp": "2026-08-08T11:02:13.279147507Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:56.963230919Z",
+  "model": "glm-5.3"
 }

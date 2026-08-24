@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 5,
-  "translation": "Lalu ⟨ia⟩ berkata kepadanya, “Pergilah dengan damai,” dan ⟨ia⟩ pergi dari padanya sejauh ⟨seukuran⟩ tanah.",
+  "translation": "Lalu ⟨ia⟩ berkata kepadanya, “Pergilah dengan damai,” dan ⟨ia⟩ pergi ⟨את⟩ dari padanya sejauh ⟨seukuran⟩ tanah.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "dari padanya"
+      "gloss": "⟨את⟩ dari padanya"
     },
     {
       "surface": "כברת",
@@ -40,6 +40,6 @@
       "gloss": "tanah"
     }
   ],
-  "timestamp": "2026-08-08T11:05:38.417642053Z",
+  "timestamp": "2026-08-24T17:55:27.191982488Z",
   "model": "glm-5.2"
 }

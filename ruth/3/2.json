@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan sekarang, bukankah Boaz ⟨הוא⟩ keluarga dekat kita, yang ⟨את⟩ engkau bersama pelayan-pelayan perempuannya? Lihat, ia menampi ⟨את⟩ lantai pengirikan jelai malam ini.",
+  "translation": "Dan sekarang, bukankah Boaz ⟨⟩ itu kenalan kita, yang engkau bersama ⟨את⟩ anak-anak perempuannya? Lihat, dia sedang menampi ⟨את⟩ lantai pengirikan jelai malam ini.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מדעתנו",
-      "gloss": "keluarga dekat kita"
+      "gloss": "kenalan kita"
     },
     {
       "surface": "אשר",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "היית",
-      "gloss": "engkau (telah) bersama"
+      "gloss": "engkau bersama"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pelayan-pelayan perempuannya"
+      "marks": "anak-anak perempuannya"
     },
     {
       "surface": "נערותיו",
-      "gloss": "pelayan-pelayan perempuannya"
+      "gloss": "anak-anak perempuannya"
     },
     {
       "surface": "הנה",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨dia⟩"
+      "gloss": "dia"
     },
     {
       "surface": "זרה",
-      "gloss": "menampi"
+      "gloss": "sedang menampi"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "malam ini"
     }
   ],
-  "timestamp": "2026-08-08T09:47:53.614206334Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:31.380006654Z",
+  "model": "glm-5.3"
 }

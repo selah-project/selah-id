@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 17,
-  "translation": "Dan ia mengambil dari benih kerajaan, dan mengikat ⟨perjanjian⟩ dengannya, dan membawanya ke dalam sumpah kutuk, dan ⟨את⟩ para pembesar negeri iaambil.",
+  "translation": "Dan ia mengambil dari benih kerajaan, dan mengikat ⟨perjanjian⟩ ⟨את⟩ dengannya, dan membawanya ke dalam sumpah kutuk, dan ⟨את⟩ para pembesar negeri iaambil.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "dengannya"
+      "gloss": "⟨את⟩ dengannya"
     },
     {
       "surface": "ברית",
@@ -62,6 +62,6 @@
       "gloss": "iaambil"
     }
   ],
-  "timestamp": "2026-08-08T08:47:54.258671917Z",
+  "timestamp": "2026-08-24T17:55:27.187117755Z",
   "model": "glm-5.2"
 }

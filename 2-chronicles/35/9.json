@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 35,
-  "translation": "Dan Konanyahu dan Shema-yahu serta Netanel saudara-saudaranya, dan Hasavyahu dan Yi-el dan Yozabad, para pemimpin ⟨ה⟩ orang Lewi, menyumbangkan kepada orang Lewi untuk ⟨ה⟩ korban-korban Paskah lima ribu ⟨ekor ternak kecil⟩ dan lembu lima ratus.",
+  "translation": "Konanyahu, dan Syemayahu, dan Netanel saudara-saudaranya, serta Hasabyahu, dan Yei`el, dan Yozabad, para pemimpin orang-orang Lewi, mengangkatkan persembahan kepada orang-orang Lewi untuk korban-korban Paskah: lima ribu ekor kambing domba dan lima ratus lembu.",
   "tokens": [
     {
       "surface": "וכונניהו",
-      "gloss": "dan Konanyahu"
+      "gloss": "Konanyahu"
     },
     {
       "surface": "ושמעיהו",
-      "gloss": "dan Shema-yahu"
+      "gloss": "Syemayahu"
     },
     {
       "surface": "ונתנאל",
-      "gloss": "dan Netanel"
+      "gloss": "Netanel"
     },
     {
       "surface": "אחיו",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "וחשביהו",
-      "gloss": "dan Hasavyahu"
+      "gloss": "Hasabyahu"
     },
     {
       "surface": "ויעיאל",
-      "gloss": "dan Yi-el"
+      "gloss": "Yei`el"
     },
     {
-      "surface": "וזבד",
-      "gloss": "dan Yozabad"
+      "surface": "ויוזבד",
+      "gloss": "Yozabad"
     },
     {
       "surface": "שרי",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "⟨ה⟩ orang Lewi"
+      "gloss": "orang-orang Lewi"
     },
     {
       "surface": "הרימו",
-      "gloss": "menyumbangkan"
+      "gloss": "mengangkatkan persembahan"
     },
     {
       "surface": "ללוים",
-      "gloss": "kepada orang Lewi"
+      "gloss": "kepada orang-orang Lewi"
     },
     {
       "surface": "לפסחים",
-      "gloss": "untuk ⟨hai⟩ korban-korban Paskah"
+      "gloss": "untuk korban-korban Paskah"
     },
     {
       "surface": "חמשת",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אלפים",
-      "gloss": "ribu"
+      "gloss": "ribu ekor kambing domba"
     },
     {
       "surface": "ובקר",
@@ -76,6 +76,6 @@
       "gloss": "ratus"
     }
   ],
-  "timestamp": "2026-08-08T10:18:28.488212048Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:58.518627185Z",
+  "model": "glm-5.3"
 }

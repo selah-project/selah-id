@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 17,
-  "translation": "Dan ⟨habbrit⟩ yang aku potong dengan kamu, jangan kamu lupakan, dan jangan kamu takuti eloah lain.",
+  "translation": "Dan ⟨habbrit⟩ yang aku potong ⟨את⟩ dengan kamu, jangan kamu lupakan, dan jangan kamu takuti eloah lain.",
   "tokens": [
     {
       "surface": "והברית",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "dengan kamu"
+      "gloss": "⟨את⟩ dengan kamu"
     },
     {
       "surface": "לא",
@@ -48,6 +48,6 @@
       "gloss": "lain"
     }
   ],
-  "timestamp": "2026-08-08T11:07:43.822634116Z",
+  "timestamp": "2026-08-24T17:55:27.198066579Z",
   "model": "glm-5.2"
 }

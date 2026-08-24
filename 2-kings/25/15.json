@@ -5,16 +5,16 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 25,
-  "translation": "Dan ⟨את〕 penjara-penjara api dan ⟨את〕 bokor-bokor percikan, yang emas emas, dan yang perak perak, diambil kepala algojo.",
+  "translation": "Dan ⟨את⟩ tempat-tempat bara, dan ⟨את⟩ bokor-bokor percikan — yang dari emas, dari emas, dan yang dari perak, dari perak — dibawa oleh panglima para algojo.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "penjara-penjara api"
+      "marks": "tempat-tempat bara"
     },
     {
       "surface": "המחתות",
-      "gloss": "penjara-penjara api"
+      "gloss": "tempat-tempat bara"
     },
     {
       "surface": "ואת",
@@ -51,17 +51,17 @@
     },
     {
       "surface": "לקח",
-      "gloss": "diambil"
+      "gloss": "dibawa"
     },
     {
       "surface": "רב",
-      "gloss": "kepala"
+      "gloss": "panglima"
     },
     {
       "surface": "טבחים",
-      "gloss": "algojo"
+      "gloss": "para algojo"
     }
   ],
-  "timestamp": "2026-08-08T08:15:23.435610964Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:49.467221069Z",
+  "model": "glm-5.3"
 }

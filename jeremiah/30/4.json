@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 30,
-  "translation": "Dan inilah ⟨הדברים⟩ perkataan yang difirmankan Yahweh kepada Yisra'el dan kepada Yehudah.",
+  "translation": "Dan inilah perkataan yang diucapkan Yahweh kepada Yisrael dan kepada Yehudah —",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "dan inilah"
+      "gloss": "Dan inilah"
     },
     {
       "surface": "הדברים",
-      "gloss": "⟨הדברים⟩ perkataan"
+      "gloss": "perkataan"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "difirmankan"
+      "gloss": "diucapkan"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ואל",
@@ -44,6 +44,6 @@
       "gloss": "Yehudah"
     }
   ],
-  "timestamp": "2026-08-08T11:18:49.256646039Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:54.804600404Z",
+  "model": "glm-5.3"
 }

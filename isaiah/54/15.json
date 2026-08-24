@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 54,
-  "translation": "Sungguh, ia pasti berhimpun — ⟨itu⟩ bukan dari pada-Ku; siapa yang berhimpun ⟨bersama⟩ engkau? Atas engkau ia akan jatuh.",
+  "translation": "Sungguh, ia pasti berhimpun — ⟨itu⟩ bukan ⟨את⟩ dari pada-Ku; siapa yang berhimpun ⟨את⟩ ⟨bersama⟩ engkau? Atas engkau ia akan jatuh.",
   "tokens": [
     {
       "surface": "הן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מאותי",
-      "gloss": "dari pada-Ku",
+      "gloss": "⟨את⟩ dari pada-Ku",
       "marks": "—"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨bersama⟩ engkau"
+      "gloss": "⟨את⟩ ⟨bersama⟩ engkau"
     },
     {
       "surface": "עליך",
@@ -49,6 +49,6 @@
       "gloss": "ia akan jatuh"
     }
   ],
-  "timestamp": "2026-08-08T08:27:28.834708527Z",
+  "timestamp": "2026-08-24T17:55:27.218302702Z",
   "model": "glm-5.2"
 }

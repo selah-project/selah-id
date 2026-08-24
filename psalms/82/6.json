@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 82,
-  "translation": "Aku, aku telah berfirman: ⟨אֱלֹהִים⟩ kamu, dan anak-anak Elyon kamu semua.",
+  "translation": "Aku telah berkata: “Elohim kalian ⟨adalah⟩, dan anak-anak Elyon segala kalian.”",
   "tokens": [
     {
-      "surface": "אֲֽנִי",
+      "surface": "אני",
       "gloss": "Aku"
     },
     {
-      "surface": "אָ֭מַרְתִּי",
-      "gloss": "aku telah berfirman"
+      "surface": "אמרתי",
+      "gloss": "telah berkata"
     },
     {
-      "surface": "אֱלֹהִ֣ים",
+      "surface": "אלהים",
       "gloss": "Elohim"
     },
     {
-      "surface": "אַתֶּ֑ם",
-      "gloss": "kamu"
+      "surface": "אתם",
+      "gloss": "kalian"
     },
     {
-      "surface": "וּבְנֵ֖י",
+      "surface": "ובני",
       "gloss": "dan anak-anak"
     },
     {
-      "surface": "עֶלְי֣וֹן",
+      "surface": "עליון",
       "gloss": "Elyon"
     },
     {
-      "surface": "כֻּלְּכֶֽם",
-      "gloss": "kamu semua"
+      "surface": "כלכם",
+      "gloss": "segala kalian"
     }
   ],
-  "timestamp": "2026-08-08T11:40:52.011628716Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:51.865391356Z",
+  "model": "glm-5.3"
 }

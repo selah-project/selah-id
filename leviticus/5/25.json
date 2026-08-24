@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 5,
-  "translation": "Dan ⟨את⟩ ashamnya ia akan membawa kepada Yahweh: seekor domba jantan yang sempurna dari kawanan ternak, berdasarkan penilaianmu, sebagai persembahan asham, kepada ⟨the⟩ kohen.",
+  "translation": "Dan ⟨את⟩ dam pelanggarannya ia akan membawa kepada Yahweh: seekor domba jantan yang sempurna dari kawanan kambing domba, menurut penilaianmu, sebagai korban asham, kepada imam.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Dan ⟨את⟩",
-      "marks": "ashamnya"
+      "gloss": "⟨את⟩",
+      "marks": "dam pelanggarannya"
     },
     {
       "surface": "אשמו",
-      "gloss": "ashamnya"
+      "gloss": "dam pelanggarannya"
     },
     {
       "surface": "יביא",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "איל",
-      "gloss": "seekor domba jantan"
+      "gloss": "domba jantan"
     },
     {
       "surface": "תמים",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "kawanan ternak"
+      "gloss": "kawanan kambing domba"
     },
     {
       "surface": "בערכך",
-      "gloss": "berdasarkan penilaianmu"
+      "gloss": "menurut penilaianmu"
     },
     {
       "surface": "לאשם",
-      "gloss": "sebagai persembahan asham"
+      "gloss": "sebagai korban asham"
     },
     {
       "surface": "אל",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohen"
+      "gloss": "imam"
     }
   ],
-  "timestamp": "2026-08-08T10:34:14.189901813Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:39.357609678Z",
+  "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 12,
-  "translation": "tidaklah mereka memperhitungkan ⟨את⟩ orang-orang yang ⟨הם⟩ memberikan ⟨את⟩ perak itu ke dalam tangan mereka, untuk diberikan kepada para pekerja pekerjaan itu, sebab dalam kesetiaan ⟨הם⟩ bekerja.",
+  "translation": "Dan tidak dihitung-hitung ⟨את⟩ para orang yang diberi ⟨את⟩ uang itu ke dalam tangan mereka, untuk diberikan kepada para pekerja pekerjaan itu, sebab dengan setia (emunah) mereka bekerja.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "tidaklah"
+      "gloss": "dan tidak"
     },
     {
       "surface": "יחשבו",
-      "gloss": "mereka memperhitungkan"
+      "gloss": "dihitung-hitung"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "orang-orang"
+      "marks": "para orang"
     },
     {
       "surface": "האנשים",
-      "gloss": "orang-orang"
+      "gloss": "para orang"
     },
     {
       "surface": "אשר",
@@ -30,20 +30,20 @@
     },
     {
       "surface": "יתנו",
-      "gloss": "mereka memberikan"
+      "gloss": "diberi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perak itu"
+      "marks": "uang itu"
     },
     {
       "surface": "הכסף",
-      "gloss": "perak itu"
+      "gloss": "uang itu"
     },
     {
       "surface": "על",
-      "gloss": "ke atas"
+      "gloss": "ke dalam"
     },
     {
       "surface": "ידם",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "באמנה",
-      "gloss": "dalam kesetiaan"
+      "gloss": "dengan setia (emunah)"
     },
     {
       "surface": "הם",
@@ -78,6 +78,6 @@
       "gloss": "bekerja"
     }
   ],
-  "timestamp": "2026-08-08T11:06:52.897759721Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:19.256607068Z",
+  "model": "glm-5.3"
 }

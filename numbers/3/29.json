@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 3,
-  "translation": "Keluarga-keluarga bani Qehat berkemah di sisi selatan ⟨ה⟩ Mishkan.",
+  "translation": "Keluarga-keluarga bani Kehat berkemah di sisi selatan ⟨ה⟩ Mishkan, ke arah teyman.",
   "tokens": [
     {
       "surface": "משפחת",
-      "gloss": "Keluarga-keluarga"
+      "gloss": "keluarga-keluarga"
     },
     {
       "surface": "בני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "קהת",
-      "gloss": "Qehat"
+      "gloss": "Kehat"
     },
     {
       "surface": "יחנו",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "⟨ה⟩ Mishkan"
+      "gloss": "Mishkan"
     },
     {
       "surface": "תימנה",
-      "gloss": "selatan"
+      "gloss": "ke arah selatan"
     }
   ],
-  "timestamp": "2026-08-08T07:14:40.135248491Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:28.508418302Z",
+  "model": "glm-5.3"
 }

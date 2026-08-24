@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 5,
-  "translation": "“Dan juga pada hari-hari itu,” pernyataan Yahweh, “tidak akan Aku lakukan ⟨kepadamu⟩ pemusnahan menyeluruh.",
+  "translation": "“Dan juga pada hari-hari itu,” pernyataan Yahweh, “tidak akan Aku lakukan ⟨⟨את⟩ kepadamu⟩ pemusnahan menyeluruh.",
   "tokens": [
     {
       "surface": "וגם",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "kepadamu"
+      "gloss": "⟨את⟩ kepadamu"
     },
     {
       "surface": "כלה",
       "gloss": "pemusnahan menyeluruh"
     }
   ],
-  "timestamp": "2026-08-08T08:31:23.623524164Z",
+  "timestamp": "2026-08-24T17:55:27.109793330Z",
   "model": "glm-5.2"
 }

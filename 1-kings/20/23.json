@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan para abdi raja Aram berkata kepadanya, “Elohim ⟨adalah⟩ elohim pegunungan, oleh sebab itu mereka lebih kuat dari kita; tetapi marilah kita berperang melawan mereka di dataran — bukankah kita akan lebih kuat dari mereka?”",
+  "translation": "Dan para abdi raja Aram berkata kepadanya, “Elohim ⟨adalah⟩ elohim pegunungan, oleh sebab itu mereka lebih kuat dari kita; tetapi marilah kita berperang ⟨את⟩ melawan mereka di dataran — bukankah kita akan lebih kuat dari mereka?”",
   "tokens": [
     {
       "surface": "ועבדי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "melawan mereka"
+      "gloss": "⟨את⟩ melawan mereka"
     },
     {
       "surface": "במישור",
@@ -88,6 +88,6 @@
       "gloss": "dari mereka"
     }
   ],
-  "timestamp": "2026-08-08T11:04:36.940680698Z",
+  "timestamp": "2026-08-24T17:55:27.250198921Z",
   "model": "glm-5.2"
 }

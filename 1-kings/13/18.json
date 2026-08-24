@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 13,
-  "translation": "Dan ia berkata kepadanya, “Juga aku ini nabi seperti engkau, dan malakh berfirman kepadaku dalam firman Yahweh, perkataan: Bawalah dia kembali bersama engkau ke rumahmu, dan biarlah dia makan roti dan minum air.” ⟨Tetapi⟩ ia berdusta kepadanya.",
+  "translation": "Dan ia berkata kepadanya, “Juga aku ini nabi seperti engkau, dan malakh berfirman kepadaku dalam firman Yahweh, perkataan: Bawalah dia kembali ⟨את⟩ bersama engkau ke rumahmu, dan biarlah dia makan roti dan minum air.” ⟨Tetapi⟩ ia berdusta kepadanya.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bersama engkau"
+      "gloss": "⟨את⟩ bersama engkau"
     },
     {
       "surface": "אל",
@@ -96,6 +96,6 @@
       "gloss": "kepadanya"
     }
   ],
-  "timestamp": "2026-08-08T08:04:46.188985154Z",
+  "timestamp": "2026-08-24T17:55:27.258343721Z",
   "model": "glm-5.2"
 }

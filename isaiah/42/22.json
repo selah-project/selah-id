@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 42,
-  "translation": "Tetapi ⟨ini⟩ ⟨adalah⟩ umat yang dirampok dan dijarah; semuanya terjerat dalam lubang-lubang, dan dalam rumah-rumah penjara mereka bersembunyi; mereka telah menjadi rampasan dan tidak ada yang menyelamatkan, jarahan dan tidak ada yang berkata, ״Kembalikan!״",
+  "translation": "Tetapi ini ⟨adalah⟩ umat yang dirampas dan dijarah; semuanya tertangkap dalam perangkap, dan disembunyikan di rumah-rumah penjara; mereka telah menjadi jarahan, dan tidak ada yang melepaskan; rampasan, dan tidak ada yang berkata, “Kembalikanlah!”",
   "tokens": [
     {
       "surface": "והוא",
-      "gloss": "Dan ini"
+      "gloss": "Tetapi ini"
     },
     {
       "surface": "עם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בזוז",
-      "gloss": "yang dirampok"
+      "gloss": "yang dirampas"
     },
     {
       "surface": "ושסוי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הפח",
-      "gloss": "terjerat"
+      "gloss": "tertangkap dalam perangkap"
     },
     {
       "surface": "בחורים",
-      "gloss": "dalam lubang-lubang"
+      "gloss": "dalam perangkap"
     },
     {
       "surface": "כלם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ובבתי",
-      "gloss": "dan dalam rumah-rumah"
+      "gloss": "dan di rumah-rumah"
     },
     {
       "surface": "כלאים",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "החבאו",
-      "gloss": "mereka bersembunyi"
+      "gloss": "disembunyikan"
     },
     {
       "surface": "היו",
-      "gloss": "mereka telah menjadi"
+      "gloss": "telah menjadi"
     },
     {
       "surface": "לבז",
-      "gloss": "rampasan"
+      "gloss": "jarahan"
     },
     {
       "surface": "ואין",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "מציל",
-      "gloss": "yang menyelamatkan"
+      "gloss": "yang melepaskan"
     },
     {
       "surface": "משסה",
-      "gloss": "jarahan"
+      "gloss": "rampasan"
     },
     {
       "surface": "ואין",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "השב",
-      "gloss": "Kembalikan!"
+      "gloss": "“Kembalikanlah!”"
     }
   ],
-  "timestamp": "2026-08-08T11:13:00.358065683Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:16.662652248Z",
+  "model": "glm-5.3"
 }

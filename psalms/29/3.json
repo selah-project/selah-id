@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 29,
-  "translation": "Kol Yahweh di atas ⟨ה⟩ air! El hakabod mengguntur, Yahweh di atas air yang banyak.",
+  "translation": "Suara Yahweh di atas ⟨ה⟩ air; El ⟨dari⟩ kemuliaan mengguntur — Yahweh di atas air yang banyak.",
   "tokens": [
     {
       "surface": "קול",
-      "gloss": "Kol"
+      "gloss": "Suara"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הכבוד",
-      "gloss": "hakabod"
+      "gloss": "⟨dari⟩ kemuliaan"
     },
     {
       "surface": "הרעים",
@@ -52,6 +52,6 @@
       "gloss": "yang banyak"
     }
   ],
-  "timestamp": "2026-08-08T09:09:53.800172500Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:53.632534753Z",
+  "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "ruth",
   "lang": "id",
   "chapter": 3,
-  "translation": "Lalu ⟨ia⟩ turun ke ⟨the⟩ lantai pengirikan, dan ⟨ia⟩ melakukan tepat seperti segala yang diperintahkan mertuanya kepadanya.",
+  "translation": "Lalu turunlah ia ke tempat pengirikan, dan dikerjakannya ⟨את⟩ segala yang diperintahkan mertuanya kepadanya.",
   "tokens": [
     {
       "surface": "ותרד",
-      "gloss": "Lalu ⟨ia⟩ turun"
+      "gloss": "lalu turunlah ia"
     },
     {
       "surface": "הגרן",
-      "gloss": "ke ⟨the⟩ lantai pengirikan"
+      "gloss": "ke tempat pengirikan"
     },
     {
       "surface": "ותעש",
-      "gloss": "dan ⟨ia⟩ melakukan"
+      "gloss": "dan dikerjakannya"
     },
     {
       "surface": "ככל",
-      "gloss": "tepat seperti segala"
+      "gloss": "segala"
     },
     {
       "surface": "אשר",
@@ -36,6 +36,6 @@
       "gloss": "mertuanya"
     }
   ],
-  "timestamp": "2026-08-08T11:56:11.703653295Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:23.714892066Z",
+  "model": "glm-5.3"
 }

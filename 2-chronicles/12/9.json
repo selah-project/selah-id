@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 12,
-  "translation": "Lalu naiklah Shishak raja Mitsrayim melawan Yerushalayim, dan ia mengambil ⟨את⟩ perbendaharaan bait Yahweh dan ⟨את⟩ perbendaharaan bait ⟨ה⟩raja — ⟨את⟩ semuanya diambilnya — dan ia mengambil ⟨את⟩ perisai-perisai emas yang dibuat Shelomoh.",
+  "translation": "Lalu Shishak raja Mitsrayim (Mesir) maju melawan Yerushalayim (Yerusalem), dan ia mengambil ⟨את⟩ perbendaharaan rumah Yahweh dan ⟨את⟩ perbendaharaan rumah raja — ⟨את⟩ segalanya diambilnya; dan ia mengambil ⟨את⟩ perisai-perisai emas yang dibuat Shelomoh.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "dan naiklah"
+      "gloss": "maju melawan"
     },
     {
       "surface": "שישק",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "על",
-      "gloss": "melawan"
+      "gloss": "terhadap"
     },
     {
       "surface": "ירושלם",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "dan ia mengambil"
+      "gloss": "ia mengambil"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perbendaharaan bait Yahweh"
+      "marks": "perbendaharaan rumah Yahweh"
     },
     {
       "surface": "אצרות",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "bait"
+      "gloss": "rumah"
     },
     {
       "surface": "יהוה",
@@ -55,7 +55,7 @@
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "perbendaharaan bait sang raja"
+      "marks": "perbendaharaan rumah raja"
     },
     {
       "surface": "אצרות",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "bait"
+      "gloss": "rumah"
     },
     {
       "surface": "המלך",
-      "gloss": "sang raja"
+      "gloss": "raja"
     },
     {
       "surface": "את",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "הכל",
-      "gloss": "semuanya"
+      "gloss": "segalanya"
     },
     {
       "surface": "לקח",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "dan ia mengambil"
+      "gloss": "ia mengambil"
     },
     {
       "surface": "את",
@@ -112,6 +112,6 @@
       "gloss": "Shelomoh"
     }
   ],
-  "timestamp": "2026-08-08T10:12:43.801572586Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:51.130906575Z",
+  "model": "glm-5.3"
 }

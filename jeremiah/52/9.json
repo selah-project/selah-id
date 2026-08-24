@@ -1,70 +1,70 @@
 {
- "tier": "glm-5.2",
- "verse": 9,
- "ref": "jeremiah 52:9",
- "book": "jeremiah",
- "lang": "id",
- "chapter": 52,
- "translation": "Lalu mereka menangkap ⟨את⟩ sang raja dan membawanya naik kepada raja Bavel, di Rivlah, di tanah Khamat, dan ⟨ia⟩ berbicara dengannya ⟨tentang⟩ hukum-hukum.",
- "tokens": [
-  {
-   "surface": "ויתפשו",
-   "gloss": "dan mereka menangkap"
-  },
-  {
-   "surface": "את",
-   "gloss": "⟨את⟩",
-   "marks": "sang raja"
-  },
-  {
-   "surface": "המלך",
-   "gloss": "sang raja"
-  },
-  {
-   "surface": "ויעלו",
-   "gloss": "dan mereka membawanya naik"
-  },
-  {
-   "surface": "אתו",
-   "gloss": "⟨את⟩ dia"
-  },
-  {
-   "surface": "אל",
-   "gloss": "kepada"
-  },
-  {
-   "surface": "מלך",
-   "gloss": "raja"
-  },
-  {
-   "surface": "בבל",
-   "gloss": "Bavel"
-  },
-  {
-   "surface": "רבלתה",
-   "gloss": "Rivlah"
-  },
-  {
-   "surface": "בארץ",
-   "gloss": "di tanah"
-  },
-  {
-   "surface": "חמת",
-   "gloss": "Khamat"
-  },
-  {
-   "surface": "וידבר",
-   "gloss": "dan ia berbicara"
-  },
-  {
-   "surface": "אתו",
-   "gloss": "dengannya"
-  },
-  {
-   "surface": "משפטים",
-   "gloss": "hukum-hukum"
-  }
- ],
- "timestamp": "2026-08-09T01:41:56.126078340Z",
- "model": "glm-5.2"
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "book": "jeremiah",
+  "lang": "id",
+  "chapter": 52,
+  "translation": "Lalu mereka menangkap ⟨את⟩ sang raja dan membawanya naik kepada raja Bavel, di Rivlah, di tanah Khamat, dan ⟨ia⟩ berbicara ⟨את⟩ dengannya ⟨tentang⟩ hukum-hukum.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "dan mereka menangkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dan mereka membawanya naik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamat"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dan ia berbicara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dengannya"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "hukum-hukum"
+    }
+  ],
+  "timestamp": "2026-08-24T17:55:27.110705848Z",
+  "model": "glm-5.2"
 }

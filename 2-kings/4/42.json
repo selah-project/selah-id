@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 4,
-  "translation": "Datanglah seorang dari Baal-Shalishah membawa kepada ⟨the⟩ ⟨אישׁ⟩ ⟨ה⟩ Elohim roti buah-buahan, dua puluh roti gandum jawawut, dan gandum panggang dalam kantongnya, lalu ⟨ia⟩ berkata, “Berikanlah kepada ⟨the⟩ orang banyak dan biarkan mereka makan.”",
+  "translation": "Datanglah seorang ⟨laki-laki⟩ dari Baal-Shalishah, membawa kepada ⟨את⟩ orang haElohim roti hasil panen perdana, dua puluh roti jelai, dan bulir gandum segar dalam bungkusnya; lalu ia berkata, “Berikanlah kepada kaum itu supaya mereka makan.”",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Datanglah seorang"
+      "gloss": "Dan seorang laki-laki"
     },
     {
       "surface": "בא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מבעל",
-      "gloss": "dari Baal"
+      "gloss": "dari Baal-"
     },
     {
       "surface": "שלשה",
-      "gloss": "-Shalishah"
+      "gloss": "Shalishah"
     },
     {
       "surface": "ויבא",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "kepada ⟨אישׁ⟩"
+      "gloss": "kepada orang"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨ה⟩ Elohim"
+      "gloss": "haElohim"
     },
     {
       "surface": "לחם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בכורים",
-      "gloss": "buah-buahan"
+      "gloss": "hasil panen perdana"
     },
     {
       "surface": "עשרים",
@@ -53,33 +53,33 @@
     },
     {
       "surface": "שערים",
-      "gloss": "gandum jawawut"
+      "gloss": "jelai"
     },
     {
       "surface": "וכרמל",
-      "gloss": "dan gandum panggang"
+      "gloss": "dan bulir gandum segar"
     },
     {
       "surface": "בצקלנו",
-      "gloss": "dalam kantongnya"
+      "gloss": "dalam bungkusnya"
     },
     {
       "surface": "ויאמר",
-      "gloss": "lalu berkata"
+      "gloss": "lalu ia berkata"
     },
     {
       "surface": "תן",
-      "gloss": "berikanlah"
+      "gloss": "Berikanlah"
     },
     {
       "surface": "לעם",
-      "gloss": "kepada orang banyak"
+      "gloss": "kepada kaum itu"
     },
     {
       "surface": "ויאכלו",
-      "gloss": "dan biarkan mereka makan"
+      "gloss": "supaya mereka makan"
     }
   ],
-  "timestamp": "2026-08-08T08:09:16.618376548Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:13.507952644Z",
+  "model": "glm-5.3"
 }

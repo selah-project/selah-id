@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Dan ⟨את⟩ pintu masuk ⟨ה⟩ Debir dibuatnya dari pintu-pintu kayu zaitun; ⟨pada⟩ ambang pintu dan tiang pintu ⟨ada⟩ seperlima ⟨dinding⟩.",
+  "translation": "Dan ⟨את⟩ pintu masuk haDvir itu dibuatnya dari pintu-pintu kayu syemen; ambang dan tiang-tiang pintunya berbentuk segi lima.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "pintu masuk"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "surface": "הדביר",
-      "gloss": "Debir"
+      "gloss": "haDvir"
     },
     {
       "surface": "עשה",
@@ -34,21 +34,21 @@
     },
     {
       "surface": "שמן",
-      "gloss": "zaitun"
+      "gloss": "syemen"
     },
     {
       "surface": "האיל",
-      "gloss": "ambang pintu"
+      "gloss": "ambang"
     },
     {
       "surface": "מזוזות",
-      "gloss": "tiang pintu"
+      "gloss": "tiang-tiang pintu"
     },
     {
       "surface": "חמשית",
-      "gloss": "seperlima"
+      "gloss": "segi lima"
     }
   ],
-  "timestamp": "2026-08-08T11:02:28.147568860Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:14.096990676Z",
+  "model": "glm-5.3"
 }

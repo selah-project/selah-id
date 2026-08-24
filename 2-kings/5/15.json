@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 5,
-  "translation": "Lalu kembalilah ia kepada ⟨אישׁ⟩ ha-Elohim — ia dan seluruh perkemahannya — dan datang, lalu berdiri di hadapan-Nya; dan berkatalah ia: “Ingatlah, sekarang aku tahu bahwa tidak ada Elohim di seluruh bumi melainkan di Yisrael; maka sekarang, ambillah kiranya berkat dari hambamu ini.”",
+  "translation": "Lalu ia kembali kepada orang Elohim itu, ia dan seluruh pasukannya, lalu datang dan berdiri di hadapannya, dan berkata: “Sekarang aku tahu bahwa tidak ada Elohim di seluruh bumi kecuali di Yisrael. Maka sekarang, terimalah kiranya ⟨את⟩ berkat dari hambamu ini.”",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "lalu kembalilah ia"
+      "gloss": "Lalu ia kembali"
     },
     {
       "surface": "אל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "⟨אישׁ⟩"
+      "gloss": "orang"
     },
     {
       "surface": "האלהים",
-      "gloss": "ha-Elohim"
+      "gloss": "Elohim itu"
     },
     {
       "surface": "הוא",
@@ -33,27 +33,27 @@
     },
     {
       "surface": "מחנהו",
-      "gloss": "perkemahannya"
+      "gloss": "pasukannya"
     },
     {
       "surface": "ויבא",
-      "gloss": "dan datang"
+      "gloss": "lalu datang"
     },
     {
       "surface": "ויעמד",
-      "gloss": "lalu berdiri"
+      "gloss": "dan berdiri"
     },
     {
       "surface": "לפניו",
-      "gloss": "di hadapan-Nya"
+      "gloss": "di hadapannya"
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan berkatalah ia"
+      "gloss": "dan berkata"
     },
     {
       "surface": "הנה",
-      "gloss": "ingatlah"
+      "gloss": "Sekarang"
     },
     {
       "surface": "נא",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "melainkan"
+      "gloss": "kecuali"
     },
     {
       "surface": "אם",
@@ -97,11 +97,11 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "maka sekarang"
+      "gloss": "Maka sekarang"
     },
     {
       "surface": "קח",
-      "gloss": "ambillah"
+      "gloss": "terimalah"
     },
     {
       "surface": "נא",
@@ -113,13 +113,14 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩",
+      "marks": "berkat"
     },
     {
       "surface": "עבדך",
-      "gloss": "hambamu ini"
+      "gloss": "dari hambamu ini"
     }
   ],
-  "timestamp": "2026-08-09T01:41:22.489841098Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:09.971339076Z",
+  "model": "glm-5.3"
 }

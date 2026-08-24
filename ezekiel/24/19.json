@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 24,
-  "translation": "Dan ⟨ה⟩ rakyat berkata kepadaku, “Tidakkah engkau beri tahukan kepada kami apa hal-hal ini bagi kami, bahwa engkau berbuat demikian?”",
+  "translation": "Lalu berkatalah kaum itu kepadaku, “Tidakkah engkau mau memberitahukan kepada kami apa artinya hal-hal ini bagi kami, bahwa engkau berbuat demikian?”",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Dan berkata"
+      "gloss": "lalu berkatalah"
     },
     {
       "surface": "אלי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨ה⟩ rakyat"
+      "gloss": "kaum itu"
     },
     {
       "surface": "הלא",
-      "gloss": "Tidakkah"
+      "gloss": "tidakkah"
     },
     {
       "surface": "תגיד",
-      "gloss": "engkau beri tahukan"
+      "gloss": "engkau mau memberitahukan"
     },
     {
       "surface": "לנו",
@@ -56,6 +56,6 @@
       "gloss": "berbuat demikian"
     }
   ],
-  "timestamp": "2026-08-08T08:50:11.693609737Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:36.651393553Z",
+  "model": "glm-5.3"
 }

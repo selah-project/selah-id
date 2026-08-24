@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 25,
-  "translation": "Dan inilah ⟨את⟩ terumah yang harus kamu ambil dari mereka: emas dan perak dan tembaga.",
+  "translation": "Dan inilah ⟨את⟩ terumah yang harus kamu ambil ⟨את⟩ dari mereka: emas dan perak dan tembaga.",
   "tokens": [
     {
       "surface": "וזאת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "dari mereka:"
+      "gloss": "⟨את⟩ dari mereka:"
     },
     {
       "surface": "זהב",
@@ -40,6 +40,6 @@
       "gloss": "dan tembaga"
     }
   ],
-  "timestamp": "2026-08-08T07:01:53.497857742Z",
+  "timestamp": "2026-08-24T17:55:27.150399647Z",
   "model": "glm-5.2"
 }

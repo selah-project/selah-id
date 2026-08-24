@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 37,
-  "translation": "Terjadi ke atasku tangan Yahweh, dan ⟨הוּא⟩ membawaku keluar dalam ruakh Yahweh, dan ⟨הוּא⟩ membaringkanku di tengah lembah itu, dan ⟨היא⟩ penuh tulang-tulang.",
+  "translation": "Tangan Yahweh ada atasku, dan ⟨ia⟩ membawaku keluar dalam roh Yahweh, dan ⟨ia⟩ menempatkanku di tengah lembah, dan ⟨lembah itu⟩ penuh tulang-tulang.",
   "tokens": [
     {
       "surface": "היתה",
-      "gloss": "terjadi"
+      "gloss": "ada"
     },
     {
       "surface": "עלי",
-      "gloss": "ke atasku"
+      "gloss": "atasku"
     },
     {
       "surface": "יד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ברוח",
-      "gloss": "dalam ruakh"
+      "gloss": "dalam roh"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויניחני",
-      "gloss": "dan membaringkanku"
+      "gloss": "dan menempatkanku"
     },
     {
       "surface": "בתוך",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הבקעה",
-      "gloss": "lembah itu"
+      "gloss": "lembah"
     },
     {
       "surface": "והיא",
-      "gloss": "dan ⟨היא⟩"
+      "gloss": "dan ⟨ia⟩"
     },
     {
       "surface": "מלאה",
@@ -60,6 +60,6 @@
       "gloss": "tulang-tulang"
     }
   ],
-  "timestamp": "2026-08-08T08:53:27.487270145Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:06.494190136Z",
+  "model": "glm-5.3"
 }

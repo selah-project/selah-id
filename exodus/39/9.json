@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 39,
-  "translation": "Bujursangkar ⟨dia⟩ berada, berlipat ganda mereka membuat ⟨את⟩ ⟨ה⟩ choshen; sejengkal panjangnya dan sejengkal lebarnya, berlipat ganda.",
+  "translation": "Empat persegi ⟨adalah⟩ ⟨ia⟩; berganda mereka membuat ⟨את⟩ ha-choshen; sejengkal panjangnya dan sejengkal lebarnya, berganda.",
   "tokens": [
     {
       "surface": "רבוע",
-      "gloss": "bujursangkar"
+      "gloss": "Empat persegi"
     },
     {
       "surface": "היה",
-      "gloss": "⟨dia⟩ berada"
+      "gloss": "⟨adalah⟩"
     },
     {
       "surface": "כפול",
-      "gloss": "berlipat ganda"
+      "gloss": "berganda"
     },
     {
       "surface": "עשו",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "choshen"
+      "marks": "ha-choshen"
     },
     {
       "surface": "החשן",
-      "gloss": "⟨ה⟩ choshen"
+      "gloss": "ha-choshen"
     },
     {
       "surface": "זרת",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "כפול",
-      "gloss": "berlipat ganda"
+      "gloss": "berganda"
     }
   ],
-  "timestamp": "2026-08-08T10:33:00.676512771Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:52.330095161Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "nehemiah",
   "lang": "id",
   "chapter": 8,
-  "translation": "Maka ia membacakan dia di depan ⟨הרחוב⟩ yang di depan sha'ar ha-mayim, dari pagi sampai tengah hari, di hadapan ⟨האנשים⟩ dan ⟨הנשים⟩ dan ⟨המבינים⟩, dan telinga seluruh ⟨העם⟩ ⟨אל⟩ sefer ha-torah.",
+  "translation": "Dan ia membacakan dari padanya di depan lapangan yang di depan Gerbang Air, dari terang fajar sampai tengah hari, di hadapan para laki-laki dan perempuan serta ⟨yang⟩ berakal budi; dan telinga seluruh bangsa itu tertuju kepada kitab Taurat itu.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "maka ia membacakan"
+      "gloss": "dan ia membacakan"
     },
     {
       "surface": "בו",
-      "gloss": "dia"
+      "gloss": "dari padanya"
     },
     {
       "surface": "לפני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הרחוב",
-      "gloss": "alun-alun"
+      "gloss": "lapangan"
     },
     {
       "surface": "אשר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "שער",
-      "gloss": "gerbang"
+      "gloss": "Gerbang"
     },
     {
       "surface": "המים",
-      "gloss": "air"
+      "gloss": "Air"
     },
     {
       "surface": "מן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "האור",
-      "gloss": "fajar"
+      "gloss": "terang fajar"
     },
     {
       "surface": "עד",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "laki-laki"
+      "gloss": "para laki-laki"
     },
     {
       "surface": "והנשים",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "והמבינים",
-      "gloss": "dan yang mengerti"
+      "gloss": "serta yang berakal budi"
     },
     {
       "surface": "ואזני",
@@ -85,21 +85,21 @@
     },
     {
       "surface": "העם",
-      "gloss": "rakyat"
+      "gloss": "bangsa itu"
     },
     {
       "surface": "אל",
-      "gloss": "ke"
+      "gloss": "tertuju kepada"
     },
     {
       "surface": "ספר",
-      "gloss": "gulitan"
+      "gloss": "kitab"
     },
     {
       "surface": "התורה",
-      "gloss": "Taurat"
+      "gloss": "Taurat itu"
     }
   ],
-  "timestamp": "2026-08-08T10:01:07.999334652Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:13.669225164Z",
+  "model": "glm-5.3"
 }

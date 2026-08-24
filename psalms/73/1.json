@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 73,
-  "translation": "Mizmor bagi Asaf: sungguh, baik bagi Yisrael ⟨⟨adalah⟩⟩ Elohim, bagi yang bersih hati.",
+  "translation": "Mizmor bagi Asaf. Sungguh, baiklah Elohim bagi Yisrael, bagi mereka yang bersih hatinya.",
   "tokens": [
     {
       "surface": "מזמור",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "baik"
+      "gloss": "baiklah"
     },
     {
       "surface": "לישראל",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "לברי",
-      "gloss": "bagi yang bersih"
+      "gloss": "bagi mereka yang bersih"
     },
     {
       "surface": "לבב",
       "gloss": "hati"
     }
   ],
-  "timestamp": "2026-08-08T09:17:49.648853757Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:42.276132405Z",
+  "model": "glm-5.3"
 }

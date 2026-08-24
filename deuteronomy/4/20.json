@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 4,
-  "translation": "Tetapi ⟨אתכם⟩ Yahweh telah mengambil, dan ⟨הוא⟩ membawa ⟨אתכם⟩ keluar dari tanur besi, dari Mitsrayim, untuk menjadi bagi-Nya menjadi umat milik, seperti hari ini.",
+  "translation": "Tetapi ⟨את⟩ kamu telah diambil Yahweh dan dikeluarkan-Nya ⟨את⟩ kamu dari tanur besi, dari Mitsrayim (Mesir), untuk menjadi bagi-Nya umat milik warisan, seperti pada hari ini ini.",
   "tokens": [
     {
       "surface": "ואתכם",
-      "gloss": "Tetapi ⟨אתכם⟩",
-      "marks": "kamu (objek langsung)"
+      "gloss": "tetapi ⟨את⟩ kamu",
+      "marks": "diambil"
     },
     {
       "surface": "לקח",
-      "gloss": "telah mengambil"
+      "gloss": "telah diambil"
     },
     {
       "surface": "יהוה",
@@ -22,16 +22,16 @@
     },
     {
       "surface": "ויוצא",
-      "gloss": "dan membawa keluar"
+      "gloss": "dan dikeluarkan-Nya"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "kamu (objek langsung)"
+      "gloss": "⟨את⟩ kamu",
+      "marks": "dikeluarkan"
     },
     {
       "surface": "מכור",
-      "gloss": "tanur"
+      "gloss": "dari tanur"
     },
     {
       "surface": "הברזל",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "ממצרים",
-      "gloss": "dari Mitsrayim"
+      "gloss": "dari Mitsrayim (Mesir)"
     },
     {
       "surface": "להיות",
@@ -51,21 +51,21 @@
     },
     {
       "surface": "לעם",
-      "gloss": "menjadi umat"
+      "gloss": "umat"
     },
     {
       "surface": "נחלה",
-      "gloss": "milik"
+      "gloss": "milik warisan"
     },
     {
       "surface": "כיום",
-      "gloss": "seperti hari"
+      "gloss": "seperti pada hari"
     },
     {
       "surface": "הזה",
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-09T01:39:53.583183916Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:31.073395789Z",
+  "model": "glm-5.3"
 }

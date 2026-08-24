@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 46,
-  "translation": "Dan pada hari-hari raya dan pada hari-hari yang ditetapkan ada persembahan ⟨ה⟩ biji-bijian: satu efa untuk ⟨ה⟩ lembu jantan, dan satu efa untuk ⟨ה⟩ domba jantan, dan untuk ⟨ה⟩ domba-domba muda — pemberian tangannya, dan minyak satu hin per efa.",
+  "translation": "Dan pada hari-hari raya dan pada waktu-waktu yang ditetapkan, korban minhah ⟨adalah⟩ satu eifah untuk seekor lembu, dan satu eifah untuk seekor domba jantan, dan untuk anak-anak domba sekadar pemberian tangannya, serta minyak satu hin untuk setiap eifah.",
   "tokens": [
     {
       "surface": "ובחגים",
@@ -13,35 +13,35 @@
     },
     {
       "surface": "ובמועדים",
-      "gloss": "dan pada hari-hari yang ditetapkan"
+      "gloss": "dan pada waktu-waktu yang ditetapkan"
     },
     {
       "surface": "תהיה",
-      "gloss": "ada"
+      "gloss": "adalah"
     },
     {
       "surface": "המנחה",
-      "gloss": "persembahan biji-bijian"
+      "gloss": "korban minhah"
     },
     {
       "surface": "איפה",
-      "gloss": "satu efa"
+      "gloss": "satu eifah"
     },
     {
       "surface": "לפר",
-      "gloss": "untuk lembu jantan"
+      "gloss": "untuk seekor lembu"
     },
     {
       "surface": "ואיפה",
-      "gloss": "dan satu efa"
+      "gloss": "dan satu eifah"
     },
     {
       "surface": "לאיל",
-      "gloss": "untuk domba jantan"
+      "gloss": "untuk seekor domba jantan"
     },
     {
       "surface": "ולכבשים",
-      "gloss": "dan untuk domba-domba muda"
+      "gloss": "dan untuk anak-anak domba"
     },
     {
       "surface": "מתת",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ושמן",
-      "gloss": "dan minyak"
+      "gloss": "serta minyak"
     },
     {
       "surface": "הין",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "לאיפה",
-      "gloss": "per efa"
+      "gloss": "untuk setiap eifah"
     }
   ],
-  "timestamp": "2026-08-08T11:27:40.560804956Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:20.625775749Z",
+  "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 15,
-  "translation": "Dan ia mengumpulkan ⟨את⟩ seluruh Yehudah dan Binyamin, dan ⟨orang-orang> yang tinggal asing bersama mereka, dari Efrayim dan dari Menashshe dan dari Shim'om, sebab mereka berbondong-bondong kepadanya dari Yisra'el dalam jumlah besar, ketika mereka melihat bahwa Yahweh, Elohim-nya, bersama dia.",
+  "translation": "Lalu ia mengumpulkan ⟨את⟩ seluruh Yehudah dan Binyamin, beserta orang-orang asing yang tinggal di antara mereka dari Efrayim, Menashsheh, dan Shim’on, sebab mereka berpaling kepadanya dari Yisra’el dalam jumlah besar, ketika mereka melihat bahwa Yahweh, Elohim-nya, menyertai dia.",
   "tokens": [
     {
       "surface": "ויקבץ",
-      "gloss": "Dan ia mengumpulkan"
+      "gloss": "Lalu ia mengumpulkan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seluruh"
+      "marks": "seluruh Yehudah dan Binyamin"
     },
     {
       "surface": "כל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "והגרים",
-      "gloss": "dan yang tinggal asing"
+      "gloss": "beserta orang-orang asing"
     },
     {
       "surface": "עמהם",
-      "gloss": "bersama mereka"
+      "gloss": "yang tinggal di antara mereka"
     },
     {
       "surface": "מאפרים",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "ומנשה",
-      "gloss": "dan dari Menashshe"
+      "gloss": "dan Menashsheh"
     },
     {
       "surface": "ומשמעון",
-      "gloss": "dan dari Shim'om"
+      "gloss": "dan Shim’on"
     },
     {
       "surface": "כי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "נפלו",
-      "gloss": "mereka berbondong-bondong"
+      "gloss": "mereka berpaling kepadanya"
     },
     {
       "surface": "עליו",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "מישראל",
-      "gloss": "dari Yisra'el"
+      "gloss": "dari Yisra’el"
     },
     {
       "surface": "לרב",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "עמו",
-      "gloss": "bersama dia"
+      "gloss": "menyertai dia"
     }
   ],
-  "timestamp": "2026-08-08T10:13:27.830008003Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:19.224254332Z",
+  "model": "glm-5.3"
 }

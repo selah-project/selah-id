@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan ⟨ia⟩ menetapkan menurut keputusan Dawid ayahnya ⟨את⟩ pembagian-pembagian para imam atas pelayanan mereka, dan orang-orang Lewi atas penjagaan-penjagaan mereka, untuk memuji dan untuk melayani di hadapan para imam untuk urusan hari demi hari, dan para penunggu pintu dalam pembagian-pembagian mereka untuk gerbang demi gerbang; karena demikianlah perintah Dawid, orang ⟨ה⟩ Elohim.",
+  "translation": "Lalu ia menetapkan, sesuai peraturan Dawid ayahnya, ⟨את⟩ kelompok-kelompok para imam atas pelayanan mereka, dan orang-orang Lewi atas tugas penjagaan mereka, untuk memuji dan untuk melayani di hadapan para imam, menurut urusan hari demi hari; juga para penunggu pintu dalam kelompok-kelompok mereka, pada tiap-tiap pintu gerbang — sebab demikianlah perintah Dawid, abdi ⟨the⟩ Elohim.",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "Dan ⟨ia⟩ menetapkan"
+      "gloss": "Lalu ia menetapkan"
     },
     {
       "surface": "כמשפט",
-      "gloss": "menurut keputusan"
+      "gloss": "sesuai peraturan"
     },
     {
       "surface": "דויד",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pembagian-pembagian para imam"
+      "marks": "kelompok-kelompok para imam"
     },
     {
       "surface": "מחלקות",
-      "gloss": "pembagian-pembagian"
+      "gloss": "kelompok-kelompok"
     },
     {
       "surface": "הכהנים",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "משמרותם",
-      "gloss": "penjagaan-penjagaan mereka"
+      "gloss": "tugas penjagaan mereka"
     },
     {
       "surface": "להלל",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "untuk urusan"
+      "gloss": "menurut urusan"
     },
     {
       "surface": "יום",
@@ -82,27 +82,27 @@
     },
     {
       "surface": "ביומו",
-      "gloss": "demi hari"
+      "gloss": "demi hari itu"
     },
     {
       "surface": "והשוערים",
-      "gloss": "dan para penunggu pintu"
+      "gloss": "juga para penunggu pintu"
     },
     {
       "surface": "במחלקותם",
-      "gloss": "dalam pembagian-pembagian mereka"
+      "gloss": "dalam kelompok-kelompok mereka"
     },
     {
       "surface": "לשער",
-      "gloss": "untuk gerbang"
+      "gloss": "pada tiap-tiap pintu gerbang"
     },
     {
       "surface": "ושער",
-      "gloss": "demi gerbang"
+      "gloss": "dan pintu gerbang"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "כן",
@@ -118,13 +118,13 @@
     },
     {
       "surface": "איש",
-      "gloss": "orang"
+      "gloss": "abdi"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨ה⟩ Elohim"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-08T18:40:31.350269639Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:27.489705551Z",
+  "model": "glm-5.3"
 }

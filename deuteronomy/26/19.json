@@ -5,8 +5,77 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 26,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-08T07:30:23.198554922Z",
-  "model": "glm-5.2"
+  "translation": "dan untuk menjadikan engkau tinggi di atas segala bangsa yang telah dibuat-Nya, untuk pujian, dan untuk nama, dan untuk kemuliaan, dan untuk engkau menjadi bangsa kudus bagi Yahweh Elohim-mu, seperti yang telah difirmankan-Nya.",
+  "tokens": [
+    {
+      "surface": "ולתתך",
+      "gloss": "dan untuk menjadikan engkau"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat-Nya"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "untuk pujian"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "dan untuk nama"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "dan untuk kemuliaan"
+    },
+    {
+      "surface": "ולהיתך",
+      "gloss": "dan untuk engkau menjadi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan-Nya"
+    }
+  ],
+  "timestamp": "2026-08-24T17:33:15.276185970Z",
+  "model": "glm-5.3"
 }

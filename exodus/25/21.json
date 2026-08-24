@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 25,
-  "translation": "Dan engkau akan menaruh ⟨את⟩ tutup pendamaian di atas ⟨הָ⟩ arak, dari atas; dan ke dalam ⟨הָ⟩ arak engkau akan menaruh ⟨את⟩ kesaksian yang Aku berikan kepadamu.",
+  "translation": "Dan engkau akan menaruh ⟨את⟩ tutup pendamaian di atas ⟨את⟩ tabut, di bagian atasnya, dan ke dalam tabut itu engkau akan menaruh ⟨את⟩ kesaksian yang akan Kuberikan kepadamu.",
   "tokens": [
     {
       "surface": "ונתת",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "הארן",
-      "gloss": "arak"
+      "gloss": "tabut"
     },
     {
       "surface": "מלמעלה",
-      "gloss": "dari atas"
+      "gloss": "di bagian atasnya"
     },
     {
       "surface": "ואל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הארן",
-      "gloss": "arak"
+      "gloss": "tabut itu"
     },
     {
       "surface": "תתן",
@@ -59,13 +59,13 @@
     },
     {
       "surface": "אתן",
-      "gloss": "Aku berikan"
+      "gloss": "akan Kuberikan"
     },
     {
       "surface": "אליך",
       "gloss": "kepadamu"
     }
   ],
-  "timestamp": "2026-08-08T07:01:58.172772892Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:54.004095667Z",
+  "model": "glm-5.3"
 }

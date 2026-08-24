@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 29,
-  "translation": "Dan Yahweh membuat Shelomoh ⟨מְגֻדָּל⟩ di atas, di mata seluruh Yisra'el, dan ⟨הוֹדִיר⟩ memberi atasnya ⟨הוֹד⟩ kerajaan, yang tidak pernah ada atas segala raja sebelumnya atas Yisra'el.",
+  "translation": "Dan Yahweh mengagungkan ⟨את⟩ Shelomoh di atas segalanya di mata seluruh Yisrael, dan diletakkan-Nya ke atasnya ⟨⟩ hod kerajaan yang belum pernah ada pada raja mana pun sebelum dia atas Yisrael.",
   "tokens": [
     {
       "surface": "ויגדל",
-      "gloss": "Dan membuat besar"
+      "gloss": "mengagungkan"
     },
     {
       "surface": "יהוה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "למעלה",
-      "gloss": "di atas"
+      "gloss": "di atas segalanya"
     },
     {
       "surface": "לעיני",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ויתן",
-      "gloss": "dan memberi"
+      "gloss": "diletakkan-Nya"
     },
     {
       "surface": "עליו",
-      "gloss": "atasnya"
+      "gloss": "ke atasnya"
     },
     {
       "surface": "הוד",
-      "gloss": "keagungan"
+      "gloss": "hod (kemuliaan)"
     },
     {
       "surface": "מלכות",
@@ -62,19 +62,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "belum pernah"
     },
     {
       "surface": "היה",
-      "gloss": "pernah ada"
+      "gloss": "ada"
     },
     {
       "surface": "על",
-      "gloss": "atas"
+      "gloss": "pada"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "mana pun"
     },
     {
       "surface": "מלך",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "sebelumnya"
+      "gloss": "sebelum dia"
     },
     {
       "surface": "על",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-08T12:03:58.197037582Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:28.834178231Z",
+  "model": "glm-5.3"
 }

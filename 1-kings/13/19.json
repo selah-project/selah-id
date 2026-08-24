@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 13,
-  "translation": "Maka ia kembali bersama dia, dan ia makan roti di rumahnya, dan ia minum air.",
+  "translation": "Maka ia kembali ⟨את⟩ bersama dia, dan ia makan roti di rumahnya, dan ia minum air.",
   "tokens": [
     {
       "surface": "וישב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersama dia"
+      "gloss": "⟨את⟩ bersama dia"
     },
     {
       "surface": "ויאכל",
@@ -36,6 +36,6 @@
       "gloss": "air"
     }
   ],
-  "timestamp": "2026-08-08T08:04:46.189104598Z",
+  "timestamp": "2026-08-24T17:55:27.258945450Z",
   "model": "glm-5.2"
 }

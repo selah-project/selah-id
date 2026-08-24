@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 3,
-  "translation": "Lalu berkatalah David kepada Yoav dan kepada seluruh rakyat yang bersamanya, “Koyaklah pakaianmu dan ikatlah kain karung dan rataplah di hadapan Avner.” Dan raja David berjalan di belakang ⟨usungan⟩.",
+  "translation": "Lalu berkatalah David kepada Yoav dan kepada seluruh rakyat yang ⟨את⟩ bersamanya, “Koyaklah pakaianmu dan ikatlah kain karung dan rataplah di hadapan Avner.” Dan raja David berjalan di belakang ⟨usungan⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "קרעו",
@@ -92,6 +92,6 @@
       "gloss": "⟨usungan⟩"
     }
   ],
-  "timestamp": "2026-08-08T07:53:58.851992181Z",
+  "timestamp": "2026-08-24T17:55:27.052657253Z",
   "model": "glm-5.2"
 }

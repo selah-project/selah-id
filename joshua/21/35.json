@@ -5,53 +5,53 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 21,
-  "translation": "⟨את⟩ Dimna dan ⟨את⟩ tanah penggembalaannya, ⟨את‬ Nahalal dan ⟨את⟩ tanah penggembalaannya: empat kota.",
+  "translation": "⟨את⟩ Dimnah dengan tanah penggembalaannya, ⟨את⟩ Nahalal dengan tanah penggembalaannya — empat kota.",
   "tokens": [
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Dimna"
+      "marks": "Dimnah"
     },
     {
-      "surface": "דִּמְנָה֙",
-      "gloss": "Dimna"
+      "surface": "דמנה",
+      "gloss": "Dimnah"
     },
     {
-      "surface": "וְאֶת",
-      "gloss": "dan ⟨את⟩",
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
       "marks": "tanah penggembalaannya"
     },
     {
-      "surface": "מִגְרָשֶׁ֔הָ",
+      "surface": "מגרשה",
       "gloss": "tanah penggembalaannya"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Nahalal"
     },
     {
-      "surface": "נַהֲלָ֖ל",
+      "surface": "נהלל",
       "gloss": "Nahalal"
     },
     {
-      "surface": "וְאֶת",
-      "gloss": "dan ⟨את⟩",
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
       "marks": "tanah penggembalaannya"
     },
     {
-      "surface": "מִגְרָשֶׁ֑הָ",
+      "surface": "מגרשה",
       "gloss": "tanah penggembalaannya"
     },
     {
-      "surface": "עָרִ֖ים",
-      "gloss": "kota-kota"
+      "surface": "ערים",
+      "gloss": "kota"
     },
     {
-      "surface": "אַרְבַּֽע",
+      "surface": "ארבע",
       "gloss": "empat"
     }
   ],
-  "timestamp": "2026-08-08T07:37:20.179702461Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:32.613150212Z",
+  "model": "glm-5.3"
 }

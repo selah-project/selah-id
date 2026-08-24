@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 45,
-  "translation": "Dan sekarang, bukan kalian yang mengutus ⟨את⟩ aku ke sini, melainkan ⟨ה⟩ Elohim, dan Ia telah menetapkan aku sebagai bapa bagi Paro dan sebagai tuan atas seluruh rumahnya, dan sebagai penguasa di seluruh tanah Mitsrayim.",
+  "translation": "Jadi sekarang bukan kamu yang mengutus aku ⟨את⟩ ke sini, melainkan ⟨ה⟩Elohim; dan ⟨Dia⟩ menempatkan aku sebagai ayah bagi Paro, dan sebagai tuan bagi seluruh rumahnya, dan penguasa di seluruh tanah Mitsrayim.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Dan sekarang"
+      "gloss": "Jadi sekarang"
     },
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "kalian"
+      "gloss": "kamu"
     },
     {
       "surface": "שלחתם",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "וישימני",
-      "gloss": "dan (Ia) telah menetapkan aku"
+      "gloss": "dan menempatkan aku"
     },
     {
       "surface": "לאב",
-      "gloss": "sebagai bapa"
+      "gloss": "sebagai ayah"
     },
     {
       "surface": "לפרעה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "atas seluruh"
+      "gloss": "bagi seluruh"
     },
     {
       "surface": "ביתו",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ומשל",
-      "gloss": "dan sebagai penguasa"
+      "gloss": "dan penguasa"
     },
     {
       "surface": "בכל",
@@ -81,6 +81,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-08T06:54:28.043312833Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:23.708281273Z",
+  "model": "glm-5.3"
 }

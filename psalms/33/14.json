@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 33,
-  "translation": "Dari kediaman ⟨tempat⟩ duduk-Nya ⟨הוּא⟩ mengamat ⟨אל⟩ semua penduduk bumi.",
+  "translation": "Dari tempat kedudukan-Nya ⟨ia⟩ mengamatikan semua penduduk bumi.",
   "tokens": [
     {
-      "surface": "מִֽמְּכוֹן",
-      "gloss": "dari kediaman"
+      "surface": "ממכון",
+      "gloss": "dari tempat kedudukan"
     },
     {
-      "surface": "שִׁבְתּ֥וֹ",
-      "gloss": "duduk-Nya"
+      "surface": "שבתו",
+      "gloss": "-Nya (diam)"
     },
     {
-      "surface": "הִשְׁגִּ֑יחַ",
-      "gloss": "mengamat"
+      "surface": "השגיח",
+      "gloss": "mengamatikan"
     },
     {
-      "surface": "אֶ֖ל",
-      "gloss": "⟨אל⟩"
+      "surface": "אל",
+      "gloss": "kepada"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "semua"
     },
     {
-      "surface": "יֹשְׁבֵ֣י",
+      "surface": "ישבי",
       "gloss": "penduduk"
     },
     {
-      "surface": "הָאָֽרֶץ",
+      "surface": "הארץ",
       "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-08T11:37:22.864631312Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:12.974045834Z",
+  "model": "glm-5.3"
 }

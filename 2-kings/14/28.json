@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 14,
-  "translation": "Dan selebihnya perkara-perkara Yarovam dan semua yang dilakukannya dan keperkasaannya yang diperanginya, dan bagaimana ia mengembalikan ⟨את⟩ Damesyek dan ⟨את⟩ Chamat kepada Yehuda di Yisrael, bukankah ⟨הֵֽם⟩ tertulis pada kitab riwayat hari-hari raja-raja Yisrael?",
+  "translation": "Selebihnya dari perkara-perkara Yaravam, dan semua yang ia lakukan, dan keperkasaannya yang dengannya ia berperang, dan bagaimana ia mengembalikan ⟨את⟩ Damsyik dan ⟨את⟩ Hamat kepada Yehuda di Israel, bukankah semuanya itu tertulis dalam kitab sejarah raja-raja Israel?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "dan selebihnya"
+      "gloss": "Selebihnya"
     },
     {
       "surface": "דברי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yarovam"
+      "gloss": "Yaravam"
     },
     {
       "surface": "וכל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "dilakukannya"
+      "gloss": "ia lakukan"
     },
     {
       "surface": "וגבורתו",
-      "gloss": "keperkasaannya"
+      "gloss": "dan keperkasaannya"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נלחם",
-      "gloss": "diperanginya"
+      "gloss": "ia berperang"
     },
     {
       "surface": "ואשר",
@@ -54,20 +54,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Damesyek"
+      "marks": "Damsyik"
     },
     {
       "surface": "דמשק",
-      "gloss": "Damesyek"
+      "gloss": "Damsyik"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Chamat"
+      "marks": "Hamat"
     },
     {
       "surface": "חמת",
-      "gloss": "Chamat"
+      "gloss": "Hamat"
     },
     {
       "surface": "ליהודה",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "di Yisrael"
+      "gloss": "di Israel"
     },
     {
       "surface": "הלא",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "הם",
-      "gloss": "mereka"
+      "gloss": "semuanya itu"
     },
     {
       "surface": "כתובים",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "על",
-      "gloss": "pada"
+      "gloss": "dalam"
     },
     {
       "surface": "ספר",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "riwayat"
+      "gloss": "sejarah (perkara-perkara)"
     },
     {
       "surface": "הימים",
@@ -111,9 +111,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     }
   ],
-  "timestamp": "2026-08-08T08:11:39.991709164Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:39.292483881Z",
+  "model": "glm-5.3"
 }

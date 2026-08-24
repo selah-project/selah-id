@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 10,
-  "translation": "dan Aku akan menulis pada loh itu ⟨את⟩ perkataan yang ada pada loh yang pertama, yang kaupecundangkan, dan kautaruhlah它们 di dalam arca.”",
+  "translation": "dan Aku akan menulis pada loh-loh itu ⟨את⟩ perkataan-perkataan yang ada pada loh-loh yang pertama, yang kaupecahkan, dan engkau akan menaruhnya dalam tabut itu.",
   "tokens": [
     {
       "surface": "ואכתב",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "הלחת",
-      "gloss": "loh itu"
+      "gloss": "loh-loh itu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perkataan"
+      "marks": "perkataan-perkataan"
     },
     {
       "surface": "הדברים",
-      "gloss": "perkataan"
+      "gloss": "perkataan-perkataan"
     },
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הלחת",
-      "gloss": "loh"
+      "gloss": "loh-loh"
     },
     {
       "surface": "הראשנים",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "שברת",
-      "gloss": "kaupecundangkan"
+      "gloss": "kaupecahkan"
     },
     {
       "surface": "ושמתם",
-      "gloss": "dan kautaruhlah mereka"
+      "gloss": "dan engkau akan menaruhnya"
     },
     {
       "surface": "בארון",
-      "gloss": "di dalam arca"
+      "gloss": "dalam tabut itu"
     }
   ],
-  "timestamp": "2026-08-08T07:27:05.589683368Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:51.226470022Z",
+  "model": "glm-5.3"
 }

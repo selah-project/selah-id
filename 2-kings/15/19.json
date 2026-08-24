@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 15,
-  "translation": "Pul raja Ashur datang terhadap negeri itu, dan Menakhem memberikan kepada Pul seribu talenta perak, supaya tangannya ⟨bersama⟩ dia, untuk mengokohkan kerajaan di tangannya.",
+  "translation": "Pul raja Ashur datang terhadap negeri itu, dan Menakhem memberikan kepada Pul seribu talenta perak, supaya tangannya ⟨את⟩ ⟨bersama⟩ dia, untuk mengokohkan kerajaan di tangannya.",
   "tokens": [
     {
       "surface": "בא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨bersama⟩ dia"
+      "gloss": "⟨את⟩ ⟨bersama⟩ dia"
     },
     {
       "surface": "להחזיק",
@@ -80,6 +80,6 @@
       "gloss": "di tangannya"
     }
   ],
-  "timestamp": "2026-08-08T11:06:45.424385316Z",
+  "timestamp": "2026-08-24T17:55:27.195140195Z",
   "model": "glm-5.2"
 }

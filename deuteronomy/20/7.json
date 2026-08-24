@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan siapakah ⟨the⟩ laki-laki yang telah meminang seorang perempuan dan belum mengambilnya? Biarlah ia pergi dan kembali ke rumahnya, supaya jangan ia mati dalam peperangan dan laki-laki lain mengambilnya.",
+  "translation": "Dan siapakah ⟨האיש⟩ yang telah meminang seorang istri dan belum mengambilnya? Biarlah ia pergi dan kembali ke rumahnya, supaya jangan ia mati dalam peperangan dan orang lain yang mengambilnya.",
   "tokens": [
     {
       "surface": "ומי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "laki-laki"
+      "gloss": "⟨האיש⟩ laki-laki"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "seorang perempuan"
+      "gloss": "seorang istri"
     },
     {
       "surface": "ולא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "dan laki-laki"
+      "gloss": "dan orang"
     },
     {
       "surface": "אחר",
@@ -72,6 +72,6 @@
       "gloss": "mengambilnya"
     }
   ],
-  "timestamp": "2026-08-08T10:46:53.349868775Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:33.787177398Z",
+  "model": "glm-5.3"
 }

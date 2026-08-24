@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 99,
-  "translation": "Dalam tiang awan ⟨הוּא⟩ berbicara kepada mereka; mereka menjaga kesaksiannya, dan ⟨הוּא⟩ memberikan ketetapan kepada mereka.",
+  "translation": "Dalam tiang awan Ia berfirman kepada mereka; mereka menjaga kesaksiannya, dan ketetapan yang Ia berikan kepada mereka.",
   "tokens": [
     {
       "surface": "בעמוד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "Ia berbicara"
+      "gloss": "Ia berfirman"
     },
     {
       "surface": "אליהם",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "Ia memberikan"
+      "gloss": "Ia berikan"
     },
     {
       "surface": "למו",
       "gloss": "kepada mereka"
     }
   ],
-  "timestamp": "2026-08-08T11:45:19.226961794Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:20.709195048Z",
+  "model": "glm-5.3"
 }

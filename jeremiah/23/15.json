@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 23,
-  "translation": "Sebab itu beginilah bersabda Yahweh Tsevaot mengenai nabi-nabi itu: Lihat, Aku akan memberi mereka makan empedu, dan Aku akan memberi mereka minum air racun, sebab dari nabi-nabi Yerushalayim telah keluar kemunafikan ke seluruh bumi.",
+  "translation": "Sebab itu beginilah bersabda Yahweh Tsevaot mengenai nabi-nabi itu: Lihat, Aku akan memberi mereka makan empedu, dan Aku akan memberi mereka minum air racun, sebab ⟨את⟩ dari nabi-nabi Yerushalayim telah keluar kemunafikan ke seluruh bumi.",
   "tokens": [
     {
       "surface": "לָכֵ֞ן",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מֵאֵת֙",
-      "gloss": "dari"
+      "gloss": "⟨את⟩ dari"
     },
     {
       "surface": "נְבִיאֵ֣י",
@@ -97,6 +97,6 @@
       "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-09T01:42:27.479254495Z",
+  "timestamp": "2026-08-24T17:55:27.122288704Z",
   "model": "glm-5.2"
 }

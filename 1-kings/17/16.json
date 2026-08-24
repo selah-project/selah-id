@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 17,
-  "translation": "Tempayan ⟨ה⟩ tepung tidaklah habis, dan buli-buli minyak tidaklah berkurang, seperti perkataan Yahweh yang difirmankan-Nya melalui tangan Eliyahu.",
+  "translation": "Para tepung dalam buyung itu tidak habis, dan minyak dalam buli-buli itu tidak berkurang, menurut firman Yahweh yang difirmankan-Nya dengan perantaraan Eliyahu.",
   "tokens": [
     {
       "surface": "כד",
-      "gloss": "Tempayan"
+      "gloss": "buyung"
     },
     {
       "surface": "הקמח",
-      "gloss": "tepung"
+      "gloss": "tepun"
     },
     {
       "surface": "לא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וצפחת",
-      "gloss": "dan buli-buli"
+      "gloss": "buli-buli"
     },
     {
       "surface": "השמן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "seperti perkataan"
+      "gloss": "menurut firman"
     },
     {
       "surface": "יהוה",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "דבר",
-      "gloss": "difirmankan-Nya"
+      "gloss": "difirmankan"
     },
     {
       "surface": "ביד",
-      "gloss": "melalui tangan"
+      "gloss": "dengan perantaraan"
     },
     {
       "surface": "אליהו",
       "gloss": "Eliyahu"
     }
   ],
-  "timestamp": "2026-08-08T08:06:09.979988190Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:43.758638399Z",
+  "model": "glm-5.3"
 }

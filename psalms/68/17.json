@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 68,
-  "translation": "Mengapa kamu memandang dengan cemburu, gunung-gunung berpuncak-puncak? ⟨הר⟩ gunung yang dirindukan Elohim untuk diam-Nya — bahkan Yahweh akan diam di sana untuk selamanya.",
+  "translation": "Mengapa kamu memandang iri, hai gunung-gunung berpuncak-puncak? ⟨Inilah⟩ gunung yang dirindukan Elohim untuk diam di sana; ya, Yahweh akan diam di sana untuk selama-lamanya.",
   "tokens": [
     {
       "surface": "למה",
-      "gloss": "mengapa"
+      "gloss": "Mengapa"
     },
     {
       "surface": "תרצדון",
-      "gloss": "kamu memandang dengan cemburu"
+      "gloss": "kamu memandang iri"
     },
     {
       "surface": "הרים",
-      "gloss": "gunung-gunung"
+      "gloss": "hai gunung-gunung"
     },
     {
       "surface": "גבננים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ההר",
-      "gloss": "⟨הר⟩ gunung"
+      "gloss": "gunung ⟨yang⟩"
     },
     {
       "surface": "חמד",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לשבתו",
-      "gloss": "untuk diam-Nya"
+      "gloss": "untuk diam di sana"
     },
     {
       "surface": "אף",
-      "gloss": "bahkan"
+      "gloss": "ya"
     },
     {
       "surface": "יהוה",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "לנצח",
-      "gloss": "untuk selamanya"
+      "gloss": "untuk selama-lamanya"
     }
   ],
-  "timestamp": "2026-08-08T09:17:08.785137793Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:53.274436326Z",
+  "model": "glm-5.3"
 }

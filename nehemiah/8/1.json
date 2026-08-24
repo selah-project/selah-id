@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "id",
   "chapter": 8,
-  "translation": "Maka berkumpullah seluruh ⟨העם⟩ sebagai satu orang di ⟨הרחוב⟩ yang di depan sha'ar ha-mayim, dan mereka berkata kepada Ezra ha-sofer untuk membawa ⟨את⟩ sefer torat Moshe yang diperintahkan Yahweh kepada ⟨את⟩ Yisra'el.",
+  "translation": "Lalu berkumpullah seluruh bangsa itu sebagai satu orang di alun-alun yang di depan Gerbang Air, dan mereka berkata kepada Ezra sang ahli kitab supaya membawa ⟨את⟩ kitab Taurat Moshe (Musa), yang diperintahkan Yahweh kepada ⟨את⟩ Yisrael.",
   "tokens": [
     {
       "surface": "ויאספו",
-      "gloss": "maka berkumpullah"
+      "gloss": "Lalu berkumpullah"
     },
     {
       "surface": "כל",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "rakyat"
+      "gloss": "bangsa itu"
     },
     {
       "surface": "כאיש",
-      "gloss": "sebagai satu orang"
+      "gloss": "sebagai"
     },
     {
       "surface": "אחד",
-      "gloss": "satu"
+      "gloss": "satu orang"
     },
     {
       "surface": "אל",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "שער",
-      "gloss": "gerbang"
+      "gloss": "Gerbang"
     },
     {
       "surface": "המים",
-      "gloss": "air"
+      "gloss": "Air"
     },
     {
       "surface": "ויאמרו",
@@ -61,20 +61,20 @@
     },
     {
       "surface": "הספר",
-      "gloss": "ahli tulis"
+      "gloss": "sang ahli kitab"
     },
     {
       "surface": "להביא",
-      "gloss": "untuk membawa"
+      "gloss": "supaya membawa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sefer torat Moshe"
+      "marks": "kitab Taurat Moshe"
     },
     {
       "surface": "ספר",
-      "gloss": "gulitan"
+      "gloss": "kitab"
     },
     {
       "surface": "תורת",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Moshe (Musa)"
     },
     {
       "surface": "אשר",
@@ -99,13 +99,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-08T10:01:07.998982763Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:00.119501412Z",
+  "model": "glm-5.3"
 }

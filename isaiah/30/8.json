@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 30,
-  "translation": "Sekarang datanglah, tuliskan itu di atas loh bersama mereka, dan di atas kitab ukirkan itu, dan ⟨ itu ⟩ akan menjadi untuk hari yang terakhir, untuk kesaksian selamanya.",
+  "translation": "Sekarang datanglah, tuliskan itu di atas loh ⟨את⟩ bersama mereka, dan di atas kitab ukirkan itu, dan ⟨ itu ⟩ akan menjadi untuk hari yang terakhir, untuk kesaksian selamanya.",
   "tokens": [
     {
       "surface": "עתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "bersama mereka"
+      "gloss": "⟨את⟩ bersama mereka"
     },
     {
       "surface": "ועל",
@@ -68,6 +68,6 @@
       "gloss": "lamanya"
     }
   ],
-  "timestamp": "2026-08-08T08:22:21.740737342Z",
+  "timestamp": "2026-08-24T17:55:27.216996652Z",
   "model": "glm-5.2"
 }

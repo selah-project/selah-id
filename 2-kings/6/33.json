@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Selagi ⟨ia⟩ masih berbicara dengan mereka, sungguh, sang utusan turun mendapatkan⟨nya⟩, dan ⟨ia⟩ berkata, “Sungguh, kejahatan ini dari sisi Yahweh; mengapa aku harus menanti-nantikan Yahweh lagi?”",
+  "translation": "Selagi ⟨ia⟩ masih berbicara dengan mereka, sungguh, sang utusan turun mendapatkan⟨nya⟩, dan ⟨ia⟩ berkata, “Sungguh, kejahatan ini ⟨את⟩ dari sisi Yahweh; mengapa aku harus menanti-nantikan Yahweh lagi?”",
   "tokens": [
     {
       "surface": "עודנו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari sisi"
+      "gloss": "⟨את⟩ dari sisi"
     },
     {
       "surface": "יהוה",
@@ -76,6 +76,6 @@
       "gloss": "lagi"
     }
   ],
-  "timestamp": "2026-08-08T08:09:04.268403999Z",
+  "timestamp": "2026-08-24T17:55:27.201297771Z",
   "model": "glm-5.2"
 }

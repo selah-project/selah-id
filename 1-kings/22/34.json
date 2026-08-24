@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 22,
-  "translation": "Dan seorang ⟨איש⟩ menarik busur dengan sederhana, dan ia memukul ⟨את⟩ raja Yisra'el di antara sambungan-sambungan ⟨baju zirah⟩ dan ⟨di antara⟩ sisir baja; maka ia berkata kepada kusirnya, “Balikkan tanganmu dan bawalah aku keluar dari perkemahan, karena aku telah terluka parah.”",
+  "translation": "Dan seorang ⟨איש⟩ menarik busurnya sekadar begitu saja, lalu memukul ⟨את⟩ raja Yisrael di antara sambungan-sambungan baju zirah dan sisinya; maka ia berkata kepada kusir keretanya, “Balikkan tanganmu dan bawalah aku keluar dari kamp, sebab aku terluka parah.”",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Dan seorang"
+      "gloss": "Dan seorang ⟨איש⟩"
     },
     {
       "surface": "משך",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "בקשת",
-      "gloss": "busur"
+      "gloss": "busurnya"
     },
     {
       "surface": "לתמו",
-      "gloss": "dengan sederhana"
+      "gloss": "sekadar begitu saja"
     },
     {
       "surface": "ויכה",
-      "gloss": "dan ia memukul"
+      "gloss": "lalu memukul"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "raja"
+      "marks": "raja Yisrael"
     },
     {
       "surface": "מלך",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "בין",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הדבקים",
-      "gloss": "sambungan-sambungan"
+      "gloss": "sambungan-sambungan baju zirah"
     },
     {
       "surface": "ובין",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "השרין",
-      "gloss": "sisir baja"
+      "gloss": "sisinya (breastplate)"
     },
     {
       "surface": "ויאמר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לרכבו",
-      "gloss": "kepada kusirnya"
+      "gloss": "kepada kusir keretanya"
     },
     {
       "surface": "הפך",
@@ -82,17 +82,17 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "perkemahan"
+      "gloss": "kamp"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "החליתי",
-      "gloss": "aku telah terluka parah"
+      "gloss": "aku terluka parah"
     }
   ],
-  "timestamp": "2026-08-08T18:31:57.142426247Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:46.957489209Z",
+  "model": "glm-5.3"
 }

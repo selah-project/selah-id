@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 60,
-  "translation": "Engkau telah membuat ⟨ה⟩ bumi berguncang; Engkau telah merobeknya; sembuhkanlah retak-retaknya, sebab ⟨ia⟩ tergoyahkan!",
+  "translation": "Engkau telah mengguncangkan ⟨את⟩ bumi, telah membelahnya; sembuhkanlah retak-retaknya, sebab ia goyah.",
   "tokens": [
     {
       "surface": "הרעשתה",
-      "gloss": "Engkau telah membuat berguncang"
+      "gloss": "Engkau telah mengguncangkan"
     },
     {
       "surface": "ארץ",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "פצמתה",
-      "gloss": "Engkau telah merobeknya"
+      "gloss": "telah membelahnya"
     },
     {
       "surface": "רפה",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "מטה",
-      "gloss": "tergoyahkan"
+      "gloss": "ia goyah"
     }
   ],
-  "timestamp": "2026-08-08T09:15:59.594398129Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:35.003948318Z",
+  "model": "glm-5.3"
 }

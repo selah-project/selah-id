@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 42,
-  "translation": "Utuslah dari antara kamu satu orang, dan biarlah ia mengambil ⟨את⟩ saudaramu; tetapi kamu, terikatlah, dan biarlah diuji perkataanmu — ⟨apakah⟩ kebenaran ⟨bersama⟩ kamu; dan jika tidak, ⟨sebesar⟩ hidup Paroh, sungguh mata-mata kamu.",
+  "translation": "Utuslah dari antara kamu satu orang, dan biarlah ia mengambil ⟨את⟩ saudaramu; tetapi kamu, terikatlah, dan biarlah diuji perkataanmu — ⟨apakah⟩ kebenaran ⟨את⟩ ⟨bersama⟩ kamu; dan jika tidak, ⟨sebesar⟩ hidup Paroh, sungguh mata-mata kamu.",
   "tokens": [
     {
       "surface": "שלחו",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨bersama⟩ kamu"
+      "gloss": "⟨את⟩ ⟨bersama⟩ kamu"
     },
     {
       "surface": "ואם",
@@ -85,6 +85,6 @@
       "gloss": "kamu"
     }
   ],
-  "timestamp": "2026-08-08T10:25:29.236479619Z",
+  "timestamp": "2026-08-24T17:55:27.072466699Z",
   "model": "glm-5.2"
 }

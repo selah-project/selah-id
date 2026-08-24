@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 6,
-  "translation": "Lalu aku berkata: “Celakalah aku, ⟨karena⟩ aku telah dibungkam, ⟨karena⟩ aku ⟨⟨adalah⟩⟩ seorang laki-laki bibir najis, dan di tengah-tengah bangsa bibir najis aku ⟨sedang⟩ duduk, ⟨karena⟩ mataku telah melihat ⟨את⟩ Sang Raja, Yahweh Tsevaot.”",
+  "translation": "Maka berkatalah aku: “Celakalah aku, sebab aku binasa, sebab aku ⟨adalah⟩ seorang yang najis bibir, dan di tengah-tengah bangsa yang najis bibirlah aku ini diam, sebab mataku telah melihat ⟨את⟩ Sang Raja, Yahweh Tsevaot.”",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "Lalu aku berkata"
+      "gloss": "maka berkatalah aku"
     },
     {
       "surface": "אוי",
-      "gloss": "Celakalah"
+      "gloss": "celakalah"
     },
     {
       "surface": "לי",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨karena⟩"
+      "gloss": "sebab"
     },
     {
       "surface": "נדמיתי",
-      "gloss": "aku telah dibungkam"
+      "gloss": "aku binasa"
     },
     {
       "surface": "כי",
-      "gloss": "⟨karena⟩"
+      "gloss": "sebab"
     },
     {
       "surface": "איש",
-      "gloss": "seorang laki-laki"
+      "gloss": "seorang"
     },
     {
       "surface": "טמא",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "aku"
+      "gloss": "aku ini"
     },
     {
       "surface": "יושב",
-      "gloss": "⟨sedang⟩ duduk"
+      "gloss": "diam"
     },
     {
       "surface": "כי",
-      "gloss": "⟨karena⟩"
+      "gloss": "sebab"
     },
     {
       "surface": "את",
@@ -101,6 +101,6 @@
       "gloss": "mataku"
     }
   ],
-  "timestamp": "2026-08-08T08:16:56.324850046Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:49.290754945Z",
+  "model": "glm-5.3"
 }

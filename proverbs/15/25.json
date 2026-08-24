@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 15,
-  "translation": "Rumah orang-orang sombong akan dicabut Yahweh, tetapi ⟨Ia⟩ menegakkan batas <<wila>>h seorang janda.",
+  "translation": "Rumah ⟨si⟩ angkak akan dicabut oleh Yahweh, tetapi ⟨Ia⟩ menegakkan batas milik janda.",
   "tokens": [
     {
-      "surface": "בֵּ֣ית",
-      "gloss": "rumah"
+      "surface": "בית",
+      "gloss": "Rumah"
     },
     {
-      "surface": "גֵּ֭אִים",
-      "gloss": "orang-orang sombong"
+      "surface": "גאים",
+      "gloss": "⟨si⟩ angkak"
     },
     {
-      "surface": "יִסַּ֥ח",
+      "surface": "יסח",
       "gloss": "akan dicabut"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "וְ֝יַצֵּ֗ב",
-      "gloss": "tetapi menegakkan"
+      "surface": "ויצב",
+      "gloss": "tetapi ⟨Ia⟩ menegakkan"
     },
     {
-      "surface": "גְּב֣וּל",
-      "gloss": "batas"
+      "surface": "גבול",
+      "gloss": "batas milik"
     },
     {
-      "surface": "אַלְמָנָֽה",
+      "surface": "אלמנה",
       "gloss": "janda"
     }
   ],
-  "timestamp": "2026-08-08T11:49:41.800829812Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:48.860750995Z",
+  "model": "glm-5.3"
 }

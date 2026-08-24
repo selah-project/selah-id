@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 1,
-  "translation": "Lalu Adonijah mendengar, dan semua ⟨yang⟩ terpanggil yang bersama dia, dan mereka sedang selesai makan; dan Yoab mendengar ⟨את⟩ bunyi sangkakala, lalu berkata, “Mengapakah bunyi kota begitu riuh?”",
+  "translation": "Lalu Adonijah mendengar, dan semua ⟨yang⟩ terpanggil yang ⟨את⟩ bersama dia, dan mereka sedang selesai makan; dan Yoab mendengar ⟨את⟩ bunyi sangkakala, lalu berkata, “Mengapakah bunyi kota begitu riuh?”",
   "tokens": [
     {
       "surface": "וישמע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersama dia"
+      "gloss": "⟨את⟩ bersama dia"
     },
     {
       "surface": "והם",
@@ -85,6 +85,6 @@
       "gloss": "begitu riuh"
     }
   ],
-  "timestamp": "2026-08-08T08:00:32.303620220Z",
+  "timestamp": "2026-08-24T17:55:27.255610415Z",
   "model": "glm-5.2"
 }

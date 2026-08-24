@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 21,
-  "translation": "Apakah engkau melihat, bahwa Akh'av telah merendahkan diri dari hadapan-Ku? Karena ia telah merendahkan diri dari hadapan-Ku, aku tidak mendatangkan ⟨ה⟩ bencana itu pada hari-haranya; tetapi pada hari-hari anaknya aku mendatangkan ⟨ה⟩ bencana itu atas keluarganya.",
+  "translation": "“Apakah engkau melihat, bahwa Akhab merendahkan diri di hadapan-Ku? Karena ia merendahkan diri di hadapan-Ku, tidak akan kudatangkan ⟨את⟩ bencana itu pada hari-harinya, tetapi pada hari-hari anaknya akan kudatangkan ⟨את⟩ bencana itu atas keluarganya.”",
   "tokens": [
     {
       "surface": "הראית",
-      "gloss": "apakah engkau melihat"
+      "gloss": "Apakah engkau melihat"
     },
     {
       "surface": "כי",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "נכנע",
-      "gloss": "telah merendahkan diri"
+      "gloss": "merendahkan diri"
     },
     {
       "surface": "אחאב",
-      "gloss": "Akh'av"
+      "gloss": "Akhab"
     },
     {
       "surface": "מלפני",
-      "gloss": "dari hadapan-Ku"
+      "gloss": "di hadapan-Ku"
     },
     {
       "surface": "יען",
-      "gloss": "karena"
+      "gloss": "Karena"
     },
     {
       "surface": "כי",
-      "gloss": "(bahwa)"
+      "gloss": "bahwa"
     },
     {
       "surface": "נכנע",
-      "gloss": "telah merendahkan diri"
+      "gloss": "merendahkan diri"
     },
     {
       "surface": "מפני",
-      "gloss": "dari hadapan-Ku"
+      "gloss": "di hadapan-Ku"
     },
     {
       "surface": "לא",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "aku mendatangkan"
+      "gloss": "akan kudatangkan"
     },
     {
       "surface": "הרעה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בימיו",
-      "gloss": "pada hari-haranya"
+      "gloss": "pada hari-harinya"
     },
     {
       "surface": "בימי",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אביא",
-      "gloss": "aku mendatangkan"
+      "gloss": "akan kudatangkan"
     },
     {
       "surface": "הרעה",
@@ -84,6 +84,6 @@
       "gloss": "keluarganya"
     }
   ],
-  "timestamp": "2026-08-08T08:07:52.059826166Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:43.213267106Z",
+  "model": "glm-5.3"
 }

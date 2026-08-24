@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Lalu Elisha berdoa dan berkata, “Yahweh, bukakanlah ⟨את⟩ matanya supaya ia melihat.” Dan Yahweh membukakan ⟨את⟩ mata ⟨הנער⟩ itu, dan ia melihat, dan lihat, gunung itu penuh kuda dan kereta api berkeliling Elisha.",
+  "translation": "Lalu Elisha berdoa dan berkata, “Yahweh, bukalah kiranya matanya supaya ia melihat.” Dan Yahweh membuka mata ⟨את⟩ pemuda itu, dan ia melihat, dan lihat, gunung itu penuh kuda dan kereta api mengelilingi Elisha.",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "gloss": "Lalu berdoa"
+      "gloss": "Lalu Elisha berdoa"
     },
     {
       "surface": "אלישע",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "פקח",
-      "gloss": "bukakanlah"
+      "gloss": "bukalah"
     },
     {
       "surface": "נא",
-      "gloss": "mohon"
+      "gloss": "kiranya"
     },
     {
       "surface": "את",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ויפקח",
-      "gloss": "Dan membukakan"
+      "gloss": "Dan ... membuka"
     },
     {
       "surface": "יהוה",
@@ -55,7 +55,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mata"
+      "marks": "mata pemuda itu"
     },
     {
       "surface": "עיני",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "הנער",
-      "gloss": "⟨orang muda⟩ itu"
+      "gloss": "pemuda itu"
     },
     {
       "surface": "וירא",
@@ -95,13 +95,13 @@
     },
     {
       "surface": "סביבת",
-      "gloss": "berkeliling"
+      "gloss": "mengelilingi"
     },
     {
       "surface": "אלישע",
       "gloss": "Elisha"
     }
   ],
-  "timestamp": "2026-08-08T08:10:07.743836380Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:09.293663671Z",
+  "model": "glm-5.3"
 }

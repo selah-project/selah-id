@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 4,
-  "translation": "Maka jadilah firman Shemuël kepada seluruh Yisraël, dan Yisraël keluar untuk menemui Pelishtim ⟨untuk⟩ pertempuran, dan mereka berkemah dekat ⟨האבן העזר⟩, dan Pelishtim berkemah di Afek.",
+  "translation": "Dan firman Shemuel sampai kepada seluruh Yisrael, lalu Yisrael maju menghadapi orang Palishtim untuk berperang, dan mereka berkemah di Eben-ha-Ezer, sedangkan orang Palishtim berkemah di Afek.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "maka jadilah"
+      "gloss": "Dan terjadi"
     },
     {
       "surface": "דבר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuël"
+      "gloss": "Shemuel"
     },
     {
       "surface": "לכל",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraël"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ויצא",
-      "gloss": "dan keluar"
+      "gloss": "lalu maju"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraël"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לקראת",
-      "gloss": "untuk menemui"
+      "gloss": "menghadapi"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelishtim"
+      "gloss": "orang Palishtim"
     },
     {
       "surface": "למלחמה",
-      "gloss": "untuk pertempuran"
+      "gloss": "untuk berperang"
     },
     {
       "surface": "ויחנו",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "על",
-      "gloss": "dekat"
+      "gloss": "di"
     },
     {
       "surface": "האבן",
-      "gloss": "HaEven"
+      "gloss": "Eben"
     },
     {
       "surface": "העזר",
-      "gloss": "HaEzer"
+      "gloss": "ha-Ezer"
     },
     {
-      "surface": "ופלשתים",
-      "gloss": "dan Pelishtim"
+      "surface": "ויפלשתים",
+      "gloss": "sedangkan orang Palishtim"
     },
     {
       "surface": "חנו",
@@ -76,6 +76,6 @@
       "gloss": "di Afek"
     }
   ],
-  "timestamp": "2026-08-08T07:45:53.691980717Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:22.877811073Z",
+  "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 22,
-  "translation": "Dan kepada gadis itu tidak akan engkau lakukan apa pun; tidak ada pada gadis itu dosa hukuman mati, karena seperti ketika seorang laki-laki bangkit terhadap sesamanya dan membunuh ⟨את⟩ נפש-nya, demikianlah perkara ini.",
+  "translation": "Dan kepada sang gadis janganlah engkau melakukan sesuatu perkara; tidak ada pada sang gadis ⟨dosalah⟩ yang menggugurkan nyawa — dosa mati; sebab seperti ketika seorang laki-laki bangkit melawan sesamanya dan membunuh nyawanya, demikianlah perkara ini.",
   "tokens": [
     {
       "surface": "ולנער",
-      "gloss": "Dan kepada gadis itu"
+      "gloss": "Dan kepada sang gadis"
     },
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "janganlah"
     },
     {
       "surface": "תעשה",
-      "gloss": "akan engkau lakukan"
+      "gloss": "engkau melakukan"
     },
     {
       "surface": "דבר",
-      "gloss": "apa pun"
+      "gloss": "sesuatu perkara"
     },
     {
       "surface": "אין",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לנער",
-      "gloss": "pada gadis itu"
+      "gloss": "pada sang gadis"
     },
     {
       "surface": "חטא",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מות",
-      "gloss": "hukuman mati"
+      "gloss": "mati"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "כאשר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "יקום",
-      "gloss": "seorang laki-laki bangkit"
+      "gloss": "bangkit"
     },
     {
       "surface": "איש",
-      "gloss": "seorang laki-laki bangkit"
+      "gloss": "seorang laki-laki"
     },
     {
       "surface": "על",
@@ -69,7 +69,8 @@
     },
     {
       "surface": "נפש",
-      "gloss": "nyawa"
+      "gloss": "nyawanya",
+      "marks": "nyawanya"
     },
     {
       "surface": "כן",
@@ -84,6 +85,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T10:46:38.696911548Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.177257394Z",
+  "model": "glm-5.3"
 }

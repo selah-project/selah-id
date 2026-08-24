@@ -5,46 +5,46 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 16,
-  "translation": "supaya engkau menanggung ⟨ אֶת ⟩ aibmu, dan menjadi malu karena segala yang telah engkau lakukan, saat engkau menghibur mereka.",
+  "translation": "supaya engkau memikul ⟨את⟩ aibmu dan mendapat malu oleh segala yang telah kaulakukan, ketika engkau menghibur mereka.",
   "tokens": [
     {
-      "surface": "לְמַ֨עַן֙",
+      "surface": "למען",
       "gloss": "supaya"
     },
     {
-      "surface": "תִּשְׂאִ֣י",
-      "gloss": "engkau menanggung"
+      "surface": "תשאי",
+      "gloss": "engkau memikul"
     },
     {
-      "surface": "כְלִמָּתֵ֔ךְ",
+      "surface": "כלמתך",
       "gloss": "aibmu"
     },
     {
-      "surface": "וְנִכְלַ֕מְתְּ",
-      "gloss": "dan menjadi malu"
+      "surface": "ונכלמת",
+      "gloss": "dan mendapat malu"
     },
     {
-      "surface": "מִכֹּ֖ל",
-      "gloss": "karena segala"
+      "surface": "מכל",
+      "gloss": "oleh segala"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "yang"
     },
     {
-      "surface": "עָשִׂ֑ית",
-      "gloss": "engkau lakukan"
+      "surface": "עשית",
+      "gloss": "kaulakukan"
     },
     {
-      "surface": "בְּנַחֲמֵ֖ךְ",
-      "gloss": "saat engkau menghibur"
+      "surface": "בנחמך",
+      "gloss": "ketika engkau menghibur"
     },
     {
-      "surface": "אֹתָֽן",
+      "surface": "אתן",
       "gloss": "⟨את⟩",
       "marks": "mereka"
     }
   ],
-  "timestamp": "2026-08-08T18:36:55.580323678Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:50.438262253Z",
+  "model": "glm-5.3"
 }

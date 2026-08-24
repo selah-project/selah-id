@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 10,
-  "translation": "Dialah pujianmu, dan Dialah Elohim-mu, yang melakukan ⟨bersama⟩ engkau ⟨את⟩ hal-hal yang besar dan ⟨את⟩ hal-hal yang dahsyat ini, yang dilihat oleh matamu.",
+  "translation": "Dialah pujianmu, dan Dialah Elohim-mu, yang melakukan ⟨את⟩ ⟨bersama⟩ engkau ⟨את⟩ hal-hal yang besar dan ⟨את⟩ hal-hal yang dahsyat ini, yang dilihat oleh matamu.",
   "tokens": [
     {
       "surface": "הוא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨bersama⟩ engkau"
+      "gloss": "⟨את⟩ ⟨bersama⟩ engkau"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "matamu"
     }
   ],
-  "timestamp": "2026-08-08T07:26:00.777419734Z",
+  "timestamp": "2026-08-24T17:55:27.175687067Z",
   "model": "glm-5.2"
 }

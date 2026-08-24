@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 10,
-  "translation": "Dan sekarang, pada kedatangan surat ini kepada kamu, padamulah anak-anak tuan kamu, dan padamulah kereta dan kuda-kuda, juga kota benteng dan persenjataan —",
+  "translation": "Dan sekarang, pada kedatangan surat ini kepada kamu, padamulah anak-anak tuan kamu, ⟨את⟩ dan padamulah kereta dan kuda-kuda, juga kota benteng dan persenjataan —",
   "tokens": [
     {
       "surface": "ועתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ואתכם",
-      "gloss": "padamulah"
+      "gloss": "⟨את⟩ padamulah"
     },
     {
       "surface": "בני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ואתכם",
-      "gloss": "dan padamulah"
+      "gloss": "⟨את⟩ dan padamulah"
     },
     {
       "surface": "הרכב",
@@ -64,6 +64,6 @@
       "gloss": "dan persenjataan"
     }
   ],
-  "timestamp": "2026-08-08T08:10:25.797225901Z",
+  "timestamp": "2026-08-24T17:55:27.191690355Z",
   "model": "glm-5.2"
 }

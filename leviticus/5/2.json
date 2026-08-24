@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 5,
-  "translation": "Atau ⟨seorang⟩ נפש yang menyentuh segala benda yang najis — atau bangkai binatang liar yang najis, atau bangkai hewan ternak yang najis, atau bangkai serangga yang najis — dan hal itu tersembunyi daripadanya, maka ⟨ia⟩ najis dan bersalah.",
+  "translation": "Atau nefesh yang menyentuh sesuatu pun yang haram — atau bangkai hewan liar yang haram, atau bangkai hewan ternak yang haram, atau bangkai binatang melata yang haram — dan hal itu tersembunyi baginya, maka ia haram dan bersalah.",
   "tokens": [
     {
       "surface": "או",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "⟨seorang⟩ נפש"
+      "gloss": "nefesh"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "segala"
+      "gloss": "sesuatu pun"
     },
     {
       "surface": "דבר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "טמא",
-      "gloss": "yang najis"
+      "gloss": "yang haram"
     },
     {
       "surface": "או",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "חיה",
-      "gloss": "binatang liar"
+      "gloss": "hewan liar"
     },
     {
       "surface": "טמאה",
-      "gloss": "yang najis"
+      "gloss": "yang haram"
     },
     {
       "surface": "או",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "טמאה",
-      "gloss": "yang najis"
+      "gloss": "yang haram"
     },
     {
       "surface": "או",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "שרץ",
-      "gloss": "serangga"
+      "gloss": "binatang melata"
     },
     {
       "surface": "טמא",
-      "gloss": "yang najis"
+      "gloss": "yang haram"
     },
     {
       "surface": "ונעלם",
@@ -89,21 +89,21 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "daripadanya"
+      "gloss": "baginya"
     },
     {
       "surface": "והוא",
-      "gloss": "dan ⟨ia⟩"
+      "gloss": "maka ia"
     },
     {
       "surface": "טמא",
-      "gloss": "najis"
+      "gloss": "haram"
     },
     {
       "surface": "ואשם",
-      "gloss": "dan bersalah"
+      "gloss": "bersalah"
     }
   ],
-  "timestamp": "2026-08-08T10:34:06.064663642Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:19.284936202Z",
+  "model": "glm-5.3"
 }

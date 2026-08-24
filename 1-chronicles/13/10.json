@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 13,
-  "translation": "Maka menyala-nyalalah murka Yahweh terhadap Uza, dan ⟨הוא⟩ memukul dia karena ia telah mengulurkan tangannya terhadap ha-aron itu; dan ia mati di sana di hadapan Elohim.",
+  "translation": "Lalu menyala-lah panas hidung Yahweh terhadap Uzza, dan Ia menghantam dia, karena ia mengulurkan tangannya kepada ⟨את⟩ petinya; dan ia mati di sana di hadapan Elohim.",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "dan menyala-nyala"
+      "gloss": "menyala-lah"
     },
     {
       "surface": "אף",
-      "gloss": "murka"
+      "gloss": "panas hidung (amarah)"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בעזא",
-      "gloss": "terhadap Uza"
+      "gloss": "terhadap Uzza"
     },
     {
       "surface": "ויכהו",
-      "gloss": "dan Ia memukul dia"
+      "gloss": "dan Ia menghantam dia"
     },
     {
       "surface": "על",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "על",
-      "gloss": "terhadap"
+      "gloss": "kepada"
     },
     {
       "surface": "הארון",
-      "gloss": "ha-aron itu"
+      "gloss": "petinya"
     },
     {
       "surface": "וימת",
@@ -68,6 +68,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-08T10:07:02.779042994Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:44.432164474Z",
+  "model": "glm-5.3"
 }

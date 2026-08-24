@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan ⟨הוא⟩ mengembalikan ⟨את⟩ sar ha-mashqim atas jabatannya, dan ⟨הוא⟩ memberi piala itu ke atas telapak Paroh.",
+  "translation": "Dan ia mengembalikan ⟨את⟩ kepala penuang minuman itu ke atas jabatannya mempersembahkan minuman, dan ia memberikan piala itu ke atas telapak tangan Paroh.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "dan mengembalikan"
+      "gloss": "Dan ia mengembalikan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sar ha-mashqim"
+      "marks": "kepala penuang minuman itu"
     },
     {
       "surface": "שר",
@@ -22,19 +22,19 @@
     },
     {
       "surface": "המשקים",
-      "gloss": "ha-mashqim"
+      "gloss": "penuang minuman itu"
     },
     {
       "surface": "על",
-      "gloss": "atas"
+      "gloss": "ke atas"
     },
     {
       "surface": "משקהו",
-      "gloss": "jabatannya"
+      "gloss": "jabatannya mempersembahkan minuman"
     },
     {
       "surface": "ויתן",
-      "gloss": "dan memberi"
+      "gloss": "dan ia memberikan"
     },
     {
       "surface": "הכוס",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "כף",
-      "gloss": "telapak"
+      "gloss": "telapak tangan"
     },
     {
       "surface": "פרעה",
       "gloss": "Paroh"
     }
   ],
-  "timestamp": "2026-08-08T10:25:01.035562994Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:43.682730756Z",
+  "model": "glm-5.3"
 }

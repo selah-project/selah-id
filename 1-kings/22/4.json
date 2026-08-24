@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 22,
-  "translation": "Dan berkatalah ia kepada Yehoshafat, “Apakah engkau akan pergi bersamaku untuk peperangan ke Ramot-Gilad?” Dan berkatalah Yehoshafat kepada melek Yisra'el, “Seperti aku, sepertimu; seperti umatku, seperti umatmu; seperti kudaku, seperti kudamu.”",
+  "translation": "Dan berkatalah ia kepada Yehoshafat, “Apakah engkau akan pergi ⟨את⟩ bersamaku untuk peperangan ke Ramot-Gilad?” Dan berkatalah Yehoshafat kepada melek Yisra'el, “Seperti aku, sepertimu; seperti umatku, seperti umatmu; seperti kudaku, seperti kudamu.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "למלחמה",
@@ -84,6 +84,6 @@
       "gloss": "seperti kudamu"
     }
   ],
-  "timestamp": "2026-08-08T08:08:45.064542365Z",
+  "timestamp": "2026-08-24T17:55:27.253217406Z",
   "model": "glm-5.2"
 }

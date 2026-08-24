@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 119,
-  "translation": "נפש׳ku selalu di telapak tanganku, dan torat-Mu tidak kulupakan.",
+  "translation": "Nafshiku di telapak tanganku ⟨adalah⟩ senantiasa, namun Tora-Mu tidak kulupakan.",
   "tokens": [
     {
       "surface": "נפשי",
-      "gloss": "napasku"
+      "gloss": "Nafshiku"
     },
     {
       "surface": "בכפי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "תמיד",
-      "gloss": "selalu"
+      "gloss": "senantiasa"
     },
     {
       "surface": "ותורתך",
-      "gloss": "dan torat-Mu"
+      "gloss": "namun Tora-Mu"
     },
     {
       "surface": "לא",
@@ -32,6 +32,6 @@
       "gloss": "kulupakan"
     }
   ],
-  "timestamp": "2026-08-08T09:26:53.693562122Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:16.781139880Z",
+  "model": "glm-5.3"
 }

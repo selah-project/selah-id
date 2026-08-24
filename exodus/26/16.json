@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 26,
-  "translation": "Sepuluh hasta panjang ⟨ה⟩ papan itu, dan satu hasta setengah ⟨את⟩ lebar ⟨את⟩ satu papan.",
+  "translation": "Sepuluh hasta ⟨adalah⟩ panjang papan itu, dan satu hasta setengah lebarnya bagi tiap papan.",
   "tokens": [
     {
       "surface": "עשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הקרש",
-      "gloss": "papan"
+      "gloss": "papan itu"
     },
     {
       "surface": "ואמה",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "האחד",
-      "gloss": "satu"
+      "gloss": "yang satu"
     }
   ],
-  "timestamp": "2026-08-08T07:02:35.711159469Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:01.801208959Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 20,
-  "translation": " ⟨Ha-na'ar⟩ itu datang, dan Dawid bangkit dari sisi ⟨ha-negev⟩, dan tersungkur dengan wajahnya ke tanah, dan sujud tiga kali; dan mereka berciuman, ⟨אישׁ⟩ ⟨את⟩ sahabatnya, dan mereka menangis, ⟨אישׁ⟩ ⟨את⟩ sahabatnya, sampai Dawid berlebih-lebihan.",
+  "translation": "Sesudah itu sang bujang pergi, lalu Daud bangkit dari sisi sebelah selatan, dan tersungkur dengan mukanya ke tanah, dan sujud tiga kali; dan mereka berciuman, seorang dengan ⟨את⟩ sahabatnya, dan menangis, seorang dengan ⟨את⟩ sahabatnya, sampai Daud ⟨berlebih-lebih⟩.",
   "tokens": [
     {
       "surface": "הנער",
-      "gloss": "si bujang"
+      "gloss": "sang bujang"
     },
     {
       "surface": "בא",
-      "gloss": "datang"
+      "gloss": "pergi"
     },
     {
       "surface": "ודוד",
-      "gloss": "dan Dawid"
+      "gloss": "lalu Daud"
     },
     {
       "surface": "קם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנגב",
-      "gloss": "arah selatan"
+      "gloss": "sebelah selatan"
     },
     {
       "surface": "ויפל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לאפיו",
-      "gloss": "pada wajahnya"
+      "gloss": "dengan mukanya"
     },
     {
       "surface": "ארצה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "וישקו",
-      "gloss": "dan berciuman"
+      "gloss": "dan mereka berciuman"
     },
     {
-      "surface": "אישׁ",
-      "gloss": "satu sama lain"
+      "surface": "איש",
+      "gloss": "seorang"
     },
     {
       "surface": "את",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "sahabatnya"
+      "gloss": "dengan sahabatnya"
     },
     {
       "surface": "ויבכו",
       "gloss": "dan menangis"
     },
     {
-      "surface": "אישׁ",
-      "gloss": "satu sama lain"
+      "surface": "איש",
+      "gloss": "seorang"
     },
     {
       "surface": "את",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "sahabatnya"
+      "gloss": "dengan sahabatnya"
     },
     {
       "surface": "עד",
@@ -95,13 +95,13 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Daud"
     },
     {
       "surface": "הגדיל",
-      "gloss": "berlebih-lebihan"
+      "gloss": "berlebih-lebih"
     }
   ],
-  "timestamp": "2026-08-08T07:50:46.636246283Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:09.791445658Z",
+  "model": "glm-5.3"
 }

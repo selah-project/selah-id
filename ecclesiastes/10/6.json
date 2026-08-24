@@ -5,37 +5,37 @@
   "book": "ecclesiastes",
   "lang": "id",
   "chapter": 10,
-  "translation": "kebodohan diberikan ⟨⟨pada⟩⟩ tempat-tempat tinggi yang banyak, dan orang-orang kaya di tempat rendah ⟨mereka⟩ duduk.",
+  "translation": "Kebodohan ⟨diberikan⟩ tempat di ketinggian yang tinggi, tetapi orang-orang kaya duduk di tempat rendah.",
   "tokens": [
     {
-      "surface": "נִתַּ֣ן",
+      "surface": "נתן",
       "gloss": "diberikan"
     },
     {
-      "surface": "הַסֶּ֔כֶל",
+      "surface": "הסכל",
       "gloss": "kebodohan"
     },
     {
-      "surface": "בַּמְּרוֹמִ֖ים",
-      "gloss": "di tempat-tempat tinggi"
+      "surface": "במרומים",
+      "gloss": "di ketinggian"
     },
     {
-      "surface": "רַבִּ֑ים",
-      "gloss": "yang banyak"
+      "surface": "רבים",
+      "gloss": "yang tinggi\/banyak"
     },
     {
-      "surface": "וַעֲשִׁירִ֖ים",
-      "gloss": "dan orang-orang kaya"
+      "surface": "ועשירים",
+      "gloss": "tetapi orang-orang kaya"
     },
     {
-      "surface": "בַּשֵּׁ֥פֶל",
+      "surface": "בשפל",
       "gloss": "di tempat rendah"
     },
     {
-      "surface": "יֵשֵֽׁבוּ",
-      "gloss": "mereka duduk"
+      "surface": "ישבו",
+      "gloss": "duduk"
     }
   ],
-  "timestamp": "2026-08-08T09:49:50.007422249Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:21.865326832Z",
+  "model": "glm-5.3"
 }

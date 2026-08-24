@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan imam harus mengambil dari darah ⟨הַ⟩ korban penghapus dosa dengan jarinya, dan memberi ⟨itu⟩ ke atas tanduk-tanduk mezbah korban bakaran, dan ⟨את⟩ seluruh darahnya ia harus mencurahkan ke ⟩dasar mezbah.",
+  "translation": "Lalu imam itu mengambil sedikit dari darah korban Chattat dengan jarinya, dan mengenakannya ke atas tanduk-tanduk mizbeach korban Olah; dan seluruh darahnya harus dicurahkan ke ⟨את⟩ dasar mizbeach itu.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "Dan imam harus mengambil"
+      "gloss": "lalu mengambil"
     },
     {
       "surface": "הכהן",
-      "gloss": "imam"
+      "gloss": "imam itu"
     },
     {
       "surface": "מדם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "korban penghapus dosa"
+      "gloss": "korban Chattat itu"
     },
     {
       "surface": "באצבעו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "dan memberi"
+      "gloss": "dan mengenakannya"
     },
     {
       "surface": "על",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "mezbah"
+      "gloss": "mizbeach"
     },
     {
       "surface": "העלה",
-      "gloss": "korban bakaran"
+      "gloss": "korban Olah"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "dan ⟨את⟩",
       "marks": "seluruh darahnya"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ישפך",
-      "gloss": "ia harus mencurahkan"
+      "gloss": "harus dicurahkan"
     },
     {
       "surface": "אל",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "mezbah"
+      "gloss": "mizbeach itu"
     }
   ],
-  "timestamp": "2026-08-08T07:06:49.446551772Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:16.652122056Z",
+  "model": "glm-5.3"
 }

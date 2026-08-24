@@ -5,45 +5,45 @@
   "book": "ecclesiastes",
   "lang": "id",
   "chapter": 6,
-  "translation": "Karena ada hal-hal yang banyak memperbanyak hebel, apa kelebihan bagi ⟨הָאָדָם⟩ manusia?",
+  "translation": "Sebab ada perkara-perkara banyak yang memperbanyak hebel — apakah lebihnya bagi ⟨ה⟩אדם?",
   "tokens": [
     {
-      "surface": "כִּ֛י",
-      "gloss": "karena"
+      "surface": "כי",
+      "gloss": "sebab"
     },
     {
-      "surface": "יֵשׁ",
+      "surface": "יש",
       "gloss": "ada"
     },
     {
-      "surface": "דְּבָרִ֥ים",
-      "gloss": "hal-hal"
+      "surface": "דברים",
+      "gloss": "perkara-perkara"
     },
     {
-      "surface": "הַרְבֵּ֖ה",
+      "surface": "הרבה",
       "gloss": "banyak"
     },
     {
-      "surface": "מַרְבִ֣ים",
-      "gloss": "memperbanyak"
+      "surface": "מרבים",
+      "gloss": "yang memperbanyak"
     },
     {
-      "surface": "הָ֑בֶל",
+      "surface": "הבל",
       "gloss": "hebel"
     },
     {
-      "surface": "מַה",
-      "gloss": "apa"
+      "surface": "מה",
+      "gloss": "apakah"
     },
     {
-      "surface": "יֹּתֵ֖ר",
-      "gloss": "kelebihan"
+      "surface": "יתר",
+      "gloss": "lebihnya"
     },
     {
-      "surface": "לָאָדָֽם",
-      "gloss": "bagi manusia"
+      "surface": "לאדם",
+      "gloss": "bagi ⟨ה⟩אדם"
     }
   ],
-  "timestamp": "2026-08-08T11:57:28.574573047Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:43.989403690Z",
+  "model": "glm-5.3"
 }

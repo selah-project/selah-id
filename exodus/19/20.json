@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan turunlah Yahweh atas gunung Sinay, ke puncak ⟨ה⟩ gunung itu, dan memanggillah Yahweh Moshe ke puncak ⟨ה⟩ gunung itu, dan naiklah Moshe.",
+  "translation": "Lalu Yahweh turun atas Gunung Sinay, ke puncak gunung itu, dan Yahweh memanggil Mosheh ke puncak gunung itu, maka Mosheh naik.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "dan turunlah"
+      "gloss": "Lalu … turun"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הר",
-      "gloss": "gunung"
+      "gloss": "Gunung"
     },
     {
       "surface": "סיני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "dan memanggillah"
+      "gloss": "dan … memanggil"
     },
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "למשה",
-      "gloss": "Moshe"
+      "gloss": "Mosheh"
     },
     {
       "surface": "אל",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "dan naiklah"
+      "gloss": "maka … naik"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Mosheh"
     }
   ],
-  "timestamp": "2026-08-08T10:30:38.873174361Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:52.653894672Z",
+  "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 18,
-  "translation": "Apakah ⟨הצילו⟩ menyelamatkan sama sekali para Elohim ⟨את⟩ bangsa-bangsa itu, masing-masing ⟨את⟩ negerinya, dari tangan raja Asyur?",
+  "translation": "Adakah para elohim ⟨את⟩ bangsa-bangsa itu sungguh melepaskan, masing-masing tanahnya, dari tangan raja Ashur?",
   "tokens": [
     {
       "surface": "ההצל",
-      "gloss": "apakah menyelamatkan"
+      "gloss": "Adakah sungguh melepaskan"
     },
     {
       "surface": "הצילו",
-      "gloss": "menyelamatkan sama sekali"
+      "gloss": "melepaskan"
     },
     {
       "surface": "אלהי",
-      "gloss": "para Elohim"
+      "gloss": "para elohim"
     },
     {
       "surface": "הגוים",
-      "gloss": "bangsa-bangsa itu"
+      "gloss": "bangsa-bangsa"
     },
     {
       "surface": "איש",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "negerinya"
+      "marks": "tanahnya"
     },
     {
       "surface": "ארצו",
-      "gloss": "negerinya"
+      "gloss": "tanahnya"
     },
     {
       "surface": "מיד",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Asyur"
+      "gloss": "Ashur"
     }
   ],
-  "timestamp": "2026-08-08T08:12:28.931196140Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:26.560866234Z",
+  "model": "glm-5.3"
 }

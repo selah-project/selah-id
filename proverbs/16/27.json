@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 16,
-  "translation": "⟨Seorang⟩ איש beliyaal menggali kejahatan, dan di bibirnya ⟨ada⟩ seperti api yang membakar.",
+  "translation": "Orang ⟨yang⟩ tidak berguna menggali kejahatan, dan di bibirnya ⟨ada⟩ seperti api yang menghanguskan.",
   "tokens": [
     {
-      "surface": "אִישׁ",
-      "gloss": "seorang"
+      "surface": "איש",
+      "gloss": "orang"
     },
     {
-      "surface": "בְּלִיַּעַל",
-      "gloss": "beliyaal"
+      "surface": "בליעל",
+      "gloss": "tidak berguna"
     },
     {
-      "surface": "כֹּרֶה",
+      "surface": "כרה",
       "gloss": "menggali"
     },
     {
-      "surface": "רָעָה",
+      "surface": "רעה",
       "gloss": "kejahatan"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "dan di"
     },
     {
-      "surface": "שְׂפָתָיו",
+      "surface": "שפתיו",
       "gloss": "bibirnya"
     },
     {
-      "surface": "כְּאֵשׁ",
+      "surface": "כאש",
       "gloss": "seperti api"
     },
     {
-      "surface": "צָרֶבֶת",
-      "gloss": "yang membakar"
+      "surface": "צרבת",
+      "gloss": "yang menghanguskan"
     }
   ],
-  "timestamp": "2026-08-08T09:33:06.380554256Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:04.385220245Z",
+  "model": "glm-5.3"
 }

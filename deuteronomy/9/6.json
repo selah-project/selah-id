@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 9,
-  "translation": "Dan engkau tahu, bahwa bukan karena kebenaranmu Yahweh Elohimmu memberikan kepadamu ⟨את⟩ tanah yang baik ini untuk diduduki, ⟨karena⟩ engkau ⟨⟨adalah⟩⟩ bangsa yang keras tengkuk.",
+  "translation": "Dan engkau harus tahu, bahwa bukan karena kebenaranmu Yahweh, Elohimmu, memberikan kepadamu ⟨את⟩ tanah yang baik ini untuk dimiliki, sebab engkaulah bangsa yang keras tengkuk.",
   "tokens": [
     {
-      "surface": "ולדעת",
-      "gloss": "dan engkau tahu"
+      "surface": "וידעת",
+      "gloss": "dan engkau harus tahu"
     },
     {
       "surface": "כי",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "untuk diduduki"
+      "gloss": "untuk dimiliki"
     },
     {
       "surface": "כי",
-      "gloss": "⟨karena⟩"
+      "gloss": "sebab"
     },
     {
       "surface": "עם",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "אתה",
-      "gloss": "engkau"
+      "gloss": "engkaulah"
     }
   ],
-  "timestamp": "2026-08-08T10:45:42.896287522Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:46.435476354Z",
+  "model": "glm-5.3"
 }

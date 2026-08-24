@@ -1,49 +1,49 @@
 {
- "tier": "glm-5.2",
- "verse": 16,
- "ref": "2-kings 6:16",
- "book": "2-kings",
- "lang": "id",
- "chapter": 6,
- "translation": "Lalu ⟨ia⟩ berkata, “Jangan takut, karena lebih banyak ⟨yang⟩ bersama kita daripada ⟨yang⟩ ⟨את⟩ bersama mereka.”",
- "tokens": [
-  {
-   "surface": "ויאמר",
-   "gloss": "Lalu berkata"
-  },
-  {
-   "surface": "אל",
-   "gloss": "Jangan"
-  },
-  {
-   "surface": "תירא",
-   "gloss": "takut"
-  },
-  {
-   "surface": "כי",
-   "gloss": "karena"
-  },
-  {
-   "surface": "רבים",
-   "gloss": "lebih banyak"
-  },
-  {
-   "surface": "אשר",
-   "gloss": "yang"
-  },
-  {
-   "surface": "אתנו",
-   "gloss": "bersama kita"
-  },
-  {
-   "surface": "מאשר",
-   "gloss": "daripada yang"
-  },
-  {
-   "surface": "אותם",
-   "gloss": "⟨את⟩ bersama mereka"
-  }
- ],
- "timestamp": "2026-08-09T01:41:04.989279424Z",
- "model": "glm-5.2"
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "id",
+  "chapter": 6,
+  "translation": "Lalu ⟨ia⟩ berkata, “Jangan takut, karena lebih banyak ⟨yang⟩ ⟨את⟩ bersama kita daripada ⟨yang⟩ ⟨את⟩ bersama mereka.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "lebih banyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bersama kita"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "daripada yang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bersama mereka"
+    }
+  ],
+  "timestamp": "2026-08-24T17:55:27.201610934Z",
+  "model": "glm-5.2"
 }

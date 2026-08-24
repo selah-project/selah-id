@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 115,
-  "translation": "Langit, langit ⟨adalah⟩ milik Yahweh, tetapi ⟨ה⟩ bumi ⟨ia⟩ berikan kepada anak-anak Adam.",
+  "translation": "Langit, bahkan langit-langit ⟨adalah⟩ milik Yahweh, tetapi bumi telah diberikan-Nya kepada anak-anak manusia.",
   "tokens": [
     {
       "surface": "השמים",
-      "gloss": "Langit"
+      "gloss": "langit"
     },
     {
       "surface": "שמים",
-      "gloss": "langit"
+      "gloss": "langit-langit"
     },
     {
       "surface": "ליהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "והארץ",
-      "gloss": "tetapi ⟨ה⟩ bumi"
+      "gloss": "tetapi bumi"
     },
     {
       "surface": "נתן",
-      "gloss": "⟨ia⟩ berikan"
+      "gloss": "telah diberikan"
     },
     {
       "surface": "לבני",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "אדם",
-      "gloss": "Adam"
+      "gloss": "manusia"
     }
   ],
-  "timestamp": "2026-08-08T11:45:50.553391349Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:09.596921392Z",
+  "model": "glm-5.3"
 }

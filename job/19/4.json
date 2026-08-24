@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan juga, sungguh, aku tersesat — tersisa ⟨padaku⟩ kesesatanku.",
+  "translation": "Dan juga, sungguh, aku tersesat — tersisa ⟨⟨את⟩ padaku⟩ kesesatanku.",
   "tokens": [
     {
       "surface": "ואף",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "padaku"
+      "gloss": "⟨את⟩ padaku"
     },
     {
       "surface": "תלין",
@@ -32,6 +32,6 @@
       "gloss": "kesesatanku"
     }
   ],
-  "timestamp": "2026-08-08T09:40:01.506242934Z",
+  "timestamp": "2026-08-24T17:55:27.157393531Z",
   "model": "glm-5.2"
 }

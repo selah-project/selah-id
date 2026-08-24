@@ -5,92 +5,92 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 57,
-  "translation": "Dan ⟨את⟩ siapa yang engkau khawatirkan dan engkau takuti, bahwa engkau berdusta, dan ⟨אֹתִי⟩ tidak engkau ingat, tidak engkau letakkan ⟨itu⟩ atas hatimu? Bukankah Aku membungkam dan dari sejak lama, dan ⟨אֹתִי⟩ tidak engkau takuti?",
+  "translation": "Dan ⟨את⟩ siapa kaukhawatirkan dan kautakuti, sehingga kau berdusta? Aku tidak kauingat, tidak kauletakkan dalam hatimu. Bukankah Aku ini diam, sejak masa lampau, sehingga Aku tidak kautakuti?",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
       "marks": "siapa"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "siapa"
     },
     {
-      "surface": "דָּאַ֤גְתְּ",
-      "gloss": "engkau khawatirkan"
+      "surface": "דאגת",
+      "gloss": "kaukhawatirkan"
     },
     {
-      "surface": "וַתִּֽירְאִי֙",
-      "gloss": "dan engkau takuti"
+      "surface": "ותיראי",
+      "gloss": "dan kautakuti"
     },
     {
-      "surface": "כִּי",
-      "gloss": "bahwa"
+      "surface": "כי",
+      "gloss": "sehingga"
     },
     {
-      "surface": "תְכַזֵּ֔בִי",
-      "gloss": "engkau berdusta"
+      "surface": "תכזבי",
+      "gloss": "kau berdusta"
     },
     {
-      "surface": "וְאוֹתִי֙",
-      "gloss": "dan ⟨אֹתִי⟩",
-      "marks": "tidak engkau ingat"
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "Aku"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "זָכַ֔רְתְּ",
-      "gloss": "engkau ingat"
+      "surface": "זכרת",
+      "gloss": "kauingat"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "שַׂ֖מְתְּ",
-      "gloss": "engkau letakkan"
+      "surface": "שמת",
+      "gloss": "kauletakkan"
     },
     {
-      "surface": "עַל",
-      "gloss": "atas"
+      "surface": "על",
+      "gloss": "dalam"
     },
     {
-      "surface": "לִבֵּ֑ךְ",
+      "surface": "לבך",
       "gloss": "hatimu"
     },
     {
-      "surface": "הֲלֹ֨א",
+      "surface": "הלא",
       "gloss": "bukankah"
     },
     {
-      "surface": "אֲנִ֤י",
+      "surface": "אני",
       "gloss": "Aku"
     },
     {
-      "surface": "מַחְשֶׁה֙",
-      "gloss": "membungkam"
+      "surface": "מחשה",
+      "gloss": "diam"
     },
     {
-      "surface": "וּמֵ֣עֹלָ֔ם",
-      "gloss": "dan dari sejak lama"
+      "surface": "ומעלם",
+      "gloss": "sejak masa lampau"
     },
     {
-      "surface": "וְאוֹתִ֖י",
-      "gloss": "dan ⟨אֹתִי⟩",
-      "marks": "tidak engkau takuti"
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "Aku"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "תִירָֽאִי",
-      "gloss": "engkau takuti"
+      "surface": "תיראי",
+      "gloss": "kautakuti"
     }
   ],
-  "timestamp": "2026-08-08T08:28:01.328539150Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:20.743681677Z",
+  "model": "glm-5.3"
 }

@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 78,
-  "translation": "Api memakan ⟨אֵ֑שׁ⟩ para pemuda-Nya, dan para gadis-Nya tidak dilagukan ⟨הוּלָּֽלוּ⟩ (dalam nyanyian nikah).",
+  "translation": "Para pemudanya dilahap api, dan para gadisnya tidak diberi lagu pengantin.",
   "tokens": [
     {
-      "surface": "בַּחוּרָ֥יו",
-      "gloss": "para pemuda-Nya"
+      "surface": "בחוריו",
+      "gloss": "para pemudanya"
     },
     {
-      "surface": "אָֽכְלָה",
-      "gloss": "memakan"
+      "surface": "אכלה",
+      "gloss": "melahap"
     },
     {
-      "surface": "אֵ֑שׁ",
+      "surface": "אש",
       "gloss": "api"
     },
     {
-      "surface": "וּ֝בְתוּלֹתָ֗יו",
-      "gloss": "dan para gadis-Nya"
+      "surface": "ובתולתיו",
+      "gloss": "para gadisnya"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "הוּלָּֽלוּ",
-      "gloss": "dilagukan"
+      "surface": "הוללו",
+      "gloss": "diberi lagu pengantin"
     }
   ],
-  "timestamp": "2026-08-08T11:40:20.254514654Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:34.161010894Z",
+  "model": "glm-5.3"
 }

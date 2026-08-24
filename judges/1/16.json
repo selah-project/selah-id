@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan bani-bani orang Keni, mertua Moshe, naik dari Kota Pohon-pohon Kurma, ⟨bersama⟩ bani-bani Yehuda, ke padang gurun Yehuda yang di Negev Arad; lalu pergilah mereka dan diam bersama ⟨את⟩ bangsa itu.",
+  "translation": "Dan bani-bani orang Keni, mertua Moshe, naik dari Kota Pohon-pohon Kurma, ⟨את⟩ ⟨bersama⟩ bani-bani Yehuda, ke padang gurun Yehuda yang di Negev Arad; lalu pergilah mereka dan diam bersama ⟨את⟩ bangsa itu.",
   "tokens": [
     {
       "surface": "ובני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨bersama⟩",
+      "gloss": "⟨את⟩ ⟨bersama⟩",
       "marks": "bani-bani Yehuda"
     },
     {
@@ -86,6 +86,6 @@
       "gloss": "bangsa itu"
     }
   ],
-  "timestamp": "2026-08-08T07:38:30.670171779Z",
+  "timestamp": "2026-08-24T17:55:27.105005338Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 1,
-  "translation": "Inilah ⟨the⟩ perkataan yang Moshe bicarakan kepada seluruh Yisra'el di seberang sungai Yarden, di padang gurun, di Araba, menghadap Yam Suf, antara Paran dan antara Tofel, Lavan, Hatserot, dan Di-Zahav.",
+  "translation": "Inilah perkataan yang diucapkan Mosheh kepada seluruh Yisrael di seberang sungai Yarden, di padang gurun, di Araba, berhadapan dengan Suph, di antara Paran dan di antara Tofel, Lavan, Hatserot, dan Di Zahav.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ini"
+      "gloss": "Inilah"
     },
     {
       "surface": "הדברים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "dibicarakan"
+      "gloss": "diucapkan"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Mosheh"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "בעבר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "Yarden"
+      "gloss": "sungai Yarden"
     },
     {
       "surface": "במדבר",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "מול",
-      "gloss": "menghadap"
+      "gloss": "berhadapan dengan"
     },
     {
       "surface": "סוף",
-      "gloss": "Suf"
+      "gloss": "Suph"
     },
     {
       "surface": "בין",
-      "gloss": "antara"
+      "gloss": "di antara"
     },
     {
       "surface": "פארן",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ובין",
-      "gloss": "dan antara"
+      "gloss": "dan di antara"
     },
     {
       "surface": "תפל",
@@ -96,6 +96,6 @@
       "gloss": "Zahav"
     }
   ],
-  "timestamp": "2026-08-08T07:24:18.461603273Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:12.775981961Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "hosea",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan ia berjuang dengan ⟨⟨seorang⟩⟩ malakh, dan ia diatasi; ia menangis, dan ia memohon belas kasihan kepadanya; di Beit-El ia menemui kami, dan di sana ia berbicara dengan kami,",
+  "translation": "Ia bergumul dengan sang malaikat dan berjaya; ia menangis dan memohon belas kasihan ⟨kepadanya⟩; di Beit-El Ia menemuinya, dan di sana Ia berfirman kepada kita;",
   "tokens": [
     {
       "surface": "וישר",
-      "gloss": "dan ia berjuang"
+      "gloss": "Ia bergumul"
     },
     {
       "surface": "אל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מלאך",
-      "gloss": "malakh"
+      "gloss": "sang malaikat"
     },
     {
       "surface": "ויכל",
-      "gloss": "dan ia diatasi"
+      "gloss": "dan berjaya"
     },
     {
       "surface": "בכה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויתחנן",
-      "gloss": "dan ia memohon belas kasihan"
+      "gloss": "dan memohon belas kasihan"
     },
     {
       "surface": "לו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beit"
+      "gloss": "Beit-El (rumah)"
     },
     {
       "surface": "אל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ימצאנו",
-      "gloss": "ia menemui kami"
+      "gloss": "Ia menemuinya"
     },
     {
       "surface": "ושם",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "ia berbicara"
+      "gloss": "Ia berfirman"
     },
     {
       "surface": "עמנו",
-      "gloss": "dengan kami"
+      "gloss": "kepada kita"
     }
   ],
-  "timestamp": "2026-08-08T08:58:01.827369200Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:37.148358426Z",
+  "model": "glm-5.3"
 }

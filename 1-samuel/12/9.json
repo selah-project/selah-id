@@ -5,83 +5,83 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan mereka melupakan ⟨את⟩ Yahweh Elohim mereka, dan ⟨הוא⟩ menjual ⟨אתם⟩ ke dalam tangan Sisra, panglima pasukan Chatsor, dan ke dalam tangan orang Pelishti, dan ke dalam tangan raja Moav, dan mereka berperang melawan mereka.",
+  "translation": "Lalu mereka melupakan ⟨את⟩ Yahweh Elohim mereka, dan Ia menjual mereka ⟨את⟩ ⟨אתם⟩ ke dalam tangan Sisera, panglima tentara Chatzor, dan ke dalam tangan orang Filistin, dan ke dalam tangan raja Moab; dan mereka berperang melawan mereka.",
   "tokens": [
     {
-      "surface": "וַֽיִּשְׁכְּח֖וּ",
-      "gloss": "dan mereka melupakan"
+      "surface": "וישכחו",
+      "gloss": "Lalu mereka melupakan"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Yahweh"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "אֱלֹהֵיהֶ֑ם",
+      "surface": "אלהיהם",
       "gloss": "Elohim mereka"
     },
     {
-      "surface": "וַיִּמְכֹּ֣ר",
-      "gloss": "dan ⟨ia⟩ menjual"
+      "surface": "וימכר",
+      "gloss": "dan Ia menjual"
     },
     {
-      "surface": "אֹתָ֡ם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ke dalam tangan"
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mereka"
     },
     {
-      "surface": "בְּיַ֣ד",
+      "surface": "ביד",
       "gloss": "ke dalam tangan"
     },
     {
-      "surface": "סִֽיסְרָא֩",
-      "gloss": "Sisra"
+      "surface": "סיסרא",
+      "gloss": "Sisera"
     },
     {
-      "surface": "שַׂר",
+      "surface": "שר",
       "gloss": "panglima"
     },
     {
-      "surface": "צְבָ֨א",
-      "gloss": "pasukan"
+      "surface": "צבא",
+      "gloss": "tentara"
     },
     {
-      "surface": "חָצ֜וֹר",
-      "gloss": "Chatsor"
+      "surface": "חצור",
+      "gloss": "Chatzor"
     },
     {
-      "surface": "וּבְיַד",
+      "surface": "וביד",
       "gloss": "dan ke dalam tangan"
     },
     {
-      "surface": "פְּלִשְׁתִּ֗ים",
-      "gloss": "orang Pelishti"
+      "surface": "פלשתים",
+      "gloss": "orang Filistin"
     },
     {
-      "surface": "וּבְיַד֙",
+      "surface": "וביד",
       "gloss": "dan ke dalam tangan"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "raja"
     },
     {
-      "surface": "מוֹאָ֔ב",
-      "gloss": "Moav"
+      "surface": "מואב",
+      "gloss": "Moab"
     },
     {
-      "surface": "וַיִּֽלָּחֲמ֖וּ",
+      "surface": "וילחמו",
       "gloss": "dan mereka berperang"
     },
     {
-      "surface": "בָּֽם",
+      "surface": "בם",
       "gloss": "melawan mereka"
     }
   ],
-  "timestamp": "2026-08-09T01:45:10.757658820Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.170662331Z",
+  "model": "glm-5.3"
 }

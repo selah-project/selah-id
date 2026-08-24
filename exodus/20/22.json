@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan bersabda Yahweh kepada Mosheh: “Demikianlah engkau akan berkata kepada bani Yisra'el: ‘Kamu ⟨sendiri⟩ telah melihat bahwa dari ⟨the⟩ langit aku telah berbicara dengan kamu.’”",
+  "translation": "Dan berkatalah Yahweh kepada Moshe: “Beginilah kaukatakan kepada bani Yisra’el: Kamu telah melihat, bahwa dari langit Aku berbicara dengan kamu.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dan bersabda"
+      "gloss": "berkatalah"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Moshe"
     },
     {
       "surface": "כה",
-      "gloss": "demikianlah"
+      "gloss": "beginilah"
     },
     {
       "surface": "תאמר",
-      "gloss": "engkau akan berkata"
+      "gloss": "kaukatakan"
     },
     {
       "surface": "אל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisra’el"
     },
     {
       "surface": "אתם",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "aku telah berbicara"
+      "gloss": "Aku berbicara"
     },
     {
       "surface": "עמכם",
       "gloss": "dengan kamu"
     }
   ],
-  "timestamp": "2026-08-08T07:00:09.124494654Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:03.473024376Z",
+  "model": "glm-5.3"
 }

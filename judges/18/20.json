@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "id",
   "chapter": 18,
-  "translation": "Maka hati sang imam menjadi gembira, dan ia mengambil ⟨את⟩ efod itu dan ⟨את⟩ terafim itu dan ⟨את⟩ patung pahatan itu, lalu ia masuk ke tengah-tengah ⟨ה⟩ bangsa itu.",
+  "translation": "Lalu hati ⟨ה⟩kohen itu menjadi baik, dan ia mengambil ⟨את⟩ efod itu serta ⟨את⟩ terafim itu dan ⟨את⟩ pahatan itu, lalu pergi masuk di tengah-tengah bangsa itu.",
   "tokens": [
     {
       "surface": "וייטב",
-      "gloss": "maka menjadi gembira"
+      "gloss": "menjadi baik"
     },
     {
       "surface": "לב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "sang imam"
+      "gloss": "kohen itu"
     },
     {
       "surface": "ויקח",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "terafim itu"
     },
     {
@@ -43,26 +43,26 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "patung pahatan itu"
+      "gloss": "⟨את⟩",
+      "marks": "pahatan itu"
     },
     {
       "surface": "הפסל",
-      "gloss": "patung pahatan itu"
+      "gloss": "pahatan itu"
     },
     {
       "surface": "ויבא",
-      "gloss": "lalu ia masuk"
+      "gloss": "lalu pergi masuk"
     },
     {
       "surface": "בקרב",
-      "gloss": "ke tengah-tengah"
+      "gloss": "di tengah-tengah"
     },
     {
       "surface": "העם",
       "gloss": "bangsa itu"
     }
   ],
-  "timestamp": "2026-08-08T10:54:00.214399706Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:22.140401817Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 26,
-  "translation": "Dan saudara-saudaranya, orang-orang berkemampuan, dua ribu tujuh ratus, kepala-kepala bapa-bapa leluhur; dan Dawid sang raka menugaskan mereka atas bani Re'uven, dan bani Gad, dan setengah suku Menashe, untuk segala urusan ⟨אֱלֹהִים⟩ dan urusan sang raja.",
+  "translation": "Dan saudara-saudaranya, orang-orang bani keperkasaan, dua ribu tujuh ratus kepala keluarga ⟨adalah⟩ mereka yang David sang raja mengangkat atas orang Reuben, orang Gad, dan setengah suku Menasye, untuk segala perkara Elohim dan perkara sang raja.",
   "tokens": [
     {
       "surface": "ואחיו",
-      "gloss": "dan saudara-saudaranya"
+      "gloss": "Dan saudara-saudaranya"
     },
     {
       "surface": "בני",
-      "gloss": "orang-orang"
+      "gloss": "bani"
     },
     {
       "surface": "חיל",
-      "gloss": "berkemampuan"
+      "gloss": "keperkasaan"
     },
     {
       "surface": "אלפים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ושבע",
-      "gloss": "dan tujuh"
+      "gloss": "tujuh"
     },
     {
       "surface": "מאות",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "kepala-kepala"
+      "gloss": "kepala"
     },
     {
       "surface": "האבות",
-      "gloss": "bapa-bapa leluhur"
+      "gloss": "para bapa keluarga"
     },
     {
       "surface": "ויפקידם",
-      "gloss": "dan menugaskan mereka"
+      "gloss": "dan mengangkat mereka"
     },
     {
       "surface": "דויד",
-      "gloss": "Dawid"
+      "gloss": "David"
     },
     {
       "surface": "המלך",
-      "gloss": "sang raka"
+      "gloss": "sang raja"
     },
     {
       "surface": "על",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "הראובני",
-      "gloss": "bani Re'uven"
+      "gloss": "orang Reuben"
     },
     {
       "surface": "והגדי",
-      "gloss": "dan bani Gad"
+      "gloss": "dan orang Gad"
     },
     {
       "surface": "וחצי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "המנשי",
-      "gloss": "Menashe"
+      "gloss": "Menasye"
     },
     {
       "surface": "לכל",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "urusan"
+      "gloss": "perkara"
     },
     {
       "surface": "האלהים",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "ודבר",
-      "gloss": "dan urusan"
+      "gloss": "dan perkara"
     },
     {
       "surface": "המלך",
       "gloss": "sang raja"
     }
   ],
-  "timestamp": "2026-08-08T10:10:27.769367900Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:25.458491354Z",
+  "model": "glm-5.3"
 }

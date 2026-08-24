@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 47,
-  "translation": "Dan terjadilah: kamu akan membagikan ⟨את⟩⟨היא⟩ sebagai warisan bagi kamu dan bagi orang-orang asing yang menetap di tengah-tengah kamu, yang telah melahirkan anak-anak di tengah-tengah kamu, dan mereka akan menjadi bagi kamu seperti ⟨seorang⟩ orang asli di antara bani Yisra'el; bersama-sama dengan kamu mereka akan mendapat bagian warisan di tengah-tengah suku-suku Yisra'el.",
+  "translation": "Dan ⟨terjadi⟩: kamu akan membagikan ⟨את⟩-nya sebagai milik warisan bagimu, dan bagi orang asing yang menetap di tengah-tengahmu, yang telah memperanakkan anak-anak di tengah-tengahmu; mereka akan bagimu seperti orang kelahiran negeri di antara bani Yisrael — ⟨bersama⟩ kamu mereka akan mendapat bagian milik warisan di tengah-tengah suku-suku Yisrael.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Dan terjadilah"
+      "gloss": "Dan terjadi"
     },
     {
       "surface": "תפלו",
@@ -18,19 +18,19 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "sebagai warisan"
+      "marks": "nya (tanah itu)"
     },
     {
       "surface": "בנחלה",
-      "gloss": "sebagai warisan"
+      "gloss": "sebagai milik warisan"
     },
     {
       "surface": "לכם",
-      "gloss": "bagi kamu"
+      "gloss": "bagimu"
     },
     {
       "surface": "ולהגרים",
-      "gloss": "dan bagi orang-orang asing"
+      "gloss": "dan bagi orang asing"
     },
     {
       "surface": "הגרים",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בתוככם",
-      "gloss": "di tengah-tengah kamu"
+      "gloss": "di tengah-tengahmu"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הולדו",
-      "gloss": "telah melahirkan"
+      "gloss": "telah memperanakkan"
     },
     {
       "surface": "בנים",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בתוככם",
-      "gloss": "di tengah-tengah kamu"
+      "gloss": "di tengah-tengahmu"
     },
     {
       "surface": "והיו",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "לכם",
-      "gloss": "bagi kamu"
+      "gloss": "bagimu"
     },
     {
       "surface": "כאזרח",
-      "gloss": "seperti orang asli"
+      "gloss": "seperti orang kelahiran negeri"
     },
     {
       "surface": "בבני",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אתכם",
-      "gloss": "bersama-sama dengan kamu"
+      "gloss": "⟨את⟩ kamu"
     },
     {
       "surface": "יפלו",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "בנחלה",
-      "gloss": "warisan"
+      "gloss": "milik warisan"
     },
     {
       "surface": "בתוך",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-08T11:28:54.745261485Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:33.522182509Z",
+  "model": "glm-5.3"
 }

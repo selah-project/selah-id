@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 13,
-  "translation": "Lalu berkatalah ia kepadanya, \"Pergilah bersamaku ke rumah, dan makanlah roti.\"",
+  "translation": "Lalu berkatalah ia kepadanya, \"Pergilah ⟨את⟩ bersamaku ke rumah, dan makanlah roti.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "הביתה",
@@ -36,6 +36,6 @@
       "gloss": "roti"
     }
   ],
-  "timestamp": "2026-08-08T08:05:26.069512551Z",
+  "timestamp": "2026-08-24T17:55:27.258661233Z",
   "model": "glm-5.2"
 }

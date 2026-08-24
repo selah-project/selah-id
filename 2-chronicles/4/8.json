@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan ia membuat sepuluh meja, dan ia menaruh di ⟨the⟩ heikal lima di sebelah kanan dan lima di sebelah kiri; dan ia membuat seratus bokor emas.",
+  "translation": "Lalu ia membuat sepuluh meja dan menaruhnya di ⟨היכל⟩ itu, lima di sebelah kanan dan lima di sebelah kiri; dan ia membuat seratus bokor emas.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Dan ia membuat"
+      "gloss": "Lalu ia membuat"
     },
     {
       "surface": "שלחנות",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "וינח",
-      "gloss": "dan ia menaruh"
+      "gloss": "dan menaruhnya"
     },
     {
       "surface": "בהיכל",
-      "gloss": "di heikal"
+      "gloss": "di ⟨היכל⟩ itu"
     },
     {
       "surface": "חמשה",
@@ -60,6 +60,6 @@
       "gloss": "seratus"
     }
   ],
-  "timestamp": "2026-08-08T12:04:50.841591242Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:33.577546102Z",
+  "model": "glm-5.3"
 }

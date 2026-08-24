@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 33,
-  "translation": "Dan Yahweh berbicara kepada Mosheh, muka kepada muka, seperti seorang laki-laki berbicara kepada rekannya. Dan ⟨ia⟩ kembali kepada ⟨ה⟩ perkemahan, dan pelayannya Yehoshua bin Nun, seorang pemuda, tidak beranjak dari tengah kemah itu.",
+  "translation": "Dan Yahweh berbicara kepada Mosheh muka dengan muka, seperti seseorang berbicara kepada temannya; dan ia kembali ke perkemahan, tetapi pelayannya Yehosyua bin Nun, seorang pemuda, tidak meninggalkan bagian dalam ⟨את⟩ kemah.",
   "tokens": [
     {
       "surface": "ודבר",
-      "gloss": "Dan berbicara"
+      "gloss": "berbicara"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kepada"
+      "gloss": "dengan"
     },
     {
       "surface": "פנים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "seorang laki-laki"
+      "gloss": "seseorang"
     },
     {
       "surface": "אל",
@@ -53,27 +53,27 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "rekannya"
+      "gloss": "temannya"
     },
     {
       "surface": "ושב",
-      "gloss": "Dan ⟨ia⟩ kembali"
+      "gloss": "kembali"
     },
     {
       "surface": "אל",
-      "gloss": "kepada"
+      "gloss": "ke"
     },
     {
       "surface": "המחנה",
-      "gloss": "⟨ה⟩ perkemahan"
+      "gloss": "perkemahan"
     },
     {
       "surface": "ומשרתו",
-      "gloss": "Dan pelayannya"
+      "gloss": "pelayannya"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehoshua"
+      "gloss": "Yehosyua"
     },
     {
       "surface": "בן",
@@ -93,17 +93,17 @@
     },
     {
       "surface": "ימיש",
-      "gloss": "beranjak"
+      "gloss": "meninggalkan"
     },
     {
       "surface": "מתוך",
-      "gloss": "dari tengah"
+      "gloss": "bagian dalam"
     },
     {
       "surface": "האהל",
-      "gloss": "kemah itu"
+      "gloss": "kemah"
     }
   ],
-  "timestamp": "2026-08-08T10:32:38.396162485Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.145505627Z",
+  "model": "glm-5.3"
 }

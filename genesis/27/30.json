@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 27,
-  "translation": "Dan terjadilah, setelah Yitschak selesai memberkati ⟨את⟩ Yaakov, terjadilah — baru saja Yaakov keluar meninggalkan hadapan Yitschak ayahnya — bahwa Esav saudaranya datang dari berburunya.",
+  "translation": "Dan terjadilah, setelah Yitschak selesai memberkati ⟨את⟩ Yaakov, terjadilah — baru saja Yaakov keluar meninggalkan hadapan Yitschak ayahnya — bahwa Esav saudaranya datang ⟨את⟩ dari berburunya.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩ dari"
     },
     {
       "surface": "פני",
@@ -89,6 +89,6 @@
       "gloss": "dari berburunya"
     }
   ],
-  "timestamp": "2026-08-08T10:21:36.211519950Z",
+  "timestamp": "2026-08-24T17:55:27.082231904Z",
   "model": "glm-5.2"
 }

@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 26,
-  "translation": "Inilah ⟨ה⟩ ketetapan-ketetapan dan ⟨ה⟩ hukum-hukum dan ⟨ה⟩ torot, yang diberikan Yahweh antara-Nya dan antara bani Yisra'el, di gunung Sinai, melalui Moshe.",
+  "translation": "Inilah ⟨hukum-hukum⟩ ⟨itu⟩, dan ⟨peraturan⟩, dan ⟨torot⟩, yang diberikan Yahweh antara Dia dan antara anak-anak Yisrael, di Gunung Sinay, dengan perantaraan Moshe.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "inilah"
+      "gloss": "Inilah"
     },
     {
       "surface": "החקים",
-      "gloss": "⟨ה⟩ ketetapan-ketetapan"
+      "gloss": "hukum-hukum"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "dan ⟨ה⟩ hukum-hukum"
+      "gloss": "dan peraturan"
     },
     {
       "surface": "והתורת",
-      "gloss": "dan ⟨ה⟩ torot"
+      "gloss": "dan torot"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בינו",
-      "gloss": "antara-Nya"
+      "gloss": "antara Dia"
     },
     {
       "surface": "ובין",
@@ -45,29 +45,29 @@
     },
     {
       "surface": "בני",
-      "gloss": "bani"
+      "gloss": "anak-anak"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "בהר",
-      "gloss": "di gunung"
+      "gloss": "di Gunung"
     },
     {
       "surface": "סיני",
-      "gloss": "Sinai"
+      "gloss": "Sinay"
     },
     {
       "surface": "ביד",
-      "gloss": "melalui"
+      "gloss": "dengan perantaraan"
     },
     {
       "surface": "משה",
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-08T07:13:17.216908286Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:41.820594812Z",
+  "model": "glm-5.3"
 }

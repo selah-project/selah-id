@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 10,
-  "translation": "Dan berkatalah Mosheh kepada Khovav bin Reuel orang Midyan, besan Mosheh: “Kami berangkat ke tempat yang telah difirmankan Yahweh, ⟨את⟩-nya akan kuberikan kepadamu. Marilah bersama kami, dan kami akan berbuat baik kepadamu, sebab Yahweh telah berfirman baik atas Yisra'el.”",
+  "translation": "Dan berkatalah Mosheh kepada Khovav bin Reuel orang Midyan, besan Mosheh: “Kami berangkat ke tempat yang telah difirmankan Yahweh, ⟨את⟩-nya akan kuberikan kepadamu. Marilah ⟨את⟩ bersama kami, dan kami akan berbuat baik kepadamu, sebab Yahweh telah berfirman baik atas Yisra'el.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "bersama kami"
+      "gloss": "⟨את⟩ bersama kami"
     },
     {
       "surface": "והטבנו",
@@ -121,6 +121,6 @@
       "gloss": "Yisra'el"
     }
   ],
-  "timestamp": "2026-08-08T07:16:31.092271136Z",
+  "timestamp": "2026-08-24T17:55:27.224814221Z",
   "model": "glm-5.2"
 }

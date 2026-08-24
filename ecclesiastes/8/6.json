@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "id",
   "chapter": 8,
-  "translation": "Karena bagi setiap keinginan ada ⟨⟨waktu⟩⟩ dan keadilan; karena kejahatan manusia besarnya terhadapnya.",
+  "translation": "Karena bagi setiap keinginan ada waktunya dan ⟨adalah⟩ hukumnya, sebab kejahatan manusia besarlah ⟨menimpa⟩ dirinya.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "Karena"
     },
     {
       "surface": "לכל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "עת",
-      "gloss": "waktu"
+      "gloss": "waktunya"
     },
     {
       "surface": "ומשפט",
-      "gloss": "dan keadilan"
+      "gloss": "dan hukumnya"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "רעת",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "רבה",
-      "gloss": "besarnya"
+      "gloss": "besarlah"
     },
     {
       "surface": "עליו",
-      "gloss": "terhadapnya"
+      "gloss": "⟨menimpa⟩ dirinya"
     }
   ],
-  "timestamp": "2026-08-08T09:50:18.726604183Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:32.234999223Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 14,
-  "translation": "Dan akan terjadi, ketika engkau mendengar ⟨את⟩ suara langkah di pucuk ⟨הַבְּכָאִים⟩, pada saat itu engkau akan keluar berperang, karena Elohim telah keluar di depanmu untuk memukul ⟨את⟩ pasukan orang Pelesyet.",
+  "translation": "Dan akan terjadi: ketika engkau mendengar ⟨את⟩ bunyi langkah di puncak-puncak pohon bakha, maka keluarlah engkau ⟨to⟩ berperang, sebab Elohim telah keluar di depanmu untuk memukul ⟨את⟩ pasukan orang Filistin.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Dan akan terjadi"
+      "gloss": "dan akan terjadi"
     },
     {
       "surface": "כשמעך",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "suara"
+      "marks": "bunyi langkah"
     },
     {
       "surface": "קול",
-      "gloss": "suara"
+      "gloss": "bunyi"
     },
     {
       "surface": "הצעדה",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "בראשי",
-      "gloss": "di pucuk"
+      "gloss": "di puncak-puncak"
     },
     {
       "surface": "הבכאים",
-      "gloss": "pohon-baka"
+      "gloss": "pohon bakha"
     },
     {
       "surface": "אז",
-      "gloss": "pada saat itu"
+      "gloss": "maka"
     },
     {
       "surface": "תצא",
-      "gloss": "engkau akan keluar"
+      "gloss": "keluarlah engkau"
     },
     {
       "surface": "במלחמה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "יצא",
@@ -71,7 +71,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pasukan"
+      "marks": "pasukan orang Filistin"
     },
     {
       "surface": "מחנה",
@@ -79,9 +79,9 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "orang Pelesyet"
+      "gloss": "orang Filistin"
     }
   ],
-  "timestamp": "2026-08-08T18:41:32.287228082Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:05.827470444Z",
+  "model": "glm-5.3"
 }

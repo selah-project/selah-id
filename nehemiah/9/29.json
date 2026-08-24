@@ -5,15 +5,15 @@
   "book": "nehemiah",
   "lang": "id",
   "chapter": 9,
-  "translation": "Engkau bersaksi terhadap mereka untuk mengembalikan mereka kepada torat-Mu, tetapi mereka berlaku angkuh dan tidak mendengarkan perintah-perintah-Mu, dan dalam hukum-hukum-Mu mereka berbuat dosa terhadapnya ⟨⟨yang jika seorang manusia melakukannya, ia akan hidup di dalamnya⟩⟩; dan mereka memberikan bahu yang membantah, dan tengkuk mereka mereka keraskan, dan tidak mau mendengar.",
+  "translation": "Engkau memperingatkan mereka untuk mengembalikan mereka kepada Tauratmu, tetapi mereka berlaku angkuh dan tidak mendengarkan perintah-perintahmu, dan terhadap hukum-hukummu mereka berdosa — yang jika manusia melakukannya, ia akan hidup di dalamnya — dan mereka memberikan bahu yang membangkang, dan tengkuk mereka mereka keraskan, serta tidak mau mendengar.",
   "tokens": [
     {
       "surface": "ותעד",
-      "gloss": "Engkau bersaksi"
+      "gloss": "Engkau memperingatkan"
     },
     {
       "surface": "בהם",
-      "gloss": "terhadap mereka"
+      "gloss": "mereka"
     },
     {
       "surface": "להשיבם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תורתך",
-      "gloss": "torat-Mu"
+      "gloss": "Tauratmu"
     },
     {
       "surface": "והמה",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "למצותיך",
-      "gloss": "perintah-perintah-Mu"
+      "gloss": "perintah-perintahmu"
     },
     {
       "surface": "ובמשפטיך",
-      "gloss": "dan dalam hukum-hukum-Mu"
+      "gloss": "dan terhadap hukum-hukummu"
     },
     {
       "surface": "חטאו",
-      "gloss": "mereka berbuat dosa"
+      "gloss": "mereka berdosa"
     },
     {
       "surface": "בם",
-      "gloss": "terhadapnya"
+      "gloss": "di dalamnya"
     },
     {
       "surface": "אשר",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "אדם",
-      "gloss": "seorang manusia"
+      "gloss": "manusia"
     },
     {
       "surface": "וחיה",
-      "gloss": "dan ia akan hidup"
+      "gloss": "dan akan hidup"
     },
     {
       "surface": "בהם",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "סוררת",
-      "gloss": "yang membantah"
+      "gloss": "yang membangkang"
     },
     {
       "surface": "וערפם",
@@ -108,6 +108,6 @@
       "gloss": "mau mendengar"
     }
   ],
-  "timestamp": "2026-08-08T10:01:19.418273296Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:00.047352885Z",
+  "model": "glm-5.3"
 }

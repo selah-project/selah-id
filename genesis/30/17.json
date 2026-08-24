@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 30,
-  "translation": "Dan Elohim mendengarkan ⟨אל⟩ Lea, maka ⟨dia⟩ mengandung dan melahirkan bagi Yaakob putra kelima.",
+  "translation": "Dan Elohim mendengarkan Leah, lalu ia mengandung dan melahirkan bagi Yakub seorang anak laki-laki, anak yang kelima.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Dan mendengarkan"
+      "gloss": "Dan … mendengarkan"
     },
     {
       "surface": "אלהים",
@@ -17,16 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩",
-      "marks": "Lea"
+      "gloss": "terhadap"
     },
     {
       "surface": "לאה",
-      "gloss": "Lea"
+      "gloss": "Leah"
     },
     {
       "surface": "ותהר",
-      "gloss": "maka mengandung"
+      "gloss": "lalu ia mengandung"
     },
     {
       "surface": "ותלד",
@@ -34,17 +33,17 @@
     },
     {
       "surface": "ליעקב",
-      "gloss": "bagi Yaakob"
+      "gloss": "bagi Yakub"
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "seorang anak laki-laki"
     },
     {
       "surface": "חמישי",
-      "gloss": "kelima"
+      "gloss": "anak yang kelima"
     }
   ],
-  "timestamp": "2026-08-08T12:30:57.893641853Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:38.438781970Z",
+  "model": "glm-5.3"
 }

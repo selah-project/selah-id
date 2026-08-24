@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 66,
-  "translation": "Terpuji ⟨lah⟩ Elohim, yang tidak menjauhkan doaku dan hesed-Nya dariku.",
+  "translation": "Terpuji ⟨lah⟩ Elohim, yang tidak menjauhkan doaku dan hesed-Nya ⟨את⟩ dariku.",
   "tokens": [
     {
       "surface": "ברוך",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "dariku"
+      "gloss": "⟨את⟩ dariku"
     }
   ],
-  "timestamp": "2026-08-08T09:16:15.580751551Z",
+  "timestamp": "2026-08-24T17:55:27.140370305Z",
   "model": "glm-5.2"
 }

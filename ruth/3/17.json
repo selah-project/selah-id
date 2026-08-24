@@ -5,19 +5,19 @@
   "book": "ruth",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan ⟨ia⟩ berkata, “Enam ⟨מִדּוֹת⟩ jelai ini diberikannya kepadaku, sebab katanya, ‘Janganlah engkau pergi dengan tangan kosong kepada ibumu.’”",
+  "translation": "Dan berkatalah ⟨ia⟩: “Enam taksaran jelai ini diberikannya kepadaku, sebab katanya: Janganlah engkau pulang dengan tangan kosong kepada mertuamu perempuan.”",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "Dan berkata"
+      "gloss": "Dan berkatalah"
     },
     {
       "surface": "שש",
-      "gloss": "enam"
+      "gloss": "Enam"
     },
     {
       "surface": "השערים",
-      "gloss": "jelai"
+      "gloss": "taksaran jelai"
     },
     {
       "surface": "האלה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "jangan"
+      "gloss": "Janganlah"
     },
     {
       "surface": "תבואי",
-      "gloss": "engkau pergi"
+      "gloss": "engkau pulang"
     },
     {
       "surface": "ריקם",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "חמותך",
-      "gloss": "ibumu"
+      "gloss": "mertuamu perempuan"
     }
   ],
-  "timestamp": "2026-08-08T09:46:36.340762476Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:29.174529213Z",
+  "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan jendela-jendela berpalung ke arah ⟨התאים⟩ ruang-ruang dan ke arah ⟨אליהמה⟩ tiang-tiangnya, ke sebelah dalam, mengelilingi gerbang berputar-berputar; dan demikian pula pada serambi-serambi; dan jendela-jendela mengelilingi berputar-berputar ke sebelah dalam; dan pada tiang ⟨ada⟩ pohon-pohon palem.",
+  "translation": "Dan ada jendela-jendela tertutup pada ruang-ruang kecil itu, dan pada tiang-tiangnya di bagian dalam, menghadap pintu gerbang itu, sekeliling sekeliling; dan demikian pula pada bangunan berpilar; ada jendela-jendela sekeliling sekeliling di bagian dalam, dan pada tiang ada ukiran pohon kurma.",
   "tokens": [
     {
       "surface": "וחלנות",
-      "gloss": "dan jendela-jendela"
+      "gloss": "dan ada jendela-jendela"
     },
     {
       "surface": "אטמות",
-      "gloss": "berpalung"
+      "gloss": "tertutup"
     },
     {
       "surface": "אל",
-      "gloss": "ke arah"
+      "gloss": "pada"
     },
     {
       "surface": "התאים",
-      "gloss": "ruang-ruang"
+      "gloss": "ruang-ruang kecil itu"
     },
     {
       "surface": "ואל",
-      "gloss": "dan ke arah"
+      "gloss": "dan pada"
     },
     {
       "surface": "אליהמה",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "לפנימה",
-      "gloss": "ke sebelah dalam"
+      "gloss": "di bagian dalam"
     },
     {
       "surface": "לשער",
-      "gloss": "gerbang"
+      "gloss": "menghadap pintu gerbang itu"
     },
     {
       "surface": "סביב",
-      "gloss": "mengelilingi"
+      "gloss": "sekeliling"
     },
     {
       "surface": "סביב",
-      "gloss": "berputar-berputar"
+      "gloss": "sekeliling"
     },
     {
       "surface": "וכן",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לאלמות",
-      "gloss": "pada serambi-serambi"
+      "gloss": "pada bangunan berpilar"
     },
     {
       "surface": "וחלונות",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "סביב",
-      "gloss": "mengelilingi"
+      "gloss": "sekeliling"
     },
     {
       "surface": "סביב",
-      "gloss": "berputar-berputar"
+      "gloss": "sekeliling"
     },
     {
       "surface": "לפנימה",
-      "gloss": "ke sebelah dalam"
+      "gloss": "di bagian dalam"
     },
     {
       "surface": "ואל",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "תמרים",
-      "gloss": "pohon-pohon palem"
+      "gloss": "ukiran pohon kurma"
     }
   ],
-  "timestamp": "2026-08-08T11:26:41.716121606Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:29.317991334Z",
+  "model": "glm-5.3"
 }

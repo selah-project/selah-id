@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 49,
-  "translation": "Bersorak-sorailah, hai langit, dan bersukacitalah, hai bumi; gunung-gunung, pecahkanlah ⟨⟨dalam⟩⟩ sorakan, sebab Yahweh telah menghibur umat-Nya, dan orang-orang papa-Nya akan Ia rahmati.",
+  "translation": "Bersorak-sorailah, hai langit, dan bersukarialah, hai bumi; meletuslah dalam nyanyian, hai gunung-gunung, sebab Yahweh telah menghibur umat-Nya, dan akan mengasihani ⟨si⟩ papa ⟨yang⟩ milik-Nya.",
   "tokens": [
     {
       "surface": "רנו",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "שמים",
-      "gloss": "langit"
+      "gloss": "hai langit"
     },
     {
       "surface": "וגילי",
-      "gloss": "dan bersukacitalah"
+      "gloss": "dan bersukarialah"
     },
     {
       "surface": "ארץ",
-      "gloss": "bumi"
+      "gloss": "hai bumi"
     },
     {
       "surface": "יפצחו",
-      "gloss": "pecahkanlah"
+      "gloss": "meletuslah dalam nyanyian"
     },
     {
       "surface": "הרים",
-      "gloss": "gunung-gunung"
+      "gloss": "hai gunung-gunung"
     },
     {
       "surface": "רנה",
-      "gloss": "sorakan"
+      "gloss": "nyanyian sorak"
     },
     {
       "surface": "כי",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "ועניו",
-      "gloss": "dan orang-orang papa-Nya"
+      "gloss": "dan papa milik-Nya"
     },
     {
       "surface": "ירחם",
-      "gloss": "akan Ia rahmati"
+      "gloss": "akan mengasihani"
     }
   ],
-  "timestamp": "2026-08-08T08:26:23.034004406Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:26.428181859Z",
+  "model": "glm-5.3"
 }

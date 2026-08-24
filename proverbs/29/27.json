@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 29,
-  "translation": "תועבת ⟨bagi⟩ orang-orang benar ⟨adalah⟩ seorang penuh kelaliman, dan תועבת ⟨bagi⟩ orang fasik ⟨adalah⟩ yang lurus ⟨di⟩ jalan.",
+  "translation": "⟨Kejijikan⟩ bagi orang-orang benar ⟨ialah⟩ orang yang berbuat curang, dan kejijikan bagi orang fasik ialah orang yang lurus jalannya.",
   "tokens": [
     {
       "surface": "תועבת",
-      "gloss": "kekejian"
+      "gloss": "⟨Kejijikan⟩"
     },
     {
       "surface": "צדיקים",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "seorang"
+      "gloss": "orang"
     },
     {
       "surface": "עול",
-      "gloss": "penuh kelaliman"
+      "gloss": "yang berbuat curang"
     },
     {
       "surface": "ותועבת",
-      "gloss": "dan kekejian"
+      "gloss": "dan kejijikan"
     },
     {
       "surface": "רשע",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "דרך",
-      "gloss": "jalan"
+      "gloss": "jalannya"
     }
   ],
-  "timestamp": "2026-08-08T11:51:13.320700215Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:55.742853967Z",
+  "model": "glm-5.3"
 }

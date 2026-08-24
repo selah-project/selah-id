@@ -5,24 +5,24 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan aku akan menghabiskan ⟨את⟩ rencana Yehudah dan Yerushalayim di tempat ini, dan aku akan menjatuhkan mereka dengan pedang di hadapan musuh-musuh mereka dan di tangan orang-orang yang mencari ⟨נפשם⟩ hidup mereka, dan aku akan memberikan ⟨את⟩ mayat mereka menjadi makanan bagi burung-burung langit dan bagi binatang-binatang bumi.",
+  "translation": "Dan Aku akan menggagalkan ⟨את⟩ rancangan Yehuda dan Yerushalayim di tempat ini, dan Aku akan menjatuhkan mereka oleh pedang di hadapan musuh mereka, dan oleh tangan mereka yang mencari ⟨את⟩ nyawa mereka; dan Aku akan memberikan ⟨את⟩ bangkai mereka menjadi makanan bagi burung langit dan bagi binatang bumi.",
   "tokens": [
     {
       "surface": "ובקתי",
-      "gloss": "dan aku akan menghabiskan"
+      "gloss": "dan Aku akan menggagalkan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rencana"
+      "marks": "rancangan"
     },
     {
       "surface": "עצת",
-      "gloss": "rencana"
+      "gloss": "rancangan"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "Yehuda"
     },
     {
       "surface": "וירושלם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "והפלתים",
-      "gloss": "dan aku akan menjatuhkan mereka"
+      "gloss": "dan Aku akan menjatuhkan mereka"
     },
     {
       "surface": "בחרב",
-      "gloss": "dengan pedang"
+      "gloss": "oleh pedang"
     },
     {
       "surface": "לפני",
@@ -50,32 +50,32 @@
     },
     {
       "surface": "איביהם",
-      "gloss": "musuh-musuh mereka"
+      "gloss": "musuh mereka"
     },
     {
       "surface": "וביד",
-      "gloss": "dan di tangan"
+      "gloss": "dan oleh tangan"
     },
     {
       "surface": "מבקשי",
-      "gloss": "orang-orang yang mencari"
+      "gloss": "mereka yang mencari"
     },
     {
       "surface": "נפשם",
-      "gloss": "hidup mereka"
+      "gloss": "nyawa mereka"
     },
     {
       "surface": "ונתתי",
-      "gloss": "dan aku akan memberikan"
+      "gloss": "dan Aku akan memberikan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mayat mereka"
+      "marks": "bangkai mereka"
     },
     {
       "surface": "נבלתם",
-      "gloss": "mayat mereka"
+      "gloss": "bangkai mereka"
     },
     {
       "surface": "למאכל",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "לעוף",
-      "gloss": "bagi burung-burung"
+      "gloss": "bagi burung"
     },
     {
       "surface": "השמים",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "ולבהמת",
-      "gloss": "dan bagi binatang-binatang"
+      "gloss": "dan bagi binatang"
     },
     {
       "surface": "הארץ",
       "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-08T08:35:06.904290099Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:16.079895001Z",
+  "model": "glm-5.3"
 }

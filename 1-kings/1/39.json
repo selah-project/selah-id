@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan Tsadok sang imam mengambil ⟨את⟩ tanduk minyak itu dari kemah itu, lalu mengurapi ⟨את⟩ Shelomah; dan mereka meniup sangkakala, dan berkatalah seluruh ⟨ה⟩ bangsa itu, “Hiduplah ⟨ה⟩ raja Shelomah!”",
+  "translation": "Lalu Tsadok sang imam mengambil tanduk minyak itu dari ⟨את⟩ tenda itu, lalu mengurapi ⟨את⟩ Shelomoh; mereka meniup sangkakala, dan seluruh umat itu berseru: “Hiduplah raja Shelomoh!”",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "dan mengambil"
+      "gloss": "lalu mengambil"
     },
     {
       "surface": "צדוק",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "האהל",
-      "gloss": "kemah itu"
+      "gloss": "tenda itu"
     },
     {
       "surface": "וימשח",
@@ -47,15 +47,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shelomah"
+      "marks": "Shelomoh"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomah"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "ויתקעו",
-      "gloss": "dan mereka meniup"
+      "gloss": "mereka meniup"
     },
     {
       "surface": "בשופר",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "dan berkatalah"
+      "gloss": "dan mereka berseru"
     },
     {
       "surface": "כל",
@@ -71,21 +71,21 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨ה⟩ bangsa itu"
+      "gloss": "umat itu"
     },
     {
       "surface": "יחי",
-      "gloss": "Hiduplah"
+      "gloss": "hiduplah"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨ה⟩ raja"
+      "gloss": "raja"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomah"
+      "gloss": "Shelomoh"
     }
   ],
-  "timestamp": "2026-08-08T11:01:34.896447180Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:02.887000878Z",
+  "model": "glm-5.3"
 }

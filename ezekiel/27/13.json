@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 27,
-  "translation": "Yawan, Tuwal, dan Mesyekh — merekalah para pedagangmu; ⟨dengan⟩ ⟨נפשׁ⟩ manusia dan perkakas tembaga mereka memberi ⟨sebagai⟩ barang daganganmu.",
+  "translation": "Yavan, Tuval, dan Meshekh — merekalah para pedagangmu; dengan nyawa manusia dan perkakas tembaga mereka memberi barang daganganmu.",
   "tokens": [
     {
       "surface": "יון",
-      "gloss": "Yawan"
+      "gloss": "Yavan"
     },
     {
       "surface": "תבל",
-      "gloss": "Tuwal"
+      "gloss": "Tuval"
     },
     {
       "surface": "ומשך",
-      "gloss": "dan Mesyekh"
+      "gloss": "dan Meshekh"
     },
     {
       "surface": "המה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בנפש",
-      "gloss": "dengan nefesh"
+      "gloss": "dengan nyawa"
     },
     {
       "surface": "אדם",
@@ -49,9 +49,10 @@
     },
     {
       "surface": "מערבך",
-      "gloss": "barang daganganmu"
+      "gloss": "barang daganganmu",
+      "marks": "barang daganganmu"
     }
   ],
-  "timestamp": "2026-08-08T08:50:59.196257084Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.187401682Z",
+  "model": "glm-5.3"
 }

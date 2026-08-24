@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 39,
-  "translation": "Dan terjadilah, sejak ⟨dia⟩ menunjukkannya atas ⟨את⟩ rumahnya dan atas segala yang ada padanya, Yahweh memberkati ⟨את⟩ rumah orang Mitsri demi Yosef; dan berkat Yahweh itu ada pada segala yang ia miliki, di ⟨the⟩ rumah dan di ⟨the⟩ ladang.",
+  "translation": "Dan terjadilah, sejak ia mengangkatnya atas rumahnya dan atas segala yang ia miliki, Yahweh memberkati ⟨את⟩ rumah orang Mitsri itu oleh karena Yusuf; dan berkat Yahweh ada atas segala yang ia miliki, di rumah dan di ladang.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "dan terjadilah"
+      "gloss": "Dan terjadilah"
     },
     {
       "surface": "מאז",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "הפקיד",
-      "gloss": "menunjukkannya"
+      "gloss": "ia mengangkatnya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "rumahnya"
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
     },
     {
       "surface": "בביתו",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "padanya"
+      "gloss": "baginya"
     },
     {
       "surface": "ויברך",
-      "gloss": "dan memberkati"
+      "gloss": "Yahweh memberkati (ia memberkati)"
     },
     {
       "surface": "יהוה",
@@ -59,7 +59,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rumah"
+      "marks": "rumah orang Mitsri itu"
     },
     {
       "surface": "בית",
@@ -67,19 +67,19 @@
     },
     {
       "surface": "המצרי",
-      "gloss": "orang Mitsri"
+      "gloss": "orang Mitsri itu"
     },
     {
       "surface": "בגלל",
-      "gloss": "demi"
+      "gloss": "oleh karena"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "Yusuf"
     },
     {
       "surface": "ויהי",
-      "gloss": "dan ada"
+      "gloss": "dan terjadilah (ada)"
     },
     {
       "surface": "ברכת",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "pada segala"
+      "gloss": "atas segala"
     },
     {
       "surface": "אשר",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "ia miliki"
+      "gloss": "baginya"
     },
     {
       "surface": "בבית",
@@ -114,6 +114,6 @@
       "gloss": "dan di ladang"
     }
   ],
-  "timestamp": "2026-08-08T06:52:16.594467017Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:04.048418884Z",
+  "model": "glm-5.3"
 }

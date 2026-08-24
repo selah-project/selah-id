@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 13,
-  "translation": "Lalu berkatalah Avshalom: “Jika tidak, kiranya berjalan ⟨bersama⟩ kami Amnon saudaraku.” Dan berkatalah raja kepadanya: “Mengapa ia harus pergi bersamamu?”",
+  "translation": "Lalu berkatalah Avshalom: “Jika tidak, kiranya berjalan ⟨את⟩ ⟨bersama⟩ kami Amnon saudaraku.” Dan berkatalah raja kepadanya: “Mengapa ia harus pergi bersamamu?”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨bersama⟩ kami"
+      "gloss": "⟨את⟩ ⟨bersama⟩ kami"
     },
     {
       "surface": "אמנון",
@@ -64,6 +64,6 @@
       "gloss": "bersamamu"
     }
   ],
-  "timestamp": "2026-08-08T07:55:56.283472693Z",
+  "timestamp": "2026-08-24T17:55:27.061497746Z",
   "model": "glm-5.2"
 }

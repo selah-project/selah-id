@@ -5,19 +5,19 @@
   "book": "nehemiah",
   "lang": "id",
   "chapter": 12,
-  "translation": "dan dari anak-anam ⟨ה⟩ imam, dengan nafiri: Zekharya bin Yonatan bin Shemayah bin Mattanyah bin Mikhayah bin Zakkur bin Asaf.",
+  "translation": "dan dari bani imam, pemegang sangkakala: Zekharya bin Yonatan bin Semyah bin Matanya bin Mikhaya bin Zakur bin Asaf.",
   "tokens": [
     {
       "surface": "ומבני",
-      "gloss": "dan dari anak-anak"
+      "gloss": "dan dari bani"
     },
     {
       "surface": "הכהנים",
-      "gloss": "⟨ה⟩ imam"
+      "gloss": "imam-imam"
     },
     {
       "surface": "בחצצרות",
-      "gloss": "dengan nafiri"
+      "gloss": "pemegang sangkakala"
     },
     {
       "surface": "זכריה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שמעיה",
-      "gloss": "Shemayah"
+      "gloss": "Semyah"
     },
     {
       "surface": "בן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מתניה",
-      "gloss": "Mattanyah"
+      "gloss": "Matanya"
     },
     {
       "surface": "בן",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מיכיה",
-      "gloss": "Mikhayah"
+      "gloss": "Mikhaya"
     },
     {
       "surface": "בן",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "זכור",
-      "gloss": "Zakkur"
+      "gloss": "Zakur"
     },
     {
       "surface": "בן",
@@ -72,6 +72,6 @@
       "gloss": "Asaf"
     }
   ],
-  "timestamp": "2026-08-08T10:02:21.430692159Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:54.278484245Z",
+  "model": "glm-5.3"
 }

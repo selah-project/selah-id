@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 33,
-  "translation": "Dan ia melihat bagian pertama bagi dirinya, sebab di sanalah ⟨adalah⟩ bagian pemberi-חקק yang tertutup, dan ia datang ⟨bersama⟩ kepala-kepala umat; kebenaran Yahweh ia lakukan, dan ketetapan-ketetapan-⟨Nya⟩ bersama Yisra'el.",
+  "translation": "Dan ia melihat bagian pertama untuk dirinya, sebab di sanalah tersembunyi bagian sang pemberi ketetapan; dan ia datang bersama para kepala umat, kesetiaan-hukum Yahweh ia lakukan, dan hukum-hukum-Nya bersama Israel.",
   "tokens": [
     {
       "surface": "וירא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "bagi dirinya"
+      "gloss": "untuk dirinya"
     },
     {
       "surface": "כי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מחקק",
-      "gloss": "pemberi-חקק"
+      "gloss": "sang pemberi ketetapan"
     },
     {
       "surface": "ספון",
-      "gloss": "yang tertutup"
+      "gloss": "tersembunyi"
     },
     {
       "surface": "ויתא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "kepala-kepala"
+      "gloss": "para kepala"
     },
     {
       "surface": "עם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "צדקת",
-      "gloss": "kebenaran"
+      "gloss": "kesetiaan-hukum"
     },
     {
       "surface": "יהוה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ומשפטיו",
-      "gloss": "dan ketetapan-ketetapan-⟨Nya⟩"
+      "gloss": "dan hukum-hukum-Nya"
     },
     {
       "surface": "עם",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     }
   ],
-  "timestamp": "2026-08-08T07:32:23.316799001Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:35.319033638Z",
+  "model": "glm-5.3"
 }

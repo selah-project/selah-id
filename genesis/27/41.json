@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 27,
-  "translation": "Dan Esav membenci ⟨את⟩ Yaakov karena ⟨ה⟩ berkat yang diberkati kepadanya oleh ayahnya, dan Esav berkata dalam hatinya, “Hampir tibanya hari-hari berdukacita ⟨untuk⟩ ayahku, dan aku akan membunuh ⟨את⟩ Yaakov saudaraku.”",
+  "translation": "Lalu Esav membenci ⟨את⟩ Yakub karena berkat yang diberikan ayahnya kepadanya; dan Esav berkata dalam hatinya, ‘Hampirlah hari-hari perkabungan atas ayahku, lalu aku akan membunuh ⟨את⟩ Yakov, saudaraku.’",
   "tokens": [
     {
       "surface": "וישטם",
-      "gloss": "Dan membenci"
+      "gloss": "membenci"
     },
     {
       "surface": "עשו",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yaakov"
+      "marks": "Yakub"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov"
+      "gloss": "Yakub"
     },
     {
       "surface": "על",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ברכו",
-      "gloss": "diberkati kepadanya"
+      "gloss": "diberkati(nya)"
     },
     {
       "surface": "אביו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "יקרבו",
-      "gloss": "hampir tibanya"
+      "gloss": "hampirlah"
     },
     {
       "surface": "ימי",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אבל",
-      "gloss": "berdukacita"
+      "gloss": "perkabungan"
     },
     {
       "surface": "אבי",
@@ -74,22 +74,22 @@
     },
     {
       "surface": "ואהרגה",
-      "gloss": "dan aku akan membunuh"
+      "gloss": "lalu aku akan membunuh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yaakov"
+      "marks": "Yakov"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov"
+      "gloss": "Yakov"
     },
     {
       "surface": "אחי",
       "gloss": "saudaraku"
     }
   ],
-  "timestamp": "2026-08-08T06:49:40.075322921Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:55.718468845Z",
+  "model": "glm-5.3"
 }

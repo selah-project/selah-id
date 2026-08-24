@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 5,
-  "translation": "“Dan ia membawanya kepada ⟨ה⟩ imam, dan ⟨ה⟩ imam menggenggam dari padanya segenggam penuh — ⟨את⟩ bahagiannya yang berkenan — dan membakar ⟨itu⟩ di atas ⟨ה⟩ mezbah, di atas persembahan api Yahweh; ⟨itu⟩ persembahan dosa ⟨iah⟩.”",
+  "translation": "Lalu ia membawanya kepada imam, dan imam mengambil segenggam dari padanya — sepenuh genggamannya — ⟨את⟩ bagian peringatannya, lalu membakarnya di atas mezbah, di atas persembahan api bagi Yahweh; ⟨ini⟩ korban penghapus dosa.",
   "tokens": [
     {
       "surface": "והביאה",
-      "gloss": "Dan ia membawanya"
+      "gloss": "lalu ia membawanya"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וקמץ",
-      "gloss": "dan menggenggam"
+      "gloss": "dan mengambil segenggam"
     },
     {
       "surface": "הכהן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מלוא",
-      "gloss": " kepenuhan"
+      "gloss": "sepenuh"
     },
     {
       "surface": "קמצו",
@@ -42,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bahagiannya yang berkenan"
+      "marks": "bagian peringatannya"
     },
     {
       "surface": "אזכרתה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "והקטיר",
-      "gloss": "dan membakar"
+      "gloss": "lalu membakarnya"
     },
     {
       "surface": "המזבחה",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "חטאת",
-      "gloss": "persembahan dosa"
+      "gloss": "korban penghapus dosa"
     },
     {
       "surface": "הוא",
-      "gloss": "ia"
+      "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T10:34:23.239726618Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:07.352495820Z",
+  "model": "glm-5.3"
 }

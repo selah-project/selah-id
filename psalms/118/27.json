@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 118,
-  "translation": "El ⟨⟨adalah⟩⟩ Yahweh, dan ⟨dia⟩ menyinari kami; ikatlah ⟨את⟩ perayaan itu dengan tali-tali berjeruji, sampai ke sudut-sudut ⟨dari⟩ mezbah itu.",
+  "translation": "El Yahweh, dan ⟨dia⟩ menerangi kami; ikatlah ⟨את⟩ perayaan itu dengan tali-tali sampai ke tanduk-tanduk mezbah itu.",
   "tokens": [
     {
       "surface": "אל",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "ויאר",
-      "gloss": "dan menyinari"
+      "gloss": "dan ia menerangi"
     },
     {
       "surface": "לנו",
       "gloss": "kami"
     },
     {
-      "surface": "אסרו",
+      "surface": "אסרu",
       "gloss": "ikatlah"
     },
     {
       "surface": "חג",
-      "gloss": "perayaan itu"
+      "gloss": "perayaan"
     },
     {
       "surface": "בעבתים",
-      "gloss": "dengan tali-tali berjeruji"
+      "gloss": "dengan tali-tali"
     },
     {
       "surface": "עד",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "קרנות",
-      "gloss": "sudut-sudut"
+      "gloss": "tanduk-tanduk"
     },
     {
       "surface": "המזבח",
       "gloss": "mezbah itu"
     }
   ],
-  "timestamp": "2026-08-08T11:46:23.639180554Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:26.656813440Z",
+  "model": "glm-5.3"
 }

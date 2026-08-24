@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 8,
-  "translation": "Lalu Musa mengambil minyak urapan, dan mengurapi ⟨את⟩ Mishkan beserta ⟨את⟩ segala yang ada di dalamnya; dan ia menguduskan ⟨אתם⟩.",
+  "translation": "Lalu Musa mengambil ⟨את⟩ minyak urapan, lalu mengurapi ⟨את⟩ Mishkan dan ⟨את⟩ segala yang ada di dalamnya, dan menguduskan ⟨את⟩-nya.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Lalu ia mengambil"
+      "gloss": "Lalu Musa mengambil"
     },
     {
       "surface": "משה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "וימשח",
-      "gloss": "dan mengurapi"
+      "gloss": "lalu mengurapi"
     },
     {
       "surface": "את",
@@ -43,8 +43,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "beserta ⟨את⟩",
-      "marks": "segala"
+      "gloss": "⟨את⟩",
+      "marks": "segala yang ada di dalamnya"
     },
     {
       "surface": "כל",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "ada di dalamnya"
+      "gloss": "di dalamnya"
     },
     {
       "surface": "ויקדש",
@@ -64,10 +64,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": ""
+      "gloss": "⟨את⟩-nya",
+      "marks": "Mishkan dan segala isinya"
     }
   ],
-  "timestamp": "2026-08-09T01:38:00.744905561Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:59.813493447Z",
+  "model": "glm-5.3"
 }

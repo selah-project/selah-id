@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 9,
-  "translation": "Lalu berkatalah Shaul kepada napasnya, “Baik perkataanmu. Mari, pergilah kita,” dan mereka pergi menuju kota yang di sana ⟨adalah⟩ ⟨ה⟩ isha haElohim.",
+  "translation": "Lalu berkatalah Shaul kepada bujangnya, “Baik katamu; mari, kita pergi.” Maka pergilah mereka ke kota tempat orang ⟨את⟩-Elohim itu berada.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lalu berkatalah"
+      "gloss": "berkatalah"
     },
     {
       "surface": "שאול",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "לנערו",
-      "gloss": "kepada napasnya"
+      "gloss": "kepada bujangnya"
     },
     {
       "surface": "טוב",
-      "gloss": "Baik"
+      "gloss": "baik"
     },
     {
       "surface": "דברך",
-      "gloss": "perkataanmu"
+      "gloss": "katamu"
     },
     {
       "surface": "לכה",
-      "gloss": "Mari"
+      "gloss": "mari"
     },
     {
       "surface": "נלכה",
-      "gloss": "pergilah kita"
+      "gloss": "kita pergi"
     },
     {
       "surface": "וילכו",
-      "gloss": "dan mereka pergi"
+      "gloss": "maka pergilah mereka"
     },
     {
       "surface": "אל",
-      "gloss": "menuju"
+      "gloss": "ke"
     },
     {
       "surface": "העיר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": "tempat"
     },
     {
       "surface": "שם",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "איש",
-      "gloss": "isha"
+      "gloss": "orang"
     },
     {
       "surface": "האלהים",
-      "gloss": "haElohim"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-08T23:19:35.960683496Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:15.287221715Z",
+  "model": "glm-5.3"
 }

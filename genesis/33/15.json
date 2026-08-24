@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 33,
-  "translation": "Dan berkatalah Esav, “Biarkanlah saya menempatkan kiranya bersamamu sebagian dari rakyat itu yang bersamaku.” Dan ⟨ia⟩ berkata, “Untuk apa ini? Biarkanlah saya mendapatkan kasih karunia di mata tuan saya.”",
+  "translation": "Dan berkatalah Esav, “Biarkanlah saya menempatkan kiranya bersamamu sebagian dari rakyat itu yang ⟨את⟩ bersamaku.” Dan ⟨ia⟩ berkata, “Untuk apa ini? Biarkanlah saya mendapatkan kasih karunia di mata tuan saya.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "ויאמר",
@@ -72,6 +72,6 @@
       "gloss": "tuan saya"
     }
   ],
-  "timestamp": "2026-08-08T06:50:15.908422202Z",
+  "timestamp": "2026-08-24T17:55:27.067608610Z",
   "model": "glm-5.2"
 }

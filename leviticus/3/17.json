@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 3,
-  "translation": "חֻקַּת עוֹלָם לְדֹרֹתֵיכֶם בְּכֹל מוֹשְׁבֹתֵיכֶם: כָּל־חֵלֶב וְכָל־דָּם לֹא תֹאכֵלוּ.",
+  "translation": "⟨Ini⟩ ketetapan untuk selama-lamanya bagi keturunan-keturunanmu, di seluruh tempat kediamanmu: segala lemak dan segala darah, janganlah kamu makan.",
   "tokens": [
     {
       "surface": "חקת",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "bagi keturunanmu"
+      "gloss": "bagi keturunan-keturunanmu"
     },
     {
       "surface": "בכל",
-      "gloss": "di segala"
+      "gloss": "di seluruh"
     },
     {
       "surface": "מושבתיכם",
-      "gloss": "tempat tinggalmu"
+      "gloss": "tempat kediamanmu"
     },
     {
       "surface": "כל",
@@ -36,12 +36,8 @@
       "gloss": "lemak"
     },
     {
-      "surface": "ו",
-      "gloss": "dan"
-    },
-    {
-      "surface": "כל",
-      "gloss": "segala"
+      "surface": "וכל",
+      "gloss": "dan segala"
     },
     {
       "surface": "דם",
@@ -56,6 +52,6 @@
       "gloss": "kamu makan"
     }
   ],
-  "timestamp": "2026-08-08T18:24:37.591715009Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:48.772481517Z",
+  "model": "glm-5.3"
 }

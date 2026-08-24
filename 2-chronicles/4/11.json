@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan Khuram membuat ⟨את⟩ periuk dan ⟨את⟩ penyodok dan ⟨את⟩ bokor penyiraman; dan Khiram menyelesaikan pekerjaan membuat ⟨את⟩ pekerjaan yang dibuatnya bagi raja Shelomo di rumah HaElohim.",
+  "translation": "Lalu Khuram membuat ⟨את⟩ periuk-periuk dan ⟨את⟩ penyekopan dan ⟨את⟩ bokor-bokor murisan; dan Khiram selesai melakukan ⟨את⟩ pekerjaan yang dibuatnya bagi raja Syelomo di rumah Elohim.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "dan membuat"
+      "gloss": "Lalu … membuat"
     },
     {
       "surface": "חורם",
@@ -18,33 +18,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "periuk"
+      "marks": "periuk-periuk"
     },
     {
       "surface": "הסירות",
-      "gloss": "⟨the⟩ periuk"
+      "gloss": "periuk-periuk"
     },
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "penyodok"
+      "marks": "penyekopan"
     },
     {
       "surface": "היעים",
-      "gloss": "⟨the⟩ penyodok"
+      "gloss": "penyekopan"
     },
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "bokor penyiraman"
+      "marks": "bokor-bokor murisan"
     },
     {
       "surface": "המזרקות",
-      "gloss": "⟨the⟩ bokor penyiraman"
+      "gloss": "bokor-bokor murisan"
     },
     {
       "surface": "ויכל",
-      "gloss": "dan menyelesaikan"
+      "gloss": "dan selesai"
     },
     {
       "surface": "חירם",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "membuat"
+      "gloss": "melakukan"
     },
     {
       "surface": "את",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "המלאכה",
-      "gloss": "⟨the⟩ pekerjaan"
+      "gloss": "pekerjaan"
     },
     {
       "surface": "אשר",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Syelomo"
     },
     {
       "surface": "בבית",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "HaElohim"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-08T12:04:58.531430812Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:07.201850739Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 23,
-  "translation": "Lalu Balak berkata kepadanya, \"Pergilah ⟨silakan⟩ bersamaku ke tempat lain, yang dari sana engkau dapat melihatnya — ⟨hanya⟩ ujungnya ⟨saja⟩ engkau akan lihat, dan seluruhnya tidak akan engkau lihat — dan kutuklah dia untukku dari sana.\"",
+  "translation": "Lalu Balak berkata kepadanya, \"Pergilah ⟨silakan⟩ ⟨את⟩ bersamaku ke tempat lain, yang dari sana engkau dapat melihatnya — ⟨hanya⟩ ujungnya ⟨saja⟩ engkau akan lihat, dan seluruhnya tidak akan engkau lihat — dan kutuklah dia untukku dari sana.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "אל",
@@ -92,6 +92,6 @@
       "gloss": "dari sana"
     }
   ],
-  "timestamp": "2026-08-08T10:42:20.576147834Z",
+  "timestamp": "2026-08-24T17:55:27.231361139Z",
   "model": "glm-5.2"
 }

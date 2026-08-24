@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 28,
-  "translation": "Dan Yahweh akan menetapkan engkau menjadi kepala dan bukan ekor, dan engkau akan hanya di atas dan tidak akan ⟨berada⟩ di bawah, apabila engkau mendengarkan ⟨אל⟩ perintah-perintah Yahweh Elohim-mu yang aku perintahkan kepadamu pada hari ini, untuk dijaga dan dilakukan.",
+  "translation": "Dan Yahweh akan menempatkan engkau sebagai kepala dan bukan sebagai ekor; engkau akan berada hanya di atas dan tidak akan berada di bawah, apabila engkau mendengarkan ⟨את⟩ perintah-perintah Yahweh Elohim-mu yang kusampaikan kepadamu pada hari ini, untuk dipatuhi dan dilakukan",
   "tokens": [
     {
       "surface": "ונתנך",
-      "gloss": "dan akan menetapkan engkau"
+      "gloss": "dan akan menempatkan engkau"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לראש",
-      "gloss": "menjadi kepala"
+      "gloss": "sebagai kepala"
     },
     {
       "surface": "ולא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לזנב",
-      "gloss": "ekor"
+      "gloss": "sebagai ekor"
     },
     {
       "surface": "והיית",
-      "gloss": "dan engkau akan"
+      "gloss": "engkau akan berada"
     },
     {
       "surface": "רק",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "akan menjadi"
+      "gloss": "engkau akan berada"
     },
     {
       "surface": "למטה",
@@ -61,8 +61,12 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩",
-      "marks": "perintah-perintah"
+      "gloss": " kepada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintah Yahweh Elohim-mu"
     },
     {
       "surface": "מצות",
@@ -86,7 +90,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "perintahkan kepadamu"
+      "gloss": "kusampaikan kepadamu"
     },
     {
       "surface": "היום",
@@ -94,13 +98,13 @@
     },
     {
       "surface": "לשמר",
-      "gloss": "untuk dijaga"
+      "gloss": "untuk dipatuhi"
     },
     {
       "surface": "ולעשות",
       "gloss": "dan dilakukan"
     }
   ],
-  "timestamp": "2026-08-08T07:31:47.699727983Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:58.142323626Z",
+  "model": "glm-5.3"
 }

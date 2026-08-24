@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 35,
-  "translation": "Dan rumah tidak boleh kamu dirikan, dan benih tidak boleh kamu taburkan, dan kebun anggur tidak boleh kamu tanamkan, dan tidak boleh ⟨ada⟩ bagi kamu, sebab di dalam kemah kamu harus diam seluruh hari-harimu, supaya kamu hidup hari-hari yang banyak di atas permukaan ⟨ה⟩tanah yang di sana kamu ⟨menjadi⟩ pendatang.”",
+  "translation": "dan rumah jangan kamu bangun, dan benih jangan kamu taburkan, dan kebun anggur jangan kamu tanam, dan jangan ada bagi kamu; sebab di dalam kemah-kemah kamu akan diam segala hari-harimu, supaya kamu hidup berhari-hari lamanya di atas permukaan tanah itu, yang kamu adalah orang asing di sana.",
   "tokens": [
     {
       "surface": "ובית",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "jangan"
     },
     {
       "surface": "תבנו",
-      "gloss": "kamu boleh dirikan"
+      "gloss": "kamu bangun"
     },
     {
       "surface": "וזרע",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "jangan"
     },
     {
       "surface": "תזרעו",
-      "gloss": "kamu boleh taburkan"
+      "gloss": "kamu taburkan"
     },
     {
       "surface": "וכרם",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "jangan"
     },
     {
       "surface": "תטעו",
-      "gloss": "kamu boleh tanamkan"
+      "gloss": "kamu tanam"
     },
     {
       "surface": "ולא",
-      "gloss": "dan tidak"
+      "gloss": "dan jangan"
     },
     {
       "surface": "יהיה",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "באהלים",
-      "gloss": "di dalam kemah"
+      "gloss": "di dalam kemah-kemah"
     },
     {
       "surface": "תשבו",
-      "gloss": "kamu harus diam"
+      "gloss": "kamu diam"
     },
     {
       "surface": "כל",
-      "gloss": "seluruh"
+      "gloss": "segala"
     },
     {
       "surface": "ימיכם",
@@ -84,12 +84,12 @@
       "gloss": "kamu hidup"
     },
     {
-      "surface": "יימם",
-      "gloss": "hari-hari"
+      "surface": "ימים",
+      "gloss": "berhari-hari"
     },
     {
       "surface": "רבים",
-      "gloss": "yang banyak"
+      "gloss": "lamanya"
     },
     {
       "surface": "על",
@@ -101,7 +101,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "tanah"
+      "gloss": "tanah itu"
     },
     {
       "surface": "אשר",
@@ -113,13 +113,13 @@
     },
     {
       "surface": "גרים",
-      "gloss": "pendatang"
+      "gloss": "orang asing"
     },
     {
       "surface": "שם",
       "gloss": "di sana"
     }
   ],
-  "timestamp": "2026-08-08T08:38:36.397417275Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:43.201645964Z",
+  "model": "glm-5.3"
 }

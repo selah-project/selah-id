@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 5,
-  "translation": "Dan setiap persembahan dari segala barang kudus bani Yisra'el yang mereka persembahkan kepada ⟨ה⟩ imam, kepadanyalah ia akan menjadi.",
+  "translation": "Dan setiap persembahan teruma dari segala barang kudus milik bani Yisrael yang mereka persembahkan kepada ⟨את⟩-nya imam, bagi dia itu akan menjadi miliknya.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Dan setiap"
+      "gloss": "dan setiap"
     },
     {
       "surface": "תרומה",
-      "gloss": "persembahan"
+      "gloss": "persembahan teruma"
     },
     {
       "surface": "לכל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "barang-barang kudus"
+      "gloss": "barang kudus"
     },
     {
       "surface": "בני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אשר",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "לכהן",
-      "gloss": "kepada ⟨ה⟩ imam"
+      "gloss": "kepada imam"
     },
     {
       "surface": "לו",
-      "gloss": "kepadanyalah"
+      "gloss": "bagi dia"
     },
     {
       "surface": "יהיה",
-      "gloss": "ia akan menjadi"
+      "gloss": "akan menjadi miliknya"
     }
   ],
-  "timestamp": "2026-08-08T07:15:06.058358900Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:23.821729963Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 13,
-  "translation": "Inilah nama-nama ⟨האנשים⟩ orang-orang yang disuruh Mosheh untuk mengintai ⟨את⟩ negeri itu; dan Mosheh memanggil Hoshea bin Nun ⟨dengan nama⟩ Yehosyua.",
+  "translation": "Inilah nama-nama orang-orang yang dikirim Mosheh untuk mengintai ⟨את⟩ negeri itu; dan Mosheh menamai Hoshea bin Nun, Yehosyua.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ini"
+      "gloss": "Inilah"
     },
     {
       "surface": "שמות",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "disuruh"
+      "gloss": "dikirim"
     },
     {
       "surface": "משה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "dan memanggil"
+      "gloss": "dan menamai"
     },
     {
       "surface": "משה",
@@ -69,6 +69,6 @@
       "gloss": "Yehosyua"
     }
   ],
-  "timestamp": "2026-08-08T07:17:16.075226676Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:20.349117339Z",
+  "model": "glm-5.3"
 }

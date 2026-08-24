@@ -5,10 +5,10 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 22,
-  "translation": "Dan ayah ⟨הנער⟩ berkata kepada para tua-tua, “⟨את⟩ putriku kuberikan kepada laki-laki ini menjadi isteri, dan ia membencinya.”",
+  "translation": "Dan ayah sang gadis itu berkata kepada para tua-tua: “⟨את⟩ anakku ini telah kuberikan kepada laki-laki ini menjadi isterinya, namun ia membencinya.”",
   "tokens": [
     {
-      "surface": "ואמר",
+      "surface": "ויאמר",
       "gloss": "dan berkata"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנער",
-      "gloss": "⟨הנער⟩"
+      "gloss": "sang gadis"
     },
     {
       "surface": "אל",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "putriku"
+      "marks": "anakku"
     },
     {
       "surface": "בתי",
-      "gloss": "putriku"
+      "gloss": "anakku (perempuan)"
     },
     {
       "surface": "נתתי",
-      "gloss": "kuberikan"
+      "gloss": "telah kuberikan"
     },
     {
       "surface": "לאיש",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "וישנאה",
-      "gloss": "dan ia membencinya"
+      "gloss": "namun ia membencinya"
     }
   ],
-  "timestamp": "2026-08-09T01:39:48.907446342Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:59.728260701Z",
+  "model": "glm-5.3"
 }

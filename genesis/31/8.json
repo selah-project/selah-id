@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 31,
-  "translation": "Jika demikian ia berkata, “Berbintik-bintik ⟨יהיה⟩ upahmu,” maka melahirkanlah segala kawanan domba itu berbintik-bintik. Dan jika demikian ia berkata, “Bergaris-garis ⟨יהיה⟩ upahmu,” maka melahirkanlah segala kawanan domba itu bergaris-garis.",
+  "translation": "Jika ia berkata demikian: ‘Yang berbintik-bintik akan menjadi upahmu,’ maka seluruh kawanan ternak itu melahirkan yang berbintik-bintik; dan jika ia berkata demikian: ‘Yang bergaris-garis akan menjadi upahmu,’ maka seluruh kawanan ternak itu melahirkan yang bergaris-garis.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jika"
+      "gloss": "Jika"
     },
     {
       "surface": "כה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "נקדים",
-      "gloss": "berbintik-bintik"
+      "gloss": "yang berbintik-bintik"
     },
     {
       "surface": "יהיה",
-      "gloss": "⟨akan⟩"
+      "gloss": "akan menjadi"
     },
     {
       "surface": "שכרך",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "וילדו",
-      "gloss": "maka melahirkanlah"
+      "gloss": "maka melahirkan"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "seluruh"
     },
     {
       "surface": "הצאן",
-      "gloss": "kawanan domba itu"
+      "gloss": "kawanan ternak itu"
     },
     {
       "surface": "נקדים",
-      "gloss": "berbintik-bintik"
+      "gloss": "yang berbintik-bintik"
     },
     {
       "surface": "ואם",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "עקדים",
-      "gloss": "bergaris-garis"
+      "gloss": "yang bergaris-garis"
     },
     {
       "surface": "יהיה",
-      "gloss": "⟨akan⟩"
+      "gloss": "akan menjadi"
     },
     {
       "surface": "שכרך",
@@ -73,21 +73,21 @@
     },
     {
       "surface": "וילדו",
-      "gloss": "maka melahirkanlah"
+      "gloss": "maka melahirkan"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "seluruh"
     },
     {
       "surface": "הצאן",
-      "gloss": "kawanan domba itu"
+      "gloss": "kawanan ternak itu"
     },
     {
       "surface": "עקדים",
-      "gloss": "bergaris-garis"
+      "gloss": "yang bergaris-garis"
     }
   ],
-  "timestamp": "2026-08-08T12:10:01.486527676Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:54.783543895Z",
+  "model": "glm-5.3"
 }

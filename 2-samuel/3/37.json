@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan tahu seluruh ⟨the⟩ rakyat dan seluruh Yisra'el pada hari itu, bahwa bukan dari pihak raja ⟨hal⟩ mematikan ⟨את⟩ Avner bin Ner.",
+  "translation": "Dan semua orang itu dan seluruh Yisrael mengetahui pada hari itu, bahwa bukan ⟨dari⟩ sang raja ⟨menghapuskan⟩ — bukan atas perintah raja — untuk membunuh ⟨את⟩ Avner bin Ner.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "dan tahu"
+      "gloss": "dan mengetahui"
     },
     {
       "surface": "כל",
-      "gloss": "seluruh"
+      "gloss": "semua"
     },
     {
       "surface": "העם",
-      "gloss": "rakyat"
+      "gloss": "orang itu"
     },
     {
       "surface": "וכל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ביום",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "היתה",
-      "gloss": "ada"
+      "gloss": "terjadi"
     },
     {
       "surface": "מהמלך",
-      "gloss": "dari pihak raja"
+      "gloss": "dari sang raja"
     },
     {
       "surface": "להמית",
-      "gloss": "mematikan"
+      "gloss": "untuk membunuh"
     },
     {
       "surface": "את",
@@ -73,6 +73,6 @@
       "gloss": "Ner"
     }
   ],
-  "timestamp": "2026-08-08T10:59:07.506197061Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:13.136908918Z",
+  "model": "glm-5.3"
 }

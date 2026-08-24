@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 9,
-  "translation": "Atau dua hari, atau sebulan, atau beberapa hari — ketika awan itu memanjang ⟨tinggal⟩ di atas ⟨המשכן⟩ mishkan untuk diam di atasnya, maka bani Yisrael berkemah dan tidak berangkat; dan ketika awan itu naik, mereka berangkat.",
+  "translation": "Atau dua hari, atau sebulan, atau hari-hari — ketika awan itu lama ⟨tergantung⟩ di atas ⟨the⟩ Mishkan, untuk diam di atasnya, maka bani Yisrael berkemah dan tidak berangkat; tetapi ketika awan itu terangkat, mereka berangkat.",
   "tokens": [
     {
       "surface": "או",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ימים",
-      "gloss": "beberapa hari"
+      "gloss": "hari-hari"
     },
     {
       "surface": "בהאריך",
-      "gloss": "ketika memanjang"
+      "gloss": "ketika...lama"
     },
     {
       "surface": "הענן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "⟨המשכן⟩ mishkan"
+      "gloss": "⟨the⟩ Mishkan"
     },
     {
       "surface": "לשכן",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יחנו",
-      "gloss": "mereka berkemah"
+      "gloss": "berkemah"
     },
     {
       "surface": "בני",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "ובהעלתו",
-      "gloss": "dan ketika naiknya"
+      "gloss": "tetapi ketika...terangkat"
     },
     {
       "surface": "יסעו",
       "gloss": "mereka berangkat"
     }
   ],
-  "timestamp": "2026-08-08T12:12:01.648702408Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:34.324012617Z",
+  "model": "glm-5.3"
 }

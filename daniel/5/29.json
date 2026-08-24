@@ -5,23 +5,23 @@
   "book": "daniel",
   "lang": "id",
   "chapter": 5,
-  "translation": "Pada saat itu berserulah Belshazzar, dan mereka mengenakan pakaian ⟨unto⟩ Daniel ⟨kain⟩ purba, dan ⟨rantai⟩ dari emas di lehernya, dan mereka mengumumkan tentang dia bahwa ia ⟨akan⟩ ⟨menjadi⟩ penguasa ketiga di kerajaan.",
+  "translation": "Maka atas perintah Belshatzar mereka mengenakan pakaian ungu kepada Daniel dan kalung emas pada lehernya, lalu memaklumkan tentang dia bahwa ia ⟨adalah⟩ penguasa ketiga ⟨di⟩ dalam kerajaan.",
   "tokens": [
     {
       "surface": "באדין",
-      "gloss": "Pada saat itu"
+      "gloss": "maka saat itu"
     },
     {
       "surface": "אמר",
-      "gloss": "berserulah"
+      "gloss": "memerintah"
     },
     {
       "surface": "בלשאצר",
-      "gloss": "Belshazzar"
+      "gloss": "Belshatzar"
     },
     {
       "surface": "והלבישו",
-      "gloss": "dan mereka mengenakan pakaian"
+      "gloss": "maka mereka mengenakan pakaian"
     },
     {
       "surface": "לדניאל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ארגונא",
-      "gloss": "purba"
+      "gloss": "ungu"
     },
     {
       "surface": "והמונכא",
-      "gloss": "dan rantai"
+      "gloss": "dan kalung"
     },
     {
       "surface": "די",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "על",
-      "gloss": "di"
+      "gloss": "pada"
     },
     {
       "surface": "צוארה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "והכרזו",
-      "gloss": "dan mereka mengumumkan"
+      "gloss": "dan mereka memaklumkan"
     },
     {
       "surface": "עלוהי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "להוא",
-      "gloss": "ia akan menjadi"
+      "gloss": "⟨adalah⟩"
     },
     {
       "surface": "שליט",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "במלכותא",
-      "gloss": "di kerajaan"
+      "gloss": "⟨di⟩ dalam kerajaan"
     }
   ],
-  "timestamp": "2026-08-08T09:53:21.390666399Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:52.831506686Z",
+  "model": "glm-5.3"
 }

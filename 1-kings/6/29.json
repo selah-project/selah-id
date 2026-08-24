@@ -5,28 +5,28 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Dan ⟨את⟩ seluruh dinding-dinding ⟨הַ⟩ rumah di sekelilingnya diukir pahatan ukiran kerubim dan pohon palem dan kuntum bunga yang mekar — dari ruang depan dan ⟨di⟩ bagian luar.",
+  "translation": "Dan ⟨את⟩ segala dinding rumah itu sekelilingnya diukir dengan pahatan berukir: keruvim dan pohon tamarisk (palem), dan kuntum-kuntum bunga mekar, di bagian dalam dan di bagian luar.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Dan ⟨את⟩",
-      "marks": "seluruh dinding-dinding"
+      "gloss": "⟨את⟩",
+      "marks": "segala dinding rumah itu"
     },
     {
       "surface": "כל",
-      "gloss": "seluruh"
+      "gloss": "segala"
     },
     {
       "surface": "קירות",
-      "gloss": "dinding-dinding"
+      "gloss": "dinding"
     },
     {
       "surface": "הבית",
-      "gloss": "rumah"
+      "gloss": "rumah itu"
     },
     {
       "surface": "מסב",
-      "gloss": "di sekelilingnya"
+      "gloss": "sekelilingnya"
     },
     {
       "surface": "קלע",
@@ -34,37 +34,37 @@
     },
     {
       "surface": "פתוחי",
-      "gloss": "pahatan ukiran"
+      "gloss": "pahatan berukir"
     },
     {
       "surface": "מקלעות",
-      "gloss": "ukiran"
+      "gloss": "berukir"
     },
     {
       "surface": "כרובים",
-      "gloss": "kerubim"
+      "gloss": "keruvim"
     },
     {
       "surface": "ותמרת",
-      "gloss": "dan pohon palem"
+      "gloss": "dan pohon tamarisk (palem)"
     },
     {
       "surface": "ופטורי",
-      "gloss": "dan kuntum"
+      "gloss": "dan kuntum-kuntum"
     },
     {
       "surface": "צצים",
-      "gloss": "bunga yang mekar"
+      "gloss": "bunga mekar"
     },
     {
       "surface": "מלפנים",
-      "gloss": "dari ruang depan"
+      "gloss": "di bagian dalam"
     },
     {
       "surface": "ולחיצון",
-      "gloss": "dan ⟨di⟩ bagian luar"
+      "gloss": "dan di bagian luar"
     }
   ],
-  "timestamp": "2026-08-08T18:31:34.689913619Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:12.908019137Z",
+  "model": "glm-5.3"
 }

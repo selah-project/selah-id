@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 26,
-  "translation": "בְּנֵי יְהוּדָה עֵר וְאוֹנָן וַיָּמָת עֵר וְאוֹנָן בְּאֶרֶץ כְּנָעַן",
+  "translation": "Bani Yehudah: Er dan Onan; dan Er serta Onan mati di tanah Kenaan.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "Bnei"
+      "gloss": "bani"
     },
     {
       "surface": "יהודה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ואונן",
-      "gloss": "ve-Onan"
+      "gloss": "dan Onan"
     },
     {
       "surface": "וימת",
-      "gloss": "va-yamat"
+      "gloss": "dan mati"
     },
     {
       "surface": "ער",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "ואונן",
-      "gloss": "ve-Onan"
+      "gloss": "serta Onan"
     },
     {
       "surface": "בארץ",
-      "gloss": "be-eretz"
+      "gloss": "di tanah"
     },
     {
       "surface": "כנען",
-      "gloss": "Kena'an"
+      "gloss": "Kenaan"
     }
   ],
-  "timestamp": "2026-08-08T07:21:09.568573604Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:26.458256218Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 16,
-  "translation": "Lalu menjawablah salah seorang dari ⟨para> pelayan itu dan berkata: \"Lihat, aku telah melihat putra Yishai, ⟨orang⟩ Beit-Lechemi, yang tahu bermain kecapi, seorang pemberani ⟩⟩∥ ⟨⟨⟩ keperkasaan, seorang laki-laki peperang, yang berakal dalam perkataan, dan seorang laki-laki ⟩⟩⟩ ¶¶¶ berparuparu rupadan, dan Yahweh menyertai dia.\"",
+  "translation": "Lalu salah satu dari para bujang itu menjawab dan berkata: “Lihatlah, aku telah melihat seorang anak laki-laki dari Yishai, orang Beit-Lechem, yang pandai bermain kecapi, seorang gibor h́ail, seorang ⟨is⟩ pahlawan perang, yang berakal budi dalam perkataan, seorang ⟨is⟩ bertampan; dan Yahweh menyertai dia.”",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Lalu menjawablah"
+      "gloss": "menjawab"
     },
     {
       "surface": "אחד",
-      "gloss": "salah seorang"
+      "gloss": "salah satu"
     },
     {
       "surface": "מהנערים",
-      "gloss": "dari para pelayan itu"
+      "gloss": "dari para bujang"
     },
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Lihat"
+      "gloss": "lihatlah"
     },
     {
       "surface": "ראיתי",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "seorang anak laki-laki"
     },
     {
       "surface": "לישי",
-      "gloss": "Yishai"
+      "gloss": "dari Yishai"
     },
     {
       "surface": "בית",
-      "gloss": "orang"
+      "gloss": "Beit"
     },
     {
       "surface": "הלחמי",
-      "gloss": "Beit-Lechemi"
+      "gloss": "-Lechem (orang Beit-Lechem)"
     },
     {
       "surface": "ידע",
-      "gloss": "yang tahu"
+      "gloss": "pandai"
     },
     {
       "surface": "נגן",
@@ -57,23 +57,23 @@
     },
     {
       "surface": "וגבור",
-      "gloss": "seorang pemberani"
+      "gloss": "seorang gibor"
     },
     {
       "surface": "חיל",
-      "gloss": "keperkasaan"
+      "gloss": "h́ail (keperkasaan)"
     },
     {
       "surface": "ואיש",
-      "gloss": "seorang laki-laki"
+      "gloss": "seorang"
     },
     {
       "surface": "מלחמה",
-      "gloss": "peperang"
+      "gloss": "pahlawan perang"
     },
     {
       "surface": "ונבון",
-      "gloss": "yang berakal"
+      "gloss": "yang berakal budi"
     },
     {
       "surface": "דבר",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "dan seorang laki-laki"
+      "gloss": "seorang"
     },
     {
       "surface": "תאר",
-      "gloss": "berparuparu rupadan"
+      "gloss": "bertampan"
     },
     {
       "surface": "ויהוה",
@@ -96,6 +96,6 @@
       "gloss": "menyertai dia"
     }
   ],
-  "timestamp": "2026-08-08T07:48:23.141938641Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:15.897654440Z",
+  "model": "glm-5.3"
 }

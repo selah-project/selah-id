@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 34,
-  "translation": "Perkataan yang terjadi kepada YirmeYahu dari ⟨יד⟩ Yahweh setelah raja TsidqiYahu mengikat perjanjian ⟨את⟩ segala orang yang di Yerushalayim untuk memaklukan bagi mereka kebebasan:",
+  "translation": "Firman yang terjadi kepada Yirmeyahu dari ⟨את⟩ Yahweh, setelah raja Tsidkiyahu mengikat perjanjian dengan ⟨את⟩ seluruh umat yang berada di Yerushalayim, untuk memproklamasikan kepada mereka deror (kebebasan),",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "perkataan"
+      "gloss": "Firman"
     },
     {
       "surface": "אשר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "YirmeYahu"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩ dari"
     },
     {
       "surface": "יהוה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כרת",
-      "gloss": "mengikat"
+      "gloss": "mengikat (memotong)"
     },
     {
       "surface": "המלך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "TsidqiYahu"
+      "gloss": "Tsidkiyahu"
     },
     {
       "surface": "ברית",
@@ -58,15 +58,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "segala orang yang di Yerushalayim"
+      "marks": "seluruh umat yang berada di Yerushalayim"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "seluruh"
     },
     {
       "surface": "העם",
-      "gloss": "orang"
+      "gloss": "umat"
     },
     {
       "surface": "אשר",
@@ -78,17 +78,17 @@
     },
     {
       "surface": "לקרא",
-      "gloss": "untuk memaklukan"
+      "gloss": "untuk memproklamasikan"
     },
     {
       "surface": "להם",
-      "gloss": "bagi mereka"
+      "gloss": "kepada mereka"
     },
     {
       "surface": "דרור",
-      "gloss": "kebebasan"
+      "gloss": "deror (kebebasan)"
     }
   ],
-  "timestamp": "2026-08-08T08:38:37.152977571Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:00.424835599Z",
+  "model": "glm-5.3"
 }

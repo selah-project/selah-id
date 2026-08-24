@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 3,
-  "translation": "Lalu ia mendirikan ⟨את⟩ tiang-tiang itu di depan ⟨ה⟩ haikal, satu di sebelah kanan dan satu di sebelah kiri; dan ia memberi nama ⟨ה⟩ yang di sebelah kanan Yakín, dan nama ⟨ה⟩ yang di sebelah kiri Boaz.",
+  "translation": "Lalu didirikannya ⟨את⟩ tiang-tiang itu di depan ⟨ה⟩ bait suci, satu di sebelah kanan dan satu di sebelah kiri; dan dinamainya tiang sebelah kanan Yakhein, dan nama tiang sebelah kiri Boaz.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Lalu ia mendirikan"
+      "gloss": "lalu didirikannya"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "על",
-      "gloss": "pada"
+      "gloss": "di"
     },
     {
       "surface": "פני",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ההיכל",
-      "gloss": "haikal"
+      "gloss": "bait suci"
     },
     {
       "surface": "אחד",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "dan ia memberi nama"
+      "gloss": "dan dinamainya"
     },
     {
       "surface": "שם",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "הימיני",
-      "gloss": "yang di sebelah kanan"
+      "gloss": "sebelah kanan"
     },
     {
       "surface": "יכין",
-      "gloss": "Yakín"
+      "gloss": "Yakhein"
     },
     {
       "surface": "ושם",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "השמאלי",
-      "gloss": "yang di sebelah kiri"
+      "gloss": "sebelah kiri"
     },
     {
       "surface": "בעז",
       "gloss": "Boaz"
     }
   ],
-  "timestamp": "2026-08-08T12:04:26.758696008Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:13.774057366Z",
+  "model": "glm-5.3"
 }

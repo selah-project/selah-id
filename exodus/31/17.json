@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 31,
-  "translation": "Antara Aku dan antara beni-Yisra'el ⟨היא⟩ tanda untuk selamanya, karena enam hari Yahweh membuat ⟨את⟩ ⟨ה⟩syamayim dan ⟨את⟩ ⟨ה⟩'arets, dan pada hari ⟨ה⟩ketujuh ⟨ה⟩ shabat dan ⟨ה⟩ diberi nafas.",
+  "translation": "antara-Ku dan antara bani Yisrael ⟨itu⟩ tanda untuk selama-lamanya, sebab enam hari Yahweh membuat ⟨את⟩ langit dan ⟨את⟩ bumi, dan pada hari ketujuh ⟨Ia⟩ berhenti dan dipulihkan.",
   "tokens": [
     {
       "surface": "ביני",
-      "gloss": "antara Aku"
+      "gloss": "antara-Ku"
     },
     {
       "surface": "ובין",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "beni"
+      "gloss": "bani"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אות",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "dia"
+      "gloss": "⟨itu⟩"
     },
     {
       "surface": "לעלם",
-      "gloss": "untuk selamanya"
+      "gloss": "untuk selama-lamanya"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "ששת",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "וינפש",
-      "gloss": "dan segar kembali"
+      "gloss": "dan dipulihkan"
     }
   ],
-  "timestamp": "2026-08-08T12:11:04.592734798Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:10.898157865Z",
+  "model": "glm-5.3"
 }

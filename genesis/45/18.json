@@ -5,29 +5,29 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 45,
-  "translation": "Dan ambillah ⟨את⟩ ayah kalian dan ⟨את⟩ keluarga-rumah kalian, dan datanglah kepadaku, maka aku akan memberikan kepadamu ⟨את⟩ kebaikan tanah Mitsrayim, dan kalian akan memakan ⟨את⟩ lemak ⟨the⟩ bumi.”",
+  "translation": "dan bawalah ayahmu dan ⟨את⟩ rumah-rumah keluargamu, dan datanglah kepadaku, maka aku akan memberikan kepadamu ⟨את⟩ yang terbaik dari tanah Mitsrayim, dan kamu akan memakan ⟨את⟩ lemak ⟨dari⟩ tanah itu.",
   "tokens": [
     {
       "surface": "וקחו",
-      "gloss": "Dan ambillah"
+      "gloss": "dan bawalah"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ayah kalian"
+      "marks": "ayahmu"
     },
     {
       "surface": "אביכם",
-      "gloss": "ayah kalian"
+      "gloss": "ayahmu"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "keluarga-rumah kalian"
+      "gloss": "⟨את⟩",
+      "marks": "rumah-rumah keluargamu"
     },
     {
       "surface": "בתיכם",
-      "gloss": "keluarga-rumah kalian"
+      "gloss": "rumah-rumah keluargamu"
     },
     {
       "surface": "ובאו",
@@ -48,11 +48,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kebaikan"
+      "marks": "yang terbaik dari tanah Mitsrayim"
     },
     {
       "surface": "טוב",
-      "gloss": "kebaikan"
+      "gloss": "yang terbaik"
     },
     {
       "surface": "ארץ",
@@ -64,22 +64,22 @@
     },
     {
       "surface": "ואכלו",
-      "gloss": "dan kalian akan memakan"
+      "gloss": "dan kamu akan memakan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lemak"
+      "marks": "lemak tanah itu"
     },
     {
-      "surface": "חלב",
+      "surface": "חלeb",
       "gloss": "lemak"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "tanah itu"
     }
   ],
-  "timestamp": "2026-08-08T10:25:04.316542813Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:23.530407846Z",
+  "model": "glm-5.3"
 }

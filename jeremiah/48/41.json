@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 48,
-  "translation": "Telah tertangkap ⟨the⟩ kota-kota dan ⟨the⟩ benteng-benteng telah direbut, dan ⟨akan⟩ jadi hati ⟨the⟩ pahlawan-pahlawan Moab pada hari itu seperti hati seorang perempuan yang sedang sakit bersalin.",
+  "translation": "Telah tertangkap ⟨ה⟩ kota-kota benteng, dan ⟨ה⟩ tempat-tempat kuat telah direbut; dan pada hari itu hati para pahlawan Moab akan menjadi seperti hati seorang perempuan yang melahirkan.",
   "tokens": [
     {
       "surface": "נלכדה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הקריות",
-      "gloss": "kota-kota"
+      "gloss": "kota-kota benteng"
     },
     {
       "surface": "והמצדות",
-      "gloss": "dan benteng-benteng"
+      "gloss": "dan tempat-tempat kuat"
     },
     {
       "surface": "נתפשה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "dan akan jadi"
+      "gloss": "dan akan menjadi"
     },
     {
       "surface": "לב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "גבורי",
-      "gloss": "pahlawan-pahlawan"
+      "gloss": "para pahlawan"
     },
     {
       "surface": "מואב",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "מצרה",
-      "gloss": "yang sedang sakit bersalin"
+      "gloss": "yang melahirkan"
     }
   ],
-  "timestamp": "2026-08-08T08:42:51.769860377Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:38.262193813Z",
+  "model": "glm-5.3"
 }

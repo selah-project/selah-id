@@ -5,49 +5,49 @@
   "book": "job",
   "lang": "id",
   "chapter": 39,
-  "translation": "Pada bunyi ⟨the⟩ shofar ia berseru, “Ha!” dan dari jauh ia mencium bau peperangan, gemuruh para panglima dan sorak-sorai.",
+  "translation": "Setiap bunyi ⟨dari⟩ shofar ia berkata, “Aha!” Dan dari jauh ia mengendus perang — gemuruh para panglima dan sorak-sorai.",
   "tokens": [
     {
-      "surface": "בְּדֵ֤י",
-      "gloss": "pada bunyi"
+      "surface": "בדי",
+      "gloss": "setiap bunyi ⟨dari⟩"
     },
     {
-      "surface": "שֹׁפָ֨ר",
+      "surface": "שפר",
       "gloss": "shofar"
     },
     {
-      "surface": "יֹ֘אמַ֤ר",
-      "gloss": "ia berseru"
+      "surface": "יאמר",
+      "gloss": "ia berkata"
     },
     {
-      "surface": "הֶאָ֗ח",
-      "gloss": "“Ha!”"
+      "surface": "האח",
+      "gloss": "“Aha!”"
     },
     {
-      "surface": "וּֽ֭מֵרָחוֹק",
+      "surface": "ומרחוק",
       "gloss": "dan dari jauh"
     },
     {
-      "surface": "יָרִ֣יחַ",
-      "gloss": "ia mencium bau"
+      "surface": "יריח",
+      "gloss": "ia mengendus"
     },
     {
-      "surface": "מִלְחָמָ֑ה",
-      "gloss": "peperangan"
+      "surface": "מלחמה",
+      "gloss": "perang"
     },
     {
-      "surface": "רַ֥עַם",
+      "surface": "רעם",
       "gloss": "gemuruh"
     },
     {
-      "surface": "שָׂ֝רִים",
+      "surface": "שרים",
       "gloss": "para panglima"
     },
     {
-      "surface": "וּתְרוּעָֽה",
+      "surface": "ותרועה",
       "gloss": "dan sorak-sorai"
     }
   ],
-  "timestamp": "2026-08-08T18:39:33.246622441Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:29.875160880Z",
+  "model": "glm-5.3"
 }

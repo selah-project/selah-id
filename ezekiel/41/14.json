@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 41,
-  "translation": "Dan lebar sebelah depan ⟨the⟩ bangunan dan ⟨the⟩ area terpisah ke arah timur: seratus hasta.",
+  "translation": "Dan lebarnya: bagian depan bait itu serta area terpisah itu ke arah timur, seratus hasta.",
   "tokens": [
     {
       "surface": "ורחב",
-      "gloss": "Dan lebar"
+      "gloss": "Dan lebarnya"
     },
     {
       "surface": "פני",
-      "gloss": "sebelah depan"
+      "gloss": "bagian depan"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ bangunan"
+      "gloss": "bait itu"
     },
     {
       "surface": "והגזרה",
-      "gloss": "dan ⟨the⟩ area terpisah"
+      "gloss": "dan area terpisah itu"
     },
     {
       "surface": "לקדים",
@@ -36,6 +36,6 @@
       "gloss": "hasta"
     }
   ],
-  "timestamp": "2026-08-08T11:26:36.262036202Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:43.555873676Z",
+  "model": "glm-5.3"
 }

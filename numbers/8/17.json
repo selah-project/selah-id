@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 8,
-  "translation": "Karena milik-Kulah semua anak sulung di antara bani Yisrael, baik manusia maupun hewan; pada hari Aku menyiarkan setiap anak sulung di tanah Mitsrayim, Aku menguduskan ⟨אתם⟩ untuk-Ku.",
+  "translation": "Sebab milik-Ku segala anak sulung di antara bani Israel, pada manusia maupun pada hewan; pada hari Aku memukul segala anak sulung di tanah Mitsrayim (Mesir), Aku menguduskan ⟨את⟩ ⟨אתם⟩ bagi-Ku.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Karena"
+      "gloss": "Sebab"
     },
     {
       "surface": "לי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "semua"
+      "gloss": "segala"
     },
     {
       "surface": "בכור",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     },
     {
       "surface": "באדם",
-      "gloss": "baik manusia"
+      "gloss": "pada manusia"
     },
     {
       "surface": "ובבהמה",
-      "gloss": "maupun hewan"
+      "gloss": "maupun pada hewan"
     },
     {
       "surface": "ביום",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הכתי",
-      "gloss": "Aku menyiarkan"
+      "gloss": "Aku memukul"
     },
     {
       "surface": "כל",
-      "gloss": "setiap"
+      "gloss": "segala"
     },
     {
       "surface": "בכור",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitsrayim (Mesir)"
     },
     {
       "surface": "הקדשתי",
@@ -69,14 +69,14 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mereka untuk-Ku"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mereka (para sulung)"
     },
     {
       "surface": "לי",
-      "gloss": "untuk-Ku"
+      "gloss": "bagi-Ku"
     }
   ],
-  "timestamp": "2026-08-09T01:39:02.678013039Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.234076380Z",
+  "model": "glm-5.3"
 }

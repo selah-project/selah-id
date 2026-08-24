@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 41,
-  "translation": "Di atas ambang pintu dan sampai ke ⟨ה⟩ rumah bagian dalam, dan ke luar, dan pada seluruh dinding, sekeliling, sekeliling, di bagian dalam dan di bagian luar — ⟨sebagai⟩ ukuran.",
+  "translation": "di atas ⟨si⟩ ambang pintu sampai ⟨ke⟩ rumah bagian dalam, dan ke luar, dan pada seluruh dinding, sekeliling sekeliling, di bagian dalam dan di bagian luar — semuanya berukuran.",
   "tokens": [
     {
       "surface": "על",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "dan sampai ke"
+      "gloss": "sampai"
     },
     {
       "surface": "הבית",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "מדות",
-      "gloss": "ukuran"
+      "gloss": "berukuran"
     }
   ],
-  "timestamp": "2026-08-08T08:54:42.813971122Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:29.232697961Z",
+  "model": "glm-5.3"
 }

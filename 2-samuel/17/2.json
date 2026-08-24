@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 17,
-  "translation": "dan aku akan mendatangi dia, dan dia sedang lelah dan lemah tangan, dan aku akan membuatnya gemetar ⟨את⟩ dia, dan seluruh rakyat yang bersama dia akan melarikan diri, dan aku akan memukul ⟨את⟩ sang raja seorang diri.",
+  "translation": "dan aku akan mendatangi dia, dan dia sedang lelah dan lemah tangan, dan aku akan membuatnya gemetar ⟨את⟩ dia, dan seluruh rakyat yang ⟨את⟩ bersama dia akan melarikan diri, dan aku akan memukul ⟨את⟩ sang raja seorang diri.",
   "tokens": [
     {
       "surface": "ואבוא",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersama dia"
+      "gloss": "⟨את⟩ bersama dia"
     },
     {
       "surface": "והכיתי",
@@ -78,6 +78,6 @@
       "gloss": "seorang diri"
     }
   ],
-  "timestamp": "2026-08-08T18:31:10.552026926Z",
+  "timestamp": "2026-08-24T17:55:27.056646700Z",
   "model": "glm-5.2"
 }

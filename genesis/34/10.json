@@ -5,23 +5,24 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 34,
-  "translation": "Dan bersama kami tinggallah, dan negeri itu akan ⟨היה⟩ di hadapanmu — tinggallah dan perdagangkanlah ia, dan kuasailah dia.",
+  "translation": "Dan bersama ⟨את⟩ kami kamu akan diam, dan tanah itu akan ⟨tersedia⟩ di hadapanmu; diamlah, berdaganglah di dalamnya, dan ambillah pegangan di dalamnya.",
   "tokens": [
     {
       "surface": "ואתנו",
-      "gloss": "Dan bersama kami"
+      "gloss": "bersama ⟨את⟩ kami",
+      "marks": "kamu (yang diajak tinggal bersama)"
     },
     {
       "surface": "תשבו",
-      "gloss": "tinggallah"
+      "gloss": "kamu akan diam"
     },
     {
       "surface": "והארץ",
-      "gloss": "dan negeri itu"
+      "gloss": "dan tanah itu"
     },
     {
       "surface": "תהיה",
-      "gloss": "akan ⟨היה⟩"
+      "gloss": "akan menjadi"
     },
     {
       "surface": "לפניכם",
@@ -29,21 +30,21 @@
     },
     {
       "surface": "שבו",
-      "gloss": "tinggallah"
+      "gloss": "diamlah"
     },
     {
       "surface": "וסחרוה",
-      "gloss": "dan perdagangkanlah ia"
+      "gloss": "dan berdaganglah di dalamnya"
     },
     {
       "surface": "והאחזו",
-      "gloss": "dan kuasailah"
+      "gloss": "dan ambillah pegangan"
     },
     {
       "surface": "בה",
-      "gloss": "dia"
+      "gloss": "di dalamnya"
     }
   ],
-  "timestamp": "2026-08-08T10:23:52.030392420Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:41.313355629Z",
+  "model": "glm-5.3"
 }

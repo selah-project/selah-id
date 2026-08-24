@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "id",
   "chapter": 1,
-  "translation": "Perkataan Nechemyah ben Chakalyah. Dan terjadilah pada bulan Kislev tahun kedua puluh, dan aku berada di Shushan ⟨ה⟩ benteng itu.",
+  "translation": "Pegangan-perkataan Nechemyah ben Chakalyah. Dan terjadilah pada bulan Kislew, tahun kedua puluh, aku berada di Shushan ⟨ha⟩benteng.",
   "tokens": [
     {
       "surface": "דברי",
-      "gloss": "Perkataan"
+      "gloss": "pegangan-perkataan"
     },
     {
       "surface": "נחמיה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "ben (anak)"
     },
     {
       "surface": "חכליה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "Dan terjadilah"
+      "gloss": "dan terjadilah"
     },
     {
       "surface": "בחדש",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כסלו",
-      "gloss": "Kislev"
+      "gloss": "Kislew"
     },
     {
       "surface": "שנת",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ואני",
-      "gloss": "dan aku"
+      "gloss": "aku"
     },
     {
       "surface": "הייתי",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "הבירה",
-      "gloss": "benteng itu"
+      "gloss": "benteng"
     }
   ],
-  "timestamp": "2026-08-08T09:58:38.603798411Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:44.672520014Z",
+  "model": "glm-5.3"
 }

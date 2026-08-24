@@ -5,67 +5,67 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 127,
-  "translation": "Berbahagialah ⟨the⟩ pahlawan yang telah memenuhi ⟨את⟩ tabung panahnya dengan mereka; mereka tidak akan mendapat malam, sebab mereka akan berbicara ⟨dengan⟩ ⟨את⟩ musuh-musuh di ⟨the⟩ gerbang.",
+  "translation": "Berbahagialah sang pahlawan yang mengisi ⟨את⟩ anak panahnya dengan mereka; mereka tidak akan mendapat malu, sebab mereka akan berbicara ⟨את⟩ para lawan di pintu gerbang.",
   "tokens": [
     {
-      "surface": "אַשְׁרֵ֤י",
+      "surface": "אשרי",
       "gloss": "Berbahagialah"
     },
     {
-      "surface": "הַגֶּ֗בֶר",
-      "gloss": "⟨the⟩ pahlawan"
+      "surface": "הגבר",
+      "gloss": "sang pahlawan"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
+      "surface": "אשר",
       "gloss": "yang"
     },
     {
-      "surface": "מִלֵּ֥א",
-      "gloss": "telah memenuhi"
+      "surface": "מלא",
+      "gloss": "mengisi"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tabung panahnya"
+      "marks": "anak panahnya"
     },
     {
-      "surface": "אַשְׁפָּת֗וֹ",
-      "gloss": "tabung panahnya"
+      "surface": "אשפתו",
+      "gloss": "anak panahnya"
     },
     {
-      "surface": "מֵ֫הֶ֥ם",
+      "surface": "מהם",
       "gloss": "dengan mereka"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "יֵבֹ֑שׁוּ",
-      "gloss": "akan mendapat malam"
+      "surface": "יבשו",
+      "gloss": "akan mendapat malu"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "sebab"
     },
     {
-      "surface": "יְדַבְּר֖וּ",
+      "surface": "ידברו",
       "gloss": "mereka akan berbicara"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "musuh-musuh"
+      "marks": "para lawan"
     },
     {
-      "surface": "אוֹיְבִ֣ים",
-      "gloss": "musuh-musuh"
+      "surface": "אויבים",
+      "gloss": "para lawan"
     },
     {
-      "surface": "בַּשָּֽׁעַר",
-      "gloss": "di ⟨the⟩ gerbang"
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
     }
   ],
-  "timestamp": "2026-08-08T23:17:36.560063677Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:42.250625874Z",
+  "model": "glm-5.3"
 }

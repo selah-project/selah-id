@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 7,
-  "translation": "Dan imam itu harus membakar asap ⟨אתם⟩ di atas mezbah, persembahan api bagi Yahweh; ⟨itu⟩ persembahan salah.",
+  "translation": "Dan imam harus membakar ⟨את⟩ ⟨אתם⟩ itu di atas mezbah sebagai persembahan api bagi Yahweh; itu ⟨adalah⟩ korban asham.",
   "tokens": [
     {
       "surface": "והקטיר",
-      "gloss": "Dan ... harus membakar asap"
+      "gloss": "Dan harus membakar"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mereka (bagian-bagian lemak dan ginjal)"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "itu (bagian-bagian korban)"
     },
     {
       "surface": "הכהן",
@@ -34,13 +34,13 @@
     },
     {
       "surface": "אשם",
-      "gloss": "persembahan salah"
+      "gloss": "korban asham"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨itu⟩"
+      "gloss": "itu"
     }
   ],
-  "timestamp": "2026-08-09T01:38:06.757362579Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.207572606Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 1,
-  "translation": "dan sang raja telah mengutus bersamanya ⟨את⟩ Tsadok sang kohen dan ⟨את⟩ Natan sang nabi, dan Benayahu ben Yehoyada, serta ha-Kreti dan ha-Peleti; dan mereka telah menaikkannya ke atas bagal betina sang raja.",
+  "translation": "dan sang raja telah mengutus ⟨את⟩ bersamanya ⟨את⟩ Tsadok sang kohen dan ⟨את⟩ Natan sang nabi, dan Benayahu ben Yehoyada, serta ha-Kreti dan ha-Peleti; dan mereka telah menaikkannya ke atas bagal betina sang raja.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "המלך",
@@ -87,6 +87,6 @@
       "gloss": "sang raja"
     }
   ],
-  "timestamp": "2026-08-08T08:00:32.304127133Z",
+  "timestamp": "2026-08-24T17:55:27.256260519Z",
   "model": "glm-5.2"
 }

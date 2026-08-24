@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 12,
-  "translation": "Mengapa engkau meremehkan ⟨את⟩ firman Yahweh, dengan melakukan yang jahat di mata-Nya? ⟨את⟩ Uriyah orang Heti telah kaupukul dengan pedang, dan ⟨את⟩ istrinya telah kauambil bagimu menjadi istri, dan dia telah kaubunuh dengan pedang bani Ammon.",
+  "translation": "Mengapa engkau meremehkan ⟨את⟩ firman Yahweh, dengan melakukan yang jahat di mata-Nya? ⟨את⟩ Uriyah orang Heti telah kaupukul dengan pedang, dan ⟨את⟩ istrinya telah kauambil bagimu menjadi istri, ⟨את⟩ dan dia telah kaubunuh dengan pedang bani Ammon.",
   "tokens": [
     {
       "surface": "מדוע",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "dan dia"
+      "gloss": "⟨את⟩ dan dia"
     },
     {
       "surface": "הרגת",
@@ -103,6 +103,6 @@
       "gloss": "Ammon"
     }
   ],
-  "timestamp": "2026-08-08T10:58:33.105297238Z",
+  "timestamp": "2026-08-24T17:55:27.055571744Z",
   "model": "glm-5.2"
 }

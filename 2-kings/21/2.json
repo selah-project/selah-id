@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 21,
-  "translation": "Dan ia melakukan ⟨ה⟩ yang jahat di mata Yahweh, menurut ⟨ה⟩ kekejian bangsa-bangsa yang Yahweh telah melenyapkan dari hadapan bani Yisrael.",
+  "translation": "Dan ia melakukan apa yang jahat di mata Yahweh, menurut kekejian ⟨dari⟩ bangsa-bangsa yang telah dihalau Yahweh dari hadapan bani Israil.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הרע",
-      "gloss": "yang jahat"
+      "gloss": "apa yang jahat"
     },
     {
       "surface": "בעיני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הוריש",
-      "gloss": "telah melenyapkan"
+      "gloss": "telah dihalau"
     },
     {
       "surface": "יהוה",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israil"
     }
   ],
-  "timestamp": "2026-08-08T11:07:57.901447435Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:38.820238085Z",
+  "model": "glm-5.3"
 }

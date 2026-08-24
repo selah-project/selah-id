@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "id",
   "chapter": 2,
-  "translation": "Ester tidak menceritakan asal-usulnya maupun ⟨את⟩ bangsanya, seperti yang diperintahkan kepadanya Mordekai; dan ⟨את⟩ perintah Mordekai Ester lakukan seperti ketika ia berada dalam asuhan bersamanya.",
+  "translation": "Ester tidak menceritakan asal-usulnya maupun ⟨את⟩ bangsanya, seperti yang diperintahkan kepadanya Mordekai; dan ⟨את⟩ perintah Mordekai Ester lakukan seperti ketika ia berada dalam asuhan ⟨את⟩ bersamanya.",
   "tokens": [
     {
       "surface": "אין",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     }
   ],
-  "timestamp": "2026-08-08T11:58:06.542266777Z",
+  "timestamp": "2026-08-24T17:55:27.093378385Z",
   "model": "glm-5.2"
 }

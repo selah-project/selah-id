@@ -1,83 +1,83 @@
 {
- "tier": "glm-5.2",
- "verse": 14,
- "ref": "leviticus 20:14",
- "book": "leviticus",
- "lang": "id",
- "chapter": 20,
- "translation": "Dan seorang laki-laki yang mengambil ⟨את⟩ seorang perempuan dan ⟨את⟩ ibunya — zimah ⟨itulah⟩; dengan api haruslah dibakar ⟨את⟩ dia dan mereka, dan tidak boleh ada zimah di tengah-tengah kamu.",
- "tokens": [
-  {
-   "surface": "ואיש",
-   "gloss": "Dan seorang laki-laki"
-  },
-  {
-   "surface": "אשר",
-   "gloss": "yang"
-  },
-  {
-   "surface": "יקח",
-   "gloss": "mengambil"
-  },
-  {
-   "surface": "את",
-   "gloss": "⟨את⟩",
-   "marks": "seorang perempuan"
-  },
-  {
-   "surface": "אשה",
-   "gloss": "seorang perempuan"
-  },
-  {
-   "surface": "ואת",
-   "gloss": "dan ⟨את⟩",
-   "marks": "ibunya"
-  },
-  {
-   "surface": "אמה",
-   "gloss": "ibunya"
-  },
-  {
-   "surface": "זמה",
-   "gloss": "zimah"
-  },
-  {
-   "surface": "הוא",
-   "gloss": "⟨itulah⟩"
-  },
-  {
-   "surface": "באש",
-   "gloss": "dengan api"
-  },
-  {
-   "surface": "ישרפו",
-   "gloss": "haruslah dibakar"
-  },
-  {
-   "surface": "אתו",
-   "gloss": "⟨את⟩ dia"
-  },
-  {
-   "surface": "ואתהן",
-   "gloss": "dan mereka"
-  },
-  {
-   "surface": "ולא",
-   "gloss": "dan tidak"
-  },
-  {
-   "surface": "תהיה",
-   "gloss": "boleh ada"
-  },
-  {
-   "surface": "זמה",
-   "gloss": "zimah"
-  },
-  {
-   "surface": "בתוככם",
-   "gloss": "di tengah-tengah kamu"
-  }
- ],
- "timestamp": "2026-08-09T01:39:16.385763423Z",
- "model": "glm-5.2"
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "id",
+  "chapter": 20,
+  "translation": "Dan seorang laki-laki yang mengambil ⟨את⟩ seorang perempuan dan ⟨את⟩ ibunya — zimah ⟨itulah⟩; dengan api haruslah dibakar ⟨את⟩ dia ⟨את⟩ dan mereka, dan tidak boleh ada zimah di tengah-tengah kamu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan seorang laki-laki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seorang perempuan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang perempuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ibunya"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itulah⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "haruslah dibakar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "⟨את⟩ dan mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boleh ada"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimah"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tengah-tengah kamu"
+    }
+  ],
+  "timestamp": "2026-08-24T17:55:27.206305994Z",
+  "model": "glm-5.2"
 }

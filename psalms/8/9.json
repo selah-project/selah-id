@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 8,
-  "translation": "Burung ⟨ה⟩langit dan ikan ⟨ה⟩laut, ⟨yang⟩ melintasi jalan-jalan laut.",
+  "translation": "Burung ⟨di⟩ langit dan ikan laut, yang melintasi jalan-jalan laut.",
   "tokens": [
     {
       "surface": "צפור",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עבר",
-      "gloss": "melintasi"
+      "gloss": "yang melintasi"
     },
     {
       "surface": "ארחות",
@@ -36,6 +36,6 @@
       "gloss": "laut"
     }
   ],
-  "timestamp": "2026-08-08T11:35:44.045040821Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:09.572206160Z",
+  "model": "glm-5.3"
 }

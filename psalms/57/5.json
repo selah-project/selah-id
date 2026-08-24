@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 57,
-  "translation": "נפשׁי di tengah-tengah singa-singa betina; aku berbaring ⟨di antara⟩ yang menyala-nyala — bani manusia, yang gigi mereka ⟨adalah⟩ tombak dan anak panah, dan lidah mereka ⟨adalah⟩ pedang yang tajam.",
+  "translation": "Nafshiku berada di tengah singa; aku berbaring di antara ⟨mereka yang⟩ menyala-nyala — bani Adam, yang gigi mereka tombak dan anak panah, dan lidah mereka pedang yang tajam.",
   "tokens": [
     {
       "surface": "נפשי",
-      "gloss": "napasku"
+      "gloss": "napshiku (jiwaku)"
     },
     {
       "surface": "בתוך",
-      "gloss": "di tengah-tengah"
+      "gloss": "di tengah"
     },
     {
       "surface": "לבאם",
-      "gloss": "singa-singa betina"
+      "gloss": "singa"
     },
     {
       "surface": "אשכבה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "manusia"
+      "gloss": "Adam (manusia)"
     },
     {
       "surface": "שניהם",
@@ -60,6 +60,6 @@
       "gloss": "yang tajam"
     }
   ],
-  "timestamp": "2026-08-08T09:15:10.398909885Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:50.233830919Z",
+  "model": "glm-5.3"
 }

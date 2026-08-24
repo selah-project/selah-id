@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "id",
   "chapter": 16,
-  "translation": "Dan ⟨the⟩ rumah itu penuh ⟨the⟩ laki-laki dan ⟨the⟩ perempuan, dan di sana ⟨were⟩ semua ⟨the⟩ tuan-tuan Pelishtim; dan di atas ⟨the⟩ atap ⟨were⟩ sekitar tiga ribu laki-laki dan perempuan, ⟨the⟩ para penonton yang melihat pada tontonan Shimshon.",
+  "translation": "Dan rumah itu penuh laki-laki dan perempuan, dan di sana ⟨adalah⟩ semua seren Pelishtim; dan di atas atap kira-kira tiga ribu laki-laki dan perempuan, yang memandang permainan Shimshon.",
   "tokens": [
     {
       "surface": "והבית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "סרני",
-      "gloss": "tuan-tuan"
+      "gloss": "saren"
     },
     {
       "surface": "פלשתים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כשלשת",
-      "gloss": "sekitar tiga"
+      "gloss": "kira-kira tiga"
     },
     {
       "surface": "אלפים",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "הראים",
-      "gloss": "para penonton"
+      "gloss": "yang memandang"
     },
     {
       "surface": "בשחוק",
-      "gloss": "pada tontonan"
+      "gloss": "permainan"
     },
     {
       "surface": "שמשון",
       "gloss": "Shimshon"
     }
   ],
-  "timestamp": "2026-08-08T07:43:29.412948177Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:00.095846147Z",
+  "model": "glm-5.3"
 }

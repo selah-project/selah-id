@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 45,
-  "translation": "Dan tidak sanggup Yosef menahan diri lagi di hadapan semua yang berdiri dekatnya, lalu berserulah ⟨ia⟩: “Keluarkanlah setiap orang dari padaku!” Dan tidak ⟨ada⟩ seorang pun berdiri bersamanya ketika Yosef memperkenalkan diri kepada saudara-saudaranya.",
+  "translation": "Dan tidak sanggup Yosef menahan diri lagi di hadapan semua yang berdiri dekatnya, lalu berserulah ⟨ia⟩: “Keluarkanlah setiap orang dari padaku!” Dan tidak ⟨ada⟩ seorang pun berdiri ⟨את⟩ bersamanya ketika Yosef memperkenalkan diri kepada saudara-saudaranya.",
   "tokens": [
     {
       "surface": "ולא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "בהתודע",
@@ -88,6 +88,6 @@
       "gloss": "saudara-saudaranya"
     }
   ],
-  "timestamp": "2026-08-08T06:54:06.547597998Z",
+  "timestamp": "2026-08-24T17:55:27.078905636Z",
   "model": "glm-5.2"
 }

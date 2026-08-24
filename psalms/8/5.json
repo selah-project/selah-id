@@ -5,41 +5,41 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 8,
-  "translation": "Apakah ⟨הוא⟩ enosh bahwa Engkau mengingatnya, dan anak adam bahwa Engkau mengunjunginya?",
+  "translation": "Apakah ⟨⟨אנושׁ⟩⟩ manusia fana, bahwa Engkau mengingatnya, dan anak manusia, bahwa Engkau memperhatikannya?",
   "tokens": [
     {
-      "surface": "מָֽה",
+      "surface": "מה",
       "gloss": "apakah"
     },
     {
-      "surface": "אֱנ֥וֹשׁ",
-      "gloss": "enosh"
+      "surface": "אנוש",
+      "gloss": "manusia fana"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "bahwa"
     },
     {
-      "surface": "תִזְכְּרֶ֑נּוּ",
+      "surface": "תזכרנו",
       "gloss": "Engkau mengingatnya"
     },
     {
-      "surface": "וּבֶן",
+      "surface": "ובן",
       "gloss": "dan anak"
     },
     {
-      "surface": "אָ֝דָ֗ם",
-      "gloss": "adam"
+      "surface": "אדם",
+      "gloss": "manusia"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "bahwa"
     },
     {
-      "surface": "תִפְקְדֶֽנּוּ",
-      "gloss": "Engkau mengunjunginya"
+      "surface": "תפקדנו",
+      "gloss": "Engkau memperhatikannya"
     }
   ],
-  "timestamp": "2026-08-08T09:07:47.694068712Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:59.429105472Z",
+  "model": "glm-5.3"
 }

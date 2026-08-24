@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 40,
-  "translation": "Sebab awan Yahweh ⟨ada⟩ di atas ⟨ה⟩ mishkan itu siang hari, dan api ⟨ada⟩ di dalamnya malam hari, di mata seluruh bet Yisrael dalam segala perjalanan mereka.",
+  "translation": "Sebab awan Yahweh ⟨ada⟩ di atas ⟨ה⟩ Mishkan siang hari, dan api ⟨ada⟩ di dalamnya pada malam hari, di mata seluruh batang Yisrael, dalam segala perjalanan mereka.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sebab"
+      "gloss": "Sebab"
     },
     {
       "surface": "ענן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "mishkan itu"
+      "gloss": "Mishkan"
     },
     {
       "surface": "יומם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לילה",
-      "gloss": "malam hari"
+      "gloss": "pada malam hari"
     },
     {
       "surface": "בו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "bet"
+      "gloss": "batang"
     },
     {
       "surface": "ישראל",
@@ -72,6 +72,6 @@
       "gloss": "perjalanan mereka"
     }
   ],
-  "timestamp": "2026-08-08T07:06:02.647889492Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:40.486853425Z",
+  "model": "glm-5.3"
 }

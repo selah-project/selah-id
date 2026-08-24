@@ -5,23 +5,23 @@
   "book": "hosea",
   "lang": "id",
   "chapter": 8,
-  "translation": "Karena dari Yisra'el juga ⟨adalah⟩ dia — tukang membuatnya, dan bukan ⟨אֱלֹהִים⟩ ⟨dia⟩; sebab pecahan-pecahan akan menjadi anak lembu Shomeron itu.",
+  "translation": "Sebab dari Yisrael ⟨ia⟩ ini; seorang tukang membuatnya, dan bukan Elohim ⟨ia⟩; sebab pecahan-pecahan akan menjadi anak lembu Shomron.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Karena"
+      "gloss": "Sebab"
     },
     {
       "surface": "מישראל",
-      "gloss": "dari Yisra'el"
+      "gloss": "dari Yisrael"
     },
     {
       "surface": "והוא",
-      "gloss": "juga"
+      "gloss": "⟨ia⟩"
     },
     {
       "surface": "חרש",
-      "gloss": "tukang"
+      "gloss": "seorang tukang"
     },
     {
       "surface": "עשהו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "dia"
+      "gloss": "⟨ia⟩"
     },
     {
       "surface": "כי",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "שמרון",
-      "gloss": "Shomeron"
+      "gloss": "Shomron"
     }
   ],
-  "timestamp": "2026-08-08T11:28:30.457972629Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:21.593682300Z",
+  "model": "glm-5.3"
 }

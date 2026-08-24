@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 4,
-  "translation": "tiang dua, dan ⟨the⟩ bulatan, dan ⟨the⟩ mahkota di atas kepala ⟨the⟩ tiang, dua, dan ⟨the⟩ jala dua, untuk menutupi ⟨את⟩ dua bulatan ⟨the⟩ mahkota yang di atas kepala ⟨the⟩ tiang.",
+  "translation": "⟨Yaitu⟩ dua tiang, dan ⟨את⟩ bulatan-bulatan, dan mahkota-mahkota di atas kepala kedua tiang itu, dua; dan dua jala-jala untuk menutupi ⟨את⟩ kedua bulatan mahkota yang di atas kepala tiang-tiang itu.",
   "tokens": [
     {
       "surface": "עמודים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "והגלות",
-      "gloss": "dan ⟨the⟩ bulatan"
+      "gloss": "dan bulatan-bulatan"
     },
     {
       "surface": "והכתרות",
-      "gloss": "dan ⟨the⟩ mahkota"
+      "gloss": "dan mahkota-mahkota"
     },
     {
       "surface": "על",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "העמודים",
-      "gloss": "⟨the⟩ tiang"
+      "gloss": "tiang-tiang itu"
     },
     {
       "surface": "שתים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "והשבכות",
-      "gloss": "dan ⟨the⟩ jala"
+      "gloss": "dan jala-jala"
     },
     {
       "surface": "שתים",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dua bulatan"
+      "marks": "kedua bulatan mahkota"
     },
     {
       "surface": "שתי",
-      "gloss": "dua"
+      "gloss": "kedua"
     },
     {
       "surface": "גלות",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "הכתרות",
-      "gloss": "⟨the⟩ mahkota"
+      "gloss": "mahkota"
     },
     {
       "surface": "אשר",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "העמודים",
-      "gloss": "⟨the⟩ tiang"
+      "gloss": "tiang-tiang itu"
     }
   ],
-  "timestamp": "2026-08-08T12:04:58.531619431Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:07.202101804Z",
+  "model": "glm-5.3"
 }

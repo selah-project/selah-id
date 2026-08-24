@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 12,
-  "translation": "Maka terjadilah kelaparan di ⟨the⟩ bumi, dan Avram turun ke Mitsrayim untuk singgah di sana, karena berat kelaparan itu di ⟨the⟩ bumi.",
+  "translation": "Lalu terjadilah kelaparan di ⟨את⟩ negeri itu, dan Avram turun ke Mitsrayim (Mesir) untuk menetap di sana, sebab kelaparan itu berat di negeri itu.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Maka terjadilah"
+      "gloss": "Lalu terjadilah"
     },
     {
       "surface": "רעב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "di bumi"
+      "gloss": "di negeri itu"
     },
     {
       "surface": "וירד",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מצרימה",
-      "gloss": "ke Mitsrayim"
+      "gloss": "ke Mitsrayim (Mesir)"
     },
     {
       "surface": "לגור",
-      "gloss": "untuk singgah"
+      "gloss": "untuk menetap"
     },
     {
       "surface": "שם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "כבד",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "di bumi"
+      "gloss": "di negeri itu"
     }
   ],
-  "timestamp": "2026-08-08T10:19:48.172622206Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.079809066Z",
+  "model": "glm-5.3"
 }

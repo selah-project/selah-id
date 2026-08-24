@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 16,
-  "translation": "Sesuai ⟨dengan⟩ yang diperintahkan Yahweh kepada Mosheh; demikianlah Aharon meletakkannya di hadapan ⟨ה⟩ kesaksian untuk dijaga.",
+  "translation": "Sesuai dengan yang diperintahkan Yahweh kepada Mosheh, demikianlah Aharon meletakkannya di hadapan ha-edut untuk disimpan.",
   "tokens": [
     {
       "surface": "כאשר",
-      "gloss": "Sesuai yang"
+      "gloss": "sesuai dengan yang"
     },
     {
       "surface": "צוה",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "העדת",
-      "gloss": "kesaksian"
+      "gloss": "ha-edut"
     },
     {
       "surface": "למשמרת",
-      "gloss": "untuk dijaga"
+      "gloss": "untuk disimpan"
     }
   ],
-  "timestamp": "2026-08-08T12:11:27.749521493Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:21.152319359Z",
+  "model": "glm-5.3"
 }

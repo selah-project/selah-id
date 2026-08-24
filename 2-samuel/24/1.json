@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 24,
-  "translation": "Dan bertambah-tambah pula murka Yahweh menyala terhadap Yisrael, dan ⟨הוא⟩ menggerakkan ⟨את⟩ Dawid terhadap mereka, dengan mengatakan: \"Pergilah, hitunglah ⟨את⟩ Yisrael dan ⟨את⟩ Yehudah.\"",
+  "translation": "Dan kembalilah panas hidung Yahweh menyala terhadap Yisrael, dan Ia menggerakkan hati Daud terhadap mereka, dengan berkata: Pergilah, hitunglah ⟨את⟩ Yisrael dan ⟨את⟩ Yehudah.",
   "tokens": [
     {
       "surface": "ויסף",
-      "gloss": "Dan bertambah-tambah"
+      "gloss": "dan kembalilah"
     },
     {
       "surface": "אף",
-      "gloss": "pula"
+      "gloss": "panas hidung (amarah)"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לחרות",
-      "gloss": "menyala"
+      "gloss": "menyala terhadap"
     },
     {
       "surface": "בישראל",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "ויסת",
-      "gloss": "dan menggerakkan"
+      "gloss": "dan Ia menggerakkan hati"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Dawid"
+      "marks": "Daud"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Daud"
     },
     {
       "surface": "בהם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "dengan mengatakan"
+      "gloss": "dengan berkata"
     },
     {
       "surface": "לך",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yehudah"
     },
     {
@@ -75,6 +75,6 @@
       "gloss": "Yehudah"
     }
   ],
-  "timestamp": "2026-08-08T11:01:46.199791109Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:33.055339216Z",
+  "model": "glm-5.3"
 }

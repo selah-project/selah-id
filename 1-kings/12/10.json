@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan berbicaralah kepadanya ⟨orang-orang⟩ muda yang dibesarkan bersamanya, yang mengatakan: “Beginilah engkau katakan kepada bangsa ini yang berbicara kepadamu, yang mengatakan: ‘Ayahmu membuat berat ⟨את⟩ beban kita, dan engkau, permudahlah dari atas kita.’ Beginilah engkau berbicara kepada mereka: ‘Jari kelingkingku lebih tebal dari pinggang ayahku.’”",
+  "translation": "Dan berbicaralah kepadanya ⟨orang-orang⟩ muda yang dibesarkan ⟨את⟩ bersamanya, yang mengatakan: “Beginilah engkau katakan kepada bangsa ini yang berbicara kepadamu, yang mengatakan: ‘Ayahmu membuat berat ⟨את⟩ beban kita, dan engkau, permudahlah dari atas kita.’ Beginilah engkau berbicara kepada mereka: ‘Jari kelingkingku lebih tebal dari pinggang ayahku.’”",
   "tokens": [
     {
       "surface": "וידברו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "לאמר",
@@ -125,6 +125,6 @@
       "gloss": "ayahku"
     }
   ],
-  "timestamp": "2026-08-08T08:05:12.024687077Z",
+  "timestamp": "2026-08-24T17:55:27.254597510Z",
   "model": "glm-5.2"
 }

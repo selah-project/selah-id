@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 53,
-  "translation": "Sebab itu Aku akan membagikan bagian kepadanya di antara ⟨the⟩ banyak orang, dan ⟨את⟩ orang-orang kuat — ia akan membagi ⟨the⟩ jarahan; karena ia menelanjangi nafshnya kepada maut, dan ⟨את⟩ pemberontak-pemberontak diperhitungkan dengannya; padahal dia — dosa banyak orang telah diangkatnya, dan untuk pemberontak-pemberontak ia akan membela.",
+  "translation": "Sebab itu Aku akan membagikan bagian kepadanya di antara ⟨את⟩ yang banyak, dan bersama ⟨את⟩ yang perkasa ia akan membagi jarahan, karena ia telah menumpahkan nyawanya kepada maut, dan bersama ⟨את⟩ para pemberontak ia dihitung; ia telah memikul dosa banyak orang, dan bagi para pemberontak ia memohonkan belas kasihan.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "sebab itu"
+      "gloss": "Sebab itu"
     },
     {
       "surface": "אחלק",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "ברבים",
-      "gloss": "di antara banyak orang"
+      "gloss": "di antara yang banyak"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "orang-orang kuat"
+      "marks": "yang banyak"
     },
     {
       "surface": "עצומים",
-      "gloss": "orang-orang kuat"
+      "gloss": "yang perkasa"
     },
     {
       "surface": "יחלק",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yang"
+      "gloss": "—"
     },
     {
       "surface": "הערה",
-      "gloss": "menelanjangi"
+      "gloss": "telah menumpahkan"
     },
     {
       "surface": "למות",
@@ -58,24 +58,24 @@
     },
     {
       "surface": "נפשו",
-      "gloss": "nafshnya"
+      "gloss": "nyawanya"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "pemberontak-pemberontak"
+      "marks": "para pemberontak"
     },
     {
       "surface": "פשעים",
-      "gloss": "pemberontak-pemberontak"
+      "gloss": "para pemberontak"
     },
     {
       "surface": "נמנה",
-      "gloss": "diperhitungkan"
+      "gloss": "ia dihitung"
     },
     {
       "surface": "והוא",
-      "gloss": "dan padahal dia"
+      "gloss": "ia"
     },
     {
       "surface": "חטא",
@@ -87,17 +87,17 @@
     },
     {
       "surface": "נשא",
-      "gloss": "diangkatnya"
+      "gloss": "telah memikul"
     },
     {
       "surface": "ולפשעים",
-      "gloss": "dan untuk pemberontak-pemberontak"
+      "gloss": "bagi para pemberontak"
     },
     {
       "surface": "יפגיע",
-      "gloss": "ia akan membela"
+      "gloss": "ia memohonkan belas kasihan"
     }
   ],
-  "timestamp": "2026-08-08T11:13:55.209321412Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:45.856876866Z",
+  "model": "glm-5.3"
 }

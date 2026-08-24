@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 20,
-  "translation": "“Mezbah tanah engkau akan membuat bagi-Ku, dan engkau akan menyembelih di atasnya ⟨את⟩ korban bakaranmu dan ⟨את⟩ korban keselamatanmu, ⟨את⟩ kambing dombamu dan ⟨את⟩ lembu sapimu. Di setiap ⟨the⟩ tempat di mana Aku mengingat ⟨את⟩ nama-Ku, Aku akan datang kepadamu dan memberkati engkau.”",
+  "translation": "Mizbah dari tanah engkau buat bagi-Ku, dan engkau mempersembahkan di atasnya ⟨את⟩ korban bakaranmu dan ⟨את⟩ korban keselamatanmu, ⟨את⟩ kambing dombamu dan ⟨את⟩ lembu sapimu; di setiap tempat yang Aku mengingatkan ⟨את⟩ nama-Ku, Aku akan datang kepadamu dan memberkati engkau.",
   "tokens": [
     {
       "surface": "מזבח",
-      "gloss": "mezbah"
+      "gloss": "mizbah"
     },
     {
       "surface": "אדמה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "engkau akan membuat"
+      "gloss": "engkau buat"
     },
     {
       "surface": "לי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וזבחת",
-      "gloss": "dan engkau akan menyembelih"
+      "gloss": "dan engkau mempersembahkan"
     },
     {
       "surface": "עליו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "korban keselamatanmu"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lembu sapimu"
     },
     {
@@ -77,11 +77,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "di mana"
+      "gloss": "yang"
     },
     {
       "surface": "אזכיר",
-      "gloss": "Aku mengingat"
+      "gloss": "Aku mengingatkan"
     },
     {
       "surface": "את",
@@ -105,6 +105,6 @@
       "gloss": "dan memberkati engkau"
     }
   ],
-  "timestamp": "2026-08-08T07:00:09.124722550Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:06.851366321Z",
+  "model": "glm-5.3"
 }

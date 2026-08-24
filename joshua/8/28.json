@@ -5,40 +5,40 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 8,
-  "translation": "Maka Yehoshua membakar ⟨את⟩ Ha-Ai, dan ⟨ה⟩menjadikannya gundukan selamanya, ⟨sebagai⟩ tempat sunyi sepi sampai hari ini.",
+  "translation": "Lalu Yehosyua membakar ⟨את⟩ Ai dan menjadikannya tel ⟨yang⟩ kekal, suatu kekosongan, sampai hari ini.",
   "tokens": [
     {
       "surface": "וישרף",
-      "gloss": "maka membakar"
+      "gloss": "Lalu … membakar"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehoshua"
+      "gloss": "Yehosyua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ha-Ai"
+      "marks": "Ai"
     },
     {
       "surface": "העי",
-      "gloss": "Ha-Ai"
+      "gloss": "Ai"
     },
     {
       "surface": "וישימה",
-      "gloss": "dan menjadikannya"
+      "gloss": "menjadikannya"
     },
     {
       "surface": "תל",
-      "gloss": "gundukan"
+      "gloss": "tel"
     },
     {
       "surface": "עולם",
-      "gloss": "selamanya"
+      "gloss": "kekal"
     },
     {
       "surface": "שממה",
-      "gloss": "tempat sunyi sepi"
+      "gloss": "suatu kekosongan"
     },
     {
       "surface": "עד",
@@ -53,6 +53,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T18:29:43.671592641Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:50.566849778Z",
+  "model": "glm-5.3"
 }

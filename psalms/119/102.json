@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 119,
-  "translation": "Dari ⟨משפטיך⟩ hukum-hukum-Mu aku tidak menyimpang, sebab Engkaulah yang mengajar aku.",
+  "translation": "Dari mishpatim-Mu aku tidak menyimpang, sebab Engkaulah yang mengajar aku.",
   "tokens": [
     {
       "surface": "ממשפטיך",
-      "gloss": "dari hukum-hukum-Mu"
+      "gloss": "Dari mishpatim-Mu"
     },
     {
       "surface": "לא",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "אתה",
-      "gloss": "Engkau"
+      "gloss": "Engkaulah"
     },
     {
       "surface": "הורתני",
-      "gloss": "mengajar aku"
+      "gloss": "yang mengajar aku"
     }
   ],
-  "timestamp": "2026-08-08T11:46:15.825899375Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:26.708459674Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 24,
-  "translation": "Dan Mosheh datang dan menceritakan kepada ⟨the⟩ bangsa ⟨את⟩ segala perkataan Yahweh dan ⟨את⟩ segala ⟨the⟩ peraturan; dan segala ⟨the⟩ bangsa menjawab ⟩dengan⟂ satu suara dan berkata, “Segala ⟨the⟩ perkataan yang telah difirmankan Yahweh, kami akan lakukan.”",
+  "translation": "Lalu datanglah Mosheh dan menceritakan kepada bangsa itu ⟨את⟩ segala perkataan Yahweh dan ⟨את⟩ segala hukum-hukum itu; maka seluruh bangsa itu menjawab dengan satu suara dan berkata, “Segala perkataan yang telah difirmankan Yahweh akan kami lakukan.”",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "dan datang"
+      "gloss": "Lalu datanglah"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לעם",
-      "gloss": "kepada bangsa"
+      "gloss": "kepada bangsa itu"
     },
     {
       "surface": "את",
@@ -42,8 +42,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "segala peraturan"
+      "gloss": "⟨את⟩",
+      "marks": "segala hukum-hukum"
     },
     {
       "surface": "כל",
@@ -51,19 +51,19 @@
     },
     {
       "surface": "המשפטים",
-      "gloss": "peraturan"
+      "gloss": "hukum-hukum itu"
     },
     {
       "surface": "ויען",
-      "gloss": "dan menjawab"
+      "gloss": "maka menjawab"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "seluruh"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
+      "gloss": "bangsa itu"
     },
     {
       "surface": "קול",
@@ -99,9 +99,9 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "kami akan lakukan"
+      "gloss": "akan kami lakukan"
     }
   ],
-  "timestamp": "2026-08-08T10:30:41.495322539Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:27.915569204Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 14,
-  "translation": "Lalu Dawid bertanya lagi kepada Elohim, dan Elohim berkata kepadanya, “Janganlah engkau maju mengikuti mereka; berputarlah dari atas mereka dan datanglah kepada mereka dari seberang ⟨הַבְּכָאִים⟩.”",
+  "translation": "Lalu Daud bertanya lagi kepada ⟨את⟩ Elohim, dan Elohim berkata kepadanya: Janganlah naik mengikuti mereka; berpalinglah dari mereka, dan datanglah kepada mereka dari seberang ⟨the⟩ pohon bakha.",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "Lalu bertanya"
+      "gloss": "bertanya"
     },
     {
       "surface": "עוד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Dawid"
+      "gloss": "Daud"
     },
     {
       "surface": "באלהים",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "Janganlah"
+      "gloss": "jangan"
     },
     {
       "surface": "תעלה",
-      "gloss": "engkau maju"
+      "gloss": "naik"
     },
     {
       "surface": "אחריהם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הסב",
-      "gloss": "berputarlah"
+      "gloss": "berpalinglah"
     },
     {
       "surface": "מעליהם",
-      "gloss": "dari atas mereka"
+      "gloss": "dari mereka"
     },
     {
       "surface": "ובאת",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "הבכאים",
-      "gloss": "pohon-baka"
+      "gloss": "pohon bakha"
     }
   ],
-  "timestamp": "2026-08-08T18:41:32.287025256Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:05.827152005Z",
+  "model": "glm-5.3"
 }

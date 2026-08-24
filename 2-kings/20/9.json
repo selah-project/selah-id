@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan berkatalah Yeshayahu: „Inilah bagimu tanda dari sisi Yahweh, bahwa Yahweh akan melakukan ⟨את⟩ perkata yang ⟨⟨dia⟩ firmankan: bayangan berjalan maju sepuluh tingkat, ataukah berbalik sepuluh tingkat?”",
+  "translation": "Dan Yesaya berkata: “Inilah bagimu tanda dari ⟨את⟩ Yahweh, bahwa Yahweh akan melakukan ⟨את⟩ perkara yang telah Ia firmankan: majukah bayangan sepuluh derajat, atau berbalikkah sepuluh derajat?”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Dan berkata"
     },
     {
       "surface": "ישעיהו",
-      "gloss": "Yeshayahu"
+      "gloss": "Yesaya"
     },
     {
       "surface": "זה",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari sisi"
+      "gloss": "dari ⟨את⟩",
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -50,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perkata"
+      "marks": "perkara"
     },
     {
       "surface": "הדבר",
-      "gloss": "perkata"
+      "gloss": "perkara"
     },
     {
       "surface": "אשר",
@@ -62,11 +63,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "firmankan"
+      "gloss": "telah firmankan"
     },
     {
       "surface": "הלך",
-      "gloss": "berjalan"
+      "gloss": "maju"
     },
     {
       "surface": "הצל",
@@ -78,7 +79,7 @@
     },
     {
       "surface": "מעלות",
-      "gloss": "tingkat"
+      "gloss": "derajat"
     },
     {
       "surface": "אם",
@@ -94,9 +95,9 @@
     },
     {
       "surface": "מעלות",
-      "gloss": "tingkat"
+      "gloss": "derajat"
     }
   ],
-  "timestamp": "2026-08-08T11:08:33.811205259Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:46.538475206Z",
+  "model": "glm-5.3"
 }

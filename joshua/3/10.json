@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan berkatalah Yehoshua: “Dengan inilah kamu akan mengetahui bahwa El yang hidup ⟨⟨ada⟩⟩ di tengah-tengah kamu, dan bahwa ia akan sungguh-sungguh mendorong keluar dari hadapan kamu ⟨את⟩ ha-Kena'ani dan ⟨את⟩ ha-Chiti dan ⟨את⟩ ha-Chiwi dan ⟨את⟩ ha-Perizi dan ⟨את⟩ ha-Girgasyi, dan ha-Emori, dan ha-Yevusi.”",
+  "translation": "Dan Yehosyua berkata: “Dengan ini kamu akan mengetahui bahwa El yang hidup ada di tengah-tengah kamu, dan bahwa Ia pasti akan mewarisi-dengan-mengusir dari hadapan kamu ⟨את⟩ orang Kanaan, dan ⟨את⟩ orang Het, dan ⟨את⟩ orang Hiwi, dan ⟨את⟩ orang Perizi, dan ⟨את⟩ orang Girgasy, dan orang Emori, dan orang Yevusi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Dan … berkata"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehoshua"
+      "gloss": "Yehosyua"
     },
     {
       "surface": "בזאת",
-      "gloss": "Dengan inilah"
+      "gloss": "Dengan ini"
     },
     {
       "surface": "תדעון",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "והורש",
-      "gloss": "dan bahwa ia akan sungguh-sungguh mendorong keluar"
+      "gloss": "dan bahwa Ia pasti akan mengusir"
     },
     {
       "surface": "יוריש",
-      "gloss": "mengusir"
+      "gloss": "mewarisi-dengan-mengusir"
     },
     {
       "surface": "מפניכם",
@@ -54,57 +54,57 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ha-Kena'ani"
+      "marks": "orang Kanaan"
     },
     {
       "surface": "הכנעני",
-      "gloss": "ha-Kena'ani"
+      "gloss": "orang Kanaan"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "ha-Chiti"
+      "gloss": "⟨את⟩",
+      "marks": "orang Het"
     },
     {
       "surface": "החתי",
-      "gloss": "ha-Chiti"
+      "gloss": "orang Het"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "ha-Chiwi"
+      "gloss": "⟨את⟩",
+      "marks": "orang Hiwi"
     },
     {
       "surface": "החוי",
-      "gloss": "ha-Chiwi"
+      "gloss": "orang Hiwi"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "ha-Perizi"
+      "gloss": "⟨את⟩",
+      "marks": "orang Perizi"
     },
     {
       "surface": "הפרזי",
-      "gloss": "ha-Perizi"
+      "gloss": "orang Perizi"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "ha-Girgasyi"
+      "gloss": "⟨את⟩",
+      "marks": "orang Girgasy"
     },
     {
       "surface": "הגרגשי",
-      "gloss": "ha-Girgasyi"
+      "gloss": "orang Girgasy"
     },
     {
       "surface": "והאמרי",
-      "gloss": "dan ha-Emori"
+      "gloss": "dan orang Emori"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "dan ha-Yevusi"
+      "gloss": "dan orang Yevusi"
     }
   ],
-  "timestamp": "2026-08-08T10:48:11.291606934Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:36.859526853Z",
+  "model": "glm-5.3"
 }

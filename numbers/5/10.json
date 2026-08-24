@@ -5,28 +5,28 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 5,
-  "translation": "Dan setiap orang ⟨את⟩ hal-har yang dikuduskan, kepadanyalah akan menjadi; setiap orang yang memberi kepada ⟨ה⟩ imam, kepadanyalah akan menjadi.",
+  "translation": "Dan setiap orang ⟨את⟩ barang-barang kudusnya, bagi dia itu akan menjadi miliknya; setiap orang yang memberikan kepada imam, bagi dia itu akan menjadi miliknya.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Dan setiap orang"
+      "gloss": "dan setiap orang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hal-har yang dikuduskan"
+      "marks": "barang-barang kudusnya"
     },
     {
       "surface": "קדשיו",
-      "gloss": "hal-har yang dikuduskan"
+      "gloss": "barang-barang kudusnya"
     },
     {
       "surface": "לו",
-      "gloss": "kepadanyalah"
+      "gloss": "bagi dia"
     },
     {
       "surface": "יהיו",
-      "gloss": "akan menjadi"
+      "gloss": "akan menjadi miliknya"
     },
     {
       "surface": "איש",
@@ -38,21 +38,21 @@
     },
     {
       "surface": "יתן",
-      "gloss": "memberi"
+      "gloss": "memberikan"
     },
     {
       "surface": "לכהן",
-      "gloss": "kepada ⟨ה⟩ imam"
+      "gloss": "kepada imam"
     },
     {
       "surface": "לו",
-      "gloss": "kepadanyalah"
+      "gloss": "bagi dia"
     },
     {
       "surface": "יהיה",
-      "gloss": "akan menjadi"
+      "gloss": "akan menjadi miliknya"
     }
   ],
-  "timestamp": "2026-08-08T07:15:06.058722648Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:23.821989300Z",
+  "model": "glm-5.3"
 }

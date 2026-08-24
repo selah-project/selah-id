@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 23,
-  "translation": "Lalu ia berbicara dengan mereka, dengan berkata: “Jika ⟨ada⟩ di dalam nafasmu untuk menguburkan ⟨את⟩ orang matiku dari hadapanku, dengarkanlah aku; dan temuilah untukku Efron ben Tsohar,",
+  "translation": "Lalu ia berbicara ⟨את⟩ dengan mereka, dengan berkata: “Jika ⟨ada⟩ di dalam nafasmu untuk menguburkan ⟨את⟩ orang matiku dari hadapanku, dengarkanlah aku; dan temuilah untukku Efron ben Tsohar,",
   "tokens": [
     {
       "surface": "וידבר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "dengan mereka"
+      "gloss": "⟨את⟩ dengan mereka"
     },
     {
       "surface": "לאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "את",
-      "gloss": "bersama",
+      "gloss": "⟨את⟩ bersama",
       "marks": "nafasmu"
     },
     {
@@ -78,6 +78,6 @@
       "gloss": "Tsohar"
     }
   ],
-  "timestamp": "2026-08-08T06:46:59.078782177Z",
+  "timestamp": "2026-08-24T17:55:27.077073426Z",
   "model": "glm-5.2"
 }

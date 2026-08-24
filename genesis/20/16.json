@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan kepada Sarai ia berkata, “Lihat, aku telah memberikan seribu perak kepada saudaramu; lihat, ia bagimu penutup mata bagi semua yang bersama denganmu, dan ⟨את⟩ semuanya; dan engkau dibenarkan.”",
+  "translation": "Dan kepada Sarai ia berkata, “Lihat, aku telah memberikan seribu perak kepada saudaramu; lihat, ia bagimu penutup mata bagi semua yang ⟨את⟩ bersama denganmu, dan ⟨את⟩ semuanya; dan engkau dibenarkan.”",
   "tokens": [
     {
       "surface": "ולשרה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bersama denganmu"
+      "gloss": "⟨את⟩ bersama denganmu"
     },
     {
       "surface": "ואת",
@@ -81,6 +81,6 @@
       "gloss": "dan engkau dibenarkan"
     }
   ],
-  "timestamp": "2026-08-08T06:47:02.586220860Z",
+  "timestamp": "2026-08-24T17:55:27.071841444Z",
   "model": "glm-5.2"
 }

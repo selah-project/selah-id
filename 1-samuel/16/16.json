@@ -5,89 +5,89 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 16,
-  "translation": "Biarlah kiranya tuan kami menyuruh hamba-hambamu yang di hadapanmu mencari seorang ⟨אישׁ⟩ yang tahu memetik kinnor; dan ketika ruh Elohim yang jahat ⟨sedang⟩ atasmu, ia harus memetik dengan tangannya, dan ⟨ada⟩ kebaikan bagimu.",
+  "translation": "Biarlah kiranya tuan kami menyuruh hamba-hambamu yang ⟨berdiri⟩ di hadapanmu mencari seorang pandai memainkan kinnor; dan terjadilah, apabila ruach Elohim yang jahat itu menghampirimu, ia memainkannya dengan tangannya, maka engkau menjadi baik.",
   "tokens": [
     {
-      "surface": "יֹאמַר",
-      "gloss": "Biarlah ... menyuruh"
+      "surface": "יאמר",
+      "gloss": "Biarlah kiranya menyuruh"
     },
     {
-      "surface": "נָ֤א",
+      "surface": "נא",
       "gloss": "kiranya"
     },
     {
-      "surface": "אֲדֹנֵ֨נוּ֙",
+      "surface": "אדננו",
       "gloss": "tuan kami"
     },
     {
-      "surface": "עֲבָדֶ֣יךָ",
+      "surface": "עבדיך",
       "gloss": "hamba-hambamu"
     },
     {
-      "surface": "לְפָנֶ֔יךָ",
-      "gloss": "yang di hadapanmu"
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
     },
     {
-      "surface": "יְבַקְשׁ֕וּ",
+      "surface": "יבקשו",
       "gloss": "mencari"
     },
     {
-      "surface": "אִ֕ישׁ",
-      "gloss": "seorang ⟨אישׁ⟩"
+      "surface": "איש",
+      "gloss": "seorang"
     },
     {
-      "surface": "יֹדֵ֖עַ",
-      "gloss": "yang tahu"
+      "surface": "ידע",
+      "gloss": "pandai"
     },
     {
-      "surface": "מְנַגֵּ֣ן",
-      "gloss": "memetik"
+      "surface": "מנגן",
+      "gloss": "memainkan"
     },
     {
-      "surface": "בַּכִּנּ֑וֹר",
-      "gloss": "kinnor"
+      "surface": "בכנור",
+      "gloss": "kinnor (kecapi)"
     },
     {
-      "surface": "וְהָיָ֗ה",
-      "gloss": "dan ketika"
+      "surface": "והיה",
+      "gloss": "dan terjadilah"
     },
     {
-      "surface": "בִּֽהְי֨וֹת",
-      "gloss": "⟨sedang⟩"
+      "surface": "בהיות",
+      "gloss": "apabila"
     },
     {
-      "surface": "עָלֶ֤יךָ",
-      "gloss": "atasmu"
+      "surface": "עליך",
+      "gloss": "menghampirimu"
     },
     {
-      "surface": "רֽוּחַ",
-      "gloss": "ruh"
+      "surface": "רוח",
+      "gloss": "ruach"
     },
     {
-      "surface": "אֱלֹהִים֙",
+      "surface": "אלהים",
       "gloss": "Elohim"
     },
     {
-      "surface": "רָעָ֔ה",
+      "surface": "רעה",
       "gloss": "yang jahat"
     },
     {
-      "surface": "וְנִגֵּ֥ן",
-      "gloss": "ia harus memetik"
+      "surface": "ונגן",
+      "gloss": "ia memainkannya"
     },
     {
-      "surface": "בְּיָד֖וֹ",
+      "surface": "בידו",
       "gloss": "dengan tangannya"
     },
     {
-      "surface": "וְט֥וֹב",
-      "gloss": "dan ⟨ada⟩ kebaikan"
+      "surface": "וטוב",
+      "gloss": "maka engkau menjadi baik"
     },
     {
-      "surface": "לָֽךְ",
+      "surface": "לך",
       "gloss": "bagimu"
     }
   ],
-  "timestamp": "2026-08-08T12:44:38.086287341Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:10.311035162Z",
+  "model": "glm-5.3"
 }

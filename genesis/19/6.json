@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan Lot keluar kepada mereka ⟨di⟩ ⟨the⟩ ambang pintu, dan ⟨the⟩ pintu ditutup di belakangnya.",
+  "translation": "Lalu Lot keluar mendapatkan mereka di ambang pintu, dan menutup pintu di belakangnya.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "dan keluar"
+      "gloss": "Lalu ... keluar"
     },
     {
       "surface": "אלהם",
-      "gloss": "kepada mereka"
+      "gloss": "mendapatkan mereka"
     },
     {
       "surface": "לוט",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הפתחה",
-      "gloss": "ambang pintu"
+      "gloss": "di ambang pintu"
     },
     {
       "surface": "והדלת",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "סגר",
-      "gloss": "ditutup"
+      "gloss": "menutup"
     },
     {
       "surface": "אחריו",
       "gloss": "di belakangnya"
     }
   ],
-  "timestamp": "2026-08-08T10:21:04.277929276Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:11.294942919Z",
+  "model": "glm-5.3"
 }

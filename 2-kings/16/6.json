@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 16,
-  "translation": "Pada waktu itu Retzin melekat ארם mengembalikan ⟨את⟩ Eilat kepada Aram, dan mengusir ⟨את⟩ orang-orang Yehuda dari Eilat; dan orang-orang Aram datang ke Eilat, dan diam di sana sampai hari ini.",
+  "translation": "Pada waktu itu Retsin melekin Aram mengembalikan ⟨את⟩ Eilat kepada Aram, dan mengusir ⟨את⟩ orang-orang Yehuda dari Eilat; maka orang Edom datang ke Eilat dan diam di sana sampai hari ini.",
   "tokens": [
     {
       "surface": "בעת",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "רצין",
-      "gloss": "Retzin"
+      "gloss": "Retsin"
     },
     {
       "surface": "מלך",
-      "gloss": "raja"
+      "gloss": "melekin"
     },
     {
       "surface": "ארם",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "מאילות",
-      "gloss": "dari Eilot"
+      "gloss": "dari Eilat"
     },
     {
       "surface": "וארמים",
-      "gloss": "dan orang-orang Aram"
+      "gloss": "orang Edom (Ketiv: orang Aram)"
     },
     {
       "surface": "באו",
@@ -94,6 +94,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T08:13:13.194519137Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:03.422408366Z",
+  "model": "glm-5.3"
 }

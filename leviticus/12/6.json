@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan pada genapnya hari penyuciannya, untuk laki-laki atau untuk perempuan, ia membawa domba berumur setahun untuk korban bakaran dan anak merpati atau burung tekukur untuk korban dosa, ke pintu kemah perjumpaan, kepada ⟨ה⟩ imam.",
+  "translation": "Ketika genap hari-hari pentahirannya, untuk anak laki-laki atau untuk anak perempuan, ia membawa seekor domba berumur satu tahun untuk korban olahan dan seekor anak merpati atau seekor burung tekukur untuk korban penghapus dosa, ke pintu Kemah Pertemuan, kepada sang imam.",
   "tokens": [
     {
       "surface": "ובמלאת",
-      "gloss": "Dan pada genapnya"
+      "gloss": "Ketika genap"
     },
     {
       "surface": "ימי",
-      "gloss": "hari"
+      "gloss": "hari-hari"
     },
     {
       "surface": "טהרה",
-      "gloss": "penyuciannya"
+      "gloss": "pentahirannya"
     },
     {
       "surface": "לבן",
-      "gloss": "untuk laki-laki"
+      "gloss": "untuk anak laki-laki"
     },
     {
       "surface": "או",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לבת",
-      "gloss": "untuk perempuan"
+      "gloss": "untuk anak perempuan"
     },
     {
       "surface": "תביא",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "כבש",
-      "gloss": "domba"
+      "gloss": "seekor domba"
     },
     {
       "surface": "בן",
-      "gloss": "anak"
+      "gloss": "berumur"
     },
     {
       "surface": "שנתו",
-      "gloss": "setahun"
+      "gloss": "satu tahun"
     },
     {
       "surface": "לעלה",
-      "gloss": "untuk korban bakaran"
+      "gloss": "untuk korban olahan"
     },
     {
       "surface": "ובן",
-      "gloss": "dan anak"
+      "gloss": "dan seekor anak"
     },
     {
       "surface": "יונה",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "תר",
-      "gloss": "tekukur"
+      "gloss": "burung tekukur"
     },
     {
       "surface": "לחטאת",
-      "gloss": "untuk korban dosa"
+      "gloss": "untuk korban penghapus dosa"
     },
     {
       "surface": "אל",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "אהל",
-      "gloss": "kemah"
+      "gloss": "Kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "perjumpaan"
+      "gloss": "Pertemuan"
     },
     {
       "surface": "אל",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "imam"
+      "gloss": "sang imam"
     }
   ],
-  "timestamp": "2026-08-08T07:09:13.007901515Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:35.771902858Z",
+  "model": "glm-5.3"
 }

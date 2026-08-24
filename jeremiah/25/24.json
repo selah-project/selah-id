@@ -5,12 +5,12 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 25,
-  "translation": "dan ⟨את⟩ segala raja-raja Arab dan ⟨את⟩ segala raja-raja ⟨ה⟩campuran yang diam di padang gurun",
+  "translation": "dan ⟨את⟩ segala raja Arab, dan ⟨את⟩ segala raja ⟨את⟩ kaum campuran yang diam di padang gurun;",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "segala raja-raja Arab"
+      "gloss": "⟨את⟩",
+      "marks": "segala raja Arab"
     },
     {
       "surface": "כל",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "raja-raja"
+      "gloss": "raja"
     },
     {
       "surface": "ערב",
@@ -26,8 +26,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "segala raja-raja campuran"
+      "gloss": "⟨את⟩",
+      "marks": "segala raja kaum campuran"
     },
     {
       "surface": "כל",
@@ -35,11 +35,11 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "raja-raja"
+      "gloss": "raja"
     },
     {
       "surface": "הערב",
-      "gloss": "⟨ה⟩campuran"
+      "gloss": "kaum campuran"
     },
     {
       "surface": "השכנים",
@@ -50,6 +50,6 @@
       "gloss": "di padang gurun"
     }
   ],
-  "timestamp": "2026-08-08T08:35:27.081081270Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:59.999761428Z",
+  "model": "glm-5.3"
 }

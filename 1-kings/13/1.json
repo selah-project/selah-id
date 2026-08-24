@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 13,
-  "translation": "Dan lihatlah, seorang ⟨אישׁ⟩ Elohim datang dari Yehudah dalam firman Yahweh ke Bet-El, dan Yaravam berdiri di atas mezbah itu untuk membakar ukupan.",
+  "translation": "Dan lihatlah, seorang nabi Elohim datang dari Yehuda dalam firman Yahweh ke Bet-El, sedangkan Yarobeam berdiri di atas mezbah untuk membakar ukupan.",
   "tokens": [
     {
       "surface": "והנה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "nabi Elohim"
     },
     {
       "surface": "בא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מיהודה",
-      "gloss": "dari Yehudah"
+      "gloss": "dari Yehuda"
     },
     {
       "surface": "בדבר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Bet"
     },
     {
       "surface": "אל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "וירבעם",
-      "gloss": "dan Yaravam"
+      "gloss": "sedangkan Yarobeam"
     },
     {
       "surface": "עמד",
@@ -68,6 +68,6 @@
       "gloss": "untuk membakar ukupan"
     }
   ],
-  "timestamp": "2026-08-08T11:03:55.744696081Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:39.949637634Z",
+  "model": "glm-5.3"
 }

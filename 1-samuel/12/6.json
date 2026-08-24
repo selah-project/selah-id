@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan berkatalah Shemuel kepada ⟨the⟩ rakyat: “Yahweh, yang membuat ⟨את⟩ Mosheh dan ⟨את⟩ Aharon, dan yang menaikkan ⟨את⟩ bapa-bapa kalian dari tanah Mitsrayim —",
+  "translation": "Lalu Shemuel berkata kepada bangsa itu: Yahweh, yang telah mengutus ⟨את⟩ Mosheh dan ⟨את⟩ Aharon, dan yang telah menaikkan ⟨את⟩ nenek moyangmu dari tanah Mitsrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "שמואל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "rakyat"
+      "gloss": "bangsa itu"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "membuat"
+      "gloss": "telah mengutus"
     },
     {
       "surface": "את",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aharon"
     },
     {
@@ -59,16 +59,16 @@
     },
     {
       "surface": "העלה",
-      "gloss": "menaikkan"
+      "gloss": "telah menaikkan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bapa-bapa kalian"
+      "marks": "nenek moyangmu"
     },
     {
       "surface": "אבתיכם",
-      "gloss": "bapa-bapa kalian"
+      "gloss": "nenek moyangmu"
     },
     {
       "surface": "מארץ",
@@ -79,6 +79,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-08T10:55:16.649322283Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:18.947264027Z",
+  "model": "glm-5.3"
 }

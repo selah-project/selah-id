@@ -5,25 +5,25 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 16,
-  "translation": "Dan ⟨ה⟩ omer ⟨adalah⟩ sepersepuluh dari ⟨ה⟩ eifah.",
+  "translation": "Dan ⟨satu⟩ omer ⟨adalah⟩ sepersepuluh ⟨dari⟩ efa.",
   "tokens": [
     {
-      "surface": "וְהָעֹ֕מֶר",
-      "gloss": "Dan ⟨ה⟩ omer"
+      "surface": "והעמר",
+      "gloss": "Dan omer"
     },
     {
-      "surface": "עֲשִׂרִ֥ית",
+      "surface": "עשרית",
       "gloss": "sepersepuluh"
     },
     {
-      "surface": "הָאֵיפָ֖ה",
-      "gloss": "dari ⟨ה⟩ eifah"
+      "surface": "האיפה",
+      "gloss": "efa"
     },
     {
-      "surface": "הֽוּא",
+      "surface": "הוא",
       "gloss": "⟨adalah⟩"
     }
   ],
-  "timestamp": "2026-08-08T18:22:52.952313455Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:18.641475147Z",
+  "model": "glm-5.3"
 }

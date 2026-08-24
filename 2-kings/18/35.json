@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 18,
-  "translation": "Siapa di antara segala Elohim negeri-negeri yang telah menyelamatkan ⟨את⟩ negeri mereka dari tanganku, sehingga Yahweh ⟨יציל⟩ menyelamatkan ⟨את⟩ Yerushalayim dari tanganku?",
+  "translation": "Siapakah di antara semua elohim ⟨את⟩ negeri-negeri yang telah melepaskan negerinya dari tanganku, sehingga Yahweh akan melepaskan ⟨את⟩ Yerushalayim dari tanganku?",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "Siapa"
+      "gloss": "siapakah"
     },
     {
       "surface": "בכל",
-      "gloss": "di antara segala"
+      "gloss": "di antara semua"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "elohim"
     },
     {
       "surface": "הארצות",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "הצילו",
-      "gloss": "mereka telah menyelamatkan"
+      "gloss": "telah melepaskan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "negeri mereka"
+      "marks": "negerinya"
     },
     {
       "surface": "ארצם",
-      "gloss": "negeri mereka"
+      "gloss": "negerinya"
     },
     {
       "surface": "מידי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "יציל",
-      "gloss": "Ia menyelamatkan"
+      "gloss": "akan melepaskan"
     },
     {
       "surface": "יהוה",
@@ -70,6 +70,6 @@
       "gloss": "dari tanganku"
     }
   ],
-  "timestamp": "2026-08-08T08:12:28.931496749Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:19.065325761Z",
+  "model": "glm-5.3"
 }

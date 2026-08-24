@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan ia berkata kepadaku, “Apa yang kaulihat?” Lalu aku berkata, “Aku telah melihat, dan lihatlah, sebuah menorah dari emas, seluruhnya, dan gulah ⟨⟨ada⟩⟩ di atas kepalanya, dan tujuh nilotnya di atasnya, tujuh dan tujuh muzaqot untuk nilot yang di atas kepalanya.”",
+  "translation": "Dan ia berkata kepadaku: “Apa yang kaulihat?” Lalu aku berkata: “Aku telah melihat, dan sesungguhnya ⟨sebuah⟩ kandil emas seluruhnya, dan gambarnya di atas kepalanya, dan tujuh pelitanya di atasnya — tujuh, bahkan tujuh saluran-pengalir bagi pelita-pelita yang di atas kepalanya.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dan ia berkata"
+      "gloss": "Dan ia berkata"
     },
     {
       "surface": "אלי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "apa"
+      "gloss": "Apa"
     },
     {
       "surface": "אתה",
-      "gloss": "engkau"
+      "gloss": "kau"
     },
     {
       "surface": "ראה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan aku berkata"
+      "gloss": "Lalu aku berkata"
     },
     {
       "surface": "ראיתי",
-      "gloss": "aku telah melihat"
+      "gloss": "Aku telah melihat"
     },
     {
       "surface": "והנה",
-      "gloss": "dan lihatlah"
+      "gloss": "dan sesungguhnya"
     },
     {
       "surface": "מנורת",
-      "gloss": "sebuah menorah"
+      "gloss": "kandil"
     },
     {
       "surface": "זהב",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וגלה",
-      "gloss": "dan gulah"
+      "gloss": "dan gambarnya"
     },
     {
       "surface": "על",
@@ -64,12 +64,12 @@
       "gloss": "kepalanya"
     },
     {
-      "surface": "ושבעה",
+      "surface": "וושבעה",
       "gloss": "dan tujuh"
     },
     {
       "surface": "נרתיה",
-      "gloss": "nilotnya"
+      "gloss": "pelita-pelitanya"
     },
     {
       "surface": "עליה",
@@ -81,15 +81,15 @@
     },
     {
       "surface": "ושבעה",
-      "gloss": "dan tujuh"
+      "gloss": "bahkan tujuh"
     },
     {
       "surface": "מוצקות",
-      "gloss": "muzaqot"
+      "gloss": "saluran-saluran pengalir"
     },
     {
       "surface": "לנרות",
-      "gloss": "untuk nilot"
+      "gloss": "bagi pelita-pelita"
     },
     {
       "surface": "אשר",
@@ -104,6 +104,6 @@
       "gloss": "kepalanya"
     }
   ],
-  "timestamp": "2026-08-08T09:05:13.347593516Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:02.948337614Z",
+  "model": "glm-5.3"
 }

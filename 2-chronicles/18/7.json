@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 18,
-  "translation": "Dan berkatalah raja Yisra'el kepada Yehoshafat, “Masih ada satu orang lagi untuk menanyakan ⟨דרש⟩ ⟨את⟩ Yahweh darinya, dan aku membencinya, karena ia tidak bernubuat atas aku untuk kebaikan; sebab segala hari-hari ⟨adalah⟩ untuk keburukan; dia ⟨adalah⟩ Mikhayhu bin Yimla.” Dan berkatalah Yehoshafat, “Jangan raja berkata demikian.”",
+  "translation": "Lalu raja Israel berkata kepada Yehoshafat, “Masih ada satu orang untuk menanyakan ⟨את⟩ Yahweh ⟨את⟩ melaluinya; tetapi aku membencinya, sebab ia tidak pernah bernubuat kepadaku hal yang baik — sepanjang hari-harinya hanya yang jahat. Dialah Mikha bin Imla.” Tetapi Yehoshafat berkata, “Janganlah raja berkata demikian.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "מלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "אל",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "darinya"
+      "gloss": "⟨את⟩ melaluinya"
     },
     {
       "surface": "ואני",
-      "gloss": "dan aku"
+      "gloss": "tetapi aku"
     },
     {
       "surface": "שנאתיהו",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "איננו",
-      "gloss": "tidak"
+      "gloss": "tidak pernah"
     },
     {
       "surface": "מתנבא",
@@ -78,19 +78,19 @@
     },
     {
       "surface": "עלי",
-      "gloss": "atas ku"
+      "gloss": "kepadaku"
     },
     {
       "surface": "לטובה",
-      "gloss": "untuk kebaikan"
+      "gloss": "hal yang baik"
     },
     {
       "surface": "כי",
-      "gloss": "sebab"
+      "gloss": "—"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "sepanjang"
     },
     {
       "surface": "ימיו",
@@ -98,15 +98,15 @@
     },
     {
       "surface": "לרעה",
-      "gloss": "untuk keburukan"
+      "gloss": "yang jahat"
     },
     {
       "surface": "הוא",
-      "gloss": "dia"
+      "gloss": "Dialah"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Mikhayhu"
+      "gloss": "Mikha"
     },
     {
       "surface": "בן",
@@ -114,11 +114,11 @@
     },
     {
       "surface": "ימלא",
-      "gloss": "Yimla"
+      "gloss": "Imla"
     },
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Tetapi berkata"
     },
     {
       "surface": "יהושפט",
@@ -126,7 +126,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "Jangan"
+      "gloss": "Janganlah"
     },
     {
       "surface": "יאמר",
@@ -141,6 +141,6 @@
       "gloss": "demikian"
     }
   ],
-  "timestamp": "2026-08-08T10:14:05.195557613Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:46.710793332Z",
+  "model": "glm-5.3"
 }

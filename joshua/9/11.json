@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 9,
-  "translation": "“Dan tua-tua kami serta seluruh penduduk negeri kami berkata kepada kami, demikian: Ambillah di tanganmu bekal untuk perjalanan dan pergilah menemui mereka, dan katakanlah kepada mereka, ‘Hamba-hambamulah kami; maka sekarang, potonglah ⟨⟨perjanjian⟩⟩ perjanjian dengan kami.’”",
+  "translation": "Kata mereka kepada kami: tua-tua kami dan seluruh penduduk negeri kami, katanya: Ambillah bekal di tanganmu untuk perjalanan, dan pergilah menyongsong mereka, dan katakanlah kepada mereka: Kami hamba kamu; maka sekarang potonglah perjanjian dengan kami.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Dan berkata"
+      "gloss": "Kata mereka"
     },
     {
       "surface": "אלינו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "demikian"
+      "gloss": "katanya"
     },
     {
       "surface": "קחו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "לקראתם",
-      "gloss": "menemui mereka"
+      "gloss": "menyongsong mereka"
     },
     {
       "surface": "ואמרתם",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "עבדיכם",
-      "gloss": "hamba-hambamu"
+      "gloss": "hamba kamu"
     },
     {
       "surface": "אנחנו",
-      "gloss": "kami"
+      "gloss": "Kami"
     },
     {
       "surface": "ועתה",
-      "gloss": "dan sekarang"
+      "gloss": "maka sekarang"
     },
     {
       "surface": "כרתו",
@@ -92,6 +92,6 @@
       "gloss": "perjanjian"
     }
   ],
-  "timestamp": "2026-08-08T07:35:00.798476880Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:39.182711278Z",
+  "model": "glm-5.3"
 }

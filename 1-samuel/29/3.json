@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 29,
-  "translation": "Lalu berkatalah para panglima Pelishtim: \"Apakah ⟨yang dilakukan oleh⟩ orang-orang Ibrani ini?\" Dan berkatalah Akhish kepada para panglima Pelishtim: \"Bukankah ini Dawid, hamba Shaul, raja Yisra'el, yang telah bersamaku ini hari-hari atau ini tahun-tahun, dan tidak kudapati dalam dirinya sesuatu apa pun, sejak hari pelariannya sampai hari ini?\"",
+  "translation": "Lalu berkatalah para panglima Pelishtim: \"Apakah ⟨yang dilakukan oleh⟩ orang-orang Ibrani ini?\" Dan berkatalah Akhish kepada para panglima Pelishtim: \"Bukankah ini Dawid, hamba Shaul, raja Yisra'el, yang telah ⟨את⟩ bersamaku ini hari-hari atau ini tahun-tahun, dan tidak kudapati dalam dirinya sesuatu apa pun, sejak hari pelariannya sampai hari ini?\"",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "זה",
@@ -148,6 +148,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T12:45:46.189409354Z",
+  "timestamp": "2026-08-24T17:55:27.168733953Z",
   "model": "glm-5.2"
 }

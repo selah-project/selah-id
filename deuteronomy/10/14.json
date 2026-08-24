@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 10,
-  "translation": "Sesungguhnya, milik Yahweh Elohimmulah langit dan langit dari langit-langit, ⟨ה⟩ bumi dan segala yang ada di dalamnya.",
+  "translation": "Lihatlah, milik Yahweh, Elohim-mu, ⟨adalah⟩ ⟨את⟩ langit dan langitnya langit, ⟨את⟩ bumi dan segala yang ada di dalamnya.",
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "sesungguhnya"
+      "gloss": "Lihatlah"
     },
     {
       "surface": "ליהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohimmu"
+      "gloss": "Elohim-mu"
     },
     {
       "surface": "השמים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ושמי",
-      "gloss": "dan langit dari"
+      "gloss": "dan langitnya"
     },
     {
       "surface": "השמים",
-      "gloss": "langit-langit"
+      "gloss": "langit"
     },
     {
       "surface": "הארץ",
@@ -48,6 +48,6 @@
       "gloss": "di dalamnya"
     }
   ],
-  "timestamp": "2026-08-08T07:26:06.705628419Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:31.221150091Z",
+  "model": "glm-5.3"
 }

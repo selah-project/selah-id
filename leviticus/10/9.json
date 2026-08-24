@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 10,
-  "translation": "Anggur dan minuman keras janganlah kauminum, engkau dan anak-anakmu bersama-sama denganmu, pada waktu kamu masuk ke dalam Kemoh Pertemuan, dan janganlah kamu mati — ⟨ini⟩ ketetapan untuk selama-lamanya bagi keturunan-keturunanmu.",
+  "translation": "Anggur dan minuman keras janganlah kauminum, engkau dan anak-anakmu ⟨את⟩ bersama-sama denganmu, pada waktu kamu masuk ke dalam Kemoh Pertemuan, dan janganlah kamu mati — ⟨ini⟩ ketetapan untuk selama-lamanya bagi keturunan-keturunanmu.",
   "tokens": [
     {
       "surface": "יין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bersama-sama denganmu"
+      "gloss": "⟨את⟩ bersama-sama denganmu"
     },
     {
       "surface": "בבאכם",
@@ -72,6 +72,6 @@
       "gloss": "bagi keturunan-keturunanmu"
     }
   ],
-  "timestamp": "2026-08-08T07:08:28.228574210Z",
+  "timestamp": "2026-08-24T17:55:27.204278872Z",
   "model": "glm-5.2"
 }

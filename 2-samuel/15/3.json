@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 15,
-  "translation": "Lalu Avshalom berkata kepadanya, “Lihat, perkara-perkaramu baik dan benar, tetapi tidak ada ⟨bagimu⟩ yang mendengarkan dari pihak sang raja.”",
+  "translation": "Lalu Avshalom berkata kepadanya, “Lihat, perkara-perkaramu baik dan benar, tetapi tidak ada ⟨bagimu⟩ yang mendengarkan ⟨את⟩ dari pihak sang raja.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari pihak"
+      "gloss": "⟨את⟩ dari pihak"
     },
     {
       "surface": "המלך",
       "gloss": "sang raja"
     }
   ],
-  "timestamp": "2026-08-08T10:59:27.943393062Z",
+  "timestamp": "2026-08-24T17:55:27.053332396Z",
   "model": "glm-5.2"
 }

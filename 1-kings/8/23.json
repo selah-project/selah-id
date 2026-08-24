@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan ⟨ia⟩ berkata, “Yahweh, Elohim ⟨dari⟩ Yisra'el, tidak ada yang seperti-Mu, Elohim, di langit di atas dan di atas bumi di bawah, ⟨Engkau⟩ yang memelihara ⟨הברית⟩ perjanjian dan ⟨החסד⟩ hesed bagi hamba-hamba-Mu yang berjalan di hadapan-Mu dengan segenap hati mereka,”",
+  "translation": "dan berkata: “Yahweh, Elohim Israel, tidak ada Elohim seperti-Mu di langit di atas maupun di bumi di bawah, yang memelihara perjanjian dan ⟨את⟩ hesed bagi hamba-hamba-Mu yang berjalan di hadapan-Mu dengan segenap hati mereka”.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkata"
+      "gloss": "dan berkata"
     },
     {
       "surface": "יהוה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim ⟨dari⟩"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "אין",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "dan di atas"
+      "gloss": "maupun di"
     },
     {
       "surface": "הארץ",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "שמר",
-      "gloss": "⟨Engkau⟩ yang memelihara"
+      "gloss": "yang memelihara"
     },
     {
       "surface": "הברית",
-      "gloss": "⟨הברית⟩ perjanjian"
+      "gloss": "perjanjian"
     },
     {
       "surface": "והחסד",
-      "gloss": "dan ⟨החסד⟩ hesed"
+      "gloss": "dan hesed"
     },
     {
       "surface": "לעבדיך",
@@ -88,6 +88,6 @@
       "gloss": "hati mereka"
     }
   ],
-  "timestamp": "2026-08-08T12:17:06.563473779Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.256633169Z",
+  "model": "glm-5.3"
 }

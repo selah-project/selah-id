@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Dan Elisha sedang duduk di rumahnya, dan para tetua duduk bersamanya, dan ⟨ia⟩ mengirim seorang laki-laki dari hadapannya; sebelum utusan itu datang kepadanya, ⟨ia⟩ berkata kepada para tetua, “Tidakkah kalian lihat bahwa anak pembunuh ini telah mengirim ⟨untuk⟩ menyingkirkan ⟨את⟩ kepalaku? Lihatlah, ketika utusan itu datang, kuncilah pintu, dan tahanlah dia di pintu — bukankah bunyi langkah tuannya ⟨di⟩ belakangnya?”",
+  "translation": "Dan Elisha sedang duduk di rumahnya, dan para tetua duduk ⟨את⟩ bersamanya, dan ⟨ia⟩ mengirim seorang laki-laki dari hadapannya; sebelum utusan itu datang kepadanya, ⟨ia⟩ berkata kepada para tetua, “Tidakkah kalian lihat bahwa anak pembunuh ini telah mengirim ⟨untuk⟩ menyingkirkan ⟨את⟩ kepalaku? Lihatlah, ketika utusan itu datang, kuncilah pintu, dan tahanlah dia di pintu — bukankah bunyi langkah tuannya ⟨di⟩ belakangnya?”",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "וישלח",
@@ -166,6 +166,6 @@
       "gloss": "belakangnya"
     }
   ],
-  "timestamp": "2026-08-08T18:32:11.030611479Z",
+  "timestamp": "2026-08-24T17:55:27.201960149Z",
   "model": "glm-5.2"
 }

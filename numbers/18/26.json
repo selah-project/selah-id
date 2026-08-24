@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 18,
-  "translation": "Dan kepada ha-Leviym engkau berbicara, dan engkau berkata kepada mereka, “Karena kamu mengambil dari ⟨pihak⟩ bani Yisra'el ⟨את⟩ persembahan persepuluhan yang telah Kuberikan kepadamu dari mereka sebagai milik pusakamu, maka kamu harus mengangkat dari padanya sebagai persembahan terumah bagi Yahweh — perpuluhan dari persembahan persepuluhan.”",
+  "translation": "Dan kepada ha-Leviym engkau berbicara, dan engkau berkata kepada mereka, “Karena kamu mengambil ⟨את⟩ dari ⟨pihak⟩ bani Yisra'el ⟨את⟩ persembahan persepuluhan yang telah Kuberikan kepadamu ⟨את⟩ dari mereka sebagai milik pusakamu, maka kamu harus mengangkat dari padanya sebagai persembahan terumah bagi Yahweh — perpuluhan dari persembahan persepuluhan.”",
   "tokens": [
     {
       "surface": "ואל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari ⟨pihak⟩"
+      "gloss": "⟨את⟩ dari ⟨pihak⟩"
     },
     {
       "surface": "בני",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "dari mereka"
+      "gloss": "⟨את⟩ dari mereka"
     },
     {
       "surface": "בנחלתכם",
@@ -105,6 +105,6 @@
       "gloss": "persembahan persepuluhan"
     }
   ],
-  "timestamp": "2026-08-08T10:41:22.397202590Z",
+  "timestamp": "2026-08-24T17:55:27.240288202Z",
   "model": "glm-5.2"
 }

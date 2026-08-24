@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 1,
-  "translation": "Maka bersabda Yahweh kepadaku: “Engkau telah melihat dengan baik, sebab ⟨אני⟩ ⟨sedang⟩ berjaga atas firman-Ku untuk melakukannya.”",
+  "translation": "Lalu berkatalah Yahweh kepadaku: “Engkau telah melihat dengan baik, sebab aku berjaga-jaga atas firmanku untuk melaksanakannya.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "maka bersabda"
+      "gloss": "Lalu berkatalah"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "היטבת",
-      "gloss": "engkau telah baik"
+      "gloss": "Engkau telah … dengan baik"
     },
     {
       "surface": "לראות",
-      "gloss": "untuk melihat"
+      "gloss": "melihat"
     },
     {
       "surface": "כי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "שקד",
-      "gloss": "berjaga"
+      "gloss": "berjaga-jaga"
     },
     {
       "surface": "אני",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "דברי",
-      "gloss": "firman-Ku"
+      "gloss": "firmanku"
     },
     {
       "surface": "לעשתו",
-      "gloss": "untuk melakukannya"
+      "gloss": "untuk melaksanakannya"
     }
   ],
-  "timestamp": "2026-08-08T11:15:31.198561716Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:32.174044287Z",
+  "model": "glm-5.3"
 }

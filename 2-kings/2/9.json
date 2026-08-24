@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 2,
-  "translation": "Dan terjadilah, ketika mereka telah menyeberang, Eliyahu berkata kepada Elisha: “Mintalah, apa yang akan kuperbuat untukmu sebelum aku diambil dari padamu.” Dan Elisha berkata: “Moga-moga π̂־שנים ⟨dalam⟩ rohmu ⟨terjadi⟩ kepadaku.”",
+  "translation": "Dan terjadilah, setelah mereka menyeberang, Eliyahu berkata kepada Elisha: “Mintalah apa yang hendak kuperbuat bagimu, sebelum aku diambil dari padamu.” Dan Elisha berkata: “Biarlah kiranya ⟨ada⟩ dua bagian dari ruhmu ⟨bagiku⟩.”",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כעברם",
-      "gloss": "ketika mereka telah menyeberang"
+      "gloss": "setelah mereka menyeberang"
     },
     {
       "surface": "ואליהו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "שאל",
-      "gloss": "mintalah"
+      "gloss": "Mintalah"
     },
     {
       "surface": "מה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "akan kuperbuat"
+      "gloss": "yang hendak kuperbuat"
     },
     {
       "surface": "לך",
-      "gloss": "untukmu"
+      "gloss": "bagimu"
     },
     {
       "surface": "בטרם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Dan berkata"
     },
     {
       "surface": "אלישע",
@@ -69,29 +69,29 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "moga-moga terjadi"
+      "gloss": "Biarlah kiranya terjadi"
     },
     {
       "surface": "נא",
-      "gloss": "moga-moga"
+      "gloss": "kiranya"
     },
     {
       "surface": "פי",
-      "gloss": "π̂־"
-    },
-    {
-      "surface": "שנים",
       "gloss": "dua bagian"
     },
     {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
       "surface": "ברוחך",
-      "gloss": "rohmu"
+      "gloss": "dari ruhmu"
     },
     {
       "surface": "אלי",
-      "gloss": "kepadaku"
+      "gloss": "⟨bagiku⟩"
     }
   ],
-  "timestamp": "2026-08-08T08:09:00.071242523Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:52.999665188Z",
+  "model": "glm-5.3"
 }

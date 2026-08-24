@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 103,
-  "translation": "Pelaku ⟨the⟩ kebenaran-kebenaran ⟨adalah⟩ Yahweh, dan ⟨the⟩ hukum-hukum bagi semua yang terinjak.",
+  "translation": "Yahweh melakukan kebenaran dan ⟨hukuman⟩-hukuman untuk semua orang yang teraniaya",
   "tokens": [
     {
       "surface": "עשה",
-      "gloss": "Pelaku"
+      "gloss": "melakukan"
     },
     {
       "surface": "צדקות",
-      "gloss": "kebenaran-kebenaran"
+      "gloss": "kebenaran"
     },
     {
       "surface": "יהוה",
@@ -21,17 +21,17 @@
     },
     {
       "surface": "ומשפטים",
-      "gloss": "dan hukum-hukum"
+      "gloss": "dan hukuman-hukuman"
     },
     {
       "surface": "לכל",
-      "gloss": "bagi semua"
+      "gloss": "untuk semua"
     },
     {
       "surface": "עשוקים",
-      "gloss": "yang terinjak"
+      "gloss": "orang yang teraniaya"
     }
   ],
-  "timestamp": "2026-08-08T09:21:51.725413801Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:09.848841790Z",
+  "model": "glm-5.3"
 }

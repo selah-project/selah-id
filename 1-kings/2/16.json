@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 2,
-  "translation": "Dan sekarang, satu permohonan aku minta daripadamu — jangan palingkan ⟨את⟩ wajahku.” Dan ⟨ia⟩ berkata kepadanya, “Berkatalah.”",
+  "translation": "Dan sekarang, satu permohonan aku minta ⟨את⟩ daripadamu — jangan palingkan ⟨את⟩ wajahku.” Dan ⟨ia⟩ berkata kepadanya, “Berkatalah.”",
   "tokens": [
     {
       "surface": "ועתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "daripadamu"
+      "gloss": "⟨את⟩ daripadamu"
     },
     {
       "surface": "אל",
@@ -61,6 +61,6 @@
       "gloss": "Berkatalah"
     }
   ],
-  "timestamp": "2026-08-08T11:01:15.317059896Z",
+  "timestamp": "2026-08-24T17:55:27.254940362Z",
   "model": "glm-5.2"
 }

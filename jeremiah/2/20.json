@@ -5,93 +5,94 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 2,
-  "translation": "Sebab dari dahulu kala engkau telah mematahkan kuk-mu, telah kautangguhkan tali pengikat-mu, dan berkatalah engkau, 'Tidak! Aku tidak akan bekerja'; sebab di atas setiap bukit yang tinggi dan di bawah setiap pohon yang rindang engkau ⟨הגאַתְּ⟩ berkelana bersundal.",
+  "translation": "Sebab dari zaman purba ⟨engkau⟩ mematahkan kukmu, memutuskan tali-ikatanmu, dan berkata: Tidak akan aku bekerja. Sebab di atas setiap bukit yang tinggi dan di bawah setiap pohon yang rimbun engkau berkelana, bersundal.",
   "tokens": [
     {
-      "surface": "כִּ֣י",
-      "gloss": "sebab"
+      "surface": "כי",
+      "gloss": "Sebab"
     },
     {
-      "surface": "מֵעוֹלָ֞ם",
-      "gloss": "dari dahulu kala"
+      "surface": "מעולם",
+      "gloss": "dari zaman purba"
     },
     {
-      "surface": "שָׁבַ֣רְתִּי",
-      "gloss": "engkau telah mematahkan"
+      "surface": "שברתי",
+      "gloss": "⟨engkau⟩ mematahkan"
     },
     {
-      "surface": "עֻלֵּ֗ךְ",
-      "gloss": "kuk-mu"
+      "surface": "עלך",
+      "gloss": "kukmu"
     },
     {
-      "surface": "נִתַּ֨קְתִּי֙",
-      "gloss": "telah kautangguhkan"
+      "surface": "נתקתי",
+      "gloss": "memutuskan"
     },
     {
-      "surface": "מוֹסְרֹתַ֔יִךְ",
-      "gloss": "tali pengikat-mu"
+      "surface": "מוסרתיך",
+      "gloss": "tali-ikatanmu"
     },
     {
-      "surface": "וַתֹּאמְרִ֖י",
-      "gloss": "dan berkatalah engkau"
+      "surface": "ותאמרי",
+      "gloss": "dan berkata"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "tidak!"
+      "surface": "לא",
+      "gloss": "Tidak"
     },
     {
       "surface": "אעבד",
-      "gloss": "aku tidak akan bekerja"
+      "gloss": "akan aku bekerja"
     },
     {
-      "surface": "כִּ֣י",
-      "gloss": "sebab"
+      "surface": "כי",
+      "gloss": "Sebab"
     },
     {
-      "surface": "עַֽל",
+      "surface": "על",
       "gloss": "di atas"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "setiap"
     },
     {
-      "surface": "גִּבְעָ֞ה",
+      "surface": "גבעה",
       "gloss": "bukit"
     },
     {
-      "surface": "גְּבֹהָ֗ה",
+      "surface": "גבהה",
       "gloss": "yang tinggi"
     },
     {
-      "surface": "וְתַ֨חַת֙",
+      "surface": "ותחת",
       "gloss": "dan di bawah"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "setiap"
     },
     {
-      "surface": "עֵ֣ץ",
+      "surface": "עץ",
       "gloss": "pohon"
     },
     {
-      "surface": "רַעֲנָ֔ן",
-      "gloss": "yang rindang"
+      "surface": "רענן",
+      "gloss": "yang rimbun"
     },
     {
-      "surface": "אַ֖תְּ",
-      "gloss": "engkau"
+      "surface": "את",
+      "gloss": "engkau",
+      "marks": "צעה — pelaku yang berkelana"
     },
     {
-      "surface": "צֹעָ֥ה",
+      "surface": "צעה",
       "gloss": "berkelana"
     },
     {
-      "surface": "זֹנָֽה",
+      "surface": "זנה",
       "gloss": "bersundal"
     }
   ],
-  "timestamp": "2026-08-08T12:18:41.792412174Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:37.149698501Z",
+  "model": "glm-5.3"
 }

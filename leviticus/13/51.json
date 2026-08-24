@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 13,
-  "translation": "Dan ⟨ia⟩ memeriksa ⟨את⟩ ⟨the⟩ tuaian pada hari ketujuh: apabila ⟨the⟩ tuaian telah meluas dalam pakaian, atau dalam lungsin, atau dalam pakan, atau dalam kulit — untuk segala apa pun yang dibuat dari kulit sebagai pekerjaan — ⟨it is⟩ tsara'at yang menggerogoti ⟨the⟩ tuaian; itu najis.",
+  "translation": "Dan ia akan melihat ⟨את⟩ itu noda pada hari ketujuh: apabila noda itu menjalar pada pakaian, atau pada lungsin, atau pada pakan, atau pada kulit, pada segala sesuatu yang dibuat dari kulit untuk pekerjaan — itu tsaraat yang menjalar gerogoh; itu adalah najis.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "dan memeriksa"
+      "gloss": "dan ia akan melihat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tuaian"
+      "marks": "itu noda"
     },
     {
       "surface": "הנגע",
-      "gloss": "tuaan"
+      "gloss": "itu noda"
     },
     {
       "surface": "ביום",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "פשה",
-      "gloss": "telah meluas"
+      "gloss": "menjalar"
     },
     {
       "surface": "הנגע",
-      "gloss": "tuaan"
+      "gloss": "itu noda"
     },
     {
       "surface": "בבגד",
-      "gloss": "dalam pakaian"
+      "gloss": "pada pakaian"
     },
     {
       "surface": "או",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "בשתי",
-      "gloss": "dalam lungsin"
+      "gloss": "pada lungsin"
     },
     {
       "surface": "או",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "בערב",
-      "gloss": "dalam pakan"
+      "gloss": "pada pakan"
     },
     {
       "surface": "או",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "בעור",
-      "gloss": "dalam kulit"
+      "gloss": "pada kulit"
     },
     {
       "surface": "לכל",
-      "gloss": "untuk segala"
+      "gloss": "pada segala"
     },
     {
       "surface": "אשר",
-      "gloss": "apa pun yang"
+      "gloss": "yang"
     },
     {
       "surface": "יעשה",
@@ -82,23 +82,23 @@
     },
     {
       "surface": "העור",
-      "gloss": "kulit"
+      "gloss": "kulit itu"
     },
     {
       "surface": "למלאכה",
-      "gloss": "sebagai pekerjaan"
+      "gloss": "untuk pekerjaan"
     },
     {
       "surface": "צרעת",
-      "gloss": "tsara'at"
+      "gloss": "tsaraat"
     },
     {
       "surface": "ממארת",
-      "gloss": "yang menggerogoti"
+      "gloss": "yang menjalar gerogoh"
     },
     {
       "surface": "הנגע",
-      "gloss": "tuaan"
+      "gloss": "itu noda"
     },
     {
       "surface": "טמא",
@@ -109,6 +109,6 @@
       "gloss": "itu"
     }
   ],
-  "timestamp": "2026-08-08T12:12:23.695292031Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:07.699016519Z",
+  "model": "glm-5.3"
 }

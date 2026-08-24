@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan tugas bani Gershon di Kemah Pertemuan: ⟨the⟩ Mishkan dan ⟨the⟩ ohel, tutupnya, dan tirai pintu Kemah Pertemuan.",
+  "translation": "Tugas mengawasi bagi bani Gersyon di Kemah Pertemuan: ⟨the⟩ Mishkan dan kemah itu, penutupnya, serta layar pintu Kemah Pertemuan.",
   "tokens": [
     {
       "surface": "ומשמרת",
-      "gloss": "Dan tugas"
+      "gloss": "tugas mengawasi"
     },
     {
       "surface": "בני",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "גרשון",
-      "gloss": "Gershon"
+      "gloss": "Gersyon"
     },
     {
       "surface": "באהל",
-      "gloss": "di"
+      "gloss": "di Kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "Kemah Pertemuan"
+      "gloss": "Pertemuan"
     },
     {
       "surface": "המשכן",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "והאהל",
-      "gloss": "dan ohel"
+      "gloss": "dan kemah itu"
     },
     {
       "surface": "מכסהו",
-      "gloss": "tutupnya"
+      "gloss": "penutupnya"
     },
     {
       "surface": "ומסך",
-      "gloss": "dan tirai"
+      "gloss": "serta layar"
     },
     {
       "surface": "פתח",
@@ -56,6 +56,6 @@
       "gloss": "Pertemuan"
     }
   ],
-  "timestamp": "2026-08-08T10:39:35.049012686Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:49.247770981Z",
+  "model": "glm-5.3"
 }

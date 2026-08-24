@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan apabila seorang ger menetap bersama kamu sebagai orang asing di tanahmu, janganlah kamu menindas dia.",
+  "translation": "Dan apabila seorang ger menetap ⟨את⟩ bersama kamu sebagai orang asing di tanahmu, janganlah kamu menindas dia.",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bersama kamu"
+      "gloss": "⟨את⟩ bersama kamu"
     },
     {
       "surface": "גר",
@@ -41,6 +41,6 @@
       "marks": "dia"
     }
   ],
-  "timestamp": "2026-08-08T07:11:31.374400162Z",
+  "timestamp": "2026-08-24T17:55:27.212081692Z",
   "model": "glm-5.2"
 }

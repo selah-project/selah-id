@@ -5,23 +5,23 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 2,
-  "translation": "Apakah Yisra'el ⟨הֶעֶבֶד⟩, ataukah dia kelahiran rumah? Mengapakah dia menjadi ⟨untuk⟩ jarahan?",
+  "translation": "Apakah Yisrael ⟨adalah⟩ hamba? Apakah ⟨ia⟩ anak kelahiran rumah? Mengapa ia menjadi jarahan?",
   "tokens": [
     {
       "surface": "העבד",
-      "gloss": "apakah seorang budak"
+      "gloss": "hamba"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אם",
-      "gloss": "ataukah"
+      "gloss": "apakah"
     },
     {
       "surface": "יליד",
-      "gloss": "kelahiran"
+      "gloss": "anak kelahiran"
     },
     {
       "surface": "בית",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "dia"
+      "gloss": "⟨ia⟩"
     },
     {
       "surface": "מדוע",
-      "gloss": "mengapakah"
+      "gloss": "mengapa"
     },
     {
       "surface": "היה",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "לבז",
-      "gloss": "⟨untuk⟩ jarahan"
+      "gloss": "jarahan"
     }
   ],
-  "timestamp": "2026-08-08T08:30:28.266549703Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:14.793464669Z",
+  "model": "glm-5.3"
 }

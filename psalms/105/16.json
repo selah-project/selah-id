@@ -5,41 +5,46 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 105,
-  "translation": "Dan ⟨dia⟩ memanggil kelaparan atas ⟨ה⟩ bumi, seluruh tongkat roti ⟨dia⟩ mematahkan.",
+  "translation": "Dan Ia memanggil kelaparan atas ⟨את⟩ negeri itu; ⟨Ia⟩ mematahkan segala tongkat roti.",
   "tokens": [
     {
-      "surface": "וַיִּקְרָ֣א",
-      "gloss": "Dan ⟨dia⟩ memanggil"
+      "surface": "ויקרא",
+      "gloss": "Dan Ia memanggil"
     },
     {
-      "surface": "רָ֭עָב",
+      "surface": "רעב",
       "gloss": "kelaparan"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "atas"
     },
     {
-      "surface": "הָאָ֑רֶץ",
-      "gloss": "⟨ה⟩ bumi"
+      "surface": "הארץ",
+      "gloss": "negeri itu"
     },
     {
-      "surface": "כָּֽל",
-      "gloss": "seluruh"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
     },
     {
-      "surface": "מַטֵּה",
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מטה",
       "gloss": "tongkat"
     },
     {
-      "surface": "לֶ֥חֶם",
+      "surface": "לחם",
       "gloss": "roti"
     },
     {
-      "surface": "שָׁבָֽר",
-      "gloss": "⟨dia⟩ mematahkan"
+      "surface": "שבר",
+      "gloss": "mematahkan"
     }
   ],
-  "timestamp": "2026-08-08T09:23:25.786737693Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:25.505146183Z",
+  "model": "glm-5.3"
 }

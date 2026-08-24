@@ -5,41 +5,41 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 7,
-  "translation": "Dan terjadilah demikian setelah tujuh hari, dan air-air ha-mabbul berada di atas ⟨ה⟩bumi.",
+  "translation": "Dan terjadilah setelah tujuh hari, maka air bah itu ⟨berada⟩ di atas bumi.",
   "tokens": [
     {
-      "surface": "וַֽיְהִ֖י",
+      "surface": "ויהי",
       "gloss": "Dan terjadilah"
     },
     {
-      "surface": "לְשִׁבְעַ֣ת",
+      "surface": "לשבעת",
       "gloss": "setelah tujuh"
     },
     {
-      "surface": "הַיָּמִ֑ים",
-      "gloss": "hari-hari"
+      "surface": "הימים",
+      "gloss": "hari"
     },
     {
-      "surface": "וּמֵ֣י",
-      "gloss": "dan air-air"
+      "surface": "ומי",
+      "gloss": "maka air"
     },
     {
-      "surface": "הַמַּבּ֔וּל",
-      "gloss": "ha-mabbul"
+      "surface": "המבול",
+      "gloss": "bah itu"
     },
     {
-      "surface": "הָי֖וּ",
+      "surface": "היו",
       "gloss": "berada"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "di atas"
     },
     {
-      "surface": "הָאָֽרֶץ",
-      "gloss": "⟨ה⟩bumi"
+      "surface": "הארץ",
+      "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-08T10:19:18.617375352Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:38.567801156Z",
+  "model": "glm-5.3"
 }

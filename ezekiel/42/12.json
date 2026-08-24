@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 42,
-  "translation": "Dan seperti pintu-pintu ruang-ruang yang arah selatan: pintu di kepala jalan, jalan di depan ⟨the⟩ tembok yang sesuai, jalan dari arah timur saat mereka masuk.",
+  "translation": "Dan seperti pintu-pintu ⟨את⟩ ruang-ruang yang ke arah selatan, ada pintu di kepala jalan, ⟨yaitu⟩ jalan di depan pembatas, lurus ke arah timur, pada waktu memasukinya.",
   "tokens": [
     {
       "surface": "וכפתחי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "arah"
+      "gloss": "ke arah"
     },
     {
       "surface": "הדרום",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הגדרת",
-      "gloss": "tembok"
+      "gloss": "pembatas"
     },
     {
       "surface": "הגינה",
-      "gloss": "yang sesuai"
+      "gloss": "lurus"
     },
     {
       "surface": "דרך",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "הקדים",
-      "gloss": "timur"
+      "gloss": "arah timur"
     },
     {
       "surface": "בבואן",
-      "gloss": "saat mereka masuk"
+      "gloss": "pada waktu memasukinya"
     }
   ],
-  "timestamp": "2026-08-08T08:54:05.433430932Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:26.849536241Z",
+  "model": "glm-5.3"
 }

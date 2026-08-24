@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 10,
-  "translation": "Dan berkata, “Mari bersamaku dan lihat api cemburuku bagi Yahweh!” Dan mereka membuatnya naik ⟨ke dalam⟩ keretanya.",
+  "translation": "Dan berkata, “Mari ⟨את⟩ bersamaku dan lihat api cemburuku bagi Yahweh!” Dan mereka membuatnya naik ⟨ke dalam⟩ keretanya.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "וראה",
@@ -45,6 +45,6 @@
       "gloss": "keretanya"
     }
   ],
-  "timestamp": "2026-08-08T08:10:58.235505741Z",
+  "timestamp": "2026-08-24T17:55:27.191377382Z",
   "model": "glm-5.2"
 }

@@ -5,24 +5,24 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 41,
-  "translation": "Dan ia mengukur ⟨את⟩ ⟨the⟩ bangunan: panjangnya seratus hasta; dan ⟨the⟩ area terpisah dan ⟨the⟩ bangunan serta tembok-temboknya: panjangnya seratus hasta.",
+  "translation": "Lalu ia mengukur ⟨את⟩ ⟨the⟩ bait itu: panjangnya seratus hasta; dan area terpisah itu, dan bangunan itu, serta tembok-temboknya: panjangnya seratus hasta.",
   "tokens": [
     {
-      "surface": "ומדד",
-      "gloss": "Dan ia mengukur"
+      "surface": "ו מדד",
+      "gloss": "Lalu ia mengukur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bangunan"
+      "marks": "bait itu"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ bangunan"
+      "gloss": "bait itu"
     },
     {
       "surface": "ארך",
-      "gloss": "panjang"
+      "gloss": "panjangnya"
     },
     {
       "surface": "מאה",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "והגזרה",
-      "gloss": "dan ⟨the⟩ area terpisah"
+      "gloss": "dan area terpisah itu"
     },
     {
       "surface": "והבניה",
-      "gloss": "dan ⟨the⟩ bangunan"
+      "gloss": "dan bangunan itu"
     },
     {
       "surface": "וקירותיה",
-      "gloss": "dan tembok-temboknya"
+      "gloss": "serta tembok-temboknya"
     },
     {
       "surface": "ארך",
-      "gloss": "panjang"
+      "gloss": "panjangnya"
     },
     {
       "surface": "מאה",
@@ -57,6 +57,6 @@
       "gloss": "hasta"
     }
   ],
-  "timestamp": "2026-08-08T11:26:36.261843003Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:43.555672833Z",
+  "model": "glm-5.3"
 }

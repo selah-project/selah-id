@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 35,
-  "translation": "Dan kota-kota yang kamu berikan dari pegangan milik bani Yisrael — dari yang banyak kamu ⟨harus⟩ memperbanyak, dan dari yang sedikit kamu ⟨harus⟩ mengurangi; setiap orang sesuai bagiannya yang mereka warisi akan memberikan dari kota-kotanya kepada orang Lewi.",
+  "translation": "Dan kota-kota yang kamu berikan dari pegangan milik bani Yisrael — dari yang banyak kamu ⟨harus⟩ memperbanyak, ⟨את⟩ dan dari yang sedikit kamu ⟨harus⟩ mengurangi; setiap orang sesuai bagiannya yang mereka warisi akan memberikan dari kota-kotanya kepada orang Lewi.",
   "tokens": [
     {
       "surface": "והערים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩ dari"
     },
     {
       "surface": "הרב",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ומאת",
-      "gloss": "dan dari",
+      "gloss": "⟨את⟩ dan dari",
       "marks": "yang sedikit"
     },
     {
@@ -89,6 +89,6 @@
       "gloss": "kepada orang Lewi"
     }
   ],
-  "timestamp": "2026-08-08T07:23:54.475132106Z",
+  "timestamp": "2026-08-24T17:55:27.225173805Z",
   "model": "glm-5.2"
 }

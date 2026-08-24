@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 14,
-  "translation": "Dan orang yang ditahirkan akan mencuci ⟨את⟩ pakaiannya, dan mencukur ⟨את⟩ seluruh rambutnya, dan mandi dalam air, dan ⟨ia⟩ tahir; dan sesudah itu ia akan masuk ke dalam ⟨ה⟩ perkemahan, tetapi tinggal di luar kemahnya selama tujuh hari.",
+  "translation": "Orang yang ditahirkan itu akan mencuci ⟨את⟩ pakaiannya, mencukur ⟨את⟩ seluruh bulunya, membasuh dirinya dalam air, dan menjadi tahir; setelah itu ia boleh masuk ke dalam perkemahan, tetapi harus tinggal di luar kemahnya tujuh hari.",
   "tokens": [
     {
       "surface": "וכבס",
-      "gloss": "dan akan mencuci"
+      "gloss": "akan mencuci"
     },
     {
       "surface": "המטהר",
@@ -26,12 +26,12 @@
     },
     {
       "surface": "וגלח",
-      "gloss": "dan mencukur"
+      "gloss": "mencukur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seluruh rambutnya"
+      "marks": "seluruh bulunya"
     },
     {
       "surface": "כל",
@@ -39,11 +39,11 @@
     },
     {
       "surface": "שערו",
-      "gloss": "rambutnya"
+      "gloss": "bulunya"
     },
     {
       "surface": "ורחץ",
-      "gloss": "dan mandi"
+      "gloss": "membasuh diri"
     },
     {
       "surface": "במים",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "dan tahir"
+      "gloss": "dan menjadi tahir"
     },
     {
       "surface": "ואחר",
-      "gloss": "dan sesudah itu"
+      "gloss": "setelah itu"
     },
     {
       "surface": "יבוא",
-      "gloss": "ia akan masuk"
+      "gloss": "ia masuk"
     },
     {
       "surface": "אל",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "perkemahan itu"
+      "gloss": "perkemahan"
     },
     {
       "surface": "וישב",
-      "gloss": "dan tinggal"
+      "gloss": "tinggal"
     },
     {
       "surface": "מחוץ",
@@ -90,6 +90,6 @@
       "gloss": "hari"
     }
   ],
-  "timestamp": "2026-08-08T10:37:02.211296860Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:11.851001171Z",
+  "model": "glm-5.3"
 }

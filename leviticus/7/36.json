@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 7,
-  "translation": "yang diperintahkan Yahweh untuk diberikan kepada mereka pada hari mengurapi-⟨את⟩ mereka dari bani Yisrael — ketetapan untuk selamanya bagi generasi-generasi mereka.",
+  "translation": "yang diperintahkan Yahweh untuk diberikan kepada mereka pada hari mengurapi-⟨את⟩ mereka ⟨את⟩ dari bani Yisrael — ketetapan untuk selamanya bagi generasi-generasi mereka.",
   "tokens": [
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩ dari"
     },
     {
       "surface": "בני",
@@ -65,6 +65,6 @@
       "gloss": "bagi generasi-generasi mereka"
     }
   ],
-  "timestamp": "2026-08-08T18:24:31.743097433Z",
+  "timestamp": "2026-08-24T17:55:27.207270314Z",
   "model": "glm-5.2"
 }

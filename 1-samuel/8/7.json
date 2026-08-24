@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan Yahweh berkata kepada Shemuël, “Dengarkanlah suara ⟨העם⟩ bangsa itu, sesuai dengan segala yang mereka katakan kepadamu, karena bukan engkau mereka tolak, melainkan Aku mereka tolak dari memerintah atas mereka.",
+  "translation": "Lalu Yahweh berfirman kepada Samuel: “Dengarkanlah suara bangsa itu, segala yang mereka katakan kepadamu, sebab bukan engkau ⟨את⟩ yang mereka tolak, melainkan Aku ⟨את⟩ yang mereka tolak, dari memerintah atas mereka.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dan berkatalah"
+      "gloss": "Lalu berfirman"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuël"
+      "gloss": "Samuel"
     },
     {
       "surface": "שמע",
-      "gloss": "dengarkanlah"
+      "gloss": "Dengarkanlah"
     },
     {
       "surface": "בקול",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "sesuai dengan segala"
+      "gloss": "segala"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "לא",
@@ -61,8 +61,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ engkau",
-      "marks": "engkau (sebagai objek langsung dari מאסו)"
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
     },
     {
       "surface": "מאסו",
@@ -74,8 +74,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ Aku",
-      "marks": "Aku (sebagai objek langsung dari מאסו)"
+      "gloss": "⟨את⟩",
+      "marks": "Aku"
     },
     {
       "surface": "מאסו",
@@ -90,6 +90,6 @@
       "gloss": "atas mereka"
     }
   ],
-  "timestamp": "2026-08-08T07:46:14.774742595Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:46.051299204Z",
+  "model": "glm-5.3"
 }

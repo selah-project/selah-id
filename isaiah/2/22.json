@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 2,
-  "translation": "Berhentilah bagimu dari manusia, yang neshamah ⟨יש⟩ di dalam hidungnya, sebab dengan apa ia dianggap?",
+  "translation": "Berhentilah ⟨bagi⟩ kalian bergantung pada manusia, yang hanya ada neshamah di dalam lubang hidungnya, sebab dengan apa ia dihitung berarti?",
   "tokens": [
     {
       "surface": "חדלו",
-      "gloss": "berhentilah"
+      "gloss": "Berhentilah"
     },
     {
       "surface": "לכם",
-      "gloss": "bagimu"
+      "gloss": "bagi kalian"
     },
     {
       "surface": "מן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נשמה",
-      "gloss": "neshamah"
+      "gloss": "neshamah (napas)"
     },
     {
       "surface": "באפו",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "נחשב",
-      "gloss": "dianggap"
+      "gloss": "dihitung berarti"
     },
     {
       "surface": "הוא",
-      "gloss": "dia"
+      "gloss": "ia"
     }
   ],
-  "timestamp": "2026-08-08T08:15:03.532145285Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:41.464044100Z",
+  "model": "glm-5.3"
 }

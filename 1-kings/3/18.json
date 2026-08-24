@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 3,
-  "translation": "Maka pada hari ketiga setelah aku melahirkan, perempuan ini juga melahirkan, dan kami bersama-sama; tidak ada orang asing bersama kami di rumah, kecuali kami berdua di rumah.",
+  "translation": "Maka pada hari ketiga setelah aku melahirkan, perempuan ini juga melahirkan, dan kami bersama-sama; tidak ada orang asing ⟨את⟩ bersama kami di rumah, kecuali kami berdua di rumah.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "bersama kami"
+      "gloss": "⟨את⟩ bersama kami"
     },
     {
       "surface": "בבית",
@@ -80,6 +80,6 @@
       "gloss": "di rumah"
     }
   ],
-  "timestamp": "2026-08-08T08:00:53.594384815Z",
+  "timestamp": "2026-08-24T17:55:27.251213940Z",
   "model": "glm-5.2"
 }

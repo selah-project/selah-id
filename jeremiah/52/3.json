@@ -5,74 +5,73 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 52,
-  "translation": "Karena karena murka Yahweh hal ini terjadi di Yerushalayim dan di Yehudah, sampai ⟨הוא⟩ melemparkan mereka dari hadapan-Nya, dan Tsidkiyahū memberontak terhadap raja Bavel.",
+  "translation": "Karena atas murka ⟨אף, hidung⟩ Yahweh hal itu terjadi di Yerushalayim dan di Yehudah, sampai ia melemparkan ⟨את⟩ mereka dari hadapan wajah-Nya; dan Tsidkiyahu memberontak terhadap raja Bavel.",
   "tokens": [
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "karena"
     },
     {
-      "surface": "עַל",
-      "gloss": "karena"
+      "surface": "על",
+      "gloss": "atas"
     },
     {
-      "surface": "אַ֣ף",
+      "surface": "אף",
       "gloss": "murka"
     },
     {
-      "surface": "יְהוָ֗ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "הָֽיְתָה֙",
+      "surface": "היתה",
       "gloss": "terjadi"
     },
     {
-      "surface": "בִּירוּשָׁלִַ֣ם",
+      "surface": "בירושלם",
       "gloss": "di Yerushalayim"
     },
     {
-      "surface": "וִֽיהוּדָ֔ה",
+      "surface": "ויהודה",
       "gloss": "dan di Yehudah"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "sampai"
     },
     {
-      "surface": "הִשְׁלִיכ֥וֹ",
-      "gloss": "⟨הוא⟩ melemparkan"
+      "surface": "השליכו",
+      "gloss": "melemparkan"
     },
     {
-      "surface": "אוֹתָ֖ם",
-      "gloss": "⟨את⟩",
-      "marks": "mereka"
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka"
     },
     {
-      "surface": "מֵעַ֣ל",
-      "gloss": "dari"
+      "surface": "מעל",
+      "gloss": "dari atas"
     },
     {
-      "surface": "פָּנָ֑יו",
-      "gloss": "hadapan-Nya"
+      "surface": "פניו",
+      "gloss": "wajah-Nya"
     },
     {
-      "surface": "וַיִּמְרֹ֥ד",
+      "surface": "וימרד",
       "gloss": "dan memberontak"
     },
     {
-      "surface": "צִדְקִיָּ֖הוּ",
-      "gloss": "Tsidkiyahū"
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
     },
     {
-      "surface": "בְּמֶ֥לֶךְ",
+      "surface": "במלך",
       "gloss": "terhadap raja"
     },
     {
-      "surface": "בָּבֶֽל",
+      "surface": "בבל",
       "gloss": "Bavel"
     }
   ],
-  "timestamp": "2026-08-08T11:22:15.009055426Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:34.119256188Z",
+  "model": "glm-5.3"
 }

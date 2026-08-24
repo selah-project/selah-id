@@ -5,89 +5,89 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 23,
-  "translation": "Sebab kedudukan mereka ⟨adalah⟩ di sisi bani Aharon, untuk pekerjaan bait Yahweh: atas pelataran-pelataran dan atas ruang-ruang samping, dan atas pentahiran segala sesuatu yang kudus, serta pelaksanaan pekerjaan bait ⟨האלהים⟩ Elohim.",
+  "translation": "sebab kedudukan mereka di samping bani Aharon untuk pekerjaan ⟨את⟩ rumah Yahweh: atas pelataran-pelataran, atas bilik-bilik, dan atas penyucian segala barang kudus, serta pekerjaan pelayanan rumah Elohim,",
   "tokens": [
     {
-      "surface": "כִּ֣י",
-      "gloss": "Sebab"
+      "surface": "כי",
+      "gloss": "sebab"
     },
     {
-      "surface": "מַעֲמָדָ֞ם",
+      "surface": "מעמדם",
       "gloss": "kedudukan mereka"
     },
     {
-      "surface": "לְיַד",
-      "gloss": "di sisi"
+      "surface": "ליד",
+      "gloss": "di samping"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "bani"
     },
     {
-      "surface": "אַהֲרֹ֗ן",
+      "surface": "אהרן",
       "gloss": "Aharon"
     },
     {
-      "surface": "לַעֲבֹדַת֙",
+      "surface": "לעבדת",
       "gloss": "untuk pekerjaan"
     },
     {
-      "surface": "בֵּ֣ית",
-      "gloss": "bait"
+      "surface": "בית",
+      "gloss": "rumah"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "atas"
     },
     {
-      "surface": "הַחֲצֵרוֹת֙",
+      "surface": "החצרות",
       "gloss": "pelataran-pelataran"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "dan atas"
     },
     {
-      "surface": "הַלְּשָׁכ֔וֹת",
-      "gloss": "ruang-ruang samping"
+      "surface": "הלשכות",
+      "gloss": "bilik-bilik"
     },
     {
-      "surface": "וְעַֽל",
+      "surface": "ועל",
       "gloss": "dan atas"
     },
     {
-      "surface": "טָהֳרַ֖ת",
-      "gloss": "pentahiran"
+      "surface": "טהרת",
+      "gloss": "penyucian"
     },
     {
-      "surface": "לְכָל",
+      "surface": "לכל",
       "gloss": "segala"
     },
     {
-      "surface": "קֹ֑דֶשׁ",
-      "gloss": "yang kudus"
+      "surface": "קדש",
+      "gloss": "barang kudus"
     },
     {
-      "surface": "וּמַֽעֲשֵׂ֔ה",
-      "gloss": "serta pelaksanaan"
+      "surface": "ומעשה",
+      "gloss": "serta pekerjaan"
     },
     {
-      "surface": "עֲבֹדַ֖ת",
-      "gloss": "pekerjaan"
+      "surface": "עבדת",
+      "gloss": "pelayanan"
     },
     {
-      "surface": "בֵּ֥ית",
-      "gloss": "bait"
+      "surface": "בית",
+      "gloss": "rumah"
     },
     {
-      "surface": "הָאֱלֹהִֽים",
+      "surface": "האלהים",
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-08T12:04:13.339901199Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:22.110923634Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 18,
-  "translation": "dan janganlah bumi memuntahkan ⟨את⟩kamu ketika kamu menajiskannya, seperti yang ia memuntahkan ⟨את⟩ bangsa yang ⟨היה⟩ sebelum kamu.",
+  "translation": "supaya ⟨את⟩ tanah itu jangan memuntahkan kamu dalam kenajisanmu yang menajiskannya, seperti ia memuntahkan ⟨את⟩ bangsa yang ⟨את⟩ hadapanmu.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "dan janganlah"
+      "gloss": "supaya jangan"
     },
     {
       "surface": "תקיא",
@@ -17,38 +17,35 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "tanah itu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kamu",
-      "marks": "kamu"
+      "gloss": "⟨את⟩ kamu"
     },
     {
       "surface": "בטמאכם",
-      "gloss": "ketika kamu menajiskannya"
+      "gloss": "dalam kenajisanmu"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩nya",
-      "marks": "nya (bumi)"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "כאשר",
-      "gloss": "seperti yang"
+      "gloss": "seperti"
     },
     {
       "surface": "קאה",
-      "gloss": "ia memuntahkan"
+      "gloss": "memuntahkan"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "bangsa"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "הגוי",
-      "gloss": "bangsa"
+      "gloss": "bangsa itu"
     },
     {
       "surface": "אשר",
@@ -56,9 +53,9 @@
     },
     {
       "surface": "לפניכם",
-      "gloss": "sebelum kamu"
+      "gloss": "di hadapanmu"
     }
   ],
-  "timestamp": "2026-08-09T01:43:58.399254742Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:35.057026856Z",
+  "model": "glm-5.3"
 }

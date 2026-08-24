@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 16,
-  "translation": "Ada jalan yang lurus di depan ⟨seorang⟩ ⟨איש⟩, tetapi akhirnya ⟨adalah⟩ jalan-jalan maut.",
+  "translation": "Ada jalan yang lurus di depan ⟨seorang⟩ manusia, tetapi ujungnya ⟨adalah⟩ jalan-jalan kematian.",
   "tokens": [
     {
-      "surface": "יֵשׁ",
+      "surface": "יש",
       "gloss": "Ada"
     },
     {
-      "surface": "דֶּרֶךְ",
+      "surface": "דרך",
       "gloss": "jalan"
     },
     {
-      "surface": "יָשָׁר",
+      "surface": "ישר",
       "gloss": "lurus"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "di depan"
     },
     {
-      "surface": "אִישׁ",
-      "gloss": "seorang"
+      "surface": "איש",
+      "gloss": "manusia"
     },
     {
-      "surface": "וְאַחֲרִיתָהּ",
-      "gloss": "tetapi akhirnya"
+      "surface": "ואחריתה",
+      "gloss": "tetapi ujungnya"
     },
     {
-      "surface": "דַּרְכֵי",
+      "surface": "דרכי",
       "gloss": "jalan-jalan"
     },
     {
-      "surface": "מָוֶת",
-      "gloss": "maut"
+      "surface": "מות",
+      "gloss": "kematian"
     }
   ],
-  "timestamp": "2026-08-08T09:33:06.380302897Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:49.459116998Z",
+  "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 25,
-  "translation": "Dan engkau akan memasukkan ⟨את⟩ kayu pengusung ke dalam cincin-cincin pada sisi-sisi ⟨הָאָרֹן⟩ aron, untuk mengangkat ⟨את⟩ aron dengan mereka.",
+  "translation": "Dan engkau harus memasukkan ⟨את⟩ tiang-tiang itu ke dalam cincin-cincin pada sisi-sisi Aron itu, untuk mengangkat ⟨את⟩ Aron dengan itu.",
   "tokens": [
     {
       "surface": "והבאת",
-      "gloss": "Dan engkau akan memasukkan"
+      "gloss": "dan engkau harus memasukkan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kayu pengusung"
+      "marks": "tiang-tiang itu"
     },
     {
       "surface": "הבדים",
-      "gloss": "kayu pengusung"
+      "gloss": "tiang-tiang itu"
     },
     {
       "surface": "בטבעת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הארן",
-      "gloss": "aron"
+      "gloss": "Aron itu"
     },
     {
       "surface": "לשאת",
@@ -43,17 +43,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aron"
+      "marks": "Aron itu"
     },
     {
       "surface": "הארן",
-      "gloss": "aron"
+      "gloss": "Aron itu"
     },
     {
       "surface": "בהם",
-      "gloss": "dengan mereka"
+      "gloss": "dengan itu"
     }
   ],
-  "timestamp": "2026-08-08T07:01:53.658787685Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:26.263157946Z",
+  "model": "glm-5.3"
 }

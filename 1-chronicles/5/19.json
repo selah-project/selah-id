@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 5,
-  "translation": "Dan mereka berperang melawan ⟨הגריאים⟩, ⟨yaitu⟩ Yetur dan Nafish dan Nodav,",
+  "translation": "Mereka berperang melawan ⟨את⟩ orang-orang Hagri, ⟨את⟩ Yetur, ⟨את⟩ Nafish, dan ⟨את⟩ Nodav.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "Dan mereka berperang"
+      "gloss": "Mereka berperang"
     },
     {
       "surface": "מלחמה",
@@ -21,8 +21,7 @@
     },
     {
       "surface": "ההגריאים",
-      "gloss": "⟨הגריאים⟩",
-      "marks": "orang-orang Hagar"
+      "gloss": "orang-orang Hagri"
     },
     {
       "surface": "ויטור",
@@ -37,6 +36,6 @@
       "gloss": "Nodav"
     }
   ],
-  "timestamp": "2026-08-09T01:43:24.435390752Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:34.697446747Z",
+  "model": "glm-5.3"
 }

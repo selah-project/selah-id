@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 43,
-  "translation": "Jika engkau mengirim ⟨את⟩ saudara kami bersama kami, kami akan turun dan membeli untukmu makanan.",
+  "translation": "Jika engkau mengirim ⟨את⟩ saudara kami ⟨את⟩ bersama kami, kami akan turun dan membeli untukmu makanan.",
   "tokens": [
     {
       "surface": "אם",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "bersama kami"
+      "gloss": "⟨את⟩ bersama kami"
     },
     {
       "surface": "נרדה",
@@ -49,6 +49,6 @@
       "gloss": "makanan"
     }
   ],
-  "timestamp": "2026-08-08T10:25:16.087591712Z",
+  "timestamp": "2026-08-24T17:55:27.091550263Z",
   "model": "glm-5.2"
 }

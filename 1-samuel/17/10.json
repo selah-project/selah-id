@@ -5,40 +5,40 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 17,
-  "translation": "Dan berkatalah orang Peleshet itu, “Aku telah menista ⟨את⟩ barisan Yisra'el hari ini; berikanlah kepadaku seorang ⟨אישׁ⟩ dan biarlah kita berperang bersama-sama.”",
+  "translation": "Lalu orang Filistin itu berkata: “Aku telah menantang ⟨את⟩ barisan tempat Yisrael hari ini. Berikanlah kepadaku seorang laki-laki, maka kita akan berkelahi bersama.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dan berkatalah"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "orang Peleshet itu"
+      "gloss": "orang Filistin itu"
     },
     {
       "surface": "אני",
-      "gloss": "aku"
+      "gloss": "Aku"
     },
     {
       "surface": "חרפתי",
-      "gloss": "telah menista"
+      "gloss": "telah menantang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "barisan"
+      "marks": "barisan tempat"
     },
     {
       "surface": "מערכות",
-      "gloss": "barisan"
+      "gloss": "barisan tempat"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "היום",
-      "gloss": "hari"
+      "gloss": "hari ini"
     },
     {
       "surface": "הזה",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "איש",
-      "gloss": "seorang ⟨אישׁ⟩"
+      "gloss": "seorang laki-laki"
     },
     {
       "surface": "ונלחמה",
-      "gloss": "dan biarlah kita berperang"
+      "gloss": "maka kita akan berkelahi"
     },
     {
       "surface": "יחד",
-      "gloss": "bersama-sama"
+      "gloss": "bersama"
     }
   ],
-  "timestamp": "2026-08-08T07:49:23.573894993Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:17.155944208Z",
+  "model": "glm-5.3"
 }

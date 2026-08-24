@@ -5,23 +5,23 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan tidak sangka Mosheh untuk masuk ke dalam kemah perjumpaan, karena awan itu diam di atasnya, dan kemuliaan Yahweh memenuhi ⟨את⟩ ⟨the⟩ kemah-suci.",
+  "translation": "Dan Moshe tidak sanggup masuk ke dalam Kemah Pertemuan, sebab awan itu diam di atasnya, dan kemuliaan Yahweh memenuhi ⟨את⟩ Mishkan itu.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Dan tidak"
+      "gloss": "dan tidak"
     },
     {
       "surface": "יכל",
-      "gloss": "sangka"
+      "gloss": "sanggup"
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Moshe"
     },
     {
       "surface": "לבוא",
-      "gloss": "untuk masuk"
+      "gloss": "masuk"
     },
     {
       "surface": "אל",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אהל",
-      "gloss": "kemah"
+      "gloss": "Kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "perjumpaan"
+      "gloss": "Pertemuan"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "שכן",
@@ -66,13 +66,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kemah-suci"
+      "marks": "Mishkan itu"
     },
     {
       "surface": "המשכן",
-      "gloss": "kemah-suci"
+      "gloss": "Mishkan itu"
     }
   ],
-  "timestamp": "2026-08-08T10:34:02.130841312Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:55.641393315Z",
+  "model": "glm-5.3"
 }

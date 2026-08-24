@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 5,
-  "translation": "Maka para pengawas bani Yisra'el melihat ⟨אתם⟩ dalam kesusahan, ketika dikatakan: “Jangan kamu kurangi dari batu-bata bata kalian, jumlah hari ini per hari ini.”",
+  "translation": "Dan para pengawas bani Israel melihat bahwa mereka ⟨⟨berada⟩⟩ dalam keadaan buruk, ketika dikatakan: “Janganlah kamu kurangi dari batu-bata mu, ⟨⟨yaitu⟩⟩ jatah sehari pada harinya.”",
   "tokens": [
     {
       "surface": "ויראו",
-      "gloss": "Maka melihat"
+      "gloss": "dan melihat"
     },
     {
       "surface": "שטרי",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "mereka sendiri"
+      "marks": "mereka"
     },
     {
       "surface": "ברע",
-      "gloss": "dalam kesusahan"
+      "gloss": "dalam keadaan buruk"
     },
     {
       "surface": "לאמר",
@@ -46,21 +46,21 @@
     },
     {
       "surface": "מלבניכם",
-      "gloss": "dari batu-bata kalian"
+      "gloss": "dari batu-bata mu"
     },
     {
       "surface": "דבר",
-      "gloss": "jumlah"
+      "gloss": "jatah"
     },
     {
       "surface": "יום",
-      "gloss": "hari"
+      "gloss": "sehari"
     },
     {
       "surface": "ביומו",
-      "gloss": "per hari ini"
+      "gloss": "pada harinya"
     }
   ],
-  "timestamp": "2026-08-08T10:28:54.433895899Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:40.149864859Z",
+  "model": "glm-5.3"
 }

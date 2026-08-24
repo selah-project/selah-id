@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 5,
-  "translation": "Maka turunlah ia dan mencelupkan diri di sungai Yarden tujuh kali, sesuai dengan firman ⟨אישׁ⟩ ha-Elohim, dan kembalilah dagingnya seperti daging anak kecil, maka ia menjadi tahir.",
+  "translation": "Lalu ia turun dan mencelupkan diri di Yarden tujuh kali, sesuai perkataan ⟨את⟩ orang Elohim itu, maka pulihlah dagingnya seperti daging anak kecil, dan ia menjadi tahir.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "maka turunlah ia"
+      "gloss": "Lalu ia turun"
     },
     {
       "surface": "ויטבל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בירדן",
-      "gloss": "di sungai Yarden"
+      "gloss": "di Yarden"
     },
     {
       "surface": "שבע",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "sesuai dengan firman"
+      "gloss": "sesuai perkataan"
     },
     {
       "surface": "איש",
-      "gloss": "⟨אישׁ⟩"
+      "gloss": "orang"
     },
     {
       "surface": "האלהים",
-      "gloss": "ha-Elohim"
+      "gloss": "Elohim itu"
     },
     {
       "surface": "וישב",
-      "gloss": "dan kembalilah"
+      "gloss": "maka pulihlah"
     },
     {
       "surface": "בשרו",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "ויטהר",
-      "gloss": "maka ia menjadi tahir"
+      "gloss": "dan ia menjadi tahir"
     }
   ],
-  "timestamp": "2026-08-09T01:41:22.489635658Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:09.971037927Z",
+  "model": "glm-5.3"
 }

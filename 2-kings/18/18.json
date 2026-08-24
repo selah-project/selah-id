@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 18,
-  "translation": "Dan mereka memanggil kepada raja, maka keluar kepada mereka Elyakim bin Khilkia yang ⟨di⟩ atas ⟨ה⟩ rumah, dan Shebna sang juru tulis, dan Yoakh bin Asaf sang pencatat.",
+  "translation": "Lalu mereka memanggil raja, maka keluarlah mendapatkan mereka Elyakim bin Khilkiyahu yang ⟨yang⟩ ⟨berkuasa⟩ atas istana, serta Shebna sang juru tulis, dan Yoakh bin Asaf sang juru kenang.",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "Dan mereka memanggil"
+      "gloss": "maka mereka memanggil"
     },
     {
       "surface": "אל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "maka keluar"
+      "gloss": "dan keluarlah"
     },
     {
       "surface": "אלהם",
-      "gloss": "kepada mereka"
+      "gloss": "mendapatkan mereka"
     },
     {
       "surface": "אליקים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חלקיהו",
-      "gloss": "Khilkia"
+      "gloss": "Khilkiyahu"
     },
     {
       "surface": "אשר",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "על",
-      "gloss": "di atas"
+      "gloss": "atas"
     },
     {
       "surface": "הבית",
-      "gloss": "rumah"
+      "gloss": "istana"
     },
     {
       "surface": "ושבנה",
-      "gloss": "dan Shebna"
+      "gloss": "serta Shebna"
     },
     {
       "surface": "הספר",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "המזכיר",
-      "gloss": "sang pencatat"
+      "gloss": "sang juru kenang"
     }
   ],
-  "timestamp": "2026-08-08T12:17:49.752829021Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:37.405717212Z",
+  "model": "glm-5.3"
 }

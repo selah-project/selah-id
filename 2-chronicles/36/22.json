@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 36,
-  "translation": "Dan pada tahun pertama Koresh raja Paras, pada selesainya firman Yahweh melalui mulut Yirmeyahu, Yahweh membangkitkan ⟨את⟩ ruh Koresh raja Paras, dan ⟨הוא⟩ menyebarkan seruan ke seluruh kerajaannya, dan juga secara tertulis, mengatakan:",
+  "translation": "Dan pada tahun pertama Koresh (Kores) raja Paras (Persia), untuk menggenapi firman Yahweh dari mulut Yeremyahu, Yahweh membangkitkan ⟨את⟩ roh Koresh raja Paras, sehingga ia mengumumkan seruan ke seluruh kerajaannya, juga dengan tulisan, yang berbunyi:",
   "tokens": [
     {
       "surface": "ובשנת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לכורש",
-      "gloss": "Koresh"
+      "gloss": "Koresh (Kores)"
     },
     {
       "surface": "מלך",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "פרס",
-      "gloss": "Paras"
+      "gloss": "Paras (Persia)"
     },
     {
       "surface": "לכלות",
-      "gloss": "pada selesainya"
+      "gloss": "untuk menggenapi"
     },
     {
       "surface": "דבר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "בפי",
-      "gloss": "melalui mulut"
+      "gloss": "dari mulut"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeyahu"
+      "gloss": "Yeremyahu"
     },
     {
       "surface": "העיר",
@@ -58,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ruh"
+      "marks": "roh Koresh"
     },
     {
       "surface": "רוח",
-      "gloss": "ruh"
+      "gloss": "roh"
     },
     {
       "surface": "כורש",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ויעבר",
-      "gloss": "dan menyebarkan"
+      "gloss": "sehingga ia mengumumkan"
     },
     {
       "surface": "קול",
@@ -94,17 +94,17 @@
     },
     {
       "surface": "וגם",
-      "gloss": "dan juga"
+      "gloss": "juga"
     },
     {
       "surface": "במכתב",
-      "gloss": "secara tertulis"
+      "gloss": "dengan tulisan"
     },
     {
       "surface": "לאמר",
-      "gloss": "mengatakan"
+      "gloss": "yang berbunyi"
     }
   ],
-  "timestamp": "2026-08-08T12:27:56.897410095Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:00.575985072Z",
+  "model": "glm-5.3"
 }

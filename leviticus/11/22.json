@@ -5,33 +5,33 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 11,
-  "translation": "⟨את⟩ ini dari antaranya kamu boleh makan: ⟨את⟩ belalang menurut jenisnya, dan ⟨את⟩ hargol menurut jenisnya, dan ⟨את〕 hargol menurut jenisnya, dan ⟨את⟩ hagab menurut jenisnya.",
+  "translation": "⟨את⟩ semua yang termasuk jenis ini boleh kamu makan: ⟨את⟩ arbeh menurut jenisnya, ⟨את⟩ solam menurut jenisnya, ⟨את⟩ hargol menurut jenisnya, dan ⟨את⟩ hagav menurut jenisnya.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ini"
+      "marks": "semua yang termasuk jenis ini"
     },
     {
       "surface": "אלה",
-      "gloss": "ini"
+      "gloss": "semua yang termasuk jenis ini"
     },
     {
       "surface": "מהם",
-      "gloss": "dari antaranya"
+      "gloss": "dari antara mereka"
     },
     {
       "surface": "תאכלו",
-      "gloss": "kamu boleh makan"
+      "gloss": "boleh kamu makan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "belalang"
+      "marks": "arbeh"
     },
     {
       "surface": "הארבה",
-      "gloss": "belalang"
+      "gloss": "arbeh (belalang)"
     },
     {
       "surface": "למינו",
@@ -39,12 +39,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "hargol"
+      "gloss": "⟨את⟩",
+      "marks": "solam"
     },
     {
       "surface": "הסלעם",
-      "gloss": "hargol"
+      "gloss": "solam"
     },
     {
       "surface": "למינהו",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "hargol"
     },
     {
@@ -65,18 +65,18 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "hagab"
+      "gloss": "⟨את⟩",
+      "marks": "hagav"
     },
     {
       "surface": "החגב",
-      "gloss": "hagab"
+      "gloss": "hagav"
     },
     {
       "surface": "למינהו",
       "gloss": "menurut jenisnya"
     }
   ],
-  "timestamp": "2026-08-08T10:34:45.353429789Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:44.445271299Z",
+  "model": "glm-5.3"
 }

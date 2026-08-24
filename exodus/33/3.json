@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 33,
-  "translation": "Ke ⟨אֶרֶץ⟩ yang mengalir susu dan madu, sebab tidaklah Aku akan naik di tengah-tengahmu, sebab ⟨engkau⟩ bangsa tegar tengkuk, supaya jangan Aku menghabisimu di jalan.",
+  "translation": "ke ⟨the⟩ tanah yang mengalir susu dan madu, sebab Aku tidak akan naik di tengah-tengahmu, sebab engkau ⟨are⟩ kaum berkeras-keras tengkuk, supaya jangan Aku membinasakanmu di jalan.",
   "tokens": [
     {
       "surface": "אל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨אֶרֶץ⟩ tanah"
+      "gloss": "tanah"
     },
     {
       "surface": "זבת",
-      "gloss": "mengalir"
+      "gloss": "yang mengalir"
     },
     {
       "surface": "חלב",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "עם",
-      "gloss": "bangsa"
+      "gloss": "kaum"
     },
     {
       "surface": "קשה",
-      "gloss": "tegar"
+      "gloss": "berkeras-keras"
     },
     {
       "surface": "ערף",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "אכלך",
-      "gloss": "Aku menghabisimu"
+      "gloss": "Aku membinasakanmu"
     },
     {
       "surface": "בדרך",
       "gloss": "di jalan"
     }
   ],
-  "timestamp": "2026-08-08T10:32:29.877228848Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:12.519707053Z",
+  "model": "glm-5.3"
 }

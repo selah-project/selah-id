@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 10,
-  "translation": "Dan ketika kamu masuk peperangan di tanahmu melawan musuh yang menekan kamu, maka kamu harus meniup ⟨אֶתְכֶם⟩ sinyal dengan nafiri, dan kamu akan diingat di hadapan Yahweh Elohim kamu, dan kamu akan diselamatkan dari musuh-musuhmu.",
+  "translation": "Dan apabila kamu masuk perang di negerimu melawan ⟨את⟩ penindas yang menindas kamu, maka kamu meniup penyeruan dengan nafiri, dan kamu diingat di hadapan Yahweh Elohim kamu, dan kamu diselamatkan dari musuhmu.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "Dan ketika"
+      "gloss": "Dan apabila"
     },
     {
       "surface": "תבאו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מלחמה",
-      "gloss": "peperangan"
+      "gloss": "perang"
     },
     {
       "surface": "בארצכם",
-      "gloss": "di tanahmu"
+      "gloss": "di negerimu"
     },
     {
       "surface": "על",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "הצר",
-      "gloss": "musuh"
+      "gloss": "penindas"
     },
     {
       "surface": "הצרר",
-      "gloss": "yang menekan"
+      "gloss": "yang menindas"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamu",
-      "marks": "kamu (objek langsung dari הצרר)"
+      "gloss": "⟨את⟩kamu",
+      "marks": "kamu"
     },
     {
       "surface": "והרעתם",
-      "gloss": "maka kamu harus meniup sinyal"
+      "gloss": "maka kamu meniup penyeruan"
     },
     {
       "surface": "בחצצרות",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ונזכרתם",
-      "gloss": "dan kamu akan diingat"
+      "gloss": "dan kamu diingat"
     },
     {
       "surface": "לפני",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "ונושעתם",
-      "gloss": "dan kamu akan diselamatkan"
+      "gloss": "dan kamu diselamatkan"
     },
     {
       "surface": "מאיביכם",
-      "gloss": "dari musuh-musuhmu"
+      "gloss": "dari musuhmu"
     }
   ],
-  "timestamp": "2026-08-08T07:16:39.399662101Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:25.126682022Z",
+  "model": "glm-5.3"
 }

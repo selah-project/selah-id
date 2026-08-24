@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 18,
-  "translation": "Dan akan terjadi, aku pergi dari padamu, dan ruakh Yahweh mengangkatmu ke ⟨tempat⟩ yang tidak aku kenal, lalu aku datang untuk memberitahukan kepada Akhab, dan ia tidak menemuimu, dan ia membunuh aku; padahal hambamu ini takut akan ⟨את⟩ Yahweh sejak masa mudaku.",
+  "translation": "Dan akan terjadi, aku pergi ⟨את⟩ dari padamu, dan ruakh Yahweh mengangkatmu ke ⟨tempat⟩ yang tidak aku kenal, lalu aku datang untuk memberitahukan kepada Akhab, dan ia tidak menemuimu, dan ia membunuh aku; padahal hambamu ini takut akan ⟨את⟩ Yahweh sejak masa mudaku.",
   "tokens": [
     {
       "surface": "והיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "dari padamu"
+      "gloss": "⟨את⟩ dari padamu"
     },
     {
       "surface": "ורוח",
@@ -97,6 +97,6 @@
       "gloss": "sejak masa mudaku"
     }
   ],
-  "timestamp": "2026-08-08T11:03:52.448461129Z",
+  "timestamp": "2026-08-24T17:55:27.259623609Z",
   "model": "glm-5.2"
 }

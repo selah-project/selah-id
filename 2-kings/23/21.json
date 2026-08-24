@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 23,
-  "translation": "Lalu raja memerintahkan ⟨את⟩ seluruh bangsa itu, katanya: “Buatlah Pesakh bagi Yahweh, Elohim kalian, seperti yang tertulis di atas gulitan ⟨ה⟩ perjanjian ini.”",
+  "translation": "Lalu raja itu memerintahkan seluruh umat itu, bunyinya: rayakanlah pesakh bagi Yahweh, Elohim kalian, seperti yang tertulis di atas kitab perjanjian ini.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "Lalu memerintahkan"
+      "gloss": "memerintahkan"
     },
     {
       "surface": "המלך",
-      "gloss": "raja"
+      "gloss": "raja itu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seluruh bangsa itu"
+      "marks": "seluruh umat"
     },
     {
       "surface": "כל",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "העם",
-      "gloss": "bangsa itu"
+      "gloss": "umat"
     },
     {
       "surface": "לאמר",
-      "gloss": "katanya"
+      "gloss": "bunyinya"
     },
     {
       "surface": "עשו",
-      "gloss": "Buatlah"
+      "gloss": "rayakanlah"
     },
     {
       "surface": "פסח",
-      "gloss": "Pesakh"
+      "gloss": "pesakh"
     },
     {
       "surface": "ליהוה",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "ספר",
-      "gloss": "gulitan"
+      "gloss": "kitab"
     },
     {
       "surface": "הברית",
-      "gloss": "⟨ה⟩ perjanjian"
+      "gloss": "perjanjian"
     },
     {
       "surface": "הזה",
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-08-08T08:14:42.057792189Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:22.606941063Z",
+  "model": "glm-5.3"
 }

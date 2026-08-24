@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 22,
-  "translation": "Jika matahari telah terbit atasnya, ada ⟨דמים⟩ darah baginya; ia wajib membayar ganti rugi penuh — jika ia tidak memiliki apa pun, maka ia dijual karena pencuriannya.",
+  "translation": "Jika matahari telah terbit atasnya, ⟨ada⟩ tuntutan darah baginya; ia harus sungguh-sungguh mengganti kerugian; jika ia tidak punya ⟨apa-apa⟩, maka ia dijual karena pencuriannya.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jika"
+      "gloss": "Jika"
     },
     {
       "surface": "זרחה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "דמים",
-      "gloss": "darah"
+      "gloss": "tuntutan darah"
     },
     {
       "surface": "לו",
@@ -33,33 +33,33 @@
     },
     {
       "surface": "שלם",
-      "gloss": "membayar ganti rugi"
+      "gloss": "harus mengganti"
     },
     {
       "surface": "ישלם",
-      "gloss": "ia wajib membayar"
+      "gloss": "sungguh-sungguh mengganti"
     },
     {
       "surface": "אם",
-      "gloss": "jika"
+      "gloss": "Jika"
     },
     {
       "surface": "אין",
-      "gloss": "tidak ada"
+      "gloss": "tidak punya"
     },
     {
       "surface": "לו",
-      "gloss": "baginya"
+      "gloss": "ia"
     },
     {
       "surface": "ונמכר",
-      "gloss": "dan ia dijual"
+      "gloss": "maka ia dijual"
     },
     {
       "surface": "בגנבתו",
       "gloss": "karena pencuriannya"
     }
   ],
-  "timestamp": "2026-08-08T10:30:57.800092616Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:32.107419632Z",
+  "model": "glm-5.3"
 }

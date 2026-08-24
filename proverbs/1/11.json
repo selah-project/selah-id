@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 1,
-  "translation": "Jika mereka berkata, “Mari bersama kami, marilah kita mengintai untuk ⟨darah⟩, marilah kita menyergap ⟨terhadap⟩ orang yang tidak bersalah tanpa sebab,”",
+  "translation": "Jika mereka berkata, “Mari ⟨את⟩ bersama kami, marilah kita mengintai untuk ⟨darah⟩, marilah kita menyergap ⟨terhadap⟩ orang yang tidak bersalah tanpa sebab,”",
   "tokens": [
     {
       "surface": "אם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אִ֫תָּ֥נוּ",
-      "gloss": "bersama kami"
+      "gloss": "⟨את⟩ bersama kami"
     },
     {
       "surface": "נֶאֶרְבָ֥ה",
@@ -44,6 +44,6 @@
       "gloss": "tanpa sebab"
     }
   ],
-  "timestamp": "2026-08-08T11:47:48.515129449Z",
+  "timestamp": "2026-08-24T17:55:27.096813476Z",
   "model": "glm-5.2"
 }

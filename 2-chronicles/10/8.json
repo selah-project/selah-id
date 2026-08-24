@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 10,
-  "translation": "Tetapi ⟨ia⟩ meninggalkan ⟨את⟩ nasihat para tua-tua yang telah mereka nasihatkan kepadanya, lalu ia berkonsultasi dengan ⟨את⟩ anak-anak muda yang telah dibesarkan bersamanya, yang berdiri di hadapannya.",
+  "translation": "Tetapi ⟨ia⟩ meninggalkan ⟨את⟩ nasihat para tua-tua yang telah mereka nasihatkan kepadanya, lalu ia berkonsultasi dengan ⟨את⟩ anak-anak muda yang telah dibesarkan ⟨את⟩ bersamanya, yang berdiri di hadapannya.",
   "tokens": [
     {
       "surface": "ויעזב",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "העמדים",
@@ -66,6 +66,6 @@
       "gloss": "di hadapannya"
     }
   ],
-  "timestamp": "2026-08-08T10:13:04.489111067Z",
+  "timestamp": "2026-08-24T17:55:27.160573673Z",
   "model": "glm-5.2"
 }

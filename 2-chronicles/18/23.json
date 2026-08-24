@@ -1,90 +1,90 @@
 {
- "tier": "glm-5.2",
- "verse": 23,
- "ref": "2-chronicles 18:23",
- "book": "2-chronicles",
- "lang": "id",
- "chapter": 18,
- "translation": "Lalu Tsidkijah bin Kenaanah mendekat dan memukul ⟨את⟩ Mikhayhu di pipi, serta berkata, “Ke mana ⟨ini⟩—jalan yang dilalui roh Yahweh meninggalkan aku untuk berfirman ⟨את⟩ kepadamu?”",
- "tokens": [
-  {
-   "surface": "ויגש",
-   "gloss": "Lalu mendekat"
-  },
-  {
-   "surface": "צדקיהו",
-   "gloss": "Tsidkijah"
-  },
-  {
-   "surface": "בן",
-   "gloss": "bin"
-  },
-  {
-   "surface": "כנענה",
-   "gloss": "Kenaanah"
-  },
-  {
-   "surface": "ויך",
-   "gloss": "dan memukul"
-  },
-  {
-   "surface": "את",
-   "gloss": "⟨את⟩",
-   "marks": "Mikhayhu"
-  },
-  {
-   "surface": "מיכיהו",
-   "gloss": "Mikhayhu"
-  },
-  {
-   "surface": "על",
-   "gloss": "di"
-  },
-  {
-   "surface": "הלחי",
-   "gloss": "pipi"
-  },
-  {
-   "surface": "ויאמר",
-   "gloss": "serta berkata"
-  },
-  {
-   "surface": "אי",
-   "gloss": "Ke mana"
-  },
-  {
-   "surface": "זה",
-   "gloss": "⟨ini⟩"
-  },
-  {
-   "surface": "הדרך",
-   "gloss": "jalan"
-  },
-  {
-   "surface": "עבר",
-   "gloss": "yang dilalui"
-  },
-  {
-   "surface": "רוח",
-   "gloss": "roh"
-  },
-  {
-   "surface": "יהוה",
-   "gloss": "Yahweh"
-  },
-  {
-   "surface": "מאתי",
-   "gloss": "meninggalkan aku"
-  },
-  {
-   "surface": "לדבר",
-   "gloss": "untuk berfirman"
-  },
-  {
-   "surface": "אתך",
-   "gloss": "⟨את⟩ kepadamu"
-  }
- ],
- "timestamp": "2026-08-09T01:44:18.338323285Z",
- "model": "glm-5.2"
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 18:23",
+  "book": "2-chronicles",
+  "lang": "id",
+  "chapter": 18,
+  "translation": "Lalu Tsidkijah bin Kenaanah mendekat dan memukul ⟨את⟩ Mikhayhu di pipi, serta berkata, “Ke mana ⟨ini⟩—jalan yang dilalui roh Yahweh ⟨את⟩ meninggalkan aku untuk berfirman ⟨את⟩ kepadamu?”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Lalu mendekat"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenaanah"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhayhu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "הלחי",
+      "gloss": "pipi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "serta berkata"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Ke mana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ini⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yang dilalui"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ meninggalkan aku"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "untuk berfirman"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kepadamu"
+    }
+  ],
+  "timestamp": "2026-08-24T17:55:27.163575154Z",
+  "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan mereka yang menanti-nantikan Yahweh akan menukar kekuatan ⟨⟨mereka⟩⟩; mereka akan naik dengan sayap seperti burung-burung nasar; mereka akan berlari dan tidak keletihan, mereka akan berjalan dan tidak lelah.",
+  "translation": "Tetapi mereka yang menanti-nantikan Yahweh akan menukar kekuatan; mereka akan terbang naik dengan sayap ⟨seperti⟩ elang; mereka akan berlari dan tidak akan lesu; mereka akan berjalan dan tidak akan loyo.",
   "tokens": [
     {
       "surface": "וקוי",
-      "gloss": "Dan mereka yang menanti-nantikan"
+      "gloss": "Tetapi mereka yang menanti-nantikan"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יעלו",
-      "gloss": "mereka akan naik"
+      "gloss": "mereka akan terbang naik"
     },
     {
       "surface": "אבר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כנשרים",
-      "gloss": "seperti burung-burung nasar"
+      "gloss": "seperti elang"
     },
     {
       "surface": "ירוצו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ייגעו",
-      "gloss": "keletihan"
+      "gloss": "akan lesu"
     },
     {
       "surface": "ילכו",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "ייעפו",
-      "gloss": "lelah"
+      "gloss": "akan loyo"
     }
   ],
-  "timestamp": "2026-08-08T08:24:28.960814731Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:25.229963656Z",
+  "model": "glm-5.3"
 }

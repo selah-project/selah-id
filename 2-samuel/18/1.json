@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 18,
-  "translation": "Lalu Dawid mendaftarkan ⟨את⟩ rakyat yang bersamanya, dan ia menempatkan atas mereka panglima-panglima ribuan dan panglima-panglima ratusan.",
+  "translation": "Lalu Dawid mendaftarkan ⟨את⟩ rakyat yang ⟨את⟩ bersamanya, dan ia menempatkan atas mereka panglima-panglima ribuan dan panglima-panglima ratusan.",
   "tokens": [
     {
       "surface": "ויפקד",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "וישם",
@@ -57,6 +57,6 @@
       "gloss": "ratusan"
     }
   ],
-  "timestamp": "2026-08-08T07:56:58.329293470Z",
+  "timestamp": "2026-08-24T17:55:27.062489168Z",
   "model": "glm-5.2"
 }

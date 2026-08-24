@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan berkatalah Mosheh kepada ⟨האלהים⟩: “Siapakah aku, bahwa aku akan pergi kepada Paroh dan bahwa aku akan membawa keluar ⟨את⟩ beni-Yisra'el dari Mitsrayim?”",
+  "translation": "Lalu Mosheh berkata kepada Elohim: “Siapakah aku, bahwa aku pergi kepada Paroh, dan bahwa aku membawa keluar ⟨את⟩ bani Yisrael dari Mitsrayim?”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨ha-Elohim⟩"
+      "gloss": "Elohim"
     },
     {
       "surface": "מי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אלך",
-      "gloss": "aku akan pergi"
+      "gloss": "aku pergi"
     },
     {
       "surface": "אל",
@@ -53,26 +53,26 @@
     },
     {
       "surface": "אוציא",
-      "gloss": "aku akan membawa keluar"
+      "gloss": "aku membawa keluar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "beni-Yisra'el"
+      "marks": "bani Yisrael"
     },
     {
       "surface": "בני",
-      "gloss": "beni-"
+      "gloss": "bani"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ממצרים",
       "gloss": "dari Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-08T06:56:12.197610250Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:49.265301006Z",
+  "model": "glm-5.3"
 }

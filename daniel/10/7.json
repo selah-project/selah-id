@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "id",
   "chapter": 10,
-  "translation": "Dan aku melihat, aku, Daniyel, sendirian, ⟨את⟩ penglihatan itu, dan ⟨ה⟩orang-orang yang ada bersamaku tidak melihat ⟨את⟩ penglihatan itu; tetapi kegemetaran yang besar jatuh atas mereka, dan mereka melarikan diri dalam persembunyian.",
+  "translation": "Dan aku, Daniyel, seorang diri melihat ⟨את⟩ penglihatan itu; tetapi orang-orang yang bersama-sama dengan aku tidak melihat ⟨את⟩ penglihatan itu — hanya kedahsyatan besar jatuh ke atas mereka, dan mereka melarikan diri sambil bersembunyi.",
   "tokens": [
     {
       "surface": "וראיתי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לבדי",
-      "gloss": "sendirian"
+      "gloss": "seorang diri"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והאנשים",
-      "gloss": "dan orang-orang"
+      "gloss": "tetapi orang-orang"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "bersamaku"
+      "gloss": "bersama-sama dengan aku"
     },
     {
       "surface": "לא",
@@ -67,15 +67,15 @@
     },
     {
       "surface": "אבל",
-      "gloss": "tetapi"
+      "gloss": "hanya (namun)"
     },
     {
       "surface": "חרדה",
-      "gloss": "kegemetaran"
+      "gloss": "kedahsyatan"
     },
     {
       "surface": "גדלה",
-      "gloss": "yang besar"
+      "gloss": "besar"
     },
     {
       "surface": "נפלה",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "atas mereka"
+      "gloss": "ke atas mereka"
     },
     {
       "surface": "ויברחו",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "בהחבא",
-      "gloss": "dalam persembunyian"
+      "gloss": "sambil bersembunyi"
     }
   ],
-  "timestamp": "2026-08-08T09:55:47.011635331Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:52.663736763Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 41,
-  "translation": "Dan diukir pada mereka, pada pintu-pintu ⟨הַ⟩ haikal: keruvim dan pohon-pohon palem, seperti yang dibuat untuk dinding-dinding, dan ⟨ada⟩ balok kayu tebal di depan ruang depan dari sebelah luar.",
+  "translation": "Dan diukir pada mereka, pada pintu-pintu ⟨הֵיכָל⟩ itu, keruvim dan pohon timur, seperti yang diukir pada dinding-dinding; dan balok kayu ⟨di hadapan⟩ muka serambi itu dari sebelah luar.",
   "tokens": [
     {
       "surface": "ועשויה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ההיכל",
-      "gloss": "haikal"
+      "gloss": "haiheikhal"
     },
     {
       "surface": "כרובים",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "ותמרים",
-      "gloss": "dan pohon-pohon palem"
+      "gloss": "dan pohon timur"
     },
     {
       "surface": "כאשר",
-      "gloss": "seperti"
+      "gloss": "seperti yang"
     },
     {
       "surface": "עשוים",
-      "gloss": "yang dibuat"
+      "gloss": "diukir"
     },
     {
       "surface": "לקירות",
-      "gloss": "untuk dinding-dinding"
+      "gloss": "pada dinding-dinding"
     },
     {
       "surface": "ועב",
-      "gloss": "dan balok tebal"
+      "gloss": "dan balok"
     },
     {
       "surface": "עץ",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "di depan"
+      "gloss": "pada"
     },
     {
       "surface": "פני",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "האולם",
-      "gloss": "ruang depan"
+      "gloss": "serambi itu"
     },
     {
       "surface": "מהחוץ",
       "gloss": "dari sebelah luar"
     }
   ],
-  "timestamp": "2026-08-08T11:27:23.844393363Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:38.192481672Z",
+  "model": "glm-5.3"
 }

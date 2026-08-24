@@ -5,50 +5,50 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 4,
-  "translation": "Seperti penjaga-penjaga ladang mereka melingkupinya dari segala penjuru; sebab terhadap aku dia telah memberontak, ⟨נְאֻם⟩ Yahweh.",
+  "translation": "Seperti penjaga-penjaga ladang, mereka berdiri mengepungnya dari segala penjuru; sebab ⟨את⟩ terhadap-Ku ⟨dia⟩ memberontak, oracle Yahweh.",
   "tokens": [
     {
-      "surface": "כְּשֹׁמְרֵ֣י",
-      "gloss": "seperti penjaga-penjaga"
+      "surface": "כשמרי",
+      "gloss": "Seperti penjaga-penjaga"
     },
     {
-      "surface": "שָׂדַ֔י",
+      "surface": "שדי",
       "gloss": "ladang"
     },
     {
-      "surface": "הָי֥וּ",
-      "gloss": "mereka ada"
+      "surface": "היו",
+      "gloss": "mereka berdiri"
     },
     {
-      "surface": "עָלֶ֖יהָ",
-      "gloss": "terhadapnya"
+      "surface": "עליה",
+      "gloss": "mengepungnya"
     },
     {
-      "surface": "מִסָּבִ֑יב",
+      "surface": "מסביב",
       "gloss": "dari segala penjuru"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "sebab"
     },
     {
-      "surface": "אֹתִ֥י",
-      "gloss": "⟨את⟩",
-      "marks": "aku (objek langsung)"
+      "surface": "אתי",
+      "gloss": "⟨את⟩ terhadap-Ku",
+      "marks": "memberontak (אותי di sini kata ganti 'aku', bukan penanda objek biasa)"
     },
     {
-      "surface": "מָרָ֖תָה",
-      "gloss": "dia telah memberontak"
+      "surface": "מרתה",
+      "gloss": "dia memberontak"
     },
     {
-      "surface": "נְאֻ֥ם",
-      "gloss": "⟨נְאֻם⟩"
+      "surface": "נאם",
+      "gloss": "oracle"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-09T01:41:48.155934089Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:31.797693113Z",
+  "model": "glm-5.3"
 }

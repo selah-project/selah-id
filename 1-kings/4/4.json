@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 4,
-  "translation": "U Bnayah ben Yehoyada ⟨⟨di atas⟩⟩ pasukan; dan Tzadok dan Evyatar, imam-imam.",
+  "translation": "dan Benayahu bin Yehoyada ⟨adalah⟩ atas tentara; dan Tsadok dan Evyatar ⟨adalah⟩ para imam;",
   "tokens": [
     {
       "surface": "ובניהו",
-      "gloss": "dan Bnayah"
+      "gloss": "dan Benayahu"
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "bin"
     },
     {
       "surface": "יהוידע",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨di atas⟩"
+      "gloss": "atas"
     },
     {
       "surface": "הצבא",
-      "gloss": "pasukan"
+      "gloss": "tentara itu"
     },
     {
       "surface": "וצדוק",
-      "gloss": "dan Tzadok"
+      "gloss": "dan Tsadok"
     },
     {
       "surface": "ואביתר",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "כהנים",
-      "gloss": "imam-imam"
+      "gloss": "para imam"
     }
   ],
-  "timestamp": "2026-08-08T11:02:14.642249170Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:03.682377698Z",
+  "model": "glm-5.3"
 }

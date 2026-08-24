@@ -5,19 +5,19 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 17,
-  "translation": "Batu ⟨yang ber⟩-חן ⟨adalah⟩ suap di mata pemiliknya; ke segala yang ia hadapi ia bertindak bijak.",
+  "translation": "Batu berharga ⟨adalah⟩ suap itu di mata pemiliknya; ke mana pun ia berpaling, ia berhasil.",
   "tokens": [
     {
       "surface": "אבן",
-      "gloss": "batu"
+      "gloss": "Batu"
     },
     {
       "surface": "חן",
-      "gloss": "⟨yang ber⟩-חן"
+      "gloss": "berharga"
     },
     {
       "surface": "השחד",
-      "gloss": "suap"
+      "gloss": "suap itu"
     },
     {
       "surface": "בעיני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ke"
+      "gloss": "ke mana pun"
     },
     {
       "surface": "כל",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "יפנה",
-      "gloss": "ia hadapi"
+      "gloss": "ia berpaling"
     },
     {
       "surface": "ישכיל",
-      "gloss": "ia bertindak bijak"
+      "gloss": "ia berhasil"
     }
   ],
-  "timestamp": "2026-08-08T09:33:31.036600642Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:12.304188733Z",
+  "model": "glm-5.3"
 }

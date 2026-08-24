@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan ⟨ia⟩ berkata, “Baik. Aku akan mengikat ⟨dengan⟩ engkau perjanjian, hanya satu hal aku minta daripadamu, yakni: engkau tidak akan melihat ⟨את⟩ wajahku, kecuali sebelum engkau membawa ⟨את⟩ Mikhal putri Sha-ul saat engkau datang untuk melihat ⟨את⟩ wajahku.”",
+  "translation": "Dan ⟨ia⟩ berkata, “Baik. Aku akan mengikat ⟨dengan⟩ engkau perjanjian, hanya satu hal aku minta ⟨את⟩ daripadamu, yakni: engkau tidak akan melihat ⟨את⟩ wajahku, kecuali sebelum engkau membawa ⟨את⟩ Mikhal putri Sha-ul saat engkau datang untuk melihat ⟨את⟩ wajahku.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "dengan engkau"
+      "gloss": "⟨את⟩ dengan engkau"
     },
     {
       "surface": "ברית",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "daripadamu"
+      "gloss": "⟨את⟩ daripadamu"
     },
     {
       "surface": "לאמר",
@@ -127,6 +127,6 @@
       "gloss": "wajahku"
     }
   ],
-  "timestamp": "2026-08-08T07:53:22.569233017Z",
+  "timestamp": "2026-08-24T17:55:27.051632034Z",
   "model": "glm-5.2"
 }

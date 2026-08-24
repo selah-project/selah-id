@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "id",
   "chapter": 11,
-  "translation": "Maka berangkatlah Dawid dan seluruh Yisra'el ke Yerushalayim — ⟨itulah⟩ Yevus — dan di sana ⟨adalah⟩ orang Yevus, penduduk ⟨כל⟩ negeri itu.",
+  "translation": "Lalu pergilah Dawid dan seluruh Yisrael ke Yerushalayim — inilah Yevus — dan di sanalah ⟨ada⟩ orang Yevus, penduduk negeri itu.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Maka berangkatlah"
+      "gloss": "pergilah"
     },
     {
       "surface": "דויד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ירושלם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨itulah⟩"
+      "gloss": "inilah"
     },
     {
       "surface": "יבוס",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ושם",
-      "gloss": "dan di sana"
+      "gloss": "dan di sanalah"
     },
     {
       "surface": "היבוסי",
@@ -52,6 +52,6 @@
       "gloss": "negeri itu"
     }
   ],
-  "timestamp": "2026-08-08T10:05:56.500967662Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:44.704777710Z",
+  "model": "glm-5.3"
 }

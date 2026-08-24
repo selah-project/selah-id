@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "id",
   "chapter": 16,
-  "translation": "Lalu ia memberitahukan ⟨את⟩ segala hatinya kepadanya, dan berkata kepadanya, “Pisau cukur belum pernah naik ke atas kepalaku, karena nazir Elohim aku dari kandungan ibuku; jika aku dicukur dan berlalulah dariku kekuatanku, maka aku akan menjadi lemah dan aku akan menjadi seperti semua ⟨the⟩ manusia.”",
+  "translation": "Lalu ia menceritakan kepadanya ⟨את⟩ segenap hatinya, dan berkata kepadanya, “Pisau cukur belum pernah naik ke atas kepalaku, sebab aku ⟨⟨adalah⟩⟩ nazir bagi Elohim sejak dari kandungan ibuku. Jika kepalaku dicukur, maka kekuatanku akan pergi dari padaku, dan aku akan menjadi lemah, dan aku akan menjadi seperti semua manusia.”",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "Lalu ia memberitahukan"
+      "gloss": "menceritakan"
     },
     {
       "surface": "לה",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "segala hatinya"
+      "marks": "segenap hatinya"
     },
     {
       "surface": "כל",
-      "gloss": "segala"
+      "gloss": "segenap"
     },
     {
       "surface": "לבו",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan berkata"
+      "gloss": "berkata"
     },
     {
       "surface": "לה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "נזיר",
@@ -90,11 +90,11 @@
     },
     {
       "surface": "וסר",
-      "gloss": "dan berlalu"
+      "gloss": "pergi"
     },
     {
       "surface": "ממני",
-      "gloss": "dariku"
+      "gloss": "dari padaku"
     },
     {
       "surface": "כחי",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "וחליתי",
-      "gloss": "maka aku akan menjadi lemah"
+      "gloss": "aku menjadi lemah"
     },
     {
       "surface": "והייתי",
-      "gloss": "dan aku akan menjadi"
+      "gloss": "aku menjadi"
     },
     {
       "surface": "ככל",
@@ -117,6 +117,6 @@
       "gloss": "manusia"
     }
   ],
-  "timestamp": "2026-08-08T12:14:33.986541036Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:20.578878945Z",
+  "model": "glm-5.3"
 }

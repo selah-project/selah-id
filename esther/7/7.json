@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "id",
   "chapter": 7,
-  "translation": "Lalu sang raja bangkit dalam murkanya dari perjamuan anggur itu ke taman ⟨di⟩ istana, dan Haman berdiri untuk memohon nyawanya kepada Ester sang ratu, sebab ia melihat bahwa malapetaka telah ditentukan terhadapnya oleh sang raja.",
+  "translation": "Lalu sang raja bangkit dalam murkanya dari perjamuan anggur itu ke taman ⟨di⟩ istana, dan Haman berdiri untuk memohon nyawanya kepada Ester sang ratu, sebab ia melihat bahwa malapetaka telah ditentukan terhadapnya ⟨את⟩ oleh sang raja.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "מאת",
-      "gloss": "oleh"
+      "gloss": "⟨את⟩ oleh"
     },
     {
       "surface": "המלך",
       "gloss": "sang raja"
     }
   ],
-  "timestamp": "2026-08-08T13:12:53.036381826Z",
+  "timestamp": "2026-08-24T17:55:27.093059580Z",
   "model": "glm-5.2"
 }

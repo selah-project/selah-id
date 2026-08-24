@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "id",
   "chapter": 13,
-  "translation": "Pada hari itu dibacakan dari sefer Moshe di telinga ⟨ואת⟩ kaum itu, dan ditemukan tertulis di dalamnya bahwa tidak boleh masuk orang Amon dan orang Moab ke dalam qahal haElohim sampai selama-lamanya.",
+  "translation": "Pada hari itu dibacakan dari kitab Moshe di telinga ⟨the⟩ umat, dan didapati tertulis di dalamnya, bahwa orang Amon dan orang Moav tidak boleh masuk ke dalam jemaat haElohim sampai selama-lamanya.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "pada hari"
+      "gloss": "Pada hari"
     },
     {
       "surface": "ההוא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בספר",
-      "gloss": "dari sefer"
+      "gloss": "dari kitab"
     },
     {
       "surface": "משה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "kaum itu"
+      "gloss": "umat"
     },
     {
       "surface": "ונמצא",
-      "gloss": "dan ditemukan"
+      "gloss": "dan didapati"
     },
     {
       "surface": "כתוב",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ומאבי",
-      "gloss": "dan orang Moab"
+      "gloss": "dan orang Moav"
     },
     {
       "surface": "בקהל",
-      "gloss": "ke dalam qahal"
+      "gloss": "ke dalam jemaat"
     },
     {
       "surface": "האלהים",
@@ -84,6 +84,6 @@
       "gloss": "selama-lamanya"
     }
   ],
-  "timestamp": "2026-08-08T10:02:12.547439447Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:54.696188559Z",
+  "model": "glm-5.3"
 }

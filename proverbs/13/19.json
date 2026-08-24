@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 13,
-  "translation": "Keinginan yang terpenuhi terasa manis bagi ⟨נפש⟩, tetapi kekejahan bagi orang bodoh ⟨adalah⟩ berpaling dari kejahatan.",
+  "translation": "Keinginan yang terwujud manis bagi ⟨the⟩ nefesh, tetapi kekejian bagi orang-orang bodoh ⟨adalah⟩ berpaling dari kejahatan.",
   "tokens": [
     {
       "surface": "תאוה",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "נהיה",
-      "gloss": "yang terpenuhi"
+      "gloss": "yang terwujud"
     },
     {
       "surface": "תערב",
-      "gloss": "terasa manis"
+      "gloss": "manis bagi"
     },
     {
       "surface": "לנפש",
-      "gloss": "bagi ⟨נפש⟩"
+      "gloss": "nefesh"
     },
     {
       "surface": "ותועבת",
-      "gloss": "dan kekejahan"
+      "gloss": "tetapi kekejian bagi"
     },
     {
       "surface": "כסילים",
-      "gloss": "bagi orang bodoh"
+      "gloss": "orang-orang bodoh"
     },
     {
       "surface": "סור",
@@ -40,6 +40,6 @@
       "gloss": "dari kejahatan"
     }
   ],
-  "timestamp": "2026-08-08T09:32:18.312509075Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:58.351055995Z",
+  "model": "glm-5.3"
 }

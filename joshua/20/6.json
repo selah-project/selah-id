@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan ia harus tinggal di kota itu sampai ia berdiri di hadapan ⟨הָעֵדָה⟩ untuk penghakiman, sampai kematian ha-kohen ha-gadol yang akan ⟨menjabat⟩ pada hari-hari itu. Kemudian pembunuh itu boleh kembali dan masuk ke kotanya dan ke rumahnya, ke kota dari mana ia melarikan diri.",
+  "translation": "Dan ia harus tinggal di kota itu sampai ia berdiri di hadapan ⟨ה⟩ jemaat untuk penghakiman, sampai matinya kohen hagadol yang ada pada hari-hari itu; sesudah itu pembunuh itu boleh kembali dan pulang ke kotanya dan ke rumahnya, ke kota yang darinya ia melarikan diri.",
   "tokens": [
     {
       "surface": "וישב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "העדה",
-      "gloss": "jemaah"
+      "gloss": "jemaat"
     },
     {
       "surface": "למשפט",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "מות",
-      "gloss": "kematian"
+      "gloss": "matinya"
     },
     {
       "surface": "הכהן",
-      "gloss": "ha-kohen"
+      "gloss": "kohen itu"
     },
     {
       "surface": "הגדול",
-      "gloss": "ha-gadol"
+      "gloss": "yang besar"
     },
     {
       "surface": "אשר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "akan"
+      "gloss": "ada"
     },
     {
       "surface": "בימים",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אז",
-      "gloss": "Kemudian"
+      "gloss": "sesudah itu"
     },
     {
       "surface": "ישוב",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "הרוצח",
-      "gloss": "pembunuh"
+      "gloss": "pembunuh itu"
     },
     {
       "surface": "ובא",
-      "gloss": "dan masuk"
+      "gloss": "dan pulang"
     },
     {
       "surface": "אל",
@@ -109,11 +109,11 @@
     },
     {
       "surface": "העיר",
-      "gloss": "kota"
+      "gloss": "kota itu"
     },
     {
       "surface": "אשר",
-      "gloss": "dari mana"
+      "gloss": "yang"
     },
     {
       "surface": "נס",
@@ -124,6 +124,6 @@
       "gloss": "dari sana"
     }
   ],
-  "timestamp": "2026-08-08T07:38:00.992553865Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:39.922942936Z",
+  "model": "glm-5.3"
 }

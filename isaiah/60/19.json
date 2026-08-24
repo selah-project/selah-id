@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 60,
-  "translation": "Tidak akan ada lagi bagimu matahari sebagai terang di waktu siang, dan sebagai purnama bulan tidak akan bercahaya bagimu; dan Yahweh akan menjadi bagimu terang kekal, dan Elohim-将成为mu sebagai keagunganmu.",
+  "translation": "Tidak akan ada lagi bagimu matahari sebagai cahaya pada waktu siang, dan kilauan bulan tidak akan menerangi bagimu; dan Yahweh akan menjadi bagimu cahaya kekal, dan Elohim-mu sebagai keagunganmu.",
   "tokens": [
     {
       "surface": "לא",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "לאור",
-      "gloss": "sebagai terang"
+      "gloss": "sebagai cahaya"
     },
     {
       "surface": "יומם",
-      "gloss": "di waktu siang"
+      "gloss": "pada waktu siang"
     },
     {
       "surface": "ולנגה",
-      "gloss": "dan sebagai purnama"
+      "gloss": "dan kilauan"
     },
     {
       "surface": "הירח",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יאיר",
-      "gloss": "akan bercahaya"
+      "gloss": "akan menerangi"
     },
     {
       "surface": "לך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "dan akan"
+      "gloss": "dan akan menjadi"
     },
     {
       "surface": "לך",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "לאור",
-      "gloss": "sebagai terang"
+      "gloss": "cahaya"
     },
     {
       "surface": "עולם",
@@ -84,6 +84,6 @@
       "gloss": "sebagai keagunganmu"
     }
   ],
-  "timestamp": "2026-08-08T08:28:58.150084051Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:32.854038409Z",
+  "model": "glm-5.3"
 }

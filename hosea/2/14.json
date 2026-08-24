@@ -5,19 +5,19 @@
   "book": "hosea",
   "lang": "id",
   "chapter": 2,
-  "translation": "Aku akan membuat tandus ⟨את⟩ pohon anggurnya dan ⟨את⟩ pohon aranya yang katanya, “Upah-upah mereka bagi aku, yang diberikan kepadaku oleh kekasih-kekasihku.” Aku akan menjadikannya ⟨ליער⟩ hutan belantara, dan binatang-binatang lapangan akan memakannya.",
+  "translation": "Dan Aku akan membuat tandus kebun anggurnya dan pohon ara miliknya, yang katanya, “Ini adalah upahku yang diberikan kepadaku oleh kekasih-kekasihku”; dan Aku akan mengubahnya menjadi hutan belukar, dan hewan-hewan ⟨ה⟩ padang akan memakannya.",
   "tokens": [
     {
       "surface": "והשמתי",
-      "gloss": "dan aku akan membuat tandus"
+      "gloss": "Dan Aku akan membuat tandus"
     },
     {
       "surface": "גפנה",
-      "gloss": "pohon anggurnya"
+      "gloss": "kebun anggurnya"
     },
     {
       "surface": "ותאנתה",
-      "gloss": "dan pohon aranya"
+      "gloss": "dan pohon ara miliknya"
     },
     {
       "surface": "אשר",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אתנה",
-      "gloss": "upah-upah"
+      "gloss": "upah"
     },
     {
       "surface": "המה",
-      "gloss": "mereka"
+      "gloss": "Ini adalah"
     },
     {
       "surface": "לי",
-      "gloss": "bagi aku"
+      "gloss": "bagiku"
     },
     {
       "surface": "אשר",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ושמתים",
-      "gloss": "dan aku akan menjadikannya"
+      "gloss": "dan Aku akan mengubahnya"
     },
     {
       "surface": "ליער",
-      "gloss": "⟨ליער⟩ hutan belantara"
+      "gloss": "menjadi hutan belukar"
     },
     {
       "surface": "ואכלתם",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "חית",
-      "gloss": "binatang-binatang"
+      "gloss": "hewan-hewan"
     },
     {
       "surface": "השדה",
-      "gloss": "lapangan"
+      "gloss": "⟨ה⟩ padang"
     }
   ],
-  "timestamp": "2026-08-08T08:56:27.160944685Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:42.749889387Z",
+  "model": "glm-5.3"
 }

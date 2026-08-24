@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 21,
-  "translation": "Lalu berkatalah ⟨sang⟩ imam: “Pedang Goliat ⟨ה⟩ Pelishti itu, yang kausebab di lembah ha-Elah — lihat, ia terbungkus dalam kain di belakang ⟨ה⟩ efod. Jika ⟨את⟩ engkau ambil bagimu, ambillah, karena tidak ada yang lain selain dia di sini.” Lalu berkatalah Dawid: “Tidak ada yang seperti itu; berikanlah dia kepadaku.”",
+  "translation": "Lalu berkatalah imam itu: Pedang Goliat orang Pelishti itu, yang kaupukul di lembah Elah — lihat, ia terbungkus kain di belakang efod; jika enggan— ⟨את⟩-nya engkau ambil, ambillah, sebab tidak ada yang lain selain itu di sini. Lalu berkatalah David: Tidak ada yang seperti itu; berikanlah itu kepadaku.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dan berkatalah"
+      "gloss": "Lalu berkatalah"
     },
     {
       "surface": "הכהן",
-      "gloss": "sang imam"
+      "gloss": "imam itu"
     },
     {
       "surface": "חרב",
-      "gloss": "pedang"
+      "gloss": "Pedang"
     },
     {
       "surface": "גלית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "sang Pelishti"
+      "gloss": "orang Pelishti"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הכית",
-      "gloss": "kausebab"
+      "gloss": "kaupukul"
     },
     {
       "surface": "בעמק",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": "ha-Elah"
+      "gloss": "Elah"
     },
     {
       "surface": "הנה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בשמלה",
-      "gloss": "dalam kain"
+      "gloss": "kain"
     },
     {
       "surface": "אחרי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "האפוד",
-      "gloss": "sang efod"
+      "gloss": "efod"
     },
     {
       "surface": "אם",
@@ -74,7 +74,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "engkau ambil"
+      "marks": "pedang itu"
     },
     {
       "surface": "תקח",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "אין",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "זולתה",
-      "gloss": "selain"
+      "gloss": "selain itu"
     },
     {
       "surface": "בזה",
@@ -110,29 +110,29 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan berkatalah"
+      "gloss": "Lalu berkatalah"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "David"
     },
     {
       "surface": "אין",
-      "gloss": "tidak ada"
+      "gloss": "Tidak ada"
     },
     {
       "surface": "כמוה",
-      "gloss": "seperti itu"
+      "gloss": "yang seperti itu"
     },
     {
       "surface": "תננה",
-      "gloss": "berikanlah"
+      "gloss": "berikanlah itu"
     },
     {
       "surface": "לי",
       "gloss": "kepadaku"
     }
   ],
-  "timestamp": "2026-08-08T10:57:01.314908900Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:26.853811825Z",
+  "model": "glm-5.3"
 }

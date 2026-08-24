@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 16,
-  "translation": "Dan ia harus mengadakan pendamaian atas ⟨haqodesh⟩ itu karena ketidak najisan bani Yisrael, dan karena pelanggaran-pelanggaran mereka, segala dosa-dosa mereka; dan demikianlah ia harus melakukan bagi kemah perjumpaan itu, yang diam di antara mereka di tengah-tengah ketidak najisan mereka.",
+  "translation": "Dan ia harus mengadakan pendamaian atas ⟨haqodesh⟩ itu karena ketidak najisan bani Yisrael, dan karena pelanggaran-pelanggaran mereka, segala dosa-dosa mereka; dan demikianlah ia harus melakukan bagi kemah perjumpaan itu, yang diam ⟨את⟩ di antara mereka di tengah-tengah ketidak najisan mereka.",
   "tokens": [
     {
       "surface": "וכפר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "di antara mereka"
+      "gloss": "⟨את⟩ di antara mereka"
     },
     {
       "surface": "בתוך",
@@ -76,6 +76,6 @@
       "gloss": "ketidak najisan mereka"
     }
   ],
-  "timestamp": "2026-08-08T07:10:31.848277030Z",
+  "timestamp": "2026-08-24T17:55:27.213019489Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 24,
-  "translation": "Dan tuanku membuatku bersumpah, dengan berkata: Jangan kau ambil seorang ⟨את⟩ istri untuk anakku dari antara putri-putri orang Kenaan, yang ⟨אנכי⟩ diam di tanahnya:",
+  "translation": "Dan tuanku membuatku bersumpah, katanya: Janganlah kauambil istri untuk anakku dari antara anak-anak perempuan Kenaan, yang aku ini diam di tanahnya.",
   "tokens": [
     {
       "surface": "וישבעני",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "dengan berkata"
+      "gloss": "katanya"
     },
     {
       "surface": "לא",
-      "gloss": "jangan"
+      "gloss": "janganlah"
     },
     {
       "surface": "תקח",
-      "gloss": "kau ambil"
+      "gloss": "kauambil"
     },
     {
       "surface": "אשה",
-      "gloss": "seorang"
+      "gloss": "istri"
     },
     {
       "surface": "לבני",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מבנות",
-      "gloss": "dari antara putri-putri"
+      "gloss": "dari antara anak-anak perempuan"
     },
     {
       "surface": "הכנעני",
-      "gloss": "orang Kenaan"
+      "gloss": "Kenaan"
     },
     {
       "surface": "אשר",
@@ -60,6 +60,6 @@
       "gloss": "di tanahnya"
     }
   ],
-  "timestamp": "2026-08-08T06:48:29.798610336Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:52.275176124Z",
+  "model": "glm-5.3"
 }

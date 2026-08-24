@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 17,
-  "translation": "Maka sekarang, kiralah cepat-cepat dan beritahukanlah kepada Daud, katakan: Jangan bermalam malam ini di Arabot padang gurun itu, tetapi pastilah menyeberang, supaya jangan ditelan raja dan seluruh ⟨ה⟩ bangsa yang bersama dia.",
+  "translation": "Dan sekarang, kirimkanlah segera dan beritahukanlah kepada David, katakan: jangan bermalam malam ini di araba padang gurun, dan pasti menyeberanglah menyeberang, supaya jangan ditelan raja dan seluruh rakyat yang ⟨את⟩-nya bersama dia.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Maka sekarang"
+      "gloss": "Dan sekarang"
     },
     {
       "surface": "שלחו",
-      "gloss": "kiralah"
+      "gloss": "kirimkanlah"
     },
     {
       "surface": "מהרה",
-      "gloss": "cepat-cepat"
+      "gloss": "segera"
     },
     {
       "surface": "והגידו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לדוד",
-      "gloss": "kepada Daud"
+      "gloss": "kepada David"
     },
     {
       "surface": "לאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "Jangan"
+      "gloss": "jangan"
     },
     {
       "surface": "תלן",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "בערבות",
-      "gloss": "di Arabot"
+      "gloss": "di araba"
     },
     {
       "surface": "המדבר",
-      "gloss": "padang gurun itu"
+      "gloss": "padang gurun"
     },
     {
       "surface": "וגם",
-      "gloss": "tetapi pastilah"
+      "gloss": "dan pasti"
     },
     {
       "surface": "עבור",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "תעבור",
-      "gloss": "menyeberang"
+      "gloss": "menyeberanglah"
     },
     {
       "surface": "פן",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "למלך",
-      "gloss": "bagi raja"
+      "gloss": "raja"
     },
     {
       "surface": "ולכל",
-      "gloss": "dan bagi seluruh"
+      "gloss": "dan seluruh"
     },
     {
       "surface": "העם",
-      "gloss": "⟨ה⟩ bangsa"
+      "gloss": "rakyat"
     },
     {
       "surface": "אשר",
@@ -89,9 +89,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersama dia"
+      "gloss": "⟨את⟩ dia",
+      "marks": "bersama dia"
     }
   ],
-  "timestamp": "2026-08-08T12:16:08.571103425Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:25.164708472Z",
+  "model": "glm-5.3"
 }

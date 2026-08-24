@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 2,
-  "translation": "Dan untuk menyiapkan bagiku kayu dalam jumlah besar, karena ⟨ה⟩ rumah yang aku bangun ⟨itu⟩ besar dan menakjubkan.",
+  "translation": "dan untuk menyediakan bagiku kayu ⟨sebanyak-banyaknya⟩, sebab rumah yang kubangun ini akan besar dan mengagumkan.",
   "tokens": [
     {
       "surface": "ולהכין",
-      "gloss": "Dan untuk menyiapkan"
+      "gloss": "dan untuk menyediakan"
     },
     {
       "surface": "לי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לרב",
-      "gloss": "dalam jumlah besar"
+      "gloss": "sebanyak-banyaknya"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨ה⟩ rumah"
+      "gloss": "rumah"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בונה",
-      "gloss": "bangun"
+      "gloss": "kubangun"
     },
     {
       "surface": "גדול",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "והפלא",
-      "gloss": "dan menakjubkan"
+      "gloss": "dan mengagumkan"
     }
   ],
-  "timestamp": "2026-08-08T12:05:09.009798343Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:12.711135108Z",
+  "model": "glm-5.3"
 }

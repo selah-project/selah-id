@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 14,
-  "translation": "Dan berkatalah Mosheh kepada ⟨the⟩ bangsa itu: \"Janganlah takut, tegaklah berdiri dan lihatlah ⟨את⟩ keselamatan dari Yahweh yang akan diperbuat-Nya bagi kamu pada hari ini; karena ⟨orang-orang⟩ Mitsrayim yang kamu lihat hari ini, tidak akan kamu tambah melihat mereka lagi selama-lamanya.",
+  "translation": "Lalu Mosheh berkata kepada bangsa itu: “Janganlah takut, berdirilah tetap dan lihatlah keselamatan ⟨את⟩ yang akan dibuat Yahweh bagi kamu hari ini; sebab ⟨את⟩ Mitsrayim yang telah kamu lihat hari ini, tidak akan kamu melihat mereka lagi untuk selama-lamanya.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "Lalu berkata"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ bangsa itu"
+      "gloss": "bangsa itu"
     },
     {
       "surface": "אל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "kamu takut"
+      "gloss": "takut"
     },
     {
       "surface": "התיצבו",
-      "gloss": "tegaklah berdiri"
+      "gloss": "berdirilah tetap"
     },
     {
       "surface": "וראו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "Ia akan perbuat"
+      "gloss": "akan dibuat"
     },
     {
       "surface": "לכם",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "היום",
-      "gloss": "pada hari ini"
+      "gloss": "hari ini"
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "אשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ראיתם",
-      "gloss": "kamu lihat"
+      "gloss": "telah kamu lihat"
     },
     {
       "surface": "את",
@@ -99,11 +99,11 @@
     },
     {
       "surface": "תסיפו",
-      "gloss": "kamu akan tambah"
+      "gloss": "akan kamu (melanjutkan)"
     },
     {
       "surface": "לראתם",
-      "gloss": "untuk melihat mereka"
+      "gloss": "melihat mereka"
     },
     {
       "surface": "עוד",
@@ -111,13 +111,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "sampai"
+      "gloss": "untuk"
     },
     {
       "surface": "עולם",
       "gloss": "selama-lamanya"
     }
   ],
-  "timestamp": "2026-08-08T06:58:57.414384730Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:33.828674978Z",
+  "model": "glm-5.3"
 }

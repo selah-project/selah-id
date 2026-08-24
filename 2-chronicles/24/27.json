@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 24,
-  "translation": "Dan anak-anaknya, dan kelimpahan beban yang atasnya, dan pendirian ⟨בית⟩ Elohim — sungguh, mereka tertulis dalam tafsiran kitab raja-raja. Dan Amatsyahu putranya menjadi raja penggantinya.",
+  "translation": "Mengenai anak-anaknya, dan besarnya beban yang ⟨diletakkan⟩ atasnya, dan pendirian kembali rumah HaElohim — sesungguhnya semuanya itu tertulis dalam midrash kitab para raja. Dan Amatsyahu anaknya menjadi raja menggantikannya.",
   "tokens": [
     {
       "surface": "ובניו",
-      "gloss": "Dan anak-anaknya"
+      "gloss": "dan anak-anaknya"
     },
     {
       "surface": "ורב",
-      "gloss": "dan kelimpahan"
+      "gloss": "dan besarnya"
     },
     {
       "surface": "המשא",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "עליו",
-      "gloss": "yang atasnya"
+      "gloss": "atasnya"
     },
     {
       "surface": "ויסוד",
-      "gloss": "dan pendirian"
+      "gloss": "dan pendirian kembali"
     },
     {
       "surface": "בית",
-      "gloss": "⟨rumah⟩"
+      "gloss": "rumah"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "HaElohim"
     },
     {
       "surface": "הנם",
-      "gloss": "sungguh, mereka"
+      "gloss": "sesungguhnya semuanya itu"
     },
     {
       "surface": "כתובים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מדרש",
-      "gloss": "tafsiran"
+      "gloss": "midrash"
     },
     {
       "surface": "ספר",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "המלכים",
-      "gloss": "raja-raja"
+      "gloss": "para raja"
     },
     {
       "surface": "וימלך",
-      "gloss": "Dan ... menjadi raja"
+      "gloss": "dan menjadi raja"
     },
     {
       "surface": "אמציהו",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "בנו",
-      "gloss": "putranya"
+      "gloss": "anaknya"
     },
     {
       "surface": "תחתיו",
-      "gloss": "penggantinya"
+      "gloss": "menggantikannya"
     }
   ],
-  "timestamp": "2026-08-08T10:15:48.283778194Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:40.468372248Z",
+  "model": "glm-5.3"
 }

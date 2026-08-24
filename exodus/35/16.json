@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 35,
-  "translation": "⟨את⟩ mezbah korban bakaran, dan ⟨את⟩ jeruji tembaga yang ada padanya, ⟨את⟩ tiang-tiangnya, dan ⟨את⟩ segala perkakasnya, ⟨את》 bejana dan ⟨את⟩ alasnya",
+  "translation": "⟨את⟩ mezbah korban bakaran, dan ⟨את⟩ kisi-kisi tembaganya yang ada padanya, ⟨את⟩ galang-galangnya, dan ⟨את⟩ segala perkakasnya; ⟨את⟩ bejana pembasuhan dan ⟨את⟩ alasannya.",
   "tokens": [
     {
       "surface": "את",
@@ -23,11 +23,11 @@
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "jeruji tembaga"
+      "marks": "kisi-kisi tembaga"
     },
     {
       "surface": "מכבר",
-      "gloss": "jeruji"
+      "gloss": "kisi-kisi"
     },
     {
       "surface": "הנחשת",
@@ -44,11 +44,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tiang-tiangnya"
+      "marks": "galang-galangnya"
     },
     {
       "surface": "בדיו",
-      "gloss": "tiang-tiangnya"
+      "gloss": "galang-galangnya"
     },
     {
       "surface": "ואת",
@@ -66,22 +66,22 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bejana"
+      "marks": "bejana pembasuhan"
     },
     {
       "surface": "הכיר",
-      "gloss": "bejana"
+      "gloss": "bejana pembasuhan"
     },
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "alasnya"
+      "marks": "alasannya"
     },
     {
       "surface": "כנו",
-      "gloss": "alasnya"
+      "gloss": "alasannya"
     }
   ],
-  "timestamp": "2026-08-08T07:04:05.114275293Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:41.084231611Z",
+  "model": "glm-5.3"
 }

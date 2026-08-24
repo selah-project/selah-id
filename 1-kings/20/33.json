@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan para ⟨אישׁ⟩ itu menyimpulkan-tanda dan mereka segera menangkap ⟨hal tersebut⟩ daripadanya, dan mereka berkata, “Saudaramu Ben-Hadad.” Maka berkatalah ⟨raja⟩, “Masuklah, bawalah dia.” Maka keluarlah Ben-Hadad kepadanya, dan ⟨raja⟩ menaikkannya ke atas kereta.",
+  "translation": "Lalu orang-orang itu menanggap pertanda, dan mereka segera menyergapnya dari mulutnya, dan berkata, “Saudaramu ⟨adalah⟩ Ben-Hadad.” Maka ia berkata, “Masuklah, bawalah dia.” Lalu keluarlah Ben-Hadad mendapatkan dia, dan ia menaakkannya ke atas kereta.",
   "tokens": [
     {
       "surface": "והאנשים",
-      "gloss": "Dan para orang"
+      "gloss": "Lalu orang-orang itu"
     },
     {
       "surface": "ינחשו",
-      "gloss": "menyimpulkan-tanda"
+      "gloss": "menanggap pertanda"
     },
     {
       "surface": "וימהרו",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ויחלטו",
-      "gloss": "menangkap"
+      "gloss": "menyergapnya"
     },
     {
       "surface": "הממנו",
-      "gloss": "daripadanya"
+      "gloss": "darinya"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "dan mereka berkata"
+      "gloss": "dan berkata"
     },
     {
       "surface": "אחיך",
-      "gloss": "saudaramu"
+      "gloss": "Saudaramu"
     },
     {
       "surface": "בן",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "הדד",
-      "gloss": "Hadad"
+      "gloss": "-Hadad"
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan berkatalah"
+      "gloss": "maka ia berkata"
     },
     {
       "surface": "באו",
-      "gloss": "masuklah"
+      "gloss": "Masuklah"
     },
     {
       "surface": "קחהו",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "dan keluarlah"
+      "gloss": "lalu keluarlah"
     },
     {
       "surface": "אליו",
-      "gloss": "kepadanya"
+      "gloss": "mendapatkan dia"
     },
     {
       "surface": "בן",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "הדד",
-      "gloss": "Hadad"
+      "gloss": "-Hadad"
     },
     {
       "surface": "ויעלהו",
-      "gloss": "dan menaikkannya"
+      "gloss": "dan ia menaakkannya"
     },
     {
       "surface": "על",
@@ -84,6 +84,6 @@
       "gloss": "kereta"
     }
   ],
-  "timestamp": "2026-08-08T08:07:23.004346762Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:01.073833590Z",
+  "model": "glm-5.3"
 }

@@ -5,16 +5,15 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 50,
-  "translation": "⟨Ia⟩ memanggil ⟨אל⟩ langit dari atas, dan ⟨אל⟩ bumi, untuk menghakimi umat-Nya.",
+  "translation": "Ia berseru kepada langit dari atas, dan kepada bumi, untuk menghakimi umat-Nya.",
   "tokens": [
     {
       "surface": "יקרא",
-      "gloss": "memanggil"
+      "gloss": "Ia berseru"
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩",
-      "marks": "langit"
+      "gloss": "kepada"
     },
     {
       "surface": "השמים",
@@ -26,8 +25,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "dan ⟨אל⟩",
-      "marks": "bumi"
+      "gloss": "dan kepada"
     },
     {
       "surface": "הארץ",
@@ -42,6 +40,6 @@
       "gloss": "umat-Nya"
     }
   ],
-  "timestamp": "2026-08-08T11:37:58.725639694Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:32.721833647Z",
+  "model": "glm-5.3"
 }

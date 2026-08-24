@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 17,
-  "translation": "Karena nefesh dari semua daging, darahnya ⟨⟨adalah⟩⟩ dalam nefesh-nya; dan Aku telah berfirman kepada bani Yisra'el: Darah dari segala daging janganlah kamu makan, karena nefesh dari segala daging, darahnya ⟨⟨adalah⟩⟩; setiap orang yang memakannya akan dipotong.",
+  "translation": "Sebab nefesh segala daging ⟨adalah⟩ darahnya; darahnya ⟨bersama⟩ nefeshnya ⟨dialah⟩, dan Aku berfirman kepada bani Yisrael: darah segala daging jangan kamu makan, sebab nefesh segala daging ⟨adalah⟩ darahnya; setiap orang yang memakannya akan dilenyapkan.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Karena"
+      "gloss": "sebab"
     },
     {
       "surface": "נפש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "dari semua"
+      "gloss": "segala"
     },
     {
       "surface": "בשר",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "בנפשו",
-      "gloss": "dalam nefesh-nya"
+      "gloss": "bersama nefeshnya"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨adalah⟩"
+      "gloss": "dialah"
     },
     {
       "surface": "ואמר",
-      "gloss": "dan Aku telah berfirman"
+      "gloss": "dan Aku berfirman"
     },
     {
       "surface": "לבני",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "דם",
-      "gloss": "Darah"
+      "gloss": "darah"
     },
     {
       "surface": "כל",
-      "gloss": "dari segala"
+      "gloss": "segala"
     },
     {
       "surface": "בשר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "janganlah"
+      "gloss": "jangan"
     },
     {
       "surface": "תאכלו",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "sebab"
     },
     {
       "surface": "נפש",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "dari segala"
+      "gloss": "segala"
     },
     {
       "surface": "בשר",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨adalah⟩"
+      "gloss": "dialah"
     },
     {
       "surface": "כל",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "יכרת",
-      "gloss": "akan dipotong"
+      "gloss": "akan dilenyapkan"
     }
   ],
-  "timestamp": "2026-08-08T07:10:17.939201945Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:53.921977409Z",
+  "model": "glm-5.3"
 }

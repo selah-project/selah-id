@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 24,
-  "translation": "Dan berkatalah sang raja kepada Yoab panglima ⟨ה⟩ tentara yang bersamanya: \"Berjalanlah kiranya melalui seluruh suku-suku Yisrael, dari Dan sampai Be'er-Sheva, dan periksalah ⟨את⟩ rakyat itu, supaya aku mengetahui ⟨את⟩ jumlah rakyat itu.\"",
+  "translation": "Kata raja kepada Yoab, panglima tentara yang bersama dia: Berjalan-jalanlah kiranya di seluruh suku-suku Yisrael, dari Dan sampai Be'er-Syeba, dan catatlah ⟨את⟩ rakyat itu, supaya aku tahu ⟨את⟩ jumlah rakyat itu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Dan berkatalah"
+      "gloss": "kata"
     },
     {
       "surface": "המלך",
-      "gloss": "sang raja"
+      "gloss": "raja"
     },
     {
       "surface": "אל",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersama dia"
     },
     {
       "surface": "שוט",
-      "gloss": "Berjalanlah"
+      "gloss": "berjalan-jalanlah"
     },
     {
       "surface": "נא",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "melalui seluruh"
+      "gloss": "di seluruh"
     },
     {
       "surface": "שבטי",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "שבע",
-      "gloss": "Sheva"
+      "gloss": "Syeba"
     },
     {
       "surface": "ופקדו",
-      "gloss": "dan periksalah"
+      "gloss": "dan catatlah"
     },
     {
       "surface": "את",
@@ -90,12 +90,12 @@
     },
     {
       "surface": "וידעתי",
-      "gloss": "supaya aku mengetahui"
+      "gloss": "supaya aku tahu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jumlah"
+      "marks": "jumlah rakyat itu"
     },
     {
       "surface": "מספר",
@@ -106,6 +106,6 @@
       "gloss": "rakyat itu"
     }
   ],
-  "timestamp": "2026-08-08T11:01:46.200035607Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:33.055699471Z",
+  "model": "glm-5.3"
 }

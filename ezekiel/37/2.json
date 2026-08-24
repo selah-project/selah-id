@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 37,
-  "translation": "Dan ⟨הוּא⟩ membuatku berjalan keliling di sekitar mereka, dan sungguh, banyak sekali di permukaan lembah itu, dan sungguh, kering sekali.",
+  "translation": "Dan ⟨ia⟩ membuatku melewati mereka berkeliling, berkeliling, dan lihat, ⟨ada⟩ sangat banyak di permukaan lembah, dan lihat, sangat kering.",
   "tokens": [
     {
       "surface": "והעבירני",
-      "gloss": "dan membuatku berjalan keliling"
+      "gloss": "dan membuatku melewati"
     },
     {
       "surface": "עליהם",
-      "gloss": "di sekitar mereka"
+      "gloss": "pada mereka"
     },
     {
       "surface": "סביב",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "סביב",
-      "gloss": "berputar"
+      "gloss": "berkeliling"
     },
     {
       "surface": "והנה",
-      "gloss": "dan sungguh"
+      "gloss": "dan lihat"
     },
     {
       "surface": "רבות",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "sekali"
+      "gloss": "sangat"
     },
     {
       "surface": "על",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הבקעה",
-      "gloss": "lembah itu"
+      "gloss": "lembah"
     },
     {
       "surface": "והנה",
-      "gloss": "dan sungguh"
+      "gloss": "dan lihat"
     },
     {
       "surface": "יבשות",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "מאד",
-      "gloss": "sekali"
+      "gloss": "sangat"
     }
   ],
-  "timestamp": "2026-08-08T08:53:27.487477019Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:06.494468801Z",
+  "model": "glm-5.3"
 }

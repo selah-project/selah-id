@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 9,
-  "translation": "Siapakah ⟨the⟩ orang yang bijak, dan memahami ⟨את⟩ hal ini? Dan kepada siapa ⟨the⟩ mulut Yahweh telah berbicara, dan dia akan menyatakannya? Atas apa ⟨the⟩ bumi telah binasa, ⟨the⟩ dibakar seperti padang gurun, tanpa orang yang lewat?",
+  "translation": "Siapakah ⟨את⟩ orang yang bijaks, yang akan memahami ini, dan kepada siapa mulut Yahweh telah berfirman, sehingga ia dapat mengatakannya — atas apa ⟨the⟩ tanah itu telah binasa, terbakar seperti padang gurun, tanpa seorang pun yang melintas?",
   "tokens": [
     {
       "surface": "מי",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "החכם",
-      "gloss": "yang bijak"
+      "gloss": "yang bijaksana"
     },
     {
       "surface": "ויבן",
-      "gloss": "dan memahami"
+      "gloss": "yang akan memahami"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hal ini"
+      "marks": "ini"
     },
     {
       "surface": "זאת",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "dan yang"
+      "gloss": "dan kepada siapa"
     },
     {
       "surface": "דבר",
-      "gloss": "berbicara"
+      "gloss": "telah berfirman"
     },
     {
       "surface": "פי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ויגדה",
-      "gloss": "dan dia akan menyatakannya"
+      "gloss": "dan ia dapat mengatakannya"
     },
     {
       "surface": "על",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "tanah itu"
     },
     {
       "surface": "נצתה",
-      "gloss": "dibakar"
+      "gloss": "terbakar"
     },
     {
       "surface": "כמדבר",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "עבר",
-      "gloss": "orang yang lewat"
+      "gloss": "yang melintas"
     }
   ],
-  "timestamp": "2026-08-08T11:16:55.383556644Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:26:49.156892549Z",
+  "model": "glm-5.3"
 }

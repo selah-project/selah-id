@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 3,
-  "translation": "Dan ⟨yang berkemah⟩ di depan ⟨המשכן⟩ kediaman, ke arah timur, di depan ⟨אהל מועד⟩ kemah pertemuan, ⟨adalah⟩ Mosheh, dan Aharon, serta anak-anaknya, yang menjaga tugas ⟨המקדש⟩ tempat kudus, sebagai penjagaan bagi bani Yisra'el; dan orang awam yang mendekat akan dihukum mati.",
+  "translation": "Dan yang berkemah di sisi depan Mishkan, di timur, di depan Ohel Moed, ke arah terbit matahari, ⟨adalah⟩ Moshe, Aharon, dan anak-anaknya, yang memelihara tugasan ⟨di⟩ ha-Mikdash sebagai tugasan bagi bani Yisrael; orang awam yang mendekat akan dihukum mati.",
   "tokens": [
     {
       "surface": "והחנים",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לפני",
-      "gloss": "di depan"
+      "gloss": "di sisi depan"
     },
     {
       "surface": "המשכן",
-      "gloss": "kediaman"
+      "gloss": "Mishkan"
     },
     {
       "surface": "קדמה",
-      "gloss": "ke arah timur"
+      "gloss": "di timur"
     },
     {
       "surface": "לפני",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "אהל",
-      "gloss": "kemah"
+      "gloss": "Ohel"
     },
     {
       "surface": "מועד",
-      "gloss": "pertemuan"
+      "gloss": "Moed"
     },
     {
       "surface": "מזרחה",
-      "gloss": "ke arah terbit"
+      "gloss": "ke arah terbit matahari"
     },
     {
       "surface": "משה",
-      "gloss": "Mosheh"
+      "gloss": "Moshe"
     },
     {
       "surface": "ואהרן",
-      "gloss": "dan Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "ובניו",
@@ -53,27 +53,27 @@
     },
     {
       "surface": "שמרים",
-      "gloss": "yang menjaga"
+      "gloss": "yang memelihara"
     },
     {
       "surface": "משמרת",
-      "gloss": "tugas"
+      "gloss": "tugasan"
     },
     {
       "surface": "המקדש",
-      "gloss": "tempat kudus"
+      "gloss": "ha-Mikdash"
     },
     {
       "surface": "למשמרת",
-      "gloss": "sebagai penjagaan bagi"
+      "gloss": "sebagai tugasan"
     },
     {
       "surface": "בני",
-      "gloss": "bani"
+      "gloss": "bagi bani"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "והזר",
@@ -88,6 +88,6 @@
       "gloss": "akan dihukum mati"
     }
   ],
-  "timestamp": "2026-08-08T07:14:48.233145676Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:25.732070520Z",
+  "model": "glm-5.3"
 }

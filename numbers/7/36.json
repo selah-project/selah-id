@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 7,
-  "translation": "pada hari kelima ⟨⟨adalah⟩⟩ nasi bagi bani Shim'on, Shelumiel bin Tsurishaddai;",
+  "translation": "Pada hari kelima ⟨adalah⟩ nasi kepala suku bani Shimon, Shelumiel bin Tsurishaddai.",
   "tokens": [
     {
       "surface": "ביום",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לבני",
-      "gloss": "bagi bani"
+      "gloss": "kepala suku bani"
     },
     {
       "surface": "שמעון",
-      "gloss": "Shim'on"
+      "gloss": "Shimon"
     },
     {
       "surface": "שלמיאל",
@@ -40,6 +40,6 @@
       "gloss": "Tsurishaddai"
     }
   ],
-  "timestamp": "2026-08-08T07:15:20.592874542Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:20.556723692Z",
+  "model": "glm-5.3"
 }

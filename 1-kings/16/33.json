@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 16,
-  "translation": "Dan Ahab membuat ⟨את⟩ ⟨the⟩ Asyera; dan Ahab menambah untuk berbuat demikian, sehingga membuat gusar ⟨את⟩ Yahweh, Elohim Israel, melebihi semua raja Israel yang ⟨ada⟩ sebelumnya.",
+  "translation": "Achab membuat ⟨את⟩ patung Asyera, dan Achab menambah lagi perbuatan untuk membangkitkan kegeraman Yahweh, Elohim Israel, melebihi semua raja Israel yang ada sebelum dia.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,32 +13,32 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahab"
+      "gloss": "Achab"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Asyera"
+      "marks": "patung Asyera"
     },
     {
       "surface": "האשרה",
-      "gloss": "Asyera"
+      "gloss": "patung Asyera"
     },
     {
       "surface": "ויוסף",
-      "gloss": "dan menambah"
+      "gloss": "dan menambah lagi"
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahab"
+      "gloss": "Achab"
     },
     {
       "surface": "לעשות",
-      "gloss": "untuk berbuat"
+      "gloss": "perbuatan"
     },
     {
       "surface": "להכעיס",
-      "gloss": "sehingga membuat gusar"
+      "gloss": "untuk membangkitkan kegeraman"
     },
     {
       "surface": "את",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "raja-raja"
+      "gloss": "raja"
     },
     {
       "surface": "ישראל",
@@ -79,9 +79,9 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "sebelumnya"
+      "gloss": "sebelum dia"
     }
   ],
-  "timestamp": "2026-08-08T08:05:48.152436012Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:50.599645446Z",
+  "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 40,
-  "translation": "Dan ⟨ia⟩ mendirikan ⟨את⟩ pelataran sekeliling ⟨ל⟩ Mishkan dan ⟨ל⟩ mezbah, dan ⟨ia⟩ memasang ⟨את⟩ tirai pintu pelataran; dan Mosheh menyelesaikan ⟨את⟩ pekerjaan itu.",
+  "translation": "Lalu ia mendirikan pelataran itu sekeliling ⟨את⟩ Mishkan dan ⟨את⟩ mezbah, dan ia memasang kelambu pintu pelataran itu; demikian Mosheh menyelesaikan ⟨את⟩ pekerjaan itu.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "dan mendirikan"
+      "gloss": "Lalu ia mendirikan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pelataran"
+      "marks": "pelataran itu"
     },
     {
       "surface": "החצר",
-      "gloss": "pelataran"
+      "gloss": "pelataran itu"
     },
     {
       "surface": "סביב",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "למשכן",
-      "gloss": "untuk Mishkan"
+      "gloss": "Mishkan"
     },
     {
       "surface": "ולמזבח",
-      "gloss": "dan untuk mezbah"
+      "gloss": "dan mezbah"
     },
     {
       "surface": "ויתן",
-      "gloss": "dan memasang"
+      "gloss": "dan ia memasang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tirai"
+      "marks": "kelambu"
     },
     {
       "surface": "מסך",
-      "gloss": "tirai"
+      "gloss": "kelambu"
     },
     {
       "surface": "שער",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "החצר",
-      "gloss": "pelataran"
+      "gloss": "pelataran itu"
     },
     {
       "surface": "ויכל",
-      "gloss": "dan menyelesaikan"
+      "gloss": "demikian ... menyelesaikan"
     },
     {
       "surface": "משה",
@@ -68,9 +68,9 @@
     },
     {
       "surface": "המלאכה",
-      "gloss": "pekerjaan"
+      "gloss": "pekerjaan itu"
     }
   ],
-  "timestamp": "2026-08-08T10:33:51.410799840Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:05.148091427Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 42,
-  "translation": "Dan mereka berkata, ⟨⟨ada⟩⟩ dua belas hamba-hambamu, saudara-saudara kami; kami anak-anak dari satu orang di tanah Kenaan; dan sesungguhnya, yang termuda ⟨⟨bersama⟩⟩ ⟨את⟩ ayah kami hari ini, dan yang satu tidak ada.",
+  "translation": "Dan mereka berkata: “Hamba-hamba tuan dua belas bersaudara, kami ⟨adalah⟩ anak-anak satu orang ayah di tanah Kenaan; dan sungguh, yang bungsu hari ini bersama ⟨את⟩ ayah kami, dan yang satu tidak ada.”",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עבדיך",
-      "gloss": "hamba-hambamu"
+      "gloss": "hamba-hamba tuan"
     },
     {
       "surface": "אחים",
-      "gloss": "saudara-saudara"
+      "gloss": "bersaudara"
     },
     {
       "surface": "אנחנו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "satu orang"
+      "gloss": "satu orang ayah"
     },
     {
       "surface": "אחד",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "והנה",
-      "gloss": "dan sesungguhnya"
+      "gloss": "dan sungguh"
     },
     {
       "surface": "הקטן",
-      "gloss": "yang termuda"
+      "gloss": "yang bungsu"
     },
     {
       "surface": "את",
@@ -73,7 +73,7 @@
       "gloss": "hari ini"
     },
     {
-      "surface": "והאחד",
+      "surface": "ווהאחד",
       "gloss": "dan yang satu"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "tidak ada"
     }
   ],
-  "timestamp": "2026-08-08T10:25:06.871539703Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:36.093435789Z",
+  "model": "glm-5.3"
 }

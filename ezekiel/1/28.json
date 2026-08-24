@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 1,
-  "translation": "Seperti rupa pelangi yang ada di dalam awan pada hari hujan, demikianlah rupa ⟨ה⟩ cahaya sekeliling. Itu ⟨adalah⟩ rupa keserupaan kemuliaan Yahweh. Dan ketika aku melihatnya, aku jatuh pada wajahku, dan aku mendengar suara ⟨seorang yang⟩ berbicara.",
+  "translation": "Seperti rupa pelangi yang ada di awan pada hari hujan, demikianlah rupa cahaya kilau di sekeliling. Itulah rupa kemiripan kavod Yahweh; dan ketika aku melihatnya, aku jatuh dengan mukaku, dan aku mendengar suara ⟨יש⟩ yang berbicara.",
   "tokens": [
     {
       "surface": "כמראה",
-      "gloss": "seperti rupa"
+      "gloss": "Seperti rupa"
     },
     {
       "surface": "הקשת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בענן",
-      "gloss": "di dalam awan"
+      "gloss": "di awan"
     },
     {
       "surface": "ביום",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "הנגה",
-      "gloss": "cahaya"
+      "gloss": "cahaya kilau"
     },
     {
       "surface": "סביב",
-      "gloss": "sekeliling"
+      "gloss": "di sekeliling"
     },
     {
       "surface": "הוא",
-      "gloss": "itu"
+      "gloss": "Itulah"
     },
     {
       "surface": "מראה",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "דמות",
-      "gloss": "keserupaan"
+      "gloss": "kemiripan"
     },
     {
       "surface": "כבוד",
-      "gloss": "kemuliaan"
+      "gloss": "kavod"
     },
     {
       "surface": "יהוה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ואראה",
-      "gloss": "dan ketika aku melihat"
+      "gloss": "dan ketika aku melihatnya"
     },
     {
       "surface": "ואפל",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "על",
-      "gloss": "pada"
+      "gloss": "dengan"
     },
     {
       "surface": "פני",
-      "gloss": "wajahku"
+      "gloss": "mukaku"
     },
     {
       "surface": "ואשמע",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "מדבר",
-      "gloss": "berbicara"
+      "gloss": "yang berbicara"
     }
   ],
-  "timestamp": "2026-08-08T08:44:32.004722933Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:13.296114374Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 10,
-  "translation": "Maka terjadilah, semua yang mengenalnya sejak kemarin dan kemarin lusa, melihat, dan lihat, bersama nabi-nabi ia bernubuat, lalu berkatalah ⟨the⟩ orang, masing-masing kepada sesamanya, “Apakah ini yang terjadi kepada bin Kish? Apakah Sha'ul juga termasuk dalam nabi-nabi?”",
+  "translation": "Dan terjadilah, ketika semua yang mengenalnya dari kemarin dan dahulu melihat — sesungguhnya ⟨ia⟩ bernubuat bersama para nabi — maka berkatalah ⟨the⟩ orang itu, masing-masing kepada sesamanya: “Apakah yang telah terjadi ini kepada ben Kish (anak Kish)? Jangankan juga Shaul di antara para nabi?”",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "maka terjadilah"
+      "gloss": "Dan terjadilah"
     },
     {
       "surface": "כל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מאתמול",
-      "gloss": "sejak kemarin"
+      "gloss": "dari kemarin"
     },
     {
       "surface": "שלשום",
-      "gloss": "dan kemarin lusa"
+      "gloss": "dan dahulu"
     },
     {
       "surface": "ויראו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "dan lihat"
+      "gloss": "sesungguhnya"
     },
     {
       "surface": "עם",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "nabi-nabi"
+      "gloss": "para nabi"
     },
     {
       "surface": "נבא",
-      "gloss": "ia bernubuat"
+      "gloss": "bernubuat"
     },
     {
       "surface": "ויאמר",
-      "gloss": "lalu berkatalah"
+      "gloss": "maka berkatalah"
     },
     {
       "surface": "העם",
-      "gloss": "orang"
+      "gloss": "orang itu"
     },
     {
       "surface": "איש",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "apakah"
+      "gloss": "Apakah"
     },
     {
       "surface": "זה",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "yang terjadi"
+      "gloss": "telah terjadi"
     },
     {
       "surface": "לבן",
-      "gloss": "kepada bin"
+      "gloss": "kepada ben (anak)"
     },
     {
       "surface": "קיש",
@@ -89,17 +89,17 @@
     },
     {
       "surface": "הגם",
-      "gloss": "apakah ... juga"
+      "gloss": "Jangankan juga"
     },
     {
       "surface": "שאול",
-      "gloss": "Sha'ul"
+      "gloss": "Shaul"
     },
     {
       "surface": "בנביאים",
-      "gloss": "dalam nabi-nabi"
+      "gloss": "di antara para nabi"
     }
   ],
-  "timestamp": "2026-08-08T10:55:39.253306792Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:32.484503944Z",
+  "model": "glm-5.3"
 }

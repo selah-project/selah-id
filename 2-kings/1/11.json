@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 1,
-  "translation": "Lalu ⟨ia⟩ kembali dan mengirim kepadanya panglima lima puluh yang lain beserta lima puluh orangnya, dan ⟨ia⟩ menjawab serta berbicara kepadanya: “Wahai orang ⟨ה⟩ Elohim, beginilah firman ⟨raja⟩: Segeralah turun!”",
+  "translation": "Lalu ⟨ia⟩ kembali mengirim kepadanya seorang pemimpin lima puluhan yang lain dengan lima puluh orangnya; maka ia menjawab dan berkata kepadanya: Hai orang ⟨dari⟩ Elohim, beginilah firman raja: Turunlah segera!",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "Lalu ⟨ia⟩ kembali"
+      "gloss": "Lalu ia kembali"
     },
     {
       "surface": "וישלח",
-      "gloss": "dan mengirim"
+      "gloss": "mengirim"
     },
     {
       "surface": "אליו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "panglima"
+      "gloss": "pemimpin"
     },
     {
       "surface": "חמשים",
-      "gloss": "lima puluh"
+      "gloss": "lima puluhan"
     },
     {
       "surface": "אחר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "וחמשיו",
-      "gloss": "beserta lima puluh orangnya"
+      "gloss": "dengan lima puluh orangnya"
     },
     {
       "surface": "ויען",
-      "gloss": "dan ⟨ia⟩ menjawab"
+      "gloss": "maka ia menjawab"
     },
     {
       "surface": "וידבר",
-      "gloss": "serta berbicara"
+      "gloss": "dan berkata"
     },
     {
       "surface": "אליו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "Wahai orang"
+      "gloss": "orang"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨ה⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "כה",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨raja⟩"
+      "gloss": "raja"
     },
     {
       "surface": "מהרה",
-      "gloss": "Segeralah"
+      "gloss": "segera"
     },
     {
       "surface": "רדה",
-      "gloss": "turun"
+      "gloss": "Turunlah"
     }
   ],
-  "timestamp": "2026-08-08T08:08:19.036050432Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:25.486307184Z",
+  "model": "glm-5.3"
 }

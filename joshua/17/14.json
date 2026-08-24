@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 17,
-  "translation": "Dan bani Yosef berbicara ⟨את⟩ Yehosua, berkata, “Mengapa engkau memberikan kepadaku satu warisan, satu undian dan satu bagian, padahal aku ⟨הֵם⟩ bangsa yang banyak, sampai sejauh ini Yahweh memberkati aku?”",
+  "translation": "Lalu bani Yusuf berbicara kepada ⟨את⟩ Yehosyua, katanya: Mengapa kauberikan kepadaku satu undian dan satu bagian saja sebagai milik pusaka, padahal aku ⟨adalah⟩ bangsa yang besar — sampai sejauh ini Yahweh memberkati aku?",
   "tokens": [
     {
       "surface": "וידברו",
-      "gloss": "dan berbicaralah"
+      "gloss": "Lalu berbicara"
     },
     {
       "surface": "בני",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "Yusuf"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehosua"
+      "marks": "Yehosyua"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehosua"
+      "gloss": "Yehosyua"
     },
     {
       "surface": "לאמר",
-      "gloss": "berkata"
+      "gloss": "katanya"
     },
     {
       "surface": "מדוע",
-      "gloss": "mengapa"
+      "gloss": "Mengapa"
     },
     {
       "surface": "נתתה",
-      "gloss": "engkau memberikan"
+      "gloss": "kauberikan"
     },
     {
       "surface": "לי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "נחלה",
-      "gloss": "warisan"
+      "gloss": "milik pusaka"
     },
     {
       "surface": "גורל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "וחבל",
-      "gloss": "dan bagian"
+      "gloss": "dan satu bagian"
     },
     {
       "surface": "אחד",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ואני",
-      "gloss": "dan aku"
+      "gloss": "padahal aku"
     },
     {
       "surface": "עם",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "רב",
-      "gloss": "yang banyak"
+      "gloss": "yang besar"
     },
     {
       "surface": "עד",
@@ -101,6 +101,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T07:36:57.895022781Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:44.235936804Z",
+  "model": "glm-5.3"
 }

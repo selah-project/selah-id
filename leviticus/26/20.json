@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 26,
-  "translation": "Dan akan habis sia-sia kekuatanmu, dan tanahmu tidak akan memberikan ⟨את⟩ hasilnya, dan pohon ⟨the⟩ tanah itu tidak akan memberikan buahnya.",
+  "translation": "dan kekuatanmu akan habis sia-sia, dan tanahmu tidak akan memberikan ⟨את⟩ hasilnya, dan pohon-pohon di tanah itu tidak akan memberikan buahnya.",
   "tokens": [
     {
       "surface": "ותם",
-      "gloss": "Dan akan habis"
+      "gloss": "dan akan habis"
     },
     {
       "surface": "לריק",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "ועץ",
-      "gloss": "dan pohon"
+      "gloss": "dan pohon-pohon"
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah itu"
+      "gloss": "di tanah itu"
     },
     {
       "surface": "לא",
@@ -61,6 +61,6 @@
       "gloss": "buahnya"
     }
   ],
-  "timestamp": "2026-08-08T07:13:17.272495212Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:30.537983278Z",
+  "model": "glm-5.3"
 }

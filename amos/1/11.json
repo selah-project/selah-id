@@ -5,15 +5,15 @@
   "book": "amos",
   "lang": "id",
   "chapter": 1,
-  "translation": "Demikian bersabda Yahweh: Atas tiga pemberontakan Edom, dan atas empat, aku tidak akan menariknya kembali — atas pemburuan ⟨דָּרִי⟩ saudaranya dengan pedang, dan ⟨dia⟩ merusak belas kasihannya, dan amarahnya mencabik untuk selamanya, dan murkanya dijaganya terus-menerus.",
+  "translation": "Beginilah kata Yahweh: Atas tiga pemberontakan Edom, dan atas empat, Aku tidak akan menariknya kembali — karena ia mengejar saudaranya dengan pedang, memusnahkan kasihannya, dan amarahnya mengoyak selamanya, kegeramannya ia jaga untuk selama-lamanya.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "demikian"
+      "gloss": "Beginilah"
     },
     {
       "surface": "אמר",
-      "gloss": "bersabda"
+      "gloss": "kata"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "atas"
+      "gloss": "Atas"
     },
     {
       "surface": "שלשה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "אשיבנו",
-      "gloss": "aku akan menariknya kembali"
+      "gloss": "Aku tidak akan menariknya kembali"
     },
     {
       "surface": "על",
-      "gloss": "atas"
+      "gloss": "karena"
     },
     {
       "surface": "רדפו",
-      "gloss": "pemburuan"
+      "gloss": "ia mengejar"
     },
     {
       "surface": "בחרב",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "ושחת",
-      "gloss": "dan merusak"
+      "gloss": "memusnahkan"
     },
     {
       "surface": "רחמיו",
-      "gloss": "belas kasihannya"
+      "gloss": "kasihannya"
     },
     {
       "surface": "ויטרף",
-      "gloss": "dan mencabik"
+      "gloss": "mengoyak"
     },
     {
       "surface": "לעד",
-      "gloss": "untuk selamanya"
+      "gloss": "selamanya"
     },
     {
       "surface": "אפו",
@@ -89,17 +89,17 @@
     },
     {
       "surface": "ועברתו",
-      "gloss": "dan murkanya"
+      "gloss": "kegeramannya"
     },
     {
       "surface": "שמרה",
-      "gloss": "dijaganya"
+      "gloss": "ia jaga"
     },
     {
       "surface": "נצח",
-      "gloss": "terus-menerus"
+      "gloss": "untuk selama-lamanya"
     }
   ],
-  "timestamp": "2026-08-08T08:58:24.942191559Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:34.472319002Z",
+  "model": "glm-5.3"
 }

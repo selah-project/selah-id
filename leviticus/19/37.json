@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 19,
-  "translation": "Dan kamu harus memelihara ⟨את⟩ segala ketetapan-Ku dan ⟨את⟩ segala hukum-Ku, dan kamu harus melakukannya; aku ⟨is⟩ Yahweh.",
+  "translation": "Dan kamu harus memelihara ⟨את⟩ segala ketetapan-Ku dan ⟨את⟩ segala mishpat-Ku, dan kamu harus melakukannya; aku ⟨adalah⟩ Yahweh.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Dan kamu harus memelihara"
+      "gloss": "dan kamu harus memelihara"
     },
     {
       "surface": "את",
@@ -26,8 +26,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "segala hukum-Ku"
+      "gloss": "⟨את⟩",
+      "marks": "segala mishpat-Ku"
     },
     {
       "surface": "כל",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "משפטי",
-      "gloss": "hukum-Ku"
+      "gloss": "mishpat-Ku"
     },
     {
       "surface": "ועשיתם",
@@ -43,8 +43,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "—"
+      "gloss": "⟨את⟩ mereka"
     },
     {
       "surface": "אני",
@@ -55,6 +54,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-09T01:38:39.766395232Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:36.190763500Z",
+  "model": "glm-5.3"
 }

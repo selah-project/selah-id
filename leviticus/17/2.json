@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 17,
-  "translation": "Berbicaralah kepada Aharon dan kepada anak-anaknya dan kepada seluruh anak-anak Yisra'el, dan engkau akan berkata kepada mereka: Inilah ⟨ה⟩ perkata yang diperintahkan Yahweh, ⟨untuk⟩ mengatakan:",
+  "translation": "Berbicaralah kepada Aharon, dan kepada anak-anaknya, dan kepada semua bani Yisrael, dan katakanlah kepada mereka: Inilah perkataan yang diperintahkan Yahweh, dengan berfirman:",
   "tokens": [
     {
       "surface": "דבר",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "כל",
-      "gloss": "seluruh"
+      "gloss": "semua"
     },
     {
       "surface": "בני",
-      "gloss": "anak-anak"
+      "gloss": "bani"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ואמרת",
-      "gloss": "dan engkau akan berkata"
+      "gloss": "dan katakanlah"
     },
     {
       "surface": "אליהם",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨ה⟩ perkata"
+      "gloss": "perkataan"
     },
     {
       "surface": "אשר",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "mengatakan"
+      "gloss": "dengan berfirman"
     }
   ],
-  "timestamp": "2026-08-08T07:10:48.982425057Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:20:37.548313510Z",
+  "model": "glm-5.3"
 }

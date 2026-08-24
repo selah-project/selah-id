@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 30,
-  "translation": "Karena beginilah firman Yahweh: Telah parah ⟨⟨tidak dapat disembuhkan⟩⟩ patahmu, telah merana lukamu.",
+  "translation": "Sebab beginilah kata Yahweh: tak tersembuhkan patahmu, parah luka pukulanmu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "karena"
+      "gloss": "Sebab"
     },
     {
       "surface": "כה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "firman"
+      "gloss": "kata"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אנוש",
-      "gloss": "telah parah"
+      "gloss": "tak tersembuhkan"
     },
     {
       "surface": "לשברך",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "נחלה",
-      "gloss": "telah merana"
+      "gloss": "parah"
     },
     {
       "surface": "מכתך",
-      "gloss": "luka-mu"
+      "gloss": "luka pukulanmu"
     }
   ],
-  "timestamp": "2026-08-08T11:19:27.759449791Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:07.951031042Z",
+  "model": "glm-5.3"
 }

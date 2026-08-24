@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 8,
-  "translation": "Dan ⟨yang lain⟩ keluar dari kota untuk menemui mereka, dan ⟨mereka⟩ berada di tengah-tengah Yisrael, ⟨yang ini⟩ dari sini dan ⟨yang itu⟩ dari sana, dan mereka memukul ⟨את⟩ mereka sampai tidak ditinggalkan baginya ←残余→ dan ←逃脱者→",
+  "translation": "Lalu yang lain itu keluar dari kota untuk melawan mereka, sehingga mereka berada di tengah-tengah Yisrael, sebagian dari sisi ini dan sebagian dari sisi itu; dan mereka memukul ⟨את⟩ mereka sampai tidak ditinggalkan baginya yang tersisa maupun yang terluput.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "dan ⟨yang lain⟩"
+      "gloss": "Lalu yang lain itu"
     },
     {
       "surface": "יצאו",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "לקראתם",
-      "gloss": "untuk menemui mereka"
+      "gloss": "untuk melawan mereka"
     },
     {
       "surface": "ויהיו",
-      "gloss": "dan ⟨mereka⟩ berada"
+      "gloss": "sehingga mereka berada"
     },
     {
       "surface": "לישראל",
-      "gloss": "Yisrael"
+      "gloss": "di tengah-tengah Yisrael"
     },
     {
       "surface": "בתוך",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "אלה",
-      "gloss": "⟨yang ini⟩"
+      "gloss": "sebagian"
     },
     {
       "surface": "מזה",
-      "gloss": "dari sini"
+      "gloss": "dari sisi ini"
     },
     {
       "surface": "ואלה",
-      "gloss": "dan ⟨yang itu⟩"
+      "gloss": "dan sebagian"
     },
     {
       "surface": "מזה",
-      "gloss": "dari sana"
+      "gloss": "dari sisi itu"
     },
     {
       "surface": "ויכו",
@@ -61,7 +61,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ mereka"
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
     },
     {
       "surface": "עד",
@@ -81,13 +82,13 @@
     },
     {
       "surface": "שריד",
-      "gloss": "orang yang tersisa"
+      "gloss": "yang tersisa"
     },
     {
       "surface": "ופליט",
-      "gloss": "dan pelarian"
+      "gloss": "maupun yang terluput"
     }
   ],
-  "timestamp": "2026-08-08T23:20:00.677110982Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:47.511256690Z",
+  "model": "glm-5.3"
 }

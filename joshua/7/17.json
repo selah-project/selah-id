@@ -5,20 +5,20 @@
   "book": "joshua",
   "lang": "id",
   "chapter": 7,
-  "translation": "Lalu ⟨ia⟩ mendekatkan ⟨את⟩ keluarga Yehudah, dan terambil keluarga ⟨ה⟩Zarkhi; lalu ⟨ia⟩ mendekatkan ⟨את⟩ keluarga ⟨ה⟩Zarkhi kepada orang-demi-orang, dan terambil Zavdi.",
+  "translation": "Lalu ia mendekatkan ⟨את⟩ kaum keluarga Yehudah, dan terpilihlah ⟨את⟩ kaum keluarga Zerahi; lalu ia mendekatkan ⟨את⟩ kaum keluarga Zerahi laki-laki demi laki-laki, dan terpilihlah Zavdi.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "dan ia mendekatkan"
+      "gloss": "lalu ia mendekatkan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "keluarga"
+      "marks": "kaum keluarga Yehudah"
     },
     {
       "surface": "משפחת",
-      "gloss": "keluarga"
+      "gloss": "kaum keluarga"
     },
     {
       "surface": "יהודה",
@@ -26,51 +26,51 @@
     },
     {
       "surface": "וילכד",
-      "gloss": "dan terambil"
+      "gloss": "dan terpilihlah"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "keluarga"
+      "marks": "kaum keluarga Zerahi"
     },
     {
       "surface": "משפחת",
-      "gloss": "keluarga"
+      "gloss": "kaum keluarga"
     },
     {
       "surface": "הזרחי",
-      "gloss": "⟨ה⟩Zarkhi"
+      "gloss": "Zerahi"
     },
     {
       "surface": "ויקרב",
-      "gloss": "dan ia mendekatkan"
+      "gloss": "lalu ia mendekatkan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "keluarga"
+      "marks": "kaum keluarga Zerahi"
     },
     {
       "surface": "משפחת",
-      "gloss": "keluarga"
+      "gloss": "kaum keluarga"
     },
     {
       "surface": "הזרחי",
-      "gloss": "⟨ה⟩Zarkhi"
+      "gloss": "Zerahi"
     },
     {
       "surface": "לגברים",
-      "gloss": "kepada orang-demi-orang"
+      "gloss": "laki-laki demi laki-laki"
     },
     {
       "surface": "וילכד",
-      "gloss": "dan terambil"
+      "gloss": "dan terpilihlah"
     },
     {
       "surface": "זבדי",
       "gloss": "Zavdi"
     }
   ],
-  "timestamp": "2026-08-08T07:34:26.008973169Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:47.303088716Z",
+  "model": "glm-5.3"
 }

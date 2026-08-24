@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 13,
-  "translation": "Setelah ia menguburkan ⟨את⟩ dia, ia berkata kepada anak-anaknya, berkata: “Pada waktu kematianku, kuburkanlah ⟨את⟩ aku di kubur yang di dalamnya ⟨ה⟩ nabi itu dikubur — di samping tulang-tulangnya, letakkanlah ⟨את⟩ tulang-tulangku.”",
+  "translation": "Dan setelah ia menguburkan ⟨את⟩ dia, ia berkata kepada anak-anaknya, katanya: Ketika aku mati dan kamu menguburkan ⟨את⟩ aku dalam kuburan yang di dalamnya ish haElohim itu dikuburkan, letakkanlah tulang-tulangku di samping tulang-tulangnya.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "terjadilah"
+      "gloss": "Dan setelah"
     },
     {
       "surface": "אחרי",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "berkata"
+      "gloss": "katanya"
     },
     {
       "surface": "במותי",
-      "gloss": "pada waktu kematianku"
+      "gloss": "ketika aku mati"
     },
     {
       "surface": "וקברתם",
-      "gloss": "kuburkanlah"
+      "gloss": "kamu menguburkan"
     },
     {
       "surface": "אתי",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "בקבר",
-      "gloss": "di kubur"
+      "gloss": "dalam kuburan"
     },
     {
       "surface": "אשר",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "nabi itu"
+      "gloss": "ish"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "haElohim"
     },
     {
       "surface": "קבור",
-      "gloss": "dikubur"
+      "gloss": "dikuburkan"
     },
     {
       "surface": "בו",
@@ -99,6 +99,6 @@
       "gloss": "tulang-tulangku"
     }
   ],
-  "timestamp": "2026-08-08T18:32:33.066379952Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:36.513503569Z",
+  "model": "glm-5.3"
 }

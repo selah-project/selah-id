@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 26,
-  "translation": "Lalu kami berseru kepada Yahweh, Elohim ⟨אל⟩ bapa-bapa kami, dan Yahweh mendengar ⟨את⟩ suara kami, dan melihat ⟨את⟩ penderitaan kami dan ⟨את⟩ jerih lelah kami dan ⟨את⟩ penindasan kami.",
+  "translation": "Lalu kami berseru kepada Yahweh, Elohim nenek moyang kami, dan Yahweh mendengar ⟨את⟩ suara kami, dan melihat ⟨את⟩ penderitaan kami dan ⟨את⟩ jerih payah kami dan ⟨את⟩ penindasan kami.",
   "tokens": [
     {
       "surface": "ונצעק",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אבתינו",
-      "gloss": "bapa-bapa kami"
+      "gloss": "nenek moyang kami"
     },
     {
       "surface": "וישמע",
@@ -60,11 +60,11 @@
     {
       "surface": "ואת",
       "gloss": "dan ⟨את⟩",
-      "marks": "jerih lelah kami"
+      "marks": "jerih payah kami"
     },
     {
       "surface": "עמלנו",
-      "gloss": "jerih lelah kami"
+      "gloss": "jerih payah kami"
     },
     {
       "surface": "ואת",
@@ -76,6 +76,6 @@
       "gloss": "penindasan kami"
     }
   ],
-  "timestamp": "2026-08-08T10:47:21.735587869Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:42.466731231Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 55,
-  "translation": "Halus mulutnya dari mentega, tetapi dekat hatinya peperangan; lembut perkataannya dari minyak, tetapi mereka ⟨ אֵת \u0000 ⟩ pedang-pedang terhunus.",
+  "translation": "Lembut dari mentega ⟨adalah⟩ mulutnya, dan hatinya ⟨adalah⟩ peperangan; lebih halus dari minyak perkataannya, namun mereka ⟨adalah⟩ pedang terhunus.",
   "tokens": [
     {
       "surface": "חלקו",
-      "gloss": "halus"
+      "gloss": "lembut"
     },
     {
       "surface": "מחמאת",
-      "gloss": "dari mentega"
+      "gloss": "mentega"
     },
     {
       "surface": "פיו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וקרב",
-      "gloss": "tetapi dekat"
+      "gloss": "dan peperangan"
     },
     {
       "surface": "לבו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "רכו",
-      "gloss": "peperangan"
+      "gloss": "lebih halus"
     },
     {
       "surface": "דבריו",
-      "gloss": "lembut perkataannya"
+      "gloss": "perkataannya"
     },
     {
       "surface": "משמן",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "והמה",
-      "gloss": "tetapi mereka"
+      "gloss": "namun mereka"
     },
     {
       "surface": "פתחות",
-      "gloss": "pedang-pedang terhunus"
+      "gloss": "pedang terhunus"
     }
   ],
-  "timestamp": "2026-08-08T09:14:53.607416276Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:05.228493376Z",
+  "model": "glm-5.3"
 }

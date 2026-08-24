@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 35,
-  "translation": "Lalu ⟨ia⟩ berkata kepada orang-orang Lewi yang mengajar seluruh Yisra'el, yang dikuduskan bagi Yahweh: “Taruhlah ⟨את⟩ tabut ⟨ה⟩ kekudusan di dalam rumah yang dibangun Shelomo anak Dawid raja Yisra'el — tidak ada lagi bagimu beban di atas bahu. Sekarang layanilah ⟨את⟩ Yahweh Elohim kamu dan ⟨את⟩ umat-Nya Yisra'el.”",
+  "translation": "Dan ia berkata kepada orang-orang Lewi yang mengajar seluruh Israel, orang-orang yang dikuduskan bagi Yahweh: “Taruhlah ⟨את⟩ tabut kudus itu di dalam rumah yang dibangun oleh Shelomoh bin David, raja Israel; tidak ada lagi bagimu beban di atas bahu. Sekarang layanilah ⟨את⟩ Yahweh, Elohim kalian, dan ⟨את⟩ umat-Nya Israel.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lalu berkata"
+      "gloss": "Dan ia berkata"
     },
     {
       "surface": "ללוים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "הקדושים",
-      "gloss": "yang dikuduskan"
+      "gloss": "orang-orang yang dikuduskan"
     },
     {
       "surface": "ליהוה",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "תנו",
-      "gloss": "taruhlah"
+      "gloss": "Taruhlah"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tabut"
+      "marks": "tabut kudus"
     },
     {
       "surface": "ארון",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "kekudusan"
+      "gloss": "kudus"
     },
     {
       "surface": "בבית",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "בן",
-      "gloss": "anak"
+      "gloss": "bin"
     },
     {
       "surface": "דויד",
-      "gloss": "Dawid"
+      "gloss": "David"
     },
     {
       "surface": "מלך",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "אין",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "עתה",
-      "gloss": "sekarang"
+      "gloss": "Sekarang"
     },
     {
       "surface": "עבדו",
@@ -119,7 +119,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim kamu"
+      "gloss": "Elohim kalian"
     },
     {
       "surface": "ואת",
@@ -132,9 +132,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     }
   ],
-  "timestamp": "2026-08-08T10:18:04.606463393Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:01.781423805Z",
+  "model": "glm-5.3"
 }

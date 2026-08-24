@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 12,
-  "translation": "Dan ⟨ia⟩ meninggalkan ⟨את⟩ nasihat para tua-tua yang mereka nasihatkan kepadanya, dan ⟨ia⟩ bermusyawarah dengan ⟨את⟩ anak-anak muda yang telah dibesarkan bersamanya, yang berdiri di hadapannya.",
+  "translation": "Dan ⟨ia⟩ meninggalkan ⟨את⟩ nasihat para tua-tua yang mereka nasihatkan kepadanya, dan ⟨ia⟩ bermusyawarah dengan ⟨את⟩ anak-anak muda yang telah dibesarkan ⟨את⟩ bersamanya, yang berdiri di hadapannya.",
   "tokens": [
     {
       "surface": "ויעזב",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bersamanya"
+      "gloss": "⟨את⟩ bersamanya"
     },
     {
       "surface": "אשר",
@@ -70,6 +70,6 @@
       "gloss": "di hadapannya"
     }
   ],
-  "timestamp": "2026-08-08T11:03:23.808300384Z",
+  "timestamp": "2026-08-24T17:55:27.253891768Z",
   "model": "glm-5.2"
 }

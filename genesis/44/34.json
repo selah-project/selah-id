@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 44,
-  "translation": "Sebab bagaimana aku akan naik kepada ayahku dan ⟨הנער⟩ muda itu tidak bersamaku, supaya jangan aku melihat ⟨הרעה⟩ yang akan menemui ayahku?",
+  "translation": "Sebab bagaimana aku akan naik kepada ayahku, sedangkan anak itu tidak bersamaku, supaya jangan aku melihat musibah yang akan menimpa ayahku?",
   "tokens": [
     {
       "surface": "כי",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "והנער",
-      "gloss": "dan anak muda itu"
+      "gloss": "sedangkan anak itu"
     },
     {
       "surface": "איננו",
-      "gloss": "tidak ada"
+      "gloss": "tidak"
     },
     {
       "surface": "אתי",
-      "gloss": "bersamaku"
+      "gloss": "⟨את⟩ bersamaku"
     },
     {
       "surface": "פן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ברע",
-      "gloss": "bencana itu"
+      "gloss": "musibah"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "akan menemui"
+      "gloss": "akan menimpa"
     },
     {
       "surface": "את",
@@ -69,6 +69,6 @@
       "gloss": "ayahku"
     }
   ],
-  "timestamp": "2026-08-08T06:53:55.425707855Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:46.630877553Z",
+  "model": "glm-5.3"
 }

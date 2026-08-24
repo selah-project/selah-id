@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 3,
-  "translation": "dan layar ⟨the⟩ lapangan, dan ⟨את⟩ tirai pintu ⟨the⟩ lapangan yang pada ⟨the⟩ Mishkan dan pada ⟨the⟩ mizbeach sekeliling, dan ⟨את⟩ talinya, untuk segala pekerjaannya.",
+  "translation": "juga kelambu ⟨the⟩ halaman, dan ⟨את⟩ layar pintu halaman yang di sekitar Mishkan dan di sekitar mezbah itu, serta ⟨את⟩ talinya untuk segala pekerjaannya.",
   "tokens": [
     {
       "surface": "וקלעי",
-      "gloss": "dan layar"
+      "gloss": "juga kelambu"
     },
     {
       "surface": "החצר",
-      "gloss": "lapangan"
+      "gloss": "halaman"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "tirai"
+      "marks": "layar"
     },
     {
       "surface": "מסך",
-      "gloss": "tirai"
+      "gloss": "layar"
     },
     {
       "surface": "פתח",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "lapangan"
+      "gloss": "halaman"
     },
     {
       "surface": "אשר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "על",
-      "gloss": "pada"
+      "gloss": "di sekitar"
     },
     {
       "surface": "המשכן",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "ועל",
-      "gloss": "dan pada"
+      "gloss": "dan di sekitar"
     },
     {
       "surface": "המזבח",
-      "gloss": "mizbeach"
+      "gloss": "mezbah"
     },
     {
       "surface": "סביב",
-      "gloss": "sekeliling"
+      "gloss": "itu sekeliling"
     },
     {
       "surface": "ואת",
@@ -74,6 +74,6 @@
       "gloss": "pekerjaannya"
     }
   ],
-  "timestamp": "2026-08-08T10:39:35.049218636Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:49.248036490Z",
+  "model": "glm-5.3"
 }

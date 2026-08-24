@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "id",
   "chapter": 14,
-  "translation": "Dan Yahweh akan memukul ⟨את⟩ Yisra'el seperti gelagak yang bergoyang di dalam air, dan ⟨הִנֵּה⟩ mencabut ⟨את⟩ Yisra'el dari atas tanah yang baik ini yang diberikan-Nya kepada nenek moyang mereka, dan ia akan menyerakkan mereka seberang sungai, oleh karena mereka membuat ⟨את⟩ patung-patung Ashera mereka, yang membangkitkan kemarahan ⟨את⟩ Yahweh.",
+  "translation": "Yahweh akan memukul ⟨את⟩ Yisrael seperti bergoyangnya buluh di air, dan Ia akan mencabut ⟨את⟩ Yisrael dari atas tanah yang baik ini yang diberikan-Nya kepada nenek moyang mereka, dan Ia akan menyerakkan mereka di seberang sungai, karena mereka membuat ⟨את⟩ patung-patung Ashera mereka, yang membangkitkan kegeraman ⟨את⟩ Yahweh.",
   "tokens": [
     {
       "surface": "והכה",
-      "gloss": "Dan akan memukul"
+      "gloss": "akan memukul"
     },
     {
       "surface": "יהוה",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כאשר",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "הקנה",
-      "gloss": "gelagak"
+      "gloss": "buluh"
     },
     {
       "surface": "במים",
-      "gloss": "di dalam air"
+      "gloss": "di air"
     },
     {
       "surface": "ונתש",
@@ -47,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מעל",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "diberikan"
+      "gloss": "diberikan-Nya"
     },
     {
       "surface": "לאבותיהם",
@@ -83,11 +83,11 @@
     },
     {
       "surface": "וזרם",
-      "gloss": "dan akan menyerakkan"
+      "gloss": "dan Ia akan menyerakkan mereka"
     },
     {
       "surface": "מעבר",
-      "gloss": "seberang"
+      "gloss": "di seberang"
     },
     {
       "surface": "לנהר",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "oleh karena"
+      "gloss": "karena"
     },
     {
       "surface": "אשר",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "mereka buat"
+      "gloss": "mereka membuat"
     },
     {
       "surface": "את",
@@ -116,7 +116,7 @@
     },
     {
       "surface": "מכעיסים",
-      "gloss": "membangkitkan kemarahan"
+      "gloss": "yang membangkitkan kegeraman"
     },
     {
       "surface": "את",
@@ -128,6 +128,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T12:48:32.141176447Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:52.588697896Z",
+  "model": "glm-5.3"
 }

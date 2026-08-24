@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 22,
-  "translation": "Demikianlah bersabda Adonai Yahweh Tsevaot: Pergilah, datang kepada sang pengurus ini, kepada Shebna yang di atas ⟨הבית⟩ rumah,",
+  "translation": "Demikian bersabda Adonai Yahweh Tsevaot: Pergilah, masuklah kepada sang kepala rumah tangga ini, kepada Shevna, yang mengurus ⟨את⟩ rumah itu.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Demikianlah"
+      "gloss": "Demikian"
     },
     {
       "surface": "אמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "datang"
+      "gloss": "masuklah"
     },
     {
       "surface": "אל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הסכן",
-      "gloss": "sang pengurus"
+      "gloss": "sang kepala rumah tangga"
     },
     {
       "surface": "הזה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "על",
-      "gloss": "yang di atas"
+      "gloss": "kepada"
     },
     {
       "surface": "שבנא",
-      "gloss": "Shebna"
+      "gloss": "Shevna"
     },
     {
       "surface": "אשר",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "על",
-      "gloss": "di atas"
+      "gloss": "mengurus"
     },
     {
       "surface": "הבית",
-      "gloss": "rumah"
+      "gloss": "rumah itu"
     }
   ],
-  "timestamp": "2026-08-08T12:17:31.047655888Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:43.850185650Z",
+  "model": "glm-5.3"
 }

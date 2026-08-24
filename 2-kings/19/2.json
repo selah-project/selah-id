@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 19,
-  "translation": "Lalu ⟨הוּא⟩ mengutus ⟨את⟩ Elyaqim yang atas bait itu, dan Shebna sang panitera, dan ⟨את⟩ para tua-tua imam-imam, yang menyelimuti diri dengan kain-kain goni, kepada Yesha'yahu sang nabi, bin Amots.",
+  "translation": "Lalu ia mengutus Elyakim yang ⟨berkuasa⟩ atas rumah ⟨itu⟩, dan Shevna juru tulis, dan ⟨את⟩ para tua-tua para imam, yang berselimut kain karung, kepada Yesha'yahu nabi, anak Amots.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "dan mengutus"
+      "gloss": "Lalu ia mengutus"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elyaqim"
+      "marks": "Elyakim"
     },
     {
       "surface": "אליקים",
-      "gloss": "Elyaqim"
+      "gloss": "Elyakim"
     },
     {
       "surface": "אשר",
@@ -30,20 +30,20 @@
     },
     {
       "surface": "הבית",
-      "gloss": "bait itu"
+      "gloss": "rumah"
     },
     {
       "surface": "ושבנא",
-      "gloss": "dan Shebna"
+      "gloss": "dan Shevna"
     },
     {
       "surface": "הספר",
-      "gloss": "sang panitera"
+      "gloss": "juru tulis"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "para tua-tua imam-imam"
+      "marks": "para tua-tua para imam"
     },
     {
       "surface": "זקני",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "imam-imam"
+      "gloss": "para imam"
     },
     {
       "surface": "מתכסים",
-      "gloss": "yang menyelimuti diri"
+      "gloss": "yang berselimut"
     },
     {
       "surface": "בשקים",
-      "gloss": "dengan kain-kain goni"
+      "gloss": "kain karung"
     },
     {
       "surface": "אל",
@@ -71,17 +71,17 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "sang nabi"
+      "gloss": "nabi"
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "anak"
     },
     {
       "surface": "אמוץ",
       "gloss": "Amots"
     }
   ],
-  "timestamp": "2026-08-08T08:13:16.058132805Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:50.619081443Z",
+  "model": "glm-5.3"
 }

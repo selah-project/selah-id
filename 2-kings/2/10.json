@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 2,
-  "translation": "Dan ia berkata: “Hal yang sulit kauminta. Namun jika engkau melihat ⟨את⟩ aku ketika aku diambil dari padamu, terjadilah demikian untukmu; tetapi jika tidak, maka tidak akan terjadi.”",
+  "translation": "Dan ia berkata: “Hal yang sulit kauminta. Namun jika engkau melihat ⟨את⟩ aku ketika aku diambil ⟨את⟩ dari padamu, terjadilah demikian untukmu; tetapi jika tidak, maka tidak akan terjadi.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "dari padamu"
+      "gloss": "⟨את⟩ dari padamu"
     },
     {
       "surface": "יהי",
@@ -69,6 +69,6 @@
       "gloss": "akan terjadi"
     }
   ],
-  "timestamp": "2026-08-08T08:09:00.071435310Z",
+  "timestamp": "2026-08-24T17:55:27.197767944Z",
   "model": "glm-5.2"
 }

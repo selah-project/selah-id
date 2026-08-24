@@ -5,24 +5,24 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 15,
-  "translation": "Aku akan menjadikan ⟨את⟩ ⟨ה⟩ negeri itu reruntuhan sunyi — karena mereka berkhianat secara khianat, demikianlah ucapan Adonai Yahweh.",
+  "translation": "Dan Aku akan menjadikan ⟨את⟩ tanah itu menjadi tempat tandus, karena mereka berkhianat dalam khianat — demikianlah firman Adonai Yahweh.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "Aku akan menjadikan"
+      "gloss": "Dan Aku akan menjadikan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "negeri itu"
+      "marks": "tanah itu"
     },
     {
       "surface": "הארץ",
-      "gloss": "negeri itu"
+      "gloss": "tanah itu"
     },
     {
       "surface": "שממה",
-      "gloss": "reruntuhan sunyi"
+      "gloss": "tempat tandus"
     },
     {
       "surface": "יען",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "מעל",
-      "gloss": "secara khianat"
+      "gloss": "dalam khianat"
     },
     {
       "surface": "נאם",
-      "gloss": "demikianlah ucapan"
+      "gloss": "demikianlah firman"
     },
     {
       "surface": "אדני",
@@ -49,6 +49,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T11:23:15.773574804Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:43.704675821Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 115,
-  "translation": "Berhala-berhala mereka ⟨⟨adalah⟩⟩ perak dan emas, buatan tangan manusia.",
+  "translation": "Berhala mereka ⟨⟨adalah⟩⟩ perak dan emas, buatan tangan manusia.",
   "tokens": [
     {
       "surface": "עצביהם",
-      "gloss": "Berhala-berhala mereka"
+      "gloss": "berhala mereka"
     },
     {
       "surface": "כסף",
@@ -32,6 +32,6 @@
       "gloss": "manusia"
     }
   ],
-  "timestamp": "2026-08-08T11:45:52.822879452Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:27.131182274Z",
+  "model": "glm-5.3"
 }

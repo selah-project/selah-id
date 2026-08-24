@@ -5,31 +5,31 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 9,
-  "translation": "Dan kepada yang lain ⟨הוא⟩ berfirman di telinga saya: “Lewatilah kota ini, di belakangnya, dan pukullah; janganlah mata-mu menyayangi dan janganlah mengasihani.”",
+  "translation": "Dan kepada yang lain-lain itu Ia berkata dalam telingaku: “Lewatilah kota itu mengikutinya dan pukullah; jangan matamu menyayangi dan janganlah kamu tergerah.”\n",
   "tokens": [
     {
       "surface": "ולאלה",
-      "gloss": "Dan kepada yang lain"
+      "gloss": "Dan kepada yang lain-lain itu"
     },
     {
       "surface": "אמר",
-      "gloss": "berfirman"
+      "gloss": "Ia berkata"
     },
     {
       "surface": "באזני",
-      "gloss": "di telinga saya"
+      "gloss": "dalam telingaku"
     },
     {
       "surface": "עברו",
-      "gloss": "lewatilah"
+      "gloss": "Lewatilah"
     },
     {
       "surface": "בעיר",
-      "gloss": "kota ini"
+      "gloss": "kota itu"
     },
     {
       "surface": "אחריו",
-      "gloss": "di belakangnya"
+      "gloss": "mengikutinya"
     },
     {
       "surface": "והכו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "על",
-      "gloss": "janganlah"
+      "gloss": "jangan"
     },
     {
       "surface": "תחס",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "עיניכם",
-      "gloss": "mata-mu"
+      "gloss": "matamu"
     },
     {
       "surface": "ואל",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "תחמלו",
-      "gloss": "mengasihani"
+      "gloss": "kamu tergerah"
     }
   ],
-  "timestamp": "2026-08-08T13:01:11.468866230Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:28:02.424944579Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 44,
-  "translation": "Dan sekarang, biarlah hambamu ini tinggal sebagai ganti ⟨הנער⟩ muda itu, sebagai hamba bagi tuanku, dan ⟨הנער⟩ muda itu naik bersama saudara-saudaranya.",
+  "translation": "Dan sekarang, biarlah hambamu ini, aku berdoa, tinggal menggantikan anak itu sebagai hamba bagi tuanku, dan biarlah anak itu naik bersama saudara-saudaranya.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ישב",
-      "gloss": "biarlah tinggal"
+      "gloss": "tinggal"
     },
     {
       "surface": "נא",
-      "gloss": "aku mohon"
+      "gloss": "aku berdoa"
     },
     {
       "surface": "עבדך",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "תחת",
-      "gloss": "sebagai ganti"
+      "gloss": "menggantikan"
     },
     {
       "surface": "הנער",
-      "gloss": "anak muda itu"
+      "gloss": "anak itu"
     },
     {
       "surface": "עבד",
-      "gloss": "sebagai hamba"
+      "gloss": "hamba"
     },
     {
       "surface": "לאדני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "והנער",
-      "gloss": "dan anak muda itu"
+      "gloss": "dan anak itu"
     },
     {
       "surface": "יעל",
@@ -56,6 +56,6 @@
       "gloss": "saudara-saudaranya"
     }
   ],
-  "timestamp": "2026-08-08T06:53:55.425541810Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:18:46.630574310Z",
+  "model": "glm-5.3"
 }

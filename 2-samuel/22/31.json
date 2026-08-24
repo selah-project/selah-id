@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 22,
-  "translation": "האל — sempurnah jalan-Nya; firman Yahweh tahan uji; ⟨dia⟩ perisai bagi semua yang berlindung pada-Nya.",
+  "translation": "El — sempurna jalan-Nya; ucapan Yahweh ⟨telah⟩ dimurnikan ⟨seperti logam⟩; ⟨Ia⟩ perisai bagi semua yang berlindung pada-Nya.",
   "tokens": [
     {
       "surface": "האל",
-      "gloss": "El ini"
+      "gloss": "El"
     },
     {
       "surface": "תמים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אמרת",
-      "gloss": "firman"
+      "gloss": "ucapan"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "צרופה",
-      "gloss": "tahan uji"
+      "gloss": "dimurnikan"
     },
     {
       "surface": "מגן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨dia⟩"
+      "gloss": "Ia"
     },
     {
       "surface": "לכל",
@@ -52,6 +52,6 @@
       "gloss": "pada-Nya"
     }
   ],
-  "timestamp": "2026-08-08T11:01:04.450888894Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:16.182551221Z",
+  "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 3,
-  "translation": "Biarkanlah aku lewat, sungguh, dan aku akan melihat ⟨את⟩ ⟨the⟩ negeri yang baik yang di seberang sungai Yarden, ⟨the⟩ gunung yang baik ini, dan ⟨the⟩ Levanon.",
+  "translation": "Biarkanlah aku menyeberang, aku minta, dan melihat ⟨את⟩ negeri yang baik yang di seberang sungai Yarden, gunung yang baik ini, dan ⟨את⟩ Levanon.",
   "tokens": [
     {
       "surface": "אעברה",
-      "gloss": "Biarkanlah aku lewat"
+      "gloss": "Biarkanlah aku menyeberang"
     },
     {
       "surface": "נא",
-      "gloss": "sungguh"
+      "gloss": "aku minta"
     },
     {
       "surface": "ואראה",
-      "gloss": "dan aku akan melihat"
+      "gloss": "dan melihat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "negeri"
+      "marks": "negeri yang baik"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ negeri"
+      "gloss": "negeri"
     },
     {
       "surface": "הטובה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ההר",
-      "gloss": "⟨the⟩ gunung"
+      "gloss": "gunung"
     },
     {
       "surface": "הטוב",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "והלבנון",
-      "gloss": "dan ⟨the⟩ Levanon"
+      "gloss": "dan Levanon"
     }
   ],
-  "timestamp": "2026-08-08T07:24:55.768716515Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:08.968906439Z",
+  "model": "glm-5.3"
 }

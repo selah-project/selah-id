@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 64,
-  "translation": "Untuk sang pemimpin ⟨⟨musik⟩⟩. Mizmor bagi Dawid.",
+  "translation": "Untuk pemimpin ⟨paduan⟩. Mizmor bagi Dawid.",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "Untuk sang pemimpin"
+      "gloss": "Untuk pemimpin ⟨paduan⟩"
     },
     {
       "surface": "מזמור",
@@ -20,6 +20,6 @@
       "gloss": "bagi Dawid"
     }
   ],
-  "timestamp": "2026-08-08T11:38:39.986665390Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:49.233933790Z",
+  "model": "glm-5.3"
 }

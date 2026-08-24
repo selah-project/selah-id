@@ -5,15 +5,15 @@
   "book": "haggai",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan Aku memanggil kekeringan atas ⟨הארץ⟩ bumi, dan atas gunung-gunung, dan atas biji-bijian, dan atas most baru, dan atas minyak, dan atas apa yang dikeluarkan ⟨האדמה⟩ tanah, dan atas manusia, dan atas ternak, dan atas segala jerih leih tangan.",
+  "translation": "Aku memanggil kemarau atas tanah itu, dan atas pegunungan, dan atas gandum, dan atas anggur baru, dan atas minyak, dan atas segala yang dikeluarkan tanah itu, dan atas manusia, dan atas hewan, dan atas segala jerih payah tangan.",
   "tokens": [
     {
       "surface": "ואקרא",
-      "gloss": "dan Aku memanggil"
+      "gloss": "Aku memanggil"
     },
     {
       "surface": "חרב",
-      "gloss": "kekeringan"
+      "gloss": "kemarau"
     },
     {
       "surface": "על",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "tanah itu"
     },
     {
       "surface": "ועל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ההרים",
-      "gloss": "gunung-gunung"
+      "gloss": "pegunungan"
     },
     {
       "surface": "ועל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הדגן",
-      "gloss": "biji-bijian"
+      "gloss": "gandum"
     },
     {
       "surface": "ועל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "התירוש",
-      "gloss": "most baru"
+      "gloss": "anggur baru"
     },
     {
       "surface": "ועל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "apa yang"
+      "gloss": "yang"
     },
     {
       "surface": "תוציא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "tanah"
+      "gloss": "tanah itu"
     },
     {
       "surface": "ועל",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "ternak"
+      "gloss": "hewan"
     },
     {
       "surface": "ועל",
@@ -97,13 +97,13 @@
     },
     {
       "surface": "יגיע",
-      "gloss": "jerih leih"
+      "gloss": "jerih payah"
     },
     {
       "surface": "כפים",
       "gloss": "tangan"
     }
   ],
-  "timestamp": "2026-08-08T09:04:03.606840600Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:26.661495753Z",
+  "model": "glm-5.3"
 }

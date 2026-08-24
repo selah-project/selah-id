@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "id",
   "chapter": 11,
-  "translation": "נפשׁ yang memberkati akan dibuat gemuk, dan orang yang memberi minum, juga dia sendiri akan diberi minum.",
+  "translation": "⟨Orang yang⟩ memberi berkat akan dijadikan berminyak ⟨dengan lemak⟩, dan yang mengairi, ia juga akan dihujani.",
   "tokens": [
     {
-      "surface": "נֶֽפֶשׁ",
-      "gloss": "napas"
+      "surface": "נפש",
+      "gloss": "⟨orang yang⟩ (jiwa)"
     },
     {
-      "surface": "בְּרָכָה",
-      "gloss": "berkat"
+      "surface": "ברכה",
+      "gloss": "memberi berkat"
     },
     {
-      "surface": "תְדֻשָּׁ֑ן",
-      "gloss": "akan dibuat gemuk"
+      "surface": "תדשן",
+      "gloss": "akan dijadikan berminyak ⟨dengan lemak⟩"
     },
     {
-      "surface": "וּמַרְוֶ֗ה",
-      "gloss": "dan yang memberi minum"
+      "surface": "ומרוה",
+      "gloss": "dan yang mengairi"
     },
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "juga"
     },
     {
-      "surface": "ה֥וּא",
-      "gloss": "dia"
+      "surface": "הוא",
+      "gloss": "ia"
     },
     {
-      "surface": "יוֹרֶֽא",
-      "gloss": "akan diberi minum"
+      "surface": "יורא",
+      "gloss": "akan dihujani"
     }
   ],
-  "timestamp": "2026-08-08T11:48:54.151400650Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:49.121411308Z",
+  "model": "glm-5.3"
 }

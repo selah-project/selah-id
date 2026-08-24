@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "id",
   "chapter": 3,
-  "translation": "Lalu ruh itu masuk ke dalamku dan membuatku berdiri di atas kakiku, dan ⟨הוא⟩ berbicara ⟨את⟩ aku, dan berkata kepadaku: Masuklah, kuncilah dirimu di tengah-tengah rumahmu.",
+  "translation": "Lalu roh itu masuk ke dalamku dan menegakkanku berdiri di atas kakiku, dan ia berbicara dengan ⟨את⟩ku serta berkata kepadaku: “Masuklah, kurunglah dirimu di tengah rumahmu.”",
   "tokens": [
     {
       "surface": "ותבא",
-      "gloss": "Lalu ... masuk"
+      "gloss": "Lalu … masuk"
     },
     {
       "surface": "בי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "רוח",
-      "gloss": "ruh"
+      "gloss": "roh"
     },
     {
       "surface": "ותעמדני",
-      "gloss": "dan membuatku berdiri"
+      "gloss": "dan menegakkanku berdiri"
     },
     {
       "surface": "על",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "dan ... berbicara"
+      "gloss": "dan ia berbicara"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "aku"
+      "marks": "aku (diriku)"
     },
     {
       "surface": "ויאמר",
-      "gloss": "dan ... berkata"
+      "gloss": "serta berkata"
     },
     {
       "surface": "אלי",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "הסגר",
-      "gloss": "kuncilah dirimu"
+      "gloss": "kurunglah dirimu"
     },
     {
       "surface": "בתוך",
-      "gloss": "di tengah-tengah"
+      "gloss": "di tengah"
     },
     {
       "surface": "ביתך",
       "gloss": "rumahmu"
     }
   ],
-  "timestamp": "2026-08-08T12:20:23.364341824Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:45.026615574Z",
+  "model": "glm-5.3"
 }

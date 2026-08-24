@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 22,
-  "translation": "Maka ayah ⟨הנער⟩ dan ibunya mengambil dan membawa keluar ⟨את⟩ tanda-tanda keperawanan ⟨הנער⟩ kepada para tua-tua kota, di pintu gerbang.",
+  "translation": "Maka ayah sang gadis itu dan ibunya mengambil dan membawa keluar ⟨את⟩ tanda-tanda kegadisan sang gadis itu kepada para tua-tua kota, ⟨di⟩ gerbang.",
   "tokens": [
     {
       "surface": "ולקח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנער",
-      "gloss": "⟨הנער⟩"
+      "gloss": "sang gadis"
     },
     {
       "surface": "ואמה",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanda-tanda keperawanan"
+      "marks": "tanda-tanda kegadisan sang gadis"
     },
     {
       "surface": "בתולי",
-      "gloss": "tanda-tanda keperawanan"
+      "gloss": "tanda-tanda kegadisan"
     },
     {
       "surface": "הנער",
-      "gloss": "⟨הנער⟩"
+      "gloss": "sang gadis"
     },
     {
       "surface": "אל",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "השערה",
-      "gloss": "di pintu gerbang"
+      "gloss": "gerbang"
     }
   ],
-  "timestamp": "2026-08-09T01:39:48.907221434Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:59.727984591Z",
+  "model": "glm-5.3"
 }

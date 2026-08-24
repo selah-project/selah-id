@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "id",
   "chapter": 17,
-  "translation": "Dan berkatalah ia kepada ibunya, “Seribu seratus ⟨satuan⟩ perak yang diambil darimu, ⟨tetapi⟩ aku yang kaukutuk, dan juga kaukatakan di telingaku, ‘Lihat, perak itu ada padaku; akulah yang mengambilnya.’” Dan berkatalah ibunya, “Diberkati anakku oleh Yahweh.”",
+  "translation": "Dan berkatalah ia kepada ibunya, “Seribu seratus ⟨satuan⟩ perak yang diambil darimu, ⟨tetapi⟩ aku yang kaukutuk, dan juga kaukatakan di telingaku, ‘Lihat, perak itu ⟨את⟩ ada padaku; akulah yang mengambilnya.’” Dan berkatalah ibunya, “Diberkati anakku oleh Yahweh.”",
   "tokens": [
     {
       "surface": "וַיֹּ֣אמֶר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אִתִּ֖י",
-      "gloss": "ada padaku"
+      "gloss": "⟨את⟩ ada padaku"
     },
     {
       "surface": "אֲנִ֣י",
@@ -100,6 +100,6 @@
       "gloss": "oleh Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T07:43:23.853541547Z",
+  "timestamp": "2026-08-24T17:55:27.104352108Z",
   "model": "glm-5.2"
 }

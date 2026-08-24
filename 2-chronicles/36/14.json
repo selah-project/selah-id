@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 36,
-  "translation": "Juga semua pemimpin imam-imam dan ⟨ה⟩ rakyat berbuat banyak perselingkuhan, menurut semua kekejangan bangsa-bangsa, sehingga mereka menajiskan ⟨את⟩ rumah Yahweh yang telah dikuduskan-Nya di Yerushalayim.",
+  "translation": "Juga semua pemimpin para imam dan umat itu berbuat banyak pelanggaran ⟨ma'al⟩ sesuai semua kekejian bangsa-bangsa, dan mereka menajiskan ⟨את⟩ rumah Yahweh yang telah dikuduskan-Nya di Yerushalayim.",
   "tokens": [
     {
       "surface": "גם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "imam-imam"
+      "gloss": "para imam"
     },
     {
       "surface": "והעם",
-      "gloss": "dan ⟨ה⟩ rakyat"
+      "gloss": "dan umat itu"
     },
     {
       "surface": "הרבו",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "למעול",
-      "gloss": "untuk berselingkuh"
+      "gloss": "pelanggaran ⟨ma'al⟩"
     },
     {
       "surface": "מעל",
-      "gloss": "berkhianat"
+      "gloss": "⟨ma'al⟩"
     },
     {
       "surface": "ככל",
-      "gloss": "menurut semua"
+      "gloss": "sesuai semua"
     },
     {
       "surface": "תעבות",
-      "gloss": "kekejangan"
+      "gloss": "kekejian"
     },
     {
       "surface": "הגוים",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "ויטמאו",
-      "gloss": "sehingga mereka menajiskan"
+      "gloss": "dan mereka menajiskan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rumah"
+      "marks": "rumah Yahweh"
     },
     {
       "surface": "בית",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "הקדיש",
-      "gloss": "telah dikuduskan-Nya"
+      "gloss": "dikuduskan-Nya"
     },
     {
       "surface": "בירושלם",
       "gloss": "di Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-08T10:18:24.568252244Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:02.544326046Z",
+  "model": "glm-5.3"
 }

@@ -5,102 +5,102 @@
   "book": "isaiah",
   "lang": "id",
   "chapter": 29,
-  "translation": "dan penglihatan semuanya telah menjadi bagimu seperti perkataan kitab yang tersegel, yang jika mereka memberikannya ⟨את⟩-nya kepada orang yang mengenal kitab, dengan berkata, “bacalah ini,” dan ⟨ia⟩ berkata, “aku tidak dapat, karena tersegel ⟨הוּא⟩.”",
+  "translation": "Dan penglihatan seluruhnya menjadi bagi kalian seperti perkataan kitab yang tersegel, yang apabila diberikan ⟨את⟩-nya kepada orang yang mengenal kitab, dengan berkata: “Bacalah ini, kiranya”; maka ia berkata: “Aku tidak dapat, sebab ia tersegel.”",
   "tokens": [
     {
-      "surface": "וַתְּהִ֨י",
-      "gloss": "dan telah menjadi"
+      "surface": "ותהי",
+      "gloss": "Dan telah menjadi"
     },
     {
-      "surface": "לָכֶ֜ם",
-      "gloss": "bagimu"
+      "surface": "לכם",
+      "gloss": "bagi kalian"
     },
     {
-      "surface": "חָז֣וּת",
+      "surface": "חזות",
       "gloss": "penglihatan"
     },
     {
-      "surface": "הַכֹּ֗ל",
-      "gloss": "semuanya"
+      "surface": "הכל",
+      "gloss": "seluruhnya"
     },
     {
-      "surface": "כְּדִבְרֵי֮",
+      "surface": "כדברי",
       "gloss": "seperti perkataan"
-    },
-    {
-      "surface": "הַסֵּ֣פֶר",
-      "gloss": "kitab"
-    },
-    {
-      "surface": "הֶֽחָתוּם֒",
-      "gloss": "yang tersegel"
-    },
-    {
-      "surface": "אֲשֶֽׁר",
-      "gloss": "yang"
-    },
-    {
-      "surface": "יִתְּנ֣וּ",
-      "gloss": "jika mereka memberikan"
-    },
-    {
-      "surface": "אֹת֗וֹ",
-      "gloss": "⟨את⟩-nya",
-      "marks": "kepada orang yang mengenal kitab"
-    },
-    {
-      "surface": "אֶל",
-      "gloss": "kepada"
-    },
-    {
-      "surface": "יוֹדֵ֥עַ",
-      "gloss": "orang yang mengenal"
     },
     {
       "surface": "הספר",
       "gloss": "kitab"
     },
     {
-      "surface": "לֵאמֹ֖ר",
+      "surface": "החתום",
+      "gloss": "yang tersegel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "apabila diberikan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kepada orang yang mengenal kitab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yang mengenal"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "לאמר",
       "gloss": "dengan berkata"
     },
     {
-      "surface": "קְרָ֣א",
-      "gloss": "bacalah"
+      "surface": "קרא",
+      "gloss": "Bacalah"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "זה",
       "gloss": "ini"
     },
     {
-      "surface": "זֶ֑ה",
-      "gloss": "ini"
+      "surface": "ואמר",
+      "gloss": "maka ia berkata"
     },
     {
-      "surface": "וְאָמַר֙",
-      "gloss": "dan ⟨ia⟩ berkata"
-    },
-    {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "אוּכַ֔ל",
+      "surface": "אוכל",
       "gloss": "dapat"
     },
     {
-      "surface": "כִּ֥י",
-      "gloss": "karena"
+      "surface": "כי",
+      "gloss": "sebab"
     },
     {
-      "surface": "חָת֖וּם",
+      "surface": "חתום",
       "gloss": "tersegel"
     },
     {
-      "surface": "הֽוּא",
-      "gloss": "⟨ia⟩"
+      "surface": "הוא",
+      "gloss": "ia"
     }
   ],
-  "timestamp": "2026-08-08T08:22:03.915741800Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:33:28.664853610Z",
+  "model": "glm-5.3"
 }

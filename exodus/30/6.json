@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 30,
-  "translation": "Dan engkau akan menempatkan ⟨אתו⟩ di hadapan tirai yang di atas aron ha-edut, di hadapan kaporet yang di atas ha-edut, di mana Aku akan menemui engkau di sana.",
+  "translation": "Dan engkau akan menaruhnya ⟨את⟩ di hadapan tirai yang ada di depan Aron ⟨ה⟩ ha-edut, di hadapan tutup pendamaian yang di atas ha-edut, tempat Aku akan bertemu dengan engkau di sana.",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "Dan engkau akan menempatkan"
+      "gloss": "Dan engkau akan menaruh"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "mezbah"
+      "marks": "dia (mezbah itu)"
     },
     {
       "surface": "לפני",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "על",
-      "gloss": "di atas"
+      "gloss": "di depan\/di atas"
     },
     {
       "surface": "ארן",
-      "gloss": "aron"
+      "gloss": "Aron (peti)"
     },
     {
       "surface": "העדת",
-      "gloss": "ha-edut"
+      "gloss": "ha-edut (kesaksian)"
     },
     {
       "surface": "לפני",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "kaporet"
+      "gloss": "tutup pendamaian"
     },
     {
       "surface": "אשר",
@@ -58,25 +58,25 @@
     },
     {
       "surface": "העדת",
-      "gloss": "ha-edut"
+      "gloss": "ha-edut (kesaksian)"
     },
     {
       "surface": "אשר",
-      "gloss": "di mana"
+      "gloss": "tempat"
     },
     {
       "surface": "אועד",
-      "gloss": "Aku akan menemui"
+      "gloss": "Aku akan bertemu"
     },
     {
       "surface": "לך",
-      "gloss": "engkau"
+      "gloss": "dengan engkau"
     },
     {
       "surface": "שמה",
       "gloss": "di sana"
     }
   ],
-  "timestamp": "2026-08-08T18:23:11.801213118Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:23.402722968Z",
+  "model": "glm-5.3"
 }

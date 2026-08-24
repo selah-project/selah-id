@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "id",
   "chapter": 27,
-  "translation": "Pada permulaan kerajaan Yehoyakim bin Yoasyahu, raja Yehudah, datanglah firman ini kepada Yirmeyah מאת Yahweh, yang berbunyi:",
+  "translation": "Pada permulaan kerajaan Yehoyakim bin Yosia, raja Yehudah, datanglah firman ini kepada Yeremia dari pada Yahweh, yang berbunyi:",
   "tokens": [
     {
       "surface": "בראשית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יאושיהו",
-      "gloss": "Yoasyahu"
+      "gloss": "Yosia"
     },
     {
       "surface": "מלך",
@@ -53,11 +53,12 @@
     },
     {
       "surface": "ירמיה",
-      "gloss": "Yirmeyah"
+      "gloss": "Yeremia"
     },
     {
       "surface": "מאת",
-      "gloss": "dari"
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -68,6 +69,6 @@
       "gloss": "yang berbunyi"
     }
   ],
-  "timestamp": "2026-08-08T08:36:26.993718941Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:27:15.567297306Z",
+  "model": "glm-5.3"
 }

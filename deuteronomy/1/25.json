@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "id",
   "chapter": 1,
-  "translation": "Dan mereka mengambil di tangan mereka dari buah ⟨ה⟩ negeri itu, lalu menurunkannya kepada kami, dan mengembalikan kepada kami ⟨את⟩ perkataan, serta berkata: “Baik ⟨ה⟩ negeri yang Yahweh Elohim kami berikan kepada kami.”",
+  "translation": "Lalu mereka mengambil dengan tangan mereka dari buah negeri itu, dan membawanya turun kepada kami, lalu membawa kembali kepada kami ⟨את⟩ perkataan, dan berkata: “Baik negeri itu yang Yahweh Elohim kami berikan kepada kami.”",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "Dan mereka mengambil"
+      "gloss": "Lalu mereka mengambil"
     },
     {
       "surface": "בידם",
-      "gloss": "di tangan mereka"
+      "gloss": "dengan tangan mereka"
     },
     {
       "surface": "מפרי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויורדו",
-      "gloss": "lalu menurunkannya"
+      "gloss": "dan membawanya turun"
     },
     {
       "surface": "אלינו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "dan mengembalikan"
+      "gloss": "lalu membawa kembali"
     },
     {
       "surface": "אתנו",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "kepada kami perkataan"
+      "gloss": "perkataan"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "serta berkata"
+      "gloss": "dan berkata"
     },
     {
       "surface": "טובה",
@@ -77,6 +77,6 @@
       "gloss": "kepada kami"
     }
   ],
-  "timestamp": "2026-08-08T07:24:24.764149188Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:22:07.742848193Z",
+  "model": "glm-5.3"
 }

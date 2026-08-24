@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan di atas mezbah emas mereka akan membentangkan kain tekhelet, dan mereka akan menutupinya dengan tutupan kuluh takhash, dan mereka akan memasanang ⟨את│ kayu-kayu pengangkutnya.",
+  "translation": "Dan di atas mezbah emas itu mereka membentangkan kain biru tua, lalu menutupinya ⟨את⟩ ⟨אתו⟩ dengan tudung kulit takhash, dan memasang ⟨את⟩ palang-palangnya.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "dan di atas"
+      "gloss": "Dan di atas"
     },
     {
       "surface": "מזבח",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יפרשו",
-      "gloss": "mereka akan membentangkan"
+      "gloss": "mereka membentangkan"
     },
     {
       "surface": "בגד",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "תכלת",
-      "gloss": "tekhelet"
+      "gloss": "biru tua"
     },
     {
       "surface": "וכסו",
-      "gloss": "dan mereka akan menutupi"
+      "gloss": "lalu menutupinya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩nya",
-      "marks": "ia"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "menutupi mezbah emas"
     },
     {
       "surface": "במכסה",
-      "gloss": "dengan tutupan"
+      "gloss": "dengan tudung"
     },
     {
       "surface": "עור",
@@ -54,18 +54,18 @@
     },
     {
       "surface": "ושמו",
-      "gloss": "dan mereka akan memasang"
+      "gloss": "dan memasang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kayu-kayu pengangkutnya"
+      "marks": "palang-palangnya"
     },
     {
       "surface": "בדיו",
-      "gloss": "kayu-kayu pengangkutnya"
+      "gloss": "palang-palangnya"
     }
   ],
-  "timestamp": "2026-08-08T07:14:28.991408429Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.228406991Z",
+  "model": "glm-5.3"
 }

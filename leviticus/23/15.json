@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "id",
   "chapter": 23,
-  "translation": "Dan kamu akan menghitung bagi kamu dari hari sesudah ⟨ה⟩ shabbat, dari hari kamu membawa ⟨את⟩ omer persembahan unjukan: tujuh shabbat yang sempurna ⟨mereka⟩ akan menjadi.",
+  "translation": "Dan kamu akan menghitung bagi kamu mulai dari keesokan harinya setelah hari shabbat, dari hari ketika kamu membawa ⟨את⟩ omer persembahan unjukan: tujuh shabbat haruslah sempurna.",
   "tokens": [
     {
       "surface": "וספרתם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ממחרת",
-      "gloss": "dari hari sesudah"
+      "gloss": "mulai dari keesokan harinya"
     },
     {
       "surface": "השבת",
-      "gloss": "⟨ה⟩ shabbat"
+      "gloss": "setelah hari shabbat"
     },
     {
       "surface": "מיום",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הביאכם",
-      "gloss": "kamu membawa"
+      "gloss": "ketika kamu membawa"
     },
     {
       "surface": "את",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "תמימת",
-      "gloss": "yang sempurna"
+      "gloss": "sempurna"
     },
     {
       "surface": "תהיינה",
-      "gloss": "mereka akan menjadi"
+      "gloss": "haruslah"
     }
   ],
-  "timestamp": "2026-08-08T10:38:25.517415204Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:07.066695236Z",
+  "model": "glm-5.3"
 }

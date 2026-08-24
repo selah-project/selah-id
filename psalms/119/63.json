@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 119,
-  "translation": "Aku ⟨⟨adalah⟩⟩ sahabat bagi semua yang takut akan Engkau, dan bagi para penjaga pi-pik-Mu.",
+  "translation": "Aku ⟨adalah⟩ teman bergabung bagi semua orang yang takut akan Engkau, dan bagi yang memelihara piqqudim-Mu.",
   "tokens": [
     {
-      "surface": "חָבֵ֣ר",
-      "gloss": "sahabat"
+      "surface": "חבר",
+      "gloss": "teman bergabung"
     },
     {
-      "surface": "אָ֭נִי",
+      "surface": "אני",
       "gloss": "aku"
     },
     {
-      "surface": "לְכָל",
+      "surface": "לכל",
       "gloss": "bagi semua"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "yang"
     },
     {
-      "surface": "יְרֵא֑וּךָ",
+      "surface": "יראוך",
       "gloss": "takut akan Engkau"
     },
     {
-      "surface": "וּ֝לְשֹׁמְרֵ֗י",
-      "gloss": "dan bagi para penjaga"
+      "surface": "ולשמרי",
+      "gloss": "dan bagi yang memelihara"
     },
     {
-      "surface": "פִּקּוּדֶֽיךָ",
-      "gloss": "pi-pik-Mu"
+      "surface": "פקודיך",
+      "gloss": "piqqudim-Mu"
     }
   ],
-  "timestamp": "2026-08-08T09:26:55.966888351Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:10.491663705Z",
+  "model": "glm-5.3"
 }

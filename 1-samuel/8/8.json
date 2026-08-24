@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "id",
   "chapter": 8,
-  "translation": "Sesuai dengan segala perbuatan yang mereka lakukan sejak hari Aku menaikkan ⟨אתם⟩ mereka dari Mitsrayim dan sampai hari ini, mereka meninggalkan Aku dan menyembah elohim lain — demikianlah mereka perbuat juga kepadamu.",
+  "translation": "Sesuai dengan segala perbuatan yang mereka lakukan sejak hari Aku menaikkan ⟨את⟩ mereka dari Mitsrayim (Mesir) sampai hari ini: mereka meninggalkan Aku dan mereka menyembah elohim lain — demikianlah mereka perbuat juga kepadamu.",
   "tokens": [
     {
       "surface": "ככל",
-      "gloss": "sesuai dengan segala"
+      "gloss": "Sesuai dengan segala"
     },
     {
       "surface": "המעשים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "העלתי",
-      "gloss": "Aku menaikkan"
+      "gloss": "Ku naikkan"
     },
     {
       "surface": "אתם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "dan sampai"
+      "gloss": "sampai"
     },
     {
       "surface": "היום",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ויעבדו",
-      "gloss": "dan menyembah"
+      "gloss": "mereka menyembah"
     },
     {
       "surface": "אלהים",
@@ -89,6 +89,6 @@
       "gloss": "kepadamu"
     }
   ],
-  "timestamp": "2026-08-08T07:46:14.775573641Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:23:46.051615172Z",
+  "model": "glm-5.3"
 }

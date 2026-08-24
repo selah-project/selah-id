@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 38,
-  "translation": "Lalu ia bertanya kepada ⟨את⟩ orang-orang tempatnya, katanya, “Di mana ⟨ה⟩ qedesyah itu, dia ⟨di⟩ Enayim, di ⟨ה⟩ jalan?” Dan mereka berkata, “Tidak ada di tempat ini qedesyah.”",
+  "translation": "Lalu ia bertanya kepada ⟨את⟩ orang-orang dari tempat itu, katanya: “Di manakah pelacur kuil itu, dia yang ⟨ada⟩ di Enayim, di tepi jalan?” Tetapi mereka berkata: “Tidak pernah ada pelacur kuil di tempat ini.”",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "dan ia bertanya"
+      "gloss": "Lalu ia bertanya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "orang-orang tempatnya"
+      "marks": "orang-orang dari tempat itu"
     },
     {
       "surface": "אנשי",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "מקמה",
-      "gloss": "tempatnya"
+      "gloss": "dari tempatnya"
     },
     {
       "surface": "לאמר",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "איה",
-      "gloss": "di mana"
+      "gloss": "Di manakah"
     },
     {
       "surface": "הקדשה",
-      "gloss": "⟨ה⟩ qedesyah"
+      "gloss": "pelacur kuil itu"
     },
     {
       "surface": "הוא",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "על",
-      "gloss": "di"
+      "gloss": "di tepi"
     },
     {
       "surface": "הדרך",
-      "gloss": "⟨ה⟩ jalan"
+      "gloss": "jalan"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "dan mereka berkata"
+      "gloss": "Tetapi mereka berkata"
     },
     {
       "surface": "לא",
-      "gloss": "tidak"
+      "gloss": "Tidak"
     },
     {
       "surface": "היתה",
-      "gloss": "ada"
+      "gloss": "pernah ada"
     },
     {
       "surface": "בזה",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "קדשה",
-      "gloss": "qedesyah"
+      "gloss": "pelacur kuil"
     }
   ],
-  "timestamp": "2026-08-08T06:52:14.525092782Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:17:43.042685501Z",
+  "model": "glm-5.3"
 }

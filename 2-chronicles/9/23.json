@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 9,
-  "translation": "Dan segala raja ⟨di⟩ bumi mencari ⟨את⟩ hadapan Shelomo, untuk mendengar ⟨את⟩ hikmatnya yang diberikan ⟨הָאֱלֹהִים⟩ di dalam hatinya.",
+  "translation": "Dan segala raja bumi mencari ⟨את⟩ wajah Shelomoh untuk mendengar ⟨את⟩ hikmatnya yang diberikan Elohim ke dalam hatinya.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "dan segala"
+      "gloss": "Dan segala"
     },
     {
       "surface": "מלכי",
-      "gloss": "raja-"
+      "gloss": "raja"
     },
     {
       "surface": "הארץ",
@@ -26,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hadapan Shelomo"
+      "marks": "wajah Shelomoh"
     },
     {
       "surface": "פני",
-      "gloss": "hadapan"
+      "gloss": "wajah"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "לשמע",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "בלבו",
-      "gloss": "di dalam hatinya"
+      "gloss": "ke dalam hatinya"
     }
   ],
-  "timestamp": "2026-08-08T10:12:26.591524351Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:36.083212605Z",
+  "model": "glm-5.3"
 }

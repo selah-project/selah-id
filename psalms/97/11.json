@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 97,
-  "translation": "Cahaya ditaburkan bagi orang benar, dan bagi yang lurus hati ⟨⟨adalah⟩⟩ sukacita.",
+  "translation": "Terang ditaburkan bagi ⟨ה⟩ orang benar, dan bagi orang yang lurus hatinya ⟨adalah⟩ sukacita.",
   "tokens": [
     {
       "surface": "אור",
-      "gloss": "cahaya"
+      "gloss": "Terang"
     },
     {
       "surface": "זרע",
@@ -20,18 +20,18 @@
       "gloss": "bagi orang benar"
     },
     {
-      "surface": "ולישרי",
-      "gloss": "dan bagi yang lurus"
+      "surface": "ו לישרי",
+      "gloss": "dan bagi orang yang lurus"
     },
     {
       "surface": "לב",
-      "gloss": "hati"
+      "gloss": "hatinya"
     },
     {
       "surface": "שמחה",
       "gloss": "sukacita"
     }
   ],
-  "timestamp": "2026-08-08T11:45:01.225110400Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:34.572565978Z",
+  "model": "glm-5.3"
 }

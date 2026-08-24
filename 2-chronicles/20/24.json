@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan Yehuda datang ke ⟨the⟩ menara pengawas ⟨ke⟩ padang gurun, dan mereka menghadap ke ⟨the⟩ kumpulan ⟨pasukan⟩, dan lihat, mereka ⟨adalah⟩ mayat-mayat yang jatuh ke tanah, dan tidak ada ⟨yang⟩ lolos.",
+  "translation": "Dan Yehudah datang ke ha-mitspeh di padang gurun, lalu mereka memandang ke arah kerumunan itu, dan lihatlah — ⟨adalah⟩ mayat-mayat yang tergeletak ke bumi, dan tidak ada yang terluput.",
   "tokens": [
     {
       "surface": "ויהודה",
-      "gloss": "Dan Yehuda"
+      "gloss": "Dan Yehudah"
     },
     {
       "surface": "בא",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "המצפה",
-      "gloss": "menara pengawas"
+      "gloss": "ha-mitspeh"
     },
     {
       "surface": "למדבר",
-      "gloss": "padang gurun"
+      "gloss": "di padang gurun"
     },
     {
       "surface": "ויפנו",
-      "gloss": "dan mereka menghadap"
+      "gloss": "lalu mereka memandang"
     },
     {
       "surface": "אל",
-      "gloss": "ke"
+      "gloss": "ke arah"
     },
     {
       "surface": "ההמון",
-      "gloss": "kumpulan"
+      "gloss": "kerumunan itu"
     },
     {
       "surface": "והנם",
-      "gloss": "dan lihat mereka"
+      "gloss": "dan lihatlah"
     },
     {
       "surface": "פגרים",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "נפלים",
-      "gloss": "yang jatuh"
+      "gloss": "tergeletak"
     },
     {
       "surface": "ארצה",
-      "gloss": "ke tanah"
+      "gloss": "ke bumi"
     },
     {
       "surface": "ואין",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "פליטה",
-      "gloss": "yang lolos"
+      "gloss": "yang terluput"
     }
   ],
-  "timestamp": "2026-08-08T10:14:56.548490325Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:17.983795778Z",
+  "model": "glm-5.3"
 }

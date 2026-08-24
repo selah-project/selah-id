@@ -5,62 +5,66 @@
   "book": "lamentations",
   "lang": "id",
   "chapter": 4,
-  "translation": "Bergembiralah dan bersukacitalah, putri Edom, ⟨⟨oh⟩⟩ penduduk tanah Utz; juga ke atasmu ⟨את⟩ piala itu akan lewat, engkau akan mabuk dan menelanjangi dirimu.",
+  "translation": "Bersukarialah dan bergembiralah, hai bats Edom, yang diam di tanah Utz; juga atasmu akan melintas ⟨את⟩ pelangi murka — engkau akan mabuk dan akan menelanjangi dirimu.",
   "tokens": [
     {
-      "surface": "שִׂישִׂי",
-      "gloss": "bergembiralah"
+      "surface": "שישי",
+      "gloss": "Bersukarialah"
     },
     {
-      "surface": "וְשִׂמְחִי",
-      "gloss": "dan bersukacitalah"
+      "surface": "ושמחי",
+      "gloss": "dan bergembiralah"
     },
     {
-      "surface": "בַּת",
-      "gloss": "putri"
+      "surface": "בת",
+      "gloss": "bats"
     },
     {
-      "surface": "אֱדוֹם",
+      "surface": "אדום",
       "gloss": "Edom"
     },
     {
       "surface": "יושבתי",
-      "gloss": "penduduk"
+      "gloss": "yang diam"
     },
     {
-      "surface": "בְּאֶרֶץ",
+      "surface": "בארץ",
       "gloss": "di tanah"
     },
     {
-      "surface": "עוּץ",
+      "surface": "עוץ",
       "gloss": "Utz"
     },
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "juga"
     },
     {
-      "surface": "עָלַיִךְ",
-      "gloss": "ke atasmu"
+      "surface": "עליך",
+      "gloss": "atasmu"
     },
     {
-      "surface": "תַּעֲבָר",
-      "gloss": "akan lewat"
+      "surface": "תעבר",
+      "gloss": "akan melintas"
     },
     {
-      "surface": "כּוֹס",
-      "gloss": "⟨את⟩ piala itu",
-      "marks": "piala"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelangi murka"
     },
     {
-      "surface": "תִּשְׁכְּרִי",
+      "surface": "כוס",
+      "gloss": "pelangi murka"
+    },
+    {
+      "surface": "תשכרי",
       "gloss": "engkau akan mabuk"
     },
     {
-      "surface": "וְתִתְעָרִי",
-      "gloss": "dan menelanjangi dirimu"
+      "surface": "ותתערי",
+      "gloss": "dan akan menelanjangi dirimu"
     }
   ],
-  "timestamp": "2026-08-08T09:48:52.560478727Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:31:25.392806630Z",
+  "model": "glm-5.3"
 }

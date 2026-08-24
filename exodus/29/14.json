@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 29,
-  "translation": "Tetapi ⟨את⟩ daging lembu jantan itu dan ⟨את⟩ kulitnya dan ⟨את⟩ kotorannya engkau akan bakar dengan api di luar perkemahan; ⟨הוא⟩ korban penghapus dosa.",
+  "translation": "Tetapi ⟨את⟩ daging lembu itu, dan ⟨את⟩ kulitnya, dan ⟨את⟩ kotorannya, kau bakar dalam api di luar perkemahan; korban penghapus dosa ⟨ialah⟩.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Tetapi ⟨את⟩",
-      "marks": "daging lembu jantan itu"
+      "gloss": "⟨את⟩",
+      "marks": "daging lembu itu"
     },
     {
       "surface": "בשר",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "הפר",
-      "gloss": "lembu jantan itu"
+      "gloss": "lembu itu"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "kulitnya"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "kotorannya"
     },
     {
@@ -40,11 +40,11 @@
     },
     {
       "surface": "תשרף",
-      "gloss": "engkau akan bakar"
+      "gloss": "kau bakar"
     },
     {
       "surface": "באש",
-      "gloss": "dengan api"
+      "gloss": "dalam api"
     },
     {
       "surface": "מחוץ",
@@ -60,9 +60,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ia⟩"
+      "gloss": "ialah"
     }
   ],
-  "timestamp": "2026-08-08T10:31:42.324912297Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:14.261076991Z",
+  "model": "glm-5.3"
 }

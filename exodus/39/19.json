@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 39,
-  "translation": "Dan mereka membuat dua cincin emas dan meletakkannya pada dua ujung ⟨ה⟩ baju zirah, pada tepinya yang di sisi ⟨ה⟩ efod di sebelah dalam.",
+  "translation": "Dan mereka membuat dua cincin emas, dan mereka menaruhnya pada dua ujung baju zadah, pada tepinya yang di sisi sebelah dalam efod.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "dan mereka membuat"
+      "gloss": "Dan mereka membuat"
     },
     {
       "surface": "שתי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וישימו",
-      "gloss": "dan mereka meletakkan"
+      "gloss": "dan mereka menaruhnya"
     },
     {
       "surface": "על",
@@ -41,7 +41,8 @@
     },
     {
       "surface": "החשן",
-      "gloss": "⟨ה⟩ baju zirah"
+      "gloss": "baju zadah",
+      "marks": "baju zadah"
     },
     {
       "surface": "על",
@@ -65,13 +66,13 @@
     },
     {
       "surface": "האפד",
-      "gloss": "⟨ה⟩ efod"
+      "gloss": "efod"
     },
     {
       "surface": "ביתה",
-      "gloss": "ke sebelah dalam"
+      "gloss": "sebelah dalam"
     }
   ],
-  "timestamp": "2026-08-08T10:33:01.286979651Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:55:27.147787659Z",
+  "model": "glm-5.3"
 }

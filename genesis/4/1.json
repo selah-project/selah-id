@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan ⟨ha⟩adam mengenal ⟨את⟩ Chavvah istrinya, dan ⟨ia⟩ mengandung dan melahirkan ⟨את⟩ Qayin, dan ⟨ia⟩ berkata: “Kuqani sebuah laki-laki ⟨bersama⟩ Yahweh.”",
+  "translation": "Dan ⟨ha⟩adam mengenal ⟨את⟩ Chavvah istrinya, dan ⟨ia⟩ mengandung dan melahirkan ⟨את⟩ Qayin, dan ⟨ia⟩ berkata: “Kuqani sebuah laki-laki ⟨את⟩ ⟨bersama⟩ Yahweh.”",
   "tokens": [
     {
       "surface": "והאדם",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨bersama⟩",
+      "gloss": "⟨את⟩ ⟨bersama⟩",
       "marks": "Yahweh"
     },
     {
@@ -67,6 +67,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-08T10:19:00.203784509Z",
+  "timestamp": "2026-08-24T17:55:27.074625720Z",
   "model": "glm-5.2"
 }

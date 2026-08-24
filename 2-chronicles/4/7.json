@@ -5,16 +5,16 @@
   "book": "2-chronicles",
   "lang": "id",
   "chapter": 4,
-  "translation": "Dan ia membuat ⟨את⟩ sepuluh kandil emas menurut peraturan mereka, dan ia menempatkan di ⟨the⟩ heikal lima di sebelah kanan dan lima di sebelah kiri.",
+  "translation": "Lalu ia membuat sepuluh kandil emas menurut peraturan mereka, dan ia menempatkannya di ⟨היכל⟩ itu, lima di sebelah kanan dan lima di sebelah kiri.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Dan ia membuat"
+      "gloss": "Lalu ia membuat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kandil"
+      "marks": "sepuluh kandil emas"
     },
     {
       "surface": "מנרות",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "dan ia menempatkan"
+      "gloss": "dan ia menempatkannya"
     },
     {
       "surface": "בהיכל",
-      "gloss": "di heikal"
+      "gloss": "di ⟨היכל⟩ itu"
     },
     {
       "surface": "חמש",
@@ -57,6 +57,6 @@
       "gloss": "di sebelah kiri"
     }
   ],
-  "timestamp": "2026-08-08T12:04:50.841391661Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:32:33.577302561Z",
+  "model": "glm-5.3"
 }

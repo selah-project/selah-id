@@ -5,40 +5,40 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 39,
-  "translation": "⟨את⟩ aron kesaksitan itu dan ⟨את│ tiang-tiangnya, dan ⟨את⟩ tutup pendamaian itu.",
+  "translation": "⟨את⟩ tabut kesaksian dan ⟨את⟩ kayu pengusungnya, dan ⟨את⟩ tutup pendamaian;",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aron kesaksitan itu"
+      "marks": "tabut kesaksian"
     },
     {
       "surface": "ארן",
-      "gloss": "aron"
+      "gloss": "tabut"
     },
     {
       "surface": "העדת",
-      "gloss": "kesaksitan itu"
+      "gloss": "kesaksian"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "tiang-tiangnya"
+      "gloss": "⟨את⟩",
+      "marks": "kayu pengusungnya"
     },
     {
       "surface": "בדיו",
-      "gloss": "tiang-tiangnya"
+      "gloss": "kayu pengusungnya"
     },
     {
       "surface": "ואת",
-      "gloss": "dan ⟨את⟩",
-      "marks": "tutup pendamaian itu"
+      "gloss": "⟨את⟩",
+      "marks": "tutup pendamaian"
     },
     {
       "surface": "הכפרת",
-      "gloss": "tutup pendamaian itu"
+      "gloss": "tutup pendamaian"
     }
   ],
-  "timestamp": "2026-08-08T07:06:26.421654875Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:39.119257975Z",
+  "model": "glm-5.3"
 }

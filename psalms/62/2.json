@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "id",
   "chapter": 62,
-  "translation": "Hanya kepada Elohim ⟨⟨diamlah⟩⟩ nafsu hidupku; dari pada-Nya ⟨is⟩ keselamatanku.",
+  "translation": "Hanya kepada Elohim saja jiwaku diam; dari pada-Nya ⟨adalah⟩ keselamatanku.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Hanya"
+      "gloss": "hanya"
     },
     {
       "surface": "אל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "דומיה",
-      "gloss": "⟨diamlah⟩"
+      "gloss": "diam"
     },
     {
       "surface": "נפשי",
-      "gloss": "nafsu hidupku"
+      "gloss": "jiwaku"
     },
     {
       "surface": "ממנו",
@@ -36,6 +36,6 @@
       "gloss": "keselamatanku"
     }
   ],
-  "timestamp": "2026-08-08T12:23:32.525487089Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:29:41.754355582Z",
+  "model": "glm-5.3"
 }

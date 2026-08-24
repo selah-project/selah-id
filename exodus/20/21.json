@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "id",
   "chapter": 20,
-  "translation": "Dan berdirilah ⟨the⟩ bangsa itu dari jauh, dan Mosheh mendekat kepada ⟨the⟩ kegelapan tebal, di mana di sana ⟨the⟩ Elohim berada.",
+  "translation": "Dan bangsa itu berdiri dari jauh, sedang Moshe mendekat kepada kegelapan gulita yang di sana ⟨adalah⟩ Elohim.",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "dan berdirilah"
+      "gloss": "berdiri"
     },
     {
       "surface": "העם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ומשה",
-      "gloss": "dan Mosheh"
+      "gloss": "sedang Moshe"
     },
     {
       "surface": "נגש",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הערפל",
-      "gloss": "kegelapan tebal"
+      "gloss": "kegelapan gulita"
     },
     {
       "surface": "אשר",
-      "gloss": "di mana"
+      "gloss": "yang"
     },
     {
       "surface": "שם",
@@ -48,6 +48,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-08T07:00:09.124280524Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:19:03.472795619Z",
+  "model": "glm-5.3"
 }

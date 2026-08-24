@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "id",
   "chapter": 6,
-  "translation": "Maka turunlah mereka kepadanya, lalu Elisha berdoa kepada Yahweh dan berkata, “Pukullah ⟨את⟩ bangsa ini dengan kebutaan.” Dan ⟨הוא⟩ memukuli mereka dengan kebutaan sesuai firman Elisha.",
+  "translation": "Dan ketika mereka turun kepadanya, Elisha berdoa kepada Yahweh dan berkata, “Pukullah kiranya ⟨את⟩ bangsa ini dengan kebutaan.” Maka Ia memukul mereka dengan kebutaan, sesuai perkataan Elisha.",
   "tokens": [
     {
       "surface": "וירדו",
-      "gloss": "Maka turunlah"
+      "gloss": "Dan ketika mereka turun"
     },
     {
       "surface": "אליו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויתפלל",
-      "gloss": "lalu berdoa"
+      "gloss": "berdoa"
     },
     {
       "surface": "אלישע",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "mohon"
+      "gloss": "kiranya"
     },
     {
       "surface": "את",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ויכם",
-      "gloss": "Dan memukuli"
+      "gloss": "Maka Ia memukul mereka"
     },
     {
       "surface": "בסנורים",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "sesuai firman"
+      "gloss": "sesuai perkataan"
     },
     {
       "surface": "אלישע",
       "gloss": "Elisha"
     }
   ],
-  "timestamp": "2026-08-08T08:10:07.744079256Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:25:09.293914802Z",
+  "model": "glm-5.3"
 }

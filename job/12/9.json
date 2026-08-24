@@ -5,50 +5,49 @@
   "book": "job",
   "lang": "id",
   "chapter": 12,
-  "translation": "Siapa yang tidak mengetahui di antara semua ini, bahwa tangan Yahweh yang membuat ⟨זֹאת⟩ ini?",
+  "translation": "Siapa yang tidak mengetahui di antara semuanya ini, bahwa tangan Yahweh yang telah membuat ⟨ini⟩?",
   "tokens": [
     {
-      "surface": "מִ֭י",
-      "gloss": "siapa"
+      "surface": "מי",
+      "gloss": "Siapa"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "tidak"
     },
     {
-      "surface": "יָדַ֣ע",
+      "surface": "ידע",
       "gloss": "mengetahui"
     },
     {
-      "surface": "בְּכָל",
-      "gloss": "di antara semua"
+      "surface": "בכל",
+      "gloss": "di antara semuanya"
     },
     {
-      "surface": "אֵ֑לֶּה",
+      "surface": "אלה",
       "gloss": "ini"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "bahwa"
     },
     {
-      "surface": "יַד",
+      "surface": "יד",
       "gloss": "tangan"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "עָ֣שְׂתָה",
-      "gloss": "membuat"
+      "surface": "עשתה",
+      "gloss": "telah membuat"
     },
     {
-      "surface": "זֹּֽאת",
-      "gloss": "⟨זֹאת⟩ ini",
-      "marks": "ini"
+      "surface": "זאת",
+      "gloss": "⟨ini⟩"
     }
   ],
-  "timestamp": "2026-08-08T09:39:12.106636449Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:30:49.298356367Z",
+  "model": "glm-5.3"
 }

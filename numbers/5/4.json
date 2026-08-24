@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "id",
   "chapter": 5,
-  "translation": "Maka bani Yisrael berbuat demikian, dan mereka menyuruh ⟨את⟩ mereka keluar ke luar ⟨ה⟩ perkemahan; seperti yang difirmankan Yahweh kepada Moshe, demikianlah diperbuat bani Yisrael.",
+  "translation": "Maka bani Yisrael berbuat demikian, dan mereka menyuruh ⟨את⟩ mereka keluar ke luar kemah; seperti yang difirmankan Yahweh kepada Moshe, demikianlah dilakukan bani Yisrael.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "maka berbuatlah"
+      "gloss": "berbuat"
     },
     {
       "surface": "כן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וישלחו",
-      "gloss": "dan mereka menyuruh"
+      "gloss": "menyuruh keluar"
     },
     {
       "surface": "אותם",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "keluar ke"
+      "gloss": "ke"
     },
     {
       "surface": "מחוץ",
-      "gloss": "luar"
+      "gloss": "luuar"
     },
     {
       "surface": "למחנה",
-      "gloss": "⟨ה⟩ perkemahan"
+      "gloss": "kemah"
     },
     {
       "surface": "כאשר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "difirmankan"
+      "gloss": "firmankan"
     },
     {
       "surface": "יהוה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "diperbuat"
+      "gloss": "dilakukan"
     },
     {
       "surface": "בני",
@@ -81,6 +81,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-08T23:15:26.860809986Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:21:40.999301093Z",
+  "model": "glm-5.3"
 }

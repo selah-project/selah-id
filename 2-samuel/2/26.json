@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "id",
   "chapter": 2,
-  "translation": "Lalu Avner berseru kepada Yoav, dan berkata: “Apakah selamanya pedang akan memakan? Tidakkah engkau tahu bahwa pahit ⟨ia⟩ akan menjadi pada akhirnya? Dan sampai kapan tidak akan engkau katakan kepada ⟨העם⟩ untuk berbalik dari belakang saudara-saudara mereka?”",
+  "translation": "Lalu Avner berseru kepada Yoav dan berkata, “Apakah pedang akan memakan terus ⟨selamanya⟩? Tidakkah engkau tahu bahwa akhirnya akan menjadi pahit? Dan sampai kapan engkau tidak mengatakan kepada ⟨את⟩ orang itu untuk berbalik dari menyusul saudara-saudara mereka?”",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Lalu berseru"
+      "gloss": "berseru"
     },
     {
       "surface": "אבנר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הלנצח",
-      "gloss": "Apakah selamanya"
+      "gloss": "apakah selamanya"
     },
     {
       "surface": "תאכל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "Tidakkah"
+      "gloss": "tidakkah"
     },
     {
       "surface": "ידעתה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "Dan sampai"
+      "gloss": "dan sampai"
     },
     {
       "surface": "מתי",
@@ -77,11 +77,12 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "akan engkau katakan"
+      "gloss": "engkau mengatakan"
     },
     {
-      "surface": "לעם",
-      "gloss": "kepada ⟨העם⟩"
+      "surface": "לא",
+      "gloss": "⟨את⟩",
+      "marks": "orang itu"
     },
     {
       "surface": "לשוב",
@@ -89,13 +90,13 @@
     },
     {
       "surface": "מאחרי",
-      "gloss": "dari belakang"
+      "gloss": "dari menyusul"
     },
     {
       "surface": "אחיהם",
       "gloss": "saudara-saudara mereka"
     }
   ],
-  "timestamp": "2026-08-08T10:57:54.133310461Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:24:17.930081912Z",
+  "model": "glm-5.3"
 }
