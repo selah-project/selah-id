@@ -63,3 +63,8 @@ dan atribusi. Tim pemelihara menimbang usulan terhadap bahasa
 Ibrani, konvensi, sumber, dan penyelarasan — dapat menerima,
 memoles bersama, menunggu dasar lebih banyak, atau menolak dengan
 alasan. Kritiklah bacaan, bukan orangnya.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
