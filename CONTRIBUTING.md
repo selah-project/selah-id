@@ -13,7 +13,7 @@ dari usulan.
 - Bukalah **pull request** bila kekeliruan dan penggantinya
   sudah jelas.
 - Untuk bug aplikasi, atau soal keamanan/akun/privasi, gunakan
-  [dukungan Selah](https://selahproject.com/support).
+  [dukungan Selah](https://s33k3r.com/learn/support).
 
 ## Yang perlu disertakan
 
